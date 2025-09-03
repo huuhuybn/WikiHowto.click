@@ -1,0 +1,234 @@
+{
+  "lang": "tr",
+  "lang_name": "Türkçe",
+  "title": "TIFF'den JPG'ye Dönüştürücü - Ücretsiz & Çevrimiçi | WikiHowTo.click",
+  "sub_title": "TIFF görüntülerini çevrimiçi olarak yüksek kalitede, daha küçük dosya boyutlarıyla ve su işareti olmadan JPG formatına dönüştürün.",
+  "hint": "Dönüştürmeye başlamak için TIFF görüntünüzü yükleyin...",
+  "btn_download": "JPG'ye Dönüştür",
+  "btn_paste": "TIFF Yükle",
+  "btn_clear": "Temizle",
+  "ogImage": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+  "converter": {
+    "type": "tiff-to-jpg",
+    "inputFormat": "TIFF",
+    "outputFormat": "JPG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/tiff"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/jpeg",
+    "outputExtension": ".jpg",
+    "quality": 90,
+    "options": {
+      "jpeg": {
+        "quality": 90,
+        "progressive": true,
+        "mozjpeg": true
+      }
+    }
+  },
+  "description": "<p>Paylaşımı kolaylaştırmak ve daha küçük dosyalar için <strong>TIFF'i JPG'ye</strong> dönüştürün. Bu ücretsiz çevrimiçi dönüştürücü, profesyonel TIFF görüntülerini güçlü görsel kalitesini koruyarak evrensel olarak desteklenen JPEG'lere dönüştürür. Çok sayfalı TIFF'ler düzleştirilir ve yalnızca <em>ilk sayfa</em> dönüştürülür. TIFF'iniz şeffaflık içeriyorsa, JPG bu alanları katı bir arka planla (varsayılan olarak beyaz) doldurur.</p>",
+  "head": {
+    "title": "Çevrimiçi TIFF'den JPG'ye Dönüştür - Ücretsiz TIFF'den JPG'ye Dönüştürücü | WikiHowTo.click",
+    "description": "Yüksek kalitede, daha küçük dosya boyutlarıyla ve su işareti olmadan çevrimiçi TIFF'den JPG'ye dönüştürün. Ücretsiz, hızlı ve güvenli TIFF'den JPG'ye dönüştürücü aracı.",
+    "keywords": "tiff'den jpg'ye, tiff'i jpg'ye dönüştür, ücretsiz tiff'den jpg'ye, çevrimiçi tiff dönüştürücü, tiff'den jpeg'e",
+    "canonical": "https://wikihowto.click/tr/convert/tiff-to-jpg",
+    "og_title": "TIFF'den JPG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
+    "og_description": "TIFF görüntülerini yüksek kalitede ve daha küçük dosya boyutlarıyla JPG formatına dönüştürün. %100 ücretsiz, hızlı ve güvenli.",
+    "og_url": "https://wikihowto.click/tr/convert/tiff-to-jpg",
+    "og_image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Ücretsiz TIFF'den JPG'ye Dönüştürücü Çevrimiçi",
+    "twitter_description": "Yüksek kalitede, daha küçük dosya boyutlarıyla ve su işareti olmadan TIFF'i JPG'ye dönüştürün. Tüm cihazlarda çalışır.",
+    "twitter_image": "https://wikihowto.click/images/tiff-to-jpg.jpg"
+  },
+  "h1": {
+    "title": "Çevrimiçi TIFF'den JPG'ye Dönüştür",
+    "description": "Yüksek kalitede ve daha küçük dosya boyutlarıyla ücretsiz ve hızlı TIFF'den JPG'ye dönüştürücü. Herhangi bir cihazda anında çalışır - kayıt gerektirmez."
+  },
+  "h2": [
+    {
+      "title": "Neden TIFF'i JPG'ye Dönüştürmeliyim?",
+      "description": "<p>TIFF, düzenleme ve baskı için idealdir, ancak ağırdır ve daha az uyumludur. JPG pratik bir denge sağlar:</p><ul><li><strong>Çok Daha Küçük Dosyalar:</strong> İçeriğe bağlı olarak genellikle <em>%70–90</em> daha küçüktür.</li><li><strong>Evrensel Uyumluluk:</strong> JPG, neredeyse her cihazda ve uygulamada çalışır.</li><li><strong>Kolay Paylaşım:</strong> E-posta, mesajlaşma ve web için mükemmeldir.</li><li><strong>Depolama Tasarrufu:</strong> Büyük görsel kayıplar olmadan alanı azaltın.</li></ul>"
+    },
+    {
+      "title": "Çevrimiçi TIFF'i JPG'ye Nasıl Dönüştürürüm",
+      "description": "<ol><li><em>TIFF Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlem ve optimizasyon için bekleyin.</li><li>Görüntünüzü kaydetmek için <em>JPG İndir</em> butonuna tıklayın.</li></ol><p>Harika boyut-kalite dengesi için progresif JPEG (mozjpeg) kullanıyoruz.</p>"
+    },
+    {
+      "title": "TIFF ve JPG Karşılaştırması",
+      "description": "<ul><li><strong>Sıkıştırma:</strong> TIFF kayıpsız olabilir; JPG daha küçük dosyalar için kayıplıdır.</li><li><strong>Şeffaflık:</strong> TIFF alfa içerebilir; JPG'de yoktur (şeffaf pikseller katı hale gelir).</li><li><strong>Renk:</strong> TIFF CMYK/AdobeRGB olabilir; JPG çıktısı web için sRGB'ye standartlaştırılmıştır.</li><li><strong>Kullanım Durumu:</strong> Düzenleme/baskı master'ları için TIFF'i saklayın; teslimat ve paylaşım için JPG kullanın.</li></ul>"
+    },
+    {
+      "title": "Desteklenen Sınırlar & Formatlar",
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Sayfalar:</strong> Çok sayfalı TIFF'ler: yalnızca <em>ilk sayfa</em> dönüştürülür</li></ul>"
+    },
+    {
+      "title": "Sorun Giderme",
+      "description": "<ul><li><strong>Renkler farklı görünüyor:</strong> Web tutarlılığı için sRGB'ye dönüştürüyoruz. Mümkünse yüklemeden önce sRGB'de yumuşak kanıtlayın.</li><li><strong>Şeffaflık kayboldu:</strong> JPG alfa desteklemez; şeffaflık gerekiyorsa <a href='/tr/convert/tiff-to-png'>TIFF → PNG</a> kullanın.</li><li><strong>Dosya hala büyük:</strong> Çözünürlüğü azaltın veya kaliteyi %80–85'e düşürün.</li><li><strong>Yükleme başarısız:</strong> TIFF ve ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu TIFF'den JPG'ye dönüştürücü ücretsiz mi?",
+      "answer": "Evet, tamamen ücretsizdir ve su işareti veya gizli ücret yoktur."
+    },
+    {
+      "question": "TIFF'i JPG'ye dönüştürürken kalite kaybı yaşar mıyım?",
+      "answer": "JPG kayıplıdır, ancak görünür kaybı en aza indirmek için yüksek kaliteli ayarlar (mozjpeg, progresif) kullanıyoruz."
+    },
+    {
+      "question": "JPG şeffaflığı korur mu?",
+      "answer": "Hayır. JPG'nin alfa kanalı yoktur. Kaynak içindeki şeffaf alanlar katı bir arka planla doldurulur (varsayılan olarak beyaz)."
+    },
+    {
+      "question": "Çok sayfalı TIFF'leri işleyebilir misiniz?",
+      "answer": "Evet, ancak yalnızca ilk sayfayı dönüştürüyoruz. Gerekirse, yüklemeden önce sayfaları ayırın."
+    },
+    {
+      "question": "Hangi dosya boyutları destekleniyor?",
+      "answer": "Dosya başına 16&nbsp;MB'a kadar görüntü yükleyebilirsiniz."
+    },
+    {
+      "question": "Birden fazla TIFF dosyasını aynı anda dönüştürebilir miyim?",
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın."
+    }
+  ],
+  "note": "JPG kayıplıdır ve şeffaflığı kaldırır. Düzenleme veya baskı için orijinal TIFF'inizi saklayın ve paylaşım için JPG'yi dışa aktarın.",
+  "related_links": [
+    {
+      "title": "TIFF'i PNG'ye Dönüştür (şeffaflığı korur)",
+      "url": "/tr/convert/tiff-to-png"
+    },
+    {
+      "title": "JPG'yi TIFF'e Dönüştür",
+      "url": "/tr/convert/jpg-to-tiff"
+    },
+    {
+      "title": "JPG'yi Çevrimiçi Sıkıştır",
+      "url": "/tr/compress/jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF'den JPG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
+      "url": "https://wikihowto.click/tr/convert/tiff-to-jpg",
+      "description": "Yüksek kalitede ve daha küçük dosya boyutlarıyla TIFF görüntülerini JPG'ye dönüştürmek için ücretsiz çevrimiçi araç.",
+      "inLanguage": "tr",
+      "image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dönüştür",
+          "item": "https://wikihowto.click/tr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF'den JPG'ye",
+          "item": "https://wikihowto.click/tr/convert/tiff-to-jpg"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF'den JPG'ye Dönüştürücü",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/tr/convert/tiff-to-jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Progresif JPEG",
+        "Yüksek kaliteli dönüşüm",
+        "Hızlı işlem"
+      ],
+      "screenshot": "https://wikihowto.click/images/tiff-to-jpg.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu TIFF'den JPG'ye dönüştürücü ücretsiz mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, tamamen ücretsizdir ve su işareti veya gizli ücret yoktur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hangi dosya boyutları destekleniyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "JPG şeffaflığı korur mu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. JPG alfa kanalı desteklemez. Şeffaf pikseller katı hale gelir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Çok sayfalı TIFF'leri işliyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yalnızca ilk sayfa dönüştürülür. Gerekirse sayfaları önceden ayırın."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "TIFF'i JPG'ye nasıl dönüştürülür",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "TIFF Yükle butonuna tıklayın ve dosyanızı seçin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "İşlem ve optimizasyonun tamamlanmasını bekleyin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sonucu kaydetmek için JPG İndir butonuna tıklayın."
+        }
+      ],
+      "tool": [
+        "TIFF'den JPG'ye Dönüştürücü"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

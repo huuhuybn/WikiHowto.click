@@ -1,0 +1,239 @@
+{
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "PNG 轉 ICO 轉換器 - 免費及線上 | WikiHowTo.click",
+  "sub_title": "在線將 PNG 圖像轉換為 ICO 格式，用於網站圖標和桌面圖標。免費、快速，且無水印。",
+  "hint": "上傳您的 PNG 圖像以開始轉換...",
+  "btn_download": "轉換為 ICO",
+  "btn_paste": "上傳 PNG",
+  "btn_clear": "清除",
+  "converter": {
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>將您的 <strong>PNG 轉換為 ICO</strong>，以獲得完美的網站圖標和桌面圖標！我們的免費 PNG 轉 ICO 轉換器可以創建專業的多尺寸圖標，無論在瀏覽器還是 Windows 桌面上都能清晰顯示。</p><p>ICO 文件可以在單個文件中捆綁多個尺寸（例如，16–256 像素），非常適合網站圖標和應用程序/快捷方式圖標。PNG 的透明度得以保留，確保在深色/淺色背景上邊緣平滑。</p>",
+  "head": {
+    "title": "在線轉換 PNG 為 ICO - 免費 PNG 轉 ICO 轉換器 | WikiHowTo.click",
+    "description": "在線將 PNG 轉換為 ICO，用於網站圖標和桌面圖標。免費、快速且安全的 PNG 轉 ICO 轉換工具。",
+    "keywords": "png 轉 ico, 將 png 轉換為 ico, 免費 png 轉 ico, 在線 ico 轉換器, 網站圖標製作器",
+    "canonical": "https://wikihowto.click/zh-tw/convert/png-to-ico",
+    "og_title": "PNG 轉 ICO 轉換器 - 免費及線上",
+    "og_description": "將 PNG 圖像轉換為 ICO 格式，用於網站圖標和桌面圖標。100% 免費、快速且安全。",
+    "og_url": "https://wikihowto.click/zh-tw/convert/png-to-ico",
+    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免費 PNG 轉 ICO 轉換器在線",
+    "twitter_description": "將 PNG 轉換為 ICO，用於網站圖標和桌面圖標。適用於所有設備。",
+    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
+  },
+  "h1": {
+    "title": "在線轉換 PNG 為 ICO",
+    "description": "免費且快速的 PNG 轉 ICO 轉換器，用於網站圖標和桌面圖標。無需註冊，任何設備上均可立即使用。"
+  },
+  "h2": [
+    {
+      "title": "為什麼要將 PNG 轉換為 ICO？",
+      "description": "<p>ICO 是為圖標而設計的：</p><ul><li><strong>多尺寸支持：</strong>在一個文件中捆綁 16–256 像素的變體。</li><li><strong>網站圖標標準：</strong>被主要瀏覽器識別。</li><li><strong>Windows 兼容性：</strong>原生桌面/應用程序圖標格式。</li><li><strong>透明度：</strong>保留 PNG 的 alpha 通道，邊緣平滑。</li></ul>"
+    },
+    {
+      "title": "如何在線將 PNG 轉換為 ICO",
+      "description": "<ol><li>點擊 <em>上傳 PNG</em> 並選擇您的圖像。</li><li>等待處理和優化。</li><li>點擊 <em>下載 ICO</em> 以保存您的圖標。</li></ol><p>我們會自動生成常見的圖標尺寸。</p>"
+    },
+    {
+      "title": "ICO 格式規範",
+      "description": "<ul><li><strong>標準尺寸：</strong>16×16、32×32、48×48、64×64、128×128、256×256 像素</li><li><strong>顏色深度：</strong>最高 32 位 RGBA</li><li><strong>透明度：</strong>完整的 alpha 通道</li><li><strong>結構：</strong>標頭 + 多個圖像條目</li><li><strong>壓縮：</strong>32 位圖標的 PNG 壓縮條目（Vista+）</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的輸入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>網站圖標未顯示：</strong>清除緩存，並確保 <code>/favicon.ico</code> 在網站根目錄中，並用 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> 引用它。</li><li><strong>邊緣鋸齒：</strong>從較大、高對比度的 PNG 開始；清晰縮小。</li><li><strong>上傳失敗：</strong>確保 PNG ≤ 16&nbsp;MB。</li></ul>"
+    },
+    {
+      "title": "我們的 PNG 轉 ICO 轉換器的特點",
+      "description": "<ul><li>100% 免費，無水印</li><li>自動尺寸優化</li><li>保留透明度</li><li>安全處理</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "這個 PNG 轉 ICO 轉換器是免費的嗎？",
+      "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+    {
+      "question": "ICO 文件支持哪些尺寸？",
+      "answer": "常見尺寸包括 16×16、32×32、48×48、64×64、128×128 和 256×256 像素。"
+    },
+    {
+      "question": "我可以將 ICO 文件用於網站圖標嗎？",
+      "answer": "可以。<code>favicon.ico</code> 被主要瀏覽器廣泛支持。"
+    },
+    {
+      "question": "支持哪些文件大小？",
+      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
+    },
+    {
+      "question": "我的文件安全嗎？",
+      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
+    },
+    {
+      "question": "圖標質量會好嗎？",
+      "answer": "我們保留 PNG 的透明度，並生成多個尺寸以確保在小尺寸下清晰顯示。"
+    }
+  ],
+  "note": "為了獲得最佳效果，請使用清晰、高對比度的 PNG。將 <code>/favicon.ico</code> 放置在您的網站根目錄中，並用 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> 引用它。",
+  "related_links": [
+    {
+      "title": "將 JPG 轉換為 ICO",
+      "url": "/zh-tw/convert/jpg-to-ico"
+    },
+    {
+      "title": "將 BMP 轉換為 ICO",
+      "url": "/zh-tw/convert/bmp-to-ico"
+    },
+    {
+      "title": "將 SVG 轉換為 ICO",
+      "url": "/zh-tw/convert/svg-to-ico"
+    },
+    {
+      "title": "將 ICO 轉換為 PNG",
+      "url": "/zh-tw/convert/ico-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版權所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 ICO 轉換器 - 免費及線上",
+      "url": "https://wikihowto.click/zh-tw/convert/png-to-ico",
+      "description": "免費的在線工具，將 PNG 圖像轉換為 ICO，用於網站圖標和 Windows 桌面圖標。",
+      "inLanguage": "zh-TW",
+      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "轉換",
+          "item": "https://wikihowto.click/zh-tw/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG 轉 ICO",
+          "item": "https://wikihowto.click/zh-tw/convert/png-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 ICO 轉換器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh-tw/convert/png-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "多尺寸圖標集",
+        "保留透明度",
+        "快速處理"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "這個 PNG 轉 ICO 轉換器是免費的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持哪些文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ICO 文件支持哪些尺寸？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "常見尺寸包括 16×16、32×32、48×48、64×64、128×128 和 256×256 像素。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何將 PNG 轉換為 ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "點擊上傳 PNG 並選擇您的圖像。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待處理完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "點擊下載 ICO 以保存您的圖標。"
+        }
+      ],
+      "tool": [
+        "PNG 轉 ICO 轉換器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

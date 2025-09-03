@@ -1,0 +1,248 @@
+{
+  "lang": "sw",
+  "lang_name": "Kiswahili",
+  "title": "Kigeuzi cha PNG hadi AVIF - Bure na Mtandaoni | WikiHowTo.click",
+  "sub_title": "Badilisha picha za PNG kuwa AVIF mtandaoni kwa compression bora na ubora wa juu. Inahifadhi uwazi. Hakuna alama za maji.",
+  "hint": "Pakia picha yako ya PNG ili kuanza kubadilisha...",
+  "btn_download": "Badilisha kuwa AVIF",
+  "btn_paste": "Pakia PNG",
+  "btn_clear": "Futa",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "Badilisha PNG kuwa AVIF - Kigeuzi cha PNG hadi AVIF Bure Mtandaoni | WikiHowTo.click",
+    "description": "Badilisha picha za PNG kuwa AVIF mtandaoni bure. Kubadilisha PNG hadi AVIF kwa ubora wa juu na compression bora na msaada wa uwazi.",
+    "keywords": "png hadi avif, badilisha png hadi avif, bure png hadi avif, kigeuzi cha avif mtandaoni, kubadilisha picha",
+    "canonical": "https://wikihowto.click/sw/convert/png-to-avif",
+    "og_title": "Badilisha PNG kuwa AVIF - Kigeuzi cha PNG hadi AVIF Bure Mtandaoni",
+    "og_description": "Badilisha picha za PNG kuwa AVIF kwa compression bora na uwazi uliohifadhiwa. Bure, haraka, na salama.",
+    "og_url": "https://wikihowto.click/sw/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Kigeuzi cha PNG hadi AVIF Bure Mtandaoni",
+    "twitter_description": "Badilisha PNG hadi AVIF kwa compression bora na msaada wa uwazi. Inafanya kazi kwenye vifaa vyote.",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Badilisha PNG kuwa AVIF Mtandaoni",
+    "description": "Kigeuzi cha PNG hadi AVIF bure na haraka chenye compression bora na msaada kamili wa uwazi. Inafanya kazi mara moja kwenye kifaa chochote - hakuna usajili unahitajika."
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "Kigeuzi cha PNG hadi AVIF",
+    "description": "Badilisha picha za PNG kuwa AVIF kwa compression ya kisasa huku ukihifadhi uwazi wa alpha.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Matokeo ya AVIF ya ubora wa juu",
+      "Compression bora",
+      "Inahifadhi uwazi (alpha)",
+      "Zana ya mtandaoni bure"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Kubadilisha PNG hadi AVIF Kumalizika",
+    "back_button": "Rudi kwa Kigeuzi",
+    "convert_another": "Badilisha PNG Nyingine",
+    "quick_conversions": "Kubadilisha Haraka:"
+  },
+  "h2": [
+    {
+      "title": "Kwa Nini Kubadilisha PNG hadi AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) ni muundo wa kizazi kijacho wenye ufanisi bora:</p><ul><li><strong>Compression bora:</strong> Mara nyingi ni ndogo kwa 30–50% kuliko PNG kwa ubora sawa.</li><li><strong>Kodeki ya kisasa:</strong> Imejikita kwenye kiwango cha AV1.</li><li><strong>Uaminifu wa juu:</strong> Uhifadhi mzuri wa maelezo kwa saizi ndogo.</li><li><strong>Utendaji wa wavuti:</strong> Picha ndogo = kurasa za haraka na Core Web Vitals bora.</li></ul>"
+    },
+    {
+      "title": "Jinsi ya Kubadilisha PNG hadi AVIF Mtandaoni",
+      "description": "<ol><li>Bonyeza <em>Pakia PNG</em> na uchague faili yako.</li><li>Subiri kwa usindikaji na uboreshaji.</li><li>Bonyeza <em>Pakua AVIF</em> ili kuhifadhi picha yako.</li></ol><p>Kigeuzi kinajipanga kiotomatiki kwa ubora na saizi kwa matumizi ya kawaida ya wavuti.</p>"
+    },
+    {
+      "title": "Kulinganisha AVIF na PNG",
+      "description": "<ul><li><strong>Saizi ya faili:</strong> AVIF mara nyingi ni ndogo kwa 30–50% kuliko PNG.</li><li><strong>Ubora:</strong> AVIF inahifadhi ubora mzuri kwa bitrates za chini.</li><li><strong>Uwazi:</strong> Zote zinasaidia uwazi wa alpha.</li><li><strong>Usaidizi wa kivinjari:</strong> AVIF inafanya kazi kwenye kivinjari za kisasa (toa fallback ikiwa inahitajika).</li></ul>"
+    },
+    {
+      "title": "Mipaka na Miundo Inayosaidiwa",
+      "description": "<ul><li><strong>Input inayokubalika:</strong> PNG (<code>image/png</code>)</li><li><strong>Saizi ya faili kubwa zaidi:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kuhifadhi:</strong> Ubora ≈ 80, kasi 4, 4:4:4 subsampling ili kuweka mipaka safi</li></ul>"
+    },
+    {
+      "title": "Kutatua Matatizo",
+      "description": "<ul><li><strong>Kivinjari vya zamani:</strong> Tumia kipengele <code>&lt;picture&gt;</code> na PNG/WebP fallback.</li><li><strong>Halo kwenye mipaka:</strong> 4:4:4 inasaidia; ikiwa bado inaonekana, anza na PNG yenye azimio la juu au boresha alpha.</li><li><strong>Hitaji la lossless:</strong> Fikiria PNG kwa mahitaji ya pixel-perfect, au weka AVIF kuwa lossless katika michakato ya hali ya juu.</li><li><strong>Pakia inashindwa:</strong> Hakikisha faili ni PNG na ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Matumizi: Lini Kubadilisha PNG hadi AVIF",
+      "description": "<ul><li><strong>Uboreshaji wa wavuti:</strong> Punguza mzigo kwa alama, UI, na picha zenye uwazi.</li><li><strong>Programu za simu:</strong> Punguza matumizi ya bandwidth na uhifadhi.</li><li><strong>Maktaba kubwa:</strong> Hifadhi nafasi ya diski bila kupoteza ubora dhahiri.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Je, kigeuzi hiki cha PNG hadi AVIF ni bure?",
+      "answer": "Ndio, kigeuzi ni bure kabisa bila ada zilizofichwa au usajili."
+    },
+    {
+      "question": "Je, AVIF itafanya kazi kwenye kivinjari vyote?",
+      "answer": "AVIF inasaidiwa na kivinjari za kisasa (Chrome, Firefox, Safari, Edge). Toa PNG/WebP fallbacks kwa zile za zamani."
+    },
+    {
+      "question": "Je, faili za AVIF ni ndogo kiasi gani ikilinganishwa na PNG?",
+      "answer": "Mara nyingi ni ndogo kwa 30–50% kwa ubora sawa unaoonekana, kulingana na picha."
+    },
+    {
+      "question": "Ni saizi gani za faili zinazokubalika?",
+      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
+    },
+    {
+      "question": "Je, faili zangu ziko salama?",
+      "answer": "Faili zinashughulikiwa kiotomatiki na hazihifadhiwi kwa muda mrefu zaidi ya inavyohitajika kwa kubadilisha."
+    },
+    {
+      "question": "Je, naweza kubadilisha PNG nyingi kwa wakati mmoja?",
+      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia zana ya kundi."
+    },
+    {
+      "question": "Je, AVIF ni bora kuliko PNG kwa wavuti?",
+      "answer": "Mara nyingi ndio kwa saizi ndogo za faili zenye ubora mzuri; kwa mahitaji ya lossless au kesi maalum, PNG inaweza kuwa bora zaidi."
+    }
+  ],
+  "note": "Kwa ufanisi wa juu, tolea AVIF na PNG/WebP fallback ukitumia kipengele <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Badilisha AVIF kuwa PNG",
+      "url": "/sw/convert/avif-to-png"
+    },
+    {
+      "title": "Badilisha PNG kuwa WebP",
+      "url": "/sw/convert/png-to-webp"
+    },
+    {
+      "title": "Badilisha JPG kuwa AVIF",
+      "url": "/sw/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Haki zote zimehifadhiwa.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Kigeuzi cha PNG hadi AVIF - Bure na Mtandaoni",
+      "url": "https://wikihowto.click/sw/convert/png-to-avif",
+      "description": "Zana ya mtandaoni bure kubadilisha picha za PNG kuwa AVIF kwa compression bora na uwazi uliohifadhiwa.",
+      "inLanguage": "sw",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Nyumbani",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Badilisha",
+          "item": "https://wikihowto.click/sw/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG hadi AVIF",
+          "item": "https://wikihowto.click/sw/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Kigeuzi cha PNG hadi AVIF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sw/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Compression bora",
+        "Inahifadhi uwazi",
+        "Usindikaji wa haraka"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je, kigeuzi hiki cha PNG hadi AVIF ni bure?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ndio, kigeuzi ni bure kabisa bila ada zilizofichwa au usajili."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ni saizi gani za faili zinazokubalika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je, AVIF itafanya kazi kwenye kivinjari vyote?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF inasaidiwa na kivinjari za kisasa; toa PNG/WebP fallbacks kwa zile za zamani."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Jinsi ya kubadilisha PNG hadi AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Bonyeza Pakia PNG na uchague faili yako."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Subiri kwa usindikaji na uboreshaji kukamilika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bonyeza Pakua AVIF ili kuhifadhi matokeo."
+        }
+      ],
+      "tool": [
+        "Kigeuzi cha PNG hadi AVIF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

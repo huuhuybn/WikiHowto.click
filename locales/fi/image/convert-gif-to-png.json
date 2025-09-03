@@ -1,0 +1,244 @@
+{
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "GIF to PNG -muunnin - Ilmainen ja verkossa | WikiHowTo.click",
+  "sub_title": "Muuta GIF-kuvat PNG-muotoon verkossa läpinäkyvyyden tuella, korkealaatuisina ja ilman vesileimoja.",
+  "hint": "Lataa GIF-kuvasi aloittaaksesi muuntamisen...",
+  "btn_download": "Muuta PNG:ksi",
+  "btn_paste": "Lataa GIF",
+  "btn_clear": "Tyhjennä",
+  "converter": {
+    "type": "gif-to-png",
+    "inputFormat": "GIF",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/gif"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p>Muuta <strong>GIF PNG:ksi</strong> korkeammalla tarkkuudella ja täydellä läpinäkyvyyden tuella. Ilmainen verkkomuunnin muuttaa animoidut tai staattiset GIF:t korkealaatuisiksi PNG-kuviksi. Vaikka GIF on loistava yksinkertaisille animaatioille, PNG tarjoaa paremman väri syvyyden, paremman läpinäkyvyyden ja häviöttömän pakkaamisen teräville staattisille grafiikoille.</p><p><strong>Huom:</strong> Animoidut GIF:t muunnetaan <em>yksiin staattisiin kuviin</em> (ensimmäinen kehys). Animoitua tulosta varten kokeile <a href='/en/convert/gif-to-webp'>GIF WebP:ksi</a>.</p>",
+  "head": {
+    "title": "Muuta GIF PNG:ksi verkossa - Ilmainen GIF PNG -muunnin | WikiHowTo.click",
+    "description": "Muuta GIF PNG:ksi verkossa läpinäkyvyyden tuella, korkealaatuisina ja ilman vesileimoja. Ilmainen, nopea ja turvallinen GIF PNG -muunnin.",
+    "keywords": "gif png:ksi, muunna gif png:ksi, ilmainen gif png:ksi, verkkogif-muunnin, läpinäkyvät kuvat",
+    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
+    "og_title": "GIF to PNG -muunnin - Ilmainen ja verkossa",
+    "og_description": "Muuta GIF-kuvat PNG-muotoon läpinäkyvyyden tuella ja korkealaatuisina. 100 % ilmainen, nopea ja turvallinen.",
+    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
+    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Ilmainen GIF PNG -muunnin verkossa",
+    "twitter_description": "Muuta GIF PNG:ksi läpinäkyvyyden tuella, korkealaatuisina ja ilman vesileimoja. Toimii kaikilla laitteilla.",
+    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
+  },
+  "h1": {
+    "title": "Muuta GIF PNG:ksi verkossa",
+    "description": "Ilmainen ja nopea GIF PNG -muunnin läpinäkyvyyden tuella ja korkealaatuisena. Toimii heti kaikilla laitteilla, ei rekisteröitymistä vaadita."
+  },
+  "h2": [
+    {
+      "title": "Miksi muuntaa GIF PNG:ksi?",
+      "description": "<p>GIF on rajoitettu 256 väriin ja sopii yksinkertaisille animaatioille. PNG on ihanteellinen korkealaatuisille staattisille kuville:</p><ul><li><strong>Korkeampi laatu:</strong> Todellinen väri (24-bittinen) + alfa verrattuna GIF:n 8-bittiseen palettiin.</li><li><strong>Läpinäkyvyys:</strong> PNG tukee täydellistä alfa-läpinäkyvyyttä sulavilla reunoilla.</li><li><strong>Häviötön pakkaus:</strong> PNG säilyttää yksityiskohdat ilman laadun heikkenemistä.</li><li><strong>Yhteensopivuus:</strong> Laajasti tuettu sovelluksissa ja alustoilla.</li></ul>"
+    },
+    {
+      "title": "Kuinka muuntaa GIF PNG:ksi verkossa",
+      "description": "<ol><li>Napsauta <em>Lataa GIF</em> ja valitse tiedostosi.</li><li>Odota käsittelyn valmistumista.</li><li>Napsauta <em>Lataa PNG</em> tallentaaksesi tuloksen.</li></ol><p>Animoidut GIF:t: vain ensimmäinen kehys viedään PNG:ksi.</p>"
+    },
+    {
+      "title": "GIF vs PNG: Tärkeimmät erot",
+      "description": "<table class='table-compare'><thead><tr><th>Ominaisuus</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Väri syvyys</td><td>8-bittinen (256 väriä)</td><td>Todellinen väri (24-bittinen) + alfa</td></tr><tr><td>Läpinäkyvyys</td><td>1-bittinen maski (päällä/pois)</td><td>Täydellinen alfa-läpinäkyvyys</td></tr><tr><td>Pakkaus</td><td>Häviötön (LZW)</td><td>Häviötön (DEFLATE)</td></tr><tr><td>Animaatio</td><td>Tukee</td><td>Ei tueta (staattinen)</td></tr><tr><td>Paras käyttöön</td><td>Yksinkertaiset animaatiot, tarrat</td><td>Logot, käyttöliittymät, kuvakaappaukset, staattiset grafiikat</td></tr></tbody></table>"
+    },
+    {
+      "title": "Tuetut rajat ja muodot",
+      "description": "<ul><li><strong>Hyväksytty syöte:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimikoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tulos:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Ominaisuudet GIF PNG -muunnimessamme",
+      "description": "<ul><li>100 % ilmainen, ei vesileimoja</li><li>Säilyttää läpinäkyvyyden, jos se on läsnä</li><li>Häviötön PNG-tulos</li><li>Mobilystäväliittymä</li></ul>"
+    },
+    {
+      "title": "Mikä on GIF?",
+      "description": "<p>GIF (Graphics Interchange Format) tukee perusanimaatiota ja käyttää häviötöntä LZW-pakkausta, mutta on rajoitettu 256 värin palettiin.</p>"
+    },
+    {
+      "title": "Mikä on PNG?",
+      "description": "<p>PNG (Portable Network Graphics) on häviötön muoto, joka tukee todellista väriä ja alfa-läpinäkyvyyttä - ihanteellinen korkealaatuisille staattisille kuville.</p>"
+    },
+    {
+      "title": "Vianetsintä",
+      "description": "<ul><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedosto on GIF ja ≤ 16&nbsp;MB.</li><li><strong>Epätasaiset läpinäkyvyysreunat:</strong> GIF:n 1-bittinen läpinäkyvyys voi näyttää karkealta; hienosäädä <a href='/en/effect/remove-background'>Taustojen poistaja</a>:lla.</li><li><strong>Tarvitset animaatiota:</strong> Käytä <a href='/en/convert/gif-to-webp'>GIF WebP:ksi</a> säilyttääksesi liikkeen.</li></ul>"
+    },
+    {
+      "title": "Käyttötapaukset: Milloin muuntaa GIF PNG:ksi",
+      "description": "<ul><li><strong>Logot ja ikonit</strong>, jotka tarvitsevat sulavaa läpinäkyvyyttä.</li><li><strong>Kuvakaappaukset/käyttöliittymät</strong>, jotka vaativat terävää tekstiä ja viivoja.</li><li><strong>Arkistointi</strong> staattisille kehyksille korkeammalla laadulla.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Onko tämä GIF PNG -muunnin ilmainen?",
+      "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+    },
+    {
+      "question": "Säilyttääkö PNG läpinäkyvyyden GIF:stä?",
+      "answer": "Kyllä. GIF:n 1-bittiset läpinäkyvät alueet pysyvät läpinäkyvinä PNG:ssä; sulavampia reunoja varten muokkaa alfa-kanavaa muunnoksen jälkeen."
+    },
+    {
+      "question": "Mitä tapahtuu animoiduille GIF:ille?",
+      "answer": "Vain ensimmäinen kehys muunnetaan staattiseksi PNG-kuvaksi. Animaation säilyttämiseksi käytä GIF WebP:ksi."
+    },
+    {
+      "question": "Menetänkö laatua muuntaessani GIF:stä PNG:ksi?",
+      "answer": "Ei. PNG käyttää häviötöntä pakkausta ja tukee täyttä väriä, mikä usein parantaa visuaalista tarkkuutta yli 256-värisen GIF:n."
+    },
+    {
+      "question": "Mitä tiedostokokoja tuetaan?",
+      "answer": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
+    },
+    {
+      "question": "Ovatko tiedostoni turvallisia?",
+      "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
+    },
+    {
+      "question": "Voinko muuntaa useita GIF-tiedostoja kerralla?",
+      "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
+    }
+  ],
+  "note": "Animoidut GIF:t muuttuvat staattisiksi PNG:iksi (ensimmäinen kehys). Animoidun tuloksen saamiseksi muunna GIF WebP:ksi.",
+  "related_links": [
+    {
+      "title": "Muuta GIF JPG:ksi",
+      "url": "/en/convert/gif-to-jpg"
+    },
+    {
+      "title": "Muuta PNG GIF:ksi",
+      "url": "/en/convert/png-to-gif"
+    },
+    {
+      "title": "Muuta GIF WebP:ksi",
+      "url": "/en/convert/gif-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kaikki oikeudet pidätetään.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "GIF to PNG -muunnin - Ilmainen ja verkossa",
+      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "description": "Ilmainen verkkotyökalu GIF-kuvien muuntamiseen PNG:ksi häviöttömällä pakkaamisella ja läpinäkyvyyden tuella.",
+      "inLanguage": "fi",
+      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Etusivu",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Muunna",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GIF PNG:ksi",
+          "item": "https://wikihowto.click/en/convert/gif-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "GIF to PNG -muunnin",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Häviötön PNG-tulos",
+        "Läpinäkyvyyden tuki",
+        "Nopea käsittely"
+      ],
+      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onko tämä GIF PNG -muunnin ilmainen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä tapahtuu animoiduille GIF:ille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vain ensimmäinen kehys muunnetaan staattiseksi PNG-kuvaksi. Animaation säilyttämiseksi käytä GIF WebP:ksi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä tiedostokokoja tuetaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kuinka muuntaa GIF PNG:ksi",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Napsauta Lataa GIF ja valitse tiedostosi."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Odota käsittelyn valmistumista."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Napsauta Lataa PNG tallentaaksesi tuloksen."
+        }
+      ],
+      "tool": [
+        "GIF to PNG -muunnin"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

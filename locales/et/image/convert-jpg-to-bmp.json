@@ -1,0 +1,253 @@
+{
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "JPG BMP-ks muundur - Tasuta ja veebis | WikiHowTo.click",
+  "sub_title": "Muuda JPG pilte BMP-ks veebis, kasutades kompressimata, kaotusteta pikselandmeid. Ilma veemärkideta.",
+  "hint": "Laadi üles oma JPG pilt, et alustada konverteerimist...",
+  "btn_download": "Muuda BMP-ks",
+  "btn_paste": "Laadi üles JPG",
+  "btn_clear": "Kustuta",
+  "ogImage": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+  "head": {
+    "title": "Muuda JPG BMP-ks - Tasuta veebipõhine JPG BMP muundur",
+    "description": "Muuda JPG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga JPG BMP konverteerimine kiire töötlemisega.",
+    "keywords": "jpg bmp-ks, muuda jpg bmp-ks, tasuta jpg bmp-ks, veebipõhine bmp muundur, pildi konverteerimine",
+    "canonical": "https://wikihowto.click/en/convert/jpg-to-bmp",
+    "og_title": "Muuda JPG BMP-ks - Tasuta veebipõhine JPG BMP muundur",
+    "og_description": "Muuda JPG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga JPG BMP konverteerimine kiire töötlemisega.",
+    "og_url": "https://wikihowto.click/en/convert/jpg-to-bmp",
+    "og_image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Muuda JPG BMP-ks - Tasuta veebipõhine JPG BMP muundur",
+    "twitter_description": "Muuda JPG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga JPG BMP konverteerimine kiire töötlemisega.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-bmp.jpg"
+  },
+  "h1": {
+    "title": "Muuda JPG BMP-ks veebis",
+    "description": "Tasuta JPG BMP muundur kompressimata, kaotusteta pikselandmetega. Töötab igas seadmes — registreerimist ei ole vajalik."
+  },
+  "converter": {
+    "type": "jpg-to-bmp",
+    "title": "JPG BMP muundur",
+    "description": "Muuda JPG pilte BMP-ks kiire töötlemise ja täpsete värvidega.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "BMP",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/bmp",
+    "outputExtension": ".bmp",
+    "features": [
+      "Kompressimata (kaotusteta) pikselandmed",
+      "Kõrge ühilduvus Windowsis",
+      "Kiire töötlemine",
+      "Tasuta veebitööriist"
+    ],
+    "options": {
+      "bmp": {
+        "bitDepth": 24,
+        "compression": "BI_RGB"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "JPG BMP-ks konverteerimine lõpetatud",
+    "back_button": "Tagasi muunduri juurde",
+    "convert_another": "Muuda veel üks JPG",
+    "quick_conversions": "Kiired konverteerimised:"
+  },
+  "h2": [
+    {
+      "title": "Miks muuda JPG BMP-ks?",
+      "description": "<p>BMP on lihtne rasterformaadi formaat, mis salvestab pikslid ilma kompressioonita — kasulik teatud töövoogude jaoks:</p><ul><li><strong>Ilma JPEG artefaktideta:</strong> Vältige korduvaid kaotusteta uuesti kodeerimisi redigeerimise ajal.</li><li><strong>Lihtne struktuur:</strong> Lihtne madala taseme pikselite manipuleerimiseks.</li><li><strong>Pärand/integreeritud rakendused:</strong> Mõned Windowsi tööriistad eelistavad BMP-d.</li></ul>"
+    },
+    {
+      "title": "Kuidas muuda JPG BMP-ks veebis",
+      "description": "<ol><li>Klõpsa <em>Laadi üles JPG</em> ja vali oma fail.</li><li>Oota, kuni töötlemine on lõpetatud.</li><li>Klõpsa <em>Laadi alla BMP</em>, et salvestada oma pilt.</li></ol><p>Vaikimisi 24-bitine BMP ilma kompressioonita.</p>"
+    },
+    {
+      "title": "BMP vs JPG: Peamised erinevused",
+      "description": "<table class='table-compare'><thead><tr><th>Omadus</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Kompressioon</td><td>Kaotusteta (JPEG)</td><td>Tavaliselt kompressimata (kaotusteta)</td></tr><tr><td>Faili suurus</td><td>Väike</td><td>Suur</td></tr><tr><td>Transpordivõime</td><td>Ei</td><td>Ei (tavaline 24-bitine BMP)</td></tr><tr><td>Parim</td><td>Fotod, veebikasutus</td><td>Redigeerimise töövood, pärandrakendused, pikselite operatsioonid</td></tr></tbody></table>"
+    },
+    {
+      "title": "Toetatud piirangud ja formaadid",
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit sügavus:</strong> 24-bitine (ilma alfakanalita)</li></ul>"
+    },
+    {
+      "title": "Probleemide lahendamine",
+      "description": "<ul><li><strong>Väga suur väljund:</strong> BMP on disaini järgi kompressimata; kaaluge <a href='/en/convert/jpg-to-png'>JPG PNG-ks</a> väiksemate kaotusteta failide jaoks.</li><li><strong>Transpordivõime vajalik:</strong> BMP (24-bitine) ei sisalda alfakanalit; kasutage <a href='/en/convert/jpg-to-png'>JPG PNG-ks</a>.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veenduge, et fail on JPG/JPEG ja ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Mis on JPG?",
+      "description": "<p>JPG (JPEG) kasutab kaotusteta kompressiooni, et hoida failid väikesed, ideaalne fotode ja veebikasutuse jaoks, kuid korduv salvestamine võib tuua kaasa artefakte.</p>"
+    },
+    {
+      "title": "Mis on BMP?",
+      "description": "<p>BMP on lihtne bitmap formaadi formaat, mis tavaliselt salvestab toorandmed ilma kompressioonita. See on suur, kuid programmid saavad seda hõlpsasti lugeda ja manipuleerida.</p>"
+    },
+    {
+      "title": "Kasutusjuhud: Millal muuda JPG BMP-ks",
+      "description": "<ul><li><strong>Redigeerimise tsüklid:</strong> Vältige kumulatiivseid JPEG artefakte.</li><li><strong>Pärand tarkvara:</strong> Vanemad Windowsi tööriistad, mis nõuavad BMP-d.</li><li><strong>Arendus:</strong> Otsene pikseli juurdepääs madala taseme töötlemises.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kas see JPG BMP muundur on tasuta?",
+      "answer": "Jah, muundur on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+    {
+      "question": "Kas BMP töötab kõigis rakendustes?",
+      "answer": "BMP-d toetatakse laialdaselt Windowsis ja tunnustavad paljud teised platvormid. Mõned kaasaegsed töövood eelistavad PNG/WebP suuruse efektiivsuse tõttu."
+    },
+    {
+      "question": "Kui palju suuremad on BMP failid kui JPG?",
+      "answer": "Tihti mitu korda suuremad (nt 5–20×), kuna BMP on tavaliselt kompressimata."
+    },
+    {
+      "question": "Milliseid faili suurusi toetatakse?",
+      "answer": "Saate üles laadida pilte kuni 16&nbsp;MB faili kohta."
+    },
+    {
+      "question": "Kas mu failid on turvalised?",
+      "answer": "Faile töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
+    },
+    {
+      "question": "Kas ma saan korraga konverteerida mitu JPG-d?",
+      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korrake protsessi või kasutage partii tööriista."
+    },
+    {
+      "question": "Kas BMP toetab läbipaistvust?",
+      "answer": "Tavaline 24-bitine BMP ei sisalda alfakanalit. Läbipaistvuse jaoks konverteerige PNG-ks."
+    }
+  ],
+  "note": "BMP väljund on tahtlikult suur (kompressimata). Veebi jaoks eelistage PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Muuda BMP JPG-ks",
+      "url": "/en/convert/bmp-to-jpg"
+    },
+    {
+      "title": "Muuda JPG PNG-ks",
+      "url": "/en/convert/jpg-to-png"
+    },
+    {
+      "title": "Muuda PNG BMP-ks",
+      "url": "/en/convert/png-to-bmp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG BMP-ks muundur - Tasuta ja veebis",
+      "url": "https://wikihowto.click/en/convert/jpg-to-bmp",
+      "description": "Tasuta veebitööriist JPG piltide BMP-ks konverteerimiseks kompressimata, kaotusteta pikselandmetega.",
+      "inLanguage": "et",
+      "image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Avaleht",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Muuda",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG BMP-ks",
+          "item": "https://wikihowto.click/en/convert/jpg-to-bmp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG BMP muundur",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/jpg-to-bmp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Kompressimata pikseli andmed",
+        "Täpsed värvid",
+        "Kiire töötlemine"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-bmp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kas see JPG BMP muundur on tasuta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jah, muundur on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milliseid faili suurusi toetatakse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saate üles laadida pilte kuni 16 MB faili kohta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas BMP toetab läbipaistvust?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tavaline 24-bitine BMP ei sisalda läbipaistvust. Kasutage alfakanali jaoks PNG-d."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kuidas muuda JPG BMP-ks",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klõpsa Laadi üles JPG ja vali oma fail."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Oota, kuni töötlemine on lõpetatud."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klõpsa Laadi alla BMP, et salvestada pilt."
+        }
+      ],
+      "tool": [
+        "JPG BMP muundur"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

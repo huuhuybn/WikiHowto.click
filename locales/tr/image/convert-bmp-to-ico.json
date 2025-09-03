@@ -1,0 +1,256 @@
+{
+  "title": "BMP'yi ICO'ya Dönüştür",
+  "metaTitle": "BMP'yi ICO'ya Dönüştür - Ücretsiz Çevrimiçi BMP'den ICO'ya Dönüştürücü",
+  "metaDescription": "BMP görüntülerini çevrimiçi olarak ücretsiz bir şekilde ICO formatına dönüştürün. İkonlar için yüksek kaliteli BMP'den ICO'ya dönüşüm.",
+  "ogImage": "https://wikihowto.click/images/bmp-to-ico.jpg",
+  "head": {
+    "title": "BMP'yi ICO'ya Dönüştür - Ücretsiz Çevrimiçi BMP'den ICO'ya Dönüştürücü",
+    "description": "BMP görüntülerini çevrimiçi olarak ücretsiz bir şekilde ICO formatına dönüştürün. İkonlar için yüksek kaliteli BMP'den ICO'ya dönüşüm.",
+    "keywords": "bmp'den ico'ya, bmp'yi ico'ya dönüştür, ücretsiz bmp'den ico'ya, çevrimiçi ico dönüştürücü, ikon dönüşümü",
+    "canonical": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_title": "BMP'yi ICO'ya Dönüştür - Ücretsiz Çevrimiçi BMP'den ICO'ya Dönüştürücü",
+    "og_description": "BMP görüntülerini çevrimiçi olarak ücretsiz bir şekilde ICO formatına dönüştürün. İkonlar için yüksek kaliteli BMP'den ICO'ya dönüşüm.",
+    "og_url": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "BMP'yi ICO'ya Dönüştür - Ücretsiz Çevrimiçi BMP'den ICO'ya Dönüştürücü",
+    "twitter_description": "BMP görüntülerini çevrimiçi olarak ücretsiz bir şekilde ICO formatına dönüştürün. İkonlar için yüksek kaliteli BMP'den ICO'ya dönüşüm.",
+    "twitter_image": "https://wikihowto.click/images/bmp-to-ico.jpg"
+  },
+  "h1": {
+    "title": "BMP'den ICO'ya Dönüştürücü",
+    "description": "Faviconlar ve uygulama ikonları için ücretsiz, hızlı BMP'den ICO'ya dönüştürücü. Birden fazla boyut, şeffaf arka planlar, su işareti yok."
+  },
+  "converter": {
+    "type": "bmp-to-ico",
+    "title": "BMP'den ICO'ya Dönüştürücü",
+    "description": "İkonlar için yüksek kaliteli ICO formatına BMP görüntülerini dönüştürün.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "BMP",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/bmp"
+    ],
+    "maxFileSize": 16777216,
+    "maxFiles": 1,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "features": [
+      "Yüksek kaliteli ICO dönüşümü",
+      "Şeffaflık desteği",
+      "Hızlı işleme",
+      "Ücretsiz çevrimiçi araç"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "BMP'den ICO'ya Dönüşüm Tamamlandı",
+    "back_button": "Dönüştürücüye Geri Dön",
+    "convert_another": "Başka Bir BMP Dönüştür",
+    "quick_conversions": "Hızlı Dönüşümler:"
+  },
+  "h2": [
+    {
+      "title": "Neden BMP'yi ICO'ya Dönüştürmeliyim?",
+      "description": "<p>ICO (İkon), yerel Windows ikon formatıdır ve uygulama ikonları ile faviconlar için idealdir:</p><ul><li><strong>Birden Fazla Boyut:</strong> Tek bir dosyada birkaç çözünürlük saklayın.</li><li><strong>Şeffaflık:</strong> Keskin kenarlar için alfa şeffaflığını destekler.</li><li><strong>Sistem Uyumluluğu:</strong> Faviconlar için Windows ve tarayıcılarla sorunsuz çalışır.</li><li><strong>Profesyonel Görünüm:</strong> Görev çubuğu, masaüstü ve menülerde keskin ikonlar.</li></ul>"
+    },
+    {
+      "title": "BMP'yi Çevrimiçi Olarak Nasıl ICO'ya Dönüştürürüm",
+      "description": "<p>Yalnızca birkaç saniye alır:</p><ol><li><em>BMP Yükle</em> butonuna tıklayın ve görüntünüzü seçin.</li><li>İşlemin tamamlanmasını bekleyin.</li><li><em>ICO İndir</em> butonuna tıklayarak ikonunuzu kaydedin.</li></ol><p>Araç, ikonunuzu otomatik olarak yaygın boyutlar için optimize eder.</p>"
+    },
+    {
+      "title": "ICO ve BMP: Temel Farklar",
+      "description": "<table class='table-compare'><thead><tr><th>Özellik</th><th>BMP</th><th>ICO</th></tr></thead><tbody><tr><td>Amaç</td><td>Genel raster görüntü</td><td>Uygulamalar/favikonlar için ikon konteyneri</td></tr><tr><td>Şeffaflık</td><td>Varsayılan olarak yok; bazı 32-bit varyantlarda sınırlı</td><td>Tam alfa şeffaflığı</td></tr><tr><td>Birden fazla boyut</td><td>Hayır</td><td>Evet (16–256px tipik)</td></tr><tr><td>Düzenleme iş akışı</td><td>Basit, sıkıştırılmamış (büyük dosyalar)</td><td>Bir dosyada birden fazla bit derinliği/boyut</td></tr></tbody></table>"
+    },
+    {
+      "title": "BMP Nedir?",
+      "description": "<p>BMP (Bitmap Görüntü Dosyası), genellikle sıkıştırma olmadan pikselleri saklayan basit bir raster formattır ve büyük dosya boyutlarına neden olur. Basitlik ve uyumluluk için harika, ancak ikonlar veya web için verimli değildir.</p>"
+    },
+    {
+      "title": "ICO Nedir?",
+      "description": "<p>ICO, bir dosyada birden fazla görüntü boyutu ve renk derinliği içerebilen standart Windows ikon formatıdır, uygulama ikonları ve web sitesi faviconları için idealdir.</p>"
+    },
+    {
+      "title": "Desteklenen Sınırlar ve Formatlar",
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16 MB'a kadar</li><li><strong>Çıktı:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>İkon boyutları:</strong> 16, 32, 48, 64, 128, 256 px</li></ul>"
+    },
+    {
+      "title": "Kullanım Durumları: BMP'yi ICO'ya Ne Zaman Dönüştürmeliyim",
+      "description": "<ul><li><strong>Favicon Oluşturma:</strong> Web siteleri için favicon.ico oluşturun.</li><li><strong>Uygulama Geliştirme:</strong> Windows uygulamaları ikonlar için ICO gerektirir.</li><li><strong>Masaüstü Kısayolları:</strong> Kısayol ikonlarını temiz kenarlarla özelleştirin.</li><li><strong>Marka Tutarlılığı:</strong> Logoları DPI ölçeklerinde keskin tutun.</li></ul>"
+    },
+    {
+      "title": "Sorun Giderme",
+      "description": "<ul><li><strong>Yükleme başarısız:</strong> Dosyanın BMP olduğundan ve ≤ 16 MB olduğundan emin olun.</li><li><strong>Kırık kenarlar:</strong> Daha yüksek çözünürlüklü bir BMP ile başlayın; araç birden fazla boyuta küçültecektir.</li><li><strong>Favicon görünmüyor:</strong> Tarayıcı önbelleğini temizleyin ve <code>/favicon.ico</code>'yu site köküne doğru <code>&lt;link rel='icon'&gt;</code> ile yerleştirin.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu BMP'den ICO'ya dönüştürücü ücretsiz mi?",
+      "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+    },
+    {
+      "question": "ICO tüm işletim sistemlerinde çalışır mı?",
+      "answer": "ICO esasen Windows ve faviconlar içindir; macOS/Linux ICO'yu görüntüleyebilir ancak oradaki uygulama ikonları genellikle diğer formatları kullanır."
+    },
+    {
+      "question": "ICO dosyaları için hangi boyutlar destekleniyor?",
+      "answer": "Yaygın boyutlar 16×16, 32×32, 48×48, 64×64, 128×128 ve 256×256 pikseldir."
+    },
+    {
+      "question": "Hangi dosya boyutları destekleniyor?",
+      "answer": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+    },
+    {
+      "question": "Dosyalarım güvende mi?",
+      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
+    },
+    {
+      "question": "Birden fazla BMP'yi aynı anda dönüştürebilir miyim?",
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+    },
+    {
+      "question": "ICO ikonlar için BMP'den daha mı iyi?",
+      "answer": "Evet. ICO, ikonlar için tasarlanmıştır ve tek bir dosyada birden fazla boyut ve şeffaflık içerebilir."
+    }
+  ],
+  "note": "Açıklama: ICO, ikonlar ve faviconlar için en iyisidir. Genel görüntüler için PNG veya JPG'yi düşünün.",
+  "related_links": [
+    {
+      "title": "PNG'yi ICO'ya Dönüştür",
+      "url": "/en/convert/png-to-ico"
+    },
+    {
+      "title": "JPG'yi ICO'ya Dönüştür",
+      "url": "/en/convert/jpg-to-ico"
+    },
+    {
+      "title": "SVG'yi ICO'ya Dönüştür",
+      "url": "/en/convert/svg-to-ico"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "BMP'yi ICO'ya Dönüştür - Ücretsiz Çevrimiçi",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "description": "Faviconlar ve uygulama ikonları için BMP görüntülerini ICO'ya dönüştürmek için ücretsiz çevrimiçi araç.",
+      "inLanguage": "en",
+      "image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dönüştür",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BMP'den ICO'ya",
+          "item": "https://wikihowto.click/en/convert/bmp-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "BMP'den ICO'ya Dönüştürücü",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Birden fazla ikon boyutu",
+        "Şeffaflık desteği",
+        "Hızlı tarayıcı işleme"
+      ],
+      "screenshot": "https://wikihowto.click/images/bmp-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu BMP'den ICO'ya dönüştürücü ücretsiz mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ICO dosyaları için hangi boyutlar destekleniyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yaygın boyutlar 16×16, 32×32, 48×48, 64×64, 128×128 ve 256×256 pikseldir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Birden fazla BMP'yi aynı anda dönüştürebilir miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "BMP'yi ICO'ya nasıl dönüştürürüm",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "BMP Yükle butonuna tıklayın ve görüntünüzü seçin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "İşlemin tamamlanmasını bekleyin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "İkonu kaydetmek için ICO İndir butonuna tıklayın."
+        }
+      ],
+      "tool": [
+        "BMP'den ICO'ya Dönüştürücü"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar JPG ke WebP - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar imej JPG kepada format WebP dalam talian dengan pemampatan yang lebih baik, kualiti tinggi, dan tanpa tanda air.",
+  "hint": "Muat naik imej JPG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada WebP",
+  "btn_paste": "Muat naik JPG",
+  "btn_clear": "Kosongkan",
+  "ogImage": "https://wikihowto.click/images/jpg-to-webp.jpg",
+  "converter": {
+    "type": "jpg-to-webp",
+    "inputFormat": "JPG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p>Transformasikan <strong>JPG anda kepada WebP</strong> untuk prestasi web yang lebih baik! Penukar percuma kami menghasilkan imej yang sangat dioptimumkan yang dimuat lebih cepat dan menggunakan jalur lebar yang lebih sedikit. WebP menyediakan pemampatan yang sangat baik sambil mengekalkan kualiti visual — sempurna untuk laman web, aplikasi mudah alih, dan kandungan digital.</p><p>WebP sering memberikan fail yang sehingga 30% lebih kecil daripada JPG pada kualiti yang sama dan disokong oleh semua pelayar moden. Kami secara automatik menyeimbangkan saiz dan kesetiaan untuk Core Web Vitals yang kuat.</p>",
+  "head": {
+    "title": "Tukar JPG kepada WebP Dalam Talian - Penukar JPG ke WebP Percuma | WikiHowTo.click",
+    "description": "Tukar JPG kepada WebP dalam talian dengan pemampatan yang lebih baik, kualiti tinggi, dan tanpa tanda air. Alat penukar JPG ke WebP percuma, cepat, dan selamat.",
+    "keywords": "jpg ke webp, tukar jpg ke webp, percuma jpg ke webp, penukar webp dalam talian, pengoptimuman imej",
+    "canonical": "https://wikihowto.click/ms/convert/jpg-to-webp",
+    "og_title": "Penukar JPG ke WebP - Percuma & Dalam Talian",
+    "og_description": "Tukar imej JPG kepada format WebP dengan pemampatan yang lebih baik dan kualiti tinggi. 100% percuma, cepat, dan selamat.",
+    "og_url": "https://wikihowto.click/ms/convert/jpg-to-webp",
+    "og_image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Penukar JPG ke WebP Percuma Dalam Talian",
+    "twitter_description": "Tukar JPG kepada WebP dengan pemampatan yang lebih baik, kualiti tinggi, dan tanpa tanda air. Berfungsi pada semua peranti.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-webp.jpg"
+  },
+  "h1": {
+    "title": "Tukar JPG kepada WebP Dalam Talian",
+    "description": "Penukar JPG ke WebP percuma dan cepat dengan pemampatan yang lebih baik dan kualiti tinggi. Berfungsi serta-merta pada mana-mana peranti, tanpa pendaftaran diperlukan."
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar JPG kepada WebP?",
+      "description": "<p>WebP adalah format moden yang mengatasi imej tradisional:</p><ul><li><strong>Pemampatan yang Lebih Baik:</strong> Biasanya 25–35% lebih kecil daripada JPG pada kualiti yang sama.</li><li><strong>Prestasi yang Lebih Baik:</strong> Halaman lebih cepat dan jalur lebar yang dikurangkan.</li><li><strong>Sokongan Luas:</strong> Berfungsi di semua pelayar utama.</li><li><strong>Ketelusan & Animasi:</strong> WebP menyokong kedua-duanya (animasi tidak relevan semasa menukar JPG).</li></ul>"
+    },
+    {
+      "title": "Cara Tukar JPG kepada WebP Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik JPG</em> dan pilih fail anda.</li><li>Tunggu untuk pemprosesan dan pengoptimuman.</li><li>Klik <em>Muat turun WebP</em> untuk menyimpan imej anda.</li></ol><p>Kualiti dan saiz disesuaikan secara automatik untuk penggunaan web biasa.</p>"
+    },
+    {
+      "title": "Perbandingan WebP vs JPG",
+      "description": "<ul><li><strong>Saiz Fail:</strong> WebP biasanya 25–35% lebih kecil.</li><li><strong>Kualiti:</strong> Lebih sedikit artefak pada bitrate yang sama.</li><li><strong>Sokongan Pelayar:</strong> WebP disokong oleh pelayar moden.</li><li><strong>Ketelusan:</strong> WebP menyokong alpha; JPG tidak.</li></ul>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input yang Diterima:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Pemampatan:</strong> WebP lossy, kualiti ≈ 90</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Pelayar lama:</strong> Gunakan elemen <code>&lt;picture&gt;</code> dengan fallback JPG.</li><li><strong>Peralihan warna:</strong> Tukar imej kepada sRGB sebelum muat naik untuk warna web yang konsisten.</li><li><strong>Fail terlalu besar:</strong> Kurangkan kualiti WebP sedikit atau ubah saiz sebelum menukar.</li><li><strong>Muat naik gagal:</strong> Pastikan JPG/JPEG dan ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar JPG ke WebP ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Adakah WebP berfungsi di semua pelayar?",
+      "answer": "WebP disokong oleh semua pelayar moden (Chrome, Firefox, Safari, Edge). Sediakan fallback JPG untuk pelayar yang sangat lama."
+    },
+    {
+      "question": "Berapa banyak fail WebP lebih kecil berbanding JPG?",
+      "answer": "Biasanya 25–35% lebih kecil pada kualiti yang sama, bergantung pada imej."
+    },
+    {
+      "question": "Saiz fail apa yang disokong?",
+      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Bolehkah saya menukar beberapa JPG sekaligus?",
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+    },
+    {
+      "question": "Adakah WebP lebih baik daripada JPG untuk laman web?",
+      "answer": "Ya. WebP biasanya memberikan fail yang lebih kecil pada kualiti yang sama, meningkatkan kelajuan muat dan Core Web Vitals."
+    }
+  ],
+  "note": "Untuk keserasian maksimum, hidangkan WebP dengan fallback JPG menggunakan elemen <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Tukar JPG kepada PNG",
+      "url": "/ms/convert/jpg-to-png"
+    },
+    {
+      "title": "Tukar PNG kepada WebP",
+      "url": "/ms/convert/png-to-webp"
+    },
+    {
+      "title": "Tukar WebP kepada JPG",
+      "url": "/ms/convert/webp-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar JPG ke WebP - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/jpg-to-webp",
+      "description": "Alat dalam talian percuma untuk menukar imej JPG kepada WebP dengan pemampatan yang lebih baik dan kualiti tinggi.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG ke WebP",
+          "item": "https://wikihowto.click/ms/convert/jpg-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar JPG ke WebP",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/jpg-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Pemampatan yang lebih baik",
+        "Output berkualiti tinggi",
+        "Pemprosesan cepat"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar JPG ke WebP ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz fail apa yang disokong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Adakah WebP berfungsi di semua pelayar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "WebP disokong oleh semua pelayar moden; sediakan fallback JPG untuk yang lebih lama."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar JPG kepada WebP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik JPG dan pilih fail anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu pemprosesan dan pengoptimuman selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat turun WebP untuk menyimpan hasil."
+        }
+      ],
+      "tool": [
+        "Penukar JPG ke WebP"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

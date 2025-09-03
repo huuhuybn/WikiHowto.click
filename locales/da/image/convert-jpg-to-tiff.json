@@ -1,0 +1,244 @@
+{
+  "lang": "da",
+  "lang_name": "Dansk",
+  "title": "JPG til TIFF Konverter - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konverter JPG-billeder til TIFF online med tabsfri kompressionsmuligheder og printklar kvalitet. Ingen vandmærker.",
+  "hint": "Upload dit JPG-billede for at starte konverteringen...",
+  "btn_download": "Konverter til TIFF",
+  "btn_paste": "Upload JPG",
+  "btn_clear": "Ryd",
+  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "head": {
+    "title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter",
+    "description": "Konverter JPG-billeder til TIFF-format online gratis. Højkvalitets JPG til TIFF konvertering med hurtig behandling.",
+    "keywords": "jpg til tiff, konverter jpg til tiff, gratis jpg til tiff, online tiff konverter, billede konvertering",
+    "canonical": "https://wikihowto.click/en/convert/jpg-to-tiff",
+    "og_title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter",
+    "og_description": "Konverter JPG-billeder til TIFF-format online gratis. Højkvalitets JPG til TIFF konvertering med hurtig behandling.",
+    "og_url": "https://wikihowto.click/en/convert/jpg-to-tiff",
+    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter",
+    "twitter_description": "Konverter JPG-billeder til TIFF-format online gratis. Højkvalitets JPG til TIFF konvertering med hurtig behandling.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Konverter JPG til TIFF Online",
+    "description": "Gratis JPG til TIFF konverter med tabsfri kompressionsmuligheder og printklar output. Fungerer på enhver enhed — ingen tilmelding kræves."
+  },
+  "converter": {
+    "type": "jpg-to-tiff",
+    "title": "JPG til TIFF Konverter",
+    "description": "Konverter JPG-billeder til TIFF med LZW/ZIP tabsfri kompression og nøjagtige farver.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Tabsfri TIFF (LZW/ZIP) mulighed",
+      "Printklar kvalitet",
+      "Nøjagtige farver",
+      "Gratis online værktøj"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 24,
+        "dpi": 300,
+        "alpha": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "JPG til TIFF Konvertering Fuldført",
+    "back_button": "Tilbage til Konverter",
+    "convert_another": "Konverter En Anden JPG",
+    "quick_conversions": "Hurtige Konverteringer:"
+  },
+  "h2": [
+    {
+      "title": "Hvorfor Konvertere JPG til TIFF?",
+      "description": "<p>TIFF er et professionelt, arkivkvalitetsformat, der bruges i billedbehandling og print:</p><ul><li><strong>Tabsfri muligheder:</strong> Gem et rent masterbillede uden nye JPEG artefakter.</li><li><strong>Printklar:</strong> Bevarer detaljer til højopløsningsoutput.</li><li><strong>Fleksibel:</strong> Understøtter alpha-kanal og flere farverum (læserafhængig).</li><li><strong>Workflow-venlig:</strong> Stabil til gentagne redigeringer og overdragelser.</li></ul><p><em>Bemærk:</em> Konvertering fra JPG (med tab) vil ikke magisk genskabe tabte detaljer — men hjælper med at undgå yderligere forringelse ved efterfølgende gemninger.</p>"
+    },
+    {
+      "title": "Hvordan Konverterer Man JPG til TIFF Online",
+      "description": "<ol><li>Klik på <em>Upload JPG</em> og vælg dit foto.</li><li>Vent på behandling.</li><li>Klik på <em>Download TIFF</em> for at gemme filen.</li></ol><p>Standard: 24-bit RGB, LZW tabsfri, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs JPG: Nøgleforskelle",
+      "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kompression</td><td>Med tab (JPEG)</td><td>Tabsfri (LZW/ZIP) eller JPEG/ingen</td></tr><tr><td>Filstørrelse</td><td> lille</td><td>Større (afhænger af kompression)</td></tr><tr><td>Transparens</td><td>Nej</td><td>Valgfri alpha (læserafhængig)</td></tr><tr><td>Bedst til</td><td>Web/billede deling</td><td>Redigering, print, arkivering</td></tr></tbody></table>"
+    },
+    {
+      "title": "Understøttede Grænser & Formater",
+      "description": "<ul><li><strong>Acceptabel input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Standard:</strong> 24-bit RGB, LZW kompression, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Fejlfinding",
+      "description": "<ul><li><strong>Fil for stor:</strong> TIFF er tungere af design. For mindre tabsfri, prøv <a href='/en/convert/jpg-to-png'>JPG til PNG</a>.</li><li><strong>Har brug for transparens:</strong> Kilde JPG mangler alpha; konverter og rediger alpha i en editor, eller start fra PNG.</li><li><strong>Farveskift:</strong> Konverter til sRGB før upload for webkonsistens.</li><li><strong>Upload mislykkedes:</strong> Sørg for JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Er denne JPG til TIFF konverter gratis?",
+      "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+    },
+    {
+      "question": "Vil TIFF fungere i alle applikationer?",
+      "answer": "TIFF understøttes bredt i professionelle apps (Photoshop, Affinity, mange RIP/print værktøjer). Nogle enkle visere understøtter muligvis ikke alle kompressionsmuligheder."
+    },
+    {
+      "question": "Hvor meget større er TIFF-filer sammenlignet med JPG?",
+      "answer": "Typisk 3–10× større end JPG med samme dimensioner (varierer efter indhold og kompression)."
+    },
+    {
+      "question": "Hvilke filstørrelser understøttes?",
+      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
+    },
+    {
+      "question": "Er mine filer sikre?",
+      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
+    },
+    {
+      "question": "Kan jeg konvertere flere JPG'er på én gang?",
+      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
+    },
+    {
+      "question": "Understøtter TIFF lag?",
+      "answer": "Standard TIFF er et fladt billede; nogle applikationer gemmer 'lagdelt TIFF' på deres egen måde. Dette værktøj udskriver flad TIFF."
+    }
+  ],
+  "note": "TIFF er velegnet til opbevaring/tryk, men har stor filstørrelse. Til web, overvej PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Konverter JPG til PNG",
+      "url": "/en/convert/jpg-to-png"
+    },
+    {
+      "title": "Konverter JPG til WebP",
+      "url": "/en/convert/jpg-to-webp"
+    },
+    {
+      "title": "Konverter PNG til TIFF",
+      "url": "/en/convert/png-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rettigheder forbeholdes.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG til TIFF Konverter - Gratis & Online",
+      "url": "https://wikihowto.click/en/convert/jpg-to-tiff",
+      "description": "Gratis online værktøj til at konvertere JPG-billeder til TIFF med tabsfri kompression og printklar output.",
+      "inLanguage": "da",
+      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hjem",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konverter",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG til TIFF",
+          "item": "https://wikihowto.click/en/convert/jpg-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG til TIFF Konverter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/jpg-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Tabsfri LZW mulighed",
+        "Printklar 300 DPI",
+        "Nøjagtige farver"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er denne JPG til TIFF konverter gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvilke filstørrelser understøttes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du kan uploade billeder op til 16 MB pr. fil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Understøtter TIFF lag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard TIFF er flad. Nogle apps gemmer private lagdata; dette værktøj udskriver en flad TIFF."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hvordan man konverterer JPG til TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik på Upload JPG og vælg dit foto."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vent på, at behandlingen er færdig."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik på Download TIFF for at gemme filen."
+        }
+      ],
+      "tool": [
+        "JPG til TIFF Konverter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

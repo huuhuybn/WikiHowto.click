@@ -1,0 +1,238 @@
+{
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "SVG 转 PNG 转换器 - 免费在线 | WikiHowTo.click",
+  "sub_title": "在线将 SVG 矢量图形转换为 PNG，具有清晰的光栅化、透明度和无水印。",
+  "hint": "上传您的 SVG 文件以开始转换...",
+  "btn_download": "转换为 PNG",
+  "btn_paste": "上传 SVG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "将 SVG 转换为 PNG - 免费在线 SVG 转 PNG 转换器 | WikiHowTo.click",
+    "description": "在线免费将 SVG 矢量图形转换为 PNG。高质量的 SVG→PNG 光栅化，快速处理和透明度支持。",
+    "keywords": "svg 转 png, 将 svg 转换为 png, 矢量转光栅, 免费 svg 转换器, 在线 png 转换器",
+    "canonical": "https://wikihowto.click/zh/convert/svg-to-png",
+    "og_title": "SVG 转 PNG 转换器 - 免费在线",
+    "og_description": "以清晰的光栅化和透明度将 SVG 转换为 PNG。100% 免费，快速且安全。",
+    "og_url": "https://wikihowto.click/zh/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免费的 SVG 转 PNG 在线转换器",
+    "twitter_description": "以透明度支持和高质量将 SVG 转换为 PNG。适用于所有设备。",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "在线将 SVG 转换为 PNG",
+    "description": "免费的快速 SVG 转 PNG 转换器，具有清晰的光栅化和透明度支持。可在任何设备上即时使用，无需注册。"
+  },
+  "description": "<p>在几秒钟内将您的 <strong>SVG 转换为 PNG</strong>。这个免费的在线转换器将您的矢量图形光栅化为高质量的 PNG 图像，同时保留透明度，以便在任何背景上保持干净的边缘。</p><p>非常适合网站图标、应用资产、社交图像和网页图形。我们优化输出，以实现清晰度和文件大小的良好平衡。</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "SVG 转 PNG 转换器",
+    "description": "将 SVG 矢量图形转换为高质量和快速处理的 PNG 光栅格式。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "高质量光栅化",
+      "保留透明度",
+      "快速处理",
+      "免费的在线工具"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparent",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "SVG 转 PNG 转换完成",
+    "back_button": "返回转换器",
+    "convert_another": "转换另一个 SVG",
+    "quick_conversions": "快速转换："
+  },
+  "h2": [
+    {
+      "title": "为什么要将 SVG 转换为 PNG？",
+      "description": "<ul><li><strong>通用兼容性：</strong> PNG 在任何地方都能显示，无需 SVG 支持。</li><li><strong>透明度：</strong> 保留 alpha 用于叠加和 UI 元素。</li><li><strong>性能：</strong> 更小的可缓存位图用于生产。</li></ul>"
+    },
+    {
+      "title": "如何在线将 SVG 转换为 PNG",
+      "description": "<ol><li>点击 <em>上传 SVG</em> 并选择您的文件。</li><li>等待光栅化和优化。</li><li>点击 <em>下载 PNG</em> 保存您的图像。</li></ol><p>默认情况下保留透明度和均衡压缩。</p>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的输入：</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>最大文件大小：</strong> 16&nbsp;MB</li><li><strong>输出：</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "清晰输出的最佳实践",
+      "description": "<ul><li>使用带有填充的正方形画板，以避免边缘剪裁。</li><li>将文本转换为轮廓；嵌入字体和图像。</li><li>避免过于细的线条用于小图标（≥1px 在目标大小下）。</li><li>如果稍后要缩小，请导出更大（例如，512–1024 px）。</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>缺少字体/过滤器：</strong> 内联资产并将文本转换为轮廓。</li><li><strong>锯齿边缘：</strong> 增加目标大小或 <code>scale</code>，然后下采样。</li><li><strong>实心背景：</strong> 确保在选项中将 <code>background</code> 设置为 <em>transparent</em>。</li><li><strong>上传失败：</strong> 确保有效的 SVG 并且 ≤16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 SVG 转 PNG 转换器是免费的么？",
+      "answer": "是的，它完全免费，没有水印或隐藏费用。"
+    },
+    {
+      "question": "PNG 是否保留透明度？",
+      "answer": "是的。PNG 支持 alpha 透明度，我们默认保留它。"
+    },
+    {
+      "question": "我可以选择输出大小吗？",
+      "answer": "默认情况下，我们使用 SVG 视口。如果支持，您可以在高级选项中设置宽度/高度或缩放因子。"
+    },
+    {
+      "question": "适用的文件大小限制是什么？",
+      "answer": "您可以上传最大为 16 MB 的 SVG 文件。"
+    },
+    {
+      "question": "为什么我的 PNG 看起来与 SVG 不同？",
+      "answer": "外部字体、过滤器或链接资产在光栅化时可能会呈现不同。将文本转换为轮廓并内联资产以获得一致的结果。"
+    }
+  ],
+  "note": "SVG 在转换过程中被光栅化。为了获得可预测的结果，请将文本轮廓化并嵌入任何外部资产。",
+  "related_links": [
+    {
+      "title": "将 SVG 转换为 ICO",
+      "url": "/zh/convert/svg-to-ico"
+    },
+    {
+      "title": "将 PNG 转换为 SVG",
+      "url": "/zh/convert/png-to-svg"
+    },
+    {
+      "title": "在线压缩 PNG",
+      "url": "/zh/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版权所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG 转 PNG 转换器 - 免费在线",
+      "url": "https://wikihowto.click/zh/convert/svg-to-png",
+      "description": "免费的在线工具，将 SVG 矢量图形转换为带透明度的 PNG。",
+      "inLanguage": "zh",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "转换",
+          "item": "https://wikihowto.click/zh/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG 转 PNG",
+          "item": "https://wikihowto.click/zh/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG 转 PNG 转换器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "清晰的光栅化",
+        "保留透明度",
+        "快速处理"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这个 SVG 转 PNG 转换器是免费的么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，它完全免费，没有水印或隐藏费用。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "PNG 是否保留透明度？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，alpha 透明度默认保留。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "适用的文件大小限制是什么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上传最大为 16 MB 的 SVG 文件。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何将 SVG 转换为 PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "点击上传 SVG 并选择您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待光栅化和优化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "点击下载 PNG 保存您的图像。"
+        }
+      ],
+      "tool": [
+        "SVG 转 PNG 转换器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

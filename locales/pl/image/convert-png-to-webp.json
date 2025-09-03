@@ -1,0 +1,226 @@
+{
+  "lang": "pl",
+  "lang_name": "Polski",
+  "title": "Konwerter PNG na WebP - Darmowy i Online | WikiHowTo.click",
+  "sub_title": "Konwertuj obrazy PNG na format WebP online z obsługą przezroczystości, lepszą kompresją i bez znaków wodnych.",
+  "hint": "Prześlij swój obraz PNG, aby rozpocząć konwersję...",
+  "btn_download": "Konwertuj na WebP",
+  "btn_paste": "Prześlij PNG",
+  "btn_clear": "Wyczyść",
+  "ogImage": "https://wikihowto.click/images/png-to-webp.jpg",
+  "converter": {
+    "type": "png-to-webp",
+    "inputFormat": "PNG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p>Optymalizuj swoje <strong>PNG na WebP</strong> dla nowoczesnej sieci! Nasz darmowy konwerter zachowuje przezroczystość, jednocześnie dostarczając znacznie mniejsze pliki. WebP łączy alfa PNG z nowoczesną kompresją, co czyni go idealnym do logo, grafik UI i obrazów, które potrzebują wyraźnych krawędzi.</p><p>W wielu przypadkach WebP jest <strong>30–50% mniejsze</strong> niż PNG przy podobnej jakości wizualnej i jest obsługiwane przez wszystkie główne przeglądarki. Automatycznie dostosowujemy ustawienia, aby zrównoważyć wierność i rozmiar dla szybszych stron i mniejszego zużycia pasma.</p>",
+  "head": {
+    "title": "Konwertuj PNG na WebP Online - Darmowy konwerter PNG na WebP | WikiHowTo.click",
+    "description": "Konwertuj PNG na WebP online z obsługą przezroczystości, lepszą kompresją i bez znaków wodnych. Darmowe, szybkie i bezpieczne narzędzie do konwersji PNG na WebP.",
+    "keywords": "png na webp, konwertuj png na webp, darmowy png na webp, online konwerter webp, przezroczyste obrazy",
+    "canonical": "https://wikihowto.click/pl/convert/png-to-webp",
+    "og_title": "Konwerter PNG na WebP - Darmowy i Online",
+    "og_description": "Konwertuj obrazy PNG na WebP z przezroczystością i lepszą kompresją. 100% darmowe, szybkie i bezpieczne.",
+    "og_url": "https://wikihowto.click/pl/convert/png-to-webp",
+    "og_image": "https://wikihowto.click/images/png-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Darmowy konwerter PNG na WebP Online",
+    "twitter_description": "Konwertuj PNG na WebP z obsługą przezroczystości i lepszą kompresją. Działa na wszystkich urządzeniach.",
+    "twitter_image": "https://wikihowto.click/images/png-to-webp.jpg"
+  },
+  "h1": {
+    "title": "Konwertuj PNG na WebP Online",
+    "description": "Darmowy i szybki konwerter PNG na WebP z obsługą przezroczystości i lepszą kompresją. Działa natychmiast na każdym urządzeniu — bez rejestracji."
+  },
+  "h2": [
+    {
+      "title": "Dlaczego konwertować PNG na WebP?",
+      "description": "<p>WebP jest nowoczesnym zamiennikiem ciężkich zasobów PNG:</p><ul><li><strong>Mniejsze pliki:</strong> Zwykle 30–50% mniejsze niż PNG.</li><li><strong>Przezroczystość:</strong> Zachowuje kanał alfa jak PNG.</li><li><strong>Wydajność:</strong> Szybsze ładowanie stron i mniejsze zużycie pasma.</li><li><strong>Kompatybilność:</strong> Obsługiwane przez wszystkie główne przeglądarki.</li></ul>"
+    },
+    {
+      "title": "Jak konwertować PNG na WebP Online",
+      "description": "<ol><li>Kliknij <em>Prześlij PNG</em> i wybierz swój plik.</li><li>Poczekaj na przetwarzanie i optymalizację.</li><li>Kliknij <em>Pobierz WebP</em>, aby zapisać wynik.</li></ol><p>Domyślnie celuje w rozmiar/jakość przyjazną dla sieci, zachowując czyste krawędzie.</p>"
+    },
+    {
+      "title": "Porównanie WebP i PNG",
+      "description": "<ul><li><strong>Rozmiar pliku:</strong> WebP jest zazwyczaj 30–50% mniejsze.</li><li><strong>Przezroczystość:</strong> Oba obsługują alfa.</li><li><strong>Jakość:</strong> Podobna postrzegana jakość przy mniejszej liczbie bajtów dla WebP.</li><li><strong>Kompresja:</strong> WebP używa bardziej efektywnych kodeków.</li></ul>"
+    },
+    {
+      "title": "Obsługiwane limity i formaty",
+      "description": "<ul><li><strong>Akceptowane wejście:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16&nbsp;MB na plik</li><li><strong>Wyjście:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Kodowanie:</strong> Stratne WebP, jakość ≈ 90; zachowana przezroczystość</li></ul>"
+    },
+    {
+      "title": "Rozwiązywanie problemów",
+      "description": "<ul><li><strong>Starsze przeglądarki:</strong> Serwuj WebP z zapasowym PNG za pomocą elementu <code>&lt;picture&gt;</code>.</li><li><strong>Halos na krawędziach:</strong> Zacznij od wyższego rozdzielczości PNG lub popraw alfa; WebP zachowuje przezroczystość, ale ząbkowanie może pochodzić z źródła.</li><li><strong>Wciąż za duże:</strong> Nieco niższa jakość (80–85%) lub zmień rozmiar przed konwersją.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że PNG ma ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy ten konwerter PNG na WebP jest darmowy?",
+      "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+    },
+    {
+      "question": "Czy WebP zachowa przezroczystość z PNG?",
+      "answer": "Tak. WebP w pełni obsługuje alfa i zachowuje przezroczystość z twojego PNG."
+    },
+    {
+      "question": "Jak dużo mniejsze są pliki WebP w porównaniu do PNG?",
+      "answer": "Często 30–50% mniejsze przy porównywalnej jakości wizualnej, w zależności od obrazu."
+    },
+    {
+      "question": "Czy WebP będzie działać we wszystkich przeglądarkach?",
+      "answer": "WebP jest obsługiwane przez wszystkie nowoczesne przeglądarki (Chrome, Firefox, Safari, Edge). Zapewnij zapasowe PNG dla bardzo starych przeglądarek."
+    },
+    {
+      "question": "Jakie rozmiary plików są obsługiwane?",
+      "answer": "Możesz przesyłać obrazy do 16&nbsp;MB na plik."
+    },
+    {
+      "question": "Czy mogę konwertować wiele PNG jednocześnie?",
+      "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorowych powtórz proces lub użyj narzędzia wsadowego."
+    }
+  ],
+  "note": "Aby uzyskać maksymalną kompatybilność, serwuj WebP z zapasowym PNG za pomocą <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Konwertuj WebP na PNG",
+      "url": "/pl/convert/webp-to-png"
+    },
+    {
+      "title": "Konwertuj PNG na AVIF",
+      "url": "/pl/convert/png-to-avif"
+    },
+    {
+      "title": "Konwertuj PNG na JPG",
+      "url": "/pl/convert/png-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Wszelkie prawa zastrzeżone.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Konwerter PNG na WebP - Darmowy i Online",
+      "url": "https://wikihowto.click/pl/convert/png-to-webp",
+      "description": "Darmowe narzędzie online do konwersji obrazów PNG na WebP z obsługą przezroczystości i lepszą kompresją.",
+      "inLanguage": "pl",
+      "image": "https://wikihowto.click/images/png-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Strona główna",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konwertuj",
+          "item": "https://wikihowto.click/pl/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG na WebP",
+          "item": "https://wikihowto.click/pl/convert/png-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Konwerter PNG na WebP",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/pl/convert/png-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Zachowana przezroczystość",
+        "Lepsza kompresja",
+        "Szybkie przetwarzanie"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy ten konwerter PNG na WebP jest darmowy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jakie rozmiary plików są obsługiwane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Możesz przesyłać obrazy do 16 MB na plik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy WebP zachowa przezroczystość z PNG?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. WebP obsługuje kanał alfa i zachowuje przezroczystość."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Jak konwertować PNG na WebP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknij Prześlij PNG i wybierz swój plik."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Poczekaj na zakończenie przetwarzania i optymalizacji."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknij Pobierz WebP, aby zapisać wynik."
+        }
+      ],
+      "tool": [
+        "Konwerter PNG na WebP"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

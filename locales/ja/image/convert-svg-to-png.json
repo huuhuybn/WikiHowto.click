@@ -1,0 +1,238 @@
+{
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "SVGからPNGへの変換 - 無料＆オンライン | WikiHowTo.click",
+  "sub_title": "SVGベクターグラフィックスをオンラインでPNGに変換し、鮮明なラスタライズ、透明性、ウォーターマークなしで提供します。",
+  "hint": "変換を開始するにはSVGファイルをアップロードしてください...",
+  "btn_download": "PNGに変換",
+  "btn_paste": "SVGをアップロード",
+  "btn_clear": "クリア",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "SVGからPNGへの変換 - 無料オンラインSVGからPNGへの変換ツール | WikiHowTo.click",
+    "description": "SVGベクターグラフィックスを無料でオンラインでPNGに変換します。高品質のSVG→PNGラスタライズで迅速な処理と透明性のサポートを提供します。",
+    "keywords": "svgからpng, svgをpngに変換, ベクターからラスタ, 無料svg変換ツール, オンラインpng変換ツール",
+    "canonical": "https://wikihowto.click/ja/convert/svg-to-png",
+    "og_title": "SVGからPNGへの変換 - 無料＆オンライン",
+    "og_description": "鮮明なラスタライズと透明性でSVGをPNGに変換します。100％無料、迅速、安全です。",
+    "og_url": "https://wikihowto.click/ja/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "無料SVGからPNGへのオンライン変換ツール",
+    "twitter_description": "透明性のサポートと高品質でSVGをPNGに変換します。すべてのデバイスで動作します。",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "オンラインでSVGをPNGに変換",
+    "description": "鮮明なラスタライズと透明性のサポートを備えた無料で迅速なSVGからPNGへの変換ツール。すべてのデバイスで即座に動作します - サインアップは不要です。"
+  },
+  "description": "<p><strong>SVGをPNG</strong>に数秒で変換します。この無料のオンライン変換ツールは、ベクターグラフィックスを高品質のPNG画像にラスタライズし、背景に対してクリーンなエッジを保つための透明性を保持します。</p><p>ファビコン、アプリ資産、ソーシャル画像、ウェブグラフィックスに最適です。出力を明瞭さとファイルサイズの強いバランスに最適化します。</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "SVGからPNGへの変換ツール",
+    "description": "SVGベクターグラフィックスを高品質で迅速な処理を伴うPNGラスタ形式に変換します。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "高品質のラスタライズ",
+      "透明性を保持",
+      "迅速な処理",
+      "無料のオンラインツール"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparent",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "SVGからPNGへの変換が完了しました",
+    "back_button": "変換ツールに戻る",
+    "convert_another": "別のSVGを変換",
+    "quick_conversions": "クイック変換:"
+  },
+  "h2": [
+    {
+      "title": "なぜSVGをPNGに変換するのか？",
+      "description": "<ul><li><strong>ユニバーサル互換性:</strong> PNGはどこでも表示され、SVGのサポートは必要ありません。</li><li><strong>透明性:</strong> オーバーレイやUI要素のためにアルファを保持します。</li><li><strong>パフォーマンス:</strong> 生産のための小さく、キャッシュ可能なビットマップ。</li></ul>"
+    },
+    {
+      "title": "オンラインでSVGをPNGに変換する方法",
+      "description": "<ol><li><em>SVGをアップロード</em>をクリックし、ファイルを選択します。</li><li>ラスタライズと最適化を待ちます。</li><li><em>PNGをダウンロード</em>をクリックして画像を保存します。</li></ol><p>デフォルトでは透明性とバランスの取れた圧縮を保持します。</p>"
+    },
+    {
+      "title": "サポートされる制限とフォーマット",
+      "description": "<ul><li><strong>受け入れられる入力:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>最大ファイルサイズ:</strong> 16&nbsp;MB</li><li><strong>出力:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "鮮明な出力のためのベストプラクティス",
+      "description": "<ul><li>クリッピングを避けるためにパディングのある正方形のアートボードを使用します。</li><li>テキストをアウトラインに変換し、フォントと画像を埋め込みます。</li><li>小さなアイコンには過度に細いストロークを避けます（ターゲットサイズで≥1px）。</li><li>後で縮小する場合は、より大きくエクスポートします（例：512–1024 px）。</li></ul>"
+    },
+    {
+      "title": "トラブルシューティング",
+      "description": "<ul><li><strong>フォント/フィルターが欠落している:</strong> インラインアセットを使用し、テキストをアウトラインに変換します。</li><li><strong>ギザギザのエッジ:</strong> ターゲットサイズを増やすか、<code>scale</code>を増加させ、その後ダウンサンプルします。</li><li><strong>ソリッド背景:</strong> オプションで<code>background</code>が<em>transparent</em>に設定されていることを確認します。</li><li><strong>アップロード失敗:</strong> 有効なSVGであり、≤16&nbsp;MBであることを確認します。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このSVGからPNGへの変換ツールは無料ですか？",
+      "answer": "はい、完全に無料で、ウォーターマークや隠れた料金はありません。"
+    },
+    {
+      "question": "PNGは透明性を保持しますか？",
+      "answer": "はい。PNGはアルファ透明性をサポートし、デフォルトでそれを保持します。"
+    },
+    {
+      "question": "出力サイズを選択できますか？",
+      "answer": "デフォルトではSVGのviewBoxを使用します。サポートされている場合は、高度なオプションで幅/高さまたはスケールファクターを設定できます。"
+    },
+    {
+      "question": "どのようなファイルサイズの制限がありますか？",
+      "answer": "最大16MBのSVGファイルをアップロードできます。"
+    },
+    {
+      "question": "なぜ私のPNGはSVGと異なって見えるのですか？",
+      "answer": "外部フォント、フィルター、またはリンクされたアセットは、ラスタライズ時に異なるレンダリングをすることがあります。テキストをアウトラインに変換し、一貫した結果のためにインラインアセットを使用してください。"
+    }
+  ],
+  "note": "SVGは変換中にラスタライズされます。予測可能な結果を得るために、テキストをアウトラインにし、外部アセットを埋め込んでください。",
+  "related_links": [
+    {
+      "title": "SVGをICOに変換",
+      "url": "/ja/convert/svg-to-ico"
+    },
+    {
+      "title": "PNGをSVGに変換",
+      "url": "/ja/convert/png-to-svg"
+    },
+    {
+      "title": "PNGをオンラインで圧縮",
+      "url": "/ja/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 全著作権所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVGからPNGへの変換 - 無料＆オンライン",
+      "url": "https://wikihowto.click/ja/convert/svg-to-png",
+      "description": "透明性を持つSVGベクターグラフィックスをPNGに変換するための無料のオンラインツール。",
+      "inLanguage": "ja",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "変換",
+          "item": "https://wikihowto.click/ja/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVGからPNG",
+          "item": "https://wikihowto.click/ja/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVGからPNGへの変換ツール",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ja/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "JPY"
+      },
+      "featureList": [
+        "鮮明なラスタライズ",
+        "透明性を保持",
+        "迅速な処理"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "このSVGからPNGへの変換ツールは無料ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、完全に無料で、ウォーターマークや隠れた料金はありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "PNGは透明性を保持しますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、アルファ透明性はデフォルトで保持されます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのようなファイルサイズの制限がありますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "最大16MBのSVGファイルをアップロードできます。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "SVGをPNGに変換する方法",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "SVGをアップロードをクリックし、ファイルを選択します。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "ラスタライズと最適化が完了するのを待ちます。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "PNGをダウンロードをクリックして画像を保存します。"
+        }
+      ],
+      "tool": [
+        "SVGからPNGへの変換ツール"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

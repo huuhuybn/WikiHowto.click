@@ -1,0 +1,253 @@
+{
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "TIFF-i ICO konverter - Tasuta ja veebis | WikiHowTo.click",
+  "sub_title": "Muuda TIFF pilte ICO formaati veebis faviconide ja töölauasümbolite jaoks. Tasuta, kiire ja ilma veemärkideta.",
+  "hint": "Laadi üles oma TIFF pilt, et alustada konverteerimist...",
+  "btn_download": "Muuda ICO-ks",
+  "btn_paste": "Laadi üles TIFF",
+  "btn_clear": "Kustuta",
+  "ogImage": "https://wikihowto.click/images/tiff-to-ico.jpg",
+  "head": {
+    "title": "Muuda TIFF ICO-ks - Tasuta veebipõhine TIFF ICO konverter | WikiHowTo.click",
+    "description": "Muuda TIFF pilte ICO formaati veebis tasuta. Kvaliteetne TIFF ICO konverteerimine faviconide ja töölauasümbolite jaoks.",
+    "keywords": "tiff ico-ks, muuda tiff ico-ks, tasuta tiff ico-ks, veebipõhine ico konverter, sümboli konverteerimine, faviconi tegija",
+    "canonical": "https://wikihowto.click/et/convert/tiff-to-ico",
+    "og_title": "TIFF-i ICO konverter - Tasuta ja veebis",
+    "og_description": "Muuda TIFF pilte ICO formaati faviconide ja töölauasümbolite jaoks. 100% tasuta, kiire ja turvaline.",
+    "og_url": "https://wikihowto.click/et/convert/tiff-to-ico",
+    "og_image": "https://wikihowto.click/images/tiff-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Tasuta TIFF ICO konverter veebis",
+    "twitter_description": "Muuda TIFF ICO-ks faviconide ja töölauasümbolite jaoks. Töötab kõigil seadmetel.",
+    "twitter_image": "https://wikihowto.click/images/tiff-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Muuda TIFF ICO-ks veebis",
+    "description": "Tasuta ja kiire TIFF ICO konverter faviconide ja töölauasümbolite jaoks. Töötab koheselt igas seadmes - registreerimist ei nõuta."
+  },
+  "converter": {
+    "type": "tiff-to-ico",
+    "title": "TIFF-i ICO konverter",
+    "description": "Muuda TIFF pilte mitme suurusega ICO sümboliteks, säilitades läbipaistvuse, kui see on saadaval.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "TIFF",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/tiff"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "features": [
+      "Kvaliteetne ICO konverteerimine",
+      "Mitme suurusega sümbolikomplekt (16–256 px)",
+      "Läbipaistvuse säilitamine (kui see on olemas)",
+      "Kiire ja tasuta veebitööriist"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "TIFF ICO konverteerimine lõpetatud",
+    "back_button": "Tagasi konverterisse",
+    "convert_another": "Muuda teine TIFF",
+    "quick_conversions": "Kiired konverteerimised:"
+  },
+  "h2": [
+    {
+      "title": "Miks muuda TIFF ICO-ks?",
+      "description": "<p>ICO on spetsiaalselt loodud sümbolite ja faviconide jaoks:</p><ul><li><strong>Mitme suurusega ühes failis:</strong> 16–256 px variandid pakitud terava renderdamise jaoks.</li><li><strong>Faviconi standard:</strong> Töötab peamistes brauserites.</li><li><strong>Windowsi kohandatud:</strong> Ideaalne töölaua/rakenduse/otsetee sümbolite jaoks.</li><li><strong>Läbipaistvus:</strong> Alfa tugi sujuvate servade jaoks.</li></ul>"
+    },
+    {
+      "title": "Kuidas muuda TIFF ICO-ks veebis",
+      "description": "<ol><li>Kliki <em>Laadi üles TIFF</em> ja vali oma pilt.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla ICO</em>, et salvestada oma sümbol.</li></ol><p>Me genereerime automaatselt tavalised sümboli suurused.</p>"
+    },
+    {
+      "title": "Toetatud piirangud ja formaadid",
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Maksimaalne failisuurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Lehed:</strong> Mitme lehega TIFF-id: ainult <em>esimene leht</em> konverteeritakse.</li></ul>"
+    },
+    {
+      "title": "Parimad tavad teravate sümbolite jaoks",
+      "description": "<ul><li>Alusta <strong>ruudu</strong> kujutisega ja lisa vahe, et vältida lõikamist.</li><li>Kasutage selgeid kujundeid ja kõrget kontrasti 16–32 px suurustes.</li><li>Kui vajad läbipaistvaid servi, veendu, et TIFF sisaldab alfa kanalit või muuda PNG-d, millel on läbipaistvus.</li></ul>"
+    },
+    {
+      "title": "Probleemide lahendamine",
+      "description": "<ul><li><strong>Favicon ei uuene:</strong> Tühjenda brauseri vahemälu ja veendu, et lingid <code>/favicon.ico</code> koos <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Hammastega väikesed suurused:</strong> Laadi üles suurem, puhas allikas; tööriist vähendab suurust 16–32 px.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Kinnita <code>image/tiff</code> ja ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kas see TIFF ICO konverter on tasuta?",
+      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+    {
+      "question": "Kas ICO töötab kõigil operatsioonisüsteemidel?",
+      "answer": "ICO-d toetatakse natiivselt Windowsis ja tunnustavad peamised brauserid. macOS/Linuxi tööriistad saavad samuti ICO-d vaadata/redigeerida."
+    },
+    {
+      "question": "Millised suurused on ICO failide jaoks toetatud?",
+      "answer": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
+    },
+    {
+      "question": "Millised failisuurused on toetatud?",
+      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
+    },
+    {
+      "question": "Kas mu failid on turvalised?",
+      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
+    },
+    {
+      "question": "Kas ma saan korraga konverteerida mitmeid TIFF-e?",
+      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
+    },
+    {
+      "question": "Kas konverter säilitab läbipaistvuse?",
+      "answer": "Kui sinu TIFF sisaldab alfa kanalit, säilitatakse läbipaistvus ICO-s."
+    }
+  ],
+  "note": "Mitme lehega TIFF-id: ainult esimene leht konverteeritakse. Parimate tulemuste saavutamiseks kasuta ruudukujulist pilti koos vahega ja vajadusel allikat, mis sisaldab läbipaistvust.",
+  "related_links": [
+    {
+      "title": "Muuda PNG ICO-ks",
+      "url": "/et/convert/png-to-ico"
+    },
+    {
+      "title": "Muuda JPG ICO-ks",
+      "url": "/et/convert/jpg-to-ico"
+    },
+    {
+      "title": "Muuda ICO PNG-ks",
+      "url": "/et/convert/ico-to-png"
+    },
+    {
+      "title": "Muuda TIFF PNG-ks",
+      "url": "/et/convert/tiff-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF-i ICO konverter - Tasuta ja veebis",
+      "url": "https://wikihowto.click/et/convert/tiff-to-ico",
+      "description": "Tasuta veebitööriist TIFF piltide konverteerimiseks ICO-ks faviconide ja Windowsi töölauasümbolite jaoks.",
+      "inLanguage": "et",
+      "image": "https://wikihowto.click/images/tiff-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Avaleht",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Muuda",
+          "item": "https://wikihowto.click/et/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF ICO-ks",
+          "item": "https://wikihowto.click/et/convert/tiff-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF-i ICO konverter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/et/convert/tiff-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Mitme suurusega sümbolikomplekt",
+        "Läbipaistvuse säilitamine",
+        "Kiire töötlemine"
+      ],
+      "screenshot": "https://wikihowto.click/images/tiff-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kas see TIFF ICO konverter on tasuta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Millised failisuurused on toetatud?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Millised suurused on ICO failides toetatud?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kuidas muuda TIFF ICO-ks",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliki Laadi üles TIFF ja vali oma pilt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Oota töötlemise ja optimeerimise lõpetamist."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliki Laadi alla ICO, et salvestada oma sümbol."
+        }
+      ],
+      "tool": [
+        "TIFF-i ICO konverter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

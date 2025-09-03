@@ -1,0 +1,238 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar SVG ke PNG - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar grafik vektor SVG kepada PNG dalam talian dengan rasterisasi yang tajam, ketelusan, dan tanpa tanda air.",
+  "hint": "Muat naik fail SVG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada PNG",
+  "btn_paste": "Muat naik SVG",
+  "btn_clear": "Bersihkan",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "Tukar SVG kepada PNG - Penukar SVG ke PNG Dalam Talian Percuma | WikiHowTo.click",
+    "description": "Tukar grafik vektor SVG kepada PNG dalam talian secara percuma. Rasterisasi SVG→PNG berkualiti tinggi dengan pemprosesan cepat dan sokongan ketelusan.",
+    "keywords": "svg ke png, tukar svg ke png, vektor ke raster, penukar svg percuma, penukar png dalam talian",
+    "canonical": "https://wikihowto.click/ms/convert/svg-to-png",
+    "og_title": "Penukar SVG ke PNG - Percuma & Dalam Talian",
+    "og_description": "Tukar SVG kepada PNG dengan rasterisasi yang tajam dan ketelusan. 100% percuma, cepat, dan selamat.",
+    "og_url": "https://wikihowto.click/ms/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Penukar SVG ke PNG Dalam Talian Percuma",
+    "twitter_description": "Tukar SVG kepada PNG dengan sokongan ketelusan dan kualiti tinggi. Berfungsi pada semua peranti.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "Tukar SVG kepada PNG Dalam Talian",
+    "description": "Penukar SVG ke PNG percuma dan cepat dengan rasterisasi yang tajam dan sokongan ketelusan. Berfungsi secara serta-merta pada mana-mana peranti — tiada pendaftaran diperlukan."
+  },
+  "description": "<p>Tukar <strong>SVG kepada PNG</strong> dalam beberapa saat. Penukar dalam talian percuma ini merasterkan grafik vektor anda menjadi imej PNG berkualiti tinggi sambil mengekalkan ketelusan untuk tepi yang bersih pada mana-mana latar belakang.</p><p>Sesuai untuk favicon, aset aplikasi, imej sosial, dan grafik web. Kami mengoptimumkan output untuk keseimbangan yang kuat antara kejelasan dan saiz fail.</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "Penukar SVG ke PNG",
+    "description": "Tukar grafik vektor SVG kepada format raster PNG dengan kualiti tinggi dan pemprosesan cepat.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "Rasterisasi berkualiti tinggi",
+      "Ketelusan dipelihara",
+      "Pemprosesan cepat",
+      "Alat dalam talian percuma"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparent",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Penukaran SVG ke PNG Lengkap",
+    "back_button": "Kembali ke Penukar",
+    "convert_another": "Tukar SVG Lain",
+    "quick_conversions": "Penukaran Pantas:"
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar SVG kepada PNG?",
+      "description": "<ul><li><strong>Keserasian universal:</strong> PNG dipaparkan di mana-mana, tiada sokongan SVG diperlukan.</li><li><strong>Ketelusan:</strong> Kekalkan alpha untuk overlay dan elemen UI.</li><li><strong>Prestasi:</strong> Bitmap yang lebih kecil dan boleh disimpan dalam cache untuk pengeluaran.</li></ul>"
+    },
+    {
+      "title": "Cara Menukar SVG kepada PNG Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik SVG</em> dan pilih fail anda.</li><li>Tunggu untuk rasterisasi dan pengoptimuman.</li><li>Klik <em>Muat turun PNG</em> untuk menyimpan imej anda.</li></ol><p>Defaults mengekalkan ketelusan dan pemampatan yang seimbang.</p>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input diterima:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Saiz fail maksimum:</strong> 16&nbsp;MB</li><li><strong>Output:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Amalan Terbaik untuk Output yang Tajam",
+      "description": "<ul><li>Gunakan papan seni segi empat tepat dengan padding untuk mengelakkan pemotongan di tepi.</li><li>Tukar teks kepada garis besar; sematkan fon dan imej.</li><li>Elakkan strok yang terlalu nipis untuk ikon kecil (≥1px pada saiz sasaran).</li><li>Eksport lebih besar (contohnya, 512–1024 px) jika anda akan mengecilkan kemudian.</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Fon/penapis hilang:</strong> Aset dalam talian dan tukar teks kepada garis besar.</li><li><strong>Tepi bergerigi:</strong> Tingkatkan saiz sasaran atau <code>scale</code>, kemudian turun sampel.</li><li><strong>Latar belakang pepejal:</strong> Pastikan <code>background</code> ditetapkan kepada <em>transparent</em> dalam pilihan.</li><li><strong>Muat naik gagal:</strong> Pastikan SVG yang sah dan ≤16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar SVG ke PNG ini percuma?",
+      "answer": "Ya, ia sepenuhnya percuma tanpa tanda air atau caj tersembunyi."
+    },
+    {
+      "question": "Adakah PNG mengekalkan ketelusan?",
+      "answer": "Ya. PNG menyokong ketelusan alpha dan kami mengekalkannya secara default."
+    },
+    {
+      "question": "Bolehkah saya memilih saiz output?",
+      "answer": "Secara default kami menggunakan viewBox SVG. Anda boleh menetapkan lebar/tinggi atau faktor skala dalam pilihan lanjutan jika disokong."
+    },
+    {
+      "question": "Apakah had saiz fail yang dikenakan?",
+      "answer": "Anda boleh memuat naik fail SVG sehingga 16 MB."
+    },
+    {
+      "question": "Mengapa PNG saya kelihatan berbeza daripada SVG?",
+      "answer": "Fon, penapis, atau aset yang dipautkan boleh dipaparkan dengan berbeza apabila dirasterkan. Tukar teks kepada garis besar dan aset dalam talian untuk hasil yang konsisten."
+    }
+  ],
+  "note": "SVG dirasterkan semasa penukaran. Untuk hasil yang boleh diramalkan, garis besar teks dan sematkan sebarang aset luar.",
+  "related_links": [
+    {
+      "title": "Tukar SVG kepada ICO",
+      "url": "/ms/convert/svg-to-ico"
+    },
+    {
+      "title": "Tukar PNG kepada SVG",
+      "url": "/ms/convert/png-to-svg"
+    },
+    {
+      "title": "Mampatkan PNG Dalam Talian",
+      "url": "/ms/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar SVG ke PNG - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/svg-to-png",
+      "description": "Alat dalam talian percuma untuk menukar grafik vektor SVG kepada PNG dengan ketelusan.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG ke PNG",
+          "item": "https://wikihowto.click/ms/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar SVG ke PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Rasterisasi tajam",
+        "Ketelusan dipelihara",
+        "Pemprosesan cepat"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar SVG ke PNG ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, ia sepenuhnya percuma tanpa tanda air atau caj tersembunyi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Adakah PNG mengekalkan ketelusan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, ketelusan alpha dipelihara secara default."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah had saiz fail yang dikenakan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik fail SVG sehingga 16 MB."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar SVG kepada PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik SVG dan pilih fail anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu untuk rasterisasi dan pengoptimuman selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat turun PNG untuk menyimpan imej anda."
+        }
+      ],
+      "tool": [
+        "Penukar SVG ke PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

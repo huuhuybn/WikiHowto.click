@@ -1,0 +1,73 @@
+{
+  "lang": "en",
+  "lang_name": "English",
+  "title": "PDF to WebP Converter - Free & Online | WikiHowTo.click",
+  "sub_title": "Convert PDF pages to WebP images online with high quality, small file size, and no watermarks.",
+  "hint": "Upload your PDF file to start converting...",
+  "btn_download": "Convert to WebP",
+  "btn_paste": "Upload PDF",
+  "btn_clear": "Clear",
+  "converter": {
+    "type": "pdf-to-webp",
+    "inputFormat": "PDF",
+    "outputFormat": "WEBP",
+    "apiEndpoint": "/image-converter/convert-multi",
+    "allowedTypes": ["application/pdf"],
+    "maxFileSize": 52428800,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "method": 4,
+        "nearLossless": false,
+        "alphaQuality": 100,
+        "animated": false
+      }
+    }
+  },
+  "description": "<p>Convert <strong>PDF to WebP</strong> online for smaller file sizes and excellent visual quality. Our free tool exports each PDF page as a high-quality WebP image, ideal for the web, apps, and sharing. WebP delivers modern compression with sharp text and graphics.</p><p>No signup, no watermarks. Files are processed securely and auto-deleted after conversion for your privacy.</p>",
+  "head": {
+    "title": "Convert PDF to WebP Online - Free PDF to WebP Converter | WikiHowTo.click",
+    "description": "Free PDF to WebP converter. Turn PDF pages into high-quality, lightweight WebP images. Fast, secure, and watermark-free.",
+    "keywords": "pdf to webp, convert pdf to webp, pdf to image, webp converter, pdf to webp online",
+    "canonical": "https://wikihowto.click/en/convert/pdf-to-webp",
+    "og_title": "PDF to WebP Converter - Free & Online",
+    "og_description": "Convert PDF pages to WebP images with high quality and small size. 100% free, fast, and secure.",
+    "og_url": "https://wikihowto.click/en/convert/pdf-to-webp",
+    "og_image": "https://wikihowto.click/images/pdf-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Free PDF to WebP Converter Online",
+    "twitter_description": "Convert PDF pages into WebP images. High quality, smaller size, no watermarks.",
+    "twitter_image": "https://wikihowto.click/images/pdf-to-webp.jpg"
+  },
+  "h1": {
+    "title": "Convert PDF to WebP Online",
+    "description": "Free and fast PDF to WebP converter with high quality and compact file size. Works on any device—no signup."
+  },
+  "h2": [
+    {
+      "title": "Why Convert PDF to WebP?",
+      "description": "<ul><li><strong>Smaller Files:</strong> Modern compression for faster loading on the web.</li><li><strong>High Visual Quality:</strong> Sharp text and graphics with tunable quality.</li><li><strong>Great for Developers:</strong> Ideal image format for websites and apps.</li><li><strong>Per-Page Export:</strong> Save each PDF page as a separate WebP image.</li></ul>"
+    },
+    {
+      "title": "How to Convert PDF to WebP Online",
+      "description": "<ol><li>Click <em>Upload PDF</em> and choose your file.</li><li>Wait for secure processing on our server.</li><li>Click <em>Download WebP</em> to get your images.</li></ol><p>Each PDF page is exported as an individual WebP image.</p>"
+    },
+    {
+      "title": "Features of Our PDF to WebP Converter",
+      "description": "<ul><li>100% Free, no watermarks</li><li>High-quality WebP output with adjustable quality</li><li>Encrypted upload & auto-deletion</li><li>Batch conversions supported</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+    }
+  ],
+  "faq": [
+    { "question": "Is this PDF to WebP converter free?", "answer": "Yes, completely free with no watermarks or hidden fees." },
+    { "question": "Do you support multi-page PDFs?", "answer": "Yes. Each page is exported as a separate WebP image." },
+    { "question": "Is lossless WebP available?", "answer": "Yes. For maximum fidelity, enable lossless in advanced settings (larger files)." },
+    { "question": "What file size is supported?", "answer": "Uploads up to 50MB per conversion are supported." },
+    { "question": "Are my files secure?", "answer": "All files are encrypted, processed securely, and automatically deleted after conversion." }
+  ],
+  "note": "Note: Animated WebP is disabled by default. Enabling animation will attempt to combine pages into a single animated WebP but may not be supported by all viewers.",
+  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+}

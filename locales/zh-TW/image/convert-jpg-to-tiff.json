@@ -1,0 +1,244 @@
+{
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "JPG 轉 TIFF 轉換器 - 免費及線上 | WikiHowTo.click",
+  "sub_title": "在線將 JPG 圖像轉換為 TIFF，提供無損壓縮選項和可打印質量。無水印。",
+  "hint": "上傳您的 JPG 圖像以開始轉換...",
+  "btn_download": "轉換為 TIFF",
+  "btn_paste": "上傳 JPG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "head": {
+    "title": "將 JPG 轉換為 TIFF - 免費在線 JPG 轉 TIFF 轉換器",
+    "description": "在線免費將 JPG 圖像轉換為 TIFF 格式。高質量的 JPG 轉 TIFF 轉換，處理速度快。",
+    "keywords": "jpg 轉 tiff, 將 jpg 轉換為 tiff, 免費 jpg 轉 tiff, 在線 tiff 轉換器, 圖像轉換",
+    "canonical": "https://wikihowto.click/zh-tw/convert/jpg-to-tiff",
+    "og_title": "將 JPG 轉換為 TIFF - 免費在線 JPG 轉 TIFF 轉換器",
+    "og_description": "在線免費將 JPG 圖像轉換為 TIFF 格式。高質量的 JPG 轉 TIFF 轉換，處理速度快。",
+    "og_url": "https://wikihowto.click/zh-tw/convert/jpg-to-tiff",
+    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "將 JPG 轉換為 TIFF - 免費在線 JPG 轉 TIFF 轉換器",
+    "twitter_description": "在線免費將 JPG 圖像轉換為 TIFF 格式。高質量的 JPG 轉 TIFF 轉換，處理速度快。",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "在線將 JPG 轉換為 TIFF",
+    "description": "免費的 JPG 轉 TIFF 轉換器，提供無損壓縮選項和可打印輸出。適用於任何設備 — 無需註冊。"
+  },
+  "converter": {
+    "type": "jpg-to-tiff",
+    "title": "JPG 轉 TIFF 轉換器",
+    "description": "將 JPG 圖像轉換為 TIFF，使用 LZW/ZIP 無損壓縮和準確的顏色。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "無損 TIFF (LZW/ZIP) 選項",
+      "可打印質量",
+      "準確的顏色",
+      "免費在線工具"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 24,
+        "dpi": 300,
+        "alpha": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "JPG 轉 TIFF 轉換完成",
+    "back_button": "返回轉換器",
+    "convert_another": "轉換另一個 JPG",
+    "quick_conversions": "快速轉換："
+  },
+  "h2": [
+    {
+      "title": "為什麼要將 JPG 轉換為 TIFF？",
+      "description": "<p>TIFF 是一種專業的檔案格式，用於影像和印刷：</p><ul><li><strong>無損選項：</strong>保存乾淨的母版，無新 JPEG 藝術品。</li><li><strong>可打印：</strong>保留高解析度輸出的細節。</li><li><strong>靈活：</strong>支持 alpha 通道和多種顏色空間（取決於讀取器）。</li><li><strong>工作流程友好：</strong>穩定，適合重複編輯和交接。</li></ul><p><em>注意：</em>從 JPG（有損）轉換不會神奇地恢復丟失的細節 — 但有助於避免在後續保存中進一步損失。</p>"
+    },
+    {
+      "title": "如何在線將 JPG 轉換為 TIFF",
+      "description": "<ol><li>點擊 <em>上傳 JPG</em> 並選擇您的照片。</li><li>等待處理。</li><li>點擊 <em>下載 TIFF</em> 以保存文件。</li></ol><p>默認：24 位 RGB，LZW 無損，300&nbsp;DPI。</p>"
+    },
+    {
+      "title": "TIFF 與 JPG：主要區別",
+      "description": "<table class='table-compare'><thead><tr><th>特徵</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>壓縮</td><td>有損（JPEG）</td><td>無損（LZW/ZIP）或 JPEG/無</td></tr><tr><td>文件大小</td><td>小</td><td>較大（取決於壓縮）</td></tr><tr><td>透明度</td><td>無</td><td>可選 alpha（取決於讀取器）</td></tr><tr><td>最佳用途</td><td>網頁/照片分享</td><td>編輯、印刷、存檔</td></tr></tbody></table>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的輸入：</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>默認：</strong>24 位 RGB，LZW 壓縮，300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>文件過大：</strong> TIFF 本身較重。對於較小的無損，請嘗試 <a href='/zh-tw/convert/jpg-to-png'>JPG 轉 PNG</a>。</li><li><strong>需要透明度：</strong>源 JPG 缺少 alpha；在編輯器中轉換並編輯 alpha，或從 PNG 開始。</li><li><strong>顏色偏移：</strong>上傳前轉換為 sRGB 以保持網頁一致性。</li><li><strong>上傳失敗：</strong>確保 JPG/JPEG ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "這個 JPG 轉 TIFF 轉換器是免費的嗎？",
+      "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+    {
+      "question": "TIFF 在所有應用程序上都能使用嗎？",
+      "answer": "TIFF 在專業應用程序中廣泛支持（Photoshop、Affinity、許多 RIP/印刷工具）。一些簡單的查看器可能不支持所有壓縮選項。"
+    },
+    {
+      "question": "TIFF 文件比 JPG 大多少？",
+      "answer": "通常比相同尺寸的 JPG 大 3–10 倍（根據內容和壓縮而異）。"
+    },
+    {
+      "question": "支持哪些文件大小？",
+      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
+    },
+    {
+      "question": "我的文件安全嗎？",
+      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
+    },
+    {
+      "question": "我可以一次轉換多個 JPG 嗎？",
+      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
+    },
+    {
+      "question": "TIFF 支持圖層嗎？",
+      "answer": "標準 TIFF 是平面圖像；一些應用程序以自己的方式存儲 '分層 TIFF'。此工具輸出平面 TIFF。"
+    }
+  ],
+  "note": "TIFF 適合存儲/印刷，但文件大小較大。對於網頁，考慮使用 PNG/WebP/AVIF。",
+  "related_links": [
+    {
+      "title": "將 JPG 轉換為 PNG",
+      "url": "/zh-tw/convert/jpg-to-png"
+    },
+    {
+      "title": "將 JPG 轉換為 WebP",
+      "url": "/zh-tw/convert/jpg-to-webp"
+    },
+    {
+      "title": "將 PNG 轉換為 TIFF",
+      "url": "/zh-tw/convert/png-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版權所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG 轉 TIFF 轉換器 - 免費及線上",
+      "url": "https://wikihowto.click/zh-tw/convert/jpg-to-tiff",
+      "description": "免費在線工具，將 JPG 圖像轉換為 TIFF，提供無損壓縮和可打印輸出。",
+      "inLanguage": "zh-TW",
+      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "轉換",
+          "item": "https://wikihowto.click/zh-tw/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG 轉 TIFF",
+          "item": "https://wikihowto.click/zh-tw/convert/jpg-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG 轉 TIFF 轉換器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh-tw/convert/jpg-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "無損 LZW 選項",
+        "可打印 300 DPI",
+        "準確的顏色"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "這個 JPG 轉 TIFF 轉換器是免費的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持哪些文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "TIFF 支持圖層嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "標準 TIFF 是平面圖像；一些應用程序以自己的方式存儲私有圖層數據；此工具輸出平面 TIFF。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何將 JPG 轉換為 TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "點擊上傳 JPG 並選擇您的照片。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待處理完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "點擊下載 TIFF 以保存文件。"
+        }
+      ],
+      "tool": [
+        "JPG 轉 TIFF 轉換器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

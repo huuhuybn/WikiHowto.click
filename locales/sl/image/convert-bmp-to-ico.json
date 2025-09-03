@@ -1,0 +1,256 @@
+{
+  "title": "Pretvori BMP v ICO",
+  "metaTitle": "Pretvori BMP v ICO - Brezplačni spletni pretvornik BMP v ICO",
+  "metaDescription": "Pretvorite BMP slike v ICO format na spletu brezplačno. Visokokakovostna pretvorba BMP v ICO za ikone.",
+  "ogImage": "https://wikihowto.click/images/bmp-to-ico.jpg",
+  "head": {
+    "title": "Pretvori BMP v ICO - Brezplačni spletni pretvornik BMP v ICO",
+    "description": "Pretvorite BMP slike v ICO format na spletu brezplačno. Visokokakovostna pretvorba BMP v ICO za ikone.",
+    "keywords": "bmp v ico, pretvori bmp v ico, brezplačni bmp v ico, spletni ico pretvornik, pretvorba ikon",
+    "canonical": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_title": "Pretvori BMP v ICO - Brezplačni spletni pretvornik BMP v ICO",
+    "og_description": "Pretvorite BMP slike v ICO format na spletu brezplačno. Visokokakovostna pretvorba BMP v ICO za ikone.",
+    "og_url": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Pretvori BMP v ICO - Brezplačni spletni pretvornik BMP v ICO",
+    "twitter_description": "Pretvorite BMP slike v ICO format na spletu brezplačno. Visokokakovostna pretvorba BMP v ICO za ikone.",
+    "twitter_image": "https://wikihowto.click/images/bmp-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Pretvornik BMP v ICO",
+    "description": "Brezplačni, hitri pretvornik BMP v ICO za favicon in ikone aplikacij. Več velikosti, prozorne ozadja, brez vodnih znakov."
+  },
+  "converter": {
+    "type": "bmp-to-ico",
+    "title": "Pretvornik BMP v ICO",
+    "description": "Pretvorite BMP slike v ICO format z visoko kakovostjo za ikone.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "BMP",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/bmp"
+    ],
+    "maxFileSize": 16777216,
+    "maxFiles": 1,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "features": [
+      "Visokokakovostna ICO pretvorba",
+      "Podpora za prosojnost",
+      "Hitro obdelovanje",
+      "Brezplačno spletno orodje"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Pretvorba BMP v ICO je končana",
+    "back_button": "Nazaj na pretvornik",
+    "convert_another": "Pretvori še en BMP",
+    "quick_conversions": "Hitre pretvorbe:"
+  },
+  "h2": [
+    {
+      "title": "Zakaj pretvoriti BMP v ICO?",
+      "description": "<p>ICO (Ikona) je privzeti format ikon Windows in idealen za ikone aplikacij in favicon:</p><ul><li><strong>Več velikosti:</strong> Shranite več ločljivosti v eni datoteki.</li><li><strong>Prosojnost:</strong> Podpira alfa prosojnost za jasne robove.</li><li><strong>Združljivost s sistemom:</strong> Brez težav deluje z Windows in brskalniki za favicon.</li><li><strong>Profesionalen videz:</strong> Ostre ikone po celotni opravilni vrstici, namizju in menijih.</li></ul>"
+    },
+    {
+      "title": "Kako pretvoriti BMP v ICO na spletu",
+      "description": "<p>Traja le nekaj sekund:</p><ol><li>Kliknite <em>Naloži BMP</em> in izberite svojo sliko.</li><li>Počakajte, da se obdelava konča.</li><li>Kliknite <em>Prenesi ICO</em>, da shranite svojo ikono.</li></ol><p>Orodje samodejno optimizira vašo ikono za običajne velikosti.</p>"
+    },
+    {
+      "title": "ICO proti BMP: Ključne razlike",
+      "description": "<table class='table-compare'><thead><tr><th>Lastnost</th><th>BMP</th><th>ICO</th></tr></thead><tbody><tr><td>Namembnost</td><td>Splošna rastrska slika</td><td>Posoda ikon za aplikacije/favicon</td></tr><tr><td>Prosojnost</td><td>Privzeto brez; omejena v nekaterih 32-bitnih različicah</td><td>Polna alfa prosojnost</td></tr><tr><td>Več velikosti</td><td>Ne</td><td>Da (16–256px tipično)</td></tr><tr><td>Delovni postopek urejanja</td><td>Preprost, nekompresiran (velike datoteke)</td><td>Več bitnih globin/velikosti v eni datoteki</td></tr></tbody></table>"
+    },
+    {
+      "title": "Kaj je BMP?",
+      "description": "<p>BMP (Bitmap Image File) je preprost rastrski format, ki pogosto shranjuje piksle brez kompresije, kar vodi do velikih velikosti datotek. Odličen za preprostost in združljivost, vendar ni učinkovit za ikone ali splet.</p>"
+    },
+    {
+      "title": "Kaj je ICO?",
+      "description": "<p>ICO je standardni format ikon Windows, ki lahko vključuje več velikosti slik in barvnih globin v eni datoteki, idealen za ikone aplikacij in spletne favicon.</p>"
+    },
+    {
+      "title": "Podprte omejitve in formati",
+      "description": "<ul><li><strong> Sprejeti vhod:</strong> BMP (<code>image/bmp</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16 MB na datoteko</li><li><strong> Izhod:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong> Velikosti ikon:</strong> 16, 32, 48, 64, 128, 256 px</li></ul>"
+    },
+    {
+      "title": "Uporabniški primeri: Kdaj pretvoriti BMP v ICO",
+      "description": "<ul><li><strong>Ustvarjanje favicon:</strong> Ustvarite favicon.ico za spletne strani.</li><li><strong>Razvoj aplikacij:</strong> Aplikacije Windows zahtevajo ICO za ikone.</li><li><strong>Namizne bližnjice:</strong> Prilagodite ikone bližnjic z čistimi robovi.</li><li><strong>Doslednost blagovne znamke:</strong> Ohranite ostre logotipe pri različnih DPI.</li></ul>"
+    },
+    {
+      "title": "Odpravljanje težav",
+      "description": "<ul><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je datoteka BMP in ≤ 16 MB.</li><li><strong>Neenakomerni robovi:</strong> Začnite z BMP višje ločljivosti; orodje bo zmanjšalo na več velikosti.</li><li><strong>Favicon se ne prikazuje:</strong> Počistite predpomnilnik brskalnika in postavite <code>/favicon.ico</code> v koren spletnega mesta s pravilnim <code>&lt;link rel='icon'&gt;</code>.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ali je ta pretvornik BMP v ICO brezplačen?",
+      "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+    },
+    {
+      "question": "Ali bo ICO deloval na vseh operacijskih sistemih?",
+      "answer": "ICO je predvsem za Windows in favicon; macOS/Linux lahko prikaže ICO, vendar ikone aplikacij tam običajno uporabljajo druge formate."
+    },
+    {
+      "question": "Katere velikosti so podprte za ICO datoteke?",
+      "answer": "Običajne velikosti so 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 slikovnih točk."
+    },
+    {
+      "question": "Katere velikosti datotek so podprte?",
+      "answer": "Lahko naložite slike do 16 MB na datoteko."
+    },
+    {
+      "question": "Ali so moje datoteke varne?",
+      "answer": "Datoteke se obdelujejo samodejno in se ne zadržujejo dlje, kot je potrebno za pretvorbo."
+    },
+    {
+      "question": "Ali lahko hkrati pretvorim več BMP-jev?",
+      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+    },
+    {
+      "question": "Ali je ICO boljši od BMP za ikone?",
+      "answer": "Da. ICO je zasnovan za ikone in lahko vsebuje več velikosti s prosojnostjo v eni datoteki."
+    }
+  ],
+  "note": "Zavrnitev odgovornosti: ICO je najboljši za ikone in favicon. Za splošne slike razmislite o PNG ali JPG.",
+  "related_links": [
+    {
+      "title": "Pretvori PNG v ICO",
+      "url": "/en/convert/png-to-ico"
+    },
+    {
+      "title": "Pretvori JPG v ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
+    {
+      "title": "Pretvori SVG v ICO",
+      "url": "/en/convert/svg-to-ico"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Pretvori BMP v ICO - Brezplačno na spletu",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "description": "Brezplačno spletno orodje za pretvorbo BMP slik v ICO za favicon in ikone aplikacij.",
+      "inLanguage": "en",
+      "image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domov",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pretvori",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BMP v ICO",
+          "item": "https://wikihowto.click/en/convert/bmp-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Pretvornik BMP v ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Več velikosti ikon",
+        "Podpora za prosojnost",
+        "Hitro obdelovanje v brskalniku"
+      ],
+      "screenshot": "https://wikihowto.click/images/bmp-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ali je ta pretvornik BMP v ICO brezplačen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Katere velikosti so podprte za ICO datoteke?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Običajne velikosti so 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 slikovnih točk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali lahko hkrati pretvorim več BMP-jev?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kako pretvoriti BMP v ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Naloži BMP in izberite svojo sliko."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Počakajte, da se obdelava konča."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Prenesi ICO, da shranite ikono."
+        }
+      ],
+      "tool": [
+        "Pretvornik BMP v ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

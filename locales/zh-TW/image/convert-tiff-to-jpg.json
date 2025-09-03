@@ -1,0 +1,234 @@
+{
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "TIFF 轉 JPG 轉換器 - 免費及線上 | WikiHowTo.click",
+  "sub_title": "在線將 TIFF 圖像轉換為 JPG 格式，具有高品質、更小的文件大小，且無水印。",
+  "hint": "上傳您的 TIFF 圖像以開始轉換...",
+  "btn_download": "轉換為 JPG",
+  "btn_paste": "上傳 TIFF",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+  "converter": {
+    "type": "tiff-to-jpg",
+    "inputFormat": "TIFF",
+    "outputFormat": "JPG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/tiff"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/jpeg",
+    "outputExtension": ".jpg",
+    "quality": 90,
+    "options": {
+      "jpeg": {
+        "quality": 90,
+        "progressive": true,
+        "mozjpeg": true
+      }
+    }
+  },
+  "description": "<p>將您的 <strong>TIFF 轉 JPG</strong> 以便於分享和減小文件大小。這個免費的在線轉換器將專業的 TIFF 圖像轉換為通用支持的 JPEG，同時保持強大的視覺質量。多頁 TIFF 將被壓平，僅轉換 <em>第一頁</em>。如果您的 TIFF 有透明度，JPG 將在實心背景上呈現這些區域（默認為白色）。</p>",
+  "head": {
+    "title": "在線轉換 TIFF 為 JPG - 免費 TIFF 轉 JPG 轉換器 | WikiHowTo.click",
+    "description": "在線將 TIFF 轉換為 JPG，具有高品質、更小的文件大小，且無水印。免費、快速且安全的 TIFF 轉 JPG 轉換工具。",
+    "keywords": "tiff 轉 jpg, 轉換 tiff 為 jpg, 免費 tiff 轉 jpg, 在線 tiff 轉換器, tiff 轉 jpeg",
+    "canonical": "https://wikihowto.click/zh-tw/convert/tiff-to-jpg",
+    "og_title": "TIFF 轉 JPG 轉換器 - 免費及線上",
+    "og_description": "將 TIFF 圖像轉換為 JPG 格式，具有高品質和更小的文件大小。100% 免費、快速且安全。",
+    "og_url": "https://wikihowto.click/zh-tw/convert/tiff-to-jpg",
+    "og_image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免費 TIFF 轉 JPG 在線轉換器",
+    "twitter_description": "以高品質、更小的文件大小和無水印將 TIFF 轉換為 JPG。適用於所有設備。",
+    "twitter_image": "https://wikihowto.click/images/tiff-to-jpg.jpg"
+  },
+  "h1": {
+    "title": "在線轉換 TIFF 為 JPG",
+    "description": "免費且快速的 TIFF 轉 JPG 轉換器，具有高品質和更小的文件大小。可在任何設備上立即使用 — 無需註冊。"
+  },
+  "h2": [
+    {
+      "title": "為什麼要將 TIFF 轉換為 JPG？",
+      "description": "<p>TIFF 適合編輯和打印，但它的文件較大且兼容性較差。JPG 則達到實用的平衡：</p><ul><li><strong>文件更小：</strong>通常比 TIFF 小 <em>70–90%</em>，具體取決於內容。</li><li><strong>通用兼容性：</strong>JPG 幾乎在所有設備和應用程序上都能使用。</li><li><strong>易於分享：</strong>非常適合電子郵件、消息和網絡。</li><li><strong>節省存儲空間：</strong>在不造成重大視覺損失的情況下減少空間。</li></ul>"
+    },
+    {
+      "title": "如何在線將 TIFF 轉換為 JPG",
+      "description": "<ol><li>點擊 <em>上傳 TIFF</em> 並選擇您的文件。</li><li>等待處理和優化。</li><li>點擊 <em>下載 JPG</em> 以保存您的圖像。</li></ol><p>我們使用漸進式 JPEG (mozjpeg) 以獲得良好的大小–質量平衡。</p>"
+    },
+    {
+      "title": "TIFF 與 JPG 比較",
+      "description": "<ul><li><strong>壓縮：</strong>TIFF 可以是無損的；JPG 是有損的以獲得更小的文件。</li><li><strong>透明度：</strong>TIFF 可能包含 alpha；JPG 沒有（透明像素變為實心）。</li><li><strong>顏色：</strong>TIFF 可能是 CMYK/AdobeRGB；JPG 輸出標準化為 sRGB 以適應網絡。</li><li><strong>使用情況：</strong>保留 TIFF 用於編輯/打印母版；使用 JPG 用於交付和分享。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的輸入：</strong>TIFF (<code>image/tiff</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>頁面：</strong>多頁 TIFF：僅轉換 <em>第一頁</em></li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>顏色看起來不同：</strong>我們轉換為 sRGB 以保持網絡一致性。如果可能，請在上傳前在 sRGB 中進行軟證明。</li><li><strong>透明度丟失：</strong>JPG 不支持 alpha；如果需要透明度，請使用 <a href='/zh-tw/convert/tiff-to-png'>TIFF → PNG</a>。</li><li><strong>文件仍然很大：</strong>降低解析度或將質量降低到 80–85%。</li><li><strong>上傳失敗：</strong>確保 TIFF 文件大小 ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "這個 TIFF 轉 JPG 轉換器是免費的嗎？",
+      "answer": "是的，它完全免費，沒有水印或隱藏費用。"
+    },
+    {
+      "question": "將 TIFF 轉換為 JPG 時會失去質量嗎？",
+      "answer": "JPG 是有損的，但我們使用高質量設置（mozjpeg，漸進式）來最小化可見損失。"
+    },
+    {
+      "question": "JPG 保持透明度嗎？",
+      "answer": "不。JPG 沒有 alpha 通道。源中的透明區域將填充為實心背景（默認為白色）。"
+    },
+    {
+      "question": "你們能處理多頁 TIFF 嗎？",
+      "answer": "是的，但我們僅轉換第一頁。如果需要，請在上傳前拆分頁面。"
+    },
+    {
+      "question": "支持什麼文件大小？",
+      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
+    },
+    {
+      "question": "我可以一次轉換多個 TIFF 文件嗎？",
+      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程。"
+    }
+  ],
+  "note": "JPG 是有損的並且會移除透明度。保留您的原始 TIFF 用於編輯或打印，並導出 JPG 用於分享。",
+  "related_links": [
+    {
+      "title": "將 TIFF 轉換為 PNG（保持透明度）",
+      "url": "/zh-tw/convert/tiff-to-png"
+    },
+    {
+      "title": "將 JPG 轉換為 TIFF",
+      "url": "/zh-tw/convert/jpg-to-tiff"
+    },
+    {
+      "title": "在線壓縮 JPG",
+      "url": "/zh-tw/compress/jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版權所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF 轉 JPG 轉換器 - 免費及線上",
+      "url": "https://wikihowto.click/zh-tw/convert/tiff-to-jpg",
+      "description": "免費的在線工具將 TIFF 圖像轉換為 JPG，具有高品質和更小的文件大小。",
+      "inLanguage": "zh-TW",
+      "image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "轉換",
+          "item": "https://wikihowto.click/zh-tw/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF 轉 JPG",
+          "item": "https://wikihowto.click/zh-tw/convert/tiff-to-jpg"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF 轉 JPG 轉換器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh-tw/convert/tiff-to-jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "漸進式 JPEG",
+        "高質量轉換",
+        "快速處理"
+      ],
+      "screenshot": "https://wikihowto.click/images/tiff-to-jpg.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "這個 TIFF 轉 JPG 轉換器是免費的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，它完全免費，沒有水印或隱藏費用。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持什麼文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "JPG 保持透明度嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不。JPG 不支持 alpha 通道。透明像素變為實心。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你們處理多頁 TIFF 嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "僅轉換第一頁。如果需要，請提前拆分頁面。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何將 TIFF 轉換為 JPG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "點擊上傳 TIFF 並選擇您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待處理和優化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "點擊下載 JPG 以保存結果。"
+        }
+      ],
+      "tool": [
+        "TIFF 轉 JPG 轉換器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

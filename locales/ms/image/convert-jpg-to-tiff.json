@@ -1,0 +1,244 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar JPG ke TIFF - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar imej JPG kepada TIFF dalam talian dengan pilihan pemampatan tanpa kehilangan dan kualiti sedia cetak. Tiada tanda air.",
+  "hint": "Muat naik imej JPG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada TIFF",
+  "btn_paste": "Muat naik JPG",
+  "btn_clear": "Bersihkan",
+  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "head": {
+    "title": "Tukar JPG kepada TIFF - Penukar JPG kepada TIFF Dalam Talian Percuma",
+    "description": "Tukar imej JPG kepada format TIFF dalam talian secara percuma. Penukaran JPG kepada TIFF berkualiti tinggi dengan pemprosesan cepat.",
+    "keywords": "jpg kepada tiff, tukar jpg kepada tiff, percuma jpg kepada tiff, penukar tiff dalam talian, penukaran imej",
+    "canonical": "https://wikihowto.click/ms/convert/jpg-to-tiff",
+    "og_title": "Tukar JPG kepada TIFF - Penukar JPG kepada TIFF Dalam Talian Percuma",
+    "og_description": "Tukar imej JPG kepada format TIFF dalam talian secara percuma. Penukaran JPG kepada TIFF berkualiti tinggi dengan pemprosesan cepat.",
+    "og_url": "https://wikihowto.click/ms/convert/jpg-to-tiff",
+    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Tukar JPG kepada TIFF - Penukar JPG kepada TIFF Dalam Talian Percuma",
+    "twitter_description": "Tukar imej JPG kepada format TIFF dalam talian secara percuma. Penukaran JPG kepada TIFF berkualiti tinggi dengan pemprosesan cepat.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Tukar JPG kepada TIFF Dalam Talian",
+    "description": "Penukar JPG kepada TIFF percuma dengan pilihan pemampatan tanpa kehilangan dan output sedia cetak. Berfungsi pada mana-mana peranti — tiada pendaftaran diperlukan."
+  },
+  "converter": {
+    "type": "jpg-to-tiff",
+    "title": "Penukar JPG kepada TIFF",
+    "description": "Tukar imej JPG kepada TIFF dengan pemampatan tanpa kehilangan LZW/ZIP dan warna yang tepat.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Pilihan TIFF tanpa kehilangan (LZW/ZIP)",
+      "Kualiti sedia cetak",
+      "Warna yang tepat",
+      "Alat dalam talian percuma"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 24,
+        "dpi": 300,
+        "alpha": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Penukaran JPG kepada TIFF Selesai",
+    "back_button": "Kembali ke Penukar",
+    "convert_another": "Tukar JPG Lain",
+    "quick_conversions": "Penukaran Pantas:"
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar JPG kepada TIFF?",
+      "description": "<p>TIFF adalah format profesional, tahap arkib yang digunakan dalam pengimejan dan cetakan:</p><ul><li><strong>Pilihan tanpa kehilangan:</strong> Simpan master bersih tanpa artefak JPEG baru.</li><li><strong>Sedia cetak:</strong> Memelihara butiran untuk output resolusi tinggi.</li><li><strong>Fleksibel:</strong> Menyokong saluran alpha dan pelbagai ruang warna (bergantung kepada pembaca).</li><li><strong>Mesra aliran kerja:</strong> Stabil untuk suntingan berulang dan pemindahan.</li></ul><p><em>Nota:</em> Menukar dari JPG (berkualiti rendah) tidak akan secara ajaib memulihkan butiran yang hilang — tetapi membantu mengelakkan penurunan lebih lanjut pada simpanan seterusnya.</p>"
+    },
+    {
+      "title": "Cara Menukar JPG kepada TIFF Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik JPG</em> dan pilih foto anda.</li><li>Tunggu untuk pemprosesan.</li><li>Klik <em>Muat turun TIFF</em> untuk menyimpan fail.</li></ol><p>Default: 24-bit RGB, tanpa kehilangan LZW, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs JPG: Perbezaan Utama",
+      "description": "<table class='table-compare'><thead><tr><th>Ciri</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Pemampatan</td><td>Berkehilangan (JPEG)</td><td>Tanpa kehilangan (LZW/ZIP) atau JPEG/tanpa</td></tr><tr><td>Saiz fail</td><td>Kecil</td><td>Lebih besar (bergantung kepada pemampatan)</td></tr><tr><td>Transparensi</td><td>Tidak</td><td>Alpha pilihan (bergantung kepada pembaca)</td></tr><tr><td>Terbaik untuk</td><td>Web/pembahagian foto</td><td>Suntingan, cetakan, pengarkiban</td></tr></tbody></table>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input diterima:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Default:</strong> 24-bit RGB, pemampatan LZW, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Fail terlalu besar:</strong> TIFF lebih berat secara reka bentuk. Untuk tanpa kehilangan yang lebih kecil, cuba <a href='/ms/convert/jpg-to-png'>JPG kepada PNG</a>.</li><li><strong>Perlu transparensi:</strong> JPG sumber tidak mempunyai alpha; tukar dan edit alpha dalam editor, atau mula dari PNG.</li><li><strong>Peralihan warna:</strong> Tukar kepada sRGB sebelum muat naik untuk konsistensi web.</li><li><strong>Muat naik gagal:</strong> Pastikan JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar JPG kepada TIFF ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Adakah TIFF berfungsi pada semua aplikasi?",
+      "answer": "TIFF disokong secara meluas dalam aplikasi profesional (Photoshop, Affinity, banyak alat RIP/cetakan). Beberapa penonton sederhana mungkin tidak menyokong semua pilihan pemampatan."
+    },
+    {
+      "question": "Berapa besar fail TIFF berbanding JPG?",
+      "answer": "Biasanya 3–10× lebih besar daripada JPG dengan dimensi yang sama (berbeza mengikut kandungan dan pemampatan)."
+    },
+    {
+      "question": "Saiz fail apa yang disokong?",
+      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Bolehkah saya menukar beberapa JPG sekaligus?",
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+    },
+    {
+      "question": "Adakah TIFF menyokong lapisan?",
+      "answer": "TIFF standard adalah imej rata; beberapa aplikasi menyimpan data lapisan peribadi; alat ini mengeluarkan TIFF rata."
+    }
+  ],
+  "note": "TIFF sesuai untuk penyimpanan/cetakan tetapi saiznya besar. Untuk web, pertimbangkan PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Tukar JPG kepada PNG",
+      "url": "/ms/convert/jpg-to-png"
+    },
+    {
+      "title": "Tukar JPG kepada WebP",
+      "url": "/ms/convert/jpg-to-webp"
+    },
+    {
+      "title": "Tukar PNG kepada TIFF",
+      "url": "/ms/convert/png-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar JPG kepada TIFF - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/jpg-to-tiff",
+      "description": "Alat dalam talian percuma untuk menukar imej JPG kepada TIFF dengan pemampatan tanpa kehilangan dan output sedia cetak.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG kepada TIFF",
+          "item": "https://wikihowto.click/ms/convert/jpg-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar JPG kepada TIFF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/jpg-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Pilihan LZW tanpa kehilangan",
+        "Sedia cetak 300 DPI",
+        "Warna yang tepat"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar JPG kepada TIFF ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz fail apa yang disokong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Adakah TIFF menyokong lapisan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TIFF standard adalah rata. Beberapa aplikasi menyimpan data lapisan peribadi; alat ini mengeluarkan TIFF rata."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar JPG kepada TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik JPG dan pilih foto anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu pemprosesan selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat turun TIFF untuk menyimpan fail."
+        }
+      ],
+      "tool": [
+        "Penukar JPG kepada TIFF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

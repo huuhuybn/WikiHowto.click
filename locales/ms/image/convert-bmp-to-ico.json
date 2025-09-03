@@ -1,0 +1,256 @@
+{
+  "title": "Tukar BMP kepada ICO",
+  "metaTitle": "Tukar BMP kepada ICO - Penukar BMP kepada ICO Dalam Talian Percuma",
+  "metaDescription": "Tukar imej BMP kepada format ICO dalam talian secara percuma. Penukaran BMP kepada ICO berkualiti tinggi untuk ikon.",
+  "ogImage": "https://wikihowto.click/images/bmp-to-ico.jpg",
+  "head": {
+    "title": "Tukar BMP kepada ICO - Penukar BMP kepada ICO Dalam Talian Percuma",
+    "description": "Tukar imej BMP kepada format ICO dalam talian secara percuma. Penukaran BMP kepada ICO berkualiti tinggi untuk ikon.",
+    "keywords": "bmp kepada ico, tukar bmp kepada ico, bmp kepada ico percuma, penukar ico dalam talian, penukaran ikon",
+    "canonical": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_title": "Tukar BMP kepada ICO - Penukar BMP kepada ICO Dalam Talian Percuma",
+    "og_description": "Tukar imej BMP kepada format ICO dalam talian secara percuma. Penukaran BMP kepada ICO berkualiti tinggi untuk ikon.",
+    "og_url": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Tukar BMP kepada ICO - Penukar BMP kepada ICO Dalam Talian Percuma",
+    "twitter_description": "Tukar imej BMP kepada format ICO dalam talian secara percuma. Penukaran BMP kepada ICO berkualiti tinggi untuk ikon.",
+    "twitter_image": "https://wikihowto.click/images/bmp-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Penukar BMP kepada ICO",
+    "description": "Penukar BMP kepada ICO percuma dan pantas untuk favicon dan ikon aplikasi. Pelbagai saiz, latar belakang telus, tanpa tanda air."
+  },
+  "converter": {
+    "type": "bmp-to-ico",
+    "title": "Penukar BMP kepada ICO",
+    "description": "Tukar imej BMP kepada format ICO dengan kualiti tinggi untuk ikon.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "BMP",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/bmp"
+    ],
+    "maxFileSize": 16777216,
+    "maxFiles": 1,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "features": [
+      "Penukaran ICO berkualiti tinggi",
+      "Sokongan ketelusan",
+      "Pemprosesan pantas",
+      "Alat dalam talian percuma"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Penukaran BMP kepada ICO Selesai",
+    "back_button": "Kembali ke Penukar",
+    "convert_another": "Tukar BMP Lain",
+    "quick_conversions": "Penukaran Pantas:"
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar BMP kepada ICO?",
+      "description": "<p>ICO (Ikon) adalah format ikon asli Windows dan ideal untuk ikon aplikasi dan favicon:</p><ul><li><strong>Pelbagai Saiz:</strong> Simpan beberapa resolusi dalam satu fail.</li><li><strong>Ketelusan:</strong> Menyokong ketelusan alpha untuk tepi yang tajam.</li><li><strong>Keserasian Sistem:</strong> Berfungsi dengan lancar dengan Windows dan pelayar untuk favicon.</li><li><strong>Penampilan Profesional:</strong> Ikon tajam di seluruh bar tugas, desktop, dan menu.</li></ul>"
+    },
+    {
+      "title": "Cara Tukar BMP kepada ICO Dalam Talian",
+      "description": "<p>Ia hanya mengambil beberapa saat:</p><ol><li>Klik <em>Muatturun BMP</em> dan pilih imej anda.</li><li>Tunggu pemprosesan selesai.</li><li>Klik <em>Muatturun ICO</em> untuk menyimpan ikon anda.</li></ol><p>Alat ini mengoptimumkan ikon anda untuk saiz biasa secara automatik.</p>"
+    },
+    {
+      "title": "ICO vs BMP: Perbezaan Utama",
+      "description": "<table class='table-compare'><thead><tr><th>Ciri</th><th>BMP</th><th>ICO</th></tr></thead><tbody><tr><td>Tujuan</td><td>Imej raster umum</td><td>Kontena ikon untuk aplikasi/favicon</td></tr><tr><td>Ketelusan</td><td>Tiada secara lalai; terhad dalam beberapa varian 32-bit</td><td>Ketelusan alpha penuh</td></tr><tr><td>Pelbagai saiz</td><td>Tidak</td><td>Ya (16–256px tipikal)</td></tr><tr><td>Aliran kerja penyuntingan</td><td>Ringkas, tidak dimampatkan (fail besar)</td><td>Pelbagai kedalaman bit/saiz dalam satu fail</td></tr></tbody></table>"
+    },
+    {
+      "title": "Apa itu BMP?",
+      "description": "<p>BMP (Fail Imej Bitmap) adalah format raster yang mudah yang sering menyimpan piksel tanpa pemampatan, menghasilkan saiz fail yang besar. Bagus untuk kesederhanaan dan keserasian, tetapi tidak efisien untuk ikon atau web.</p>"
+    },
+    {
+      "title": "Apa itu ICO?",
+      "description": "<p>ICO adalah format ikon standard Windows yang boleh merangkumi pelbagai saiz imej dan kedalaman warna dalam satu fail, ideal untuk ikon aplikasi dan favicon laman web.</p>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input diterima:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16 MB setiap fail</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Saiz ikon:</strong> 16, 32, 48, 64, 128, 256 px</li></ul>"
+    },
+    {
+      "title": "Kegunaan: Bila untuk Tukar BMP kepada ICO",
+      "description": "<ul><li><strong>Penciptaan Favicon:</strong> Hasilkan favicon.ico untuk laman web.</li><li><strong>Pembangunan Aplikasi:</strong> Aplikasi Windows memerlukan ICO untuk ikon.</li><li><strong>Pintasan Desktop:</strong> Sesuaikan ikon pintasan dengan tepi yang bersih.</li><li><strong>Konsistensi Jenama:</strong> Kekalkan logo tajam di seluruh skala DPI.</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Muatturun gagal:</strong> Pastikan fail adalah BMP dan ≤ 16 MB.</li><li><strong>Tepi bergerigi:</strong> Mulakan dari BMP resolusi tinggi; alat ini akan menurunkan skala kepada pelbagai saiz.</li><li><strong>Favicon tidak muncul:</strong> Kosongkan cache pelayar dan letakkan <code>/favicon.ico</code> di akar laman dengan <code>&lt;link rel='icon'&gt;</code> yang betul.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar BMP kepada ICO ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Adakah ICO berfungsi pada semua sistem pengendalian?",
+      "answer": "ICO terutamanya untuk Windows dan favicon; macOS/Linux boleh memaparkan ICO tetapi ikon aplikasi di sana biasanya menggunakan format lain."
+    },
+    {
+      "question": "Saiz apa yang disokong untuk fail ICO?",
+      "answer": "Saiz biasa adalah 16×16, 32×32, 48×48, 64×64, 128×128, dan 256×256 piksel."
+    },
+    {
+      "question": "Saiz fail apa yang disokong?",
+      "answer": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Bolehkah saya menukar pelbagai BMP sekaligus?",
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+    },
+    {
+      "question": "Adakah ICO lebih baik daripada BMP untuk ikon?",
+      "answer": "Ya. ICO direka untuk ikon dan boleh mengandungi pelbagai saiz dengan ketelusan dalam satu fail."
+    }
+  ],
+  "note": "Penafian: ICO adalah yang terbaik untuk ikon dan favicon. Untuk imej umum, pertimbangkan PNG atau JPG.",
+  "related_links": [
+    {
+      "title": "Tukar PNG kepada ICO",
+      "url": "/en/convert/png-to-ico"
+    },
+    {
+      "title": "Tukar JPG kepada ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
+    {
+      "title": "Tukar SVG kepada ICO",
+      "url": "/en/convert/svg-to-ico"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Tukar BMP kepada ICO - Dalam Talian Percuma",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "description": "Alat dalam talian percuma untuk menukar imej BMP kepada ICO untuk favicon dan ikon aplikasi.",
+      "inLanguage": "en",
+      "image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BMP kepada ICO",
+          "item": "https://wikihowto.click/en/convert/bmp-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar BMP kepada ICO",
+      "applicationCategory": "Aplikasi Multimedia",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Pelbagai saiz ikon",
+        "Sokongan ketelusan",
+        "Pemprosesan pelayar yang pantas"
+      ],
+      "screenshot": "https://wikihowto.click/images/bmp-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar BMP kepada ICO ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz apa yang disokong untuk fail ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saiz biasa adalah 16×16, 32×32, 48×48, 64×64, 128×128, dan 256×256 piksel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bolehkah saya menukar pelbagai BMP sekaligus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar BMP kepada ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muatturun BMP dan pilih imej anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu pemprosesan selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muatturun ICO untuk menyimpan ikon."
+        }
+      ],
+      "tool": [
+        "Penukar BMP kepada ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

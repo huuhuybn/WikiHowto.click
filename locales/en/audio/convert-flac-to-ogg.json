@@ -1,0 +1,90 @@
+{
+  "title": "Convert FLAC to OGG - Free Online Converter",
+  "description": "Convert FLAC files to OGG format online for free.",
+  "keywords": "flac to ogg, convert flac to ogg, flac ogg converter, free online converter",
+  "og_title": "Convert FLAC to OGG - Free Online Converter",
+  "og_description": "Convert FLAC files to OGG format online for free.",
+  "og_image": "/images/audio-converter.jpg",
+  "twitter_title": "Convert FLAC to OGG - Free Online Converter",
+  "twitter_description": "Convert FLAC files to OGG format online for free.",
+  "canonical_url": "/en/audio/convert-flac-to-ogg",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Convert FLAC to OGG",
+    "description": "Convert FLAC files to OGG format online for free.",
+    "image": "/images/audio-converter.jpg",
+    "totalTime": "PT2M",
+    "estimatedCost": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": "0"
+    },
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Upload FLAC file",
+        "text": "Click the upload area or drag and drop your FLAC file",
+        "image": "/images/upload-step.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Convert to OGG",
+        "text": "Click the convert button to start the conversion process",
+        "image": "/images/convert-step.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Download OGG file",
+        "text": "Download your converted OGG file when ready",
+        "image": "/images/download-step.jpg"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "name": "Home",
+      "url": "/en/"
+    },
+    {
+      "name": "Audio Converter",
+      "url": "/en/audio/converter"
+    },
+    {
+      "name": "FLAC to OGG",
+      "url": "/en/audio/convert-flac-to-ogg"
+    }
+  ],
+  "converter": {
+    "title": "Convert FLAC to OGG",
+    "subtitle": "Convert FLAC files to OGG format",
+    "description": "Upload your FLAC file and convert it to OGG format quickly and securely.",
+    "supported_formats": {
+      "input": [
+        "flac"
+      ],
+      "output": [
+        "ogg"
+      ]
+    },
+    "features": [
+      "Free online conversion",
+      "No registration required",
+      "Secure file processing",
+      "Fast conversion speed",
+      "Works on all devices"
+    ],
+    "instructions": [
+      "Click the upload area or drag and drop your FLAC file",
+      "Wait for the file to upload and process",
+      "Click 'Convert to OGG' to start conversion",
+      "Download your OGG file when ready"
+    ],
+    "tips": [
+      "Maximum file size: 100MB",
+      "Supported FLAC formats",
+      "High quality OGG output",
+      "Fast and secure conversion"
+    ]
+  }
+}

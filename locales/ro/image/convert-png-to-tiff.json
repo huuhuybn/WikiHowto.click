@@ -1,0 +1,244 @@
+{
+  "lang": "ro",
+  "lang_name": "Română",
+  "title": "Converter PNG în TIFF - Gratuit & Online | WikiHowTo.click",
+  "sub_title": "Converteți imagini PNG în TIFF online cu opțiuni fără pierderi, calitate pregătită pentru imprimare și transparență păstrată. Fără mărci de apă.",
+  "hint": "Încărcați imaginea dvs. PNG pentru a începe conversia...",
+  "btn_download": "Convertește în TIFF",
+  "btn_paste": "Încărcați PNG",
+  "btn_clear": "Șterge",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "Converteți PNG în TIFF - Converter PNG în TIFF Gratuit Online | WikiHowTo.click",
+    "description": "Converteți imagini PNG în format TIFF online gratuit. Conversie de înaltă calitate PNG în TIFF cu opțiuni fără pierderi și procesare rapidă.",
+    "keywords": "png în tiff, convertește png în tiff, png în tiff gratuit, converter tiff online, conversie imagine",
+    "canonical": "https://wikihowto.click/ro/convert/png-to-tiff",
+    "og_title": "Converteți PNG în TIFF - Converter PNG în TIFF Gratuit Online",
+    "og_description": "Converteți imagini PNG în TIFF cu opțiuni de compresie fără pierderi și transparență păstrată. Gratuit, rapid și sigur.",
+    "og_url": "https://wikihowto.click/ro/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Converter PNG în TIFF Gratuit Online",
+    "twitter_description": "Converteți PNG în TIFF cu opțiuni fără pierderi, transparență și calitate pregătită pentru imprimare.",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Converteți PNG în TIFF Online",
+    "description": "Converter PNG în TIFF gratuit cu opțiuni de compresie fără pierderi și ieșire pregătită pentru imprimare. Funcționează pe orice dispozitiv — fără înregistrare necesară."
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "Converter PNG în TIFF",
+    "description": "Converteți imagini PNG în TIFF cu compresie fără pierderi LZW/ZIP, păstrând transparența alfa.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Opțiune TIFF fără pierderi (LZW/ZIP)",
+      "Păstrează transparența (alfa)",
+      "Calitate pregătită pentru imprimare",
+      "Instrument online gratuit"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Conversia PNG în TIFF Completă",
+    "back_button": "Înapoi la Converter",
+    "convert_another": "Convertește Alt PNG",
+    "quick_conversions": "Conversii Rapide:"
+  },
+  "h2": [
+    {
+      "title": "De ce să convertești PNG în TIFF?",
+      "description": "<p>TIFF este un format profesional, de arhivă, utilizat în imagistică și imprimare:</p><ul><li><strong>Opțiuni fără pierderi:</strong> Păstrați un master curat fără a introduce noi artefacte.</li><li><strong>Pregătit pentru imprimare:</strong> Ideal pentru ieșiri de înaltă rezoluție și fluxuri de lucru prepress.</li><li><strong>Suport alfa:</strong> Poate păstra transparența (în funcție de cititor).</li><li><strong>Prietenos cu editarea:</strong> Stabil pentru salvări repetate și transferuri.</li></ul>"
+    },
+    {
+      "title": "Cum să convertești PNG în TIFF Online",
+      "description": "<ol><li>Faceți clic pe <em>Încărcați PNG</em> și alegeți fișierul dvs.</li><li>Așteptați procesarea.</li><li>Faceți clic pe <em>Descărcați TIFF</em> pentru a salva rezultatul.</li></ol><p>Ieșire implicită: 32-bit RGBA, LZW fără pierderi, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs PNG: Diferențe Cheie",
+      "description": "<ul><li><strong>Compresie:</strong> PNG folosește DEFLATE fără pierderi; TIFF suportă LZW/ZIP (fără pierderi) sau altele.</li><li><strong>Dimensiunea fișierului:</strong> Depinde de conținutul imaginii; TIFF poate fi mai mare sau similar cu PNG.</li><li><strong>Transparență:</strong> Ambele pot include alfa (suportul vizualizatorului poate varia pentru TIFF).</li><li><strong>Cel mai bun pentru:</strong> PNG pentru livrarea pe web; TIFF pentru editare, imprimare și arhivare.</li></ul>"
+    },
+    {
+      "title": "Limite & Formate Suportate",
+      "description": "<ul><li><strong>Input acceptat:</strong> PNG (<code>image/png</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Ieșire:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Implicite:</strong> 32-bit RGBA, compresie LZW, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Depanare",
+      "description": "<ul><li><strong>Fișier prea mare:</strong> TIFF este mai greu pentru unii conținut — păstrați PNG pentru web sau luați în considerare WebP/AVIF.</li><li><strong>Alfa nu este vizibilă:</strong> Unele vizualizatoare ignoră alfa TIFF; verificați într-un editor profesionist.</li><li><strong>Schimbare de culoare:</strong> Converteți în sRGB înainte de încărcare pentru o culoare consistentă pe ecran.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că PNG ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Este acest converter PNG în TIFF gratuit?",
+      "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+    },
+    {
+      "question": "Va funcționa TIFF pe toate aplicațiile?",
+      "answer": "TIFF este larg suportat în aplicații profesionale (Photoshop, Affinity, multe instrumente RIP/imprimare). Unele vizualizatoare simple pot să nu afișeze alfa sau anumite metode de compresie."
+    },
+    {
+      "question": "Cât de mari sunt fișierele TIFF comparativ cu PNG?",
+      "answer": "Variază în funcție de imagine. Cu LZW/ZIP, TIFF poate fi similar sau mai mare decât PNG, în funcție de conținut."
+    },
+    {
+      "question": "Ce dimensiuni de fișiere sunt acceptate?",
+      "answer": "Puteți încărca imagini de până la 16&nbsp;MB pe fișier."
+    },
+    {
+      "question": "Sunt fișierele mele în siguranță?",
+      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
+    },
+    {
+      "question": "Pot să convertească mai multe PNG-uri deodată?",
+      "answer": "Această pagină convertește un fișier pe rând. Pentru nevoi în masă, repetați procesul sau utilizați un instrument de lot."
+    },
+    {
+      "question": "Suportă TIFF straturi?",
+      "answer": "TIFF standard este o imagine plată. Unele aplicații încorporează date private de straturi, dar acest instrument produce un TIFF plat."
+    }
+  ],
+  "note": "TIFF este potrivit pentru arhivare/imprimare, dar poate fi greu. Pentru web, luați în considerare PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Converteți PNG în JPG",
+      "url": "/ro/convert/png-to-jpg"
+    },
+    {
+      "title": "Converteți PNG în WebP",
+      "url": "/ro/convert/png-to-webp"
+    },
+    {
+      "title": "Converteți JPG în TIFF",
+      "url": "/ro/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Toate drepturile rezervate.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Converter PNG în TIFF - Gratuit & Online",
+      "url": "https://wikihowto.click/ro/convert/png-to-tiff",
+      "description": "Instrument online gratuit pentru a converti imagini PNG în TIFF cu opțiuni fără pierderi și transparență păstrată.",
+      "inLanguage": "ro",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Acasă",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertește",
+          "item": "https://wikihowto.click/ro/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG în TIFF",
+          "item": "https://wikihowto.click/ro/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Converter PNG în TIFF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ro/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Opțiune LZW fără pierderi",
+        "Păstrează alfa",
+        "Pregătit pentru imprimare 300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este acest converter PNG în TIFF gratuit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce dimensiuni de fișiere sunt acceptate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puteți încărca imagini de până la 16 MB pe fișier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Suportă TIFF straturi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TIFF standard este o imagine plată; unele aplicații încorporează date private de straturi. Acest instrument produce un TIFF plat."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cum să convertești PNG în TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Faceți clic pe Încărcați PNG și selectați fișierul dvs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Așteptați finalizarea procesării."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Faceți clic pe Descărcați TIFF pentru a salva rezultatul."
+        }
+      ],
+      "tool": [
+        "Converter PNG în TIFF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

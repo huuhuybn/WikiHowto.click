@@ -1,0 +1,39 @@
+<% 
+if (result && (result.errorCode === 200 || result.statusCode === 200) && result.data && result.data.length > 0) {
+for (var i = 0; i < result.data.length; i++) {
+    var data = result.data[i];
+%>
+<div id="download" class="download" style="border: darkgrey;height: auto;border: 5px;border-width: 1px">
+    <div class="download-box">
+        <div class="video-header mb-3">
+            <img src="<%= data.thumbnail %>" class="avatar" alt="Avatar" id="thumbnail">
+            <div class="info">
+                <div class="video-title"><%= data.title %></div>
+                <span></span>
+            </div>
+        </div>
+        <div class="video-links">
+            <% for (var j = 0; j < data.medias.length; j++) {
+             var media = data.medias[j];
+             var qualityText = media.quality ? media.quality.toUpperCase() : 'HD';
+             var typeText = media.type ? media.type.toUpperCase() : 'VIDEO';
+             var buttonText = 'Download ' + qualityText + ' ' + typeText;
+            %>
+                <a href="<%= media.url %>"
+                   class="button download-file mt-3"
+                   data-ad="true"
+                   rel="nofollow"
+                   download>
+                    <i class="icon icon-down"></i><%= buttonText %>
+                </a>
+            <% } %>
+            <a href="/en" class="button is-black mt-3">Download other video</a>
+        </div>
+    </div>
+</div>
+<hr>
+<% }} else { %>
+<div class="alert alert-danger">
+    <strong>Lỗi:</strong> <%= result && (result.message || result.errorMessage) ? (result.message || result.errorMessage) : 'Không thể tải video. Vui lòng thử lại.' %>
+</div>
+<% } %>

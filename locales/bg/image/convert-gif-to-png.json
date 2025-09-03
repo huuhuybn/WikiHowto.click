@@ -1,0 +1,244 @@
+{
+  "lang": "bg",
+  "lang_name": "Български",
+  "title": "GIF към PNG Конвертор - Безплатно и Онлайн | WikiHowTo.click",
+  "sub_title": "Конвертирайте GIF изображения в PNG формат онлайн с поддръжка на прозрачност, високо качество и без водни знаци.",
+  "hint": "Качете вашето GIF изображение, за да започнете конвертирането...",
+  "btn_download": "Конвертиране в PNG",
+  "btn_paste": "Качете GIF",
+  "btn_clear": "Изчисти",
+  "converter": {
+    "type": "gif-to-png",
+    "inputFormat": "GIF",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/gif"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p>Конвертирайте вашия <strong>GIF в PNG</strong> за по-висока точност и пълна поддръжка на прозрачност. Нашият безплатен онлайн конвертор превръща анимирани или статични GIF файлове в изображения с високо качество PNG. Докато GIF е чудесен за прости анимации, PNG предлага по-добра дълбочина на цвета, по-добра прозрачност и без загуба на компресия за ясни статични графики.</p><p><strong>Забележка:</strong> Анимираните GIF файлове се конвертират в <em>едно статично изображение</em> (първия кадър). За анимиран изход, опитайте <a href='/bg/convert/gif-to-webp'>GIF към WebP</a>.</p>",
+  "head": {
+    "title": "Конвертирайте GIF в PNG Онлайн - Безплатен GIF към PNG Конвертор | WikiHowTo.click",
+    "description": "Конвертирайте GIF в PNG онлайн с поддръжка на прозрачност, високо качество и без водни знаци. Безплатен, бърз и сигурен инструмент за конвертиране на GIF в PNG.",
+    "keywords": "gif към png, конвертиране на gif в png, безплатен gif към png, онлайн gif конвертор, прозрачни изображения",
+    "canonical": "https://wikihowto.click/bg/convert/gif-to-png",
+    "og_title": "GIF към PNG Конвертор - Безплатно и Онлайн",
+    "og_description": "Конвертирайте GIF изображения в PNG формат с поддръжка на прозрачност и високо качество. 100% безплатно, бързо и сигурно.",
+    "og_url": "https://wikihowto.click/bg/convert/gif-to-png",
+    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Безплатен GIF към PNG Конвертор Онлайн",
+    "twitter_description": "Конвертирайте GIF в PNG с поддръжка на прозрачност, високо качество и без водни знаци. Работи на всички устройства.",
+    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
+  },
+  "h1": {
+    "title": "Конвертирайте GIF в PNG Онлайн",
+    "description": "Безплатен и бърз GIF към PNG конвертор с поддръжка на прозрачност и високо качество. Работи незабавно на всяко устройство, без необходимост от регистрация."
+  },
+  "h2": [
+    {
+      "title": "Защо да конвертирате GIF в PNG?",
+      "description": "<p>GIF е ограничен до 256 цвята и е подходящ за прости анимации. PNG е идеален за изображения с високо качество:</p><ul><li><strong>По-високо качество:</strong> Истински цветове (24-битови) + алфа в сравнение с 8-битовата палитра на GIF.</li><li><strong>Прозрачност:</strong> PNG поддържа пълна алфа прозрачност за плавни ръбове.</li><li><strong>Без загуба на компресия:</strong> PNG запазва детайлите без загуба на качество.</li><li><strong>Универсална съвместимост:</strong> Широко поддържано в приложения и платформи.</li></ul>"
+    },
+    {
+      "title": "Как да конвертирате GIF в PNG Онлайн",
+      "description": "<ol><li>Щракнете <em>Качете GIF</em> и изберете вашия файл.</li><li>Изчакайте обработката да завърши.</li><li>Щракнете <em>Изтеглете PNG</em>, за да запазите резултата.</li></ol><p>Анимирани GIF файлове: само първият кадър се експортира като PNG.</p>"
+    },
+    {
+      "title": "GIF срещу PNG: Основни разлики",
+      "description": "<table class='table-compare'><thead><tr><th>Характеристика</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Дълбочина на цвета</td><td>8-битова (256 цвята)</td><td>Истински цветове (24-битови) + алфа</td></tr><tr><td>Прозрачност</td><td>1-битова маска (включено/изключено)</td><td>Пълна алфа прозрачност</td></tr><tr><td>Компресия</td><td>Без загуба (LZW)</td><td>Без загуба (DEFLATE)</td></tr><tr><td>Анимация</td><td>Поддържа се</td><td>Не се поддържа (статично)</td></tr><tr><td>Най-добре за</td><td>Прости анимации, стикери</td><td>Лога, UI, екранни снимки, статични графики</td></tr></tbody></table>"
+    },
+    {
+      "title": "Поддържани лимити и формати",
+      "description": "<ul><li><strong>Приети входни файлове:</strong> GIF (<code>image/gif</code>)</li><li><strong>Максимален размер на файла:</strong> до 16&nbsp;MB на файл</li><li><strong>Изход:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Характеристики на нашия GIF към PNG конвертор",
+      "description": "<ul><li>100% безплатно, без водни знаци</li><li>Запазва прозрачността, където е налична</li><li>Изход PNG без загуба</li><li>Мобилно-приятелски интерфейс</li></ul>"
+    },
+    {
+      "title": "Какво е GIF?",
+      "description": "<p>GIF (Graphics Interchange Format) поддържа основна анимация и използва без загуба LZW компресия, но е ограничен до палитра от 256 цвята.</p>"
+    },
+    {
+      "title": "Какво е PNG?",
+      "description": "<p>PNG (Portable Network Graphics) е формат без загуба, който поддържа истински цветове и алфа прозрачност — идеален за изображения с високо качество.</p>"
+    },
+    {
+      "title": "Отстраняване на проблеми",
+      "description": "<ul><li><strong>Качването не успя:</strong> Уверете се, че файлът е GIF и ≤ 16&nbsp;MB.</li><li><strong>Зъбести ръбове на прозрачността:</strong> 1-битовата прозрачност на GIF може да изглежда груба; усъвършенствайте с <a href='/bg/effect/remove-background'>Премахване на фон</a>.</li><li><strong>Нужда от анимация:</strong> Използвайте <a href='/bg/convert/gif-to-webp'>GIF към WebP</a>, за да запазите движението.</li></ul>"
+    },
+    {
+      "title": "Случаи на употреба: Кога да конвертирате GIF в PNG",
+      "description": "<ul><li><strong>Лога и икони</strong>, нуждаещи се от плавна прозрачност.</li><li><strong>Екранни снимки/UI</strong>, изискващи ясни текстове и линии.</li><li><strong>Архивиране</strong> на статични кадри с по-високо качество.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Безплатен ли е този конвертор от GIF в PNG?",
+      "answer": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
+    },
+    {
+      "question": "Ще запази ли PNG прозрачността от GIF?",
+      "answer": "Да. 1-битовите прозрачни области на GIF остават прозрачни в PNG; за по-гладки ръбове, редактирайте алфа канала след конверсията."
+    },
+    {
+      "question": "Какво се случва с анимираните GIF файлове?",
+      "answer": "Само първият кадър се конвертира в статично PNG изображение. За да запазите анимацията, използвайте GIF към WebP."
+    },
+    {
+      "question": "Ще загубя ли качество при конвертиране на GIF в PNG?",
+      "answer": "Не. PNG използва без загуба компресия и поддържа пълни цветове, често подобрявайки визуалната точност в сравнение с 256-цветния GIF."
+    },
+    {
+      "question": "Какви размери на файловете се поддържат?",
+      "answer": "Можете да качвате изображения до 16 MB на файл."
+    },
+    {
+      "question": "Безопасни ли са файловете ми?",
+      "answer": "Файловете се обработват автоматично и не се запазват по-дълго от необходимо за конверсия."
+    },
+    {
+      "question": "Мога ли да конвертирам множество GIF файлове наведнъж?",
+      "answer": "Тази страница конвертира един файл наведнъж. За нужди в голям обем, повторете процеса или използвайте инструмент за партидно конвертиране."
+    }
+  ],
+  "note": "Анимираните GIF файлове стават статични PNG файлове (първия кадър). За анимиран изход, конвертирайте GIF в WebP.",
+  "related_links": [
+    {
+      "title": "Конвертирайте GIF в JPG",
+      "url": "/bg/convert/gif-to-jpg"
+    },
+    {
+      "title": "Конвертирайте PNG в GIF",
+      "url": "/bg/convert/png-to-gif"
+    },
+    {
+      "title": "Конвертирайте GIF в WebP",
+      "url": "/bg/convert/gif-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Всички права запазени.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "GIF към PNG Конвертор - Безплатно и Онлайн",
+      "url": "https://wikihowto.click/bg/convert/gif-to-png",
+      "description": "Безплатен онлайн инструмент за конвертиране на GIF изображения в PNG с без загуба компресия и поддръжка на прозрачност.",
+      "inLanguage": "bg",
+      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Начало",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Конвертиране",
+          "item": "https://wikihowto.click/bg/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GIF към PNG",
+          "item": "https://wikihowto.click/bg/convert/gif-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "GIF към PNG Конвертор",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/bg/convert/gif-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "BGN"
+      },
+      "featureList": [
+        "Изход PNG без загуба",
+        "Поддръжка на прозрачност",
+        "Бърза обработка"
+      ],
+      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Безплатен ли е този конвертор от GIF в PNG?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво се случва с анимираните GIF файлове?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Само първият кадър се конвертира в статично PNG изображение. За да запазите анимацията, използвайте GIF към WebP."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какви размери на файловете се поддържат?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Можете да качвате изображения до 16 MB на файл."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Как да конвертирате GIF в PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Щракнете Качете GIF и изберете вашия файл."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Изчакайте обработката да завърши."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Щракнете Изтеглете PNG, за да запазите резултата."
+        }
+      ],
+      "tool": [
+        "GIF към PNG Конвертор"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

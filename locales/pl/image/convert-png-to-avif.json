@@ -1,0 +1,248 @@
+{
+  "lang": "pl",
+  "lang_name": "Polski",
+  "title": "Konwerter PNG na AVIF - Darmowy i Online | WikiHowTo.click",
+  "sub_title": "Konwertuj obrazy PNG na AVIF online z doskonałą kompresją i wysoką jakością. Zachowuje przezroczystość. Brak znaków wodnych.",
+  "hint": "Prześlij swój obraz PNG, aby rozpocząć konwersję...",
+  "btn_download": "Konwertuj na AVIF",
+  "btn_paste": "Prześlij PNG",
+  "btn_clear": "Wyczyść",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "Konwertuj PNG na AVIF - Darmowy Online Konwerter PNG na AVIF | WikiHowTo.click",
+    "description": "Konwertuj obrazy PNG na AVIF online za darmo. Wysokiej jakości konwersja PNG na AVIF z doskonałą kompresją i wsparciem dla przezroczystości.",
+    "keywords": "png na avif, konwertuj png na avif, darmowy png na avif, online konwerter avif, konwersja obrazów",
+    "canonical": "https://wikihowto.click/pl/convert/png-to-avif",
+    "og_title": "Konwertuj PNG na AVIF - Darmowy Online Konwerter PNG na AVIF",
+    "og_description": "Konwertuj obrazy PNG na AVIF z doskonałą kompresją i zachowaną przezroczystością. Darmowe, szybkie i bezpieczne.",
+    "og_url": "https://wikihowto.click/pl/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Darmowy Konwerter PNG na AVIF Online",
+    "twitter_description": "Konwertuj PNG na AVIF z doskonałą kompresją i wsparciem dla przezroczystości. Działa na wszystkich urządzeniach.",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Konwertuj PNG na AVIF Online",
+    "description": "Darmowy i szybki konwerter PNG na AVIF z doskonałą kompresją i pełnym wsparciem dla przezroczystości. Działa natychmiast na każdym urządzeniu — bez rejestracji."
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "Konwerter PNG na AVIF",
+    "description": "Konwertuj obrazy PNG na AVIF z nowoczesną kompresją, zachowując przezroczystość alfa.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Wysokiej jakości wyjście AVIF",
+      "Doskonala kompresja",
+      "Zachowuje przezroczystość (alfa)",
+      "Darmowe narzędzie online"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konwersja PNG na AVIF Zakończona",
+    "back_button": "Powrót do Konwertera",
+    "convert_another": "Konwertuj Inny PNG",
+    "quick_conversions": "Szybkie Konwersje:"
+  },
+  "h2": [
+    {
+      "title": "Dlaczego konwertować PNG na AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) to format nowej generacji o wyjątkowej wydajności:</p><ul><li><strong>Lepsza kompresja:</strong> Często 30–50% mniejszy niż PNG przy podobnej jakości.</li><li><strong>Nowoczesny kodek:</strong> Oparty na standardzie AV1.</li><li><strong>Wysoka wierność:</strong> Doskonałe zachowanie szczegółów przy mniejszych rozmiarach.</li><li><strong>Wydajność w sieci:</strong> Mniejsze obrazy = szybsze strony i lepsze Core Web Vitals.</li></ul>"
+    },
+    {
+      "title": "Jak konwertować PNG na AVIF Online",
+      "description": "<ol><li>Kliknij <em>Prześlij PNG</em> i wybierz swój plik.</li><li>Poczekaj na przetwarzanie i optymalizację.</li><li>Kliknij <em>Pobierz AVIF</em>, aby zapisać swój obraz.</li></ol><p>Konwerter automatycznie równoważy jakość i rozmiar do powszechnego użytku w sieci.</p>"
+    },
+    {
+      "title": "Porównanie AVIF i PNG",
+      "description": "<ul><li><strong>Rozmiar pliku:</strong> AVIF jest zazwyczaj 30–50% mniejszy niż PNG.</li><li><strong>Jakość:</strong> AVIF utrzymuje wysoką jakość przy niższych bitrate'ach.</li><li><strong>Przezroczystość:</strong> Oba formaty wspierają przezroczystość alfa.</li><li><strong>Wsparcie przeglądarek:</strong> AVIF działa w nowoczesnych przeglądarkach (zapewnij alternatywę w razie potrzeby).</li></ul>"
+    },
+    {
+      "title": "Obsługiwane limity i formaty",
+      "description": "<ul><li><strong>Akceptowane wejście:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16&nbsp;MB na plik</li><li><strong>Wyjście:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodowanie:</strong> Jakość ≈ 80, prędkość 4, subsampling 4:4:4, aby zachować czyste krawędzie</li></ul>"
+    },
+    {
+      "title": "Rozwiązywanie problemów",
+      "description": "<ul><li><strong>Starsze przeglądarki:</strong> Użyj elementu <code>&lt;picture&gt;</code> z alternatywą PNG/WebP.</li><li><strong>Halo na krawędziach:</strong> 4:4:4 pomaga; jeśli nadal widoczne, zacznij od wyższego rozdzielczości PNG lub popraw alfa.</li><li><strong>Potrzebujesz bezstratnej:</strong> Rozważ PNG dla potrzeb perfekcyjnych pikseli lub ustaw AVIF na bezstratny w zaawansowanych przepływach pracy.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że plik jest PNG i ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Przykłady użycia: Kiedy konwertować PNG na AVIF",
+      "description": "<ul><li><strong>Optymalizacja w sieci:</strong> Zmniejsz obciążenie dla ikon, UI i grafik z przezroczystością.</li><li><strong>Aplikacje mobilne:</strong> Mniejsze zużycie pasma i pamięci.</li><li><strong>Duże biblioteki:</strong> Oszczędzaj miejsce na dysku bez widocznej utraty jakości.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy ten konwerter PNG na AVIF jest darmowy?",
+      "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+    },
+    {
+      "question": "Czy AVIF będzie działać we wszystkich przeglądarkach?",
+      "answer": "AVIF jest wspierany przez nowoczesne przeglądarki (Chrome, Firefox, Safari, Edge). Zapewnij alternatywy PNG/WebP dla starszych."
+    },
+    {
+      "question": "Jak dużo mniejsze są pliki AVIF w porównaniu do PNG?",
+      "answer": "Zazwyczaj 30–50% mniejsze przy podobnej postrzeganej jakości, w zależności od obrazu."
+    },
+    {
+      "question": "Jakie rozmiary plików są obsługiwane?",
+      "answer": "Możesz przesyłać obrazy do 16&nbsp;MB na plik."
+    },
+    {
+      "question": "Czy moje pliki są bezpieczne?",
+      "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
+    },
+    {
+      "question": "Czy mogę konwertować wiele PNG jednocześnie?",
+      "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorowych powtórz proces lub użyj narzędzia wsadowego."
+    },
+    {
+      "question": "Czy AVIF jest lepszy od PNG dla stron internetowych?",
+      "answer": "Często tak, dla mniejszych rozmiarów plików przy dobrej jakości; w przypadku ścisłej bezstratności lub specjalnych przypadków, PNG może być nadal preferowane."
+    }
+  ],
+  "note": "Aby zapewnić maksymalną kompatybilność, serwuj AVIF z alternatywą PNG/WebP, używając elementu <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Konwertuj AVIF na PNG",
+      "url": "/pl/convert/avif-to-png"
+    },
+    {
+      "title": "Konwertuj PNG na WebP",
+      "url": "/pl/convert/png-to-webp"
+    },
+    {
+      "title": "Konwertuj JPG na AVIF",
+      "url": "/pl/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Wszelkie prawa zastrzeżone.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Konwerter PNG na AVIF - Darmowy i Online",
+      "url": "https://wikihowto.click/pl/convert/png-to-avif",
+      "description": "Darmowe narzędzie online do konwersji obrazów PNG na AVIF z doskonałą kompresją i zachowaną przezroczystością.",
+      "inLanguage": "pl",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Strona główna",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konwertuj",
+          "item": "https://wikihowto.click/pl/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG na AVIF",
+          "item": "https://wikihowto.click/pl/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Konwerter PNG na AVIF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/pl/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Doskonała kompresja",
+        "Zachowuje przezroczystość",
+        "Szybkie przetwarzanie"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy ten konwerter PNG na AVIF jest darmowy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jakie rozmiary plików są obsługiwane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Możesz przesyłać obrazy do 16 MB na plik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy AVIF będzie działać we wszystkich przeglądarkach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF jest wspierany przez nowoczesne przeglądarki; zapewnij alternatywy PNG/WebP dla starszych."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Jak konwertować PNG na AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknij Prześlij PNG i wybierz swój plik."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Poczekaj na zakończenie przetwarzania i optymalizacji."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknij Pobierz AVIF, aby zapisać wynik."
+        }
+      ],
+      "tool": [
+        "Konwerter PNG na AVIF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

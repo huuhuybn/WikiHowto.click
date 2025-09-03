@@ -1,0 +1,248 @@
+{
+  "lang": "sr",
+  "lang_name": "Srpski",
+  "title": "PNG u AVIF Konverter - Besplatno i Online | WikiHowTo.click",
+  "sub_title": "Pretvorite PNG slike u AVIF online uz odličnu kompresiju i visok kvalitet. Očuvava transparentnost. Bez vodenih žigova.",
+  "hint": "Otpremite svoju PNG sliku da biste započeli konverziju...",
+  "btn_download": "Pretvori u AVIF",
+  "btn_paste": "Otpremi PNG",
+  "btn_clear": "Obriši",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "Pretvorite PNG u AVIF - Besplatni Online PNG u AVIF Konverter | WikiHowTo.click",
+    "description": "Pretvorite PNG slike u AVIF online besplatno. Konverzija PNG u AVIF visokog kvaliteta uz odličnu kompresiju i podršku za transparentnost.",
+    "keywords": "png u avif, pretvori png u avif, besplatno png u avif, online avif konverter, konverzija slika",
+    "canonical": "https://wikihowto.click/sr/convert/png-to-avif",
+    "og_title": "Pretvorite PNG u AVIF - Besplatni Online PNG u AVIF Konverter",
+    "og_description": "Pretvorite PNG slike u AVIF uz odličnu kompresiju i očuvanu transparentnost. Besplatno, brzo i sigurno.",
+    "og_url": "https://wikihowto.click/sr/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Besplatni PNG u AVIF Konverter Online",
+    "twitter_description": "Pretvorite PNG u AVIF uz odličnu kompresiju i podršku za transparentnost. Radi na svim uređajima.",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Pretvorite PNG u AVIF Online",
+    "description": "Besplatan i brz PNG u AVIF konverter uz odličnu kompresiju i punu podršku za transparentnost. Radi odmah na bilo kojem uređaju — bez registracije."
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "PNG u AVIF Konverter",
+    "description": "Pretvorite PNG slike u AVIF uz modernu kompresiju dok očuvavate alfa transparentnost.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Visokokvalitetni AVIF izlaz",
+      "Odlična kompresija",
+      "Očuvava transparentnost (alfa)",
+      "Besplatan online alat"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konverzija PNG u AVIF Završen",
+    "back_button": "Nazad na Konverter",
+    "convert_another": "Pretvorite Drugi PNG",
+    "quick_conversions": "Brze Konverzije:"
+  },
+  "h2": [
+    {
+      "title": "Zašto Pretvoriti PNG u AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) je format nove generacije sa izvanrednom efikasnošću:</p><ul><li><strong>Superiorna kompresija:</strong> Često 30–50% manji od PNG-a pri sličnom kvalitetu.</li><li><strong>Moderni kodek:</strong> Zasnovan na AV1 standardu.</li><li><strong>Visoka vernost:</strong> Odlično zadržavanje detalja pri manjim veličinama.</li><li><strong>Web performanse:</strong> Manje slike = brže stranice i bolji Core Web Vitals.</li></ul>"
+    },
+    {
+      "title": "Kako Pretvoriti PNG u AVIF Online",
+      "description": "<ol><li>Kliknite <em>Otpremi PNG</em> i izaberite svoju datoteku.</li><li>Sačekajte obradu i optimizaciju.</li><li>Kliknite <em>Preuzmi AVIF</em> da sačuvate svoju sliku.</li></ol><p>Konverter automatski balansira kvalitet i veličinu za uobičajenu web upotrebu.</p>"
+    },
+    {
+      "title": "AVIF vs PNG Poređenje",
+      "description": "<ul><li><strong>Veličina datoteke:</strong> AVIF je obično 30–50% manji od PNG-a.</li><li><strong>Kvalitet:</strong> AVIF održava jak kvalitet pri nižim bitrate-ima.</li><li><strong>Transparentnost:</strong> Obe podržavaju alfa transparentnost.</li><li><strong>Podrška za pretraživače:</strong> AVIF radi u modernim pretraživačima (obezbedite fallback ako je potrebno).</li></ul>"
+    },
+    {
+      "title": "Podržani Limiti i Formati",
+      "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodiranje:</strong> Kvalitet ≈ 80, brzina 4, 4:4:4 subsampling za čiste ivice</li></ul>"
+    },
+    {
+      "title": "Rešavanje Problema",
+      "description": "<ul><li><strong>Stariji pretraživači:</strong> Koristite <code>&lt;picture&gt;</code> element sa PNG/WebP fallback-om.</li><li><strong>Halo na ivicama:</strong> 4:4:4 pomaže; ako je i dalje vidljivo, počnite od PNG-a više rezolucije ili rafinirajte alfu.</li><li><strong>Potrebna bezgubitna:</strong> Razmotrite PNG za potrebe savršene tačnosti, ili postavite AVIF na bezgubitni u naprednim radnim tokovima.</li><li><strong>Otpremanje ne uspeva:</strong> Osigurajte da je datoteka PNG i ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Slučajevi Upotrebe: Kada Pretvoriti PNG u AVIF",
+      "description": "<ul><li><strong>Web optimizacija:</strong> Smanjite opterećenje za ikone, UI i grafiku sa transparentnošću.</li><li><strong>Mobilne aplikacije:</strong> Manja potrošnja propusnosti i skladišta.</li><li><strong>Velike biblioteke:</strong> Uštedite prostor na disku bez očiglednog gubitka kvaliteta.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Da li je ovaj PNG u AVIF konverter besplatan?",
+      "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+    },
+    {
+      "question": "Da li će AVIF raditi na svim pretraživačima?",
+      "answer": "AVIF podržavaju moderni pretraživači (Chrome, Firefox, Safari, Edge). Obezbedite PNG/WebP fallback-ove za starije."
+    },
+    {
+      "question": "Koliko su manji AVIF fajlovi u poređenju sa PNG-om?",
+      "answer": "Obično 30–50% manji pri sličnom percipiranom kvalitetu, u zavisnosti od slike."
+    },
+    {
+      "question": "Koje veličine datoteka su podržane?",
+      "answer": "Možete otpremiti slike do 16&nbsp;MB po datoteci."
+    },
+    {
+      "question": "Da li su moji fajlovi sigurni?",
+      "answer": "Fajlovi se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
+    },
+    {
+      "question": "Mogu li pretvoriti više PNG-ova odjednom?",
+      "answer": "Ova stranica pretvara jednu datoteku u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
+    },
+    {
+      "question": "Da li je AVIF bolji od PNG-a za veb sajtove?",
+      "answer": "Često da za manje veličine datoteka uz dobar kvalitet; za strogo bezgubitne ili posebne slučajeve, PNG može biti i dalje poželjan."
+    }
+  ],
+  "note": "Za maksimalnu kompatibilnost, poslužite AVIF sa PNG/WebP fallback-om koristeći <code>&lt;picture&gt;</code> element.",
+  "related_links": [
+    {
+      "title": "Pretvorite AVIF u PNG",
+      "url": "/sr/convert/avif-to-png"
+    },
+    {
+      "title": "Pretvorite PNG u WebP",
+      "url": "/sr/convert/png-to-webp"
+    },
+    {
+      "title": "Pretvorite JPG u AVIF",
+      "url": "/sr/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Sva prava zadržana.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG u AVIF Konverter - Besplatno i Online",
+      "url": "https://wikihowto.click/sr/convert/png-to-avif",
+      "description": "Besplatan online alat za pretvaranje PNG slika u AVIF uz odličnu kompresiju i očuvanu transparentnost.",
+      "inLanguage": "sr",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Početna",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pretvori",
+          "item": "https://wikihowto.click/sr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG u AVIF",
+          "item": "https://wikihowto.click/sr/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG u AVIF Konverter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sr/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Odlična kompresija",
+        "Očuvava transparentnost",
+        "Brza obrada"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Da li je ovaj PNG u AVIF konverter besplatan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koje veličine datoteka su podržane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Možete otpremiti slike do 16 MB po datoteci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li će AVIF raditi na svim pretraživačima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF podržavaju moderni pretraživači; obezbedite PNG/WebP fallback-ove za starije."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kako pretvoriti PNG u AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Otpremi PNG i izaberite svoju datoteku."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sačekajte da obrada i optimizacija budu završeni."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Preuzmi AVIF da sačuvate rezultat."
+        }
+      ],
+      "tool": [
+        "PNG u AVIF Konverter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

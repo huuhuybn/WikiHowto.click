@@ -1,0 +1,241 @@
+{
+  "lang": "sl",
+  "lang_name": "Slovenščina",
+  "title": "Pretvornik PNG v BMP - Brezplačno in Spletno | WikiHowTo.click",
+  "sub_title": "Pretvorite PNG slike v BMP spletu z nekompresiranimi, brezizgubnimi podatki o pikselih. Brez vodnih znakov.",
+  "hint": "Naložite svojo PNG sliko, da začnete s pretvorbo...",
+  "btn_download": "Pretvori v BMP",
+  "btn_paste": "Naloži PNG",
+  "btn_clear": "Počisti",
+  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "head": {
+    "title": "Pretvori PNG v BMP - Brezplačen Spletni Pretvornik PNG v BMP",
+    "description": "Pretvorite PNG slike v BMP format spletu brezplačno. Visokokakovostna pretvorba PNG v BMP z hitro obdelavo.",
+    "keywords": "png v bmp, pretvori png v bmp, brezplačen png v bmp, spletni bmp pretvornik, pretvorba slik",
+    "canonical": "https://wikihowto.click/sl/convert/png-to-bmp",
+    "og_title": "Pretvori PNG v BMP - Brezplačen Spletni Pretvornik PNG v BMP",
+    "og_description": "Pretvorite PNG slike v BMP format spletu brezplačno. Visokokakovostna pretvorba PNG v BMP z hitro obdelavo.",
+    "og_url": "https://wikihowto.click/sl/convert/png-to-bmp",
+    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Pretvori PNG v BMP - Brezplačen Spletni Pretvornik PNG v BMP",
+    "twitter_description": "Pretvorite PNG slike v BMP format spletu brezplačno. Visokokakovostna pretvorba PNG v BMP z hitro obdelavo.",
+    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
+  },
+  "h1": {
+    "title": "Pretvori PNG v BMP Spletno",
+    "description": "Brezplačen pretvornik PNG v BMP z nekompresiranimi, brezizgubnimi podatki o pikselih. Deluje na vseh napravah — brez registracije."
+  },
+  "converter": {
+    "type": "png-to-bmp",
+    "title": "Pretvornik PNG v BMP",
+    "description": "Pretvorite PNG slike v BMP z hitro obdelavo in natančnimi barvami.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "BMP",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/bmp",
+    "outputExtension": ".bmp",
+    "features": [
+      "Nekompresirani (brezizgubni) podatki o pikselih",
+      "Visoka združljivost z Windows",
+      "Hitro obdelovanje",
+      "Brezplačno spletno orodje"
+    ],
+    "options": {
+      "bmp": {
+        "bitDepth": 24,
+        "compression": "BI_RGB"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Pretvorba PNG v BMP Končana",
+    "back_button": "Nazaj na Pretvornik",
+    "convert_another": "Pretvori Drugi PNG",
+    "quick_conversions": "Hitre Pretvorbe:"
+  },
+  "h2": [
+    {
+      "title": "Zakaj Pretvoriti PNG v BMP?",
+      "description": "<p>BMP je preprost rastrski format, ki shranjuje piksle brez kompresije — koristen za določene delovne tokove:</p><ul><li><strong>Ni novih artefaktov:</strong> Ohranite piksle nedotaknjene za nizkoleglo urejanje.</li><li><strong>Preprosta struktura:</strong> Enostavno za programe za branje in manipulacijo.</li><li><strong>Dedne/vgrajene aplikacije:</strong> Nekateri Windows orodja raje uporabljajo BMP.</li></ul>"
+    },
+    {
+      "title": "Kako Pretvoriti PNG v BMP Spletno",
+      "description": "<ol><li>Kliknite <em>Naloži PNG</em> in izberite svojo datoteko.</li><li>Počakajte, da se obdelava konča.</li><li>Kliknite <em>Prenesi BMP</em>, da shranite svojo sliko.</li></ol><p>Privzeto na 24-bitni BMP brez kompresije.</p>"
+    },
+    {
+      "title": "Primerjava BMP in PNG",
+      "description": "<ul><li><strong>Velikost datoteke:</strong> BMP je običajno veliko večji od PNG.</li><li><strong>Kakovost:</strong> Obe sta brezizgubni (BMP nekompresiran; PNG brezizgubno stisnjen).</li><li><strong>Prosojnost:</strong> PNG podpira alfa; običajni 24-bitni BMP <em>ne</em> podpira.</li><li><strong>Kompresija:</strong> BMP brez; PNG brezizgubno DEFLATE.</li><li><strong>Uporabniški primeri:</strong> BMP za dedne/pikselne operacije; PNG za splet in učinkovito brezizgubno shranjevanje.</li></ul>"
+    },
+    {
+      "title": "Podprte Omejitve in Formati",
+      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> PNG (<code>image/png</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong> Globina bitov:</strong> 24-bit (brez alfa)</li></ul>"
+    },
+    {
+      "title": "Odpravljanje težav",
+      "description": "<ul><li><strong>Zelo velika izhodna datoteka:</strong> BMP je nekompresiran; za manjše brezizgubne, obdržite PNG.</li><li><strong>Potrebna prosojnost:</strong> BMP 24-bit nima alfa; ostanite pri PNG.</li><li><strong>Nalaganje ne uspe:</strong> Preverite, ali je datoteka PNG in ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ali je ta pretvornik PNG v BMP brezplačen?",
+      "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+    },
+    {
+      "question": "Ali BMP deluje v vseh aplikacijah?",
+      "answer": "BMP je široko podprt v Windows in ga prepoznavajo mnoge druge platforme. Sodobni spletni delovni tokovi običajno raje uporabljajo PNG/WebP zaradi učinkovitosti velikosti."
+    },
+    {
+      "question": "Koliko večji so BMP datoteke v primerjavi s PNG?",
+      "answer": "Pogosto so večkrat večji (npr. 3–10× ali več), ker je BMP nekompresiran."
+    },
+    {
+      "question": "Katere velikosti datotek so podprte?",
+      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+    },
+    {
+      "question": "Ali so moje datoteke varne?",
+      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
+    },
+    {
+      "question": "Ali lahko pretvorim več PNG-jev hkrati?",
+      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+    },
+    {
+      "question": "Ali BMP podpira prosojnost?",
+      "answer": "Standardni 24-bitni BMP ne vključuje alfa kanala. Uporabite PNG za prosojnost."
+    }
+  ],
+  "note": "Izhod BMP je namerno velik (nekompresiran). Za spletno dostavo raje uporabite PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Pretvori BMP v PNG",
+      "url": "/sl/convert/bmp-to-png"
+    },
+    {
+      "title": "Pretvori PNG v JPG",
+      "url": "/sl/convert/png-to-jpg"
+    },
+    {
+      "title": "Pretvori PNG v WebP",
+      "url": "/sl/convert/png-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Pretvornik PNG v BMP - Brezplačno in Spletno",
+      "url": "https://wikihowto.click/sl/convert/png-to-bmp",
+      "description": "Brezplačno spletno orodje za pretvorbo PNG slik v BMP z nekompresiranimi, brezizgubnimi podatki o pikselih.",
+      "inLanguage": "sl",
+      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domov",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pretvori",
+          "item": "https://wikihowto.click/sl/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG v BMP",
+          "item": "https://wikihowto.click/sl/convert/png-to-bmp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Pretvornik PNG v BMP",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sl/convert/png-to-bmp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Nekompresirani podatki o pikselih",
+        "Natančne barve",
+        "Hitro obdelovanje"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ali je ta pretvornik PNG v BMP brezplačen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Katere velikosti datotek so podprte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lahko naložite slike do 16 MB na datoteko."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali BMP podpira prosojnost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standardni 24-bitni BMP ne vključuje alfa kanala. Uporabite PNG za prosojnost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kako pretvoriti PNG v BMP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Naloži PNG in izberite svojo datoteko."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Počakajte, da se obdelava konča."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Prenesi BMP, da shranite sliko."
+        }
+      ],
+      "tool": [
+        "Pretvornik PNG v BMP"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "PNG 转 TIFF 转换器 - 免费在线 | WikiHowTo.click",
+  "sub_title": "在线将 PNG 图像转换为 TIFF，提供无损选项、打印准备质量和保留透明度。无水印。",
+  "hint": "上传您的 PNG 图像以开始转换...",
+  "btn_download": "转换为 TIFF",
+  "btn_paste": "上传 PNG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "将 PNG 转换为 TIFF - 免费在线 PNG 转 TIFF 转换器 | WikiHowTo.click",
+    "description": "在线免费将 PNG 图像转换为 TIFF 格式。高质量 PNG 转 TIFF 转换，提供无损选项和快速处理。",
+    "keywords": "png 转 tiff, 将 png 转换为 tiff, 免费 png 转 tiff, 在线 tiff 转换器, 图像转换",
+    "canonical": "https://wikihowto.click/zh/convert/png-to-tiff",
+    "og_title": "将 PNG 转换为 TIFF - 免费在线 PNG 转 TIFF 转换器",
+    "og_description": "使用无损压缩选项和保留透明度将 PNG 图像转换为 TIFF。免费、快速、安全。",
+    "og_url": "https://wikihowto.click/zh/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免费 PNG 转 TIFF 在线转换器",
+    "twitter_description": "使用无损选项、透明度和打印准备质量将 PNG 转换为 TIFF。",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "在线将 PNG 转换为 TIFF",
+    "description": "免费 PNG 转 TIFF 转换器，提供无损压缩选项和打印准备输出。适用于任何设备 - 无需注册。"
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "PNG 转 TIFF 转换器",
+    "description": "使用 LZW/ZIP 无损压缩将 PNG 图像转换为 TIFF，同时保留 alpha 透明度。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "无损 TIFF (LZW/ZIP) 选项",
+      "保留透明度 (alpha)",
+      "打印准备质量",
+      "免费在线工具"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "PNG 转 TIFF 转换完成",
+    "back_button": "返回转换器",
+    "convert_another": "转换另一个 PNG",
+    "quick_conversions": "快速转换："
+  },
+  "h2": [
+    {
+      "title": "为什么将 PNG 转换为 TIFF？",
+      "description": "<p>TIFF 是一种专业的档案级格式，用于成像和打印：</p><ul><li><strong>无损选项：</strong> 保持干净的母版，不引入新伪影。</li><li><strong>打印准备：</strong> 适合高分辨率输出和印前工作流程。</li><li><strong>Alpha 支持：</strong> 可以保留透明度（取决于查看器）。</li><li><strong>编辑友好：</strong> 适合重复保存和交接。</li></ul>"
+    },
+    {
+      "title": "如何在线将 PNG 转换为 TIFF",
+      "description": "<ol><li>点击 <em>上传 PNG</em> 并选择您的文件。</li><li>等待处理。</li><li>点击 <em>下载 TIFF</em> 保存结果。</li></ol><p>默认输出：32 位 RGBA，LZW 无损，300&nbsp;DPI。</p>"
+    },
+    {
+      "title": "TIFF 与 PNG：主要区别",
+      "description": "<ul><li><strong>压缩：</strong> PNG 使用无损 DEFLATE；TIFF 支持 LZW/ZIP（无损）或其他。</li><li><strong>文件大小：</strong> 取决于图像内容；TIFF 可能比 PNG 更大或相似。</li><li><strong>透明度：</strong> 两者都可以包含 alpha（TIFF 的查看器支持可能有所不同）。</li><li><strong>最佳用途：</strong> PNG 适合网络传输；TIFF 适合编辑、打印和归档。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的输入：</strong> PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>默认：</strong> 32 位 RGBA，LZW 压缩，300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>文件太大：</strong> 对于某些内容，TIFF 更重 - 保留 PNG 用于网络或考虑 WebP/AVIF。</li><li><strong>Alpha 不可见：</strong> 一些查看器忽略 TIFF alpha；在专业编辑器中验证。</li><li><strong>颜色偏移：</strong> 上传前转换为 sRGB 以确保屏幕颜色一致。</li><li><strong>上传失败：</strong> 确保 PNG ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 PNG 转 TIFF 转换器是免费的吗？",
+      "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
+    },
+    {
+      "question": "TIFF 在所有应用程序中都能工作吗？",
+      "answer": "TIFF 在专业应用程序中得到广泛支持（Photoshop、Affinity、许多 RIP/打印工具）。一些简单的查看器可能无法显示 alpha 或某些压缩方法。"
+    },
+    {
+      "question": "TIFF 文件与 PNG 文件有多大？",
+      "answer": "这取决于图像。使用 LZW/ZIP，TIFF 可能与 PNG 相似或更大，具体取决于内容。"
+    },
+    {
+      "question": "支持什么文件大小？",
+      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
+    },
+    {
+      "question": "我的文件安全吗？",
+      "answer": "文件会自动处理，并且不会保留超过转换所需的时间。"
+    },
+    {
+      "question": "我可以一次转换多个 PNG 吗？",
+      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+    },
+    {
+      "question": "TIFF 支持图层吗？",
+      "answer": "标准 TIFF 是平面的。一些应用程序嵌入私有图层数据，但此工具输出的是平面 TIFF。"
+    }
+  ],
+  "note": "TIFF 适合存储/印刷，但可能较重。对于网络，考虑使用 PNG/WebP/AVIF。",
+  "related_links": [
+    {
+      "title": "将 PNG 转换为 JPG",
+      "url": "/zh/convert/png-to-jpg"
+    },
+    {
+      "title": "将 PNG 转换为 WebP",
+      "url": "/zh/convert/png-to-webp"
+    },
+    {
+      "title": "将 JPG 转换为 TIFF",
+      "url": "/zh/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 保留所有权利。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG 转 TIFF 转换器 - 免费在线",
+      "url": "https://wikihowto.click/zh/convert/png-to-tiff",
+      "description": "免费在线工具，将 PNG 图像转换为 TIFF，提供无损选项和保留透明度。",
+      "inLanguage": "zh",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "转换",
+          "item": "https://wikihowto.click/zh/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG 转 TIFF",
+          "item": "https://wikihowto.click/zh/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG 转 TIFF 转换器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "无损 LZW 选项",
+        "保留 alpha",
+        "打印准备 300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这个 PNG 转 TIFF 转换器是免费的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持什么文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上传每个文件最多 16 MB 的图像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "TIFF 支持图层吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "标准 TIFF 是平面图像；一些应用程序嵌入私有图层数据。此工具输出的是平面 TIFF。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何将 PNG 转换为 TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "点击上传 PNG 并选择您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待处理完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "点击下载 TIFF 保存结果。"
+        }
+      ],
+      "tool": [
+        "PNG 转 TIFF 转换器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "PNG 轉 WebP 轉換器 - 免費與線上 | WikiHowTo.click",
+  "sub_title": "在線轉換 PNG 圖像為 WebP 格式，支持透明度，壓縮效果更佳，無水印。",
+  "hint": "上傳您的 PNG 圖像以開始轉換...",
+  "btn_download": "轉換為 WebP",
+  "btn_paste": "上傳 PNG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/png-to-webp.jpg",
+  "converter": {
+    "type": "png-to-webp",
+    "inputFormat": "PNG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p>優化您的 <strong>PNG 轉 WebP</strong> 以適應現代網頁！我們的免費轉換器在提供更小文件的同時保留透明度。WebP 結合了 PNG 風格的 alpha 和現代壓縮，適合用於標誌、UI 圖形和需要清晰邊緣的圖像。</p><p>在許多情況下，WebP 的文件大小比 PNG <strong>小 30–50%</strong>，並且所有主要瀏覽器均支持。我們自動調整設置以平衡保真度和大小，以實現更快的頁面加載和更低的帶寬。</p>",
+  "head": {
+    "title": "在線轉換 PNG 為 WebP - 免費 PNG 轉 WebP 轉換器 | WikiHowTo.click",
+    "description": "在線轉換 PNG 為 WebP，支持透明度，壓縮效果更佳，無水印。免費、快速且安全的 PNG 轉 WebP 轉換工具。",
+    "keywords": "png 轉 webp, 轉換 png 為 webp, 免費 png 轉 webp, 在線 webp 轉換器, 透明圖像",
+    "canonical": "https://wikihowto.click/zh-tw/convert/png-to-webp",
+    "og_title": "PNG 轉 WebP 轉換器 - 免費與線上",
+    "og_description": "將 PNG 圖像轉換為 WebP，支持透明度和更佳壓縮。100% 免費、快速且安全。",
+    "og_url": "https://wikihowto.click/zh-tw/convert/png-to-webp",
+    "og_image": "https://wikihowto.click/images/png-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免費 PNG 轉 WebP 轉換器在線",
+    "twitter_description": "將 PNG 轉換為 WebP，支持透明度和更佳壓縮。適用於所有設備。",
+    "twitter_image": "https://wikihowto.click/images/png-to-webp.jpg"
+  },
+  "h1": {
+    "title": "在線轉換 PNG 為 WebP",
+    "description": "免費且快速的 PNG 轉 WebP 轉換器，支持透明度和更佳壓縮。可在任何設備上立即使用 — 無需註冊。"
+  },
+  "h2": [
+    {
+      "title": "為什麼要將 PNG 轉換為 WebP？",
+      "description": "<p>WebP 是重型 PNG 資產的現代替代品：</p><ul><li><strong>更小的文件：</strong> 通常比 PNG 小 30–50%。</li><li><strong>透明度：</strong> 保留 alpha 通道，如同 PNG。</li><li><strong>性能：</strong> 更快的頁面加載和更低的帶寬。</li><li><strong>兼容性：</strong> 所有主要瀏覽器均支持。</li></ul>"
+    },
+    {
+      "title": "如何在線將 PNG 轉換為 WebP",
+      "description": "<ol><li>點擊 <em>上傳 PNG</em> 並選擇您的文件。</li><li>等待處理和優化。</li><li>點擊 <em>下載 WebP</em> 以保存結果。</li></ol><p>默認目標為網頁友好的大小/質量，同時保持邊緣清晰。</p>"
+    },
+    {
+      "title": "WebP 與 PNG 比較",
+      "description": "<ul><li><strong>文件大小：</strong> WebP 通常小 30–50%。</li><li><strong>透明度：</strong> 兩者均支持 alpha。</li><li><strong>質量：</strong> WebP 在更低的字節數下具有相似的感知質量。</li><li><strong>壓縮：</strong> WebP 使用更高效的編解碼器。</li></ul>"
+    },
+    {
+      "title": "支持的限制與格式",
+      "description": "<ul><li><strong>接受的輸入：</strong> PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong> 每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>編碼：</strong> 有損 WebP，質量 ≈ 90；保留透明度</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>舊版瀏覽器：</strong> 使用 <code>&lt;picture&gt;</code> 元素提供 WebP 及 PNG 回退。</li><li><strong>邊緣的光暈：</strong> 從更高解析度的 PNG 開始或細化 alpha；WebP 保留透明度，但鋸齒可能來自源文件。</li><li><strong>仍然太大：</strong> 略微降低質量（80–85%）或在轉換前調整大小。</li><li><strong>上傳失敗：</strong> 確保 PNG 文件大小 ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "這個 PNG 轉 WebP 轉換器是免費的嗎？",
+      "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+    {
+      "question": "WebP 會保留 PNG 的透明度嗎？",
+      "answer": "是的。WebP 完全支持 alpha 並保留 PNG 的透明度。"
+    },
+    {
+      "question": "WebP 文件比 PNG 小多少？",
+      "answer": "通常在可比的視覺質量下小 30–50%，具體取決於圖像。"
+    },
+    {
+      "question": "WebP 會在所有瀏覽器上運行嗎？",
+      "answer": "WebP 受到所有現代瀏覽器（Chrome、Firefox、Safari、Edge）的支持。為非常舊的瀏覽器提供 PNG 回退。"
+    },
+    {
+      "question": "支持哪些文件大小？",
+      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
+    },
+    {
+      "question": "我可以一次轉換多個 PNG 嗎？",
+      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
+    }
+  ],
+  "note": "為了最大兼容性，使用 <code>&lt;picture&gt;</code> 元素提供 WebP 及 PNG 回退。",
+  "related_links": [
+    {
+      "title": "將 WebP 轉換為 PNG",
+      "url": "/zh-tw/convert/webp-to-png"
+    },
+    {
+      "title": "將 PNG 轉換為 AVIF",
+      "url": "/zh-tw/convert/png-to-avif"
+    },
+    {
+      "title": "將 PNG 轉換為 JPG",
+      "url": "/zh-tw/convert/png-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版權所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 WebP 轉換器 - 免費與線上",
+      "url": "https://wikihowto.click/zh-tw/convert/png-to-webp",
+      "description": "免費在線工具將 PNG 圖像轉換為 WebP，支持透明度和更佳壓縮。",
+      "inLanguage": "zh-TW",
+      "image": "https://wikihowto.click/images/png-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "轉換",
+          "item": "https://wikihowto.click/zh-tw/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG 轉 WebP",
+          "item": "https://wikihowto.click/zh-tw/convert/png-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 WebP 轉換器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh-tw/convert/png-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "保留透明度",
+        "更佳壓縮",
+        "快速處理"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "這個 PNG 轉 WebP 轉換器是免費的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持哪些文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "WebP 會保留 PNG 的透明度嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。WebP 支持 alpha 通道並保留透明度。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何將 PNG 轉換為 WebP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "點擊上傳 PNG 並選擇您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待處理和優化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "點擊下載 WebP 以保存結果。"
+        }
+      ],
+      "tool": [
+        "PNG 轉 WebP 轉換器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

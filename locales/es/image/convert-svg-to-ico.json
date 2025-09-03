@@ -1,0 +1,244 @@
+{
+  "lang": "es",
+  "lang_name": "Español",
+  "title": "Convertidor de SVG a ICO - Gratis y en Línea | WikiHowTo.click",
+  "sub_title": "Convierte imágenes SVG a formato ICO en línea para favicons e íconos de escritorio. Gratis, rápido y sin marcas de agua.",
+  "hint": "Sube tu imagen SVG para comenzar a convertir...",
+  "btn_download": "Convertir a ICO",
+  "btn_paste": "Subir SVG",
+  "btn_clear": "Limpiar",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Transforma tu <strong>SVG a ICO</strong> para obtener favicons e íconos de escritorio perfectos. Nuestro convertidor gratuito rasteriza tu SVG vectorial a un ICO nítido de múltiples tamaños que funciona en todos los navegadores y escritorios de Windows.</p><p>ICO puede agrupar varios tamaños en un solo archivo (por ejemplo, 16–256 px), por lo que tu ícono se verá nítido en pestañas, accesos directos y pantallas de alta DPI. La transparencia se conserva para bordes suaves en fondos claros y oscuros.</p>",
+  "head": {
+    "title": "Convierte SVG a ICO en Línea - Convertidor de SVG a ICO Gratis | WikiHowTo.click",
+    "description": "Convierte SVG a ICO en línea para favicons e íconos de escritorio. Herramienta de conversión SVG a ICO gratuita, rápida y segura.",
+    "keywords": "svg a ico, convertir svg a ico, gratis svg a ico, convertidor ico en línea, creador de favicon",
+    "canonical": "https://wikihowto.click/es/convert/svg-to-ico",
+    "og_title": "Convertidor de SVG a ICO - Gratis y en Línea",
+    "og_description": "Convierte imágenes SVG a formato ICO para favicons e íconos de escritorio. 100% gratis, rápido y seguro.",
+    "og_url": "https://wikihowto.click/es/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Convertidor Gratis de SVG a ICO en Línea",
+    "twitter_description": "Convierte SVG a ICO para favicons e íconos de escritorio. Funciona en todos los dispositivos.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Convierte SVG a ICO en Línea",
+    "description": "Convertidor SVG a ICO gratuito y rápido para favicons e íconos de escritorio. Funciona instantáneamente en cualquier dispositivo — no se requiere registro."
+  },
+  "h2": [
+    {
+      "title": "¿Por qué convertir SVG a ICO?",
+      "description": "<p>SVG te ofrece formas independientes de resolución; ICO te brinda compatibilidad nativa con íconos:</p><ul><li><strong>Soporte de múltiples tamaños:</strong> Agrupa variantes de 16–256 px en un solo archivo.</li><li><strong>Estándar de favicon:</strong> Ampliamente reconocido por los navegadores.</li><li><strong>Compatibilidad con Windows:</strong> Formato nativo para íconos de escritorio/aplicaciones.</li><li><strong>Transparencia:</strong> Bordes suaves con alfa preservada.</li></ul>"
+    },
+    {
+      "title": "Cómo convertir SVG a ICO en línea",
+      "description": "<ol><li>Haz clic en <em>Subir SVG</em> y selecciona tu archivo vectorial.</li><li>Espera a que se complete la rasterización y optimización.</li><li>Haz clic en <em>Descargar ICO</em> para guardar tu ícono.</li></ol><p>Generamos tamaños comunes automáticamente para obtener resultados nítidos.</p>"
+    },
+    {
+      "title": "Especificaciones del formato ICO",
+      "description": "<ul><li><strong>Tamaños estándar:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profundidad de color:</strong> Hasta 32 bits RGBA</li><li><strong>Compresión:</strong> Entradas comprimidas en PNG para íconos de 32 bits (Vista+)</li><li><strong>Estructura:</strong> Encabezado + múltiples entradas de imagen en un solo archivo</li></ul>"
+    },
+    {
+      "title": "Límites y formatos soportados",
+      "description": "<ul><li><strong>Entrada aceptada:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Resolución de problemas",
+      "description": "<ul><li><strong>Favicon no visible:</strong> Limpia la caché y asegúrate de que <code>/favicon.ico</code> esté vinculado a través de <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fuentes/filtros:</strong> Fuentes no incrustadas, filtros complejos o activos externos pueden rasterizarse de manera diferente. Convierte texto a contornos y activos en línea en el SVG.</li><li><strong>Corte:</strong> Usa un área de trabajo cuadrada con margen para evitar recortes después de la rasterización.</li><li><strong>Fallo en la carga:</strong> Asegúrate de que SVG ≤ 16&nbsp;MB y válido <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Mejores prácticas",
+      "description": "<ul><li>Diseña en un lienzo cuadrado de 512×512 o 1024×1024 para escalados limpios.</li><li>Mantén las formas audaces; evita líneas delgadas en tamaños pequeños.</li><li>Usa alto contraste para legibilidad en íconos de 16–32 px.</li></ul>"
+    },
+    {
+      "title": "Características de nuestro convertidor de SVG a ICO",
+      "description": "<ul><li>100% Gratis sin marcas de agua</li><li>Conversión automática de vector a raster</li><li>Generación de íconos de múltiples tamaños</li><li>Transparencia preservada</li><li>Procesamiento seguro</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Es gratuito este convertidor de SVG a ICO?",
+      "answer": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+    },
+    {
+      "question": "¿Qué tamaños son compatibles en archivos ICO?",
+      "answer": "Los tamaños comunes incluyen 16×16, 32×32, 48×48, 64×64, 128×128 y 256×256 px."
+    },
+    {
+      "question": "¿Puedo usar ICO para favicons de sitios web?",
+      "answer": "Sí. Coloca <code>/favicon.ico</code> en la raíz de tu sitio y referencia con <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
+    {
+      "question": "¿Qué tamaños de archivo son compatibles?",
+      "answer": "Puedes subir archivos SVG de hasta 16&nbsp;MB."
+    },
+    {
+      "question": "¿Son seguros mis archivos?",
+      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
+    },
+    {
+      "question": "¿La calidad del ícono será buena?",
+      "answer": "Sí. Rasterizamos desde tu vector en múltiples tamaños para mantener los bordes nítidos y la transparencia intacta."
+    }
+  ],
+  "note": "Los SVG se rasterizan durante la conversión. Para resultados consistentes, convierte texto a contornos e incrusta los activos requeridos.",
+  "related_links": [
+    {
+      "title": "Convertir PNG a ICO",
+      "url": "/es/convert/png-to-ico"
+    },
+    {
+      "title": "Convertir JPG a ICO",
+      "url": "/es/convert/jpg-to-ico"
+    },
+    {
+      "title": "Convertir ICO a PNG",
+      "url": "/es/convert/ico-to-png"
+    },
+    {
+      "title": "Convertir SVG a PNG",
+      "url": "/es/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Todos los derechos reservados.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Convertidor de SVG a ICO - Gratis y en Línea",
+      "url": "https://wikihowto.click/es/convert/svg-to-ico",
+      "description": "Herramienta en línea gratuita para convertir imágenes SVG a ICO para favicons e íconos de escritorio de Windows.",
+      "inLanguage": "es",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/es/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG a ICO",
+          "item": "https://wikihowto.click/es/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Convertidor de SVG a ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/es/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vector a raster",
+        "Conjunto de múltiples tamaños",
+        "Transparencia preservada"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es gratuito este convertidor de SVG a ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué tamaños de archivo son compatibles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puedes subir archivos SVG de hasta 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué tamaños son compatibles en archivos ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los tamaños comunes incluyen 16×16, 32×32, 48×48, 64×64, 128×128 y 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cómo convertir SVG a ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Haz clic en Subir SVG y selecciona tu archivo vectorial."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Espera a que se complete la rasterización y optimización."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Haz clic en Descargar ICO para guardar el archivo de ícono."
+        }
+      ],
+      "tool": [
+        "Convertidor de SVG a ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

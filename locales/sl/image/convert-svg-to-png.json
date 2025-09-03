@@ -1,0 +1,238 @@
+{
+  "lang": "sl",
+  "lang_name": "Slovenščina",
+  "title": "Pretvornik SVG v PNG - Brezplačno in Spletno | WikiHowTo.click",
+  "sub_title": "Pretvorite SVG vektorske grafike v PNG spletu z ostrim rasteriziranjem, prosojnostjo in brez vodnih znakov.",
+  "hint": "Naložite svojo SVG datoteko, da začnete s pretvorbo...",
+  "btn_download": "Pretvori v PNG",
+  "btn_paste": "Naloži SVG",
+  "btn_clear": "Počisti",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "Pretvori SVG v PNG - Brezplačni spletni pretvornik SVG v PNG | WikiHowTo.click",
+    "description": "Pretvorite SVG vektorske grafike v PNG spletu brezplačno. Visokokakovostno rasteriziranje SVG→PNG z hitro obdelavo in podporo za prosojnost.",
+    "keywords": "svg v png, pretvori svg v png, vektor v rastr, brezplačni svg pretvornik, spletni png pretvornik",
+    "canonical": "https://wikihowto.click/sl/convert/svg-to-png",
+    "og_title": "Pretvornik SVG v PNG - Brezplačno in Spletno",
+    "og_description": "Pretvorite SVG v PNG z ostrim rasteriziranjem in prosojnostjo. 100% brezplačno, hitro in varno.",
+    "og_url": "https://wikihowto.click/sl/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Brezplačni spletni pretvornik SVG v PNG",
+    "twitter_description": "Pretvorite SVG v PNG s podporo za prosojnost in visoko kakovostjo. Deluje na vseh napravah.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "Pretvorite SVG v PNG spletu",
+    "description": "Brezplačni in hitri pretvornik SVG v PNG z ostrim rasteriziranjem in podporo za prosojnost. Deluje takoj na kateri koli napravi — brez registracije."
+  },
+  "description": "<p>Pretvorite svoj <strong>SVG v PNG</strong> v nekaj sekundah. Ta brezplačni spletni pretvornik rasterizira vaše vektorske grafike v visokokakovostne PNG slike, pri čemer ohranja prosojnost za čiste robove na katerem koli ozadju.</p><p>Popolno za favicon, sredstva aplikacij, družbene slike in spletne grafike. Optimiziramo izhod za močno ravnotežje med jasnostjo in velikostjo datoteke.</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "Pretvornik SVG v PNG",
+    "description": "Pretvorite SVG vektorske grafike v PNG rastrsko obliko z visoko kakovostjo in hitro obdelavo.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "Visokokakovostno rasteriziranje",
+      "Ohranjena prosojnost",
+      "Hitro obdelovanje",
+      "Brezplačno spletno orodje"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "prosojno",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Pretvorba SVG v PNG je končana",
+    "back_button": "Nazaj na pretvornik",
+    "convert_another": "Pretvori drugo SVG",
+    "quick_conversions": "Hitre pretvorbe:"
+  },
+  "h2": [
+    {
+      "title": "Zakaj pretvoriti SVG v PNG?",
+      "description": "<ul><li><strong>Univerzalna združljivost:</strong> PNG se prikazuje povsod, brez potrebe po podpori za SVG.</li><li><strong>Prosojnost:</strong> Ohranjena alfa za prekrivanja in UI elemente.</li><li><strong>Učinkovitost:</strong> Manjši, predpomnilniški bitni zemljevidi za produkcijo.</li></ul>"
+    },
+    {
+      "title": "Kako pretvoriti SVG v PNG spletu",
+      "description": "<ol><li>Kliknite <em>Naloži SVG</em> in izberite svojo datoteko.</li><li>Počakajte na rasterizacijo in optimizacijo.</li><li>Kliknite <em>Prenesi PNG</em>, da shranite svojo sliko.</li></ol><p>Privzete nastavitve ohranjajo prosojnost in uravnoteženo kompresijo.</p>"
+    },
+    {
+      "title": "Podprte omejitve in formati",
+      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> 16&nbsp;MB</li><li><strong> Izhod:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Najboljše prakse za oster izhod",
+      "description": "<ul><li>Uporabite kvadratno umetniško ploščo s podlogo, da se izognete obrezovanju na robovih.</li><li>Pretvorite besedilo v obrise; vstavite pisave in slike.</li><li>Izogibajte se preveč tankim črtam za majhne ikone (≥1px pri ciljni velikosti).</li><li>Izvozite večje (npr. 512–1024 px), če boste kasneje zmanjšali.</li></ul>"
+    },
+    {
+      "title": "Odpravljanje težav",
+      "description": "<ul><li><strong>Manjkajoče pisave/filtri:</strong> Vstavite sredstva in pretvorite besedilo v obrise.</li><li><strong>Neenakomerni robovi:</strong> Povečajte ciljno velikost ali <code>scale</code>, nato zmanjšajte.</li><li><strong>Trdna ozadja:</strong> Prepričajte se, da je <code>background</code> nastavljen na <em>prosojno</em> v možnostih.</li><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je SVG veljaven in ≤16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ali je ta pretvornik SVG v PNG brezplačen?",
+      "answer": "Da, je popolnoma brezplačen, brez vodnih znakov ali skritih stroškov."
+    },
+    {
+      "question": "Ali PNG ohranja prosojnost?",
+      "answer": "Da. PNG podpira alfa prosojnost in jo ohranjamo privzeto."
+    },
+    {
+      "question": "Ali lahko izberem velikost izhoda?",
+      "answer": "Privzeto uporabljamo SVG viewBox. Lahko nastavite širino/višino ali faktor merila v naprednih možnostih, če je podprt."
+    },
+    {
+      "question": "Katere omejitve velikosti datoteke veljajo?",
+      "answer": "Lahko naložite SVG datoteke do 16 MB."
+    },
+    {
+      "question": "Zakaj moja PNG izgleda drugače kot SVG?",
+      "answer": "Zunanje pisave, filtri ali povezani viri se lahko pri rasterizaciji prikažejo drugače. Pretvorite besedilo v obrise in vstavite sredstva za dosledne rezultate."
+    }
+  ],
+  "note": "SVG-ji se rasterizirajo med pretvorbo. Za predvidljive rezultate obrišite besedilo in vstavite vse zunanje vire.",
+  "related_links": [
+    {
+      "title": "Pretvori SVG v ICO",
+      "url": "/sl/convert/svg-to-ico"
+    },
+    {
+      "title": "Pretvori PNG v SVG",
+      "url": "/sl/convert/png-to-svg"
+    },
+    {
+      "title": "Kompresirajte PNG spletu",
+      "url": "/sl/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Pretvornik SVG v PNG - Brezplačno in Spletno",
+      "url": "https://wikihowto.click/sl/convert/svg-to-png",
+      "description": "Brezplačno spletno orodje za pretvorbo SVG vektorskih grafik v PNG s prosojnostjo.",
+      "inLanguage": "sl",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domov",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pretvori",
+          "item": "https://wikihowto.click/sl/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG v PNG",
+          "item": "https://wikihowto.click/sl/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Pretvornik SVG v PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sl/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Ostro rasteriziranje",
+        "Ohranjena prosojnost",
+        "Hitro obdelovanje"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ali je ta pretvornik SVG v PNG brezplačen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, je popolnoma brezplačen, brez vodnih znakov ali skritih stroškov."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali PNG ohranja prosojnost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, alfa prosojnost se ohranja privzeto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Katere omejitve velikosti datoteke veljajo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lahko naložite SVG datoteke do 16 MB."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kako pretvoriti SVG v PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Naloži SVG in izberite svojo datoteko."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Počakajte, da se rasterizacija in optimizacija končata."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite Prenesi PNG, da shranite svojo sliko."
+        }
+      ],
+      "tool": [
+        "Pretvornik SVG v PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

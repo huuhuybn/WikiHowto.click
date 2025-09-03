@@ -1,0 +1,238 @@
+{
+  "lang": "jw",
+  "lang_name": "Jawa",
+  "title": "Konverter SVG menyang PNG - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konversi grafik vektor SVG menyang PNG online kanthi rasterisasi sing cetha, transparansi, lan tanpa watermark.",
+  "hint": "Unggah file SVG sampeyan kanggo miwiti konversi...",
+  "btn_download": "Konversi menyang PNG",
+  "btn_paste": "Unggah SVG",
+  "btn_clear": "Resiki",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "Konversi SVG menyang PNG - Konverter SVG menyang PNG Gratis Online | WikiHowTo.click",
+    "description": "Konversi grafik vektor SVG menyang PNG online gratis. Rasterisasi SVG→PNG berkualitas tinggi kanthi pemrosesan cepet lan dukungan transparansi.",
+    "keywords": "svg menyang png, konversi svg menyang png, vektor menyang raster, konverter svg gratis, konverter png online",
+    "canonical": "https://wikihowto.click/en/convert/svg-to-png",
+    "og_title": "Konverter SVG menyang PNG - Gratis & Online",
+    "og_description": "Konversi SVG menyang PNG kanthi rasterisasi sing cetha lan transparansi. 100% gratis, cepet, lan aman.",
+    "og_url": "https://wikihowto.click/en/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Konverter SVG menyang PNG Gratis Online",
+    "twitter_description": "Konversi SVG menyang PNG kanthi dukungan transparansi lan kualitas tinggi. Bisa digunakake ing kabeh piranti.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "Konversi SVG menyang PNG Online",
+    "description": "Konverter SVG menyang PNG gratis lan cepet kanthi rasterisasi sing cetha lan dukungan transparansi. Bisa digunakake langsung ing piranti apa wae — tanpa registrasi dibutuhake."
+  },
+  "description": "<p>Ngowahi <strong>SVG menyang PNG</strong> ing detik. Konverter online gratis iki ngerasterisasi grafik vektor sampeyan dadi gambar PNG berkualitas tinggi nalika njaga transparansi kanggo pinggiran sing resik ing latar mburi apa wae.</p><p>Apik kanggo favicon, aset aplikasi, gambar sosial, lan grafik web. Kita ngoptimalake output kanggo keseimbangan sing kuat antara kejernihan lan ukuran file.</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "Konverter SVG menyang PNG",
+    "description": "Konversi grafik vektor SVG menyang format raster PNG kanthi kualitas tinggi lan pemrosesan cepet.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "Rasterisasi berkualitas tinggi",
+      "Transparansi dijaga",
+      "Pemrosesan cepet",
+      "Alat online gratis"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparan",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konversi SVG menyang PNG Rampung",
+    "back_button": "Bali menyang Konverter",
+    "convert_another": "Konversi SVG Liyane",
+    "quick_conversions": "Konversi Cepat:"
+  },
+  "h2": [
+    {
+      "title": "Kenapa Konversi SVG menyang PNG?",
+      "description": "<ul><li><strong>Kompatibilitas universal:</strong> PNG ditampilake ing ngendi wae, ora perlu dukungan SVG.</li><li><strong>Transparansi:</strong> Njaga alpha kanggo overlay lan elemen UI.</li><li><strong>Kinerja:</strong> Bitmap sing luwih cilik, bisa disimpen kanggo produksi.</li></ul>"
+    },
+    {
+      "title": "Cara Konversi SVG menyang PNG Online",
+      "description": "<ol><li>Klik <em>Unggah SVG</em> lan pilih file sampeyan.</li><li>Enteni kanggo rasterisasi lan optimasi.</li><li>Klik <em>Unduh PNG</em> kanggo nyimpen gambar sampeyan.</li></ol><p>Defaults njaga transparansi lan kompresi sing seimbang.</p>"
+    },
+    {
+      "title": "Batasan & Format Sing Didukung",
+      "description": "<ul><li><strong>Input sing ditampa:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Ukuran file maksimal:</strong> 16&nbsp;MB</li><li><strong>Output:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Praktik Terbaik kanggo Output Sing Cetha",
+      "description": "<ul><li>Gunakake papan seni persegi kanthi padding kanggo ngindhari clipping ing pinggir.</li><li>Konversi teks dadi outline; sematake font lan gambar.</li><li>Ngindhari garis sing terlalu tipis kanggo ikon cilik (≥1px ing ukuran target).</li><li>Ekspor luwih gedhe (contone, 512–1024 px) yen sampeyan bakal nyuda ukuran mengko.</li></ul>"
+    },
+    {
+      "title": "Pemecahan Masalah",
+      "description": "<ul><li><strong>Font/filter sing ilang:</strong> Aset inline lan konversi teks dadi outline.</li><li><strong>Pinggiran kasar:</strong> Tambah ukuran target utawa <code>scale</code>, banjur downsample.</li><li><strong>Latar belakang padat:</strong> Priksa manawa <code>background</code> disetel menyang <em>transparan</em> ing opsi.</li><li><strong>Unggah gagal:</strong> Priksa manawa SVG valid lan ≤16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apa konverter SVG menyang PNG iki gratis?",
+      "answer": "Ya, iki sepenu gratis tanpa watermark utawa biaya tersembunyi."
+    },
+    {
+      "question": "Apa PNG njaga transparansi?",
+      "answer": "Ya. PNG ndhukung transparansi alpha lan kita njaga kanthi default."
+    },
+    {
+      "question": "Apa aku bisa milih ukuran output?",
+      "answer": "Secara default kita nggunakake viewBox SVG. Sampeyan bisa nyetel lebar/tinggi utawa faktor skala ing opsi lanjutan yen didhukung."
+    },
+    {
+      "question": "Apa batasan ukuran file sing ditrapake?",
+      "answer": "Sampeyan bisa ngunggah file SVG nganti 16 MB."
+    },
+    {
+      "question": "Kenapa PNGku katon beda saka SVG?",
+      "answer": "Font eksternal, filter, utawa aset sing disambung bisa nampilake beda nalika dirasterisasi. Konversi teks dadi outline lan aset inline kanggo asil sing konsisten."
+    }
+  ],
+  "note": "SVG dirasterisasi nalika konversi. Kanggo asil sing bisa diprediksi, outline teks lan sematake aset eksternal.",
+  "related_links": [
+    {
+      "title": "Konversi SVG menyang ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
+    {
+      "title": "Konversi PNG menyang SVG",
+      "url": "/en/convert/png-to-svg"
+    },
+    {
+      "title": "Kompres PNG Online",
+      "url": "/en/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kabeh hak dilindhungi.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Konverter SVG menyang PNG - Gratis & Online",
+      "url": "https://wikihowto.click/en/convert/svg-to-png",
+      "description": "Alat online gratis kanggo ngowahi grafik vektor SVG menyang PNG kanthi transparansi.",
+      "inLanguage": "jw",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beranda",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konversi",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG menyang PNG",
+          "item": "https://wikihowto.click/en/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Konverter SVG menyang PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Rasterisasi cetha",
+        "Transparansi dijaga",
+        "Pemrosesan cepet"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Apa konverter SVG menyang PNG iki gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, iki sepenu gratis tanpa watermark utawa biaya tersembunyi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa PNG njaga transparansi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, transparansi alpha dijaga kanthi default."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa batasan ukuran file sing ditrapake?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sampeyan bisa ngunggah file SVG nganti 16 MB."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara ngowahi SVG menyang PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unggah SVG lan pilih file sampeyan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Enteni kanggo rasterisasi lan optimasi rampung."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unduh PNG kanggo nyimpen gambar sampeyan."
+        }
+      ],
+      "tool": [
+        "Konverter SVG menyang PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

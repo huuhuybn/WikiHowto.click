@@ -1,0 +1,244 @@
+{
+  "lang": "ro",
+  "lang_name": "Română",
+  "title": "Converter SVG în ICO - Gratuit & Online | WikiHowTo.click",
+  "sub_title": "Converteți imagini SVG în format ICO online pentru favicons și pictograme de desktop. Gratuit, rapid și fără mărci de apă.",
+  "hint": "Încărcați imaginea dvs. SVG pentru a începe conversia...",
+  "btn_download": "Convertește în ICO",
+  "btn_paste": "Încărcați SVG",
+  "btn_clear": "Șterge",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Transformați <strong>SVG în ICO</strong> pentru favicons și pictograme de desktop perfecte! Converterul nostru gratuit rasterizează SVG-ul dvs. vectorial în ICO multi-dimensionale clare care funcționează pe toate browserele și desktopurile Windows.</p><p>ICO poate combina mai multe dimensiuni într-un singur fișier (de exemplu, 16–256 px), astfel încât pictograma dvs. să arate clar pe tab-uri, scurtături și afișaje cu DPI mare. Transparența este păstrată pentru margini netede pe fundaluri deschise și întunecate.</p>",
+  "head": {
+    "title": "Convertește SVG în ICO Online - Converter SVG în ICO Gratuit | WikiHowTo.click",
+    "description": "Converteți SVG în ICO online pentru favicons și pictograme de desktop. Instrument de conversie SVG în ICO gratuit, rapid și sigur.",
+    "keywords": "svg în ico, convertește svg în ico, svg în ico gratuit, converter ico online, creator favicon",
+    "canonical": "https://wikihowto.click/ro/convert/svg-to-ico",
+    "og_title": "Converter SVG în ICO - Gratuit & Online",
+    "og_description": "Converteți imagini SVG în format ICO pentru favicons și pictograme de desktop. 100% gratuit, rapid și sigur.",
+    "og_url": "https://wikihowto.click/ro/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Converter SVG în ICO Gratuit Online",
+    "twitter_description": "Converteți SVG în ICO pentru favicons și pictograme de desktop. Funcționează pe toate dispozitivele.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Convertește SVG în ICO Online",
+    "description": "Converter SVG în ICO gratuit și rapid pentru favicons și pictograme de desktop. Funcționează instantaneu pe orice dispozitiv - fără înregistrare necesară."
+  },
+  "h2": [
+    {
+      "title": "De ce să convertești SVG în ICO?",
+      "description": "<p>SVG îți oferă forme independente de rezoluție; ICO îți oferă compatibilitate nativă cu pictograme:</p><ul><li><strong>Suport multi-dimensiune:</strong> Combină variante de 16–256 px într-un singur fișier.</li><li><strong>Standard favicon:</strong> Recunoscut pe scară largă de browsere.</li><li><strong>Compatibilitate Windows:</strong> Format nativ pentru pictograme desktop/aplicații.</li><li><strong>Transparență:</strong> Margini netede cu alfa păstrată.</li></ul>"
+    },
+    {
+      "title": "Cum să convertești SVG în ICO Online",
+      "description": "<ol><li>Faceți clic pe <em>Încărcați SVG</em> și selectați fișierul dvs. vectorial.</li><li>Așteptați finalizarea rasterizării și optimizării.</li><li>Faceți clic pe <em>Descarcă ICO</em> pentru a salva pictograma.</li></ol><p>Generăm dimensiuni comune automat pentru rezultate clare.</p>"
+    },
+    {
+      "title": "Specificații format ICO",
+      "description": "<ul><li><strong>Dimensiuni standard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Adâncimea culorii:</strong> Până la 32-bit RGBA</li><li><strong>Compresie:</strong> Intrări comprimate PNG pentru pictograme de 32-bit (Vista+)</li><li><strong>Structură:</strong> Antet + multiple intrări de imagine într-un singur fișier</li></ul>"
+    },
+    {
+      "title": "Limite și formate acceptate",
+      "description": "<ul><li><strong>Intrare acceptată:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Ieșire:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Depanare",
+      "description": "<ul><li><strong>Faviconul nu apare:</strong> Ștergeți cache-ul și asigurați-vă că <code>/favicon.ico</code> este legat prin <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonturi/filtre:</strong> Fonturi neînglobate, filtre complexe sau active externe pot rasteriza diferit. Converteți textul în contururi și activele inline în SVG.</li><li><strong>Decupare:</strong> Utilizați un tablou de artă pătrat cu margini pentru a evita tăierea după rasterizare.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că SVG ≤ 16&nbsp;MB și valid <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Cele mai bune practici",
+      "description": "<ul><li>Proiectați pe un canvas pătrat de 512×512 sau 1024×1024 pentru scalări curate.</li><li>Mențineți formele îndrăznețe; evitați liniile subțiri la dimensiuni mici.</li><li>Utilizați contrast ridicat pentru lizibilitate în pictograme de 16–32 px.</li></ul>"
+    },
+    {
+      "title": "Caracteristicile converterului nostru SVG în ICO",
+      "description": "<ul><li>100% Gratuit fără mărci de apă</li><li>Conversie automată vector→raster</li><li>Generare pictograme multi-dimensiune</li><li>Transparență păstrată</li><li>Procesare sigură</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Este acest converter SVG în ICO gratuit?",
+      "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+    },
+    {
+      "question": "Ce dimensiuni sunt acceptate în fișierele ICO?",
+      "answer": "Dimensiunile comune includ 16×16, 32×32, 48×48, 64×64, 128×128 și 256×256 px."
+    },
+    {
+      "question": "Pot folosi ICO pentru favicons de site-uri web?",
+      "answer": "Da. Plasați <code>/favicon.ico</code> în rădăcina site-ului dvs. și faceți referire la el cu <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
+    {
+      "question": "Ce dimensiuni de fișiere sunt acceptate?",
+      "answer": "Puteți încărca fișiere SVG de până la 16&nbsp;MB."
+    },
+    {
+      "question": "Sunt fișierele mele în siguranță?",
+      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
+    },
+    {
+      "question": "Va fi calitatea pictogramei bună?",
+      "answer": "Da. Rasterizăm din vectorul dvs. la dimensiuni multiple pentru a păstra marginile clare și transparența intactă."
+    }
+  ],
+  "note": "SVG-urile sunt rasterizate în timpul conversiei. Pentru rezultate consistente, convertiți textul în contururi și încorporați activele necesare.",
+  "related_links": [
+    {
+      "title": "Convertește PNG în ICO",
+      "url": "/ro/convert/png-to-ico"
+    },
+    {
+      "title": "Convertește JPG în ICO",
+      "url": "/ro/convert/jpg-to-ico"
+    },
+    {
+      "title": "Convertește ICO în PNG",
+      "url": "/ro/convert/ico-to-png"
+    },
+    {
+      "title": "Convertește SVG în PNG",
+      "url": "/ro/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Toate drepturile rezervate.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Converter SVG în ICO - Gratuit & Online",
+      "url": "https://wikihowto.click/ro/convert/svg-to-ico",
+      "description": "Instrument online gratuit pentru a converti imagini SVG în ICO pentru favicons și pictograme desktop Windows.",
+      "inLanguage": "ro",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Acasă",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertește",
+          "item": "https://wikihowto.click/ro/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG în ICO",
+          "item": "https://wikihowto.click/ro/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Converter SVG în ICO",
+      "applicationCategory": "Aplicație Multimedia",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ro/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vector în raster",
+        "Set multi-dimensiune",
+        "Transparență păstrată"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este acest converter SVG în ICO gratuit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce dimensiuni de fișiere sunt acceptate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puteți încărca fișiere SVG de până la 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce dimensiuni sunt acceptate în fișierele ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dimensiunile comune includ 16×16, 32×32, 48×48, 64×64, 128×128 și 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cum să convertești SVG în ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Faceți clic pe Încărcați SVG și selectați fișierul dvs. vectorial."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Așteptați finalizarea rasterizării și optimizării."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Faceți clic pe Descarcă ICO pentru a salva fișierul pictogramă."
+        }
+      ],
+      "tool": [
+        "Converter SVG în ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "PNG to ICO Converter - Tasuta ja Veebis | WikiHowTo.click",
+  "sub_title": "Muuda PNG pilte ICO formaati veebis faviconide ja töölaua ikoonide jaoks. Tasuta, kiire ja ilma veemärkideta.",
+  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist...",
+  "btn_download": "Muuda ICO-ks",
+  "btn_paste": "Laadi üles PNG",
+  "btn_clear": "Kustuta",
+  "converter": {
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Muuda oma <strong>PNG ICO-ks</strong> ideaalseks faviconideks ja töölaua ikoonideks! Meie tasuta PNG-ICO konverter loob professionaalsed mitme suurusega ikoonid, mis näevad välja teravad erinevates brauserites ja Windowsi töölaual.</p><p>ICO failid võivad sisaldada mitmeid suurusi ühes failis (nt 16–256 px), ideaalne faviconide ja rakenduse/otsetee ikoonide jaoks. PNG läbipaistvus säilib, et tagada sujuvad servad tumedatel/hele taustadel.</p>",
+  "head": {
+    "title": "Muuda PNG ICO-ks Veebis - Tasuta PNG-ICO Konverter | WikiHowTo.click",
+    "description": "Muuda PNG ICO-ks veebis faviconide ja töölaua ikoonide jaoks. Tasuta, kiire ja turvaline PNG-ICO konverter.",
+    "keywords": "png ico-ks, muuda png ico-ks, tasuta png ico-ks, veebis ico konverter, faviconi tegija",
+    "canonical": "https://wikihowto.click/et/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Tasuta ja Veebis",
+    "og_description": "Muuda PNG pilte ICO formaati faviconide ja töölaua ikoonide jaoks. 100% tasuta, kiire ja turvaline.",
+    "og_url": "https://wikihowto.click/et/convert/png-to-ico",
+    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Tasuta PNG-ICO Konverter Veebis",
+    "twitter_description": "Muuda PNG ICO-ks faviconide ja töölaua ikoonide jaoks. Töötab kõigil seadmetel.",
+    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Muuda PNG ICO-ks Veebis",
+    "description": "Tasuta ja kiire PNG-ICO konverter faviconide ja töölaua ikoonide jaoks. Töötab koheselt igas seadmes, registreerimist pole vajalik."
+  },
+  "h2": [
+    {
+      "title": "Miks muuda PNG ICO-ks?",
+      "description": "<p>ICO on loodud ikoonide jaoks:</p><ul><li><strong>Mitme suuruse tugi:</strong> Koguge 16–256 px variandid ühte faili.</li><li><strong>Faviconi standard:</strong> Tunnustatud peamistes brauserites.</li><li><strong>Windowsi ühilduvus:</strong> Kohalik töölaua/rakenduse ikooni formaat.</li><li><strong>Läbipaistvus:</strong> Sujuvad servad PNG alfa säilitamisega.</li></ul>"
+    },
+    {
+      "title": "Kuidas muuda PNG ICO-ks Veebis",
+      "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma pilt.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla ICO</em>, et salvestada oma ikoon.</li></ol><p>Me genereerime automaatselt tavalised ikooni suurused.</p>"
+    },
+    {
+      "title": "ICO Formaadi Spetsifikatsioonid",
+      "description": "<ul><li><strong>Standard suurused:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Värvisügavus:</strong> Kuni 32-bitine RGBA</li><li><strong>Läbipaistvus:</strong> Täielik alfa kanal</li><li><strong>Struktuur:</strong> Pealkiri + mitu pildi sissekannet</li><li><strong>Kompressioon:</strong> PNG kompressitud sissekanded 32-bitiste ikoonide jaoks (Vista+)</li></ul>"
+    },
+    {
+      "title": "Toetatud Piirangud ja Formaadi",
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Probleemide Lahendamine",
+      "description": "<ul><li><strong>Favicon ei kuva:</strong> Tühjenda vahemälu ja veendu, et <code>/favicon.ico</code> on saidi juures koos <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Hammastega servad:</strong> Alusta suuremast, kõrge kontrastsusega PNG-st; vähenda puhtalt.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Meie PNG-ICO Konverteri Omadused",
+      "description": "<ul><li>100% Tasuta ilma veemärkideta</li><li>Automaatne suuruse optimeerimine</li><li>Läbipaistvuse säilitamine</li><li>Turvaline töötlemine</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kas see PNG-ICO konverter on tasuta?",
+      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+    {
+      "question": "Milliseid suurusi toetatakse ICO failides?",
+      "answer": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 pikslit."
+    },
+    {
+      "question": "Kas ma saan ICO faile kasutada veebisaidi faviconidena?",
+      "answer": "Jah. <code>favicon.ico</code> on peamistes brauserites laialdaselt toetatud."
+    },
+    {
+      "question": "Milliseid faili suurusi toetatakse?",
+      "answer": "Saate üles laadida pilte kuni 16&nbsp;MB faili kohta."
+    },
+    {
+      "question": "Kas mu failid on turvalised?",
+      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
+    },
+    {
+      "question": "Kas ikooni kvaliteet on hea?",
+      "answer": "Me säilitame PNG läbipaistvuse ja genereerime mitmeid suurusi terava renderdamise jaoks väikestes mõõtmetes."
+    }
+  ],
+  "note": "Parimate tulemuste saavutamiseks kasutage selget, kõrge kontrastsusega PNG-d. Asetage <code>/favicon.ico</code> oma saidi juure ja viidake sellele <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Muuda JPG ICO-ks",
+      "url": "/et/convert/jpg-to-ico"
+    },
+    {
+      "title": "Muuda BMP ICO-ks",
+      "url": "/et/convert/bmp-to-ico"
+    },
+    {
+      "title": "Muuda SVG ICO-ks",
+      "url": "/et/convert/svg-to-ico"
+    },
+    {
+      "title": "Muuda ICO PNG-ks",
+      "url": "/et/convert/ico-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Tasuta ja Veebis",
+      "url": "https://wikihowto.click/et/convert/png-to-ico",
+      "description": "Tasuta veebitööriist PNG piltide konverteerimiseks ICO-ks faviconide ja Windowsi töölaua ikoonide jaoks.",
+      "inLanguage": "et",
+      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Avaleht",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Muuda",
+          "item": "https://wikihowto.click/et/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG ICO-ks",
+          "item": "https://wikihowto.click/et/convert/png-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/et/convert/png-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Mitme suuruse ikoonide komplekt",
+        "Läbipaistvuse säilitamine",
+        "Kiire töötlemine"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kas see PNG-ICO konverter on tasuta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milliseid faili suurusi toetatakse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saate üles laadida pilte kuni 16 MB faili kohta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milliseid suurusi toetatakse ICO failides?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 pikslit."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kuidas muuda PNG ICO-ks",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliki Laadi üles PNG ja vali oma pilt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Oota töötlemise lõpetamist."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliki Laadi alla ICO, et salvestada oma ikoon."
+        }
+      ],
+      "tool": [
+        "PNG-ICO Konverter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

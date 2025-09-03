@@ -1,0 +1,256 @@
+{
+  "title": "Převést BMP na ICO",
+  "metaTitle": "Převést BMP na ICO - Bezplatný online převodník BMP na ICO",
+  "metaDescription": "Převádějte BMP obrázky do formátu ICO online zdarma. Vysoce kvalitní převod BMP na ICO pro ikony.",
+  "ogImage": "https://wikihowto.click/images/bmp-to-ico.jpg",
+  "head": {
+    "title": "Převést BMP na ICO - Bezplatný online převodník BMP na ICO",
+    "description": "Převádějte BMP obrázky do formátu ICO online zdarma. Vysoce kvalitní převod BMP na ICO pro ikony.",
+    "keywords": "bmp na ico, převést bmp na ico, bezplatný bmp na ico, online ico převodník, převod ikon",
+    "canonical": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_title": "Převést BMP na ICO - Bezplatný online převodník BMP na ICO",
+    "og_description": "Převádějte BMP obrázky do formátu ICO online zdarma. Vysoce kvalitní převod BMP na ICO pro ikony.",
+    "og_url": "https://wikihowto.click/en/convert/bmp-to-ico",
+    "og_image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Převést BMP na ICO - Bezplatný online převodník BMP na ICO",
+    "twitter_description": "Převádějte BMP obrázky do formátu ICO online zdarma. Vysoce kvalitní převod BMP na ICO pro ikony.",
+    "twitter_image": "https://wikihowto.click/images/bmp-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Převodník BMP na ICO",
+    "description": "Bezplatný, rychlý převodník BMP na ICO pro favikony a ikony aplikací. Více velikostí, průhledná pozadí, žádné vodoznaky."
+  },
+  "converter": {
+    "type": "bmp-to-ico",
+    "title": "Převodník BMP na ICO",
+    "description": "Převádějte BMP obrázky do formátu ICO s vysokou kvalitou pro ikony.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "BMP",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/bmp"
+    ],
+    "maxFileSize": 16777216,
+    "maxFiles": 1,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "features": [
+      "Vysoce kvalitní převod ICO",
+      "Podpora průhlednosti",
+      "Rychlé zpracování",
+      "Bezplatný online nástroj"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Převod BMP na ICO dokončen",
+    "back_button": "Zpět k převodníku",
+    "convert_another": "Převést další BMP",
+    "quick_conversions": "Rychlé převody:"
+  },
+  "h2": [
+    {
+      "title": "Proč převádět BMP na ICO?",
+      "description": "<p>ICO (Ikona) je nativní formát ikon Windows a ideální pro ikony aplikací a favikony:</p><ul><li><strong>Více velikostí:</strong> Uložte několik rozlišení v jednom souboru.</li><li><strong>Průhlednost:</strong> Podporuje alfa průhlednost pro ostré okraje.</li><li><strong>Kompatibilita se systémem:</strong> Bezproblémově funguje s Windows a prohlížeči pro favikony.</li><li><strong>Profesionální vzhled:</strong> Ostré ikony na hlavním panelu, ploše a v menu.</li></ul>"
+    },
+    {
+      "title": "Jak převést BMP na ICO online",
+      "description": "<p>Trvá to jen několik sekund:</p><ol><li>Klikněte na <em>Nahrát BMP</em> a vyberte svůj obrázek.</li><li>Počkejte na dokončení zpracování.</li><li>Klikněte na <em>Stáhnout ICO</em> pro uložení vaší ikony.</li></ol><p>Nástroj automaticky optimalizuje vaši ikonu pro běžné velikosti.</p>"
+    },
+    {
+      "title": "ICO vs BMP: Klíčové rozdíly",
+      "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>BMP</th><th>ICO</th></tr></thead><tbody><tr><td>Účel</td><td>Obecný rastrový obrázek</td><td>Kontejner ikon pro aplikace/favikony</td></tr><tr><td>Průhlednost</td><td>Žádná ve výchozím nastavení; omezená v některých 32bitových variantách</td><td>Plná alfa průhlednost</td></tr><tr><td>Více velikostí</td><td>Ne</td><td>Ano (typicky 16–256px)</td></tr><tr><td>Pracovní postup úprav</td><td>Jednoduchý, nekomprimovaný (velké soubory)</td><td>Více bitových hloubek/velikostí v jednom souboru</td></tr></tbody></table>"
+    },
+    {
+      "title": "Co je BMP?",
+      "description": "<p>BMP (Bitmap Image File) je jednoduchý rastrový formát, který často ukládá pixely bez komprese, což vede k velkým velikostem souborů. Skvělé pro jednoduchost a kompatibilitu, ale neefektivní pro ikony nebo web.</p>"
+    },
+    {
+      "title": "Co je ICO?",
+      "description": "<p>ICO je standardní formát ikon Windows, který může zahrnovat více velikostí obrázků a barevných hloubek v jednom souboru, ideální pro ikony aplikací a favikony webových stránek.</p>"
+    },
+    {
+      "title": "Podporované limity a formáty",
+      "description": "<ul><li><strong>Akceptovaný vstup:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16 MB na soubor</li><li><strong>Výstup:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Velikosti ikon:</strong> 16, 32, 48, 64, 128, 256 px</li></ul>"
+    },
+    {
+      "title": "Případy použití: Kdy převádět BMP na ICO",
+      "description": "<ul><li><strong>Tvorba favikonu:</strong> Vytvořte favicon.ico pro webové stránky.</li><li><strong>Vývoj aplikací:</strong> Aplikace Windows vyžadují ICO pro ikony.</li><li><strong>Zástupci na ploše:</strong> Přizpůsobte ikony zástupců s čistými okraji.</li><li><strong>Konzistence značky:</strong> Udržujte loga ostrá napříč DPI měřítky.</li></ul>"
+    },
+    {
+      "title": "Odstraňování problémů",
+      "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je BMP a ≤ 16 MB.</li><li><strong>Zubaté okraje:</strong> Začněte s BMP vyššího rozlišení; nástroj zmenší na více velikostí.</li><li><strong>Favikon se nezobrazuje:</strong> Vymažte mezipaměť prohlížeče a umístěte <code>/favicon.ico</code> do kořenového adresáře s správným <code>&lt;link rel='icon'&gt;</code>.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Je tento převodník BMP na ICO zdarma?",
+      "answer": "Ano, převodník je zcela zdarma, bez skrytých poplatků nebo předplatného."
+    },
+    {
+      "question": "Bude ICO fungovat na všech operačních systémech?",
+      "answer": "ICO je primárně pro Windows a favikony; macOS/Linux mohou zobrazit ICO, ale ikony aplikací tam obvykle používají jiné formáty."
+    },
+    {
+      "question": "Jaké velikosti jsou podporovány pro ICO soubory?",
+      "answer": "Běžné velikosti jsou 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 pixelů."
+    },
+    {
+      "question": "Jaké velikosti souborů jsou podporovány?",
+      "answer": "Můžete nahrát obrázky až do 16 MB na soubor."
+    },
+    {
+      "question": "Jsou moje soubory v bezpečí?",
+      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro převod."
+    },
+    {
+      "question": "Mohu převést více BMP najednou?",
+      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte dávkový nástroj."
+    },
+    {
+      "question": "Je ICO lepší než BMP pro ikony?",
+      "answer": "Ano. ICO je navrženo pro ikony a může obsahovat více velikostí s průhledností v jednom souboru."
+    }
+  ],
+  "note": "Upozornění: ICO je nejlepší pro ikony a favikony. Pro obecné obrázky zvažte PNG nebo JPG.",
+  "related_links": [
+    {
+      "title": "Převést PNG na ICO",
+      "url": "/en/convert/png-to-ico"
+    },
+    {
+      "title": "Převést JPG na ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
+    {
+      "title": "Převést SVG na ICO",
+      "url": "/en/convert/svg-to-ico"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Převést BMP na ICO - Bezplatně online",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "description": "Bezplatný online nástroj pro převod BMP obrázků na ICO pro favikony a ikony aplikací.",
+      "inLanguage": "en",
+      "image": "https://wikihowto.click/images/bmp-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domov",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Převést",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BMP na ICO",
+          "item": "https://wikihowto.click/en/convert/bmp-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Převodník BMP na ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/bmp-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Více velikostí ikon",
+        "Podpora průhlednosti",
+        "Rychlé zpracování prohlížečem"
+      ],
+      "screenshot": "https://wikihowto.click/images/bmp-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je tento převodník BMP na ICO zdarma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano, převodník je zcela zdarma, bez skrytých poplatků nebo předplatného."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jaké velikosti jsou podporovány pro ICO soubory?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Běžné velikosti jsou 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 pixelů."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mohu převést více BMP najednou?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte dávkový nástroj."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Jak převést BMP na ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klikněte na Nahrát BMP a vyberte svůj obrázek."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Počkejte na dokončení zpracování."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klikněte na Stáhnout ICO pro uložení ikony."
+        }
+      ],
+      "tool": [
+        "Převodník BMP na ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

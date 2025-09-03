@@ -1,0 +1,244 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar SVG ke ICO - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar imej SVG kepada format ICO dalam talian untuk favicon dan ikon desktop. Percuma, pantas, dan tanpa tanda air.",
+  "hint": "Muat naik imej SVG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada ICO",
+  "btn_paste": "Muat naik SVG",
+  "btn_clear": "Kosongkan",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Transformasikan <strong>SVG ke ICO</strong> anda untuk favicon dan ikon desktop yang sempurna! Penukar percuma kami merasterkan SVG vektor anda kepada ICO pelbagai saiz yang tajam yang berfungsi di seluruh pelayar dan desktop Windows.</p><p>ICO boleh menggabungkan beberapa saiz dalam satu fail (contohnya, 16–256 px), jadi ikon anda kelihatan tajam pada tab, pintasan, dan paparan DPI tinggi. Ketelusan dipelihara untuk tepi yang lancar pada latar belakang terang dan gelap.</p>",
+  "head": {
+    "title": "Tukar SVG ke ICO Dalam Talian - Penukar SVG ke ICO Percuma | WikiHowTo.click",
+    "description": "Tukar SVG ke ICO dalam talian untuk favicon dan ikon desktop. Alat penukar SVG ke ICO percuma, pantas, dan selamat.",
+    "keywords": "svg ke ico, tukar svg ke ico, svg ke ico percuma, penukar ico dalam talian, pembuat favicon",
+    "canonical": "https://wikihowto.click/ms/convert/svg-to-ico",
+    "og_title": "Penukar SVG ke ICO - Percuma & Dalam Talian",
+    "og_description": "Tukar imej SVG kepada format ICO untuk favicon dan ikon desktop. 100% percuma, pantas, dan selamat.",
+    "og_url": "https://wikihowto.click/ms/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Penukar SVG ke ICO Percuma Dalam Talian",
+    "twitter_description": "Tukar SVG ke ICO untuk favicon dan ikon desktop. Berfungsi pada semua peranti.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Tukar SVG ke ICO Dalam Talian",
+    "description": "Penukar SVG ke ICO percuma dan pantas untuk favicon dan ikon desktop. Berfungsi serta-merta pada mana-mana peranti — tiada pendaftaran diperlukan."
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar SVG ke ICO?",
+      "description": "<p>SVG memberikan anda bentuk yang bebas resolusi; ICO memberikan anda keserasian ikon asli:</p><ul><li><strong>Sokongan pelbagai saiz:</strong> Gabungkan variasi 16–256 px dalam satu fail.</li><li><strong>Standard favicon:</strong> Diiktiraf secara meluas oleh pelayar.</li><li><strong>Keserasian Windows:</strong> Format asli untuk ikon desktop/aplikasi.</li><li><strong>Ketelusan:</strong> Tepi yang lancar dengan alpha dipelihara.</li></ul>"
+    },
+    {
+      "title": "Cara Tukar SVG ke ICO Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik SVG</em> dan pilih fail vektor anda.</li><li>Tunggu untuk proses rasterisasi dan pengoptimuman.</li><li>Klik <em>Muatturun ICO</em> untuk menyimpan ikon anda.</li></ol><p>Kami menjana saiz biasa secara automatik untuk hasil yang tajam.</p>"
+    },
+    {
+      "title": "Spesifikasi Format ICO",
+      "description": "<ul><li><strong>Saiz standard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Kedalaman warna:</strong> Sehingga 32-bit RGBA</li><li><strong>Pemampatan:</strong> Entri yang dimampatkan PNG untuk ikon 32-bit (Vista+)</li><li><strong>Struktur:</strong> Header + pelbagai entri imej dalam satu fail</li></ul>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input diterima:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Favicon tidak muncul:</strong> Kosongkan cache dan pastikan <code>/favicon.ico</code> dihubungkan melalui <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Font/penapis:</strong> Font yang tidak disematkan, penapis kompleks, atau aset luaran mungkin dirasterkan dengan cara yang berbeza. Tukar teks kepada garis besar dan aset dalam SVG.</li><li><strong>Pemangkasan:</strong> Gunakan papan seni segi empat tepat dengan padding untuk mengelakkan pemotongan selepas rasterisasi.</li><li><strong>Muat naik gagal:</strong> Pastikan SVG ≤ 16&nbsp;MB dan sah <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Amalan Terbaik",
+      "description": "<ul><li>Reka bentuk pada kanvas segi empat tepat 512×512 atau 1024×1024 untuk pengurangan yang bersih.</li><li>Pastikan bentuk tebal; elakkan garis halus pada saiz kecil.</li><li>Gunakan kontras tinggi untuk kebolehbacaaan dalam ikon 16–32 px.</li></ul>"
+    },
+    {
+      "title": "Ciri-ciri Penukar SVG ke ICO Kami",
+      "description": "<ul><li>100% Percuma tanpa tanda air</li><li>Penukaran vektor→raster automatik</li><li>Penjanaan ikon pelbagai saiz</li><li>Ketelusan dipelihara</li><li>Proses yang selamat</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar SVG ke ICO ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Saiz apa yang disokong dalam fail ICO?",
+      "answer": "Saiz biasa termasuk 16×16, 32×32, 48×48, 64×64, 128×128, dan 256×256 px."
+    },
+    {
+      "question": "Bolehkah saya menggunakan ICO untuk favicon laman web?",
+      "answer": "Ya. Letakkan <code>/favicon.ico</code> di akar laman anda dan rujuknya dengan <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
+    {
+      "question": "Saiz fail apa yang disokong?",
+      "answer": "Anda boleh memuat naik fail SVG sehingga 16&nbsp;MB."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Adakah kualiti ikon akan baik?",
+      "answer": "Ya. Kami merasterkan dari vektor anda pada pelbagai saiz untuk memastikan tepi tajam dan ketelusan utuh."
+    }
+  ],
+  "note": "SVG dirasterkan semasa penukaran. Untuk hasil yang konsisten, tukar teks kepada garis besar dan sematkan aset yang diperlukan.",
+  "related_links": [
+    {
+      "title": "Tukar PNG ke ICO",
+      "url": "/ms/convert/png-to-ico"
+    },
+    {
+      "title": "Tukar JPG ke ICO",
+      "url": "/ms/convert/jpg-to-ico"
+    },
+    {
+      "title": "Tukar ICO ke PNG",
+      "url": "/ms/convert/ico-to-png"
+    },
+    {
+      "title": "Tukar SVG ke PNG",
+      "url": "/ms/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar SVG ke ICO - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/svg-to-ico",
+      "description": "Alat dalam talian percuma untuk menukar imej SVG kepada ICO untuk favicon dan ikon desktop Windows.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG ke ICO",
+          "item": "https://wikihowto.click/ms/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar SVG ke ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vektor ke raster",
+        "Set pelbagai saiz",
+        "Ketelusan dipelihara"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar SVG ke ICO ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz fail apa yang disokong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik fail SVG sehingga 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz apa yang disokong dalam fail ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saiz biasa termasuk 16×16, 32×32, 48×48, 64×64, 128×128, dan 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar SVG ke ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik SVG dan pilih fail vektor anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu untuk proses rasterisasi dan pengoptimuman selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muatturun ICO untuk menyimpan fail ikon."
+        }
+      ],
+      "tool": [
+        "Penukar SVG ke ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

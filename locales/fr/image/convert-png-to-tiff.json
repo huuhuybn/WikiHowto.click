@@ -1,0 +1,244 @@
+{
+  "lang": "fr",
+  "lang_name": "Français",
+  "title": "Convertisseur PNG en TIFF - Gratuit et en ligne | WikiHowTo.click",
+  "sub_title": "Convertissez des images PNG en TIFF en ligne avec des options sans perte, une qualité prête à imprimer et une transparence préservée. Pas de filigranes.",
+  "hint": "Téléchargez votre image PNG pour commencer la conversion...",
+  "btn_download": "Convertir en TIFF",
+  "btn_paste": "Télécharger PNG",
+  "btn_clear": "Effacer",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "Convertir PNG en TIFF - Convertisseur PNG en TIFF en ligne gratuit | WikiHowTo.click",
+    "description": "Convertissez des images PNG en format TIFF en ligne gratuitement. Conversion PNG en TIFF de haute qualité avec des options sans perte et un traitement rapide.",
+    "keywords": "png en tiff, convertir png en tiff, gratuit png en tiff, convertisseur tiff en ligne, conversion d'image",
+    "canonical": "https://wikihowto.click/fr/convert/png-to-tiff",
+    "og_title": "Convertir PNG en TIFF - Convertisseur PNG en TIFF en ligne gratuit",
+    "og_description": "Convertissez des images PNG en TIFF avec des options de compression sans perte et une transparence préservée. Gratuit, rapide et sécurisé.",
+    "og_url": "https://wikihowto.click/fr/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Convertisseur PNG en TIFF gratuit en ligne",
+    "twitter_description": "Convertissez PNG en TIFF avec des options sans perte, transparence et qualité prête à imprimer.",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Convertir PNG en TIFF en ligne",
+    "description": "Convertisseur PNG en TIFF gratuit avec des options de compression sans perte et une sortie prête à imprimer. Fonctionne sur n'importe quel appareil — aucune inscription requise."
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "Convertisseur PNG en TIFF",
+    "description": "Convertissez des images PNG en TIFF avec compression sans perte LZW/ZIP tout en préservant la transparence alpha.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Option TIFF sans perte (LZW/ZIP)",
+      "Préserve la transparence (alpha)",
+      "Qualité prête à imprimer",
+      "Outil en ligne gratuit"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Conversion PNG en TIFF terminée",
+    "back_button": "Retour au convertisseur",
+    "convert_another": "Convertir un autre PNG",
+    "quick_conversions": "Conversions rapides :"
+  },
+  "h2": [
+    {
+      "title": "Pourquoi convertir PNG en TIFF ?",
+      "description": "<p>Le TIFF est un format professionnel de qualité archivistique utilisé dans l'imagerie et l'impression :</p><ul><li><strong>Options sans perte :</strong> Gardez un master propre sans introduire de nouveaux artefacts.</li><li><strong>Prêt à imprimer :</strong> Idéal pour une sortie haute résolution et des flux de travail prépresse.</li><li><strong>Support alpha :</strong> Peut préserver la transparence (dépendant du lecteur).</li><li><strong>Facile à éditer :</strong> Stable pour des sauvegardes répétées et des transferts.</li></ul>"
+    },
+    {
+      "title": "Comment convertir PNG en TIFF en ligne",
+      "description": "<ol><li>Cliquez sur <em>Télécharger PNG</em> et choisissez votre fichier.</li><li>Attendez le traitement.</li><li>Cliquez sur <em>Télécharger TIFF</em> pour enregistrer le résultat.</li></ol><p>Sortie par défaut : RGBA 32 bits, LZW sans perte, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs PNG : principales différences",
+      "description": "<ul><li><strong>Compression :</strong> PNG utilise DEFLATE sans perte ; TIFF prend en charge LZW/ZIP (sans perte) ou d'autres.</li><li><strong>Taille de fichier :</strong> Dépend du contenu de l'image ; TIFF peut être plus grand ou similaire à PNG.</li><li><strong>Transparence :</strong> Les deux peuvent inclure alpha (le support du visualiseur peut varier pour TIFF).</li><li><strong>Meilleur pour :</strong> PNG pour la livraison web ; TIFF pour l'édition, l'impression et l'archivage.</li></ul>"
+    },
+    {
+      "title": "Limites et formats pris en charge",
+      "description": "<ul><li><strong>Entrée acceptée :</strong> PNG (<code>image/png</code>)</li><li><strong>Taille de fichier maximale :</strong> jusqu'à 16&nbsp;Mo par fichier</li><li><strong>Sortie :</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Par défaut :</strong> RGBA 32 bits, compression LZW, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Dépannage",
+      "description": "<ul><li><strong>Fichier trop volumineux :</strong> TIFF est plus lourd pour certains contenus — gardez PNG pour le web ou envisagez WebP/AVIF.</li><li><strong>Alpha non visible :</strong> Certains visualiseurs ignorent l'alpha TIFF ; vérifiez dans un éditeur professionnel.</li><li><strong>Changement de couleur :</strong> Convertissez en sRGB avant de télécharger pour une couleur à l'écran cohérente.</li><li><strong>Échec du téléchargement :</strong> Assurez-vous que le PNG ≤ 16&nbsp;Mo.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ce convertisseur PNG en TIFF est-il gratuit ?",
+      "answer": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
+    },
+    {
+      "question": "Le TIFF fonctionne-t-il sur toutes les applications ?",
+      "answer": "Le TIFF est largement pris en charge dans les applications professionnelles (Photoshop, Affinity, de nombreux outils RIP/impression). Certains visualiseurs simples peuvent ne pas afficher l'alpha ou certaines méthodes de compression."
+    },
+    {
+      "question": "Quelle est la taille des fichiers TIFF par rapport aux PNG ?",
+      "answer": "Cela varie selon l'image. Avec LZW/ZIP, le TIFF peut être similaire ou plus grand que le PNG selon le contenu."
+    },
+    {
+      "question": "Quelles tailles de fichiers sont prises en charge ?",
+      "answer": "Vous pouvez télécharger des images jusqu'à 16&nbsp;Mo par fichier."
+    },
+    {
+      "question": "Mes fichiers sont-ils en sécurité ?",
+      "answer": "Les fichiers sont traités automatiquement et ne sont pas conservés plus longtemps que nécessaire pour la conversion."
+    },
+    {
+      "question": "Puis-je convertir plusieurs PNG à la fois ?",
+      "answer": "Cette page convertit un fichier à la fois. Pour des besoins en masse, répétez le processus ou utilisez un outil de lot."
+    },
+    {
+      "question": "Le TIFF prend-il en charge les calques ?",
+      "answer": "Le TIFF standard est plat. Certaines applications intègrent des données de calque privées, mais cet outil produit un TIFF plat."
+    }
+  ],
+  "note": "Le TIFF convient au stockage/impression mais peut être lourd. Pour le web, envisagez PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Convertir PNG en JPG",
+      "url": "/fr/convert/png-to-jpg"
+    },
+    {
+      "title": "Convertir PNG en WebP",
+      "url": "/fr/convert/png-to-webp"
+    },
+    {
+      "title": "Convertir JPG en TIFF",
+      "url": "/fr/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tous droits réservés.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Convertisseur PNG en TIFF - Gratuit et en ligne",
+      "url": "https://wikihowto.click/fr/convert/png-to-tiff",
+      "description": "Outil en ligne gratuit pour convertir des images PNG en TIFF avec des options sans perte et une transparence préservée.",
+      "inLanguage": "fr",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/fr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG en TIFF",
+          "item": "https://wikihowto.click/fr/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Convertisseur PNG en TIFF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/fr/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Option LZW sans perte",
+        "Préserve l'alpha",
+        "Prêt à imprimer 300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ce convertisseur PNG en TIFF est-il gratuit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelles tailles de fichiers sont prises en charge ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le TIFF prend-il en charge les calques ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le TIFF standard est une image plate ; certaines applications intègrent des données de calque privées. Cet outil produit un TIFF plat."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Comment convertir PNG en TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Cliquez sur Télécharger PNG et sélectionnez votre fichier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Attendez que le traitement soit terminé."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cliquez sur Télécharger TIFF pour enregistrer le résultat."
+        }
+      ],
+      "tool": [
+        "Convertisseur PNG en TIFF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

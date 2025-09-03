@@ -1,0 +1,242 @@
+{
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "WEBP 转 AVIF 转换器 - 免费在线 | WikiHowTo.click",
+  "sub_title": "在线将 WebP 图像转换为 AVIF，具有出色的压缩、高质量和无水印。",
+  "hint": "上传您的 WebP 图像以开始转换...",
+  "btn_download": "转换为 AVIF",
+  "btn_paste": "上传 WebP",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/webp-to-avif.jpg",
+  "head": {
+    "title": "在线转换 WebP 为 AVIF - 免费 WebP 转 AVIF 转换器 | WikiHowTo.click",
+    "description": "在线将 WebP 转换为 AVIF，具有出色的压缩和高质量。免费的、快速的、安全的 WebP 转 AVIF 转换工具。",
+    "keywords": "webp 转 avif, 转换 webp 为 avif, 免费 webp 转 avif, 在线 avif 转换器, 图像转换",
+    "canonical": "https://wikihowto.click/zh/convert/webp-to-avif",
+    "og_title": "WebP 转 AVIF 转换器 - 免费在线",
+    "og_description": "将 WebP 图像转换为 AVIF 格式，具有出色的压缩和质量。100% 免费、快速、安全。",
+    "og_url": "https://wikihowto.click/zh/convert/webp-to-avif",
+    "og_image": "https://wikihowto.click/images/webp-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免费的 WebP 转 AVIF 在线转换器",
+    "twitter_description": "以出色的压缩和高质量将 WebP 转换为 AVIF。适用于所有设备。",
+    "twitter_image": "https://wikihowto.click/images/webp-to-avif.jpg"
+  },
+  "h1": {
+    "title": "在线转换 WebP 为 AVIF",
+    "description": "免费的快速 WebP 转 AVIF 转换器，具有出色的压缩和质量。可在任何设备上即时使用——无需注册。"
+  },
+  "description": "<p>通过转换 <strong>WebP 为 AVIF</strong> 来升级您的图像。AVIF（AV1 图像文件格式）是一种下一代格式，通常在相似的视觉质量下生成更小的文件。我们的工具保留透明度并将颜色转换为 sRGB，以确保网络一致性。</p><p><em>注意：</em>如果您的 WebP 是动画的，则仅转换第一帧为静态 AVIF 图像。</p>",
+  "converter": {
+    "type": "webp-to-avif",
+    "title": "WebP 转 AVIF 转换器",
+    "description": "以高质量和出色的压缩将 WebP 图像转换为 AVIF。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/webp"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 60,
+    "features": [
+      "高质量 AVIF 转换",
+      "出色的压缩",
+      "保留透明度",
+      "免费的在线工具"
+    ],
+    "options": {
+      "avif": {
+        "cqLevel": 30,
+        "speed": 6,
+        "subsample": "4:2:0",
+        "lossless": false,
+        "alphaQuality": 100
+      }
+    }
+  },
+  "result_actions": {
+    "title": "WebP 转 AVIF 转换完成",
+    "back_button": "返回转换器",
+    "convert_another": "转换另一个 WebP",
+    "quick_conversions": "快速转换："
+  },
+  "h2": [
+    {
+      "title": "为什么要将 WebP 转换为 AVIF？",
+      "description": "<p>AVIF 基于 AV1 编解码器，旨在实现更高的效率：</p><ul><li><strong>更小的文件：</strong>通常比相似质量的 WebP 小 15%–30%。</li><li><strong>高质量：</strong>在较低比特率下更好地保留细节。</li><li><strong>现代且未来兼容：</strong>广泛且不断增长的浏览器支持。</li><li><strong>透明度：</strong>完全支持 alpha 通道，类似于 WebP。</li></ul>"
+    },
+    {
+      "title": "如何在线将 WebP 转换为 AVIF",
+      "description": "<ol><li>点击 <em>上传 WebP</em> 并选择您的文件。</li><li>等待处理和优化。</li><li>点击 <em>下载 AVIF</em> 保存结果。</li></ol><p>默认设置在现代网络中平衡保真度和大小。</p>"
+    },
+    {
+      "title": "AVIF 与 WebP 比较",
+      "description": "<ul><li><strong>压缩：</strong>AVIF 通常在相似质量下实现更小的文件。</li><li><strong>透明度：</strong>两者都支持 alpha 通道。</li><li><strong>动画：</strong>此工具输出 <em>静态</em> AVIF（仅第一帧）。</li><li><strong>浏览器支持：</strong>AVIF 受到当前主要浏览器版本的支持。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的输入：</strong>WebP (<code>image/webp</code>)</li><li><strong>最大文件大小：</strong>每个文件 16&nbsp;MB</li><li><strong>输出：</strong>AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>动画：</strong>仅第一帧</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>颜色看起来不同：</strong>输出转换为 sRGB 以确保网络一致性。</li><li><strong>文件仍然很大：</strong>尝试更高的 <em>cqLevel</em>（例如，34–36）或在转换前缩小。</li><li><strong>上传失败：</strong>确保 <code>image/webp</code> 并且 ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 WebP 转 AVIF 转换器是免费的吗？",
+      "answer": "是的，它完全免费，没有水印或隐藏费用。"
+    },
+    {
+      "question": "AVIF 会在所有浏览器上工作吗？",
+      "answer": "AVIF 受到现代浏览器（Chrome、Firefox、Safari、Edge）的支持。为旧版本提供 WebP 或 JPG 备用。"
+    },
+    {
+      "question": "AVIF 文件比 WebP 小多少？",
+      "answer": "结果因图像而异，但 AVIF 通常在相似视觉质量下小 15%–30%."
+    },
+    {
+      "question": "它保留透明度吗？",
+      "answer": "是的。如果您的 WebP 有 alpha 通道，AVIF 输出会保留它。"
+    },
+    {
+      "question": "你们支持动画 WebP 吗？",
+      "answer": "动画 WebP 被转换为静态图像，使用第一帧。"
+    },
+    {
+      "question": "支持什么文件大小？",
+      "answer": "您可以上传每个文件最大为 16&nbsp;MB 的图像。"
+    }
+  ],
+  "note": "AVIF 效率很高，但在非常旧的设备上可能会渲染得稍慢。为了最大兼容性，请保留原始 WebP 作为备用。",
+  "related_links": [
+    {
+      "title": "将 AVIF 转换为 WebP",
+      "url": "/zh/convert/avif-to-webp"
+    },
+    {
+      "title": "将 PNG 转换为 AVIF",
+      "url": "/zh/convert/png-to-avif"
+    },
+    {
+      "title": "将 JPG 转换为 AVIF",
+      "url": "/zh/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版权所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP 转 AVIF 转换器 - 免费在线",
+      "url": "https://wikihowto.click/zh/convert/webp-to-avif",
+      "description": "免费的在线工具，将 WebP 图像转换为 AVIF，具有出色的压缩和高质量。",
+      "inLanguage": "zh",
+      "image": "https://wikihowto.click/images/webp-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "转换",
+          "item": "https://wikihowto.click/zh/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP 转 AVIF",
+          "item": "https://wikihowto.click/zh/convert/webp-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP 转 AVIF 转换器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/zh/convert/webp-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "保留透明度",
+        "出色的压缩",
+        "快速处理"
+      ],
+      "screenshot": "https://wikihowto.click/images/webp-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这个 WebP 转 AVIF 转换器是免费的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，它完全免费，没有水印或隐藏费用。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "AVIF 文件比 WebP 小多少？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF 通常在相似质量下比可比的 WebP 小 15%–30%，但这取决于图像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们支持动画 WebP 吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "动画 WebP 被转换为静态图像（仅第一帧）。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何将 WebP 转换为 AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "点击上传 WebP 并选择您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待处理和优化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "点击下载 AVIF 保存您的图像。"
+        }
+      ],
+      "tool": [
+        "WebP 转 AVIF 转换器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

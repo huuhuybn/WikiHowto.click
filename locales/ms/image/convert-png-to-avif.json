@@ -1,0 +1,248 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar PNG ke AVIF - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar imej PNG kepada AVIF dalam talian dengan pemampatan yang cemerlang dan kualiti tinggi. Menjaga ketelusan. Tiada tanda air.",
+  "hint": "Muat naik imej PNG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada AVIF",
+  "btn_paste": "Muat naik PNG",
+  "btn_clear": "Bersihkan",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "Tukar PNG kepada AVIF - Penukar PNG ke AVIF Dalam Talian Percuma | WikiHowTo.click",
+    "description": "Tukar imej PNG kepada AVIF dalam talian secara percuma. Penukaran PNG ke AVIF berkualiti tinggi dengan pemampatan yang cemerlang dan sokongan ketelusan.",
+    "keywords": "png ke avif, tukar png ke avif, percuma png ke avif, penukar avif dalam talian, penukaran imej",
+    "canonical": "https://wikihowto.click/ms/convert/png-to-avif",
+    "og_title": "Tukar PNG kepada AVIF - Penukar PNG ke AVIF Dalam Talian Percuma",
+    "og_description": "Tukar imej PNG kepada AVIF dengan pemampatan yang cemerlang dan ketelusan yang dipelihara. Percuma, cepat, dan selamat.",
+    "og_url": "https://wikihowto.click/ms/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Penukar PNG ke AVIF Dalam Talian Percuma",
+    "twitter_description": "Tukar PNG kepada AVIF dengan pemampatan yang cemerlang dan sokongan ketelusan. Berfungsi pada semua peranti.",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Tukar PNG kepada AVIF Dalam Talian",
+    "description": "Penukar PNG ke AVIF yang percuma dan cepat dengan pemampatan yang cemerlang dan sokongan ketelusan penuh. Berfungsi serta-merta pada mana-mana peranti — tiada pendaftaran diperlukan."
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "Penukar PNG ke AVIF",
+    "description": "Tukar imej PNG kepada AVIF dengan pemampatan moden sambil mengekalkan ketelusan alpha.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Output AVIF berkualiti tinggi",
+      "Pemampatan yang cemerlang",
+      "Menjaga ketelusan (alpha)",
+      "Alat dalam talian percuma"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Penukaran PNG ke AVIF Lengkap",
+    "back_button": "Kembali ke Penukar",
+    "convert_another": "Tukar PNG Lain",
+    "quick_conversions": "Penukaran Pantas:"
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar PNG kepada AVIF?",
+      "description": "<p>AVIF (Format Fail Imej AV1) adalah format generasi seterusnya dengan kecekapan yang luar biasa:</p><ul><li><strong>Pemampatan yang unggul:</strong> Selalunya 30–50% lebih kecil daripada PNG pada kualiti yang sama.</li><li><strong>Codec moden:</strong> Berdasarkan standard AV1.</li><li><strong>Fideliti tinggi:</strong> Pengekalan butiran yang hebat pada saiz yang lebih kecil.</li><li><strong>Prestasi web:</strong> Imej yang lebih kecil = halaman yang lebih cepat dan Core Web Vitals yang lebih baik.</li></ul>"
+    },
+    {
+      "title": "Cara Tukar PNG kepada AVIF Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik PNG</em> dan pilih fail anda.</li><li>Tunggu untuk pemprosesan dan pengoptimuman.</li><li>Klik <em>Muat turun AVIF</em> untuk menyimpan imej anda.</li></ol><p>Penukar secara automatik mengimbangi kualiti dan saiz untuk penggunaan web biasa.</p>"
+    },
+    {
+      "title": "Perbandingan AVIF vs PNG",
+      "description": "<ul><li><strong>Saiz fail:</strong> AVIF biasanya 30–50% lebih kecil daripada PNG.</li><li><strong>Kualiti:</strong> AVIF mengekalkan kualiti yang kuat pada bitrate yang lebih rendah.</li><li><strong>Ketelusan:</strong> Kedua-duanya menyokong ketelusan alpha.</li><li><strong>Sokongan pelayar:</strong> AVIF berfungsi dalam pelayar moden (sediakan fallback jika perlu).</li></ul>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Penyulitan:</strong> Kualiti ≈ 80, kelajuan 4, subsampling 4:4:4 untuk menjaga tepi bersih</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Pelayar lama:</strong> Gunakan elemen <code>&lt;picture&gt;</code> dengan fallback PNG/WebP.</li><li><strong>Halo pada tepi:</strong> 4:4:4 membantu; jika masih kelihatan, mulakan dari PNG resolusi lebih tinggi atau perhalusi alpha.</li><li><strong>Perlu tanpa kehilangan:</strong> Pertimbangkan PNG untuk keperluan tepat piksel, atau tetapkan AVIF kepada tanpa kehilangan dalam aliran kerja lanjutan.</li><li><strong>Muat naik gagal:</strong> Pastikan fail adalah PNG dan ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Kes Penggunaan: Bila untuk Tukar PNG kepada AVIF",
+      "description": "<ul><li><strong>Pengoptimuman web:</strong> Kurangkan beban untuk ikon, UI, dan grafik dengan ketelusan.</li><li><strong>Aplikasi mudah alih:</strong> Penggunaan jalur lebar dan storan yang lebih rendah.</li><li><strong>Perpustakaan besar:</strong> Jimat ruang cakera tanpa kehilangan kualiti yang ketara.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar PNG ke AVIF ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Adakah AVIF berfungsi pada semua pelayar?",
+      "answer": "AVIF disokong oleh pelayar moden (Chrome, Firefox, Safari, Edge). Sediakan fallback PNG/WebP untuk yang lebih lama."
+    },
+    {
+      "question": "Seberapa kecil fail AVIF berbanding PNG?",
+      "answer": "Biasanya 30–50% lebih kecil pada kualiti yang sama, bergantung pada imej."
+    },
+    {
+      "question": "Saiz fail apa yang disokong?",
+      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Bolehkah saya menukar beberapa PNG sekaligus?",
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+    },
+    {
+      "question": "Adakah AVIF lebih baik daripada PNG untuk laman web?",
+      "answer": "Selalunya ya untuk saiz fail yang lebih kecil dengan kualiti yang baik; untuk kes tanpa kehilangan yang ketat atau kes khas, PNG mungkin masih lebih baik."
+    }
+  ],
+  "note": "Untuk keserasian maksimum, hidangkan AVIF dengan fallback PNG/WebP menggunakan elemen <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Tukar AVIF kepada PNG",
+      "url": "/ms/convert/avif-to-png"
+    },
+    {
+      "title": "Tukar PNG kepada WebP",
+      "url": "/ms/convert/png-to-webp"
+    },
+    {
+      "title": "Tukar JPG kepada AVIF",
+      "url": "/ms/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar PNG ke AVIF - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/png-to-avif",
+      "description": "Alat dalam talian percuma untuk menukar imej PNG kepada AVIF dengan pemampatan yang cemerlang dan ketelusan yang dipelihara.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG ke AVIF",
+          "item": "https://wikihowto.click/ms/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar PNG ke AVIF",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Pemampatan yang cemerlang",
+        "Menjaga ketelusan",
+        "Pemprosesan cepat"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar PNG ke AVIF ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Saiz fail apa yang disokong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Adakah AVIF berfungsi pada semua pelayar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF disokong oleh pelayar moden; sediakan fallback PNG/WebP untuk yang lebih lama."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar PNG kepada AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik PNG dan pilih fail anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu pemprosesan dan pengoptimuman selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat turun AVIF untuk menyimpan hasil."
+        }
+      ],
+      "tool": [
+        "Penukar PNG ke AVIF"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

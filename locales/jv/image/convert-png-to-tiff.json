@@ -1,0 +1,244 @@
+{
+  "lang": "jv",
+  "lang_name": "Jawa",
+  "title": "PNG menyang TIFF Converter - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konversi gambar PNG menyang TIFF online kanthi opsi tanpa kehilangan, kualitas siap cetak, lan transparansi sing dijaga. Tanpa watermark.",
+  "hint": "Unggah gambar PNG sampeyan kanggo miwiti konversi...",
+  "btn_download": "Konversi menyang TIFF",
+  "btn_paste": "Unggah PNG",
+  "btn_clear": "Resiki",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "Konversi PNG menyang TIFF - Gratis Online PNG menyang TIFF Converter | WikiHowTo.click",
+    "description": "Konversi gambar PNG menyang format TIFF online gratis. Konversi PNG menyang TIFF berkualitas tinggi kanthi opsi tanpa kehilangan lan proses cepet.",
+    "keywords": "png menyang tiff, konversi png menyang tiff, gratis png menyang tiff, konverter tiff online, konversi gambar",
+    "canonical": "https://wikihowto.click/en/convert/png-to-tiff",
+    "og_title": "Konversi PNG menyang TIFF - Gratis Online PNG menyang TIFF Converter",
+    "og_description": "Konversi gambar PNG menyang TIFF kanthi opsi kompresi tanpa kehilangan lan transparansi sing dijaga. Gratis, cepet, lan aman.",
+    "og_url": "https://wikihowto.click/en/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "ringkasan_gambar_besar",
+    "twitter_title": "Gratis PNG menyang TIFF Converter Online",
+    "twitter_description": "Konversi PNG menyang TIFF kanthi opsi tanpa kehilangan, transparansi, lan kualitas siap cetak.",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Konversi PNG menyang TIFF Online",
+    "description": "Gratis PNG menyang TIFF converter kanthi opsi kompresi tanpa kehilangan lan output siap cetak. Bisa digunakake ing piranti apa wae — tanpa registrasi."
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "PNG menyang TIFF Converter",
+    "description": "Konversi gambar PNG menyang TIFF kanthi kompresi tanpa kehilangan LZW/ZIP nalika njaga transparansi alpha.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Opsi TIFF tanpa kehilangan (LZW/ZIP)",
+      "Njaga transparansi (alpha)",
+      "Kualitas siap cetak",
+      "Alat online gratis"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konversi PNG menyang TIFF Rampung",
+    "back_button": "Bali menyang Converter",
+    "convert_another": "Konversi PNG Liyane",
+    "quick_conversions": "Konversi Cepet:"
+  },
+  "h2": [
+    {
+      "title": "Kenapa Konversi PNG menyang TIFF?",
+      "description": "<p>TIFF iku format profesional, tingkat arsip sing digunakake ing imaging lan cetak:</p><ul><li><strong>Opsi tanpa kehilangan:</strong> Njaga master sing resik tanpa ngenalake artefak anyar.</li><li><strong>Siap cetak:</strong> Apik kanggo output resolusi tinggi lan alur kerja pra-cetak.</li><li><strong>Dukungan alpha:</strong> Bisa njaga transparansi (gumantung pembaca).</li><li><strong>Ramah editing:</strong> Stabil kanggo simpanan lan serah terima sing bola-bali.</li></ul>"
+    },
+    {
+      "title": "Carane Konversi PNG menyang TIFF Online",
+      "description": "<ol><li>Klik <em>Unggah PNG</em> lan pilih file sampeyan.</li><li>Enteni proses.</li><li>Klik <em>Unduh TIFF</em> kanggo nyimpen asil.</li></ol><p>Output default: 32-bit RGBA, LZW tanpa kehilangan, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs PNG: Bedane Kunci",
+      "description": "<ul><li><strong>Kompresi:</strong> PNG nggunakake DEFLATE tanpa kehilangan; TIFF ndhukung LZW/ZIP (tanpa kehilangan) utawa liyane.</li><li><strong>Ukuran file:</strong> Gumantung konten gambar; TIFF bisa luwih gedhe utawa padha karo PNG.</li><li><strong>Transparansi:</strong> Keduanya bisa kalebu alpha (dukungan viewer bisa beda kanggo TIFF).</li><li><strong>Apik kanggo:</strong> PNG kanggo pengiriman web; TIFF kanggo editing, cetak, lan arsip.</li></ul>"
+    },
+    {
+      "title": "Batasan & Format sing Didukung",
+      "description": "<ul><li><strong>Input sing ditampa:</strong> PNG (<code>image/png</code>)</li><li><strong>Ukuran file maksimum:</strong> nganti 16&nbsp;MB saben file</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Defaults:</strong> 32-bit RGBA, kompresi LZW, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Pemecahan Masalah",
+      "description": "<ul><li><strong>File terlalu gedhe:</strong> TIFF luwih abot kanggo sawetara konten — tetep PNG kanggo web utawa pertimbangkan WebP/AVIF.</li><li><strong>Alpha ora katon:</strong> Sawetara viewer nglirwakake alpha TIFF; verifikasi ing editor profesional.</li><li><strong>Perubahan warna:</strong> Konversi menyang sRGB sadurunge unggah kanggo warna konsisten ing layar.</li><li><strong>Unggah gagal:</strong> Priksa manawa PNG ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apa converter PNG menyang TIFF iki gratis?",
+      "answer": "Ya, converter iki sepenu gratis tanpa biaya tersembunyi utawa langganan."
+    },
+    {
+      "question": "Apa TIFF bisa digunakake ing kabeh aplikasi?",
+      "answer": "TIFF didhukung kanthi luas ing aplikasi profesional (Photoshop, Affinity, akeh alat RIP/cetak). Sawetara viewer sederhana bisa uga ora nampilake alpha utawa metode kompresi tartamtu."
+    },
+    {
+      "question": "Pira ukuran file TIFF dibandingake PNG?",
+      "answer": "Iku beda-beda miturut gambar. Kanthi LZW/ZIP, TIFF bisa padha utawa luwih gedhe tinimbang PNG gumantung konten."
+    },
+    {
+      "question": "Ukuran file apa sing didhukung?",
+      "answer": "Sampeyan bisa unggah gambar nganti 16&nbsp;MB saben file."
+    },
+    {
+      "question": "Apa fileku aman?",
+      "answer": "File diproses kanthi otomatis lan ora disimpen luwih suwe tinimbang sing dibutuhake kanggo konversi."
+    },
+    {
+      "question": "Apa aku bisa ngowahi sawetara PNG sekaligus?",
+      "answer": "Kaca iki ngowahi siji file ing siji wektu. Kanggo kabutuhan massal, ulangi proses utawa gunakake alat batch."
+    },
+    {
+      "question": "Apa TIFF ndhukung lapisan?",
+      "answer": "TIFF standar iku gambar datar. Sawetara aplikasi nyisipake data lapisan pribadi, nanging alat iki ngasilake TIFF datar."
+    }
+  ],
+  "note": "TIFF cocog kanggo arsip/cetak nanging bisa abot. Kanggo web, pertimbangkan PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Konversi PNG menyang JPG",
+      "url": "/en/convert/png-to-jpg"
+    },
+    {
+      "title": "Konversi PNG menyang WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "Konversi JPG menyang TIFF",
+      "url": "/en/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kabeh hak dilindhungi.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG menyang TIFF Converter - Gratis & Online",
+      "url": "https://wikihowto.click/en/convert/png-to-tiff",
+      "description": "Alat online gratis kanggo ngowahi gambar PNG menyang TIFF kanthi opsi tanpa kehilangan lan transparansi sing dijaga.",
+      "inLanguage": "jv",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beranda",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konversi",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG menyang TIFF",
+          "item": "https://wikihowto.click/en/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG menyang TIFF Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Opsi LZW tanpa kehilangan",
+        "Njaga alpha",
+        "Siap cetak 300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Apa converter PNG menyang TIFF iki gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, converter iki sepenu gratis tanpa biaya tersembunyi utawa langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ukuran file apa sing didhukung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sampeyan bisa unggah gambar nganti 16 MB saben file."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa TIFF ndhukung lapisan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TIFF standar iku gambar datar; sawetara aplikasi nyisipake data lapisan pribadi. Alat iki ngasilake TIFF datar."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Carane ngowahi PNG menyang TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unggah PNG lan pilih file sampeyan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Enteni proses rampung."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unduh TIFF kanggo nyimpen asil."
+        }
+      ],
+      "tool": [
+        "PNG menyang TIFF Converter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

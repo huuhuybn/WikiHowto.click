@@ -1,0 +1,248 @@
+{
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "PNG 转 AVIF 转换器 - 免费在线 | WikiHowTo.click",
+  "sub_title": "在线将 PNG 图像转换为 AVIF，具有出色的压缩和高质量。保留透明度。无水印。",
+  "hint": "上传您的 PNG 图像以开始转换...",
+  "btn_download": "转换为 AVIF",
+  "btn_paste": "上传 PNG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "将 PNG 转换为 AVIF - 免费在线 PNG 转 AVIF 转换器 | WikiHowTo.click",
+    "description": "免费在线将 PNG 图像转换为 AVIF。高质量的 PNG 到 AVIF 转换，具有出色的压缩和透明度支持。",
+    "keywords": "png 转 avif, 将 png 转换为 avif, 免费 png 转 avif, 在线 avif 转换器, 图像转换",
+    "canonical": "https://wikihowto.click/en/convert/png-to-avif",
+    "og_title": "将 PNG 转换为 AVIF - 免费在线 PNG 转 AVIF 转换器",
+    "og_description": "将 PNG 图像转换为 AVIF，具有出色的压缩和保留透明度。免费、快速、安全。",
+    "og_url": "https://wikihowto.click/en/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免费 PNG 转 AVIF 在线转换器",
+    "twitter_description": "将 PNG 转换为 AVIF，具有出色的压缩和透明度支持。适用于所有设备。",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "在线将 PNG 转换为 AVIF",
+    "description": "免费且快速的 PNG 到 AVIF 转换器，具有出色的压缩和完全的透明度支持。可在任何设备上即时使用——无需注册。"
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "PNG 转 AVIF 转换器",
+    "description": "在保留 alpha 透明度的同时，将 PNG 图像转换为 AVIF，采用现代压缩技术。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "高质量的 AVIF 输出",
+      "出色的压缩",
+      "保留透明度 (alpha)",
+      "免费在线工具"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "PNG 到 AVIF 转换完成",
+    "back_button": "返回转换器",
+    "convert_another": "转换另一个 PNG",
+    "quick_conversions": "快速转换："
+  },
+  "h2": [
+    {
+      "title": "为什么将 PNG 转换为 AVIF？",
+      "description": "<p>AVIF（AV1 图像文件格式）是一种具有卓越效率的下一代格式：</p><ul><li><strong>优越的压缩：</strong>通常比 PNG 小 30%–50%，质量相似。</li><li><strong>现代编解码器：</strong>基于 AV1 标准。</li><li><strong>高保真度：</strong>在较小尺寸下保留出色细节。</li><li><strong>网页性能：</strong>较小的图像 = 更快的页面和更好的核心网页指标。</li></ul>"
+    },
+    {
+      "title": "如何在线将 PNG 转换为 AVIF",
+      "description": "<ol><li>点击 <em>上传 PNG</em> 并选择您的文件。</li><li>等待处理和优化。</li><li>点击 <em>下载 AVIF</em> 保存您的图像。</li></ol><p>转换器自动平衡质量和大小，以适应常见的网页使用。</p>"
+    },
+    {
+      "title": "AVIF 与 PNG 比较",
+      "description": "<ul><li><strong>文件大小：</strong>AVIF 通常比 PNG 小 30%–50%。</li><li><strong>质量：</strong>AVIF 在较低比特率下保持强大的质量。</li><li><strong>透明度：</strong>两者都支持 alpha 透明度。</li><li><strong>浏览器支持：</strong>AVIF 在现代浏览器中有效（如有需要，请提供后备方案）。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的输入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong>AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>编码：</strong>质量 ≈ 80，速度 4，4:4:4 子采样以保持边缘清晰</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>旧版浏览器：</strong>使用 <code>&lt;picture&gt;</code> 元素与 PNG/WebP 后备。</li><li><strong>边缘光晕：</strong>4:4:4 有帮助；如果仍然可见，请从更高分辨率的 PNG 开始或优化 alpha。</li><li><strong>需要无损：</strong>对于像素完美的需求，请考虑使用 PNG，或在高级工作流程中将 AVIF 设置为无损。</li><li><strong>上传失败：</strong>确保文件为 PNG 且 ≤ 16&nbsp;MB。</li></ul>"
+    },
+    {
+      "title": "使用案例：何时将 PNG 转换为 AVIF",
+      "description": "<ul><li><strong>网页优化：</strong>减少图标、用户界面和带透明度的图形的负载。</li><li><strong>移动应用：</strong>降低带宽和存储使用。</li><li><strong>大型库：</strong>在不明显质量损失的情况下节省磁盘空间。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 PNG 到 AVIF 转换器是免费的吗？",
+      "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
+    },
+    {
+      "question": "AVIF 会在所有浏览器上工作吗？",
+      "answer": "AVIF 受到现代浏览器的支持（Chrome、Firefox、Safari、Edge）。为旧版浏览器提供 PNG/WebP 后备。"
+    },
+    {
+      "question": "AVIF 文件比 PNG 小多少？",
+      "answer": "通常在相似感知质量下小 30%–50%，具体取决于图像。"
+    },
+    {
+      "question": "支持什么文件大小？",
+      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
+    },
+    {
+      "question": "我的文件安全吗？",
+      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
+    },
+    {
+      "question": "我可以一次转换多个 PNG 吗？",
+      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+    },
+    {
+      "question": "AVIF 对网站来说比 PNG 更好吗？",
+      "answer": "通常是的，适用于较小文件大小且质量良好的情况；对于严格的无损或特殊情况，PNG 可能仍然更可取。"
+    }
+  ],
+  "note": "为了最大兼容性，请使用 <code>&lt;picture&gt;</code> 元素提供 AVIF 和 PNG/WebP 后备。",
+  "related_links": [
+    {
+      "title": "将 AVIF 转换为 PNG",
+      "url": "/en/convert/avif-to-png"
+    },
+    {
+      "title": "将 PNG 转换为 WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "将 JPG 转换为 AVIF",
+      "url": "/en/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 保留所有权利。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG 转 AVIF 转换器 - 免费在线",
+      "url": "https://wikihowto.click/en/convert/png-to-avif",
+      "description": "免费在线工具，将 PNG 图像转换为 AVIF，具有出色的压缩和保留透明度。",
+      "inLanguage": "zh",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "转换",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG 转 AVIF",
+          "item": "https://wikihowto.click/en/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG 转 AVIF 转换器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "出色的压缩",
+        "保留透明度",
+        "快速处理"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这个 PNG 到 AVIF 转换器是免费的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持什么文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上传每个文件最多 16 MB 的图像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "AVIF 会在所有浏览器上工作吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF 受到现代浏览器的支持；为旧版浏览器提供 PNG/WebP 后备。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何将 PNG 转换为 AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "点击上传 PNG 并选择您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待处理和优化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "点击下载 AVIF 保存结果。"
+        }
+      ],
+      "tool": [
+        "PNG 转 AVIF 转换器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

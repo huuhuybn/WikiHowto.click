@@ -1,0 +1,244 @@
+{
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "SVG till ICO-konverterare - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konvertera SVG-bilder till ICO-format online för faviconer och skrivbordsikoner. Gratis, snabbt och utan vattenstämplar.",
+  "hint": "Ladda upp din SVG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till ICO",
+  "btn_paste": "Ladda upp SVG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Transformera din <strong>SVG till ICO</strong> för perfekta faviconer och skrivbordsikoner! Vår gratis konverterare rasteriserar din vektor-SVG till skarpa ICO i flera storlekar som fungerar i olika webbläsare och Windows-skrivbord.</p><p>ICO kan samla flera storlekar i en fil (t.ex. 16–256 px), så din ikon ser skarp ut på flikar, genvägar och hög-DPI-skärmar. Transparens bevaras för mjuka kanter på ljusa och mörka bakgrunder.</p>",
+  "head": {
+    "title": "Konvertera SVG till ICO Online - Gratis SVG till ICO-konverterare | WikiHowTo.click",
+    "description": "Konvertera SVG till ICO online för faviconer och skrivbordsikoner. Gratis, snabbt och säkert SVG till ICO-konverteringsverktyg.",
+    "keywords": "svg till ico, konvertera svg till ico, gratis svg till ico, online ico-konverterare, favicon-skapare",
+    "canonical": "https://wikihowto.click/sv/convert/svg-to-ico",
+    "og_title": "SVG till ICO-konverterare - Gratis & Online",
+    "og_description": "Konvertera SVG-bilder till ICO-format för faviconer och skrivbordsikoner. 100% gratis, snabbt och säkert.",
+    "og_url": "https://wikihowto.click/sv/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Gratis SVG till ICO-konverterare Online",
+    "twitter_description": "Konvertera SVG till ICO för faviconer och skrivbordsikoner. Fungerar på alla enheter.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Konvertera SVG till ICO Online",
+    "description": "Gratis och snabb SVG till ICO-konverterare för faviconer och skrivbordsikoner. Fungerar omedelbart på alla enheter - ingen registrering krävs."
+  },
+  "h2": [
+    {
+      "title": "Varför konvertera SVG till ICO?",
+      "description": "<p>SVG ger dig upplösningsoberoende former; ICO ger dig inbyggd ikonkompatibilitet:</p><ul><li><strong>Stöd för flera storlekar:</strong> Samla 16–256 px-varianter i en fil.</li><li><strong>Faviconstandard:</strong> Allmänt erkänd av webbläsare.</li><li><strong>Windows-kompatibilitet:</strong> Inbyggt format för skrivbords-/appikoner.</li><li><strong>Transparens:</strong> Mjuka kanter med alfa bevarad.</li></ul>"
+    },
+    {
+      "title": "Hur man konverterar SVG till ICO Online",
+      "description": "<ol><li>Klicka på <em>Ladda upp SVG</em> och välj din vektorfil.</li><li>Vänta på rasterisering och optimering.</li><li>Klicka på <em>Ladda ner ICO</em> för att spara din ikon.</li></ol><p>Vi genererar vanliga storlekar automatiskt för skarpa resultat.</p>"
+    },
+    {
+      "title": "ICO-formatets specifikationer",
+      "description": "<ul><li><strong>Standardstorlekar:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Färgdjup:</strong> Upp till 32-bitars RGBA</li><li><strong>Kompression:</strong> PNG-komprimerade poster för 32-bitars ikoner (Vista+)</li><li><strong>Struktur:</strong> Header + flera bildposter i en fil</li></ul>"
+    },
+    {
+      "title": "Stödda gränser och format",
+      "description": "<ul><li><strong>Accepterad indata:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Felsökning",
+      "description": "<ul><li><strong>Favicon visas inte:</strong> Rensa cache och se till att <code>/favicon.ico</code> är länkad via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Typsnitt/filter:</strong> Icke-inbäddade typsnitt, komplexa filter eller externa tillgångar kan rasteriseras olika. Konvertera text till konturer och inbäddade tillgångar i SVG:n.</li><li><strong>Beskärning:</strong> Använd en fyrkantig arbetsyta med padding för att undvika klippning efter rasterisering.</li><li><strong>Uppladdning misslyckas:</strong> Se till att SVG ≤ 16&nbsp;MB och giltig <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Bästa praxis",
+      "description": "<ul><li>Designa på en 512×512 eller 1024×1024 fyrkantig duk för rena nedskärningar.</li><li>Håll formerna djärva; undvik tunna linjer i små storlekar.</li><li>Använd hög kontrast för läsbarhet i 16–32 px ikoner.</li></ul>"
+    },
+    {
+      "title": "Funktioner i vår SVG till ICO-konverterare",
+      "description": "<ul><li>100% gratis utan vattenstämplar</li><li>Automatisk vektor→rasterkonvertering</li><li>Generering av ikoner i flera storlekar</li><li>Transparens bevarad</li><li>Säker bearbetning</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna SVG till ICO-konverterare gratis?",
+      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+    {
+      "question": "Vilka storlekar stöds i ICO-filer?",
+      "answer": "Vanliga storlekar inkluderar 16×16, 32×32, 48×48, 64×64, 128×128 och 256×256 px."
+    },
+    {
+      "question": "Kan jag använda ICO för webbplatsens faviconer?",
+      "answer": "Ja. Placera <code>/favicon.ico</code> i din webbplatsrot och referera till den med <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
+    {
+      "question": "Vilka filstorlekar stöds?",
+      "answer": "Du kan ladda upp SVG-filer upp till 16&nbsp;MB."
+    },
+    {
+      "question": "Är mina filer säkra?",
+      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
+    },
+    {
+      "question": "Kommer ikonens kvalitet att vara bra?",
+      "answer": "Ja. Vi rasteriserar från din vektor i flera storlekar för att hålla kanterna skarpa och transparensen intakt."
+    }
+  ],
+  "note": "SVG:er rasteriseras under konverteringen. För konsekventa resultat, konvertera text till konturer och inbäddade tillgångar.",
+  "related_links": [
+    {
+      "title": "Konvertera PNG till ICO",
+      "url": "/sv/convert/png-to-ico"
+    },
+    {
+      "title": "Konvertera JPG till ICO",
+      "url": "/sv/convert/jpg-to-ico"
+    },
+    {
+      "title": "Konvertera ICO till PNG",
+      "url": "/sv/convert/ico-to-png"
+    },
+    {
+      "title": "Konvertera SVG till PNG",
+      "url": "/sv/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Alla rättigheter förbehållna.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG till ICO-konverterare - Gratis & Online",
+      "url": "https://wikihowto.click/sv/convert/svg-to-ico",
+      "description": "Gratis onlineverktyg för att konvertera SVG-bilder till ICO för faviconer och Windows-skrivbordsikoner.",
+      "inLanguage": "sv",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hem",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertera",
+          "item": "https://wikihowto.click/sv/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG till ICO",
+          "item": "https://wikihowto.click/sv/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG till ICO-konverterare",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sv/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vektor till raster",
+        "Multi-storleksuppsättning",
+        "Transparens bevarad"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är denna SVG till ICO-konverterare gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vilka filstorlekar stöds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du kan ladda upp SVG-filer upp till 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vilka storlekar stöds i ICO-filer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanliga storlekar inkluderar 16×16, 32×32, 48×48, 64×64, 128×128 och 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hur man konverterar SVG till ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda upp SVG och välj din vektorfil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vänta på att rasterisering och optimering ska slutföras."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda ner ICO för att spara ikonfilen."
+        }
+      ],
+      "tool": [
+        "SVG till ICO-konverterare"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

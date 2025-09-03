@@ -1,0 +1,251 @@
+{
+  "lang": "cs",
+  "lang_name": "Čeština",
+  "title": "JPG na AVIF Konvertor - Zdarma & Online | WikiHowTo.click",
+  "sub_title": "Převeďte JPG obrázky na AVIF online s vynikající kompresí a vysokou vizuální kvalitou. Žádné vodotisky.",
+  "hint": "Nahrajte svůj JPG obrázek, abyste začali konvertovat...",
+  "btn_download": "Převést na AVIF",
+  "btn_paste": "Nahrát JPG",
+  "btn_clear": "Vymazat",
+  "head": {
+    "title": "Převeďte JPG na AVIF - Zdarma Online JPG na AVIF Konvertor",
+    "description": "Převeďte JPG obrázky na AVIF formát online zdarma. Vysoce kvalitní JPG na AVIF konverze s vynikající kompresí.",
+    "keywords": "jpg na avif, převést jpg na avif, zdarma jpg na avif, online avif konvertor, konverze obrázků",
+    "canonical": "https://wikihowto.click/cs/convert/jpg-to-avif",
+    "og_title": "Převeďte JPG na AVIF - Zdarma Online JPG na AVIF Konvertor",
+    "og_description": "Převeďte JPG obrázky na AVIF formát online zdarma. Vysoce kvalitní JPG na AVIF konverze s vynikající kompresí.",
+    "og_url": "https://wikihowto.click/cs/convert/jpg-to-avif",
+    "og_image": "https://wikihowto.click/images/jpg-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Převeďte JPG na AVIF - Zdarma Online JPG na AVIF Konvertor",
+    "twitter_description": "Převeďte JPG obrázky na AVIF formát online zdarma. Vysoce kvalitní JPG na AVIF konverze s vynikající kompresí.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Převeďte JPG na AVIF Online",
+    "description": "Zdarma JPG na AVIF konvertor s vynikající kompresí a kvalitou. Funguje na jakémkoli zařízení — není nutná registrace."
+  },
+  "converter": {
+    "type": "jpg-to-avif",
+    "title": "JPG na AVIF Konvertor",
+    "description": "Převeďte JPG obrázky na AVIF s moderní kompresí a vysokou věrností.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Vysoce kvalitní AVIF výstup",
+      "Vynikající komprese",
+      "Moderní formát připravený pro web",
+      "Zdarma online nástroj"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:2:0",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konverze JPG na AVIF Dokončena",
+    "back_button": "Zpět na Konvertor",
+    "convert_another": "Převést Další JPG",
+    "quick_conversions": "Rychlé Konverze:"
+  },
+  "h2": [
+    {
+      "title": "Proč převádět JPG na AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) je formát nové generace, který poskytuje menší soubory při podobné nebo lepší kvalitě než JPG:</p><ul><li><strong>Superior komprese:</strong> Často 30–50% menší než JPG při srovnatelné kvalitě.</li><li><strong>Vysoká věrnost:</strong> Lepší zachování detailů a méně artefaktů při nízkých bitrates.</li><li><strong>Moderní funkce:</strong> Podporuje průhlednost, HDR a široký barevný gamut.</li><li><strong>Webový výkon:</strong> Menší obrázky = rychlejší stránky a lepší Core Web Vitals.</li></ul>"
+    },
+    {
+      "title": "Jak převést JPG na AVIF online",
+      "description": "<ol><li>Klikněte na <em>Nahrát JPG</em> a vyberte svůj soubor.</li><li>Počkejte na dokončení zpracování.</li><li>Klikněte na <em>Stáhnout AVIF</em> pro uložení optimalizovaného obrázku.</li></ol><p>Konvertor automaticky vyvažuje kvalitu a velikost pro typické webové použití.</p>"
+    },
+    {
+      "title": "AVIF vs JPG: Klíčové rozdíly",
+      "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompresce</td><td>Ztrátová (JPEG)</td><td>Pokročilá, efektivnější (AV1)</td></tr><tr><td>Velikost souboru</td><td>Základní</td><td>≈30–50% menší při podobné kvalitě</td></tr><tr><td>Průhlednost</td><td>Ne</td><td>Ano</td></tr><tr><td>HDR/Široký gamut</td><td>Omezeno</td><td>Podporováno</td></tr><tr><td>Podpora prohlížečů</td><td>Univerzální</td><td>Moderní prohlížeče (doporučeno fallback)</td></tr></tbody></table>"
+    },
+    {
+      "title": "Podporované limity a formáty",
+      "description": "<ul><li><strong>Přijatý vstup:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kódování:</strong> Kvalita ~80, rychlost 4 (vyvážené)</li></ul>"
+    },
+    {
+      "title": "Odstraňování problémů",
+      "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je JPG/JPEG a ≤ 16&nbsp;MB.</li><li><strong>Posun barev:</strong> Převeďte obrázky na sRGB před nahráním pro konzistentní webové barvy.</li><li><strong>Starší prohlížeče:</strong> Poskytněte JPG/WebP fallback s <code>&lt;picture&gt;</code>, pokud AVIF není podporován.</li></ul>"
+    },
+    {
+      "title": "Případy použití: Kdy převádět JPG na AVIF",
+      "description": "<ul><li><strong>Optimalizace webu:</strong> Zrychlete stránky a zlepšete LCP.</li><li><strong>Mobilní aplikace:</strong> Snižte šířku pásma a úložiště.</li><li><strong>Velké knihovny fotografií:</strong> Ušetřete místo na disku bez zjevné ztráty kvality.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Je tento JPG na AVIF konvertor zdarma?",
+      "answer": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+    },
+    {
+      "question": "Bude AVIF fungovat na všech prohlížečích?",
+      "answer": "AVIF je podporován moderními prohlížeči (Chrome, Firefox, Safari, Edge). Pro starší prohlížeče poskytněte JPG/WebP fallbacky."
+    },
+    {
+      "question": "Jak moc menší jsou AVIF soubory ve srovnání s JPG?",
+      "answer": "Obvykle 30–50% menší při podobné vnímané kvalitě, i když výsledky se liší podle obrázku."
+    },
+    {
+      "question": "Jaké velikosti souborů jsou podporovány?",
+      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
+    },
+    {
+      "question": "Jsou mé soubory v bezpečí?",
+      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro konverzi."
+    },
+    {
+      "question": "Mohu převést více JPG najednou?",
+      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkovou konverzi."
+    },
+    {
+      "question": "Je AVIF lepší než JPG pro webové stránky?",
+      "answer": "Ano. AVIF obvykle poskytuje menší soubory při srovnatelné kvalitě, což zlepšuje rychlost načítání a Core Web Vitals."
+    }
+  ],
+  "note": "AVIF se nemusí zobrazovat v některých starších softwarových aplikacích. Použijte prvek <code>&lt;picture&gt;</code> s JPG/WebP fallbacky pro maximální kompatibilitu.",
+  "related_links": [
+    {
+      "title": "Převeďte AVIF na JPG",
+      "url": "/cs/convert/avif-to-jpg"
+    },
+    {
+      "title": "Převeďte PNG na AVIF",
+      "url": "/cs/convert/png-to-avif"
+    },
+    {
+      "title": "Převeďte WebP na AVIF",
+      "url": "/cs/convert/webp-to-avif"
+    },
+    {
+      "title": "Kompresujte AVIF obrázky",
+      "url": "/cs/compress/avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG na AVIF Konvertor - Zdarma & Online",
+      "url": "https://wikihowto.click/cs/convert/jpg-to-avif",
+      "description": "Zdarma online nástroj pro převod JPG obrázků na AVIF s vynikající kompresí a vysokou kvalitou.",
+      "inLanguage": "cs",
+      "image": "https://wikihowto.click/images/jpg-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domů",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Převést",
+          "item": "https://wikihowto.click/cs/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG na AVIF",
+          "item": "https://wikihowto.click/cs/convert/jpg-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG na AVIF Konvertor",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/cs/convert/jpg-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vynikající komprese",
+        "Moderní AVIF výstup",
+        "Rychlé zpracování"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je tento JPG na AVIF konvertor zdarma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jaké velikosti souborů jsou podporovány?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bude AVIF fungovat na všech prohlížečích?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF je podporován moderními prohlížeči, ale měli byste poskytnout JPG/WebP fallbacky pro starší."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Jak převést JPG na AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klikněte na Nahrát JPG a vyberte svůj soubor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Počkejte na dokončení zpracování."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klikněte na Stáhnout AVIF pro uložení optimalizovaného obrázku."
+        }
+      ],
+      "tool": [
+        "JPG na AVIF Konvertor"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

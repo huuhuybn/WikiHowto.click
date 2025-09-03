@@ -1,0 +1,244 @@
+{
+  "lang": "hu",
+  "lang_name": "Magyar",
+  "title": "SVG-ből ICO-ba Átalakító - Ingyenes és Online | WikiHowTo.click",
+  "sub_title": "Konvertálja az SVG képeket ICO formátumba online a faviconokhoz és az asztali ikonokhoz. Ingyenes, gyors és vízjel nélküli.",
+  "hint": "Töltse fel az SVG képét a konvertálás megkezdéséhez...",
+  "btn_download": "Konvertálás ICO-ba",
+  "btn_paste": "SVG feltöltése",
+  "btn_clear": "Törlés",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Alakítsa át az <strong>SVG-t ICO-ba</strong> a tökéletes faviconok és asztali ikonok érdekében! Ingyenes átalakítónk raszterizálja a vektoriális SVG-jét éles, több méretű ICO-vá, amely minden böngészőben és Windows asztalon működik.</p><p>Az ICO több méretet is tartalmazhat egy fájlban (pl. 16–256 px), így az ikonja éles marad a lapokon, parancsikonokon és nagy DPI-s kijelzőkön. Az átlátszóság megmarad a sima élek érdekében világos és sötét háttér előtt.</p>",
+  "head": {
+    "title": "Konvertálja az SVG-t ICO-ba Online - Ingyenes SVG-ből ICO-ba Átalakító | WikiHowTo.click",
+    "description": "Konvertálja az SVG-t ICO-ba online a faviconokhoz és az asztali ikonokhoz. Ingyenes, gyors és biztonságos SVG-ből ICO-ba átalakító eszköz.",
+    "keywords": "svg to ico, konvertálja az svg-t ico-ba, ingyenes svg to ico, online ico átalakító, favicon készítő",
+    "canonical": "https://wikihowto.click/hu/convert/svg-to-ico",
+    "og_title": "SVG-ből ICO-ba Átalakító - Ingyenes és Online",
+    "og_description": "Konvertálja az SVG képeket ICO formátumba a faviconokhoz és az asztali ikonokhoz. 100% ingyenes, gyors és biztonságos.",
+    "og_url": "https://wikihowto.click/hu/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Ingyenes SVG-ből ICO-ba Átalakító Online",
+    "twitter_description": "Konvertálja az SVG-t ICO-ba a faviconokhoz és az asztali ikonokhoz. Minden eszközön működik.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Konvertálja az SVG-t ICO-ba Online",
+    "description": "Ingyenes és gyors SVG-ből ICO-ba átalakító a faviconokhoz és az asztali ikonokhoz. Azonnal működik bármely eszközön - regisztráció nem szükséges."
+  },
+  "h2": [
+    {
+      "title": "Miért konvertálja az SVG-t ICO-ba?",
+      "description": "<p>Az SVG felbontásfüggetlen formákat ad; az ICO natív ikon kompatibilitást biztosít:</p><ul><li><strong>Multi-size támogatás:</strong> Csomagolja össze a 16–256 px változatokat egy fájlban.</li><li><strong>Favicon szabvány:</strong> Széles körben elismert a böngészők által.</li><li><strong>Windows kompatibilitás:</strong> Natív formátum az asztali/alkalmazás ikonokhoz.</li><li><strong>Átlátszóság:</strong> Simább élek az alfa megőrzésével.</li></ul>"
+    },
+    {
+      "title": "Hogyan konvertálja az SVG-t ICO-ba Online",
+      "description": "<ol><li>Kattintson az <em>SVG feltöltése</em> gombra, és válassza ki a vektoriális fájlt.</li><li>Várjon a raszterizálásra és az optimalizálásra.</li><li>Kattintson a <em>ICO letöltése</em> gombra az ikon mentéséhez.</li></ol><p>Automatikusan generálunk közönséges méreteket az éles eredmények érdekében.</p>"
+    },
+    {
+      "title": "ICO Formátum Specifikációk",
+      "description": "<ul><li><strong>Standard méretek:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Színmélység:</strong> Akár 32-bites RGBA</li><li><strong>Kompresszió:</strong> PNG-kompresszált bejegyzések 32-bites ikonokhoz (Vista+)</li><li><strong>Szerkezet:</strong> Fejléc + több képbejegyzés egy fájlban</li></ul>"
+    },
+    {
+      "title": "Támogatott Határok és Formátumok",
+      "description": "<ul><li><strong>Elfogadott bemenet:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Hibaelhárítás",
+      "description": "<ul><li><strong>Favicon nem jelenik meg:</strong> Törölje a gyorsítótárat, és győződjön meg róla, hogy a <code>/favicon.ico</code> hivatkozva van a <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> segítségével.</li><li><strong>Betűtípusok/szűrők:</strong> A nem beágyazott betűtípusok, bonyolult szűrők vagy külső eszközök eltérően raszterizálódhatnak. Alakítsa át a szöveget kontúrokká és ágyazza be a szükséges eszközöket az SVG-ben.</li><li><strong>Vágás:</strong> Használjon négyzet alakú munkafelületet párnázással, hogy elkerülje a vágást a raszterizálás után.</li><li><strong>Feltöltés sikertelen:</strong> Győződjön meg róla, hogy az SVG ≤ 16&nbsp;MB és érvényes <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Legjobb Gyakorlatok",
+      "description": "<ul><li>Tervezzen egy 512×512 vagy 1024×1024 négyzet alakú vásznon a tiszta lecsökkentés érdekében.</li><li>Tartsa a formákat merészen; kerülje a vékony vonalakat kis méretekben.</li><li>Használjon nagy kontrasztot az olvashatóság érdekében a 16–32 px ikonokban.</li></ul>"
+    },
+    {
+      "title": "Az SVG-ből ICO-ba Átalakítónk Jellemzői",
+      "description": "<ul><li>100% ingyenes vízjelek nélkül</li><li>Automatikus vektor→raszter átalakítás</li><li>Multi-size ikon generálás</li><li>Átlátszóság megőrzése</li><li>Biztonságos feldolgozás</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ez az SVG-ből ICO-ba átalakító ingyenes?",
+      "answer": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+    },
+    {
+      "question": "Milyen méretek támogatottak az ICO fájlokban?",
+      "answer": "A gyakori méretek közé tartozik a 16×16, 32×32, 48×48, 64×64, 128×128 és 256×256 px."
+    },
+    {
+      "question": "Használhatom az ICO-t weboldal faviconokhoz?",
+      "answer": "Igen. Helyezze el a <code>/favicon.ico</code> fájlt az oldal gyökerében, és hivatkozzon rá a <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> segítségével."
+    },
+    {
+      "question": "Milyen fájlméretek támogatottak?",
+      "answer": "SVG fájlokat tölthet fel legfeljebb 16&nbsp;MB méretben."
+    },
+    {
+      "question": "Biztonságban vannak a fájljaim?",
+      "answer": "A fájlokat automatikusan dolgozzák fel, és nem őrzik meg tovább a szükségesnél a konvertálás érdekében."
+    },
+    {
+      "question": "Jó lesz az ikon minősége?",
+      "answer": "Igen. A vektorból több méretben raszterizálunk, hogy az élek élesek maradjanak és az átlátszóság megmaradjon."
+    }
+  ],
+  "note": "Az SVG-k raszterizálódnak a konvertálás során. A következetes eredmények érdekében alakítsa át a szöveget kontúrokká, és ágyazza be a szükséges eszközöket.",
+  "related_links": [
+    {
+      "title": "Konvertálja a PNG-t ICO-ba",
+      "url": "/hu/convert/png-to-ico"
+    },
+    {
+      "title": "Konvertálja a JPG-t ICO-ba",
+      "url": "/hu/convert/jpg-to-ico"
+    },
+    {
+      "title": "Konvertálja az ICO-t PNG-ba",
+      "url": "/hu/convert/ico-to-png"
+    },
+    {
+      "title": "Konvertálja az SVG-t PNG-ba",
+      "url": "/hu/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Minden jog fenntartva.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG-ből ICO-ba Átalakító - Ingyenes és Online",
+      "url": "https://wikihowto.click/hu/convert/svg-to-ico",
+      "description": "Ingyenes online eszköz az SVG képek ICO-ba történő konvertálására a faviconokhoz és Windows asztali ikonokhoz.",
+      "inLanguage": "hu",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Kezdőlap",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertálás",
+          "item": "https://wikihowto.click/hu/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG-ből ICO-ba",
+          "item": "https://wikihowto.click/hu/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG-ből ICO-ba Átalakító",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/hu/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vektor raszter",
+        "Multi-size készlet",
+        "Átlátszóság megőrzése"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ez az SVG-ből ICO-ba átalakító ingyenes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen fájlméretek támogatottak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "SVG fájlokat tölthet fel legfeljebb 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen méretek támogatottak az ICO fájlokban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A gyakori méretek közé tartozik a 16×16, 32×32, 48×48, 64×64, 128×128 és 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hogyan konvertálja az SVG-t ICO-ba",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kattintson az SVG feltöltése gombra, és válassza ki a vektoriális fájlt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Várjon a raszterizálásra és az optimalizálásra."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kattintson a letöltés ICO gombra az ikon fájl mentéséhez."
+        }
+      ],
+      "tool": [
+        "SVG-ből ICO-ba Átalakító"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /logs/
+
+Allow: /
+
+Sitemap: https://snapsave.social/sitemap.xml

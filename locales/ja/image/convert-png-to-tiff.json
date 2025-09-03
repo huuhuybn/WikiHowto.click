@@ -1,0 +1,244 @@
+{
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "PNGからTIFFへの変換 - 無料＆オンライン | WikiHowTo.click",
+  "sub_title": "PNG画像をTIFFにオンラインで変換し、ロスレスオプション、印刷準備完了の品質、透明性を保持します。透かしはありません。",
+  "hint": "変換を開始するにはPNG画像をアップロードしてください...",
+  "btn_download": "TIFFに変換",
+  "btn_paste": "PNGをアップロード",
+  "btn_clear": "クリア",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "PNGからTIFFへの変換 - 無料オンラインPNGからTIFFへの変換ツール | WikiHowTo.click",
+    "description": "PNG画像をTIFF形式にオンラインで無料で変換します。ロスレスオプションと高速処理による高品質なPNGからTIFFへの変換。",
+    "keywords": "png to tiff, pngをtiffに変換, 無料png to tiff, オンラインtiff変換ツール, 画像変換",
+    "canonical": "https://wikihowto.click/ja/convert/png-to-tiff",
+    "og_title": "PNGからTIFFへの変換 - 無料オンラインPNGからTIFFへの変換ツール",
+    "og_description": "ロスレス圧縮オプションと透明性を保持したPNG画像をTIFFに変換します。無料で迅速、安全です。",
+    "og_url": "https://wikihowto.click/ja/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "無料PNGからTIFFへのオンライン変換ツール",
+    "twitter_description": "ロスレスオプション、透明性、印刷準備完了の品質でPNGをTIFFに変換します。",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "オンラインでPNGをTIFFに変換",
+    "description": "ロスレス圧縮オプションと印刷準備完了の出力を持つ無料のPNGからTIFFへの変換ツール。どのデバイスでも動作します — サインアップは不要です。"
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "PNGからTIFFへの変換ツール",
+    "description": "アルファ透明性を保持しながら、LZW/ZIPロスレス圧縮でPNG画像をTIFFに変換します。",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "ロスレスTIFF (LZW/ZIP)オプション",
+      "透明性を保持 (アルファ)",
+      "印刷準備完了の品質",
+      "無料のオンラインツール"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "PNGからTIFFへの変換が完了しました",
+    "back_button": "変換ツールに戻る",
+    "convert_another": "別のPNGを変換",
+    "quick_conversions": "クイック変換:"
+  },
+  "h2": [
+    {
+      "title": "なぜPNGをTIFFに変換するのか？",
+      "description": "<p>TIFFは、画像と印刷に使用されるプロフェッショナルなアーカイブグレードのフォーマットです：</p><ul><li><strong>ロスレスオプション：</strong>新しいアーティファクトを導入せずにクリーンなマスターを保持します。</li><li><strong>印刷準備完了：</strong>高解像度の出力やプレプレスワークフローに最適です。</li><li><strong>アルファサポート：</strong>透明性を保持できます（リーダー依存）。</li><li><strong>編集に優しい：</strong>繰り返し保存やハンドオフに安定しています。</li></ul>"
+    },
+    {
+      "title": "オンラインでPNGをTIFFに変換する方法",
+      "description": "<ol><li><em>PNGをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理を待ちます。</li><li><em>TIFFをダウンロード</em>をクリックして結果を保存します。</li></ol><p>デフォルト出力：32ビットRGBA、LZWロスレス、300&nbsp;DPI。</p>"
+    },
+    {
+      "title": "TIFFとPNG：主な違い",
+      "description": "<ul><li><strong>圧縮：</strong>PNGはロスレスDEFLATEを使用します; TIFFはLZW/ZIP（ロスレス）または他の圧縮をサポートします。</li><li><strong>ファイルサイズ：</strong>画像の内容によります; TIFFはPNGよりも大きいか、同じサイズになることがあります。</li><li><strong>透明性：</strong>両方ともアルファを含むことができます（TIFFのビューアサポートは異なる場合があります）。</li><li><strong>最適：</strong>PNGはウェブ配信に最適; TIFFは編集、印刷、アーカイブに最適です。</li></ul>"
+    },
+    {
+      "title": "サポートされる制限とフォーマット",
+      "description": "<ul><li><strong>受け入れられる入力：</strong>PNG (<code>image/png</code>)</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>デフォルト：</strong>32ビットRGBA、LZW圧縮、300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "トラブルシューティング",
+      "description": "<ul><li><strong>ファイルが大きすぎる：</strong>TIFFは一部の内容に対して重くなります — ウェブ用にはPNGを保持するか、WebP/AVIFを検討してください。</li><li><strong>アルファが表示されない：</strong>一部のビューアはTIFFのアルファを無視します; プロのエディタで確認してください。</li><li><strong>色のシフト：</strong>一貫した画面上の色のためにアップロード前にsRGBに変換してください。</li><li><strong>アップロード失敗：</strong>PNGが≤ 16&nbsp;MBであることを確認してください。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このPNGからTIFFへの変換ツールは無料ですか？",
+      "answer": "はい、この変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
+    },
+    {
+      "question": "TIFFはすべてのアプリケーションで動作しますか？",
+      "answer": "TIFFはプロフェッショナルなアプリ（Photoshop、Affinity、多くのRIP/印刷ツール）で広くサポートされています。一部のシンプルなビューアはアルファや特定の圧縮方法を表示しない場合があります。"
+    },
+    {
+      "question": "TIFFファイルとPNGファイルのサイズはどのくらいですか？",
+      "answer": "画像によって異なります。LZW/ZIPを使用すると、TIFFは内容に応じてPNGと同じか大きくなることがあります。"
+    },
+    {
+      "question": "サポートされているファイルサイズはどのくらいですか？",
+      "answer": "ファイルごとに最大16&nbsp;MBの画像をアップロードできます。"
+    },
+    {
+      "question": "私のファイルは安全ですか？",
+      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
+    },
+    {
+      "question": "複数のPNGを一度に変換できますか？",
+      "answer": "このページでは1つのファイルを一度に変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
+    },
+    {
+      "question": "TIFFはレイヤーをサポートしていますか？",
+      "answer": "標準TIFFはフラットです。一部のアプリはプライベートレイヤーデータを埋め込みますが、このツールはフラットTIFFを出力します。"
+    }
+  ],
+  "note": "TIFFは保存/印刷に適していますが、重くなる可能性があります。ウェブ用にはPNG/WebP/AVIFを検討してください。",
+  "related_links": [
+    {
+      "title": "PNGをJPGに変換",
+      "url": "/ja/convert/png-to-jpg"
+    },
+    {
+      "title": "PNGをWebPに変換",
+      "url": "/ja/convert/png-to-webp"
+    },
+    {
+      "title": "JPGをTIFFに変換",
+      "url": "/ja/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 全著作権所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNGからTIFFへの変換 - 無料＆オンライン",
+      "url": "https://wikihowto.click/ja/convert/png-to-tiff",
+      "description": "ロスレスオプションと透明性を保持したPNG画像をTIFFに変換する無料のオンラインツール。",
+      "inLanguage": "ja",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "変換",
+          "item": "https://wikihowto.click/ja/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNGからTIFF",
+          "item": "https://wikihowto.click/ja/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNGからTIFFへの変換ツール",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ja/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "JPY"
+      },
+      "featureList": [
+        "ロスレスLZWオプション",
+        "アルファを保持",
+        "印刷準備完了300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "このPNGからTIFFへの変換ツールは無料ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、この変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "サポートされているファイルサイズはどのくらいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "TIFFはレイヤーをサポートしていますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "標準TIFFはフラット画像です; 一部のアプリはプライベートレイヤーデータを埋め込みます。このツールはフラットTIFFを出力します。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "PNGをTIFFに変換する方法",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "PNGをアップロードをクリックし、ファイルを選択します。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "処理が完了するまで待ちます。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "TIFFをダウンロードをクリックして結果を保存します。"
+        }
+      ],
+      "tool": [
+        "PNGからTIFFへの変換ツール"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

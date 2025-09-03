@@ -1,0 +1,120 @@
+<% 
+if (data && data.length > 0) {
+for (var i = 0; i < data.length; i++) {
+    var item = data[i];
+%>
+<div id="download" class="download" style="border: darkgrey;height: auto;border: 5px;border-width: 1px">
+    <div class="download-box">
+        <div class="video-header mb-3">
+            <img src="<%= item.thumbnail %>" class="avatar" alt="Avatar" id="thumbnail" loading="lazy">
+            <div class="info">
+                <div class="video-title"><%= item.title %></div>
+                <span></span>
+            </div>
+        </div>
+        <div class="video-links">
+            <% for (var j = 0; j < item.medias.length; j++) {
+             var media = item.medias[j];
+             var qualityText = media.quality ? media.quality.toUpperCase() : 'HD';
+             var typeText = media.type ? media.type.toUpperCase() : 'VIDEO';
+             var buttonText = 'Download ' + qualityText + ' ' + typeText;
+            %>
+                <a href="<%= media.url %>"
+                   class="button download-file mt-3"
+                   data-ad="true"
+                   rel="nofollow"
+                   download>
+                    <i class="icon icon-down"></i><%= buttonText %>
+                </a>
+            <% } %>
+        </div>
+    </div>
+</div>
+<hr>
+<% }} else { %>
+<div class="alert alert-danger">
+    <strong>Lỗi:</strong> <%= typeof error !== 'undefined' && error ? error : 'Không thể convert file. Vui lòng thử lại.' %>
+</div>
+<% } %>
+
+<!-- Nút quay về và tiếp tục convert -->
+<div class="converter-actions" style="margin-top: 30px; text-align: center; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+    <h3 style="margin-bottom: 20px; color: #333;">
+        <%= typeof content !== 'undefined' && content.result_actions ? content.result_actions.title : 'Continue Image Conversion' %>
+    </h3>
+    
+    <div class="action-buttons" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <!-- Nút quay về trang converter -->
+        <a href="javascript:history.back()" class="button is-info" style="min-width: 150px;">
+            <i class="icon icon-arrow-left"></i>
+            <%= typeof content !== 'undefined' && content.result_actions ? content.result_actions.back_button : 'Back to Previous Page' %>
+        </a>
+        
+        <!-- Nút mở trang converter mới -->
+        <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/converter/" class="button is-primary" style="min-width: 150px;">
+            <i class="icon icon-image"></i>
+            <%= typeof content !== 'undefined' && content.result_actions ? content.result_actions.convert_another : 'Convert Another Image' %>
+        </a>
+        
+        <!-- Nút mở trang converter cụ thể (nếu có thông tin về loại conversion) -->
+        <% if (typeof analyticsData !== 'undefined' && analyticsData && analyticsData.platform === 'converter') { %>
+        <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-jpg-to-png/" class="button is-success" style="min-width: 150px;">
+            <i class="icon icon-refresh"></i>
+            JPG to PNG
+        </a>
+        <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-png-to-jpg/" class="button is-success" style="min-width: 150px;">
+            <i class="icon icon-refresh"></i>
+            PNG to JPG
+        </a>
+        <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-jpg-to-webp/" class="button is-success" style="min-width: 150px;">
+            <i class="icon icon-refresh"></i>
+            JPG to WebP
+        </a>
+        <% } %>
+    </div>
+    
+    <div class="quick-links" style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #dee2e6;">
+        <h4 style="margin-bottom: 15px; color: #666; font-size: 14px;">
+            <%= typeof content !== 'undefined' && content.result_actions ? content.result_actions.quick_conversions : 'Quick Conversions:' %>
+        </h4>
+        <div class="quick-links-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; max-width: 600px; margin: 0 auto;">
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-jpg-to-png/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                JPG → PNG
+            </a>
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-png-to-jpg/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                PNG → JPG
+            </a>
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-jpg-to-webp/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                JPG → WebP
+            </a>
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-png-to-webp/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                PNG → WebP
+            </a>
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-webp-to-jpg/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                WebP → JPG
+            </a>
+            <a href="/<%= typeof content !== 'undefined' ? content.lang : 'en' %>/image/convert-webp-to-png/" class="quick-link" style="padding: 8px 12px; background: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #333; font-size: 13px; text-align: center; transition: all 0.2s;">
+                WebP → PNG
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+.converter-actions .quick-link:hover {
+    background: #f8f9fa !important;
+    border-color: #007bff !important;
+    color: #007bff !important;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.converter-actions .button {
+    transition: all 0.2s ease;
+}
+
+.converter-actions .button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+</style>

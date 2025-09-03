@@ -1,0 +1,268 @@
+{
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor JPG a ICO - Gratuït i en línia | WikiHowTo.click",
+  "sub_title": "Converteix imatges JPG a ICO en línia per a favicons i icones de desktop de Windows. Sense marques d'aigua.",
+  "hint": "Puja la teva imatge JPG per començar a convertir...",
+  "btn_download": "Converteix a ICO",
+  "btn_paste": "Puja JPG",
+  "btn_clear": "Neteja",
+  "ogImage": "https://wikihowto.click/images/jpg-to-ico.jpg",
+  "head": {
+    "title": "Converteix JPG a ICO - Conversor JPG a ICO gratuït en línia",
+    "description": "Converteix imatges JPG a format ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i sense marques d'aigua.",
+    "keywords": "jpg a ico, converteix jpg a ico, gratuït jpg a ico, conversor ico en línia, creador de favicon",
+    "canonical": "https://wikihowto.click/ca/convert/jpg-to-ico",
+    "og_title": "Conversor JPG a ICO - Gratuït i en línia",
+    "og_description": "Converteix imatges JPG a format ICO per a favicons i icones de desktop. 100% gratuït, ràpid i segur.",
+    "og_url": "https://wikihowto.click/ca/convert/jpg-to-ico",
+    "og_image": "https://wikihowto.click/images/jpg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Conversor JPG a ICO gratuït en línia",
+    "twitter_description": "Converteix JPG a ICO per a favicons i icones de desktop. Funciona en tots els dispositius.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Converteix JPG a ICO en línia",
+    "description": "Conversor JPG a ICO gratuït i ràpid optimitzat per a favicons i icones de desktop de Windows. Funciona instantàniament — no es requereix registre."
+  },
+  "converter": {
+    "type": "jpg-to-ico",
+    "title": "Conversor JPG a ICO",
+    "description": "Converteix imatges JPG a ICO per a llocs web i aplicacions de Windows.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "ICO",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "features": [
+      "Sortida d'icones de múltiples mides",
+      "Optimitzat per a mides petites",
+      "Processament ràpid",
+      "Eina en línia gratuïta"
+    ],
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Conversió JPG a ICO completada",
+    "back_button": "Torna al conversor",
+    "convert_another": "Converteix un altre JPG",
+    "quick_conversions": "Conversions ràpides:"
+  },
+  "h2": [
+    {
+      "title": "Per què convertir JPG a ICO?",
+      "description": "<p>ICO és el format estàndard per a icones de Windows i favicons:</p><ul><li><strong>Contenidor de múltiples mides:</strong> Inclou diverses resolucions en un sol fitxer.</li><li><strong>Estàndard de favicon:</strong> Funciona en els principals navegadors.</li><li><strong>Compatibilitat amb Windows:</strong> Suport natiu per a icones de desktop/aplicació.</li><li><strong>Clar a mides petites:</strong> Optimitzat per a pantalles de 16–256 px.</li></ul><p><em>Nota:</em> JPG no té transparència. Per a icones transparents, comença amb PNG.</p>"
+    },
+    {
+      "title": "Com convertir JPG a ICO en línia",
+      "description": "<ol><li>Fes clic a <em>Puja JPG</em> i selecciona la teva imatge.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega ICO</em> per obtenir la teva icona.</li></ol><p>Generem automàticament les mides d'icona comunes.</p>"
+    },
+    {
+      "title": "Especificacions del format ICO",
+      "description": "<ul><li><strong>Mides estàndard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profunditat de color:</strong> Fins a 32 bits RGBA (alpha)</li><li><strong>Transparència:</strong> Suport complet per al canal alpha</li><li><strong>Estructura:</strong> Capçalera + múltiples entrades d'imatge</li><li><strong>Compressió:</strong> Entrades comprimides en PNG per a icones de 32 bits (Vista+)</li></ul>"
+    },
+    {
+      "title": "Límits i formats suportats",
+      "description": "<ul><li><strong>Entrada acceptada:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Solució de problemes",
+      "description": "<ul><li><strong>Edges serrats:</strong> Comença amb una font d'alta resolució; els edges nítids es redueixen millor.</li><li><strong>Necessites transparència:</strong> Converteix <a href='/ca/convert/png-to-ico'>PNG a ICO</a> perquè l'alpha es preservi.</li><li><strong>Favicon no apareix:</strong> Neteja la memòria cau i assegura't que <code>/favicon.ico</code> estigui a l'arrel del lloc i enllaçat amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>La pujada falla:</strong> Assegura't que el fitxer sigui JPG/JPEG i ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Què és JPG?",
+      "description": "<p>JPG (JPEG) utilitza compressió amb pèrdua per a mides de fitxer petites — ideal per a fotos i ús web, però no suporta transparència.</p>"
+    },
+    {
+      "title": "Què és ICO?",
+      "description": "<p>ICO és el format d'icona de Windows i favicon que pot agrupar múltiples mides i profunditats de color en un sol fitxer, suportant transparència alpha.</p>"
+    },
+    {
+      "title": "Casos d'ús: Quan convertir JPG a ICO",
+      "description": "<ul><li><strong>Creació de favicon:</strong> Genera un sol <code>favicon.ico</code> amb múltiples mides.</li><li><strong>Aplicacions/accés directes de Windows:</strong> Converteix logotips en icones de desktop/aplicació.</li><li><strong>Consistència de marca:</strong> Assegura icones nítides i consistents a través de les resolucions.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "És gratuït aquest conversor JPG a ICO?",
+      "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+    },
+    {
+      "question": "Quines mides són suportades en fitxers ICO?",
+      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 píxels."
+    },
+    {
+      "question": "Puc utilitzar fitxers ICO per a favicons de llocs web?",
+      "answer": "Sí. <code>favicon.ico</code> és àmpliament suportat en els principals navegadors."
+    },
+    {
+      "question": "Quines mides de fitxer són suportades?",
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+    },
+    {
+      "question": "Són segurs els meus fitxers?",
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+    },
+    {
+      "question": "Serà bona la qualitat de la icona?",
+      "answer": "Optimitzem per a mides d'icona comunes i utilitzem entrades comprimides en PNG per a resultats nítids."
+    },
+    {
+      "question": "Puc utilitzar aquesta eina al meu telèfon?",
+      "answer": "Sí. El conversor és amigable amb mòbils i funciona en navegadors iOS i Android."
+    },
+    {
+      "question": "JPG suporta transparència en ICO?",
+      "answer": "JPG no té transparència. Si necessites icones transparents, converteix PNG a ICO en el seu lloc."
+    }
+  ],
+  "note": "Per a icones transparents, comença amb entrada PNG. Col·loca <code>/favicon.ico</code> a l'arrel del teu lloc i referència-ho amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Converteix PNG a ICO",
+      "url": "/ca/convert/png-to-ico"
+    },
+    {
+      "title": "Converteix BMP a ICO",
+      "url": "/ca/convert/bmp-to-ico"
+    },
+    {
+      "title": "Converteix SVG a ICO",
+      "url": "/ca/convert/svg-to-ico"
+    },
+    {
+      "title": "Converteix ICO a PNG",
+      "url": "/ca/convert/ico-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Conversor JPG a ICO - Gratuït i en línia",
+      "url": "https://wikihowto.click/ca/convert/jpg-to-ico",
+      "description": "Eina en línia gratuïta per convertir imatges JPG a ICO per a favicons i icones de desktop de Windows.",
+      "inLanguage": "ca",
+      "image": "https://wikihowto.click/images/jpg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inici",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/ca/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG a ICO",
+          "item": "https://wikihowto.click/ca/convert/jpg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Conversor JPG a ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ca/convert/jpg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Conjunt d'icones de múltiples mides",
+        "Entrades comprimides en PNG",
+        "Processament ràpid"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "És gratuït aquest conversor JPG a ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quines mides de fitxer són suportades?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "JPG suporta transparència en ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JPG no té transparència. Per a icones transparents, converteix PNG a ICO."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Com convertir JPG a ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Puja JPG i selecciona la teva imatge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Espera que el processament es completi."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Descarrega ICO per desar la teva icona."
+        }
+      ],
+      "tool": [
+        "Conversor JPG a ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

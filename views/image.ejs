@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="<%= content.lang %>">
+<head>
+    <meta name="language" content="<%= content.lang %>"/>
+    <%- include('head') %>
+</head>
+<body>
+<%- include('header') %>
+<section id="hero" class="section hero">
+    <div class="container w100">
+        <h1 class="title"><%= content.title %></h1>
+        <p class="title title-2"><%= content.sub_title %></p>
+        <div class="mt-3" id="progress"
+             style="margin-top: 2em;width: 100%; background-color: rgb(197,195,195); height: 14px; border-radius: 2px; visibility: hidden;">
+            <div id="progressbar" class="progress-bar" role="progressbar" aria-label="Progress Bar" aria-valuenow="0"
+                 aria-valuemin="0" aria-valuemax="100"
+                 style="width: 0%; height: 100%; background: linear-gradient(90deg, #00bfff 0%, #007bff 100%); border-radius: 2px; transition: width 0.4s ease-out;">
+            </div>
+        </div>
+       <%- include('components/image-converter') %>
+    </div>
+</section>
+<section id="main" class="section" style="height: auto !important;">
+    <div class="adsense-banner"
+         style="width:100%; height:250px; margin: 0 auto; text-align:center;">
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:100%;height:100%;"
+             data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+             data-ad-slot="YYYYYYYYYY"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div class="container" style="height: auto !important;">
+        <div id="download" class="download"></div>
+        <div class="contents">
+            <% content.h2.forEach(function(item) { %>
+                <h2 class="title title-2"><%= item.title %></h2>
+                <p><%- item.description %></p>
+            <% }) %>
+            <br>
+            <div class="accordion" id="faq" itemscope="" itemtype="https://schema.org/FAQPage">
+                <% content.faq.forEach(function(item) { %>
+                    <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+                        <button class="button is-info btn-accordion">
+                            <h3 class="accordion-title" itemprop="name"><%= item.question %></h3>
+                            <span class="icon arrow"></span>
+                        </button>
+                        <div class="accordion-content" itemprop="acceptedAnswer" itemscope=""
+                             itemtype="https://schema.org/Answer">
+                            <div class="accordion-text" itemprop="text">
+                                <ul class="ol-decorated pt-3">
+                                    <li><%= item.answer %></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                <% }) %>
+
+            </div>
+
+            <p class="title title-2"><%- content.note %></p>
+        </div>
+    </div>
+</section>
+<%- include('footer') %>
+<script type="text/javascript">
+    var jsLang = {
+        paste: "<%= content.btn_paste %>",
+        clear: "<%= content.btn_clear %>",
+        linkEmpty: "<%= content.linkEmpty %>",
+        notUrl: "<%= content.not_url %>",
+        urlNotSupport: "<%= content.url_not_support %>",
+        partnerIg: "<%= content.partnerIG %>",
+        partnerFb: "<%= content.partnerFB %>"
+    };
+</script>
+<script type="text/javascript">
+    function showErrorUI(msg) {
+        const btnRender = document.querySelector(".btn-render");
+        document.querySelector(".alert-render").innerHTML = msg;
+        btnRender.style.opacity = "1";
+        btnRender.disabled = !1;
+        document.querySelector(".render-wrapper").classList.remove("show")
+    }
+
+    function showRenderCompletedUI(download_url) {
+        const btnDownRender = document.querySelector(".download-render");
+        btnDownRender.classList.add("show");
+        btnDownRender.href = download_url
+    }
+
+    function updateProgressUI(progress) {
+        progress > 0 && 100 !== progress && (document.querySelector(".render-label").innerHTML = "Rendering..."), 100 === progress && (document.querySelector(".render-label").innerHTML = "Render Completed"), document.querySelector(".progress-bar").style.width = progress + "%", document.querySelector(".progress-bar").innerHTML = progress + "%"
+    }
+
+    function startRender(e) {
+        const btnRender = document.querySelector(".btn-render");
+        btnRender.style.opacity = "0.5";
+        btnRender.disabled = !0;
+        document.querySelector(".alert-render").innerHTML = "";
+        document.querySelector(".render-wrapper").classList.add("show")
+    }
+</script>
+<script type="application/ld+json">{
+        "@context": "https://schema.org/",
+        "@graph": [
+            {
+                "@type": "WebSite",
+                "@id": "https://snapsave.social",
+                "name": "Pinterest Video Downloader",
+                "url": "https://snapsave.social",
+                "description": "<%= content._title %>",
+                "publisher": {
+                    "@id": "kg:/g/11q8g5j18z"
+                },
+                "author": {
+                    "@id": "kg:/g/11q8g5j18z"
+                },
+                "copyrightHolder": {
+                    "@id": "kg:/g/11q8g5j18z"
+                },
+                "about": [
+                    {
+                        "@id": "kg:/m/0bm3b",
+                        "name": "Download",
+                        "url": "https://en.wikipedia.org/wiki/Download"
+                    }
+                ]
+            }
+        ]
+    }
+</script>
+<script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Pinterest Video Downloader",
+        "url": "https://snapsave.social",
+        "logo": "https://snapsave.social/images/192_icon.png",
+        "image": "https://snapsave.social/images/dotsave.png",
+        "description": "<%= content._title %>",
+        "email": "huuhuybn@gmail.com",
+        "sameAs": [
+        "https://www.facebook.com/dotsave"
+        ]
+    }
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"<%= content._title %>","description":"<%= content._description %>","thumbnailUrl":["https://img.youtube.com/vi/0QaG1g7YSVk/default.jpg","https://img.youtube.com/vi/0QaG1g7YSVk/mqdefault.jpg","https://i3.ytimg.com/vi/0QaG1g7YSVk/hqdefault.jpg","https://img.youtube.com/vi/0QaG1g7YSVk/sddefault.jpg","https://img.youtube.com/vi/0QaG1g7YSVk/maxresdefault.jpg"],"uploadDate":"2023-08-30T08:00:00+08:00","duration":"PT1M54S","embedUrl":"https://www.youtube.com/embed/0QaG1g7YSVk","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"WatchAction"},"userInteractionCount":5647018}}
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"ImageObject","name":"<%= content._title %>","description":"<%= content._description %>","contentUrl":"https://img.youtube.com/vi/0QaG1g7YSVk/maxresdefault.jpg","thumbnailUrl":"https://img.youtube.com/vi/0QaG1g7YSVk/mqdefault.jpg","uploadDate":"2023-09-14T12:00:00Z","height":"720","width":"1280"}
+</script>
+<script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "MobileApplication",
+        "name": "Video Downloader for Pinterest",
+        "url": "https://play.google.com/store/apps/details?id=app.dotsave.videodownloader.free",
+        "image": "https://play-lh.googleusercontent.com/nYrcETKjc44giHuYQt0LAB9_fTq8lZ_YOziDy2sxL9SI2L-RE88xwXb4Q7nNuQZ4TEQV=w240-h480-rw",
+        "description": "Video Downloader for Pinterest – your all-in-one solution to effortlessly capture, curate, and cherish the captivating world of Pinterest media. With our user-friendly Android app, you hold the power to download videos, images, and GIFs directly to your device, ensuring your favorite content is always at your fingertips, even when offline.",
+        "applicationCategory": "MultimediaApplication",
+        "operatingSystem": "Android",
+        "offers": {
+            "@type": "Offer",
+            "price": "0.00",
+            "priceCurrency": "USD"
+        },
+        "AggregateRating": {
+            "ratingCount": 10,
+            "reviewCount": 10,
+            "ratingValue": "4.6",
+            "itemReviewed": "Video Downloader for Pinterest"
+        }
+    }</script>
+<script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "DotSave",
+        "url": "https://snapsave.social",
+        "logo": "https://snapsave.social/images/192_icon.png",
+        "image": "https://snapsave.social/images/dotsave.png",
+        "description": "Pinterest Video Downloader - snapsave.social is one of the best free Download video Pinterest No Watermark tool available online. You can download Pinterest video from any device you have.",
+        "email": "huuhuybn@gmail.com",
+        "sameAs": [
+            "https://gemini.google.com/share/66aaefb7f537",
+            "https://chatgpt.com/share/66f4cea0-80b0-8003-930c-5cd6d8f46789",
+            "https://www.sitelike.org/similar/snapsave.social/",
+            "https://www.pinterest.com/dotsaveapp/",
+            "https://about.me/snapsave.social/getstarted",
+            "https://gitlab.com/huuhuybn",
+            "https://soundcloud.com/mr-creative68",
+            "https://www.flickr.com/people/63356846@N04/",
+            "https://www.trustpilot.com/review/snapsave.social",
+            "https://www.crunchbase.com/person/aztax-co-ltd",
+            "https://www.daniweb.com/profiles/1253913/dotsaveapp",
+            "https://play.google.com/store/apps/details?id=app.dotsave.videodownloader.free"
+        ]
+    }</script>
+<script>const hash = window.location.hash;
+    if (hash.startsWith("#url=")) {
+        const value = hash.slice(5);
+        try {
+            const url = new URL(value);
+            document.getElementById("url").value = url;
+            document.getElementById("submiturl").click();
+            document.getElementById("myForm").submit()
+        } catch (e) {
+        }
+    }</script>
+<script>const para = new Proxy(new URLSearchParams(window.location.search), {get: (searchParams, prop) => searchParams.get(prop)});
+    let value = para.url;
+    try {
+        var url = new URL(value);
+        document.getElementById("url").value = url;
+        document.getElementById("submiturl").click();
+        document.getElementById("myForm").submit()
+    } catch (e) {
+    }</script>
+<script src="/js/pwa.js" defer></script>
+<script src="/js/status.js" defer></script>
+<script src="/js/loading.js"></script>
+</body>
+</html>

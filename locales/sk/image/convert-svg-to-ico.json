@@ -1,0 +1,244 @@
+{
+  "lang": "sk",
+  "lang_name": "Slovenčina",
+  "title": "Prevádzač SVG na ICO - Zadarmo a Online | WikiHowTo.click",
+  "sub_title": "Prevádzajte SVG obrázky do formátu ICO online pre favikony a desktopové ikony. Zadarmo, rýchlo a bez vodoznakov.",
+  "hint": "Nahrajte svoj SVG obrázok, aby ste začali prevádzať...",
+  "btn_download": "Previesť na ICO",
+  "btn_paste": "Nahrať SVG",
+  "btn_clear": "Vymazať",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Transformujte svoj <strong>SVG na ICO</strong> pre dokonalé favikony a desktopové ikony! Náš bezplatný prevádzač rasterizuje váš vektorový SVG na ostré multi-rozmerné ICO, ktoré funguje vo všetkých prehliadačoch a na Windows desktopoch.</p><p>ICO môže obsahovať niekoľko veľkostí v jednom súbore (napr. 16–256 px), takže vaša ikona vyzerá ostro na kartách, skratkách a displejoch s vysokým rozlíšením. Priehľadnosť je zachovaná pre hladké okraje na svetlých a tmavých pozadiach.</p>",
+  "head": {
+    "title": "Prevádzajte SVG na ICO Online - Bezplatný prevádzač SVG na ICO | WikiHowTo.click",
+    "description": "Prevádzajte SVG na ICO online pre favikony a desktopové ikony. Bezplatný, rýchly a bezpečný nástroj na prevod SVG na ICO.",
+    "keywords": "svg na ico, previesť svg na ico, bezplatný svg na ico, online ico prevádzač, tvorca favikón",
+    "canonical": "https://wikihowto.click/sk/convert/svg-to-ico",
+    "og_title": "Prevádzač SVG na ICO - Zadarmo a Online",
+    "og_description": "Prevádzajte SVG obrázky do formátu ICO pre favikony a desktopové ikony. 100% zadarmo, rýchlo a bezpečne.",
+    "og_url": "https://wikihowto.click/sk/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Bezplatný prevádzač SVG na ICO Online",
+    "twitter_description": "Prevádzajte SVG na ICO pre favikony a desktopové ikony. Funguje na všetkých zariadeniach.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Prevádzajte SVG na ICO Online",
+    "description": "Bezplatný a rýchly prevádzač SVG na ICO pre favikony a desktopové ikony. Funguje okamžite na akomkoľvek zariadení — nie je potrebná registrácia."
+  },
+  "h2": [
+    {
+      "title": "Prečo prevádzať SVG na ICO?",
+      "description": "<p>SVG vám poskytuje tvary nezávislé od rozlíšenia; ICO vám poskytuje natívnu kompatibilitu ikon:</p><ul><li><strong>Podpora viacerých veľkostí:</strong> Zoskupte varianty 16–256 px do jedného súboru.</li><li><strong>Štandard favikón:</strong> Široko uznávaný prehliadačmi.</li><li><strong>Kompatibilita s Windows:</strong> Natívny formát pre desktopové/apo ikony.</li><li><strong>Priehľadnosť:</strong> Hladké okraje s uchovanou alfou.</li></ul>"
+    },
+    {
+      "title": "Ako previesť SVG na ICO Online",
+      "description": "<ol><li>Kliknite na <em>Nahrať SVG</em> a vyberte svoj vektorový súbor.</li><li>Čakajte na rasterizáciu a optimalizáciu.</li><li>Kliknite na <em>Stiahnuť ICO</em>, aby ste uložili svoju ikonu.</li></ol><p>Automaticky generujeme bežné veľkosti pre ostré výsledky.</p>"
+    },
+    {
+      "title": "Špecifikácie formátu ICO",
+      "description": "<ul><li><strong>Štandardné veľkosti:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Hĺbka farby:</strong> Až 32-bit RGBA</li><li><strong>Komprimácia:</strong> PNG-komprimované položky pre 32-bit ikony (Vista+)</li><li><strong>Štruktúra:</strong> Hlavička + viacero obrazových položiek v jednom súbore</li></ul>"
+    },
+    {
+      "title": "Podporované limity a formáty",
+      "description": "<ul><li><strong>Akceptovaný vstup:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximálna veľkosť súboru:</strong> až 16&nbsp;MB na súbor</li><li><strong>Výstup:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Riešenie problémov",
+      "description": "<ul><li><strong>Favikon sa nezobrazuje:</strong> Vymažte cache a zabezpečte, aby bol <code>/favicon.ico</code> prepojený cez <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Písma/filtrovanie:</strong> Nezabudnuté písma, zložité filtre alebo externé zdroje môžu rasterizovať inak. Prevádzajte text na kontúry a inline zdroje v SVG.</li><li><strong>Orezať:</strong> Použite štvorcovú plochu s okrajmi, aby ste predišli orezaniu po rasterizácii.</li><li><strong>Nahrávanie zlyhá:</strong> Zabezpečte, aby SVG ≤ 16&nbsp;MB a bolo platné <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Najlepšie praktiky",
+      "description": "<ul><li>Navrhujte na plátne 512×512 alebo 1024×1024 pre čisté zmenšenia.</li><li>Udržujte tvary tučné; vyhnite sa tenkým čiaram pri malých veľkostiach.</li><li>Používajte vysoký kontrast pre čitateľnosť v ikonách 16–32 px.</li></ul>"
+    },
+    {
+      "title": "Funkcie nášho prevádzača SVG na ICO",
+      "description": "<ul><li>100% zadarmo bez vodoznakov</li><li>Automatická konverzia vektor→raster</li><li>Generovanie ikon viacerých veľkostí</li><li>Priehľadnosť zachovaná</li><li>Bezpečné spracovanie</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Je tento prevádzač SVG na ICO zadarmo?",
+      "answer": "Áno, prevádzač je úplne zadarmo bez skrytých poplatkov alebo predplatného."
+    },
+    {
+      "question": "Aké veľkosti sú podporované v ICO súboroch?",
+      "answer": "Bežné veľkosti zahŕňajú 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 px."
+    },
+    {
+      "question": "Môžem použiť ICO pre favikony webových stránok?",
+      "answer": "Áno. Umiestnite <code>/favicon.ico</code> do koreňa vašej stránky a odkazujte naň pomocou <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
+    {
+      "question": "Aké veľkosti súborov sú podporované?",
+      "answer": "Môžete nahrávať SVG súbory až do veľkosti 16&nbsp;MB."
+    },
+    {
+      "question": "Sú moje súbory bezpečné?",
+      "answer": "Súbory sú spracovávané automaticky a nie sú uchovávané dlhšie, ako je potrebné na konverziu."
+    },
+    {
+      "question": "Bude kvalita ikony dobrá?",
+      "answer": "Áno. Rasterizujeme z vášho vektora v niekoľkých veľkostiach, aby sme udržali okraje ostré a priehľadnosť neporušenú."
+    }
+  ],
+  "note": "SVG sú pri konverzii rasterizované. Pre konzistentné výsledky prevádzajte text na kontúry a vložte požadované zdroje.",
+  "related_links": [
+    {
+      "title": "Previesť PNG na ICO",
+      "url": "/sk/convert/png-to-ico"
+    },
+    {
+      "title": "Previesť JPG na ICO",
+      "url": "/sk/convert/jpg-to-ico"
+    },
+    {
+      "title": "Previesť ICO na PNG",
+      "url": "/sk/convert/ico-to-png"
+    },
+    {
+      "title": "Previesť SVG na PNG",
+      "url": "/sk/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Všetky práva vyhradené.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Prevádzač SVG na ICO - Zadarmo a Online",
+      "url": "https://wikihowto.click/sk/convert/svg-to-ico",
+      "description": "Bezplatný online nástroj na prevod SVG obrázkov na ICO pre favikony a desktopové ikony.",
+      "inLanguage": "sk",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domov",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Previesť",
+          "item": "https://wikihowto.click/sk/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG na ICO",
+          "item": "https://wikihowto.click/sk/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Prevádzač SVG na ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sk/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vektor na raster",
+        "Súbor viacerých veľkostí",
+        "Priehľadnosť zachovaná"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je tento prevádzač SVG na ICO zadarmo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno, prevádzač je úplne zadarmo bez skrytých poplatkov alebo predplatného."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Aké veľkosti súborov sú podporované?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Môžete nahrávať SVG súbory až do veľkosti 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Aké veľkosti sú podporované v ICO súboroch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bežné veľkosti zahŕňajú 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Ako previesť SVG na ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite na Nahrať SVG a vyberte svoj vektorový súbor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Čakajte na dokončenie rasterizácie a optimalizácie."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Kliknite na Stiahnuť ICO, aby ste uložili súbor ikony."
+        }
+      ],
+      "tool": [
+        "Prevádzač SVG na ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

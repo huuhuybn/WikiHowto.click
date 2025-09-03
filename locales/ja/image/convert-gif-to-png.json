@@ -1,0 +1,244 @@
+{
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "GIFからPNGへの変換 - 無料＆オンライン | WikiHowTo.click",
+  "sub_title": "透過性をサポートし、高品質でウォーターマークのないPNG形式にGIF画像をオンラインで変換します。",
+  "hint": "変換を開始するにはGIF画像をアップロードしてください...",
+  "btn_download": "PNGに変換",
+  "btn_paste": "GIFをアップロード",
+  "btn_clear": "クリア",
+  "converter": {
+    "type": "gif-to-png",
+    "inputFormat": "GIF",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/gif"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p><strong>GIFをPNGに変換</strong>して、より高い忠実度と完全な透過性をサポートします。私たちの無料オンラインコンバーターは、アニメーションまたは静止GIFを高品質のPNG画像に変換します。GIFはシンプルなアニメーションに適していますが、PNGは優れた色深度、より良い透過性、そして鮮明な静止グラフィックスのためのロスレス圧縮を提供します。</p><p><strong>注意：</strong>アニメーションGIFは<em>単一の静止画像</em>（最初のフレーム）に変換されます。アニメーション出力が必要な場合は、<a href='/ja/convert/gif-to-webp'>GIFをWebPに変換</a>してください。</p>",
+  "head": {
+    "title": "GIFをPNGにオンラインで変換 - 無料GIFからPNGへの変換ツール | WikiHowTo.click",
+    "description": "透過性をサポートし、高品質でウォーターマークのないGIFをPNGにオンラインで変換します。無料で、迅速かつ安全なGIFからPNGへの変換ツールです。",
+    "keywords": "gifからpng, gifをpngに変換, 無料gifからpng, オンラインgifコンバーター, 透過画像",
+    "canonical": "https://wikihowto.click/ja/convert/gif-to-png",
+    "og_title": "GIFからPNGへの変換 - 無料＆オンライン",
+    "og_description": "透過性をサポートし、高品質のPNG形式にGIF画像を変換します。100％無料、迅速、安全です。",
+    "og_url": "https://wikihowto.click/ja/convert/gif-to-png",
+    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "無料GIFからPNGへの変換ツール",
+    "twitter_description": "透過性をサポートし、高品質でウォーターマークのないGIFをPNGに変換します。すべてのデバイスで動作します。",
+    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
+  },
+  "h1": {
+    "title": "GIFをPNGにオンラインで変換",
+    "description": "透過性をサポートし、高品質の無料で迅速なGIFからPNGへの変換ツールです。すべてのデバイスで即座に動作し、サインアップは不要です。"
+  },
+  "h2": [
+    {
+      "title": "なぜGIFをPNGに変換するのか？",
+      "description": "<p>GIFは256色に制限されており、シンプルなアニメーションに適しています。PNGは高品質の静止画像に最適です：</p><ul><li><strong>より高い品質：</strong>真の色（24ビット）+アルファ対GIFの8ビットパレット。</li><li><strong>透過性：</strong>PNGは滑らかなエッジのために完全なアルファ透過性をサポートします。</li><li><strong>ロスレス圧縮：</strong>PNGは品質の損失なしに詳細を保持します。</li><li><strong>ユニバーサル互換性：</strong>アプリやプラットフォーム全体で広くサポートされています。</li></ul>"
+    },
+    {
+      "title": "オンラインでGIFをPNGに変換する方法",
+      "description": "<ol><li><em>GIFをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理が完了するまで待ちます。</li><li><em>PNGをダウンロード</em>をクリックして結果を保存します。</li></ol><p>アニメーションGIF：最初のフレームのみがPNGとしてエクスポートされます。</p>"
+    },
+    {
+      "title": "GIFとPNG：主な違い",
+      "description": "<table class='table-compare'><thead><tr><th>特徴</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>色深度</td><td>8ビット（256色）</td><td>真の色（24ビット）+アルファ</td></tr><tr><td>透過性</td><td>1ビットマスク（オン/オフ）</td><td>完全なアルファ透過性</td></tr><tr><td>圧縮</td><td>ロスレス（LZW）</td><td>ロスレス（DEFLATE）</td></tr><tr><td>アニメーション</td><td>サポートされている</td><td>サポートされていない（静止）</td></tr><tr><td>最適な用途</td><td>シンプルなアニメーション、ステッカー</td><td>ロゴ、UI、スクリーンショット、静止グラフィックス</td></tr></tbody></table>"
+    },
+    {
+      "title": "サポートされる制限とフォーマット",
+      "description": "<ul><li><strong>受け入れられる入力：</strong>GIF (<code>image/gif</code>)</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "私たちのGIFからPNGへの変換ツールの特徴",
+      "description": "<ul><li>100％無料、ウォーターマークなし</li><li>存在する場合は透過性を保持</li><li>ロスレスPNG出力</li><li>モバイルフレンドリーなインターフェース</li></ul>"
+    },
+    {
+      "title": "GIFとは？",
+      "description": "<p>GIF（Graphics Interchange Format）は基本的なアニメーションをサポートし、ロスレスLZW圧縮を使用しますが、256色のパレットに制限されています。</p>"
+    },
+    {
+      "title": "PNGとは？",
+      "description": "<p>PNG（Portable Network Graphics）はロスレス形式で、真の色とアルファ透過性をサポートしており、高品質の静止画像に最適です。</p>"
+    },
+    {
+      "title": "トラブルシューティング",
+      "description": "<ul><li><strong>アップロード失敗：</strong>ファイルがGIFであり、≤ 16&nbsp;MBであることを確認してください。</li><li><strong>ギザギザの透過エッジ：</strong>GIFの1ビット透過性は厳しく見えることがあります。<a href='/ja/effect/remove-background'>背景除去ツール</a>で調整してください。</li><li><strong>アニメーションが必要：</strong>動きを保持するには<a href='/ja/convert/gif-to-webp'>GIFをWebPに変換</a>してください。</li></ul>"
+    },
+    {
+      "title": "使用例：GIFをPNGに変換するタイミング",
+      "description": "<ul><li><strong>ロゴとアイコン</strong>で滑らかな透過性が必要な場合。</li><li><strong>スクリーンショット/UI</strong>で鮮明なテキストと線が必要な場合。</li><li><strong>アーカイブ</strong>静止フレームをより高品質で保存する場合。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このGIFからPNGへの変換ツールは無料ですか？",
+      "answer": "はい、コンバーターは完全に無料で、隠れた料金やサブスクリプションはありません。"
+    },
+    {
+      "question": "PNGはGIFからの透過性を保持しますか？",
+      "answer": "はい。GIFの1ビットの透明部分はPNGでも透明のままです。滑らかなエッジのために、変換後にアルファチャンネルを編集してください。"
+    },
+    {
+      "question": "アニメーションGIFはどうなりますか？",
+      "answer": "最初のフレームのみが静止PNG画像に変換されます。アニメーションを保持するには、GIFをWebPに変換してください。"
+    },
+    {
+      "question": "GIFをPNGに変換するときに品質は失われますか？",
+      "answer": "いいえ。PNGはロスレス圧縮を使用し、完全な色をサポートしており、256色のGIFよりも視覚的な忠実度が向上することがよくあります。"
+    },
+    {
+      "question": "サポートされるファイルサイズは？",
+      "answer": "ファイルごとに最大16 MBの画像をアップロードできます。"
+    },
+    {
+      "question": "私のファイルは安全ですか？",
+      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
+    },
+    {
+      "question": "複数のGIFファイルを一度に変換できますか？",
+      "answer": "このページでは1ファイルずつ変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
+    }
+  ],
+  "note": "アニメーションGIFは静止PNG（最初のフレーム）になります。アニメーション出力が必要な場合は、GIFをWebPに変換してください。",
+  "related_links": [
+    {
+      "title": "GIFをJPGに変換",
+      "url": "/ja/convert/gif-to-jpg"
+    },
+    {
+      "title": "PNGをGIFに変換",
+      "url": "/ja/convert/png-to-gif"
+    },
+    {
+      "title": "GIFをWebPに変換",
+      "url": "/ja/convert/gif-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 全著作権所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "GIFからPNGへの変換 - 無料＆オンライン",
+      "url": "https://wikihowto.click/ja/convert/gif-to-png",
+      "description": "GIF画像をPNGに変換するための無料オンラインツールで、ロスレス圧縮と透過性をサポートしています。",
+      "inLanguage": "ja",
+      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "変換",
+          "item": "https://wikihowto.click/ja/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GIFからPNG",
+          "item": "https://wikihowto.click/ja/convert/gif-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "GIFからPNGへの変換ツール",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ja/convert/gif-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "ロスレスPNG出力",
+        "透過性サポート",
+        "迅速な処理"
+      ],
+      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "このGIFからPNGへの変換ツールは無料ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、コンバーターは完全に無料で、隠れた料金やサブスクリプションはありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "アニメーションGIFはどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "最初のフレームのみが静止PNG画像に変換されます。アニメーションを保持するには、GIFをWebPに変換してください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "サポートされるファイルサイズは？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "GIFをPNGに変換する方法",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "GIFをアップロードをクリックし、ファイルを選択します。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "処理が完了するまで待ちます。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "PNGをダウンロードをクリックして結果を保存します。"
+        }
+      ],
+      "tool": [
+        "GIFからPNGへの変換ツール"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

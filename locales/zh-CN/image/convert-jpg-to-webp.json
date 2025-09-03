@@ -1,0 +1,230 @@
+{
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "JPG 转 WebP 转换器 - 免费在线 | WikiHowTo.click",
+  "sub_title": "在线将 JPG 图像转换为 WebP 格式，具有卓越的压缩、高质量和无水印。",
+  "hint": "上传您的 JPG 图像以开始转换...",
+  "btn_download": "转换为 WebP",
+  "btn_paste": "上传 JPG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/jpg-to-webp.jpg",
+  "converter": {
+    "type": "jpg-to-webp",
+    "inputFormat": "JPG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p>将您的 <strong>JPG 转换为 WebP</strong> 以获得卓越的网页性能！我们的免费转换器创建高度优化的图像，加载更快，使用更少的带宽。WebP 提供出色的压缩，同时保持视觉质量——非常适合网站、移动应用和数字内容。</p><p>WebP 通常比 JPG 在相似质量下提供高达 30% 更小的文件，并且受到所有现代浏览器的支持。我们自动平衡大小和保真度，以确保强大的核心网页指标。</p>",
+  "head": {
+    "title": "在线转换 JPG 为 WebP - 免费 JPG 转 WebP 转换器 | WikiHowTo.click",
+    "description": "在线将 JPG 转换为 WebP，具有卓越的压缩、高质量和无水印。免费、快速、安全的 JPG 转 WebP 转换工具。",
+    "keywords": "jpg 转 webp, 转换 jpg 为 webp, 免费 jpg 转 webp, 在线 webp 转换器, 图像优化",
+    "canonical": "https://wikihowto.click/en/convert/jpg-to-webp",
+    "og_title": "JPG 转 WebP 转换器 - 免费在线",
+    "og_description": "将 JPG 图像转换为 WebP 格式，具有卓越的压缩和高质量。100% 免费、快速、安全。",
+    "og_url": "https://wikihowto.click/en/convert/jpg-to-webp",
+    "og_image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免费 JPG 转 WebP 在线转换器",
+    "twitter_description": "以卓越的压缩、高质量和无水印将 JPG 转换为 WebP。适用于所有设备。",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-webp.jpg"
+  },
+  "h1": {
+    "title": "在线转换 JPG 为 WebP",
+    "description": "免费快速的 JPG 转 WebP 转换器，具有卓越的压缩和高质量。可在任何设备上即时使用，无需注册。"
+  },
+  "h2": [
+    {
+      "title": "为什么要将 JPG 转换为 WebP？",
+      "description": "<p>WebP 是一种现代格式，性能优于传统图像：</p><ul><li><strong>卓越的压缩：</strong>通常比 JPG 小 25%–35% 的文件，质量相似。</li><li><strong>更好的性能：</strong>页面加载更快，带宽减少。</li><li><strong>广泛支持：</strong>在所有主要浏览器中均可使用。</li><li><strong>透明度和动画：</strong>WebP 同时支持这两者（转换 JPG 时动画无关紧要）。</li></ul>"
+    },
+    {
+      "title": "如何在线将 JPG 转换为 WebP",
+      "description": "<ol><li>点击 <em>上传 JPG</em> 并选择您的文件。</li><li>等待处理和优化。</li><li>点击 <em>下载 WebP</em> 保存您的图像。</li></ol><p>质量和大小会自动调整以适应典型的网页使用。</p>"
+    },
+    {
+      "title": "WebP 与 JPG 比较",
+      "description": "<ul><li><strong>文件大小：</strong>WebP 通常小 25%–35%。</li><li><strong>质量：</strong>在相同比特率下，伪影更少。</li><li><strong>浏览器支持：</strong>现代浏览器支持 WebP。</li><li><strong>透明度：</strong>WebP 支持 alpha；JPG 不支持。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的输入：</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大文件大小：</strong>每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>编码：</strong>有损 WebP，质量 ≈ 90</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>旧版浏览器：</strong>使用 <code>&lt;picture&gt;</code> 元素并提供 JPG 备用。</li><li><strong>颜色偏移：</strong>在上传前将图像转换为 sRGB，以确保一致的网页颜色。</li><li><strong>文件过大：</strong>在转换前稍微降低 WebP 质量或调整大小。</li><li><strong>上传失败：</strong>确保为 JPG/JPEG 且 ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 JPG 转 WebP 转换器是免费的吗？",
+      "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
+    },
+    {
+      "question": "WebP 在所有浏览器上都能工作吗？",
+      "answer": "WebP 受到所有现代浏览器（Chrome、Firefox、Safari、Edge）的支持。为非常旧的浏览器提供 JPG 备用。"
+    },
+    {
+      "question": "WebP 文件比 JPG 小多少？",
+      "answer": "通常在相似感知质量下小 25%–35%，具体取决于图像。"
+    },
+    {
+      "question": "支持什么文件大小？",
+      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
+    },
+    {
+      "question": "我的文件安全吗？",
+      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
+    },
+    {
+      "question": "我可以一次转换多个 JPG 吗？",
+      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+    },
+    {
+      "question": "WebP 对网站来说比 JPG 更好吗？",
+      "answer": "是的。WebP 通常在相似质量下提供更小的文件，提高加载速度和核心网页指标。"
+    }
+  ],
+  "note": "为了最大兼容性，请使用 <code>&lt;picture&gt;</code> 元素提供 WebP 和 JPG 备用。",
+  "related_links": [
+    {
+      "title": "将 JPG 转换为 PNG",
+      "url": "/en/convert/jpg-to-png"
+    },
+    {
+      "title": "将 PNG 转换为 WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "将 WebP 转换为 JPG",
+      "url": "/en/convert/webp-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 保留所有权利。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG 转 WebP 转换器 - 免费在线",
+      "url": "https://wikihowto.click/en/convert/jpg-to-webp",
+      "description": "免费的在线工具，将 JPG 图像转换为 WebP，具有卓越的压缩和高质量。",
+      "inLanguage": "zh",
+      "image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "转换",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG 转 WebP",
+          "item": "https://wikihowto.click/en/convert/jpg-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG 转 WebP 转换器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/jpg-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "卓越的压缩",
+        "高质量输出",
+        "快速处理"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这个 JPG 转 WebP 转换器是免费的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持什么文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上传每个文件最多 16 MB 的图像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "WebP 在所有浏览器上都能工作吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "WebP 受到所有现代浏览器的支持；为旧版浏览器提供 JPG 备用。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何将 JPG 转换为 WebP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "点击上传 JPG 并选择您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待处理和优化完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "点击下载 WebP 保存结果。"
+        }
+      ],
+      "tool": [
+        "JPG 转 WebP 转换器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "lang": "jv",
+  "lang_name": "Jawa",
+  "title": "PNG menyang AVIF Converter - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konversi gambar PNG menyang AVIF online kanthi kompresi sing apik lan kualitas dhuwur. Njaga transparansi. Ora ana watermark.",
+  "hint": "Unggah gambar PNG sampeyan kanggo miwiti konversi...",
+  "btn_download": "Konversi menyang AVIF",
+  "btn_paste": "Unggah PNG",
+  "btn_clear": "Resiki",
+  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "head": {
+    "title": "Konversi PNG menyang AVIF - Gratis Online PNG menyang AVIF Converter | WikiHowTo.click",
+    "description": "Konversi gambar PNG menyang AVIF online gratis. Konversi PNG menyang AVIF kanthi kualitas dhuwur kanthi kompresi sing apik lan dhukungan transparansi.",
+    "keywords": "png menyang avif, konversi png menyang avif, gratis png menyang avif, online avif converter, konversi gambar",
+    "canonical": "https://wikihowto.click/en/convert/png-to-avif",
+    "og_title": "Konversi PNG menyang AVIF - Gratis Online PNG menyang AVIF Converter",
+    "og_description": "Konversi gambar PNG menyang AVIF kanthi kompresi sing apik lan njaga transparansi. Gratis, cepet, lan aman.",
+    "og_url": "https://wikihowto.click/en/convert/png-to-avif",
+    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Gratis PNG menyang AVIF Converter Online",
+    "twitter_description": "Konversi PNG menyang AVIF kanthi kompresi sing apik lan dhukungan transparansi. Bisa digunakake ing kabeh piranti.",
+    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Konversi PNG menyang AVIF Online",
+    "description": "Gratis lan cepet PNG menyang AVIF converter kanthi kompresi sing apik lan dhukungan transparansi lengkap. Bisa digunakake langsung ing piranti apa wae — ora perlu daftar."
+  },
+  "converter": {
+    "type": "png-to-avif",
+    "title": "PNG menyang AVIF Converter",
+    "description": "Konversi gambar PNG menyang AVIF kanthi kompresi modern nalika njaga transparansi alpha.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Output AVIF kualitas dhuwur",
+      "Kompresi sing apik",
+      "Njaga transparansi (alpha)",
+      "Alat online gratis"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:4:4",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Konversi PNG menyang AVIF Rampung",
+    "back_button": "Bali menyang Converter",
+    "convert_another": "Konversi PNG Liyane",
+    "quick_conversions": "Konversi Cepet:"
+  },
+  "h2": [
+    {
+      "title": "Kenapa Konversi PNG menyang AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) yaiku format generasi sabanjure kanthi efisiensi luar biasa:</p><ul><li><strong>Kompresi unggul:</strong> Asring 30–50% luwih cilik tinimbang PNG kanthi kualitas sing padha.</li><li><strong>Codec modern:</strong> Adhedhasar standar AV1.</li><li><strong>Fidelitas dhuwur:</strong> Retensi rincian sing apik ing ukuran sing luwih cilik.</li><li><strong>Kinerja web:</strong> Gambar sing luwih cilik = kaca sing luwih cepet lan Core Web Vitals sing luwih apik.</li></ul>"
+    },
+    {
+      "title": "Cara Konversi PNG menyang AVIF Online",
+      "description": "<ol><li>Klik <em>Unggah PNG</em> lan pilih file sampeyan.</li><li>Enteni proses lan optimasi.</li><li>Klik <em>Unduh AVIF</em> kanggo nyimpen gambar sampeyan.</li></ol><p>Converter otomatis nyetel kualitas lan ukuran kanggo panggunaan web umum.</p>"
+    },
+    {
+      "title": "Perbandingan AVIF vs PNG",
+      "description": "<ul><li><strong>Ukuran file:</strong> AVIF biasane 30–50% luwih cilik tinimbang PNG.</li><li><strong>Kualitas:</strong> AVIF njaga kualitas sing kuat ing bitrate sing luwih murah.</li><li><strong>Transparansi:</strong> Keduanya ndhukung transparansi alpha.</li><li><strong>Dukungan browser:</strong> AVIF bisa digunakake ing browser modern (nyedhiyakake fallback yen perlu).</li></ul>"
+    },
+    {
+      "title": "Batasan & Format Sing Didukung",
+      "description": "<ul><li><strong>Input sing ditampa:</strong> PNG (<code>image/png</code>)</li><li><strong>Ukuran file maksimum:</strong> nganti 16&nbsp;MB saben file</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Encoding:</strong> Kualitas ≈ 80, kecepatan 4, subsampling 4:4:4 kanggo njaga pinggiran sing resik</li></ul>"
+    },
+    {
+      "title": "Pemecahan Masalah",
+      "description": "<ul><li><strong>Browser lawas:</strong> Gunakake elemen <code>&lt;picture&gt;</code> kanthi fallback PNG/WebP.</li><li><strong>Halo ing pinggiran:</strong> 4:4:4 mbantu; yen isih katon, miwiti saka PNG resolusi luwih dhuwur utawa nyaring alpha.</li><li><strong>Perlu lossless:</strong> Pertimbangkan PNG kanggo kabutuhan pixel-perfect, utawa atur AVIF kanggo lossless ing alur kerja maju.</li><li><strong>Unggah gagal:</strong> Priksa manawa file kasebut PNG lan ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Kasus Penggunaan: Nalika Konversi PNG menyang AVIF",
+      "description": "<ul><li><strong>Optimisasi web:</strong> Kurangi beban kanggo ikon, UI, lan grafik kanthi transparansi.</li><li><strong>Aplikasi seluler:</strong> Kurangi panggunaan bandwidth lan penyimpanan.</li><li><strong>Perpustakaan gedhe:</strong> Simpen ruang disk tanpa kehilangan kualitas sing jelas.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apa converter PNG menyang AVIF iki gratis?",
+      "answer": "Ya, converter iki sepenu gratis tanpa biaya sembunyi utawa langganan."
+    },
+    {
+      "question": "Apa AVIF bisa digunakake ing kabeh browser?",
+      "answer": "AVIF didhukung dening browser modern (Chrome, Firefox, Safari, Edge). Nyedhiyakake fallback PNG/WebP kanggo sing luwih lawas."
+    },
+    {
+      "question": "Pira ukuran file AVIF dibandhingake PNG?",
+      "answer": "Biasane 30–50% luwih cilik kanthi kualitas sing dirasakake padha, gumantung saka gambar."
+    },
+    {
+      "question": "Ukuran file apa sing didhukung?",
+      "answer": "Sampeyan bisa unggah gambar nganti 16&nbsp;MB saben file."
+    },
+    {
+      "question": "Apa fileku aman?",
+      "answer": "File diproses kanthi otomatis lan ora disimpen luwih suwe tinimbang sing dibutuhake kanggo konversi."
+    },
+    {
+      "question": "Apa aku bisa ngowahi sawetara PNG sekaligus?",
+      "answer": "Halaman iki ngowahi siji file ing siji wektu. Kanggo kabutuhan massal, ulangi proses utawa gunakake alat batch."
+    },
+    {
+      "question": "Apa AVIF luwih apik tinimbang PNG kanggo situs web?",
+      "answer": "Asring ya kanggo ukuran file sing luwih cilik kanthi kualitas apik; kanggo lossless sing ketat utawa kasus khusus, PNG isih bisa luwih disenengi."
+    }
+  ],
+  "note": "Kanggo kompatibilitas maksimum, sajikan AVIF kanthi fallback PNG/WebP nggunakake elemen <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Konversi AVIF menyang PNG",
+      "url": "/en/convert/avif-to-png"
+    },
+    {
+      "title": "Konversi PNG menyang WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "Konversi JPG menyang AVIF",
+      "url": "/en/convert/jpg-to-avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kabeh hak dilindhungi.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG menyang AVIF Converter - Gratis & Online",
+      "url": "https://wikihowto.click/en/convert/png-to-avif",
+      "description": "Alat online gratis kanggo ngowahi gambar PNG menyang AVIF kanthi kompresi sing apik lan njaga transparansi.",
+      "inLanguage": "jv",
+      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beranda",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konversi",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG menyang AVIF",
+          "item": "https://wikihowto.click/en/convert/png-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG menyang AVIF Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/png-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Kompresi sing apik",
+        "Njaga transparansi",
+        "Proses cepet"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Apa converter PNG menyang AVIF iki gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, converter iki sepenu gratis tanpa biaya sembunyi utawa langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ukuran file apa sing didhukung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sampeyan bisa unggah gambar nganti 16 MB saben file."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa AVIF bisa digunakake ing kabeh browser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF didhukung dening browser modern; nyedhiyakake fallback PNG/WebP kanggo sing luwih lawas."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara ngowahi PNG menyang AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unggah PNG lan pilih file sampeyan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Enteni proses lan optimasi rampung."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Unduh AVIF kanggo nyimpen asil."
+        }
+      ],
+      "tool": [
+        "PNG menyang AVIF Converter"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "PNG till JPG Konverterare - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konvertera PNG-bilder till JPG-format online med hög kvalitet, mindre filstorlekar och utan vattenstämplar.",
+  "hint": "Ladda upp din PNG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till JPG",
+  "btn_paste": "Ladda upp PNG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://wikihowto.click/images/png-to-jpg.jpg",
+  "converter": {
+    "type": "png-to-jpg",
+    "inputFormat": "PNG",
+    "outputFormat": "JPG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/jpeg",
+    "outputExtension": ".jpg",
+    "quality": 90,
+    "options": {
+      "jpeg": {
+        "quality": 90,
+        "progressive": true,
+        "mozjpeg": true
+      }
+    }
+  },
+  "description": "<p>Behöver du konvertera <strong>PNG till JPG</strong> för mindre filstorlekar eller bredare kompatibilitet? Vår gratis online PNG till JPG-konverterare skapar högkvalitativa JPEG:er på några sekunder. Den fungerar i din webbläsare, kräver ingen registrering och håller dina filer privata med automatisk radering efter bearbetning.</p><p>JPG är idealiskt för foton och färgglada bilder, och erbjuder utmärkt kompression med bra visuell kvalitet. PNG är utan förlust (och ofta större), så att byta till JPG hjälper till att minska lagring och snabba upp webbleverans.</p>",
+  "head": {
+    "title": "Konvertera PNG till JPG Online - Gratis PNG till JPG Konverterare | WikiHowTo.click",
+    "description": "Konvertera PNG till JPG online med hög kvalitet, mindre filstorlekar och utan vattenstämplar. Gratis, snabbt och säkert PNG till JPG-konverteringsverktyg.",
+    "keywords": "png till jpg, konvertera png till jpg, gratis png till jpg, online png konverterare, jpg kompression",
+    "canonical": "https://wikihowto.click/sv/convert/png-to-jpg",
+    "og_title": "PNG till JPG Konverterare - Gratis & Online",
+    "og_description": "Konvertera PNG-bilder till JPG-format med hög kvalitet och mindre filstorlekar. 100% gratis, snabbt och säkert.",
+    "og_url": "https://wikihowto.click/sv/convert/png-to-jpg",
+    "og_image": "https://wikihowto.click/images/png-to-jpg.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Gratis PNG till JPG Konverterare Online",
+    "twitter_description": "Konvertera PNG till JPG med hög kvalitet, mindre filstorlekar och utan vattenstämplar. Fungerar på alla enheter.",
+    "twitter_image": "https://wikihowto.click/images/png-to-jpg.jpg"
+  },
+  "h1": {
+    "title": "Konvertera PNG till JPG Online",
+    "description": "Gratis och snabb PNG till JPG-konverterare med hög kvalitet och mindre filstorlekar. Fungerar omedelbart på alla enheter — ingen registrering krävs."
+  },
+  "h2": [
+    {
+      "title": "Varför konvertera PNG till JPG?",
+      "description": "<p>PNG är bra för grafik med transparens men kan vara tungt. JPG erbjuder mindre filer och bred kompatibilitet:</p><ul><li><strong>Mindre filstorlekar:</strong> Minska lagring och snabba upp sidladdningar.</li><li><strong>Bättre kompatibilitet:</strong> JPG fungerar överallt.</li><li><strong>Foto-vänlig:</strong> Idealisk för foton och gradienter.</li><li><strong>Bandbreddsbesparingar:</strong> Lättare bilder för mobil/webb.</li></ul>"
+    },
+    {
+      "title": "Hur man konverterar PNG till JPG Online",
+      "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på bearbetning.</li><li>Klicka på <em>Ladda ner JPG</em> för att spara din bild.</li></ol><p>Kvaliteten justeras automatiskt för en stark balans mellan storlek och trohet.</p>"
+    },
+    {
+      "title": "Tips för bättre resultat",
+      "description": "<ul><li><strong>Kvalitetsinställning:</strong> Använd 85–90% för viktiga bilder; 70–80% för webb.</li><li><strong>Transparens:</strong> PNG-alfa blir en solid bakgrund (standard vit) i JPG.</li><li><strong>Upplösning:</strong> Ändra storlek på stora bilder innan konvertering för att minska filer ytterligare.</li><li><strong>Webbprestanda:</strong> Efter JPG, överväg <a href='/sv/convert/jpg-to-webp'>JPG → WebP</a> för extra besparingar.</li></ul>"
+    },
+    {
+      "title": "Stödda gränser & format",
+      "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Kodning:</strong> Progressiv JPEG via mozjpeg</li></ul>"
+    },
+    {
+      "title": "Felsökning",
+      "description": "<ul><li><strong>Transparenta områden:</strong> JPG har ingen alfa; bakgrunden blir vit. Om du behöver transparens, behåll PNG.</li><li><strong>Färgskift:</strong> Konvertera till sRGB innan uppladdning för konsekvent webbvisning.</li><li><strong>Fortfarande för stor:</strong> Sänk kvaliteten något (80–85%) eller ändra storlek.</li><li><strong>Uppladdning misslyckas:</strong> Se till att PNG och ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna PNG till JPG-konverterare gratis?",
+      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+    {
+      "question": "Kommer jag att förlora transparens när jag konverterar PNG till JPG?",
+      "answer": "Ja. JPG stöder inte transparens, så transparenta pixlar blir en solid bakgrund (standard vit)."
+    },
+    {
+      "question": "Kommer bilden att förlora kvalitet under konverteringen?",
+      "answer": "JPG använder förlustkompression. Vi använder högkvalitativa inställningar för att minimera synlig förlust."
+    },
+    {
+      "question": "Vilka filstorlekar stöds?",
+      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
+    },
+    {
+      "question": "Är mina filer säkra?",
+      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
+    },
+    {
+      "question": "Kan jag konvertera flera PNG:er samtidigt?",
+      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
+    },
+    {
+      "question": "Kan jag använda detta verktyg på min telefon?",
+      "answer": "Ja. Konverteraren är mobilvänlig och fungerar på iOS- och Android-webbläsare."
+    }
+  ],
+  "note": "JPG-konvertering är med förlust. Behåll en kopia av din ursprungliga PNG om du kan behöva utan förlust eller transparens senare.",
+  "related_links": [
+    {
+      "title": "Konvertera PNG till WebP",
+      "url": "/sv/convert/png-to-webp"
+    },
+    {
+      "title": "Konvertera JPG till PNG",
+      "url": "/sv/convert/jpg-to-png"
+    },
+    {
+      "title": "Komprimera JPG Online",
+      "url": "/sv/compress/jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Alla rättigheter förbehållna.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG till JPG Konverterare - Gratis & Online",
+      "url": "https://wikihowto.click/sv/convert/png-to-jpg",
+      "description": "Gratis onlineverktyg för att konvertera PNG-bilder till JPG med hög kvalitet och mindre filstorlekar.",
+      "inLanguage": "sv",
+      "image": "https://wikihowto.click/images/png-to-jpg.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hem",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertera",
+          "item": "https://wikihowto.click/sv/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG till JPG",
+          "item": "https://wikihowto.click/sv/convert/png-to-jpg"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG till JPG Konverterare",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sv/convert/png-to-jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "SEK"
+      },
+      "featureList": [
+        "Hög kvalitet JPEG",
+        "Progressiv kodning",
+        "Snabb bearbetning"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-jpg.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är denna PNG till JPG-konverterare gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vilka filstorlekar stöds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kommer jag att förlora transparens?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. JPG stöder inte transparens; transparenta pixlar blir en solid bakgrund."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hur man konverterar PNG till JPG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda upp PNG och välj din fil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vänta på att bearbetningen ska slutföras."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda ner JPG för att spara resultatet."
+        }
+      ],
+      "tool": [
+        "PNG till JPG Konverterare"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

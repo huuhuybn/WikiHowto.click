@@ -1,0 +1,238 @@
+{
+  "lang": "fr",
+  "lang_name": "Français",
+  "title": "Convertisseur SVG en PNG - Gratuit & En Ligne | WikiHowTo.click",
+  "sub_title": "Convertissez des graphiques vectoriels SVG en PNG en ligne avec une rasterisation nette, de la transparence et sans filigranes.",
+  "hint": "Téléchargez votre fichier SVG pour commencer la conversion...",
+  "btn_download": "Convertir en PNG",
+  "btn_paste": "Télécharger SVG",
+  "btn_clear": "Effacer",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "Convertir SVG en PNG - Convertisseur SVG en PNG en ligne gratuit | WikiHowTo.click",
+    "description": "Convertissez des graphiques vectoriels SVG en PNG en ligne gratuitement. Rasterisation SVG→PNG de haute qualité avec traitement rapide et support de la transparence.",
+    "keywords": "svg en png, convertir svg en png, vectoriel en raster, convertisseur svg gratuit, convertisseur png en ligne",
+    "canonical": "https://wikihowto.click/fr/convert/svg-to-png",
+    "og_title": "Convertisseur SVG en PNG - Gratuit & En Ligne",
+    "og_description": "Convertissez SVG en PNG avec une rasterisation nette et de la transparence. 100% gratuit, rapide et sécurisé.",
+    "og_url": "https://wikihowto.click/fr/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Convertisseur SVG en PNG Gratuit en Ligne",
+    "twitter_description": "Convertissez SVG en PNG avec support de la transparence et haute qualité. Fonctionne sur tous les appareils.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "Convertir SVG en PNG en Ligne",
+    "description": "Convertisseur SVG en PNG gratuit et rapide avec une rasterisation nette et un support de la transparence. Fonctionne instantanément sur n'importe quel appareil — aucune inscription requise."
+  },
+  "description": "<p>Transformez votre <strong>SVG en PNG</strong> en quelques secondes. Ce convertisseur en ligne gratuit rasterise vos graphiques vectoriels en images PNG de haute qualité tout en préservant la transparence pour des bords nets sur n'importe quel fond.</p><p>Parfait pour les favicons, les ressources d'application, les images sociales et les graphiques web. Nous optimisons la sortie pour un bon équilibre entre clarté et taille de fichier.</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "Convertisseur SVG en PNG",
+    "description": "Convertissez des graphiques vectoriels SVG en format raster PNG avec haute qualité et traitement rapide.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "Rasterisation de haute qualité",
+      "Transparence préservée",
+      "Traitement rapide",
+      "Outil en ligne gratuit"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparent",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Conversion SVG en PNG Terminée",
+    "back_button": "Retour au Convertisseur",
+    "convert_another": "Convertir un Autre SVG",
+    "quick_conversions": "Conversions Rapides :"
+  },
+  "h2": [
+    {
+      "title": "Pourquoi Convertir SVG en PNG ?",
+      "description": "<ul><li><strong>Compatibilité universelle :</strong> PNG s'affiche partout, aucun support SVG requis.</li><li><strong>Transparence :</strong> Préservez l'alpha pour les superpositions et les éléments d'interface utilisateur.</li><li><strong>Performance :</strong> Bitmaps plus petits et pouvant être mis en cache pour la production.</li></ul>"
+    },
+    {
+      "title": "Comment Convertir SVG en PNG en Ligne",
+      "description": "<ol><li>Cliquez sur <em>Télécharger SVG</em> et sélectionnez votre fichier.</li><li>Attendez la rasterisation et l'optimisation.</li><li>Cliquez sur <em>Télécharger PNG</em> pour enregistrer votre image.</li></ol><p>Les paramètres par défaut conservent la transparence et une compression équilibrée.</p>"
+    },
+    {
+      "title": "Limites et Formats Supportés",
+      "description": "<ul><li><strong>Entrée acceptée :</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Taille de fichier maximale :</strong> 16&nbsp;Mo</li><li><strong>Sortie :</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Meilleures Pratiques pour une Sortie Nette",
+      "description": "<ul><li>Utilisez un plan de travail carré avec des marges pour éviter le rognage sur les bords.</li><li>Convertissez le texte en contours ; intégrez les polices et les images.</li><li>Évitez les traits trop fins pour les petites icônes (≥1px à la taille cible).</li><li>Exportez plus grand (par exemple, 512–1024 px) si vous allez réduire la taille plus tard.</li></ul>"
+    },
+    {
+      "title": "Dépannage",
+      "description": "<ul><li><strong>Polices/filtres manquants :</strong> Actifs en ligne et convertissez le texte en contours.</li><li><strong>Bords dentelés :</strong> Augmentez la taille cible ou <code>scale</code>, puis réduisez.</li><li><strong>Fond solide :</strong> Assurez-vous que <code>background</code> est défini sur <em>transparent</em> dans les options.</li><li><strong>Échec du téléchargement :</strong> Assurez-vous que le SVG est valide et ≤16&nbsp;Mo.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ce convertisseur SVG en PNG est-il gratuit ?",
+      "answer": "Oui, il est complètement gratuit sans filigranes ni frais cachés."
+    },
+    {
+      "question": "Le PNG préserve-t-il la transparence ?",
+      "answer": "Oui. Le PNG prend en charge la transparence alpha et nous la préservons par défaut."
+    },
+    {
+      "question": "Puis-je choisir la taille de sortie ?",
+      "answer": "Par défaut, nous utilisons le viewBox SVG. Vous pouvez définir la largeur/hauteur ou un facteur d'échelle dans les options avancées si pris en charge."
+    },
+    {
+      "question": "Quelles limites de taille de fichier s'appliquent ?",
+      "answer": "Vous pouvez télécharger des fichiers SVG jusqu'à 16 Mo."
+    },
+    {
+      "question": "Pourquoi mon PNG a-t-il l'air différent du SVG ?",
+      "answer": "Les polices externes, les filtres ou les actifs liés peuvent rendre différemment lors de la rasterisation. Convertissez le texte en contours et intégrez les actifs pour des résultats cohérents."
+    }
+  ],
+  "note": "Les SVG sont rasterisés lors de la conversion. Pour des résultats prévisibles, contournez le texte et intégrez tous les actifs externes.",
+  "related_links": [
+    {
+      "title": "Convertir SVG en ICO",
+      "url": "/fr/convert/svg-to-ico"
+    },
+    {
+      "title": "Convertir PNG en SVG",
+      "url": "/fr/convert/png-to-svg"
+    },
+    {
+      "title": "Compresser PNG en Ligne",
+      "url": "/fr/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tous droits réservés.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Convertisseur SVG en PNG - Gratuit & En Ligne",
+      "url": "https://wikihowto.click/fr/convert/svg-to-png",
+      "description": "Outil en ligne gratuit pour convertir des graphiques vectoriels SVG en PNG avec transparence.",
+      "inLanguage": "fr",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/fr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG en PNG",
+          "item": "https://wikihowto.click/fr/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Convertisseur SVG en PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/fr/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Rasterisation nette",
+        "Transparence préservée",
+        "Traitement rapide"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ce convertisseur SVG en PNG est-il gratuit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, il est complètement gratuit sans filigranes ni frais cachés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le PNG préserve-t-il la transparence ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, la transparence alpha est préservée par défaut."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelles limites de taille de fichier s'appliquent ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vous pouvez télécharger des fichiers SVG jusqu'à 16 Mo."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Comment convertir SVG en PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Cliquez sur Télécharger SVG et sélectionnez votre fichier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Attendez que la rasterisation et l'optimisation soient terminées."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cliquez sur Télécharger PNG pour enregistrer votre image."
+        }
+      ],
+      "tool": [
+        "Convertisseur SVG en PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

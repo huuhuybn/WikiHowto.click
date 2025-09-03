@@ -1,0 +1,251 @@
+{
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "JPG till AVIF Konverterare - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konvertera JPG-bilder till AVIF online med utmärkt kompression och hög visuell kvalitet. Inga vattenmärken.",
+  "hint": "Ladda upp din JPG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till AVIF",
+  "btn_paste": "Ladda upp JPG",
+  "btn_clear": "Rensa",
+  "head": {
+    "title": "Konvertera JPG till AVIF - Gratis Online JPG till AVIF Konverterare",
+    "description": "Konvertera JPG-bilder till AVIF-format online gratis. Högkvalitativ JPG till AVIF-konvertering med utmärkt kompression.",
+    "keywords": "jpg till avif, konvertera jpg till avif, gratis jpg till avif, online avif konverterare, bildkonvertering",
+    "canonical": "https://wikihowto.click/sv/convert/jpg-to-avif",
+    "og_title": "Konvertera JPG till AVIF - Gratis Online JPG till AVIF Konverterare",
+    "og_description": "Konvertera JPG-bilder till AVIF-format online gratis. Högkvalitativ JPG till AVIF-konvertering med utmärkt kompression.",
+    "og_url": "https://wikihowto.click/sv/convert/jpg-to-avif",
+    "og_image": "https://wikihowto.click/images/jpg-to-avif.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Konvertera JPG till AVIF - Gratis Online JPG till AVIF Konverterare",
+    "twitter_description": "Konvertera JPG-bilder till AVIF-format online gratis. Högkvalitativ JPG till AVIF-konvertering med utmärkt kompression.",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-avif.jpg"
+  },
+  "h1": {
+    "title": "Konvertera JPG till AVIF Online",
+    "description": "Gratis JPG till AVIF-konverterare med utmärkt kompression och kvalitet. Fungerar på alla enheter — ingen registrering krävs."
+  },
+  "converter": {
+    "type": "jpg-to-avif",
+    "title": "JPG till AVIF Konverterare",
+    "description": "Konvertera JPG-bilder till AVIF med modern kompression och hög trohet.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "AVIF",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/avif",
+    "outputExtension": ".avif",
+    "quality": 80,
+    "features": [
+      "Högkvalitativ AVIF-utdata",
+      "Utmärkt kompression",
+      "Modern webbvänlig format",
+      "Gratis online verktyg"
+    ],
+    "options": {
+      "avif": {
+        "quality": 80,
+        "speed": 4,
+        "subsample": "4:2:0",
+        "lossless": false
+      }
+    }
+  },
+  "result_actions": {
+    "title": "JPG till AVIF Konvertering Klar",
+    "back_button": "Tillbaka till Konverteraren",
+    "convert_another": "Konvertera En Annan JPG",
+    "quick_conversions": "Snabba Konverteringar:"
+  },
+  "h2": [
+    {
+      "title": "Varför Konvertera JPG till AVIF?",
+      "description": "<p>AVIF (AV1 Image File Format) är ett nästa generations format som levererar mindre filer med liknande eller bättre kvalitet än JPG:</p><ul><li><strong>Överlägsen kompression:</strong> Ofta 30–50% mindre än JPG vid jämförbar kvalitet.</li><li><strong>Hög trohet:</strong> Bättre detaljbevarande och färre artefakter vid låga bithastigheter.</li><li><strong>Moderna funktioner:</strong> Stöder transparens, HDR och bred färgskala.</li><li><strong>Webbprestanda:</strong> Mindre bilder = snabbare sidor och bättre Core Web Vitals.</li></ul>"
+    },
+    {
+      "title": "Hur man Konverterar JPG till AVIF Online",
+      "description": "<ol><li>Klicka på <em>Ladda upp JPG</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner AVIF</em> för att spara den optimerade bilden.</li></ol><p>Konverteraren balanserar automatiskt kvalitet och storlek för typisk webb-användning.</p>"
+    },
+    {
+      "title": "AVIF vs JPG: Nyckelskillnader",
+      "description": "<table class='table-compare'><thead><tr><th>Egenskap</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompression</td><td>Förlust (JPEG)</td><td>Avancerad, mer effektiv (AV1)</td></tr><tr><td>Filstorlek</td><td>Baseline</td><td>≈30–50% mindre vid liknande kvalitet</td></tr><tr><td>Transparens</td><td>Nej</td><td>Ja</td></tr><tr><td>HDR/Bred Gamut</td><td>Begränsad</td><td>Stöds</td></tr><tr><td>Webbläsarstöd</td><td>Universellt</td><td>Moderna webbläsare (fallback rekommenderas)</td></tr></tbody></table>"
+    },
+    {
+      "title": "Stödda Gränser & Format",
+      "description": "<ul><li><strong>Accepterad indata:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodning:</strong> Kvalitet ~80, hastighet 4 (balanserad)</li></ul>"
+    },
+    {
+      "title": "Felsökning",
+      "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att filen är JPG/JPEG och ≤ 16&nbsp;MB.</li><li><strong>Färgskift:</strong> Konvertera bilder till sRGB innan uppladdning för konsekventa webb färger.</li><li><strong>Äldre webbläsare:</strong> Servera JPG/WebP fallback med <code>&lt;picture&gt;</code> om AVIF inte stöds.</li></ul>"
+    },
+    {
+      "title": "Användningsfall: När man ska Konvertera JPG till AVIF",
+      "description": "<ul><li><strong>Webboptimering:</strong> Snabba upp sidor och förbättra LCP.</li><li><strong>Mobilappar:</strong> Minska bandbredd och lagring.</li><li><strong>Stora fotobibliotek:</strong> Spara diskutrymme utan uppenbar kvalitetsförlust.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna JPG till AVIF konverterare gratis?",
+      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+    {
+      "question": "Kommer AVIF att fungera på alla webbläsare?",
+      "answer": "AVIF stöds av moderna webbläsare (Chrome, Firefox, Safari, Edge). För äldre webbläsare, ge JPG/WebP fallbacks."
+    },
+    {
+      "question": "Hur mycket mindre är AVIF-filer jämfört med JPG?",
+      "answer": "Typiskt 30–50% mindre vid liknande upplevd kvalitet, även om resultaten varierar beroende på bild."
+    },
+    {
+      "question": "Vilka filstorlekar stöds?",
+      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
+    },
+    {
+      "question": "Är mina filer säkra?",
+      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
+    },
+    {
+      "question": "Kan jag konvertera flera JPG:er på en gång?",
+      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
+    },
+    {
+      "question": "Är AVIF bättre än JPG för webbplatser?",
+      "answer": "Ja. AVIF ger vanligtvis mindre filer med jämförbar kvalitet, vilket förbättrar laddningshastighet och Core Web Vitals."
+    }
+  ],
+  "note": "AVIF kanske inte visas på vissa äldre program. Använd <code>&lt;picture&gt;</code>-elementet med JPG/WebP fallbacks för maximal kompatibilitet.",
+  "related_links": [
+    {
+      "title": "Konvertera AVIF till JPG",
+      "url": "/sv/convert/avif-to-jpg"
+    },
+    {
+      "title": "Konvertera PNG till AVIF",
+      "url": "/sv/convert/png-to-avif"
+    },
+    {
+      "title": "Konvertera WebP till AVIF",
+      "url": "/sv/convert/webp-to-avif"
+    },
+    {
+      "title": "Komprimera AVIF Bilder",
+      "url": "/sv/compress/avif"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Alla rättigheter förbehållna.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG till AVIF Konverterare - Gratis & Online",
+      "url": "https://wikihowto.click/sv/convert/jpg-to-avif",
+      "description": "Gratis online verktyg för att konvertera JPG-bilder till AVIF med utmärkt kompression och hög kvalitet.",
+      "inLanguage": "sv",
+      "image": "https://wikihowto.click/images/jpg-to-avif.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hem",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertera",
+          "item": "https://wikihowto.click/sv/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG till AVIF",
+          "item": "https://wikihowto.click/sv/convert/jpg-to-avif"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG till AVIF Konverterare",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sv/convert/jpg-to-avif",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "SEK"
+      },
+      "featureList": [
+        "Utmärkt kompression",
+        "Modern AVIF-utdata",
+        "Snabb bearbetning"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-avif.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är denna JPG till AVIF konverterare gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vilka filstorlekar stöds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kommer AVIF att fungera på alla webbläsare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AVIF stöds av moderna webbläsare, men du bör ge JPG/WebP fallbacks för äldre."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hur man konverterar JPG till AVIF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda upp JPG och välj din fil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vänta på att bearbetningen ska slutföras."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda ner AVIF för att spara den optimerade bilden."
+        }
+      ],
+      "tool": [
+        "JPG till AVIF Konverterare"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

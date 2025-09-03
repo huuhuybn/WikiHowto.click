@@ -1,0 +1,241 @@
+{
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar PNG ke BMP - Percuma & Dalam Talian | WikiHowTo.click",
+  "sub_title": "Tukar imej PNG kepada BMP dalam talian dengan data piksel tanpa mampatan dan tanpa kehilangan. Tiada tanda air.",
+  "hint": "Muat naik imej PNG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada BMP",
+  "btn_paste": "Muat naik PNG",
+  "btn_clear": "Bersihkan",
+  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "head": {
+    "title": "Tukar PNG kepada BMP - Penukar PNG ke BMP Dalam Talian Percuma",
+    "description": "Tukar imej PNG kepada format BMP dalam talian secara percuma. Penukaran PNG ke BMP berkualiti tinggi dengan pemprosesan pantas.",
+    "keywords": "png ke bmp, tukar png ke bmp, percuma png ke bmp, penukar bmp dalam talian, penukaran imej",
+    "canonical": "https://wikihowto.click/ms/convert/png-to-bmp",
+    "og_title": "Tukar PNG kepada BMP - Penukar PNG ke BMP Dalam Talian Percuma",
+    "og_description": "Tukar imej PNG kepada format BMP dalam talian secara percuma. Penukaran PNG ke BMP berkualiti tinggi dengan pemprosesan pantas.",
+    "og_url": "https://wikihowto.click/ms/convert/png-to-bmp",
+    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Tukar PNG kepada BMP - Penukar PNG ke BMP Dalam Talian Percuma",
+    "twitter_description": "Tukar imej PNG kepada format BMP dalam talian secara percuma. Penukaran PNG ke BMP berkualiti tinggi dengan pemprosesan pantas.",
+    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
+  },
+  "h1": {
+    "title": "Tukar PNG kepada BMP Dalam Talian",
+    "description": "Penukar PNG ke BMP percuma dengan data piksel tanpa mampatan dan tanpa kehilangan. Berfungsi pada mana-mana peranti — tiada pendaftaran diperlukan."
+  },
+  "converter": {
+    "type": "png-to-bmp",
+    "title": "Penukar PNG ke BMP",
+    "description": "Tukar imej PNG kepada BMP dengan pemprosesan pantas dan warna yang tepat.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "BMP",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/bmp",
+    "outputExtension": ".bmp",
+    "features": [
+      "Data piksel tanpa mampatan (tanpa kehilangan)",
+      "Keserasian tinggi pada Windows",
+      "Pemprosesan pantas",
+      "Alat dalam talian percuma"
+    ],
+    "options": {
+      "bmp": {
+        "bitDepth": 24,
+        "compression": "BI_RGB"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "Penukaran PNG kepada BMP Selesai",
+    "back_button": "Kembali ke Penukar",
+    "convert_another": "Tukar PNG Lain",
+    "quick_conversions": "Penukaran Pantas:"
+  },
+  "h2": [
+    {
+      "title": "Mengapa Tukar PNG kepada BMP?",
+      "description": "<p>BMP adalah format raster yang mudah yang menyimpan piksel tanpa mampatan — berguna untuk aliran kerja tertentu:</p><ul><li><strong>Tiada artefak baru:</strong> Kekalkan piksel utuh untuk penyuntingan tahap rendah.</li><li><strong>Struktur yang mudah:</strong> Mudah untuk program membaca dan memanipulasi.</li><li><strong>Aplikasi legasi/terbenam:</strong> Beberapa alat Windows lebih suka BMP.</li></ul>"
+    },
+    {
+      "title": "Cara Tukar PNG kepada BMP Dalam Talian",
+      "description": "<ol><li>Klik <em>Muat naik PNG</em> dan pilih fail anda.</li><li>Tunggu pemprosesan selesai.</li><li>Klik <em>Muat turun BMP</em> untuk menyimpan imej anda.</li></ol><p>Secara lalai kepada BMP 24-bit tanpa mampatan.</p>"
+    },
+    {
+      "title": "Perbandingan BMP vs PNG",
+      "description": "<ul><li><strong>Saiz Fail:</strong> BMP biasanya jauh lebih besar daripada PNG.</li><li><strong>Kualiti:</strong> Kedua-duanya tanpa kehilangan (BMP tidak dimampatkan; PNG dimampatkan tanpa kehilangan).</li><li><strong>Keterlihatan:</strong> PNG menyokong alpha; BMP 24-bit biasa <em>tidak</em>.</li><li><strong>Mampatan:</strong> BMP tiada; PNG tanpa kehilangan DEFLATE.</li><li><strong>Kes Penggunaan:</strong> BMP untuk operasi legasi/piksel; PNG untuk web dan penyimpanan tanpa kehilangan yang cekap.</li></ul>"
+    },
+    {
+      "title": "Had & Format yang Disokong",
+      "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Kedalaman bit:</strong> 24-bit (tiada alpha)</li></ul>"
+    },
+    {
+      "title": "Penyelesaian Masalah",
+      "description": "<ul><li><strong>Output sangat besar:</strong> BMP tidak dimampatkan; untuk tanpa kehilangan yang lebih kecil, kekalkan PNG.</li><li><strong>Perlu keterlihatan:</strong> BMP 24-bit tiada alpha; kekal dengan PNG.</li><li><strong>Muat naik gagal:</strong> Pastikan fail adalah PNG dan ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Adakah penukar PNG ke BMP ini percuma?",
+      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+    {
+      "question": "Adakah BMP berfungsi pada semua aplikasi?",
+      "answer": "BMP disokong secara meluas pada Windows dan dikenali oleh banyak platform lain. Aliran kerja web moden biasanya lebih suka PNG/WebP untuk kecekapan saiz."
+    },
+    {
+      "question": "Berapa banyak lebih besar fail BMP berbanding PNG?",
+      "answer": "Selalunya beberapa kali lebih besar (contohnya, 3–10× atau lebih), kerana BMP tidak dimampatkan."
+    },
+    {
+      "question": "Apakah saiz fail yang disokong?",
+      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
+    },
+    {
+      "question": "Adakah fail saya selamat?",
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+    },
+    {
+      "question": "Bolehkah saya menukar beberapa PNG sekaligus?",
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulangi proses atau gunakan alat batch."
+    },
+    {
+      "question": "Adakah BMP menyokong keterlihatan?",
+      "answer": "BMP 24-bit standard tidak termasuk saluran alpha. Gunakan PNG untuk keterlihatan."
+    }
+  ],
+  "note": "Output BMP sengaja besar (tidak dimampatkan). Untuk penghantaran web, lebih baik gunakan PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Tukar BMP kepada PNG",
+      "url": "/ms/convert/bmp-to-png"
+    },
+    {
+      "title": "Tukar PNG kepada JPG",
+      "url": "/ms/convert/png-to-jpg"
+    },
+    {
+      "title": "Tukar PNG kepada WebP",
+      "url": "/ms/convert/png-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Penukar PNG ke BMP - Percuma & Dalam Talian",
+      "url": "https://wikihowto.click/ms/convert/png-to-bmp",
+      "description": "Alat dalam talian percuma untuk menukar imej PNG kepada BMP dengan data piksel tanpa mampatan dan tanpa kehilangan.",
+      "inLanguage": "ms",
+      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Laman Utama",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tukar",
+          "item": "https://wikihowto.click/ms/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG ke BMP",
+          "item": "https://wikihowto.click/ms/convert/png-to-bmp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Penukar PNG ke BMP",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ms/convert/png-to-bmp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Data piksel tanpa mampatan",
+        "Warna yang tepat",
+        "Pemprosesan pantas"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Adakah penukar PNG ke BMP ini percuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah saiz fail yang disokong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Adakah BMP menyokong keterlihatan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BMP 24-bit standard tidak termasuk saluran alpha. Gunakan PNG untuk keterlihatan."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Cara menukar PNG kepada BMP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat naik PNG dan pilih fail anda."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tunggu pemprosesan selesai."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klik Muat turun BMP untuk menyimpan imej."
+        }
+      ],
+      "tool": [
+        "Penukar PNG ke BMP"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "SVG till PNG Konverterare - Gratis & Online | WikiHowTo.click",
+  "sub_title": "Konvertera SVG vektorgrafik till PNG online med skarp rasterisering, transparens och utan vattenstämplar.",
+  "hint": "Ladda upp din SVG-fil för att börja konvertera...",
+  "btn_download": "Konvertera till PNG",
+  "btn_paste": "Ladda upp SVG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "head": {
+    "title": "Konvertera SVG till PNG - Gratis Online SVG till PNG Konverterare | WikiHowTo.click",
+    "description": "Konvertera SVG vektorgrafik till PNG online gratis. Högkvalitativ SVG→PNG rasterisering med snabb bearbetning och stöd för transparens.",
+    "keywords": "svg till png, konvertera svg till png, vektor till raster, gratis svg konverterare, online png konverterare",
+    "canonical": "https://wikihowto.click/sv/convert/svg-to-png",
+    "og_title": "SVG till PNG Konverterare - Gratis & Online",
+    "og_description": "Konvertera SVG till PNG med skarp rasterisering och transparens. 100% gratis, snabbt och säkert.",
+    "og_url": "https://wikihowto.click/sv/convert/svg-to-png",
+    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Gratis SVG till PNG Konverterare Online",
+    "twitter_description": "Konvertera SVG till PNG med stöd för transparens och hög kvalitet. Fungerar på alla enheter.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
+  },
+  "h1": {
+    "title": "Konvertera SVG till PNG Online",
+    "description": "Gratis och snabb SVG till PNG konverterare med skarp rasterisering och stöd för transparens. Fungerar omedelbart på alla enheter — ingen registrering krävs."
+  },
+  "description": "<p>Konvertera din <strong>SVG till PNG</strong> på några sekunder. Denna gratis online konverterare rasteriserar dina vektorgrafik till högkvalitativa PNG-bilder samtidigt som den bevarar transparens för rena kanter på vilken bakgrund som helst.</p><p>Perfekt för favicons, app-tillgångar, sociala bilder och webb-grafik. Vi optimerar utdata för en stark balans mellan klarhet och filstorlek.</p>",
+  "converter": {
+    "type": "svg-to-png",
+    "title": "SVG till PNG Konverterare",
+    "description": "Konvertera SVG vektorgrafik till PNG rasterformat med hög kvalitet och snabb bearbetning.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "SVG",
+    "outputFormat": "PNG",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "features": [
+      "Högkvalitativ rasterisering",
+      "Transparens bevarad",
+      "Snabb bearbetning",
+      "Gratis online verktyg"
+    ],
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false,
+        "background": "transparent",
+        "width": null,
+        "height": null,
+        "scale": 1
+      }
+    }
+  },
+  "result_actions": {
+    "title": "SVG till PNG Konvertering Klar",
+    "back_button": "Tillbaka till Konverterare",
+    "convert_another": "Konvertera En Annan SVG",
+    "quick_conversions": "Snabba Konverteringar:"
+  },
+  "h2": [
+    {
+      "title": "Varför Konvertera SVG till PNG?",
+      "description": "<ul><li><strong>Universell kompatibilitet:</strong> PNG visas överallt, ingen SVG-stöd krävs.</li><li><strong>Transparens:</strong> Bevara alfa för överlägg och UI-element.</li><li><strong>Prestanda:</strong> Mindre, cachebara bitmaps för produktion.</li></ul>"
+    },
+    {
+      "title": "Hur man Konverterar SVG till PNG Online",
+      "description": "<ol><li>Klicka på <em>Ladda upp SVG</em> och välj din fil.</li><li>Vänta på rasterisering och optimering.</li><li>Klicka på <em>Ladda ner PNG</em> för att spara din bild.</li></ol><p>Standardinställningar bevarar transparens och balanserad kompression.</p>"
+    },
+    {
+      "title": "Stödda Gränser & Format",
+      "description": "<ul><li><strong>Accepterad indata:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Max filstorlek:</strong> 16&nbsp;MB</li><li><strong>Utdata:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Bästa Praxis för Skarp Utdata",
+      "description": "<ul><li>Använd en fyrkantig arbetsyta med marginaler för att undvika klippning vid kanterna.</li><li>Konvertera text till konturer; bädda in typsnitt och bilder.</li><li>Undvik alltför tunna linjer för små ikoner (≥1px vid målstorlek).</li><li>Exportera större (t.ex. 512–1024 px) om du ska nedskala senare.</li></ul>"
+    },
+    {
+      "title": "Felsökning",
+      "description": "<ul><li><strong>Förlorade typsnitt/filter:</strong> Inline tillgångar och konvertera text till konturer.</li><li><strong>Taggiga kanter:</strong> Öka målstorleken eller <code>skala</code>, och nedprova sedan.</li><li><strong>Solid bakgrund:</strong> Se till att <code>background</code> är inställt på <em>transparent</em> i alternativ.</li><li><strong>Uppladdning misslyckas:</strong> Se till att det är en giltig SVG och ≤16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna SVG till PNG konverterare gratis?",
+      "answer": "Ja, den är helt gratis utan vattenstämplar eller dolda avgifter."
+    },
+    {
+      "question": "Bevarar PNG transparens?",
+      "answer": "Ja. PNG stöder alfa transparens och vi bevarar det som standard."
+    },
+    {
+      "question": "Kan jag välja utdata storlek?",
+      "answer": "Som standard använder vi SVG viewBox. Du kan ställa in bredd/höjd eller en skalfaktor i avancerade alternativ om det stöds."
+    },
+    {
+      "question": "Vilka filstorleksgränser gäller?",
+      "answer": "Du kan ladda upp SVG-filer upp till 16 MB."
+    },
+    {
+      "question": "Varför ser min PNG annorlunda ut än SVG?",
+      "answer": "Externa typsnitt, filter eller länkade tillgångar kan renderas olika när de rasteriseras. Konvertera text till konturer och inline tillgångar för konsekventa resultat."
+    }
+  ],
+  "note": "SVG:er rasteriseras under konverteringen. För förutsägbara resultat, konturera text och bädda in externa tillgångar.",
+  "related_links": [
+    {
+      "title": "Konvertera SVG till ICO",
+      "url": "/sv/convert/svg-to-ico"
+    },
+    {
+      "title": "Konvertera PNG till SVG",
+      "url": "/sv/convert/png-to-svg"
+    },
+    {
+      "title": "Komprimera PNG Online",
+      "url": "/sv/compress/png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Alla rättigheter förbehållna.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG till PNG Konverterare - Gratis & Online",
+      "url": "https://wikihowto.click/sv/convert/svg-to-png",
+      "description": "Gratis online verktyg för att konvertera SVG vektorgrafik till PNG med transparens.",
+      "inLanguage": "sv",
+      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hem",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertera",
+          "item": "https://wikihowto.click/sv/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG till PNG",
+          "item": "https://wikihowto.click/sv/convert/svg-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG till PNG Konverterare",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/sv/convert/svg-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Skarp rasterisering",
+        "Transparens bevarad",
+        "Snabb bearbetning"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är denna SVG till PNG konverterare gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, den är helt gratis utan vattenstämplar eller dolda avgifter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bevarar PNG transparens?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, alfa transparens bevaras som standard."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vilka filstorleksgränser gäller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du kan ladda upp SVG-filer upp till 16 MB."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Hur man konverterar SVG till PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda upp SVG och välj din fil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vänta på att rasterisering och optimering ska slutföras."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Klicka på Ladda ner PNG för att spara din bild."
+        }
+      ],
+      "tool": [
+        "SVG till PNG Konverterare"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

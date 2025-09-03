@@ -1,0 +1,498 @@
+<form action="/convert" class="form" name="formupload" id="myForm" method="post" enctype="multipart/form-data">
+  <div class="message">
+    <div class="message-body"></div>
+  </div>
+
+  <!-- Progress Bar Container -->
+  <div id="upload-progress" class="upload-progress" style="display: none;">
+    <div class="progress-info">
+      <span id="progress-text">Uploading...</span>
+      <span id="progress-percent">0%</span>
+    </div>
+    <div class="progress-bar-container">
+      <div id="progress-bar" class="progress-bar"></div>
+    </div>
+    <div id="file-info" class="file-info"></div>
+  </div>
+
+  <div class="is-relative" style="overflow: hidden;width: 100%;">
+    <!-- File input: multiple -->
+    <input name="files"
+            id="files"
+            type="file"
+            class="link-input"
+            required
+            aria-label="Choose files"
+            autocomplete="off"
+            multiple
+            accept="<%= content.converter.allowedTypes.join(',') %>">
+
+    <!-- Lang giữ nguyên -->
+    <input name="lang" value="<%= content.lang %>" type="hidden">
+    <input name="type" value="<%= content.converter.type %>" type="hidden">
+
+    <!-- Nút mở hộp chọn file (không thêm CSS, dùng class cũ) -->
+    <button class="button button-paste transition-all" type="button" onclick="document.getElementById('files').click();">
+      <i class="icon icon-paste"></i><span><%= content.btn_paste %></span>
+    </button>
+  </div>
+
+  <!-- Nút submit -->
+  <button type="submit" id="submiturl" aria-label="Convert" class="button button-go is-link transition-all">
+    <i class="icon icon-down"></i><%= content.btn_download %>
+  </button>
+</form>
+
+<!-- File Upload Display -->
+<div class="formupload" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin-top: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+  <h3 style="margin-bottom: 15px; color: white; font-size: 18px; font-weight: 600; display: flex; align-items: center;">
+    <span class="icon icon-upload" style="filter: brightness(0) invert(1); margin-right: 8px;"></span>
+    Selected Files
+    <span class="file-count" style="background: rgba(255,255,255,0.2); color: white; padding: 2px 8px; border-radius: 12px; font-size: 12px; margin-left: 8px;">0</span>
+  </h3>
+
+  <div id="file-list" style="max-height: 200px; overflow-y: auto; background: rgba(255,255,255,0.95); border-radius: 8px; padding: 15px; display: none; border: 2px dashed rgba(255,255,255,0.3);">
+    <!-- File items will be added here -->
+  </div>
+
+  <div id="no-files" style="color: rgba(255,255,255,0.8); padding: 20px; text-align: center; font-style: italic;">
+    <span class="icon icon-upload" style="filter: brightness(0) invert(1); margin-right: 8px;"></span>
+    No files selected. Click "Choose Files" above to select images.
+  </div>
+</div>
+
+<style>
+.file-item {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    border: 1px solid #e9ecef;
+}
+
+.file-item:last-child {
+    margin-bottom: 0;
+}
+
+.file-item:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border-color: #007bff;
+}
+
+.file-thumbnail {
+    width: 50px;
+    height: 50px;
+    border-radius: 6px;
+    object-fit: cover;
+    margin-right: 12px;
+    border: 2px solid #e9ecef;
+    flex-shrink: 0;
+}
+
+.file-info {
+    flex: 1;
+    min-width: 0;
+    margin-right: 10px;
+}
+
+.file-name {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+.file-size {
+    font-size: 11px;
+    color: #6c757d;
+    margin-bottom: 2px;
+}
+
+.file-type {
+    font-size: 10px;
+    color: #adb5bd;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.file-progress {
+    width: 80px;
+    margin-right: 10px;
+    flex-shrink: 0;
+    display: none; /* Ẩn mặc định */
+}
+
+.file-progress-bar {
+    width: 100%;
+    height: 4px;
+    background: #e9ecef;
+    border-radius: 2px;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+
+.file-progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+}
+
+.file-progress-text {
+    font-size: 10px;
+    color: #6c757d;
+    text-align: center;
+    font-weight: 500;
+}
+
+.file-status {
+    margin-right: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    flex-shrink: 0;
+    min-width: 60px;
+    text-align: center;
+    display: none; /* Ẩn mặc định */
+}
+
+.file-status.pending {
+    color: #ffc107;
+}
+
+.file-status.uploading {
+    color: #007bff;
+}
+
+.file-status.completed {
+    color: #28a745;
+}
+
+.file-status.error {
+    color: #dc3545;
+}
+
+.remove-file {
+    color: #dc3545;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    flex-shrink: 0;
+}
+
+.remove-file:hover {
+    background: #dc3545;
+    color: white;
+    transform: scale(1.1);
+    box-shadow: 0 2px 4px rgba(220,53,69,0.3);
+}
+
+/* Custom scrollbar for file list */
+#file-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+#file-list::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.3);
+    border-radius: 3px;
+}
+
+#file-list::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.6);
+    border-radius: 3px;
+}
+
+#file-list::-webkit-scrollbar-thumb:hover {
+    background: rgba(255,255,255,0.8);
+}
+
+/* File count badge */
+.file-count {
+    background: rgba(255,255,255,0.2);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('myForm');
+    const fileInput = document.getElementById('files');
+    const progressContainer = document.getElementById('upload-progress');
+    const progressBar = document.getElementById('progress-bar');
+    const progressText = document.getElementById('progress-text');
+    const progressPercent = document.getElementById('progress-percent');
+    const fileInfo = document.getElementById('file-info');
+    const fileList = document.getElementById('file-list');
+    const noFiles = document.getElementById('no-files');
+
+    let selectedFiles = [];
+
+    // File input change event
+    fileInput.addEventListener('change', function(e) {
+        selectedFiles = Array.from(e.target.files);
+        displayFileList();
+    });
+
+    function displayFileList() {
+        if (selectedFiles.length === 0) {
+            fileList.style.display = 'none';
+            noFiles.style.display = 'block';
+            return;
+        }
+
+        fileList.style.display = 'block';
+        noFiles.style.display = 'none';
+
+        fileList.innerHTML = '';
+
+        selectedFiles.forEach((file, index) => {
+            const fileItem = createFileItem(file, index);
+            fileList.appendChild(fileItem);
+        });
+
+        // Auto-adjust height based on number of files
+        adjustFileListHeight();
+
+        // Update file count in header
+        updateFileCount();
+    }
+
+    function adjustFileListHeight() {
+        const fileItems = fileList.querySelectorAll('.file-item');
+        const itemHeight = 76; // Height of each file item (12px padding * 2 + 50px thumbnail + 2px border)
+        const padding = 30; // Top and bottom padding (15px * 2)
+        const maxHeight = 400; // Maximum height before scrolling
+        
+        const totalHeight = (fileItems.length * itemHeight) + padding;
+        const newHeight = Math.min(totalHeight, maxHeight);
+        
+        fileList.style.height = newHeight + 'px';
+        fileList.style.maxHeight = newHeight + 'px';
+        
+        // Show/hide scroll hint based on whether scrolling is needed
+        const scrollHint = fileList.querySelector('.scroll-hint');
+        if (totalHeight > maxHeight) {
+            if (!scrollHint) {
+                const hint = document.createElement('div');
+                hint.className = 'scroll-hint';
+                hint.textContent = '📁 Scroll to see all files';
+                hint.style.cssText = 'position: absolute; top: -25px; right: 10px; background: rgba(255,255,255,0.9); color: #667eea; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; opacity: 0.8; pointer-events: none;';
+                fileList.appendChild(hint);
+            }
+        } else if (scrollHint) {
+            scrollHint.remove();
+        }
+    }
+
+    function updateFileCount() {
+        const header = document.querySelector('.formupload h3');
+        const existingBadge = header.querySelector('.file-count');
+
+        if (existingBadge) {
+            existingBadge.remove();
+        }
+
+        if (selectedFiles.length > 0) {
+            const badge = document.createElement('span');
+            badge.className = 'file-count';
+            badge.textContent = selectedFiles.length;
+            header.appendChild(badge);
+        }
+    }
+
+    function createFileItem(file, index) {
+        const fileItem = document.createElement('div');
+        fileItem.className = 'file-item';
+        fileItem.dataset.index = index;
+
+        // Create thumbnail
+        const thumbnail = document.createElement('img');
+        thumbnail.className = 'file-thumbnail';
+
+        if (file.type.startsWith('image/')) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                thumbnail.src = e.target.result;
+            };
+            reader.readAsDataURL(file);
+        } else {
+            // Placeholder for non-image files
+            thumbnail.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik0yMCAyNUgzNVYzNUgyMFYyNVoiIGZpbGw9IiM5OTk5OTkiLz4KPHBhdGggZD0iTTE1IDQwSDQ1VjQ1SDE1VjQwWiIgZmlsbD0iIzk5OTk5OSIvPgo8L3N2Zz4K';
+        }
+
+        // File info
+        const fileInfo = document.createElement('div');
+        fileInfo.className = 'file-info';
+
+        const fileName = document.createElement('div');
+        fileName.className = 'file-name';
+        fileName.textContent = file.name;
+
+        const fileSize = document.createElement('div');
+        fileSize.className = 'file-size';
+        fileSize.textContent = formatFileSize(file.size);
+
+        const fileType = document.createElement('div');
+        fileType.className = 'file-type';
+        fileType.textContent = file.type || 'Unknown';
+
+        fileInfo.appendChild(fileName);
+        fileInfo.appendChild(fileSize);
+        fileInfo.appendChild(fileType);
+
+        // Progress section
+        const progressSection = document.createElement('div');
+        progressSection.className = 'file-progress';
+        progressSection.style.display = 'none'; // Ẩn progress section
+
+        const progressBar = document.createElement('div');
+        progressBar.className = 'file-progress-bar';
+
+        const progressFill = document.createElement('div');
+        progressFill.className = 'file-progress-fill';
+        progressFill.dataset.index = index;
+
+        const progressText = document.createElement('div');
+        progressText.className = 'file-progress-text';
+        progressText.textContent = 'Pending';
+        progressText.dataset.index = index;
+
+        progressBar.appendChild(progressFill);
+        progressSection.appendChild(progressBar);
+        progressSection.appendChild(progressText);
+
+        // Status - ẩn luôn
+        const status = document.createElement('div');
+        status.className = 'file-status pending';
+        status.textContent = 'Pending';
+        status.dataset.index = index;
+        status.style.display = 'none'; // Ẩn status
+
+        // Remove button
+        const removeBtn = document.createElement('div');
+        removeBtn.className = 'remove-file';
+        removeBtn.innerHTML = '×';
+        removeBtn.onclick = function() {
+            removeFile(index);
+        };
+
+        fileItem.appendChild(thumbnail);
+        fileItem.appendChild(fileInfo);
+        fileItem.appendChild(progressSection);
+        fileItem.appendChild(status);
+        fileItem.appendChild(removeBtn);
+
+        return fileItem;
+    }
+
+    function removeFile(index) {
+        selectedFiles.splice(index, 1);
+
+        // Update file input
+        const dt = new DataTransfer();
+        selectedFiles.forEach(file => dt.items.add(file));
+        fileInput.files = dt.files;
+
+        displayFileList();
+        
+        // Re-adjust height after removing file
+        adjustFileListHeight();
+    }
+
+    function updateFileProgress(index, percent, status, text) {
+        const progressFill = document.querySelector(`[data-index="${index}"].file-progress-fill`);
+        const progressText = document.querySelector(`[data-index="${index}"].file-progress-text`);
+        const statusEl = document.querySelector(`[data-index="${index}"].file-status`);
+
+        if (progressFill) progressFill.style.width = percent + '%';
+        if (progressText) progressText.textContent = text;
+        if (statusEl) {
+            statusEl.textContent = status;
+            statusEl.className = `file-status ${status.toLowerCase()}`;
+        }
+    }
+
+    // Submit form normally so server renders result page
+    form.addEventListener('submit', function(e) {
+        if (selectedFiles.length === 0) {
+            e.preventDefault();
+            alert('Please select at least one file to convert.');
+            return;
+        }
+
+        // Show hero progress bar (#progress)
+        try {
+            var heroProgress = document.getElementById('progress');
+            var heroBar = document.getElementById('progressbar');
+            if (heroProgress && heroBar) {
+                heroProgress.style.visibility = 'visible';
+                let hero = 0;
+                const heroTimer = setInterval(() => {
+                    hero = Math.min(hero + Math.random() * 7 + 3, 90);
+                    heroBar.style.width = hero + '%';
+                    heroBar.innerHTML = Math.round(hero) + '%';
+                    if (hero >= 90) clearInterval(heroTimer);
+                }, 250);
+                window.addEventListener('beforeunload', () => clearInterval(heroTimer));
+            }
+        } catch (_) {}
+
+        // Show upload progress container in component
+        try {
+            progressContainer.style.display = 'block';
+            progressText.textContent = 'Uploading...';
+            let current = 0;
+            const timer = setInterval(() => {
+                current = Math.min(current + Math.random() * 8 + 2, 90);
+                progressBar.style.width = current + '%';
+                progressPercent.textContent = Math.round(current) + '%';
+                if (current >= 90) clearInterval(timer);
+            }, 250);
+            window.addEventListener('beforeunload', () => clearInterval(timer));
+        } catch (_) {}
+
+        // Reveal per-file progress blocks and status labels
+        try {
+            const items = document.querySelectorAll('.file-item');
+            items.forEach((it) => {
+                const ps = it.querySelector('.file-progress');
+                const st = it.querySelector('.file-status');
+                if (ps) ps.style.display = 'block';
+                if (st) { st.style.display = 'block'; st.textContent = 'Uploading'; st.className = 'file-status uploading'; }
+            });
+        } catch (_) {}
+    });
+
+    function formatFileSize(bytes) {
+        if (bytes === 0) return '0 Bytes';
+        const k = 1024;
+        const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+        const i = Math.floor(Math.log(bytes) / Math.log(k));
+        return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+    }
+});
+</script>

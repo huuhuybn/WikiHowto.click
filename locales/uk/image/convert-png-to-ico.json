@@ -1,0 +1,239 @@
+{
+  "lang": "uk",
+  "lang_name": "Українська",
+  "title": "Конвертер PNG в ICO - Безкоштовно та Онлайн | WikiHowTo.click",
+  "sub_title": "Конвертуйте зображення PNG в формат ICO онлайн для фавіконів та значків на робочому столі. Безкоштовно, швидко та без водяних знаків.",
+  "hint": "Завантажте своє зображення PNG, щоб почати конвертацію...",
+  "btn_download": "Конвертувати в ICO",
+  "btn_paste": "Завантажити PNG",
+  "btn_clear": "Очистити",
+  "converter": {
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Перетворіть свій <strong>PNG в ICO</strong> для ідеальних фавіконів та значків на робочому столі! Наш безкоштовний конвертер PNG в ICO створює професійні значки різних розмірів, які виглядають чітко в усіх браузерах та на робочих столах Windows.</p><p>Файли ICO можуть об'єднувати кілька розмірів в одному файлі (наприклад, 16–256 пікселів), що ідеально підходить для фавіконів та значків додатків/ярликів. Прозорість з PNG зберігається для плавних країв на темних/світлих фонах.</p>",
+  "head": {
+    "title": "Конвертуйте PNG в ICO Онлайн - Безкоштовний конвертер PNG в ICO | WikiHowTo.click",
+    "description": "Конвертуйте PNG в ICO онлайн для фавіконів та значків на робочому столі. Безкоштовний, швидкий та безпечний інструмент конвертації PNG в ICO.",
+    "keywords": "png в ico, конвертувати png в ico, безкоштовний png в ico, онлайн конвертер ico, створювач фавіконів",
+    "canonical": "https://wikihowto.click/uk/convert/png-to-ico",
+    "og_title": "Конвертер PNG в ICO - Безкоштовно та Онлайн",
+    "og_description": "Конвертуйте зображення PNG в формат ICO для фавіконів та значків на робочому столі. 100% безкоштовно, швидко та безпечно.",
+    "og_url": "https://wikihowto.click/uk/convert/png-to-ico",
+    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Безкоштовний онлайн конвертер PNG в ICO",
+    "twitter_description": "Конвертуйте PNG в ICO для фавіконів та значків на робочому столі. Працює на всіх пристроях.",
+    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Конвертуйте PNG в ICO Онлайн",
+    "description": "Безкоштовний та швидкий конвертер PNG в ICO для фавіконів та значків на робочому столі. Працює миттєво на будь-якому пристрої, реєстрація не потрібна."
+  },
+  "h2": [
+    {
+      "title": "Чому конвертувати PNG в ICO?",
+      "description": "<p>ICO створено для значків:</p><ul><li><strong>Підтримка кількох розмірів:</strong> Об'єднуйте варіанти 16–256 пікселів в одному файлі.</li><li><strong>Стандарт фавіконів:</strong> Визнано основними браузерами.</li><li><strong>Сумісність з Windows:</strong> Рідний формат значків для робочого столу/додатків.</li><li><strong>Прозорість:</strong> Плавні краї з збереженою альфа-прозорістю PNG.</li></ul>"
+    },
+    {
+      "title": "Як конвертувати PNG в ICO онлайн",
+      "description": "<ol><li>Натисніть <em>Завантажити PNG</em> та виберіть своє зображення.</li><li>Зачекайте на обробку та оптимізацію.</li><li>Натисніть <em>Завантажити ICO</em>, щоб зберегти свій значок.</li></ol><p>Ми автоматично генеруємо загальні розміри значків.</p>"
+    },
+    {
+      "title": "Специфікації формату ICO",
+      "description": "<ul><li><strong>Стандартні розміри:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 пікселів</li><li><strong>Глибина кольору:</strong> До 32-бітного RGBA</li><li><strong>Прозорість:</strong> Повний альфа-канал</li><li><strong>Структура:</strong> Заголовок + кілька записів зображень</li><li><strong>Стиснення:</strong> Записи з стисненням PNG для 32-бітних значків (Vista+)</li></ul>"
+    },
+    {
+      "title": "Підтримувані обмеження та формати",
+      "description": "<ul><li><strong>Прийняті вхідні дані:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальний розмір файлу:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вихід:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Усунення неполадок",
+      "description": "<ul><li><strong>Фавікон не відображається:</strong> Очистіть кеш і переконайтеся, що <code>/favicon.ico</code> знаходиться в корені сайту з <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Зубчасті краї:</strong> Почніть з більшого, висококонтрастного PNG; зменшуйте розмір акуратно.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що PNG ≤ 16&nbsp;МБ.</li></ul>"
+    },
+    {
+      "title": "Особливості нашого конвертера PNG в ICO",
+      "description": "<ul><li>100% безкоштовно без водяних знаків</li><li>Автоматична оптимізація розміру</li><li>Збереження прозорості</li><li>Безпечна обробка</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Цей конвертер PNG в ICO безкоштовний?",
+      "answer": "Так, конвертер абсолютно безкоштовний, без прихованих платежів або підписок."
+    },
+    {
+      "question": "Які розміри підтримуються у файлах ICO?",
+      "answer": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
+    },
+    {
+      "question": "Чи можу я використовувати файли ICO для фавіконів вебсайту?",
+      "answer": "Так. <code>favicon.ico</code> широко підтримується основними браузерами."
+    },
+    {
+      "question": "Які розміри файлів підтримуються?",
+      "answer": "Ви можете завантажувати зображення до 16&nbsp;МБ на файл."
+    },
+    {
+      "question": "Чи безпечні мої файли?",
+      "answer": "Файли обробляються автоматично і не зберігаються довше, ніж необхідно для конвертації."
+    },
+    {
+      "question": "Чи буде якість значка хорошою?",
+      "answer": "Ми зберігаємо прозорість PNG і генеруємо кілька розмірів для чіткого відображення на малих розмірах."
+    }
+  ],
+  "note": "Для найкращих результатів використовуйте чіткий, висококонтрастний PNG. Розмістіть <code>/favicon.ico</code> в корені вашого сайту та посилайтеся на нього з <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Конвертувати JPG в ICO",
+      "url": "/uk/convert/jpg-to-ico"
+    },
+    {
+      "title": "Конвертувати BMP в ICO",
+      "url": "/uk/convert/bmp-to-ico"
+    },
+    {
+      "title": "Конвертувати SVG в ICO",
+      "url": "/uk/convert/svg-to-ico"
+    },
+    {
+      "title": "Конвертувати ICO в PNG",
+      "url": "/uk/convert/ico-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Усі права захищені.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Конвертер PNG в ICO - Безкоштовно та Онлайн",
+      "url": "https://wikihowto.click/uk/convert/png-to-ico",
+      "description": "Безкоштовний онлайн інструмент для конвертації зображень PNG в ICO для фавіконів та значків на робочому столі Windows.",
+      "inLanguage": "uk",
+      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Головна",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Конвертувати",
+          "item": "https://wikihowto.click/uk/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG в ICO",
+          "item": "https://wikihowto.click/uk/convert/png-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Конвертер PNG в ICO",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/uk/convert/png-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Набір значків різних розмірів",
+        "Збереження прозорості",
+        "Швидка обробка"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Цей конвертер PNG в ICO безкоштовний?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так, конвертер абсолютно безкоштовний, без прихованих платежів або підписок."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Які розміри файлів підтримуються?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ви можете завантажувати зображення до 16 МБ на файл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Які розміри підтримуються у файлах ICO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Як конвертувати PNG в ICO",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Натисніть Завантажити PNG та виберіть своє зображення."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Зачекайте, поки обробка завершиться."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Натисніть Завантажити ICO, щоб зберегти свій значок."
+        }
+      ],
+      "tool": [
+        "Конвертер PNG в ICO"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

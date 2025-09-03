@@ -1,0 +1,66 @@
+{
+  "lang": "en",
+  "lang_name": "English",
+  "title": "Merge JPG to PDF - Free & Online | WikiHowTo.click",
+  "sub_title": "Combine multiple JPG images into a single PDF document online. High quality, clean layout, and no watermarks.",
+  "hint": "Upload your JPG images (single or multiple)...",
+  "btn_download": "Merge to PDF",
+  "btn_paste": "Upload JPGs",
+  "btn_clear": "Clear",
+  "converter": {
+    "type": "image-to-pdf",
+    "inputFormat": "JPG",
+    "outputFormat": "PDF",
+    "apiEndpoint": "/image-converter/convert-multi",
+    "allowedTypes": ["image/jpeg", "image/jpg"],
+    "maxFileSize": 104857600,
+    "outputMimeType": "application/pdf",
+    "outputExtension": ".pdf",
+    "quality": 90,
+    "options": {
+      "pdf": {
+        "merge": true,
+        "order": "upload",
+        "pageSize": "A4",
+        "margin": 20,
+        "fitToPage": true
+      }
+    }
+  },
+  "description": "<p><strong>Merge JPG to PDF</strong> quickly and easily! Our free online JPG to PDF tool lets you combine multiple JPG images into one clean, professional PDF. Perfect for assignments, reports, receipts, and scanned pages. Upload images in the right order and get a ready-to-share PDF instantly.</p><p>No signup, no watermarks. Secure processing with automatic file deletion after conversion.</p>",
+  "head": {
+    "title": "Merge JPG to PDF Online - Free JPG to PDF Merger | WikiHowTo.click",
+    "description": "Combine multiple JPG images into a single PDF document online. Free, fast, and secure JPG to PDF merger.",
+    "keywords": "merge jpg to pdf, combine jpg to pdf, jpg to pdf merger, jpg to pdf online",
+    "canonical": "https://wikihowto.click/en/convert/merge-jpg-to-pdf",
+    "og_title": "Merge JPG to PDF - Free & Online",
+    "og_description": "Combine JPG images into one PDF with clean layout. 100% free, secure, and no watermarks.",
+    "og_url": "https://wikihowto.click/en/convert/merge-jpg-to-pdf",
+    "og_image": "https://wikihowto.click/images/merge-jpg-to-pdf.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Free JPG to PDF Merger Online",
+    "twitter_description": "Merge multiple JPGs into a single PDF document online.",
+    "twitter_image": "https://wikihowto.click/images/merge-jpg-to-pdf.jpg"
+  },
+  "h1": {
+    "title": "Merge JPG to PDF Online",
+    "description": "Free JPG to PDF merger with high quality and clean layout. Supports multiple images and preserves upload order."
+  },
+  "h2": [
+    {
+      "title": "How to Merge JPG to PDF",
+      "description": "<ol><li>Click <em>Upload JPGs</em> and select multiple images.</li><li>Arrange them in your desired order.</li><li>Click <em>Merge to PDF</em> to download your combined document.</li></ol>"
+    },
+    {
+      "title": "Why Use Our JPG to PDF Merger?",
+      "description": "<ul><li><strong>Clean Layout:</strong> Proper margins and page fit.</li><li><strong>Batch Ready:</strong> Upload many images at once.</li><li><strong>Privacy First:</strong> Auto-deletion after conversion.</li><li><strong>No Watermarks:</strong> Professional documents every time.</li></ul>"
+    }
+  ],
+  "faq": [
+    { "question": "Is merging JPG to PDF free?", "answer": "Yes, completely free with no watermarks." },
+    { "question": "Can I control the image order?", "answer": "Yes, images are merged in the upload order by default." },
+    { "question": "What file size is supported?", "answer": "You can upload up to 100MB per conversion." }
+  ],
+  "note": "Note: Large files or many images may take longer to process. Upload order is preserved to keep your document organized.",
+  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+}

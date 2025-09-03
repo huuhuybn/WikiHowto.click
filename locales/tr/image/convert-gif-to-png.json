@@ -1,0 +1,244 @@
+{
+  "lang": "tr",
+  "lang_name": "Türkçe",
+  "title": "GIF'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi | WikiHowTo.click",
+  "sub_title": "GIF görüntülerini çevrimiçi olarak şeffaflık desteği ile, yüksek kalitede ve su işareti olmadan PNG formatına dönüştürün.",
+  "hint": "Dönüştürmeye başlamak için GIF görüntünüzü yükleyin...",
+  "btn_download": "PNG'ye Dönüştür",
+  "btn_paste": "GIF Yükle",
+  "btn_clear": "Temizle",
+  "converter": {
+    "type": "gif-to-png",
+    "inputFormat": "GIF",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/gif"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p>GIF'inizi <strong>PNG'ye</strong> daha yüksek sadakat ve tam şeffaflık desteği için dönüştürün. Ücretsiz çevrimiçi dönüştürücümüz, animasyonlu veya statik GIF'leri yüksek kaliteli PNG görüntülerine dönüştürür. GIF basit animasyonlar için harika olsa da, PNG üstün renk derinliği, daha iyi şeffaflık ve keskin statik grafikler için kayıpsız sıkıştırma sunar.</p><p><strong>Not:</strong> Animasyonlu GIF'ler <em>tek bir statik görüntüye</em> (ilk kare) dönüştürülür. Animasyonlu çıktı için <a href='/tr/convert/gif-to-webp'>GIF'den WebP'ye</a> deneyin.</p>",
+  "head": {
+    "title": "Çevrimiçi GIF'den PNG'ye Dönüştür - Ücretsiz GIF'den PNG'ye Dönüştürücü | WikiHowTo.click",
+    "description": "Şeffaflık desteği ile, yüksek kalitede ve su işareti olmadan çevrimiçi GIF'den PNG'ye dönüştürün. Ücretsiz, hızlı ve güvenli GIF'den PNG'ye dönüştürücü aracı.",
+    "keywords": "gif'den png'ye, gif'i png'ye dönüştür, ücretsiz gif'den png'ye, çevrimiçi gif dönüştürücü, şeffaf görüntüler",
+    "canonical": "https://wikihowto.click/tr/convert/gif-to-png",
+    "og_title": "GIF'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
+    "og_description": "GIF görüntülerini şeffaflık desteği ve yüksek kalite ile PNG formatına dönüştürün. %100 ücretsiz, hızlı ve güvenli.",
+    "og_url": "https://wikihowto.click/tr/convert/gif-to-png",
+    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Ücretsiz GIF'den PNG'ye Dönüştürücü Çevrimiçi",
+    "twitter_description": "Şeffaflık desteği ile, yüksek kalitede ve su işareti olmadan GIF'i PNG'ye dönüştürün. Tüm cihazlarda çalışır.",
+    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
+  },
+  "h1": {
+    "title": "Çevrimiçi GIF'den PNG'ye Dönüştür",
+    "description": "Şeffaflık desteği ve yüksek kalitede ücretsiz ve hızlı GIF'den PNG'ye dönüştürücü. Herhangi bir cihazda anında çalışır, kayıt gerektirmez."
+  },
+  "h2": [
+    {
+      "title": "Neden GIF'i PNG'ye Dönüştürmeliyim?",
+      "description": "<p>GIF 256 renkle sınırlıdır ve basit animasyonlar için uygundur. PNG, yüksek kaliteli statik görüntüler için idealdir:</p><ul><li><strong>Daha Yüksek Kalite:</strong> Gerçek renk (24-bit) + alfa, GIF'in 8-bit paleti karşısında.</li><li><strong>Şeffaflık:</strong> PNG, pürüzsüz kenarlar için tam alfa şeffaflığını destekler.</li><li><strong>Kayıpsız Sıkıştırma:</strong> PNG, kalite kaybı olmadan detayları korur.</li><li><strong>Evrensel Uyumluluk:</strong> Uygulamalar ve platformlar arasında yaygın olarak desteklenir.</li></ul>"
+    },
+    {
+      "title": "GIF'i Çevrimiçi Olarak Nasıl PNG'ye Dönüştürürüm",
+      "description": "<ol><li><em>GIF Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlemin tamamlanmasını bekleyin.</li><li>Sonucu kaydetmek için <em>PNG'yi İndir</em> butonuna tıklayın.</li></ol><p>Animasyonlu GIF'ler: yalnızca ilk kare PNG olarak dışa aktarılır.</p>"
+    },
+    {
+      "title": "GIF ve PNG: Temel Farklar",
+      "description": "<table class='table-compare'><thead><tr><th>Özellik</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Renk derinliği</td><td>8-bit (256 renk)</td><td>Gerçek renk (24-bit) + alfa</td></tr><tr><td>Şeffaflık</td><td>1-bit maske (açık/kapalı)</td><td>Tam alfa şeffaflığı</td></tr><tr><td>Sıkıştırma</td><td>Kayıpsız (LZW)</td><td>Kayıpsız (DEFLATE)</td></tr><tr><td>Animasyon</td><td>Destekleniyor</td><td>Desteklenmiyor (statik)</td></tr><tr><td>En iyi kullanım alanları</td><td>Basit animasyonlar, çıkartmalar</td><td>Logolar, UI, ekran görüntüleri, statik grafikler</td></tr></tbody></table>"
+    },
+    {
+      "title": "Desteklenen Sınırlar ve Formatlar",
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "GIF'den PNG'ye Dönüştürücümüzün Özellikleri",
+      "description": "<ul><li>%100 ücretsiz, su işareti yok</li><li>Varlık halinde şeffaflığı korur</li><li>Kayıpsız PNG çıktısı</li><li>Mobil uyumlu arayüz</li></ul>"
+    },
+    {
+      "title": "GIF Nedir?",
+      "description": "<p>GIF (Grafik Değişim Formatı), temel animasyonu destekler ve kayıpsız LZW sıkıştırması kullanır, ancak 256 renk paleti ile sınırlıdır.</p>"
+    },
+    {
+      "title": "PNG Nedir?",
+      "description": "<p>PNG (Taşınabilir Ağ Grafikleri), gerçek renk ve alfa şeffaflığını destekleyen kayıpsız bir formattır - yüksek kaliteli statik görüntüler için idealdir.</p>"
+    },
+    {
+      "title": "Sorun Giderme",
+      "description": "<ul><li><strong>Yükleme başarısız oldu:</strong> Dosyanın GIF olduğundan ve ≤ 16&nbsp;MB olduğundan emin olun.</li><li><strong>Pürüzlü şeffaflık kenarları:</strong> GIF'in 1-bit şeffaflığı sert görünebilir; <a href='/tr/effect/remove-background'>Arka Plan Kaldırıcı</a> ile düzeltin.</li><li><strong>Animasyona ihtiyacım var:</strong> Hareketi korumak için <a href='/tr/convert/gif-to-webp'>GIF'den WebP'ye</a> kullanın.</li></ul>"
+    },
+    {
+      "title": "Kullanım Durumları: Ne Zaman GIF'i PNG'ye Dönüştürmeliyim",
+      "description": "<ul><li><strong>Pürüzsüz şeffaflık</strong> gerektiren logolar ve simgeler.</li><li><strong>Keskin metin ve çizgiler</strong> gerektiren ekran görüntüleri/UI.</li><li><strong>Yüksek kalitede</strong> statik kareleri arşivleme.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu GIF'den PNG'ye dönüştürücü ücretsiz mi?",
+      "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+    },
+    {
+      "question": "PNG, GIF'den şeffaflığı korur mu?",
+      "answer": "Evet. GIF'in 1-bit şeffaf alanları PNG'de şeffaf kalır; daha pürüzsüz kenarlar için dönüşümden sonra alfa kanalını düzenleyin."
+    },
+    {
+      "question": "Animasyonlu GIF'lere ne olur?",
+      "answer": "Yalnızca ilk kare statik bir PNG görüntüsüne dönüştürülür. Animasyonu korumak için GIF'den WebP'ye kullanın."
+    },
+    {
+      "question": "GIF'i PNG'ye dönüştürürken kalite kaybı yaşar mıyım?",
+      "answer": "Hayır. PNG kayıpsız sıkıştırma kullanır ve tam renk desteği sunar, genellikle 256 renkli GIF'e göre görsel sadakati artırır."
+    },
+    {
+      "question": "Hangi dosya boyutları destekleniyor?",
+      "answer": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+    },
+    {
+      "question": "Dosyalarım güvende mi?",
+      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
+    },
+    {
+      "question": "Birden fazla GIF dosyasını aynı anda dönüştürebilir miyim?",
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+    }
+  ],
+  "note": "Animasyonlu GIF'ler statik PNG'lere dönüşür (ilk kare). Animasyonlu çıktı için GIF'i WebP'ye dönüştürün.",
+  "related_links": [
+    {
+      "title": "GIF'i JPG'ye Dönüştür",
+      "url": "/tr/convert/gif-to-jpg"
+    },
+    {
+      "title": "PNG'yi GIF'e Dönüştür",
+      "url": "/tr/convert/png-to-gif"
+    },
+    {
+      "title": "GIF'i WebP'ye Dönüştür",
+      "url": "/tr/convert/gif-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "GIF'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
+      "url": "https://wikihowto.click/tr/convert/gif-to-png",
+      "description": "GIF görüntülerini kayıpsız sıkıştırma ve şeffaflık desteği ile PNG'ye dönüştürmek için ücretsiz çevrimiçi araç.",
+      "inLanguage": "tr",
+      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dönüştür",
+          "item": "https://wikihowto.click/tr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GIF'den PNG'ye",
+          "item": "https://wikihowto.click/tr/convert/gif-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "GIF'den PNG'ye Dönüştürücü",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/tr/convert/gif-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Kayıpsız PNG çıktısı",
+        "Şeffaflık desteği",
+        "Hızlı işlem"
+      ],
+      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu GIF'den PNG'ye dönüştürücü ücretsiz mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Animasyonlu GIF'lere ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yalnızca ilk kare statik bir PNG görüntüsüne dönüştürülür. Animasyonu korumak için GIF'den WebP'ye kullanın."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hangi dosya boyutları destekleniyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "GIF'i PNG'ye nasıl dönüştürülür",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "GIF Yükle butonuna tıklayın ve dosyanızı seçin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "İşlemin tamamlanmasını bekleyin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sonucu kaydetmek için PNG'yi İndir butonuna tıklayın."
+        }
+      ],
+      "tool": [
+        "GIF'den PNG'ye Dönüştürücü"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

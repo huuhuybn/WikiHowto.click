@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <!-- Twitter/X brand gradient -->
+        <linearGradient id="twitterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1DA1F2"/>
+            <stop offset="50%" stop-color="#0D8BD9"/>
+            <stop offset="100%" stop-color="#0A7BC7"/>
+        </linearGradient>
+        
+        <!-- Modern shadow -->
+        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.2"/>
+        </filter>
+    </defs>
+    
+    <!-- Background with rounded corners -->
+    <rect width="64" height="64" rx="16" fill="url(#twitterGradient)" filter="url(#shadow)"/>
+    
+    <!-- Download arrow with Twitter-inspired design -->
+    <g transform="translate(32, 32)">
+        <!-- Main download arrow -->
+        <path d="M-8 -8 L0 8 L8 -8" 
+              fill="none" 
+              stroke="#FFFFFF" 
+              stroke-width="3" 
+              stroke-linecap="round" 
+              stroke-linejoin="round"/>
+        
+        <!-- Vertical line -->
+        <line x1="0" y1="-12" x2="0" y2="8" 
+              stroke="#FFFFFF" 
+              stroke-width="3" 
+              stroke-linecap="round"/>
+    </g>
+    
+    <!-- Social media dots pattern -->
+    <g opacity="0.3">
+        <circle cx="16" cy="16" r="2" fill="#FFFFFF"/>
+        <circle cx="48" cy="16" r="2" fill="#FFFFFF"/>
+        <circle cx="16" cy="48" r="2" fill="#FFFFFF"/>
+        <circle cx="48" cy="48" r="2" fill="#FFFFFF"/>
+    </g>
+    
+    <!-- Subtle inner glow -->
+    <rect width="64" height="64" rx="16" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+</svg>

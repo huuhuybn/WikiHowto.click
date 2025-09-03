@@ -1,0 +1,66 @@
+{
+  "lang": "en",
+  "lang_name": "English",
+  "title": "Combine PNG to PDF - Free Online Tool | WikiHowTo.click",
+  "sub_title": "Merge multiple PNG images into a single PDF online. Fast, high quality, and no watermarks.",
+  "hint": "Upload your PNG images (multiple files supported)...",
+  "btn_download": "Combine to PDF",
+  "btn_paste": "Upload PNGs",
+  "btn_clear": "Clear",
+  "converter": {
+    "type": "image-to-pdf",
+    "inputFormat": "PNG",
+    "outputFormat": "PDF",
+    "apiEndpoint": "/image-converter/convert-multi",
+    "allowedTypes": ["image/png"],
+    "maxFileSize": 104857600,
+    "outputMimeType": "application/pdf",
+    "outputExtension": ".pdf",
+    "quality": 90,
+    "options": {
+      "pdf": {
+        "merge": true,
+        "order": "upload",
+        "pageSize": "A4",
+        "margin": 20,
+        "fitToPage": true
+      }
+    }
+  },
+  "description": "<p><strong>Combine PNG to PDF</strong> quickly and securely with our free online tool. Upload multiple PNG images and merge them into one polished PDF document in seconds. Perfect for scanned pages, notes, forms, receipts, and projects.</p><p>No sign-up, no watermark. All files are automatically deleted after conversion for your privacy.</p>",
+  "head": {
+    "title": "Combine PNG to PDF Online - Free PNG Merger | WikiHowTo.click",
+    "description": "Free PNG to PDF combiner. Merge multiple PNG images into a single PDF document online. Fast, secure, and no watermarks.",
+    "keywords": "combine png to pdf, merge png to pdf, png merger, png to pdf online, png pdf converter",
+    "canonical": "https://wikihowto.click/en/convert/combine-png-to-pdf",
+    "og_title": "Combine PNG to PDF - Free & Online",
+    "og_description": "Merge PNG images into one clean PDF file online. 100% free, secure, and watermark-free.",
+    "og_url": "https://wikihowto.click/en/convert/combine-png-to-pdf",
+    "og_image": "https://wikihowto.click/images/combine-png-to-pdf.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Free PNG to PDF Combiner Online",
+    "twitter_description": "Easily merge multiple PNGs into a single PDF file online.",
+    "twitter_image": "https://wikihowto.click/images/combine-png-to-pdf.jpg"
+  },
+  "h1": {
+    "title": "Combine PNG to PDF Online",
+    "description": "Free PNG to PDF combiner with high quality and clean layout. Supports multiple images and preserves upload order."
+  },
+  "h2": [
+    {
+      "title": "How to Combine PNG to PDF",
+      "description": "<p>Just 3 simple steps:</p><ol><li>Click <em>Upload PNGs</em> and choose multiple images.</li><li>Arrange them in the correct order.</li><li>Click <em>Combine to PDF</em> to download your file.</li></ol>"
+    },
+    {
+      "title": "Why Choose Our PNG to PDF Tool?",
+      "description": "<ul><li><strong>Clean Layout:</strong> Proper margins and fit-to-page support.</li><li><strong>Batch Upload:</strong> Combine many PNGs at once.</li><li><strong>Privacy First:</strong> Files auto-deleted after conversion.</li><li><strong>No Watermarks:</strong> Get professional-quality results.</li></ul>"
+    }
+  ],
+  "faq": [
+    { "question": "Is combining PNGs into one PDF free?", "answer": "Yes, completely free and watermark-free." },
+    { "question": "Can I control the order of images?", "answer": "Yes, the upload order is preserved and you can rearrange if needed." },
+    { "question": "What’s the upload limit?", "answer": "Up to 100MB per upload is supported." }
+  ],
+  "note": "Note: This tool supports multi-image merging into a single PDF. For large files or many images, processing time may be longer.",
+  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+}

@@ -1,0 +1,85 @@
+{
+  "lang": "en",
+  "lang_name": "English",
+  "title": "TIFF to PDF Converter - Free & Online | WikiHowTo.click",
+  "sub_title": "Convert TIFF images to PDF documents online with high quality, clean layout, and no watermarks.",
+  "hint": "Upload your TIFF files (single or multiple) to start converting...",
+  "btn_download": "Convert to PDF",
+  "btn_paste": "Upload TIFF",
+  "btn_clear": "Clear",
+  "converter": {
+    "type": "tiff-to-pdf",
+    "inputFormat": "TIFF",
+    "outputFormat": "PDF",
+    "apiEndpoint": "/image-converter/convert-multi",
+    "allowedTypes": ["image/tiff"],
+    "maxFileSize": 52428800,
+    "maxFiles": 10,
+    "outputMimeType": "application/pdf",
+    "outputExtension": ".pdf",
+    "quality": 90,
+    "options": {
+      "pdf": {
+        "merge": true,
+        "order": "upload",
+        "pageSize": "A4",
+        "margin": 20,
+        "fitToPage": true
+      }
+    },
+    "features": [
+      "High-quality PDF conversion",
+      "Fast processing",
+      "Supports multiple TIFF files",
+      "Free online tool"
+    ]
+  },
+  "description": "<p>Convert <strong>TIFF to PDF</strong> easily with our free online tool. Upload one or multiple TIFF images and get a polished, professional PDF in seconds—ideal for scanned documents, medical imaging, archives, and reports.</p><p>No signup required, no watermarks. Secure processing with automatic file deletion after conversion.</p>",
+  "head": {
+    "title": "Convert TIFF to PDF Online - Free TIFF to PDF Converter | WikiHowTo.click",
+    "description": "Free TIFF to PDF converter. Merge TIFF images into a single, high-quality PDF document online. Fast, secure, and watermark-free.",
+    "keywords": "tiff to pdf, convert tiff to pdf, free tiff to pdf, image to pdf, scanned image to pdf",
+    "canonical": "https://wikihowto.click/en/convert/tiff-to-pdf",
+    "og_title": "TIFF to PDF Converter - Free & Online",
+    "og_description": "Convert TIFF images into high-quality PDFs. Merge multiple TIFFs into one document. 100% free, fast, and secure.",
+    "og_url": "https://wikihowto.click/en/convert/tiff-to-pdf",
+    "og_image": "https://wikihowto.click/images/tiff-to-pdf.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Free TIFF to PDF Converter Online",
+    "twitter_description": "Convert TIFF images to professional PDF files with clean layout and high quality.",
+    "twitter_image": "https://wikihowto.click/images/tiff-to-pdf.jpg"
+  },
+  "h1": {
+    "title": "Convert TIFF to PDF Online",
+    "description": "Free and fast TIFF to PDF converter with professional layout. Supports multiple files and preserves order."
+  },
+  "h2": [
+    {
+      "title": "Why Convert TIFF to PDF?",
+      "description": "<ul><li><strong>Document Archiving:</strong> Convert scanned TIFFs into PDF for long-term storage.</li><li><strong>Professional Layout:</strong> Clean margins and fit-to-page scaling.</li><li><strong>Multi-File Support:</strong> Merge multiple TIFF images into one PDF.</li><li><strong>Universal Compatibility:</strong> PDF opens on all devices with consistent layout.</li></ul>"
+    },
+    {
+      "title": "How to Convert TIFF to PDF Online",
+      "description": "<ol><li>Click <em>Upload TIFF</em> and select your files.</li><li>Arrange them in the correct order.</li><li>Click <em>Convert to PDF</em> and download your document instantly.</li></ol><p>Batch uploads supported with automatic merging into a single PDF.</p>"
+    },
+    {
+      "title": "Features of Our TIFF to PDF Converter",
+      "description": "<ul><li>100% Free, no watermarks</li><li>High-quality, print-ready output</li><li>Batch uploads & merging</li><li>Secure file handling with encryption</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+    }
+  ],
+  "faq": [
+    { "question": "Is this TIFF to PDF converter free?", "answer": "Yes, it’s completely free with no watermarks or hidden fees." },
+    { "question": "Can I upload multiple TIFFs?", "answer": "Yes, you can upload up to 10 TIFF files and merge them into a single PDF." },
+    { "question": "What file size is supported?", "answer": "Each file can be up to 50MB in size." },
+    { "question": "Will my PDF be print-ready?", "answer": "Yes, PDFs are optimized with margins and scaling for printing." },
+    { "question": "Are my files secure?", "answer": "Yes, all files are encrypted during upload, processed securely, and auto-deleted after conversion." }
+  ],
+  "note": "Note: Multi-page TIFFs will be split into separate pages in the resulting PDF. Ensure your viewer supports them for best results.",
+  "result_actions": {
+    "title": "TIFF to PDF Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another TIFF",
+    "quick_conversions": "Quick Conversions:"
+  },
+  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+}

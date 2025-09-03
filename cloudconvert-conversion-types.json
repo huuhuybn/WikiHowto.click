@@ -1,0 +1,401 @@
+[
+  {
+    "type": "7z-to-rar",
+    "group": "archive",
+    "input": "7z",
+    "output": "rar",
+    "engine": "archivetool"
+  },
+  {
+    "type": "7z-to-tar",
+    "group": "archive",
+    "input": "7z",
+    "output": "tar",
+    "engine": "archivetool"
+  },
+  {
+    "type": "7z-to-zip",
+    "group": "archive",
+    "input": "7z",
+    "output": "zip",
+    "engine": "archivetool"
+  },
+  {
+    "type": "rar-to-7z",
+    "group": "archive",
+    "input": "rar",
+    "output": "7z",
+    "engine": "archivetool"
+  },
+  {
+    "type": "rar-to-zip",
+    "group": "archive",
+    "input": "rar",
+    "output": "zip",
+    "engine": "archivetool"
+  },
+  {
+    "type": "zip-to-7z",
+    "group": "archive",
+    "input": "zip",
+    "output": "7z",
+    "engine": "archivetool"
+  },
+  {
+    "type": "zip-to-rar",
+    "group": "archive",
+    "input": "zip",
+    "output": "rar",
+    "engine": "archivetool"
+  },
+  {
+    "type": "m4a-to-mp3",
+    "group": "audio",
+    "input": "m4a",
+    "output": "mp3",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mp3-to-aac",
+    "group": "audio",
+    "input": "mp3",
+    "output": "aac",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mp3-to-wav",
+    "group": "audio",
+    "input": "mp3",
+    "output": "wav",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "ogg-to-mp3",
+    "group": "audio",
+    "input": "ogg",
+    "output": "mp3",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "wav-to-flac",
+    "group": "audio",
+    "input": "wav",
+    "output": "flac",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "wav-to-mp3",
+    "group": "audio",
+    "input": "wav",
+    "output": "mp3",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "eot-to-woff",
+    "group": "font",
+    "input": "eot",
+    "output": "woff",
+    "engine": "fonttool"
+  },
+  {
+    "type": "otf-to-ttf",
+    "group": "font",
+    "input": "otf",
+    "output": "ttf",
+    "engine": "fonttool"
+  },
+  {
+    "type": "ttf-to-woff",
+    "group": "font",
+    "input": "ttf",
+    "output": "woff",
+    "engine": "fonttool"
+  },
+  {
+    "type": "ttf-to-woff2",
+    "group": "font",
+    "input": "ttf",
+    "output": "woff2",
+    "engine": "fonttool"
+  },
+  {
+    "type": "woff-to-ttf",
+    "group": "font",
+    "input": "woff",
+    "output": "ttf",
+    "engine": "fonttool"
+  },
+  {
+    "type": "woff2-to-ttf",
+    "group": "font",
+    "input": "woff2",
+    "output": "ttf",
+    "engine": "fonttool"
+  },
+  {
+    "type": "avif-to-png",
+    "group": "image",
+    "input": "avif",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "bmp-to-png",
+    "group": "image",
+    "input": "bmp",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "gif-to-png",
+    "group": "image",
+    "input": "gif",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "heic-to-jpg",
+    "group": "image",
+    "input": "heic",
+    "output": "jpg",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "jpg-to-ico",
+    "group": "image",
+    "input": "jpg",
+    "output": "ico",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "jpg-to-png",
+    "group": "image",
+    "input": "jpg",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "jpg-to-webp",
+    "group": "image",
+    "input": "jpg",
+    "output": "webp",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "png-to-ico",
+    "group": "image",
+    "input": "png",
+    "output": "ico",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "png-to-jpg",
+    "group": "image",
+    "input": "png",
+    "output": "jpg",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "png-to-webp",
+    "group": "image",
+    "input": "png",
+    "output": "webp",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "svg-to-ico",
+    "group": "image",
+    "input": "svg",
+    "output": "ico",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "svg-to-png",
+    "group": "image",
+    "input": "svg",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "tiff-to-jpg",
+    "group": "image",
+    "input": "tiff",
+    "output": "jpg",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "webp-to-jpg",
+    "group": "image",
+    "input": "webp",
+    "output": "jpg",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "webp-to-png",
+    "group": "image",
+    "input": "webp",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "docx-to-pdf",
+    "group": "office",
+    "input": "docx",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "pdf-to-docx",
+    "group": "office",
+    "input": "pdf",
+    "output": "docx",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "pdf-to-pptx",
+    "group": "office",
+    "input": "pdf",
+    "output": "pptx",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "pdf-to-xlsx",
+    "group": "office",
+    "input": "pdf",
+    "output": "xlsx",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "pptx-to-pdf",
+    "group": "office",
+    "input": "pptx",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "xlsx-to-pdf",
+    "group": "office",
+    "input": "xlsx",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "jpg-to-pdf",
+    "group": "pdf",
+    "input": "jpg",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "pdf-to-jpg",
+    "group": "pdf",
+    "input": "pdf",
+    "output": "jpg",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "pdf-to-png",
+    "group": "pdf",
+    "input": "pdf",
+    "output": "png",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "pdf-to-tiff",
+    "group": "pdf",
+    "input": "pdf",
+    "output": "tiff",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "pdf-to-webp",
+    "group": "pdf",
+    "input": "pdf",
+    "output": "webp",
+    "engine": "imagemagick"
+  },
+  {
+    "type": "png-to-pdf",
+    "group": "pdf",
+    "input": "png",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "tiff-to-pdf",
+    "group": "pdf",
+    "input": "tiff",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "webp-to-pdf",
+    "group": "pdf",
+    "input": "webp",
+    "output": "pdf",
+    "engine": "libreoffice"
+  },
+  {
+    "type": "avi-to-mp4",
+    "group": "video",
+    "input": "avi",
+    "output": "mp4",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "gif-to-mp4",
+    "group": "video",
+    "input": "gif",
+    "output": "mp4",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "jpg-to-gif",
+    "group": "video",
+    "input": "jpg",
+    "output": "gif",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mkv-to-mp4",
+    "group": "video",
+    "input": "mkv",
+    "output": "mp4",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mov-to-mp4",
+    "group": "video",
+    "input": "mov",
+    "output": "mp4",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mp4-to-gif",
+    "group": "video",
+    "input": "mp4",
+    "output": "gif",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "mp4-to-webm",
+    "group": "video",
+    "input": "mp4",
+    "output": "webm",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "png-to-gif",
+    "group": "video",
+    "input": "png",
+    "output": "gif",
+    "engine": "ffmpeg"
+  },
+  {
+    "type": "webm-to-mp4",
+    "group": "video",
+    "input": "webm",
+    "output": "mp4",
+    "engine": "ffmpeg"
+  }
+]

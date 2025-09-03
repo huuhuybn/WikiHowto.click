@@ -1,0 +1,230 @@
+{
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "PNG 轉 JPG 轉換器 - 免費及線上 | WikiHowTo.click",
+  "sub_title": "在線將 PNG 圖像轉換為 JPG 格式，具有高品質、更小的文件大小，且無水印。",
+  "hint": "上傳您的 PNG 圖像以開始轉換...",
+  "btn_download": "轉換為 JPG",
+  "btn_paste": "上傳 PNG",
+  "btn_clear": "清除",
+  "ogImage": "https://wikihowto.click/images/png-to-jpg.jpg",
+  "converter": {
+    "type": "png-to-jpg",
+    "inputFormat": "PNG",
+    "outputFormat": "JPG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/jpeg",
+    "outputExtension": ".jpg",
+    "quality": 90,
+    "options": {
+      "jpeg": {
+        "quality": 90,
+        "progressive": true,
+        "mozjpeg": true
+      }
+    }
+  },
+  "description": "<p>需要將 <strong>PNG 轉換為 JPG</strong> 以獲得更小的文件大小或更廣泛的兼容性嗎？我們的免費在線 PNG 轉 JPG 轉換器可以在幾秒鐘內創建高品質的 JPEG。它在您的瀏覽器中運行，無需註冊，並在處理後自動刪除您的文件以保持私密。</p><p>JPG 非常適合照片和色彩豐富的圖像，提供良好的壓縮和良好的視覺質量。PNG 是無損的（通常文件較大），因此切換到 JPG 有助於減少存儲並加快網頁交付。</p>",
+  "head": {
+    "title": "在線轉換 PNG 為 JPG - 免費 PNG 轉 JPG 轉換器 | WikiHowTo.click",
+    "description": "在線將 PNG 轉換為 JPG，具有高品質、更小的文件大小，且無水印。免費、快速且安全的 PNG 轉 JPG 轉換工具。",
+    "keywords": "png 轉 jpg, 轉換 png 為 jpg, 免費 png 轉 jpg, 在線 png 轉換器, jpg 壓縮",
+    "canonical": "https://wikihowto.click/en/convert/png-to-jpg",
+    "og_title": "PNG 轉 JPG 轉換器 - 免費及線上",
+    "og_description": "將 PNG 圖像轉換為 JPG 格式，具有高品質和更小的文件大小。100% 免費、快速且安全。",
+    "og_url": "https://wikihowto.click/en/convert/png-to-jpg",
+    "og_image": "https://wikihowto.click/images/png-to-jpg.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "免費 PNG 轉 JPG 轉換器在線",
+    "twitter_description": "以高品質、更小的文件大小和無水印將 PNG 轉換為 JPG。適用於所有設備。",
+    "twitter_image": "https://wikihowto.click/images/png-to-jpg.jpg"
+  },
+  "h1": {
+    "title": "在線轉換 PNG 為 JPG",
+    "description": "免費且快速的 PNG 轉 JPG 轉換器，具有高品質和更小的文件大小。可在任何設備上立即使用 - 無需註冊。"
+  },
+  "h2": [
+    {
+      "title": "為什麼要將 PNG 轉換為 JPG？",
+      "description": "<p>PNG 非常適合具有透明度的圖形，但可能會很大。JPG 提供更小的文件和廣泛的兼容性：</p><ul><li><strong>更小的文件大小：</strong>減少存儲並加快頁面加載。</li><li><strong>更好的兼容性：</strong>JPG 在任何地方都能使用。</li><li><strong>適合照片：</strong>非常適合照片和漸變。</li><li><strong>帶寬節省：</strong>為移動/網頁提供更輕的圖像。</li></ul>"
+    },
+    {
+      "title": "如何在線將 PNG 轉換為 JPG",
+      "description": "<ol><li>點擊 <em>上傳 PNG</em> 並選擇您的文件。</li><li>等待處理。</li><li>點擊 <em>下載 JPG</em> 以保存您的圖像。</li></ol><p>質量自動調整，以實現大小和保真度的良好平衡。</p>"
+    },
+    {
+      "title": "獲得更好結果的提示",
+      "description": "<ul><li><strong>質量設置：</strong>對於重要圖像使用 85–90%；對於網頁使用 70–80%。</li><li><strong>透明度：</strong>PNG 的 alpha 在 JPG 中變為實心背景（默認為白色）。</li><li><strong>解析度：</strong>在轉換之前調整大型圖像的大小，以進一步縮小文件。</li><li><strong>網頁性能：</strong>轉換為 JPG 後，考慮 <a href='/en/convert/jpg-to-webp'>JPG → WebP</a> 以獲得額外的節省。</li></ul>"
+    },
+    {
+      "title": "支持的限制和格式",
+      "description": "<ul><li><strong>接受的輸入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>編碼：</strong>通過 mozjpeg 的漸進式 JPEG</li></ul>"
+    },
+    {
+      "title": "故障排除",
+      "description": "<ul><li><strong>透明區域：</strong>JPG 沒有 alpha；背景將是白色。如果您需要透明度，請保留 PNG。</li><li><strong>顏色偏移：</strong>在上傳之前轉換為 sRGB 以獲得一致的網頁顯示。</li><li><strong>仍然太大：</strong>稍微降低質量（80–85%）或調整大小。</li><li><strong>上傳失敗：</strong>確保 PNG 和 ≤ 16&nbsp;MB。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "這個 PNG 轉 JPG 轉換器是免費的嗎？",
+      "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+    {
+      "question": "將 PNG 轉換為 JPG 時會失去透明度嗎？",
+      "answer": "是的。JPG 不支持透明度，因此透明像素變為實心背景（默認為白色）。"
+    },
+    {
+      "question": "圖像在轉換過程中會失去質量嗎？",
+      "answer": "JPG 使用有損壓縮。我們使用高質量設置以最小化可見損失。"
+    },
+    {
+      "question": "支持哪些文件大小？",
+      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
+    },
+    {
+      "question": "我的文件安全嗎？",
+      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
+    },
+    {
+      "question": "我可以一次轉換多個 PNG 嗎？",
+      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
+    },
+    {
+      "question": "我可以在手機上使用這個工具嗎？",
+      "answer": "是的。這個轉換器是移動友好的，並且可以在 iOS 和 Android 瀏覽器上使用。"
+    }
+  ],
+  "note": "JPG 轉換是有損的。如果您可能需要無損或透明度，請保留原始 PNG 的副本。",
+  "related_links": [
+    {
+      "title": "將 PNG 轉換為 WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "將 JPG 轉換為 PNG",
+      "url": "/en/convert/jpg-to-png"
+    },
+    {
+      "title": "在線壓縮 JPG",
+      "url": "/en/compress/jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 版權所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 JPG 轉換器 - 免費及線上",
+      "url": "https://wikihowto.click/en/convert/png-to-jpg",
+      "description": "免費在線工具將 PNG 圖像轉換為 JPG，具有高品質和更小的文件大小。",
+      "inLanguage": "zh-TW",
+      "image": "https://wikihowto.click/images/png-to-jpg.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "轉換",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG 轉 JPG",
+          "item": "https://wikihowto.click/en/convert/png-to-jpg"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG 轉 JPG 轉換器",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/png-to-jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "高品質 JPEG",
+        "漸進式編碼",
+        "快速處理"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-jpg.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "這個 PNG 轉 JPG 轉換器是免費的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持哪些文件大小？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我會失去透明度嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。JPG 不支持透明度；透明像素變為實心背景。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "如何將 PNG 轉換為 JPG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "點擊上傳 PNG 並選擇您的文件。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "等待處理完成。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "點擊下載 JPG 以保存結果。"
+        }
+      ],
+      "tool": [
+        "PNG 轉 JPG 轉換器"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

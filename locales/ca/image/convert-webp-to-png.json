@@ -1,0 +1,237 @@
+{
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor de WebP a PNG - Gratuït i en línia | WikiHowTo.click",
+  "sub_title": "Converteix imatges WebP a format PNG en línia amb suport de transparència, qualitat sense pèrdues i sense marques d'aigua.",
+  "hint": "Puja la teva imatge WebP per començar a convertir...",
+  "btn_download": "Converteix a PNG",
+  "btn_paste": "Puja WebP",
+  "btn_clear": "Netejar",
+  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "converter": {
+    "type": "webp-to-png",
+    "inputFormat": "WebP",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/webp"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p>Necessites <strong>convertir WebP a PNG</strong>? Aquesta eina gratuïta en línia transforma fitxers WebP moderns en PNG d'alta qualitat mentre preserva <strong>la transparència (alpha)</strong>. PNG utilitza compressió sense pèrdues i és àmpliament suportat a través d'aplicacions i plataformes—perfecte per a logotips, actius d'UI i documents.</p><p><em>Notes:</em> JPG no suporta transparència (PNG sí). Si el teu WebP és animat, només el <strong>primer fotograma</strong> es convertirà en un PNG estàtic. Els colors es converteixen a sRGB per a la consistència web.</p>",
+  "head": {
+    "title": "Converteix WebP a PNG en línia - Conversor gratuït de WebP a PNG | WikiHowTo.click",
+    "description": "Converteix WebP a PNG en línia amb suport de transparència, qualitat sense pèrdues i sense marques d'aigua. Eina gratuïta, ràpida i segura per a convertir WebP a PNG.",
+    "keywords": "webp a png, convertir webp a png, gratuït webp a png, conversor webp en línia, canviar webp a png, imatge webp a png",
+    "canonical": "https://wikihowto.click/en/convert/webp-to-png",
+    "og_title": "Conversor de WebP a PNG - Gratuït i en línia",
+    "og_description": "Converteix imatges WebP a format PNG amb suport de transparència i qualitat sense pèrdues. 100% gratuït, ràpid i segur.",
+    "og_url": "https://wikihowto.click/en/convert/webp-to-png",
+    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Conversor gratuït de WebP a PNG en línia",
+    "twitter_description": "Converteix WebP a PNG amb suport de transparència, qualitat sense pèrdues i sense marques d'aigua. Funciona en tots els dispositius.",
+    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
+  },
+  "h1": {
+    "title": "Converteix WebP a PNG en línia",
+    "description": "Conversor gratuït i ràpid de WebP a PNG amb suport de transparència i qualitat sense pèrdues. Funciona instantàniament en qualsevol dispositiu, sense necessitat de registre."
+  },
+  "h2": [
+    {
+      "title": "Per què convertir WebP a PNG?",
+      "description": "<p>WebP és eficient per a la web, però PNG ofereix la màxima compatibilitat i sortida sense pèrdues:</p><ul><li><strong>Compatibilitat universal:</strong> Funciona a Windows, macOS, Linux, iOS i Android.</li><li><strong>Transparència:</strong> Ideal per a logotips, icones i gràfics d'UI.</li><li><strong>Edició i disseny:</strong> Preferit per Photoshop, Illustrator, Figma i més.</li><li><strong>Documents:</strong> Insereix PNG en Word, PowerPoint i PDFs sense sorpreses.</li></ul>"
+    },
+    {
+      "title": "Com convertir WebP a PNG en línia",
+      "description": "<ol><li>Fes clic a <em>Puja WebP</em> i selecciona el teu fitxer.</li><li>Espera breument mentre ho processem de manera segura.</li><li>Fes clic a <em>Descarrega PNG</em> per desar la teva imatge.</li></ol><p>Aquesta pàgina converteix <strong>un fitxer a la vegada</strong> per assegurar fiabilitat i velocitat.</p>"
+    },
+    {
+      "title": "Comparació entre WebP i PNG",
+      "description": "<ul><li><strong>Mida del fitxer:</strong> WebP és normalment un 30–50% més petit; PNG és més gran però sense pèrdues.</li><li><strong>Transparència:</strong> Ambdós suporten alpha; PNG és l'estàndard professional.</li><li><strong>Edició:</strong> PNG s'integra netament amb la majoria d'eines de disseny.</li><li><strong>Cas d'ús:</strong> WebP per a llocs web; PNG per a aplicacions, documents i fluxos de treball de disseny.</li></ul>"
+    },
+    {
+      "title": "Límits i formats suportats",
+      "description": "<ul><li><strong>Entrada acceptada:</strong> WebP (<code>image/webp</code>)</li><li><strong>Mida màxima del fitxer:</strong> 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animació:</strong> Només el primer fotograma</li></ul>"
+    },
+    {
+      "title": "Solució de problemes",
+      "description": "<ul><li><strong>Encara massa gran?</strong> Utilitza el <a href='/en/edit/compress-image'>Compressor de PNG</a> o redimensiona abans de convertir.</li><li><strong>Colors que semblen incorrectes:</strong> La sortida es converteix a sRGB per a una visualització consistent.</li><li><strong>La pujada ha fallat:</strong> Assegura't que el fitxer és <code>image/webp</code> i ≤ 16&nbsp;MB.</li></ul>"
+    },
+    {
+      "title": "Eines relacionades que podries necessitar",
+      "description": "<ul><li><a href='/en/convert/png-to-webp'>Conversor de PNG a WebP</a> – redueix la mida del fitxer per a llocs més ràpids</li><li><a href='/en/edit/compress-image'>Compressor de PNG</a> – redueix la mida del PNG amb control de qualitat</li><li><a href='/en/effect/remove-background'>Eliminar fons</a> – fes que el PNG sigui transparent ràpidament</li><li><a href='/en/convert/jpg-to-png'>Conversor de JPG a PNG</a> – canvia altres formats a PNG</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "És gratuït aquest conversor de WebP a PNG?",
+      "answer": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
+    },
+    {
+      "question": "Es conservarà la transparència?",
+      "answer": "Sí. PNG suporta completament la transparència alpha i la mantenim intacta."
+    },
+    {
+      "question": "Redueix la qualitat la conversió?",
+      "answer": "No. PNG utilitza compressió sense pèrdues, així que mantens el detall visual original."
+    },
+    {
+      "question": "Suporteu WebP animat?",
+      "answer": "El WebP animat es converteix en un PNG estàtic utilitzant el primer fotograma."
+    },
+    {
+      "question": "Quina és la mida màxima del fitxer?",
+      "answer": "Fins a 16 MB per fitxer."
+    },
+    {
+      "question": "Puc convertir múltiples fitxers alhora?",
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada per a la estabilitat. Repeteix el procés per a imatges addicionals."
+    },
+    {
+      "question": "Són segurs els meus fitxers?",
+      "answer": "Sí. Les pujades són xifrades, processades en servidors segurs i eliminades automàticament després de la conversió."
+    }
+  ],
+  "note": "Els fitxers PNG poden ser més grans que WebP a causa de la compressió sense pèrdues—és normal i preserva la màxima qualitat.",
+  "related_links": [
+    {
+      "title": "Converteix WebP a JPG",
+      "url": "/en/convert/webp-to-jpg"
+    },
+    {
+      "title": "Converteix WebP a AVIF",
+      "url": "/en/convert/webp-to-avif"
+    },
+    {
+      "title": "Converteix PNG a WebP",
+      "url": "/en/convert/png-to-webp"
+    },
+    {
+      "title": "Comprimir PNG en línia",
+      "url": "/en/edit/compress-image"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Conversor de WebP a PNG - Gratuït i en línia",
+      "url": "https://wikihowto.click/en/convert/webp-to-png",
+      "description": "Eina gratuïta en línia per convertir imatges WebP a PNG amb la transparència preservada.",
+      "inLanguage": "ca",
+      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inici",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/en/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP a PNG",
+          "item": "https://wikihowto.click/en/convert/webp-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Conversor de WebP a PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/en/convert/webp-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Transparència preservada",
+        "Sortida sense pèrdues",
+        "Processament ràpid"
+      ],
+      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Es conservarà la transparència?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, PNG suporta completament la transparència alpha i el conversor la manté intacta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Suporteu WebP animat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El WebP animat es converteix com un PNG estàtic utilitzant el primer fotograma."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quina és la mida màxima del fitxer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fins a 16 MB per fitxer."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Com convertir WebP a PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Puja WebP i selecciona el teu fitxer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Espera que el processament segur es completi."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Descarrega PNG per desar la teva imatge."
+        }
+      ],
+      "tool": [
+        "Conversor de WebP a PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

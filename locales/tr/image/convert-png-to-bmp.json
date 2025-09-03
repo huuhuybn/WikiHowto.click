@@ -1,0 +1,241 @@
+{
+  "lang": "tr",
+  "lang_name": "Türkçe",
+  "title": "PNG'den BMP'ye Dönüştürücü - Ücretsiz & Çevrimiçi | WikiHowTo.click",
+  "sub_title": "PNG görüntülerini kayıpsız, sıkıştırılmamış piksel verisi ile çevrimiçi BMP'ye dönüştürün. Su işareti yok.",
+  "hint": "Dönüştürmeye başlamak için PNG görüntünüzü yükleyin...",
+  "btn_download": "BMP'ye Dönüştür",
+  "btn_paste": "PNG Yükle",
+  "btn_clear": "Temizle",
+  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "head": {
+    "title": "PNG'yi BMP'ye Dönüştür - Ücretsiz Çevrimiçi PNG'den BMP'ye Dönüştürücü",
+    "description": "PNG görüntülerini çevrimiçi olarak ücretsiz BMP formatına dönüştürün. Hızlı işlem ile yüksek kaliteli PNG'den BMP'ye dönüşüm.",
+    "keywords": "png'den bmp'ye, png'yi bmp'ye dönüştür, ücretsiz png'den bmp'ye, çevrimiçi bmp dönüştürücü, görüntü dönüşümü",
+    "canonical": "https://wikihowto.click/tr/convert/png-to-bmp",
+    "og_title": "PNG'yi BMP'ye Dönüştür - Ücretsiz Çevrimiçi PNG'den BMP'ye Dönüştürücü",
+    "og_description": "PNG görüntülerini çevrimiçi olarak ücretsiz BMP formatına dönüştürün. Hızlı işlem ile yüksek kaliteli PNG'den BMP'ye dönüşüm.",
+    "og_url": "https://wikihowto.click/tr/convert/png-to-bmp",
+    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "PNG'yi BMP'ye Dönüştür - Ücretsiz Çevrimiçi PNG'den BMP'ye Dönüştürücü",
+    "twitter_description": "PNG görüntülerini çevrimiçi olarak ücretsiz BMP formatına dönüştürün. Hızlı işlem ile yüksek kaliteli PNG'den BMP'ye dönüşüm.",
+    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
+  },
+  "h1": {
+    "title": "PNG'yi Çevrimiçi BMP'ye Dönüştür",
+    "description": "Sıkıştırılmamış, kayıpsız piksel verisi ile ücretsiz PNG'den BMP'ye dönüştürücü. Herhangi bir cihazda çalışır - kayıt gerektirmez."
+  },
+  "converter": {
+    "type": "png-to-bmp",
+    "title": "PNG'den BMP'ye Dönüştürücü",
+    "description": "Hızlı işlem ve doğru renklerle PNG görüntülerini BMP'ye dönüştürün.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "BMP",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/bmp",
+    "outputExtension": ".bmp",
+    "features": [
+      "Sıkıştırılmamış (kayıpsız) piksel verisi",
+      "Windows'ta yüksek uyumluluk",
+      "Hızlı işlem",
+      "Ücretsiz çevrimiçi araç"
+    ],
+    "options": {
+      "bmp": {
+        "bitDepth": 24,
+        "compression": "BI_RGB"
+      }
+    }
+  },
+  "result_actions": {
+    "title": "PNG'den BMP'ye Dönüşüm Tamamlandı",
+    "back_button": "Dönüştürücüye Geri Dön",
+    "convert_another": "Başka Bir PNG Dönüştür",
+    "quick_conversions": "Hızlı Dönüşümler:"
+  },
+  "h2": [
+    {
+      "title": "Neden PNG'yi BMP'ye Dönüştürmeliyim?",
+      "description": "<p>BMP, sıkıştırma olmadan pikselleri saklayan basit bir raster formattır - belirli iş akışları için faydalıdır:</p><ul><li><strong>Yeni artefakt yok:</strong> Düşük seviyeli düzenleme için pikselleri sağlam tutun.</li><li><strong>Basit yapı:</strong> Programların okuması ve manipüle etmesi kolaydır.</li><li><strong>Eski/gömülü uygulamalar:</strong> Bazı Windows araçları BMP'yi tercih eder.</li></ul>"
+    },
+    {
+      "title": "PNG'yi Çevrimiçi BMP'ye Nasıl Dönüştürürüm",
+      "description": "<ol><li><em>PNG Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlemin tamamlanmasını bekleyin.</li><li>Görüntünüzü kaydetmek için <em>BMP İndir</em> butonuna tıklayın.</li></ol><p>Varsayılan olarak sıkıştırma olmadan 24-bit BMP'ye ayarlanmıştır.</p>"
+    },
+    {
+      "title": "BMP ve PNG Karşılaştırması",
+      "description": "<ul><li><strong>Dosya Boyutu:</strong> BMP genellikle PNG'den çok daha büyüktür.</li><li><strong>Kalite:</strong> Her ikisi de kayıpsızdır (BMP sıkıştırılmamış; PNG kayıpsız sıkıştırılmıştır).</li><li><strong>Şeffaflık:</strong> PNG alfa desteği sunar; yaygın 24-bit BMP <em>sunmaz</em>.</li><li><strong>Sıkıştırma:</strong> BMP yok; PNG kayıpsız DEFLATE.</li><li><strong>Kullanım Durumları:</strong> BMP eski/pikselli işlemler için; PNG web ve verimli kayıpsız depolama için.</li></ul>"
+    },
+    {
+      "title": "Desteklenen Sınırlar ve Formatlar",
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'ye kadar</li><li><strong>Çıktı:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit derinliği:</strong> 24-bit (alfa yok)</li></ul>"
+    },
+    {
+      "title": "Sorun Giderme",
+      "description": "<ul><li><strong>Çok büyük çıktı:</strong> BMP sıkıştırılmamış; daha küçük kayıpsız için PNG'yi tercih edin.</li><li><strong>Şeffaflık gerekiyor:</strong> BMP 24-bit alfa içermez; PNG ile devam edin.</li><li><strong>Yükleme başarısız:</strong> Dosyanın PNG olduğundan ve ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu PNG'den BMP'ye dönüştürücü ücretsiz mi?",
+      "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+    },
+    {
+      "question": "BMP tüm uygulamalarda çalışır mı?",
+      "answer": "BMP, Windows'ta yaygın olarak desteklenir ve birçok diğer platform tarafından tanınır. Modern web iş akışları genellikle boyut verimliliği için PNG/WebP'yi tercih eder."
+    },
+    {
+      "question": "BMP dosyaları PNG'ye göre ne kadar daha büyük?",
+      "answer": "Genellikle birkaç kat daha büyük (örneğin, 3–10× veya daha fazla), çünkü BMP sıkıştırılmamıştır."
+    },
+    {
+      "question": "Hangi dosya boyutları destekleniyor?",
+      "answer": "Dosya başına 16&nbsp;MB'ye kadar görüntü yükleyebilirsiniz."
+    },
+    {
+      "question": "Dosyalarım güvende mi?",
+      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
+    },
+    {
+      "question": "Birden fazla PNG'yi aynı anda dönüştürebilir miyim?",
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+    },
+    {
+      "question": "BMP şeffaflığı destekliyor mu?",
+      "answer": "Standart 24-bit BMP alfa kanalı içermez. Şeffaflık için PNG kullanın."
+    }
+  ],
+  "note": "BMP çıktısı kasıtlı olarak büyüktür (sıkıştırılmamış). Web teslimatı için PNG/WebP/AVIF tercih edin.",
+  "related_links": [
+    {
+      "title": "BMP'yi PNG'ye Dönüştür",
+      "url": "/tr/convert/bmp-to-png"
+    },
+    {
+      "title": "PNG'yi JPG'ye Dönüştür",
+      "url": "/tr/convert/png-to-jpg"
+    },
+    {
+      "title": "PNG'yi WebP'ye Dönüştür",
+      "url": "/tr/convert/png-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG'den BMP'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
+      "url": "https://wikihowto.click/tr/convert/png-to-bmp",
+      "description": "Sıkıştırılmamış, kayıpsız piksel verisi ile PNG görüntülerini BMP'ye dönüştürmek için ücretsiz çevrimiçi araç.",
+      "inLanguage": "tr",
+      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dönüştür",
+          "item": "https://wikihowto.click/tr/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG'den BMP'ye",
+          "item": "https://wikihowto.click/tr/convert/png-to-bmp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG'den BMP'ye Dönüştürücü",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/tr/convert/png-to-bmp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Sıkıştırılmamış piksel verisi",
+        "Doğru renkler",
+        "Hızlı işlem"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu PNG'den BMP'ye dönüştürücü ücretsiz mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hangi dosya boyutları destekleniyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dosya başına 16 MB'ye kadar görüntü yükleyebilirsiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BMP şeffaflığı destekliyor mu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standart 24-bit BMP alfa kanalı içermez. Şeffaflık için PNG kullanın."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "PNG'yi BMP'ye nasıl dönüştürürüm",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "PNG Yükle butonuna tıklayın ve dosyanızı seçin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "İşlemin tamamlanmasını bekleyin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Görüntüyü kaydetmek için BMP İndir butonuna tıklayın."
+        }
+      ],
+      "tool": [
+        "PNG'den BMP'ye Dönüştürücü"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

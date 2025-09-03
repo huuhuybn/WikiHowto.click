@@ -1,0 +1,244 @@
+{
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor de GIF a PNG - Gratuït i en línia | WikiHowTo.click",
+  "sub_title": "Converteix imatges GIF a format PNG en línia amb suport de transparència, alta qualitat i sense marques d'aigua.",
+  "hint": "Puja la teva imatge GIF per començar a convertir...",
+  "btn_download": "Convertir a PNG",
+  "btn_paste": "Pujar GIF",
+  "btn_clear": "Esborrar",
+  "converter": {
+    "type": "gif-to-png",
+    "inputFormat": "GIF",
+    "outputFormat": "PNG",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/gif"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/png",
+    "outputExtension": ".png",
+    "quality": 90,
+    "options": {
+      "png": {
+        "compressionLevel": 6,
+        "progressive": false
+      }
+    }
+  },
+  "description": "<p>Converteix el teu <strong>GIF a PNG</strong> per a una major fidelitat i suport complet de transparència. El nostre conversor en línia gratuït transforma GIF animats o estàtics en imatges PNG d'alta qualitat. Mentre que el GIF és excel·lent per a animacions simples, el PNG ofereix una profunditat de color superior, millor transparència i compressió sense pèrdues per a gràfics estàtics nítids.</p><p><strong>Nota:</strong> Els GIF animats es converteixen en una <em>imatge estàtica única</em> (primer fotograma). Per a sortida animada, prova <a href='/ca/convert/gif-to-webp'>GIF a WebP</a>.</p>",
+  "head": {
+    "title": "Converteix GIF a PNG en línia - Gratuït conversor de GIF a PNG | WikiHowTo.click",
+    "description": "Converteix GIF a PNG en línia amb suport de transparència, alta qualitat i sense marques d'aigua. Gratuït, ràpid i segur conversor de GIF a PNG.",
+    "keywords": "gif a png, convertir gif a png, gratuït gif a png, conversor gif en línia, imatges transparents",
+    "canonical": "https://wikihowto.click/ca/convert/gif-to-png",
+    "og_title": "Conversor de GIF a PNG - Gratuït i en línia",
+    "og_description": "Converteix imatges GIF a format PNG amb suport de transparència i alta qualitat. 100% gratuït, ràpid i segur.",
+    "og_url": "https://wikihowto.click/ca/convert/gif-to-png",
+    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Gratuït conversor de GIF a PNG en línia",
+    "twitter_description": "Converteix GIF a PNG amb suport de transparència, alta qualitat i sense marques d'aigua. Funciona en tots els dispositius.",
+    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
+  },
+  "h1": {
+    "title": "Converteix GIF a PNG en línia",
+    "description": "Conversor gratuït i ràpid de GIF a PNG amb suport de transparència i alta qualitat. Funciona instantàniament en qualsevol dispositiu, sense necessitat de registre."
+  },
+  "h2": [
+    {
+      "title": "Per què convertir GIF a PNG?",
+      "description": "<p>El GIF està limitat a 256 colors i és adequat per a animacions simples. El PNG és ideal per a imatges estàtiques d'alta qualitat:</p><ul><li><strong>Major qualitat:</strong> Truecolor (24 bits) + alfa vs paleta de 8 bits del GIF.</li><li><strong>Transparència:</strong> El PNG suporta transparència alfa completa per a vores suaus.</li><li><strong>Compressió sense pèrdues:</strong> El PNG preserva detalls sense pèrdua de qualitat.</li><li><strong>Compatibilitat universal:</strong> Ampliament suportat a través d'aplicacions i plataformes.</li></ul>"
+    },
+    {
+      "title": "Com convertir GIF a PNG en línia",
+      "description": "<ol><li>Fes clic a <em>Pujar GIF</em> i selecciona el teu fitxer.</li><li>Espera que el processament es completi.</li><li>Fes clic a <em>Descarregar PNG</em> per desar el resultat.</li></ol><p>GIF animats: només el primer fotograma s'exporta com a PNG.</p>"
+    },
+    {
+      "title": "GIF vs PNG: Diferències clau",
+      "description": "<table class='table-compare'><thead><tr><th>Característica</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Profunditat de color</td><td>8 bits (256 colors)</td><td>Truecolor (24 bits) + alfa</td></tr><tr><td>Transparència</td><td>Masca de 1 bit (on/apagat)</td><td>Transparència alfa completa</td></tr><tr><td>Compressió</td><td>Sense pèrdues (LZW)</td><td>Sense pèrdues (DEFLATE)</td></tr><tr><td>Animació</td><td>Suportat</td><td>No suportat (estàtic)</td></tr><tr><td>Millor per</td><td>Animacions simples, adhesius</td><td>Logotips, UI, captures de pantalla, gràfics estàtics</td></tr></tbody></table>"
+    },
+    {
+      "title": "Límits i formats suportats",
+      "description": "<ul><li><strong>Entrada acceptada:</strong> GIF (<code>image/gif</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+    {
+      "title": "Característiques del nostre conversor de GIF a PNG",
+      "description": "<ul><li>100% gratuït, sense marques d'aigua</li><li>Preserva la transparència on és present</li><li>Sortida PNG sense pèrdues</li><li>Interfície amigable per a mòbils</li></ul>"
+    },
+    {
+      "title": "Què és GIF?",
+      "description": "<p>GIF (Graphics Interchange Format) suporta animació bàsica i utilitza compressió sense pèrdues LZW, però està restringit a una paleta de 256 colors.</p>"
+    },
+    {
+      "title": "Què és PNG?",
+      "description": "<p>PNG (Portable Network Graphics) és un format sense pèrdues que suporta truecolor i transparència alfa — ideal per a imatges estàtiques d'alta qualitat.</p>"
+    },
+    {
+      "title": "Solució de problemes",
+      "description": "<ul><li><strong>La pujada falla:</strong> Assegura't que el fitxer és GIF i ≤ 16&nbsp;MB.</li><li><strong>Vores de transparència serrades:</strong> La transparència de 1 bit del GIF pot semblar dura; refina amb <a href='/ca/effect/remove-background'>Eliminador de fons</a>.</li><li><strong>Necessites animació:</strong> Utilitza <a href='/ca/convert/gif-to-webp'>GIF a WebP</a> per mantenir el moviment.</li></ul>"
+    },
+    {
+      "title": "Casos d'ús: Quan convertir GIF a PNG",
+      "description": "<ul><li><strong>Logotips i icones</strong> que necessiten transparència suau.</li><li><strong>Captures de pantalla/UI</strong> que requereixen text i línies nítides.</li><li><strong>Arxivar</strong> fotogrames estàtics a una qualitat superior.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "És gratuït aquest conversor de GIF a PNG?",
+      "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+    },
+    {
+      "question": "Preservarà PNG la transparència del GIF?",
+      "answer": "Sí. Les àrees transparents de 1 bit del GIF romanen transparents en PNG; per a vores més suaus, edita el canal alfa després de la conversió."
+    },
+    {
+      "question": "Què passa amb els GIF animats?",
+      "answer": "Només el primer fotograma es converteix en una imatge PNG estàtica. Per mantenir l'animació, utilitza GIF a WebP."
+    },
+    {
+      "question": "Perdré qualitat en convertir GIF a PNG?",
+      "answer": "No. PNG utilitza compressió sense pèrdues i suporta color complet, sovint millorant la fidelitat visual sobre el GIF de 256 colors."
+    },
+    {
+      "question": "Quines mides de fitxer són suportades?",
+      "answer": "Pots pujar imatges de fins a 16 MB per fitxer."
+    },
+    {
+      "question": "Són segurs els meus fitxers?",
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+    },
+    {
+      "question": "Puc convertir múltiples fitxers GIF alhora?",
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
+    }
+  ],
+  "note": "Els GIF animats es converteixen en PNGs estàtics (primer fotograma). Per a sortida animada, converteix GIF a WebP.",
+  "related_links": [
+    {
+      "title": "Converteix GIF a JPG",
+      "url": "/ca/convert/gif-to-jpg"
+    },
+    {
+      "title": "Converteix PNG a GIF",
+      "url": "/ca/convert/png-to-gif"
+    },
+    {
+      "title": "Converteix GIF a WebP",
+      "url": "/ca/convert/gif-to-webp"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "Conversor de GIF a PNG - Gratuït i en línia",
+      "url": "https://wikihowto.click/ca/convert/gif-to-png",
+      "description": "Eina en línia gratuïta per convertir imatges GIF a PNG amb compressió sense pèrdues i suport de transparència.",
+      "inLanguage": "ca",
+      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inici",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convertir",
+          "item": "https://wikihowto.click/ca/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GIF a PNG",
+          "item": "https://wikihowto.click/ca/convert/gif-to-png"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "Conversor de GIF a PNG",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ca/convert/gif-to-png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Sortida PNG sense pèrdues",
+        "Suport de transparència",
+        "Processament ràpid"
+      ],
+      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "És gratuït aquest conversor de GIF a PNG?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Què passa amb els GIF animats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Només el primer fotograma es converteix en una imatge PNG estàtica. Per mantenir l'animació, utilitza GIF a WebP."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quines mides de fitxer són suportades?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Com convertir GIF a PNG",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Pujar GIF i selecciona el teu fitxer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Espera que el processament es completi."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fes clic a Descarregar PNG per desar el resultat."
+        }
+      ],
+      "tool": [
+        "Conversor de GIF a PNG"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

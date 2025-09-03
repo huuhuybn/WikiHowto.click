@@ -1,0 +1,230 @@
+{
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "JPGからWebPへの変換 - 無料＆オンライン | WikiHowTo.click",
+  "sub_title": "JPG画像をオンラインでWebP形式に変換し、優れた圧縮、高品質、透かしなしで提供します。",
+  "hint": "変換を開始するにはJPG画像をアップロードしてください...",
+  "btn_download": "WebPに変換",
+  "btn_paste": "JPGをアップロード",
+  "btn_clear": "クリア",
+  "ogImage": "https://wikihowto.click/images/jpg-to-webp.jpg",
+  "converter": {
+    "type": "jpg-to-webp",
+    "inputFormat": "JPG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/jpeg"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p><strong>JPGをWebPに変換</strong>して、優れたウェブパフォーマンスを実現しましょう！私たちの無料のコンバータは、高度に最適化された画像を作成し、より早く読み込み、帯域幅を節約します。WebPは視覚的品質を維持しながら優れた圧縮を提供します — ウェブサイト、モバイルアプリ、デジタルコンテンツに最適です。</p><p>WebPは、同等の品質でJPGよりも最大30％小さいファイルを提供し、すべての最新ブラウザでサポートされています。私たちは自動的にサイズと忠実度を調整し、強力なCore Web Vitalsを実現します。</p>",
+  "head": {
+    "title": "JPGをWebPにオンラインで変換 - 無料JPGからWebPへのコンバータ | WikiHowTo.click",
+    "description": "JPGをWebPにオンラインで変換し、優れた圧縮、高品質、透かしなしで提供します。無料で迅速、安全なJPGからWebPへのコンバータツール。",
+    "keywords": "jpg to webp, jpgをwebpに変換, 無料jpg to webp, オンラインwebpコンバータ, 画像最適化",
+    "canonical": "https://wikihowto.click/ja/convert/jpg-to-webp",
+    "og_title": "JPGからWebPへの変換 - 無料＆オンライン",
+    "og_description": "JPG画像をWebP形式に変換し、優れた圧縮と高品質を提供します。100％無料、迅速、安全。",
+    "og_url": "https://wikihowto.click/ja/convert/jpg-to-webp",
+    "og_image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "無料JPGからWebPへのオンラインコンバータ",
+    "twitter_description": "JPGをWebPに変換し、優れた圧縮、高品質、透かしなしで提供します。すべてのデバイスで動作します。",
+    "twitter_image": "https://wikihowto.click/images/jpg-to-webp.jpg"
+  },
+  "h1": {
+    "title": "JPGをWebPにオンラインで変換",
+    "description": "優れた圧縮と高品質を持つ無料で迅速なJPGからWebPへのコンバータ。すべてのデバイスで即座に動作し、サインアップは不要です。"
+  },
+  "h2": [
+    {
+      "title": "なぜJPGをWebPに変換するのか？",
+      "description": "<p>WebPは、従来の画像を上回る現代的なフォーマットです：</p><ul><li><strong>優れた圧縮：</strong>同等の品質でJPGよりも一般的に25〜35％小さい。</li><li><strong>より良いパフォーマンス：</strong>ページの読み込みが速く、帯域幅が削減されます。</li><li><strong>広範なサポート：</strong>すべての主要なブラウザで動作します。</li><li><strong>透明性とアニメーション：</strong>WebPは両方をサポートします（JPGを変換する際にアニメーションは関連しません）。</li></ul>"
+    },
+    {
+      "title": "JPGをWebPにオンラインで変換する方法",
+      "description": "<ol><li><em>JPGをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理と最適化を待ちます。</li><li><em>WebPをダウンロード</em>をクリックして画像を保存します。</li></ol><p>品質とサイズは、一般的なウェブ使用のために自動調整されます。</p>"
+    },
+    {
+      "title": "WebPとJPGの比較",
+      "description": "<ul><li><strong>ファイルサイズ：</strong>WebPは通常25〜35％小さい。</li><li><strong>品質：</strong>同じビットレートでアーティファクトが少ない。</li><li><strong>ブラウザサポート：</strong>WebPは最新のブラウザでサポートされています。</li><li><strong>透明性：</strong>WebPはアルファをサポートし、JPGはサポートしません。</li></ul>"
+    },
+    {
+      "title": "サポートされる制限とフォーマット",
+      "description": "<ul><li><strong>受け入れられる入力：</strong>JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>エンコーディング：</strong>ロスのあるWebP、品質≈90</li></ul>"
+    },
+    {
+      "title": "トラブルシューティング",
+      "description": "<ul><li><strong>古いブラウザ：</strong>JPGフォールバックを使用して<code>&lt;picture&gt;</code>要素を使用します。</li><li><strong>色のシフト：</strong>一貫したウェブカラーのために、アップロード前に画像をsRGBに変換します。</li><li><strong>ファイルが大きすぎる：</strong>WebPの品質を少し下げるか、変換前にサイズを変更します。</li><li><strong>アップロードに失敗：</strong>JPG/JPEGであり、≤16&nbsp;MBであることを確認してください。</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このJPGからWebPへのコンバータは無料ですか？",
+      "answer": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
+    },
+    {
+      "question": "WebPはすべてのブラウザで動作しますか？",
+      "answer": "WebPはすべての最新のブラウザ（Chrome、Firefox、Safari、Edge）でサポートされています。非常に古いブラウザにはJPGフォールバックを提供してください。"
+    },
+    {
+      "question": "WebPファイルはJPGと比べてどれくらい小さいですか？",
+      "answer": "通常、同等の知覚品質で25〜35％小さく、画像によって異なります。"
+    },
+    {
+      "question": "サポートされるファイルサイズはどれくらいですか？",
+      "answer": "ファイルごとに最大16&nbsp;MBの画像をアップロードできます。"
+    },
+    {
+      "question": "私のファイルは安全ですか？",
+      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
+    },
+    {
+      "question": "複数のJPGを一度に変換できますか？",
+      "answer": "このページは一度に1つのファイルを変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
+    },
+    {
+      "question": "WebPはウェブサイトにとってJPGより優れていますか？",
+      "answer": "はい。WebPは通常、同等の品質でより小さいファイルを提供し、読み込み速度とCore Web Vitalsを改善します。"
+    }
+  ],
+  "note": "最大の互換性を確保するために、<code>&lt;picture&gt;</code>要素を使用してJPGフォールバックと共にWebPを提供してください。",
+  "related_links": [
+    {
+      "title": "JPGをPNGに変換",
+      "url": "/ja/convert/jpg-to-png"
+    },
+    {
+      "title": "PNGをWebPに変換",
+      "url": "/ja/convert/png-to-webp"
+    },
+    {
+      "title": "WebPをJPGに変換",
+      "url": "/ja/convert/webp-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. 全著作権所有。",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPGからWebPへの変換 - 無料＆オンライン",
+      "url": "https://wikihowto.click/ja/convert/jpg-to-webp",
+      "description": "JPG画像をWebPに変換するための無料のオンラインツールで、優れた圧縮と高品質を提供します。",
+      "inLanguage": "ja",
+      "image": "https://wikihowto.click/images/jpg-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "変換",
+          "item": "https://wikihowto.click/ja/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPGからWebP",
+          "item": "https://wikihowto.click/ja/convert/jpg-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPGからWebPへのコンバータ",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/ja/convert/jpg-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "優れた圧縮",
+        "高品質の出力",
+        "迅速な処理"
+      ],
+      "screenshot": "https://wikihowto.click/images/jpg-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "このJPGからWebPへのコンバータは無料ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "サポートされるファイルサイズはどれくらいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "WebPはすべてのブラウザで動作しますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "WebPはすべての最新のブラウザでサポートされています。古いブラウザにはJPGフォールバックを提供してください。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "JPGをWebPに変換する方法",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "JPGをアップロードをクリックし、ファイルを選択します。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "処理と最適化が完了するのを待ちます。"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "WebPをダウンロードをクリックして結果を保存します。"
+        }
+      ],
+      "tool": [
+        "JPGからWebPへのコンバータ"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

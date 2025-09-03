@@ -1,0 +1,244 @@
+{
+  "lang": "lt",
+  "lang_name": "Lietuvių",
+  "title": "PNG į TIFF konverteris - Nemokamai ir internetu | WikiHowTo.click",
+  "sub_title": "Konvertuokite PNG vaizdus į TIFF internetu su be nuostolių parinktimis, spausdinimui paruošta kokybe ir išsaugota skaidrumu. Be vandens ženklų.",
+  "hint": "Įkelkite savo PNG vaizdą, kad pradėtumėte konvertuoti...",
+  "btn_download": "Konvertuoti į TIFF",
+  "btn_paste": "Įkelti PNG",
+  "btn_clear": "Išvalyti",
+  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "head": {
+    "title": "Konvertuoti PNG į TIFF - Nemokamas internetinis PNG į TIFF konverteris | WikiHowTo.click",
+    "description": "Konvertuokite PNG vaizdus į TIFF formatą internetu nemokamai. Aukštos kokybės PNG į TIFF konvertavimas su be nuostolių parinktimis ir greitu apdorojimu.",
+    "keywords": "png į tiff, konvertuoti png į tiff, nemokamas png į tiff, internetinis tiff konverteris, vaizdo konvertavimas",
+    "canonical": "https://wikihowto.click/lt/convert/png-to-tiff",
+    "og_title": "Konvertuoti PNG į TIFF - Nemokamas internetinis PNG į TIFF konverteris",
+    "og_description": "Konvertuokite PNG vaizdus į TIFF su be nuostolių suspaudimo parinktimis ir išsaugotu skaidrumu. Nemokamai, greitai ir saugiai.",
+    "og_url": "https://wikihowto.click/lt/convert/png-to-tiff",
+    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Nemokamas PNG į TIFF konverteris internetu",
+    "twitter_description": "Konvertuokite PNG į TIFF su be nuostolių parinktimis, skaidrumu ir spausdinimui paruošta kokybe.",
+    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
+  },
+  "h1": {
+    "title": "Konvertuoti PNG į TIFF internetu",
+    "description": "Nemokamas PNG į TIFF konverteris su be nuostolių suspaudimo parinktimis ir spausdinimui paruoštu rezultatu. Veikia bet kuriame įrenginyje — registracija nereikalinga."
+  },
+  "converter": {
+    "type": "png-to-tiff",
+    "title": "PNG į TIFF konverteris",
+    "description": "Konvertuokite PNG vaizdus į TIFF su LZW/ZIP be nuostolių suspaudimu, išsaugant alfa skaidrumą.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "PNG",
+    "outputFormat": "TIFF",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/tiff",
+    "outputExtension": ".tiff",
+    "features": [
+      "Be nuostolių TIFF (LZW/ZIP) parinktis",
+      "Išsaugo skaidrumą (alfa)",
+      "Spausdinimui paruošta kokybė",
+      "Nemokamas internetinis įrankis"
+    ],
+    "options": {
+      "tiff": {
+        "compression": "lzw",
+        "predictor": 2,
+        "bitDepth": 32,
+        "alpha": true,
+        "dpi": 300
+      }
+    }
+  },
+  "result_actions": {
+    "title": "PNG į TIFF konvertavimas baigtas",
+    "back_button": "Grįžti į konverterį",
+    "convert_another": "Konvertuoti kitą PNG",
+    "quick_conversions": "Greiti konvertavimai:"
+  },
+  "h2": [
+    {
+      "title": "Kodėl konvertuoti PNG į TIFF?",
+      "description": "<p>TIFF yra profesionalus, archyvavimo lygio formatas, naudojamas vaizdų ir spausdinimo srityje:</p><ul><li><strong>Be nuostolių parinktys:</strong> Išlaikykite švarų originalą, neįvedant naujų artefaktų.</li><li><strong>Spausdinimui paruošta:</strong> Puikiai tinka didelės raiškos rezultatams ir paruošimo darbams.</li><li><strong>Alfa palaikymas:</strong> Gali išsaugoti skaidrumą (priklauso nuo skaitytuvo).</li><li><strong>Redagavimui draugiškas:</strong> Stabilus pakartotiniam išsaugojimui ir perdavimui.</li></ul>"
+    },
+    {
+      "title": "Kaip konvertuoti PNG į TIFF internetu",
+      "description": "<ol><li>Paspauskite <em>Įkelti PNG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol apdorojimas bus baigtas.</li><li>Paspauskite <em>Parsisiųsti TIFF</em>, kad išsaugotumėte rezultatą.</li></ol><p>Numatytasis rezultatas: 32 bitų RGBA, LZW be nuostolių, 300&nbsp;DPI.</p>"
+    },
+    {
+      "title": "TIFF vs PNG: Pagrindiniai skirtumai",
+      "description": "<ul><li><strong>Suspaudimas:</strong> PNG naudoja be nuostolių DEFLATE; TIFF palaiko LZW/ZIP (be nuostolių) arba kitus.</li><li><strong>Failo dydis:</strong> Priklauso nuo vaizdo turinio; TIFF gali būti didesnis arba panašus į PNG.</li><li><strong>Skaidrumas:</strong> Abu gali apimti alfa (žiūrėtojo palaikymas gali skirtis TIFF).</li><li><strong>Geriausia:</strong> PNG internetiniam pristatymui; TIFF redagavimui, spausdinimui ir archyvavimui.</li></ul>"
+    },
+    {
+      "title": "Palaikomi limitai ir formatai",
+      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Rezultatas:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Numatytieji nustatymai:</strong> 32 bitų RGBA, LZW suspaudimas, 300&nbsp;DPI</li></ul>"
+    },
+    {
+      "title": "Problemos sprendimas",
+      "description": "<ul><li><strong>Failas per didelis:</strong> TIFF yra sunkesnis kai kuriam turiniui — laikykite PNG internetui arba apsvarstykite WebP/AVIF.</li><li><strong>Alfa nematoma:</strong> Kai kurie žiūrovai ignoruoja TIFF alfa; patikrinkite profesionaliame redaktoriuje.</li><li><strong>Spalvų pasikeitimas:</strong> Konvertuokite į sRGB prieš įkeliant, kad užtikrintumėte nuoseklią spalvą ekrane.</li><li><strong>Įkėlimas nepavyko:</strong> Užtikrinkite, kad PNG ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ar šis PNG į TIFF konverteris nemokamas?",
+      "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+    },
+    {
+      "question": "Ar TIFF veiks visose programose?",
+      "answer": "TIFF plačiai palaikomas profesionaliose programose (Photoshop, Affinity, daugelyje RIP/spausdinimo įrankių). Kai kurie paprasti žiūrovai gali nerodyti alfa arba tam tikrų suspaudimo metodų."
+    },
+    {
+      "question": "Kokie yra TIFF failų dydžiai palyginti su PNG?",
+      "answer": "Tai priklauso nuo vaizdo. Su LZW/ZIP, TIFF gali būti panašus arba didesnis už PNG, priklausomai nuo turinio."
+    },
+    {
+      "question": "Kokie failų dydžiai yra palaikomi?",
+      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
+    },
+    {
+      "question": "Ar mano failai saugūs?",
+      "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konvertavimui."
+    },
+    {
+      "question": "Ar galiu konvertuoti kelis PNG vienu metu?",
+      "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite grupinį įrankį."
+    },
+    {
+      "question": "Ar TIFF palaiko sluoksnius?",
+      "answer": "Standartinis TIFF yra plokščias. Kai kurios programos įterpia privačius sluoksnių duomenis, tačiau šis įrankis išveda plokščią TIFF."
+    }
+  ],
+  "note": "TIFF tinka archyvavimui/spausdinimui, tačiau gali būti sunkus. Internetui, apsvarstykite PNG/WebP/AVIF.",
+  "related_links": [
+    {
+      "title": "Konvertuoti PNG į JPG",
+      "url": "/lt/convert/png-to-jpg"
+    },
+    {
+      "title": "Konvertuoti PNG į WebP",
+      "url": "/lt/convert/png-to-webp"
+    },
+    {
+      "title": "Konvertuoti JPG į TIFF",
+      "url": "/lt/convert/jpg-to-tiff"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Visos teisės saugomos.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG į TIFF konverteris - Nemokamai ir internetu",
+      "url": "https://wikihowto.click/lt/convert/png-to-tiff",
+      "description": "Nemokamas internetinis įrankis konvertuoti PNG vaizdus į TIFF su be nuostolių parinktimis ir išsaugotu skaidrumu.",
+      "inLanguage": "lt",
+      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Pradžia",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertuoti",
+          "item": "https://wikihowto.click/lt/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG į TIFF",
+          "item": "https://wikihowto.click/lt/convert/png-to-tiff"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG į TIFF konverteris",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/lt/convert/png-to-tiff",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Be nuostolių LZW parinktis",
+        "Išsaugo alfa",
+        "Spausdinimui paruošta 300 DPI"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ar šis PNG į TIFF konverteris nemokamas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kokie failų dydžiai yra palaikomi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ar TIFF palaiko sluoksnius?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standartinis TIFF yra plokščias vaizdas; kai kurios programos įterpia privačius sluoksnių duomenis. Šis įrankis išveda plokščią TIFF."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kaip konvertuoti PNG į TIFF",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Paspauskite Įkelti PNG ir pasirinkite savo failą."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Palaukite, kol apdorojimas bus baigtas."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Paspauskite Parsisiųsti TIFF, kad išsaugotumėte rezultatą."
+        }
+      ],
+      "tool": [
+        "PNG į TIFF konverteris"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

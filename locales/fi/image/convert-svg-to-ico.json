@@ -1,0 +1,244 @@
+{
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "SVG to ICO Muunnin - Ilmainen & Verkkopalvelu | WikiHowTo.click",
+  "sub_title": "Muuta SVG-kuvat ICO-muotoon verkossa faviconien ja työpöytäkuvakkeiden varten. Ilmainen, nopea ja ilman vesileimoja.",
+  "hint": "Lataa SVG-kuvasi aloittaaksesi muuntamisen...",
+  "btn_download": "Muuta ICO:ksi",
+  "btn_paste": "Lataa SVG",
+  "btn_clear": "Tyhjennä",
+  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "converter": {
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/svg+xml"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
+    "options": {
+      "ico": {
+        "sizes": [
+          16,
+          32,
+          48,
+          64,
+          128,
+          256
+        ],
+        "format": "png"
+      }
+    }
+  },
+  "description": "<p>Muunna <strong>SVG ICO:ksi</strong> täydellisiä faviconien ja työpöytäkuvakkeiden varten! Ilmainen muunnin rasteroi vektorisi SVG:n teräväksi monikokoiseksi ICO:ksi, joka toimii eri selaimissa ja Windows-työpöydillä.</p><p>ICO voi yhdistää useita kokoja yhteen tiedostoon (esim. 16–256 px), joten kuvakkeesi näyttää terävältä välilehdillä, pikakuvakkeissa ja korkearesoluutioisilla näytöillä. Läpinäkyvyys säilyy, jotta reunat ovat sujuvat vaaleilla ja tummilla taustoilla.</p>",
+  "head": {
+    "title": "Muuta SVG ICO:ksi Verkossa - Ilmainen SVG ICO Muunnin | WikiHowTo.click",
+    "description": "Muuta SVG ICO:ksi verkossa faviconien ja työpöytäkuvakkeiden varten. Ilmainen, nopea ja turvallinen SVG ICO muunnin.",
+    "keywords": "svg ico:ksi, muunna svg ico:ksi, ilmainen svg ico:ksi, verkkopalvelu ico muunnin, faviconin tekijä",
+    "canonical": "https://wikihowto.click/fi/convert/svg-to-ico",
+    "og_title": "SVG to ICO Muunnin - Ilmainen & Verkkopalvelu",
+    "og_description": "Muuta SVG-kuvat ICO-muotoon faviconien ja työpöytäkuvakkeiden varten. 100% ilmainen, nopea ja turvallinen.",
+    "og_url": "https://wikihowto.click/fi/convert/svg-to-ico",
+    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Ilmainen SVG ICO Muunnin Verkossa",
+    "twitter_description": "Muuta SVG ICO:ksi faviconien ja työpöytäkuvakkeiden varten. Toimii kaikilla laitteilla.",
+    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
+  },
+  "h1": {
+    "title": "Muuta SVG ICO:ksi Verkossa",
+    "description": "Ilmainen ja nopea SVG ICO muunnin faviconien ja työpöytäkuvakkeiden varten. Toimii heti kaikilla laitteilla — ei rekisteröitymistä vaadita."
+  },
+  "h2": [
+    {
+      "title": "Miksi muuntaa SVG ICO:ksi?",
+      "description": "<p>SVG antaa sinulle resoluutiosta riippumattomia muotoja; ICO tarjoaa natiivin kuvakeyhteensopivuuden:</p><ul><li><strong>Monikokotuki:</strong> Yhdistä 16–256 px variantit yhteen tiedostoon.</li><li><strong>Favicon-standardi:</strong> Laajalti tunnustettu selaimissa.</li><li><strong>Windows-yhteensopivuus:</strong> Natiivi muoto työpöytä-/sovelluskuvakkeille.</li><li><strong>Läpinäkyvyys:</strong> Sujuvat reunat alfa säilytettynä.</li></ul>"
+    },
+    {
+      "title": "Kuinka muuntaa SVG ICO:ksi verkossa",
+      "description": "<ol><li>Napsauta <em>Lataa SVG</em> ja valitse vektorifilesi.</li><li>Odota rasterointia ja optimointia.</li><li>Napsauta <em>Lataa ICO</em> tallentaaksesi kuvakkeen.</li></ol><p>Luomme automaattisesti yleiset koot terävien tulosten saavuttamiseksi.</p>"
+    },
+    {
+      "title": "ICO-muodon tekniset tiedot",
+      "description": "<ul><li><strong>Standardikoot:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Väri syvyys:</strong> Jopa 32-bittinen RGBA</li><li><strong>Pakkaus:</strong> PNG-pakatut merkinnät 32-bittisille kuvakkeille (Vista+)</li><li><strong>Rakenne:</strong> Otsikko + useita kuvamerkintöjä yhdessä tiedostossa</li></ul>"
+    },
+    {
+      "title": "Tuetut rajat ja muodot",
+      "description": "<ul><li><strong>Hyväksytty syöte:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksimikoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tuotos:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
+    {
+      "title": "Vianetsintä",
+      "description": "<ul><li><strong>Favicon ei näy:</strong> Tyhjennä välimuisti ja varmista, että <code>/favicon.ico</code> on linkitetty <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> kautta.</li><li><strong>Fontit/suodattimet:</strong> Ei upotetut fontit, monimutkaiset suodattimet tai ulkoiset resurssit voivat rasteroida eri tavalla. Muunna teksti ääriviivoiksi ja upota tarvittavat resurssit SVG:hen.</li><li><strong>Leikkaaminen:</strong> Käytä neliötaustaa, jossa on pehmusteita, jotta vältetään leikkaaminen rasteroinnin jälkeen.</li><li><strong>Lataus epäonnistuu:</strong> Varmista, että SVG ≤ 16&nbsp;MB ja on voimassa <code>image/svg+xml</code>.</li></ul>"
+    },
+    {
+      "title": "Parhaat käytännöt",
+      "description": "<ul><li>Suunnittele 512×512 tai 1024×1024 neliötaustalla puhtaiden pienennysten saavuttamiseksi.</li><li>Pidä muodot rohkeina; vältä ohuita viivoja pienissä koossa.</li><li>Käytä suurta kontrastia luettavuuden parantamiseksi 16–32 px kuvakkeissa.</li></ul>"
+    },
+    {
+      "title": "Ominaisuudet SVG ICO Muunnimessamme",
+      "description": "<ul><li>100% Ilmainen ilman vesileimoja</li><li>Automaattinen vektori→rasterimuunnos</li><li>Monikokoinen kuvakegenerointi</li><li>Läpinäkyvyys säilytetty</li><li>Turvallinen käsittely</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Onko tämä SVG ICO muunnin ilmainen?",
+      "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+    },
+    {
+      "question": "Mitä kokoja tuetaan ICO-tiedostoissa?",
+      "answer": "Yleisiä kokoja ovat 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
+    },
+    {
+      "question": "Voinko käyttää ICO:ta verkkosivuston faviconina?",
+      "answer": "Kyllä. Aseta <code>/favicon.ico</code> sivustosi juureen ja viittaa siihen <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> kautta."
+    },
+    {
+      "question": "Mitä tiedostokokoja tuetaan?",
+      "answer": "Voit ladata SVG-tiedostoja, joiden koko on enintään 16&nbsp;MB."
+    },
+    {
+      "question": "Ovatko tiedostoni turvallisia?",
+      "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
+    },
+    {
+      "question": "Onko kuvakkeen laatu hyvä?",
+      "answer": "Kyllä. Rasteroimme vektoristasi useissa koossa, jotta reunat pysyvät terävinä ja läpinäkyvyys säilyy."
+    }
+  ],
+  "note": "SVG:t rasteroidaan muunnoksen aikana. Johdonmukaisten tulosten saavuttamiseksi muunna teksti ääriviivoiksi ja upota tarvittavat resurssit.",
+  "related_links": [
+    {
+      "title": "Muuta PNG ICO:ksi",
+      "url": "/fi/convert/png-to-ico"
+    },
+    {
+      "title": "Muuta JPG ICO:ksi",
+      "url": "/fi/convert/jpg-to-ico"
+    },
+    {
+      "title": "Muuta ICO PNG:ksi",
+      "url": "/fi/convert/ico-to-png"
+    },
+    {
+      "title": "Muuta SVG PNG:ksi",
+      "url": "/fi/convert/svg-to-png"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Kaikki oikeudet pidätetään.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Muunnin - Ilmainen & Verkkopalvelu",
+      "url": "https://wikihowto.click/fi/convert/svg-to-ico",
+      "description": "Ilmainen verkkotyökalu SVG-kuvien muuntamiseen ICO:ksi faviconien ja Windows-työpöytäkuvakkeiden varten.",
+      "inLanguage": "fi",
+      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Etusivu",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Muunna",
+          "item": "https://wikihowto.click/fi/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG ICO:ksi",
+          "item": "https://wikihowto.click/fi/convert/svg-to-ico"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Muunnin",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/fi/convert/svg-to-ico",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Vektori rasteriksi",
+        "Monikokosarja",
+        "Läpinäkyvyys säilytetty"
+      ],
+      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onko tämä SVG ICO muunnin ilmainen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä tiedostokokoja tuetaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Voit ladata SVG-tiedostoja, joiden koko on enintään 16 MB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä kokoja tuetaan ICO-tiedostoissa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleisiä kokoja ovat 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kuinka muuntaa SVG ICO:ksi",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Napsauta Lataa SVG ja valitse vektorifilesi."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Odota rasterointia ja optimointia."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Napsauta Lataa ICO tallentaaksesi kuvaketiedoston."
+        }
+      ],
+      "tool": [
+        "SVG to ICO Muunnin"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

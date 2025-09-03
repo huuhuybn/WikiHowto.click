@@ -1,0 +1,90 @@
+{
+  "title": "Convert AMR to MP3 - Free Online Converter",
+  "description": "Convert AMR files to MP3 format online for free.",
+  "keywords": "amr to mp3, convert amr to mp3, amr mp3 converter, free online converter",
+  "og_title": "Convert AMR to MP3 - Free Online Converter",
+  "og_description": "Convert AMR files to MP3 format online for free.",
+  "og_image": "/images/audio-converter.jpg",
+  "twitter_title": "Convert AMR to MP3 - Free Online Converter",
+  "twitter_description": "Convert AMR files to MP3 format online for free.",
+  "canonical_url": "/en/audio/convert-amr-to-mp3",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Convert AMR to MP3",
+    "description": "Convert AMR files to MP3 format online for free.",
+    "image": "/images/audio-converter.jpg",
+    "totalTime": "PT2M",
+    "estimatedCost": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": "0"
+    },
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Upload AMR file",
+        "text": "Click the upload area or drag and drop your AMR file",
+        "image": "/images/upload-step.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Convert to MP3",
+        "text": "Click the convert button to start the conversion process",
+        "image": "/images/convert-step.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Download MP3 file",
+        "text": "Download your converted MP3 file when ready",
+        "image": "/images/download-step.jpg"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "name": "Home",
+      "url": "/en/"
+    },
+    {
+      "name": "Audio Converter",
+      "url": "/en/audio/converter"
+    },
+    {
+      "name": "AMR to MP3",
+      "url": "/en/audio/convert-amr-to-mp3"
+    }
+  ],
+  "converter": {
+    "title": "Convert AMR to MP3",
+    "subtitle": "Convert AMR files to MP3 format",
+    "description": "Upload your AMR file and convert it to MP3 format quickly and securely.",
+    "supported_formats": {
+      "input": [
+        "amr"
+      ],
+      "output": [
+        "mp3"
+      ]
+    },
+    "features": [
+      "Free online conversion",
+      "No registration required",
+      "Secure file processing",
+      "Fast conversion speed",
+      "Works on all devices"
+    ],
+    "instructions": [
+      "Click the upload area or drag and drop your AMR file",
+      "Wait for the file to upload and process",
+      "Click 'Convert to MP3' to start conversion",
+      "Download your MP3 file when ready"
+    ],
+    "tips": [
+      "Maximum file size: 100MB",
+      "Supported AMR formats",
+      "High quality MP3 output",
+      "Fast and secure conversion"
+    ]
+  }
+}

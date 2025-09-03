@@ -1,0 +1,226 @@
+{
+  "lang": "lt",
+  "lang_name": "Lietuvių",
+  "title": "PNG į WebP konverteris - Nemokamai ir internetu | WikiHowTo.click",
+  "sub_title": "Konvertuokite PNG vaizdus į WebP formatą internetu su skaidrumo palaikymu, aukštesne kompresija ir be vandens ženklų.",
+  "hint": "Įkelkite savo PNG vaizdą, kad pradėtumėte konvertuoti...",
+  "btn_download": "Konvertuoti į WebP",
+  "btn_paste": "Įkelti PNG",
+  "btn_clear": "Išvalyti",
+  "ogImage": "https://wikihowto.click/images/png-to-webp.jpg",
+  "converter": {
+    "type": "png-to-webp",
+    "inputFormat": "PNG",
+    "outputFormat": "WebP",
+    "apiEndpoint": "/image-converter/convert-single",
+    "allowedTypes": [
+      "image/png"
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/webp",
+    "outputExtension": ".webp",
+    "quality": 90,
+    "options": {
+      "webp": {
+        "quality": 90,
+        "lossless": false,
+        "nearLossless": false
+      }
+    }
+  },
+  "description": "<p>Optimizuokite savo <strong>PNG į WebP</strong> moderniam internetui! Mūsų nemokamas konverteris išlaiko skaidrumą, tuo pačiu teikdamas daug mažesnius failus. WebP sujungia PNG stiliaus alfa su modernia kompresija, todėl jis idealiai tinka logotipams, UI grafikoms ir vaizdams, kuriems reikia aštrių kraštų.</p><p>Daugeliu atvejų WebP yra <strong>30–50% mažesnis</strong> nei PNG, išlaikant panašią vizualinę kokybę, ir jį palaiko visi pagrindiniai naršyklės. Mes automatiškai deriname nustatymus, kad subalansuotume tikslumą ir dydį, kad puslapiai būtų greitesni ir reikalautų mažiau pralaidumo.</p>",
+  "head": {
+    "title": "Konvertuoti PNG į WebP internetu - Nemokamas PNG į WebP konverteris | WikiHowTo.click",
+    "description": "Konvertuokite PNG į WebP internetu su skaidrumo palaikymu, aukštesne kompresija ir be vandens ženklų. Nemokamas, greitas ir saugus PNG į WebP konverterio įrankis.",
+    "keywords": "png į webp, konvertuoti png į webp, nemokamas png į webp, internetinis webp konverteris, skaidrūs vaizdai",
+    "canonical": "https://wikihowto.click/lt/convert/png-to-webp",
+    "og_title": "PNG į WebP konverteris - Nemokamai ir internetu",
+    "og_description": "Konvertuokite PNG vaizdus į WebP su skaidrumu ir aukštesne kompresija. 100% nemokamai, greitai ir saugiai.",
+    "og_url": "https://wikihowto.click/lt/convert/png-to-webp",
+    "og_image": "https://wikihowto.click/images/png-to-webp.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Nemokamas PNG į WebP konverteris internetu",
+    "twitter_description": "Konvertuokite PNG į WebP su skaidrumo palaikymu ir aukštesne kompresija. Veikia visuose įrenginiuose.",
+    "twitter_image": "https://wikihowto.click/images/png-to-webp.jpg"
+  },
+  "h1": {
+    "title": "Konvertuoti PNG į WebP internetu",
+    "description": "Nemokamas ir greitas PNG į WebP konverteris su skaidrumo palaikymu ir aukštesne kompresija. Veikia iš karto bet kuriame įrenginyje — registracija nereikalinga."
+  },
+  "h2": [
+    {
+      "title": "Kodėl konvertuoti PNG į WebP?",
+      "description": "<p>WebP yra modernus sunkios PNG turinio pakaitalas:</p><ul><li><strong>Mažesni failai:</strong> Paprastai 30–50% mažesni nei PNG.</li><li><strong>Skaidrumas:</strong> Išlaiko alfa kanalą kaip PNG.</li><li><strong>Veikimas:</strong> Greitesnis puslapių įkrovimas ir mažesnis pralaidumas.</li><li><strong>Suderinamumas:</strong> Palaiko visos pagrindinės naršyklės.</li></ul>"
+    },
+    {
+      "title": "Kaip konvertuoti PNG į WebP internetu",
+      "description": "<ol><li>Paspauskite <em>Įkelti PNG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol bus apdorota ir optimizuota.</li><li>Paspauskite <em>Parsisiųsti WebP</em>, kad išsaugotumėte rezultatą.</li></ol><p>Numatytieji nustatymai orientuoti į internetui tinkamą dydį/kokybę, išlaikant švarius kraštus.</p>"
+    },
+    {
+      "title": "WebP ir PNG palyginimas",
+      "description": "<ul><li><strong>Failo dydis:</strong> WebP paprastai yra 30–50% mažesnis.</li><li><strong>Skaidrumas:</strong> Abu palaiko alfa.</li><li><strong>Kokybė:</strong> Panaši suvokta kokybė su mažesniais baitais WebP.</li><li><strong>Kompresija:</strong> WebP naudoja efektyvesnius kodekus.</li></ul>"
+    },
+    {
+      "title": "Palaikomi limitai ir formatai",
+      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Kodavimas:</strong> Prarandantis WebP, kokybė ≈ 90; skaidrumas išlaikytas</li></ul>"
+    },
+    {
+      "title": "Problemos sprendimas",
+      "description": "<ul><li><strong>Senesnės naršyklės:</strong> Pateikite WebP su PNG atsarginiu variantu naudojant <code>&lt;picture&gt;</code> elementą.</li><li><strong>Apskritimai ant kraštų:</strong> Pradėkite nuo didesnės raiškos PNG arba patobulinkite alfa; WebP išlaiko skaidrumą, tačiau nelygumai gali kilti iš šaltinio.</li><li><strong>Vis dar per didelis:</strong> Šiek tiek sumažinkite kokybę (80–85%) arba pakeiskite dydį prieš konvertuodami.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad PNG ir ≤ 16&nbsp;MB.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ar šis PNG į WebP konverteris nemokamas?",
+      "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+    },
+    {
+      "question": "Ar WebP išlaikys skaidrumą iš PNG?",
+      "answer": "Taip. WebP visiškai palaiko alfa ir išlaiko skaidrumą iš jūsų PNG."
+    },
+    {
+      "question": "Kiek mažesni yra WebP failai, palyginti su PNG?",
+      "answer": "Dažnai 30–50% mažesni, išlaikant panašią vizualinę kokybę, priklausomai nuo vaizdo."
+    },
+    {
+      "question": "Ar WebP veiks visose naršyklėse?",
+      "answer": "WebP palaiko visos modernios naršyklės (Chrome, Firefox, Safari, Edge). Pateikite PNG atsarginį variantą labai senoms naršyklėms."
+    },
+    {
+      "question": "Kokie failo dydžiai yra palaikomi?",
+      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
+    },
+    {
+      "question": "Ar galiu konvertuoti kelis PNG vienu metu?",
+      "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite partijų įrankį."
+    }
+  ],
+  "note": "Dėl maksimalaus suderinamumo pateikite WebP su PNG atsarginiu variantu naudojant <code>&lt;picture&gt;</code>.",
+  "related_links": [
+    {
+      "title": "Konvertuoti WebP į PNG",
+      "url": "/lt/convert/webp-to-png"
+    },
+    {
+      "title": "Konvertuoti PNG į AVIF",
+      "url": "/lt/convert/png-to-avif"
+    },
+    {
+      "title": "Konvertuoti PNG į JPG",
+      "url": "/lt/convert/png-to-jpg"
+    }
+  ],
+  "footer": "© 2019 - 2025 WikiHowTo.click. Visos teisės saugomos.",
+  "rich_results": [
+    {
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG į WebP konverteris - Nemokamai ir internetu",
+      "url": "https://wikihowto.click/lt/convert/png-to-webp",
+      "description": "Nemokamas internetinis įrankis, skirtas konvertuoti PNG vaizdus į WebP su skaidrumo palaikymu ir aukštesne kompresija.",
+      "inLanguage": "lt",
+      "image": "https://wikihowto.click/images/png-to-webp.jpg",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "WikiHowTo.click",
+        "url": "https://wikihowto.click/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Pradžia",
+          "item": "https://wikihowto.click/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Konvertuoti",
+          "item": "https://wikihowto.click/lt/convert/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG į WebP",
+          "item": "https://wikihowto.click/lt/convert/png-to-webp"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG į WebP konverteris",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://wikihowto.click/lt/convert/png-to-webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Skaidrumas išlaikytas",
+        "Aukštesnė kompresija",
+        "Greitas apdorojimas"
+      ],
+      "screenshot": "https://wikihowto.click/images/png-to-webp.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ar šis PNG į WebP konverteris nemokamas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kokie failo dydžiai yra palaikomi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ar WebP išlaikys skaidrumą iš PNG?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taip. WebP palaiko alfa kanalą ir išlaiko skaidrumą."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "Kaip konvertuoti PNG į WebP",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Paspauskite Įkelti PNG ir pasirinkite savo failą."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Palaukite, kol bus apdorota ir optimizuota."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Paspauskite Parsisiųsti WebP, kad išsaugotumėte rezultatą."
+        }
+      ],
+      "tool": [
+        "PNG į WebP konverteris"
+      ],
+      "totalTime": "PT10S"
+    }
+  ]
+}

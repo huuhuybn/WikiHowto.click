@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="<%= content.lang %>">
+<head>
+    <meta name="google-adsense-account" content="ca-pub-6705616556499368">
+    <meta name="language" content="<%= content.lang %>"/>
+    <%- include('head') %>
+</head>
+<body>
+<%- include('header') %>
+<section id="hero" class="section hero">
+    <div class="container w100">
+        <h1 class="title"><%= (content.h1 && content.h1.title) ? content.h1.title : content.title %></h1>
+        <p class="title title-2"><%= (content.h1 && content.h1.description) ? content.h1.description : content.sub_title %></p>
+        <div class="mt-3" id="progress"
+             style="margin-top: 2em;width: 100%; background-color: rgb(197,195,195); height: 14px; border-radius: 2px; visibility: hidden;">
+            <div id="progressbar" class="progress-bar" role="progressbar" aria-label="Progress Bar" aria-valuenow="0"
+                 aria-valuemin="0" aria-valuemax="100"
+                 style="width: 0%; height: 100%; background: linear-gradient(90deg, #00bfff 0%, #007bff 100%); border-radius: 2px; transition: width 0.4s ease-out;">
+            </div>
+        </div>
+        <!-- Converter component only; no search UI on homepage -->
+        <% if (typeof content.converter !== 'undefined') { %>
+            <%- include('components/image-converter') %>
+        <% } %>
+
+    </div>
+</section>
+<section id="main" class="section" style="height: auto !important;">
+    <div class="adsense-banner"
+         style="width:100%; height:250px; margin: 0 auto; text-align:center;">
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:100%;height:100%;"
+             data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+             data-ad-slot="YYYYYYYYYY"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div class="container" style="height: auto !important;">
+        <div id="download" class="download"></div>
+        <div class="contents">
+            <% if (content.h2 && content.h2.length) { content.h2.forEach(function(item) { %>
+                <h2 class="title title-2"><%= item.title %></h2>
+                <div class="converter-links"><%- item.description %></div>
+            <% }) } %>
+                <br>
+                <div class="accordion" id="faq" itemscope="" itemtype="https://schema.org/FAQPage">
+                    <% if (content.faq && content.faq.length) { content.faq.forEach(function(item) { %>
+                        <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+                            <button class="button is-info btn-accordion">
+                                <h3 class="accordion-title" itemprop="name"><%= item.question %></h3>
+                                <span class="icon arrow"></span>
+                            </button>
+                            <div class="accordion-content" itemprop="acceptedAnswer" itemscope=""
+                                 itemtype="https://schema.org/Answer">
+                                <div class="accordion-text" itemprop="text">
+                                    <ul class="ol-decorated pt-3">
+                                        <li><%= item.answer %></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    <% }) } %>
+                </div>
+                <p class="title title-2"><%- content.note %></p>
+        </div>
+    </div>
+</section>
+<%- include('footer') %>
+<!-- Removed search-related scripts and language JS as homepage has no search UI -->
+</body>
+</html>
