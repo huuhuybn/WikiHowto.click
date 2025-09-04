@@ -171,7 +171,8 @@ app.post('/convert', upload.array('files', 10), async (req, res) => {
                     results.push({
                         originalName: file.originalname,
                         success: true,
-                        data: result
+                        data: result,
+                        originalBuffer: file.buffer
                     });
                 } catch (error) {
                     console.error(`Error processing file ${file.originalname}:`, error);
@@ -207,10 +208,14 @@ app.post('/convert', upload.array('files', 10), async (req, res) => {
                     const convertedPath = path.join(__dirname, 'temp', finalFilename);
                     fs.writeFileSync(convertedPath, result.data.buffer);
                     
-                    // Generate thumbnail from converted file
+                    // Generate thumbnail from original file (not converted file)
                     let thumbnailFilename = '';
                     try {
-                        const thumbnailBuffer = await sharp(result.data.buffer)
+                        // For ICO files, create thumbnail from original file since Sharp can't read ICO
+                        const sourceBuffer = result.data.mimetype === 'image/x-icon' ? 
+                            result.originalBuffer : result.data.buffer;
+                        
+                        const thumbnailBuffer = await sharp(sourceBuffer)
                             .resize(150, 150, { fit: 'cover' })
                             .jpeg({ quality: 80 })
                             .toBuffer();

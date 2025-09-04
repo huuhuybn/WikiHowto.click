@@ -318,23 +318,104 @@ class ImageHandler {
     }
 
     async convertToIco(sharpInstance, file) {
-        // ICO files typically contain multiple sizes (16x16, 32x32, 48x48)
-        // We'll create a simple ICO with 32x32 size
-        const outputBuffer = await sharpInstance
-            .resize(32, 32, { fit: 'inside', withoutEnlargement: true })
-            .png({ compressionLevel: 6 })
-            .toBuffer();
-
-        // Convert PNG to ICO format
-        // Note: This is a simplified ICO conversion
-        // For full ICO support, we'd need to implement proper ICO header and structure
+        // ICO files typically contain multiple sizes (16x16, 32x32, 48x48, 64x64, 128x128, 256x256)
+        const sizes = [16, 32, 48, 64, 128, 256];
         const originalName = path.parse(file.originalname).name;
+        
+        // Create multiple PNG buffers for different sizes
+        const pngBuffers = [];
+        for (const size of sizes) {
+            try {
+                const pngBuffer = await sharpInstance
+                    .clone()
+                    .resize(size, size, { fit: 'inside', withoutEnlargement: true })
+                    .png({ compressionLevel: 6 })
+                    .toBuffer();
+                pngBuffers.push({ size, buffer: pngBuffer });
+            } catch (error) {
+                console.warn(`Failed to create ${size}x${size} icon:`, error.message);
+            }
+        }
+
+        if (pngBuffers.length === 0) {
+            throw new Error('Failed to create any icon sizes');
+        }
+
+        // Create ICO file with proper header
+        const icoBuffer = this.createIcoFile(pngBuffers);
+        
         return {
-            buffer: outputBuffer,
+            buffer: icoBuffer,
             filename: `${originalName}.ico`,
             mimetype: 'image/x-icon',
-            size: outputBuffer.length
+            size: icoBuffer.length
         };
+    }
+
+    createIcoFile(pngBuffers) {
+        // ICO file structure:
+        // Header (6 bytes) + Directory entries (16 bytes each) + Image data
+        
+        const numImages = pngBuffers.length;
+        const headerSize = 6;
+        const directorySize = numImages * 16;
+        const headerAndDirectorySize = headerSize + directorySize;
+        
+        // Calculate total size
+        let totalSize = headerAndDirectorySize;
+        for (const png of pngBuffers) {
+            totalSize += png.buffer.length;
+        }
+        
+        const icoBuffer = Buffer.alloc(totalSize);
+        let offset = 0;
+        
+        // Write ICO header
+        icoBuffer.writeUInt16LE(0, offset); // Reserved (must be 0)
+        offset += 2;
+        icoBuffer.writeUInt16LE(1, offset); // Type (1 = ICO)
+        offset += 2;
+        icoBuffer.writeUInt16LE(numImages, offset); // Number of images
+        offset += 2;
+        
+        // Write directory entries
+        let imageDataOffset = headerAndDirectorySize;
+        for (const png of pngBuffers) {
+            // Width (0 = 256)
+            icoBuffer.writeUInt8(png.size === 256 ? 0 : png.size, offset);
+            offset += 1;
+            // Height (0 = 256)
+            icoBuffer.writeUInt8(png.size === 256 ? 0 : png.size, offset);
+            offset += 1;
+            // Color palette (0 = no palette)
+            icoBuffer.writeUInt8(0, offset);
+            offset += 1;
+            // Reserved (must be 0)
+            icoBuffer.writeUInt8(0, offset);
+            offset += 1;
+            // Color planes (0 or 1)
+            icoBuffer.writeUInt16LE(0, offset);
+            offset += 2;
+            // Bits per pixel (32 for RGBA)
+            icoBuffer.writeUInt16LE(32, offset);
+            offset += 2;
+            // Size of image data
+            icoBuffer.writeUInt32LE(png.buffer.length, offset);
+            offset += 4;
+            // Offset to image data
+            icoBuffer.writeUInt32LE(imageDataOffset, offset);
+            offset += 4;
+            
+            imageDataOffset += png.buffer.length;
+        }
+        
+        // Write image data
+        for (const png of pngBuffers) {
+            png.buffer.copy(icoBuffer, offset);
+            offset += png.buffer.length;
+        }
+        
+        return icoBuffer;
     }
 
     async convertSvgToPng(sharpInstance, file) {

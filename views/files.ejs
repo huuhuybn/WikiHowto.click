@@ -18,6 +18,11 @@ for (var i = 0; i < data.length; i++) {
              var qualityText = media.quality ? media.quality.toUpperCase() : 'HD';
              var typeText = media.type ? media.type.toUpperCase() : 'VIDEO';
              var buttonText = 'Download ' + qualityText + ' ' + typeText;
+             
+             // Special handling for ICO files to show multiple sizes
+             if (media.type && media.type.includes('x-icon')) {
+                 buttonText = 'Download ICO (Multi-size)';
+             }
             %>
                 <a href="<%= media.url %>"
                    class="button download-file mt-3"
@@ -26,6 +31,14 @@ for (var i = 0; i < data.length; i++) {
                    download>
                     <i class="icon icon-down"></i><%= buttonText %>
                 </a>
+            <% } %>
+            
+            <!-- Show ICO size information if it's an ICO file -->
+            <% if (item.medias.length > 0 && item.medias[0].type && item.medias[0].type.includes('x-icon')) { %>
+                <div class="ico-info" style="margin-top: 10px; padding: 10px; background: #f8f9fa; border-radius: 4px; font-size: 12px; color: #666;">
+                    <strong>ICO contains:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 pixels<br>
+                    <em>Perfect for favicons and desktop icons</em>
+                </div>
             <% } %>
         </div>
     </div>
