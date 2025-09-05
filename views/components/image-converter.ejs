@@ -472,8 +472,10 @@ document.addEventListener('DOMContentLoaded', function() {
                         
                         // Start progress animation for this file
                         let current = 0;
+                        console.log(`Starting animation for file ${index + 1}`);
                         const fileTimer = setInterval(() => {
                             current = Math.min(current + Math.random() * 15 + 5, 90);
+                            console.log(`File ${index + 1} progress: ${Math.round(current)}%`);
                             if (progressFill) {
                                 progressFill.style.width = current + '%';
                             }
@@ -485,13 +487,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                 if (progressText) {
                                     progressText.textContent = 'Processing...';
                                 }
+                                console.log(`File ${index + 1} animation completed`);
                             }
-                        }, 200 + (index * 50)); // Stagger timing for each file
+                        }, 150 + (index * 30)); // Faster timing, less stagger
                         
                         // Clear timer on page unload
                         window.addEventListener('beforeunload', () => clearInterval(fileTimer));
                     }, index * 100); // Stagger animation for each file
-                    console.log(`File ${index + 1} progress shown`);
+                    console.log(`File ${index + 1} progress shown, elements:`, {
+                        progressFill: !!progressFill,
+                        progressText: !!progressText,
+                        progressSection: !!ps
+                    });
                 }
                 if (st) { 
                     st.style.display = 'block'; 
