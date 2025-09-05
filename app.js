@@ -333,24 +333,7 @@ app.get('/convert/progress/:id', (req, res) => {
     res.json(progress);
 });
 
-app.use('/', indexRouter);
-
-// Robots.txt route
-app.get('/robots.txt', function(req, res) {
-    res.sendFile(path.join(__dirname, 'public/robots.txt'));
-});
-
-// Sitemap.xml route
-app.get('/sitemap.xml', function(req, res) {
-    res.sendFile(path.join(__dirname, 'public/sitemap.xml'));
-});
-
-// Ads.txt route
-app.get('/ads.txt', function(req, res) {
-    res.sendFile(path.join(__dirname, 'public/ads.txt'));
-});
-
-// Blog routes
+// Blog routes - must be before indexRouter to avoid conflicts
 app.get('/blog', (req, res) => {
     try {
         const blogDir = path.join(__dirname, 'locales', 'en', 'blog');
@@ -396,6 +379,23 @@ app.get('/blog/:slug', (req, res) => {
         console.error('Error loading blog post:', error);
         res.status(500).send('Error loading blog post');
     }
+});
+
+app.use('/', indexRouter);
+
+// Robots.txt route
+app.get('/robots.txt', function(req, res) {
+    res.sendFile(path.join(__dirname, 'public/robots.txt'));
+});
+
+// Sitemap.xml route
+app.get('/sitemap.xml', function(req, res) {
+    res.sendFile(path.join(__dirname, 'public/sitemap.xml'));
+});
+
+// Ads.txt route
+app.get('/ads.txt', function(req, res) {
+    res.sendFile(path.join(__dirname, 'public/ads.txt'));
 });
 
 // Route để serve files đã convert
