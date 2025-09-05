@@ -53,6 +53,14 @@ class ImageHandler {
             throw new Error(`Unsupported conversion type: ${type}`);
         }
 
+        // Test Sharp.js availability
+        try {
+            await sharp(file.buffer).metadata();
+        } catch (sharpError) {
+            console.error('Sharp.js test failed:', sharpError);
+            throw new Error(`Image processing library error: ${sharpError.message}`);
+        }
+
         const config = this.supportedTypes[type];
         
         // Thử phát hiện định dạng thực tế bằng sharp thay vì chỉ tin mimetype upload

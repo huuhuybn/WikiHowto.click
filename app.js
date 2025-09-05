@@ -20,6 +20,50 @@ const upload = multer({
     }
 });
 
+// Health check endpoint for production debugging
+app.get('/health', async (req, res) => {
+    try {
+        const health = {
+            status: 'ok',
+            timestamp: new Date().toISOString(),
+            environment: process.env.NODE_ENV || 'development',
+            nodeVersion: process.version,
+            platform: process.platform,
+            arch: process.arch,
+            memory: process.memoryUsage(),
+            uptime: process.uptime()
+        };
+        
+        // Test Sharp.js
+        try {
+            const testBuffer = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==', 'base64');
+            await sharp(testBuffer).metadata();
+            health.sharp = { status: 'ok', version: sharp.versions };
+        } catch (sharpError) {
+            health.sharp = { status: 'error', error: sharpError.message };
+        }
+        
+        // Test temp directory
+        try {
+            const tempDir = path.join(__dirname, 'temp');
+            if (!fs.existsSync(tempDir)) {
+                fs.mkdirSync(tempDir, { recursive: true });
+            }
+            health.tempDir = { status: 'ok', path: tempDir, writable: true };
+        } catch (tempError) {
+            health.tempDir = { status: 'error', error: tempError.message };
+        }
+        
+        res.json(health);
+    } catch (error) {
+        res.status(500).json({
+            status: 'error',
+            error: error.message,
+            timestamp: new Date().toISOString()
+        });
+    }
+});
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -176,6 +220,16 @@ app.post('/convert', upload.array('files', 10), async (req, res) => {
                     });
                 } catch (error) {
                     console.error(`Error processing file ${file.originalname}:`, error);
+                    console.error('Conversion error details:', {
+                        fileName: file.originalname,
+                        fileSize: file.size,
+                        fileMimeType: file.mimetype,
+                        conversionType: type,
+                        errorMessage: error.message,
+                        errorStack: error.stack,
+                        bufferExists: !!file.buffer,
+                        bufferSize: file.buffer ? file.buffer.length : 0
+                    });
                     results.push({
                         originalName: file.originalname,
                         success: false,
@@ -225,6 +279,12 @@ app.post('/convert', upload.array('files', 10), async (req, res) => {
                         fs.writeFileSync(thumbnailPath, thumbnailBuffer);
                     } catch (thumbError) {
                         console.error('Error generating thumbnail:', thumbError);
+                        console.error('Thumbnail error details:', {
+                            message: thumbError.message,
+                            stack: thumbError.stack,
+                            sourceBufferType: result.data.mimetype,
+                            sourceBufferSize: sourceBuffer ? sourceBuffer.length : 'undefined'
+                        });
                         // Use a default thumbnail or skip thumbnail
                         thumbnailFilename = '';
                     }
