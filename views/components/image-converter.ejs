@@ -460,12 +460,36 @@ document.addEventListener('DOMContentLoaded', function() {
             items.forEach((it, index) => {
                 const ps = it.querySelector('.file-progress');
                 const st = it.querySelector('.file-status');
+                const progressFill = it.querySelector('.file-progress-fill');
+                const progressText = it.querySelector('.file-progress-text');
+                
                 if (ps) {
                     ps.style.display = 'block';
                     // Add smooth fade-in animation
                     setTimeout(() => {
                         ps.style.opacity = '1';
                         ps.style.transform = 'translateY(0)';
+                        
+                        // Start progress animation for this file
+                        let current = 0;
+                        const fileTimer = setInterval(() => {
+                            current = Math.min(current + Math.random() * 15 + 5, 90);
+                            if (progressFill) {
+                                progressFill.style.width = current + '%';
+                            }
+                            if (progressText) {
+                                progressText.textContent = Math.round(current) + '%';
+                            }
+                            if (current >= 90) {
+                                clearInterval(fileTimer);
+                                if (progressText) {
+                                    progressText.textContent = 'Processing...';
+                                }
+                            }
+                        }, 200 + (index * 50)); // Stagger timing for each file
+                        
+                        // Clear timer on page unload
+                        window.addEventListener('beforeunload', () => clearInterval(fileTimer));
                     }, index * 100); // Stagger animation for each file
                     console.log(`File ${index + 1} progress shown`);
                 }
