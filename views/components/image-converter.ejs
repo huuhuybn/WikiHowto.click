@@ -15,6 +15,92 @@
     <div id="file-info" class="file-info"></div>
   </div>
 
+  <style>
+  .upload-progress {
+    margin: 20px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .progress-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color: #495057;
+  }
+  
+  .progress-bar-container {
+    width: 100%;
+    height: 8px;
+    background: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 4px;
+    position: relative;
+  }
+  
+  .file-progress {
+    margin-top: 8px;
+    display: none;
+  }
+  
+  .file-progress-bar {
+    width: 100%;
+    height: 4px;
+    background: #e9ecef;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  
+  .file-progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #28a745, #20c997);
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+  
+  .file-progress-text {
+    font-size: 12px;
+    color: #6c757d;
+    margin-top: 4px;
+  }
+  
+  .file-status {
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    display: none;
+  }
+  
+  .file-status.uploading {
+    background: #fff3cd;
+    color: #856404;
+  }
+  
+  .file-status.completed {
+    background: #d4edda;
+    color: #155724;
+  }
+  
+  .file-status.error {
+    background: #f8d7da;
+    color: #721c24;
+  }
+  </style>
+
   <div class="is-relative" style="overflow: hidden;width: 100%;">
     <!-- File input: multiple -->
     <input name="files"
@@ -444,6 +530,8 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
+        console.log('Form submitted, showing progress bars...');
+
         // Show hero progress bar (#progress)
         try {
             var heroProgress = document.getElementById('progress');
@@ -459,32 +547,56 @@ document.addEventListener('DOMContentLoaded', function() {
                 }, 250);
                 window.addEventListener('beforeunload', () => clearInterval(heroTimer));
             }
-        } catch (_) {}
+        } catch (error) {
+            console.error('Hero progress error:', error);
+        }
 
         // Show upload progress container in component
         try {
-            progressContainer.style.display = 'block';
-            progressText.textContent = 'Uploading...';
+            if (progressContainer) {
+                progressContainer.style.display = 'block';
+                console.log('Progress container shown');
+            }
+            if (progressText) {
+                progressText.textContent = 'Uploading...';
+            }
+            
             let current = 0;
             const timer = setInterval(() => {
                 current = Math.min(current + Math.random() * 8 + 2, 90);
-                progressBar.style.width = current + '%';
-                progressPercent.textContent = Math.round(current) + '%';
+                if (progressBar) {
+                    progressBar.style.width = current + '%';
+                }
+                if (progressPercent) {
+                    progressPercent.textContent = Math.round(current) + '%';
+                }
                 if (current >= 90) clearInterval(timer);
             }, 250);
             window.addEventListener('beforeunload', () => clearInterval(timer));
-        } catch (_) {}
+        } catch (error) {
+            console.error('Progress bar error:', error);
+        }
 
         // Reveal per-file progress blocks and status labels
         try {
             const items = document.querySelectorAll('.file-item');
-            items.forEach((it) => {
+            console.log('Found file items:', items.length);
+            items.forEach((it, index) => {
                 const ps = it.querySelector('.file-progress');
                 const st = it.querySelector('.file-status');
-                if (ps) ps.style.display = 'block';
-                if (st) { st.style.display = 'block'; st.textContent = 'Uploading'; st.className = 'file-status uploading'; }
+                if (ps) {
+                    ps.style.display = 'block';
+                    console.log(`File ${index + 1} progress shown`);
+                }
+                if (st) { 
+                    st.style.display = 'block'; 
+                    st.textContent = 'Uploading...'; 
+                    st.className = 'file-status uploading'; 
+                }
             });
-        } catch (_) {}
+        } catch (error) {
+            console.error('File progress error:', error);
+        }
     });
 
     function formatFileSize(bytes) {
