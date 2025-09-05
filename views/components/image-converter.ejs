@@ -3,8 +3,8 @@
     <div class="message-body"></div>
   </div>
 
-  <!-- Progress Bar Container -->
-  <div id="upload-progress" class="upload-progress" style="display: none;">
+  <!-- Progress Bar Container - Fixed height to prevent layout shift -->
+  <div id="upload-progress" class="upload-progress" style="display: none; min-height: 60px;">
     <div class="progress-info">
       <span id="progress-text">Uploading...</span>
       <span id="progress-percent">0%</span>
@@ -23,6 +23,15 @@
     border-radius: 8px;
     border: 1px solid #e9ecef;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    min-height: 60px;
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  
+  .upload-progress.show {
+    opacity: 1;
+    transform: translateY(0);
   }
   
   .progress-info {
@@ -214,6 +223,9 @@
     margin-right: 10px;
     flex-shrink: 0;
     display: none; /* Ẩn mặc định */
+    opacity: 0;
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
 }
 
 .file-progress-bar {
@@ -551,10 +563,14 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Hero progress error:', error);
         }
 
-        // Show upload progress container in component
+        // Show upload progress container in component with smooth animation
         try {
             if (progressContainer) {
                 progressContainer.style.display = 'block';
+                // Add show class after a brief delay for smooth animation
+                setTimeout(() => {
+                    progressContainer.classList.add('show');
+                }, 50);
                 console.log('Progress container shown');
             }
             if (progressText) {
@@ -571,13 +587,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     progressPercent.textContent = Math.round(current) + '%';
                 }
                 if (current >= 90) clearInterval(timer);
-            }, 250);
+            }, 200);
             window.addEventListener('beforeunload', () => clearInterval(timer));
         } catch (error) {
             console.error('Progress bar error:', error);
         }
 
-        // Reveal per-file progress blocks and status labels
+        // Reveal per-file progress blocks and status labels with smooth animation
         try {
             const items = document.querySelectorAll('.file-item');
             console.log('Found file items:', items.length);
@@ -586,6 +602,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 const st = it.querySelector('.file-status');
                 if (ps) {
                     ps.style.display = 'block';
+                    // Add smooth fade-in animation
+                    setTimeout(() => {
+                        ps.style.opacity = '1';
+                        ps.style.transform = 'translateY(0)';
+                    }, index * 100); // Stagger animation for each file
                     console.log(`File ${index + 1} progress shown`);
                 }
                 if (st) { 
