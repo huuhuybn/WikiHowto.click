@@ -80,7 +80,7 @@ router.get('/:lang/:group/:slug/', (req, res) => {
     console.log(`Accessing route: ${lang}/${group}/${slug}/`);
 
     // Validate group - only allow valid content groups (removed 'all' since we don't use it)
-    const validGroups = ['image-converter', 'image', 'pdf', 'video', 'audio', 'font', 'office', 'archive'];
+    const validGroups = ['image-converter', 'image', 'pdf', 'video', 'audio', 'font', 'office', 'archive', 'blog'];
     if (!validGroups.includes(group)) {
         console.log(`404: Invalid group ${group} for ${lang}/${group}/${slug}`);
         return res.redirect('/en/');

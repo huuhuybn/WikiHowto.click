@@ -333,53 +333,6 @@ app.get('/convert/progress/:id', (req, res) => {
     res.json(progress);
 });
 
-// Blog routes - must be before indexRouter to avoid conflicts
-app.get('/blog', (req, res) => {
-    try {
-        const blogDir = path.join(__dirname, 'locales', 'en', 'blog');
-        const blogFiles = fs.readdirSync(blogDir).filter(file => file.endsWith('.json'));
-        
-        const blogPosts = blogFiles.map(file => {
-            const filePath = path.join(blogDir, file);
-            const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-            return {
-                ...content,
-                slug: content.slug || file.replace('.json', '')
-            };
-        }).sort((a, b) => new Date(b.published_date) - new Date(a.published_date));
-        
-        res.render('blog', {
-            title: 'Blog - WikiHowTo.click',
-            blogPosts: blogPosts,
-            lang: 'en'
-        });
-    } catch (error) {
-        console.error('Error loading blog posts:', error);
-        res.status(500).send('Error loading blog posts');
-    }
-});
-
-app.get('/blog/:slug', (req, res) => {
-    try {
-        const slug = req.params.slug;
-        const blogFilePath = path.join(__dirname, 'locales', 'en', 'blog', `${slug}.json`);
-        
-        if (!fs.existsSync(blogFilePath)) {
-            return res.status(404).send('Blog post not found');
-        }
-        
-        const blogPost = JSON.parse(fs.readFileSync(blogFilePath, 'utf8'));
-        
-        res.render('blog-detail', {
-            title: `${blogPost.title} - WikiHowTo.click`,
-            blogPost: blogPost,
-            lang: 'en'
-        });
-    } catch (error) {
-        console.error('Error loading blog post:', error);
-        res.status(500).send('Error loading blog post');
-    }
-});
 
 app.use('/', indexRouter);
 
