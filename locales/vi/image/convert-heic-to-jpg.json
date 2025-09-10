@@ -1,250 +1,374 @@
 {
-  "lang": "vi",
-  "lang_name": "Tiếng Việt",
-  "title": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến | WikiHowTo.click",
-  "sub_title": "Chuyển đổi hình ảnh HEIC sang định dạng JPG trực tuyến với chất lượng cao, khả năng tương thích tốt hơn và không có hình mờ.",
-  "hint": "Tải lên hình ảnh HEIC của bạn để bắt đầu chuyển đổi...",
-  "btn_download": "Chuyển đổi sang JPG",
-  "btn_paste": "Tải lên HEIC",
-  "btn_clear": "Xóa",
+  "lang": "vi"
+
+  "lang_name": "Tiếng Việt"
+
+  "title": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến | miconvert.com"
+
+  "sub_title": "Chuyển đổi hình ảnh HEIC sang định dạng JPG trực tuyến với chất lượng cao, khả năng tương thích tốt hơn và không có hình mờ."
+
+  "hint": "Tải lên hình ảnh HEIC của bạn để bắt đầu chuyển đổi..."
+
+  "btn_download": "Chuyển đổi sang JPG"
+
+  "btn_paste": "Tải lên HEIC"
+
+  "btn_clear": "Xóa"
+
   "converter": {
-    "type": "heic-to-jpg",
-    "inputFormat": "HEIC",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "heic-to-jpg"
+
+    "inputFormat": "HEIC"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
-      "image/heic",
+      "image/heic"
+
       "image/heif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Chuyển đổi <strong>HEIC sang JPG</strong> của bạn để có khả năng tương thích toàn cầu! Công cụ chuyển đổi trực tuyến miễn phí của chúng tôi biến ảnh iPhone/iPad của bạn thành JPG được hỗ trợ rộng rãi. HEIC (dựa trên tiêu chuẩn HEIF) cung cấp nén tuyệt vời, nhưng nhiều ứng dụng và nền tảng vẫn mong đợi JPG. Dù bạn cần chia sẻ với người dùng Android/Windows, tải lên mạng xã hội, hay đảm bảo khả năng tương thích với phần mềm cũ, công cụ này giúp bạn dễ dàng.</p><p>JPG được hỗ trợ hầu như ở mọi nơi. Việc chuyển đổi nhanh chóng và giữ nguyên chất lượng hình ảnh với các cài đặt JPEG được điều chỉnh — lý tưởng cho nhiếp ảnh gia, người sáng tạo và bất kỳ ai cần khả năng tương thích tối đa.</p>",
+  }
+  "description": "<p>Chuyển đổi <strong>HEIC sang JPG</strong> của bạn để có khả năng tương thích toàn cầu! Công cụ chuyển đổi trực tuyến miễn phí của chúng tôi biến ảnh iPhone/iPad của bạn thành JPG được hỗ trợ rộng rãi. HEIC (dựa trên tiêu chuẩn HEIF) cung cấp nén tuyệt vời, nhưng nhiều ứng dụng và nền tảng vẫn mong đợi JPG. Dù bạn cần chia sẻ với người dùng Android/Windows, tải lên mạng xã hội, hay đảm bảo khả năng tương thích với phần mềm cũ, công cụ này giúp bạn dễ dàng.</p><p>JPG được hỗ trợ hầu như ở mọi nơi. Việc chuyển đổi nhanh chóng và giữ nguyên chất lượng hình ảnh với các cài đặt JPEG được điều chỉnh — lý tưởng cho nhiếp ảnh gia, người sáng tạo và bất kỳ ai cần khả năng tương thích tối đa.</p>"
+
   "head": {
-    "title": "Chuyển đổi HEIC sang JPG Trực tuyến - Công cụ Chuyển đổi HEIC sang JPG Miễn phí | WikiHowTo.click",
-    "description": "Chuyển đổi HEIC sang JPG trực tuyến với chất lượng cao, khả năng tương thích tốt hơn và không có hình mờ. Công cụ chuyển đổi HEIC sang JPG miễn phí, nhanh chóng và an toàn.",
-    "keywords": "heic sang jpg, chuyển đổi heic sang jpg, heic sang jpg miễn phí, công cụ chuyển đổi heic trực tuyến, ảnh iphone",
-    "canonical": "https://wikihowto.click/vi/convert/heic-to-jpg",
-    "og_title": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến",
-    "og_description": "Chuyển đổi hình ảnh HEIC sang định dạng JPG với chất lượng cao và khả năng tương thích tốt hơn. 100% miễn phí, nhanh chóng và an toàn.",
-    "og_url": "https://wikihowto.click/vi/convert/heic-to-jpg",
-    "og_image": "https://wikihowto.click/images/heic-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Công cụ Chuyển đổi HEIC sang JPG Miễn phí Trực tuyến",
-    "twitter_description": "Chuyển đổi HEIC sang JPG với chất lượng cao, khả năng tương thích tốt hơn và không có hình mờ. Hoạt động trên tất cả các thiết bị.",
-    "twitter_image": "https://wikihowto.click/images/heic-to-jpg.jpg"
-  },
+    "title": "Chuyển đổi HEIC sang JPG Trực tuyến - Công cụ Chuyển đổi HEIC sang JPG Miễn phí | miconvert.com"
+
+    "description": "Chuyển đổi HEIC sang JPG trực tuyến với chất lượng cao, khả năng tương thích tốt hơn và không có hình mờ. Công cụ chuyển đổi HEIC sang JPG miễn phí, nhanh chóng và an toàn."
+
+    "keywords": "heic sang jpg, chuyển đổi heic sang jpg, heic sang jpg miễn phí, công cụ chuyển đổi heic trực tuyến, ảnh iphone"
+
+    "canonical": "https://miconvert.com/vi/convert/heic-to-jpg"
+
+    "og_title": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến"
+
+    "og_description": "Chuyển đổi hình ảnh HEIC sang định dạng JPG với chất lượng cao và khả năng tương thích tốt hơn. 100% miễn phí, nhanh chóng và an toàn."
+
+    "og_url": "https://miconvert.com/vi/convert/heic-to-jpg"
+
+    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Chuyển đổi HEIC sang JPG Trực tuyến",
+    "title": "Chuyển đổi HEIC sang JPG Trực tuyến"
+
     "description": "Công cụ chuyển đổi HEIC sang JPG miễn phí và nhanh chóng với chất lượng cao và khả năng tương thích toàn cầu. Hoạt động ngay lập tức trên bất kỳ thiết bị nào, không cần đăng ký."
-  },
+
+  }
   "h2": [
     {
-      "title": "Tại sao chuyển đổi HEIC sang JPG?",
+      "title": "Tại sao chuyển đổi HEIC sang JPG?"
+
       "description": "<p>HEIC hiệu quả, nhưng JPG được chấp nhận toàn cầu. Chuyển đổi khi bạn cần:</p><ul><li><strong>Khả năng tương thích toàn cầu:</strong> JPG hoạt động trên các thiết bị, ứng dụng và nền tảng.</li><li><strong>Chia sẻ đa nền tảng:</strong> Gửi ảnh cho người dùng Android/Windows mà không gặp vấn đề.</li><li><strong>Tải lên mạng xã hội:</strong> Hầu hết các nền tảng ưu tiên hoặc yêu cầu JPG.</li><li><strong>Hỗ trợ cũ:</strong> Các ứng dụng cũ không đọc HEIC một cách đáng tin cậy.</li></ul>"
-    },
-    {
-      "title": "Cách chuyển đổi HEIC sang JPG trực tuyến",
-      "description": "<ol><li>Nhấp vào <em>Tải lên HEIC</em> và chọn tệp của bạn.</li><li>Chờ xử lý.</li><li>Nhấp vào <em>Tải xuống JPG</em> để lưu kết quả.</li></ol><p>Không có bước kỹ thuật — chất lượng được tối ưu hóa tự động.</p>"
-    },
-    {
-      "title": "HEIC và JPG: Sự khác biệt chính",
-      "description": "<ul><li><strong>Kích thước tệp:</strong> HEIC thường nhỏ hơn JPG với chất lượng tương tự.</li><li><strong>Khả năng tương thích:</strong> JPG có hỗ trợ gần như toàn cầu.</li><li><strong>Chất lượng:</strong> Cả hai đều có thể trông tuyệt vời; JPG sử dụng nén mất dữ liệu.</li><li><strong>Hệ sinh thái:</strong> HEIC phổ biến trên Apple; JPG có mặt ở khắp mọi nơi.</li></ul>"
-    },
-    {
-      "title": "Giới hạn & định dạng được hỗ trợ",
-      "description": "<ul><li><strong>Định dạng đầu vào được chấp nhận:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Cài đặt JPEG:</strong> Chất lượng 90 (tiến bộ, mozjpeg)</li></ul>"
-    },
-    {
-      "title": "Tính năng của Công cụ Chuyển đổi HEIC sang JPG của chúng tôi",
-      "description": "<ul><li>100% miễn phí, không có hình mờ</li><li>Đầu ra JPEG chất lượng cao</li><li>Giao diện thân thiện với di động</li><li>Quy trình đơn giản, nhanh chóng</li></ul>"
-    },
-    {
-      "title": "HEIC là gì?",
-      "description": "<p>HEIC là phần mở rộng tệp cho hình ảnh được lưu trữ bằng tiêu chuẩn HEIF (Định dạng Tệp Hình ảnh Hiệu quả Cao) — thường được mã hóa bằng HEVC (H.265). Nó cung cấp nén mạnh mẽ với chất lượng tốt nhưng không được hỗ trợ toàn cầu.</p>"
-    },
-    {
-      "title": "JPG là gì?",
-      "description": "<p>JPG (JPEG) là định dạng hình ảnh được hỗ trợ rộng rãi nhất. Nó sử dụng nén mất dữ liệu để cân bằng chất lượng và kích thước, điều này làm cho nó lý tưởng cho việc chia sẻ và sử dụng trên web.</p>"
-    },
-    {
-      "title": "Khắc phục sự cố",
-      "description": "<ul><li><strong>Tải lên thất bại:</strong> Đảm bảo tệp là HEIC/HEIF và ≤ 16&nbsp;MB.</li><li><strong>Ảnh bị xoay:</strong> Một số trình xem bỏ qua hướng EXIF — xoay sau khi tải xuống nếu cần.</li><li><strong>Thay đổi màu sắc:</strong> Ảnh có gam màu rộng có thể trông khác; chuyển đổi với sRGB nếu cần.</li><li><strong>Ảnh Live:</strong> Chỉ HEIC tĩnh được chuyển đổi; video đi kèm (MOV) không được bao gồm.</li></ul>"
-    },
-    {
-      "title": "Trường hợp sử dụng",
-      "description": "<ul><li><strong>Chia sẻ với người dùng không phải Apple</strong> mà không gặp vấn đề tương thích.</li><li><strong>Tải lên CMS/mạng xã hội</strong> mà yêu cầu JPG.</li><li><strong>In & chỉnh sửa</strong> trong các ứng dụng không đọc HEIC.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cách chuyển đổi HEIC sang JPG trực tuyến"
+
+      "description": "<ol><li>Nhấp vào <em>Tải lên HEIC</em> và chọn tệp của bạn.</li><li>Chờ xử lý.</li><li>Nhấp vào <em>Tải xuống JPG</em> để lưu kết quả.</li></ol><p>Không có bước kỹ thuật — chất lượng được tối ưu hóa tự động.</p>"
+
+    }
+    {
+      "title": "HEIC và JPG: Sự khác biệt chính"
+
+      "description": "<ul><li><strong>Kích thước tệp:</strong> HEIC thường nhỏ hơn JPG với chất lượng tương tự.</li><li><strong>Khả năng tương thích:</strong> JPG có hỗ trợ gần như toàn cầu.</li><li><strong>Chất lượng:</strong> Cả hai đều có thể trông tuyệt vời; JPG sử dụng nén mất dữ liệu.</li><li><strong>Hệ sinh thái:</strong> HEIC phổ biến trên Apple; JPG có mặt ở khắp mọi nơi.</li></ul>"
+
+    }
+    {
+      "title": "Giới hạn & định dạng được hỗ trợ"
+
+      "description": "<ul><li><strong>Định dạng đầu vào được chấp nhận:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Cài đặt JPEG:</strong> Chất lượng 90 (tiến bộ, mozjpeg)</li></ul>"
+
+    }
+    {
+      "title": "Tính năng của Công cụ Chuyển đổi HEIC sang JPG của chúng tôi"
+
+      "description": "<ul><li>100% miễn phí, không có hình mờ</li><li>Đầu ra JPEG chất lượng cao</li><li>Giao diện thân thiện với di động</li><li>Quy trình đơn giản, nhanh chóng</li></ul>"
+
+    }
+    {
+      "title": "HEIC là gì?"
+
+      "description": "<p>HEIC là phần mở rộng tệp cho hình ảnh được lưu trữ bằng tiêu chuẩn HEIF (Định dạng Tệp Hình ảnh Hiệu quả Cao) — thường được mã hóa bằng HEVC (H.265). Nó cung cấp nén mạnh mẽ với chất lượng tốt nhưng không được hỗ trợ toàn cầu.</p>"
+
+    }
+    {
+      "title": "JPG là gì?"
+
+      "description": "<p>JPG (JPEG) là định dạng hình ảnh được hỗ trợ rộng rãi nhất. Nó sử dụng nén mất dữ liệu để cân bằng chất lượng và kích thước, điều này làm cho nó lý tưởng cho việc chia sẻ và sử dụng trên web.</p>"
+
+    }
+    {
+      "title": "Khắc phục sự cố"
+
+      "description": "<ul><li><strong>Tải lên thất bại:</strong> Đảm bảo tệp là HEIC/HEIF và ≤ 16&nbsp;MB.</li><li><strong>Ảnh bị xoay:</strong> Một số trình xem bỏ qua hướng EXIF — xoay sau khi tải xuống nếu cần.</li><li><strong>Thay đổi màu sắc:</strong> Ảnh có gam màu rộng có thể trông khác; chuyển đổi với sRGB nếu cần.</li><li><strong>Ảnh Live:</strong> Chỉ HEIC tĩnh được chuyển đổi; video đi kèm (MOV) không được bao gồm.</li></ul>"
+
+    }
+    {
+      "title": "Trường hợp sử dụng"
+
+      "description": "<ul><li><strong>Chia sẻ với người dùng không phải Apple</strong> mà không gặp vấn đề tương thích.</li><li><strong>Tải lên CMS/mạng xã hội</strong> mà yêu cầu JPG.</li><li><strong>In & chỉnh sửa</strong> trong các ứng dụng không đọc HEIC.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Công cụ chuyển đổi HEIC sang JPG này có miễn phí không?",
+      "question": "Công cụ chuyển đổi HEIC sang JPG này có miễn phí không?"
+
       "answer": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hay đăng ký."
-    },
-    {
-      "question": "Tôi có mất chất lượng khi chuyển đổi HEIC sang JPG không?",
-      "answer": "JPG sử dụng nén mất dữ liệu, vì vậy có thể có một chút mất chất lượng. Chúng tôi sử dụng các cài đặt được điều chỉnh (chất lượng ~90, tiến bộ) để giữ cho nó ở mức tối thiểu."
-    },
-    {
-      "question": "Thiết bị nào hỗ trợ HEIC?",
-      "answer": "HEIC/HEIF phổ biến trên các thiết bị Apple. Nhiều nền tảng khác vẫn ưu tiên JPG theo mặc định."
-    },
-    {
-      "question": "Kích thước tệp nào được hỗ trợ?",
-      "answer": "Bạn có thể tải lên hình ảnh lên đến 16&nbsp;MB mỗi tệp."
-    },
-    {
-      "question": "Tệp của tôi có an toàn không?",
-      "answer": "Các tệp được xử lý tự động và không được giữ lâu hơn cần thiết cho việc chuyển đổi."
-    },
-    {
-      "question": "Tôi có thể chuyển đổi nhiều tệp HEIC cùng một lúc không?",
-      "answer": "Trang này chuyển đổi một tệp tại một thời điểm. Đối với nhu cầu số lượng lớn, lặp lại quy trình hoặc sử dụng công cụ hàng loạt."
-    },
-    {
-      "question": "Khi nào tôi nên sử dụng JPG thay vì HEIC?",
-      "answer": "Sử dụng JPG để có khả năng tương thích tối đa, tải lên các nền tảng không hỗ trợ HEIC, hoặc khi chia sẻ với các thiết bị không phải Apple."
+
     }
-  ],
-  "note": "JPG sử dụng nén mất dữ liệu; sự đánh đổi nhẹ về kích thước/chất lượng là bình thường. Đối với nhu cầu về độ trong suốt, hãy chuyển đổi HEIC sang PNG thay thế.",
+    {
+      "question": "Tôi có mất chất lượng khi chuyển đổi HEIC sang JPG không?"
+
+      "answer": "JPG sử dụng nén mất dữ liệu, vì vậy có thể có một chút mất chất lượng. Chúng tôi sử dụng các cài đặt được điều chỉnh (chất lượng ~90, tiến bộ) để giữ cho nó ở mức tối thiểu."
+
+    }
+    {
+      "question": "Thiết bị nào hỗ trợ HEIC?"
+
+      "answer": "HEIC/HEIF phổ biến trên các thiết bị Apple. Nhiều nền tảng khác vẫn ưu tiên JPG theo mặc định."
+
+    }
+    {
+      "question": "Kích thước tệp nào được hỗ trợ?"
+
+      "answer": "Bạn có thể tải lên hình ảnh lên đến 16&nbsp;MB mỗi tệp."
+
+    }
+    {
+      "question": "Tệp của tôi có an toàn không?"
+
+      "answer": "Các tệp được xử lý tự động và không được giữ lâu hơn cần thiết cho việc chuyển đổi."
+
+    }
+    {
+      "question": "Tôi có thể chuyển đổi nhiều tệp HEIC cùng một lúc không?"
+
+      "answer": "Trang này chuyển đổi một tệp tại một thời điểm. Đối với nhu cầu số lượng lớn, lặp lại quy trình hoặc sử dụng công cụ hàng loạt."
+
+    }
+    {
+      "question": "Khi nào tôi nên sử dụng JPG thay vì HEIC?"
+
+      "answer": "Sử dụng JPG để có khả năng tương thích tối đa, tải lên các nền tảng không hỗ trợ HEIC, hoặc khi chia sẻ với các thiết bị không phải Apple."
+
+    }
+  ]
+  "note": "JPG sử dụng nén mất dữ liệu; sự đánh đổi nhẹ về kích thước/chất lượng là bình thường. Đối với nhu cầu về độ trong suốt, hãy chuyển đổi HEIC sang PNG thay thế."
+
   "related_links": [
     {
-      "title": "Chuyển đổi HEIC sang PNG",
+      "title": "Chuyển đổi HEIC sang PNG"
+
       "url": "/vi/convert/heic-to-png"
-    },
-    {
-      "title": "Chuyển đổi JPG sang HEIC",
-      "url": "/vi/convert/jpg-to-heic"
-    },
-    {
-      "title": "Chuyển đổi HEIC sang WebP",
-      "url": "/vi/convert/heic-to-webp"
-    },
-    {
-      "title": "Nén JPG Trực tuyến",
-      "url": "/vi/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tất cả quyền được bảo lưu.",
+    {
+      "title": "Chuyển đổi JPG sang HEIC"
+
+      "url": "/vi/convert/jpg-to-heic"
+
+    }
+    {
+      "title": "Chuyển đổi HEIC sang WebP"
+
+      "url": "/vi/convert/heic-to-webp"
+
+    }
+    {
+      "title": "Nén JPG Trực tuyến"
+
+      "url": "/vi/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tất cả quyền được bảo lưu."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến",
-      "url": "https://wikihowto.click/vi/convert/heic-to-jpg",
-      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh HEIC sang JPG với chất lượng cao và khả năng tương thích toàn cầu.",
-      "inLanguage": "vi",
-      "image": "https://wikihowto.click/images/heic-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Chuyển đổi HEIC sang JPG - Miễn phí & Trực tuyến"
+
+      "url": "https://miconvert.com/vi/convert/heic-to-jpg"
+
+      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh HEIC sang JPG với chất lượng cao và khả năng tương thích toàn cầu."
+
+      "inLanguage": "vi"
+
+      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Trang chủ",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Trang chủ"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Chuyển đổi",
-          "item": "https://wikihowto.click/vi/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Chuyển đổi"
+
+          "item": "https://miconvert.com/vi/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "HEIC sang JPG",
-          "item": "https://wikihowto.click/vi/convert/heic-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "HEIC sang JPG"
+
+          "item": "https://miconvert.com/vi/convert/heic-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Công cụ Chuyển đổi HEIC sang JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/vi/convert/heic-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Công cụ Chuyển đổi HEIC sang JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/vi/convert/heic-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Đầu ra JPEG chất lượng cao",
-        "Mã hóa tiến bộ",
+        "Đầu ra JPEG chất lượng cao"
+
+        "Mã hóa tiến bộ"
+
         "Xử lý nhanh chóng"
-      ],
-      "screenshot": "https://wikihowto.click/images/heic-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Công cụ chuyển đổi HEIC sang JPG này có miễn phí không?",
+          "@type": "Question"
+
+          "name": "Công cụ chuyển đổi HEIC sang JPG này có miễn phí không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hay đăng ký."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kích thước tệp nào được hỗ trợ?",
+          "@type": "Question"
+
+          "name": "Kích thước tệp nào được hỗ trợ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Bạn có thể tải lên hình ảnh lên đến 16 MB mỗi tệp."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Tôi có mất chất lượng khi chuyển đổi HEIC sang JPG không?",
+          "@type": "Question"
+
+          "name": "Tôi có mất chất lượng khi chuyển đổi HEIC sang JPG không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "JPG sử dụng nén mất dữ liệu, nhưng chúng tôi sử dụng các cài đặt được điều chỉnh để giảm thiểu sự mất mát rõ ràng."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cách chuyển đổi HEIC sang JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cách chuyển đổi HEIC sang JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Nhấp vào Tải lên HEIC và chọn tệp của bạn."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chờ cho quá trình xử lý hoàn tất."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Nhấp vào Tải xuống JPG để lưu kết quả."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Chờ cho quá trình xử lý hoàn tất."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Nhấp vào Tải xuống JPG để lưu kết quả."
+
+        }
+      ]
       "tool": [
         "Công cụ Chuyển đổi HEIC sang JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

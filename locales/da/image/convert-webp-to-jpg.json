@@ -1,242 +1,362 @@
 {
-  "lang": "da",
-  "lang_name": "Dansk",
-  "title": "WebP til JPG Konverter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konverter WebP billeder til JPG format online med høj kvalitet, bedre kompatibilitet og uden vandmærker.",
-  "hint": "Upload dit WebP billede for at starte konverteringen...",
-  "btn_download": "Konverter til JPG",
-  "btn_paste": "Upload WebP",
-  "btn_clear": "Ryd",
-  "ogImage": "https://wikihowto.click/images/webp-to-jpg.jpg",
+  "lang": "da"
+
+  "lang_name": "Dansk"
+
+  "title": "WebP til JPG Konverter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konverter WebP billeder til JPG format online med høj kvalitet, bedre kompatibilitet og uden vandmærker."
+
+  "hint": "Upload dit WebP billede for at starte konverteringen..."
+
+  "btn_download": "Konverter til JPG"
+
+  "btn_paste": "Upload WebP"
+
+  "btn_clear": "Ryd"
+
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
+
   "converter": {
-    "type": "webp-to-jpg",
-    "inputFormat": "WebP",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-jpg"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Har du brug for at konvertere <strong>WebP til JPG</strong> for bedre kompatibilitet? Denne gratis online konverter omdanner moderne WebP billeder til universelt understøttede JPEG'er, mens den bevarer en stærk visuel kvalitet. <em>Bemærk:</em> JPG understøtter ikke gennemsigtighed - gennemsigtige områder vil blive fyldt med en solid baggrund (hvid som standard). Animerede WebP filer konverteres som et statisk billede ved hjælp af <strong>første ramme</strong>.</p>",
+  }
+  "description": "<p>Har du brug for at konvertere <strong>WebP til JPG</strong> for bedre kompatibilitet? Denne gratis online konverter omdanner moderne WebP billeder til universelt understøttede JPEG'er, mens den bevarer en stærk visuel kvalitet. <em>Bemærk:</em> JPG understøtter ikke gennemsigtighed - gennemsigtige områder vil blive fyldt med en solid baggrund (hvid som standard). Animerede WebP filer konverteres som et statisk billede ved hjælp af <strong>første ramme</strong>.</p>"
+
   "head": {
-    "title": "Konverter WebP til JPG Online - Gratis WebP til JPG Konverter | WikiHowTo.click",
-    "description": "Konverter WebP til JPG online med høj kvalitet, bedre kompatibilitet og uden vandmærker. Gratis, hurtig og sikker WebP til JPG konverteringsværktøj.",
-    "keywords": "webp til jpg, konverter webp til jpg, gratis webp til jpg, online webp konverter, billede kompatibilitet",
-    "canonical": "https://wikihowto.click/en/convert/webp-to-jpg",
-    "og_title": "WebP til JPG Konverter - Gratis & Online",
-    "og_description": "Konverter WebP billeder til JPG format med høj kvalitet og bedre kompatibilitet. 100% gratis, hurtig og sikker.",
-    "og_url": "https://wikihowto.click/en/convert/webp-to-jpg",
-    "og_image": "https://wikihowto.click/images/webp-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis WebP til JPG Konverter Online",
-    "twitter_description": "Konverter WebP til JPG med høj kvalitet, bedre kompatibilitet og uden vandmærker. Fungerer på alle enheder.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-jpg.jpg"
-  },
+    "title": "Konverter WebP til JPG Online - Gratis WebP til JPG Konverter | miconvert.com"
+
+    "description": "Konverter WebP til JPG online med høj kvalitet, bedre kompatibilitet og uden vandmærker. Gratis, hurtig og sikker WebP til JPG konverteringsværktøj."
+
+    "keywords": "webp til jpg, konverter webp til jpg, gratis webp til jpg, online webp konverter, billede kompatibilitet"
+
+    "canonical": "https://miconvert.com/en/convert/webp-to-jpg"
+
+    "og_title": "WebP til JPG Konverter - Gratis & Online"
+
+    "og_description": "Konverter WebP billeder til JPG format med høj kvalitet og bedre kompatibilitet. 100% gratis, hurtig og sikker."
+
+    "og_url": "https://miconvert.com/en/convert/webp-to-jpg"
+
+    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Konverter WebP til JPG Online",
+    "title": "Konverter WebP til JPG Online"
+
     "description": "Gratis og hurtig WebP til JPG konverter med høj kvalitet og bedre kompatibilitet. Fungerer straks på enhver enhed, ingen tilmelding kræves."
-  },
+
+  }
   "h2": [
     {
-      "title": "Hvorfor konvertere WebP til JPG?",
+      "title": "Hvorfor konvertere WebP til JPG?"
+
       "description": "<p>Mens WebP tilbyder overlegen kompression, giver JPG universel kompatibilitet:</p><ul><li><strong>Fungerer overalt:</strong> JPG understøttes af stort set alle enheder og apps.</li><li><strong>Platform Krav:</strong> Nogle tjenester kræver stadig JPG uploads.</li><li><strong>Legacy Support:</strong> Ældre browsere og værktøjer understøtter muligvis ikke WebP.</li><li><strong>Nem deling:</strong> JPG åbner pålideligt på tværs af platforme.</li></ul>"
-    },
-    {
-      "title": "Sådan konverteres WebP til JPG Online",
-      "description": "<ol><li>Klik på <em>Upload WebP</em> og vælg din fil.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download JPG</em> for at få din kompatible fil.</li></ol><p>Vi bruger progressiv JPEG (mozjpeg) for en god størrelse-kvalitet balance.</p>"
-    },
-    {
-      "title": "WebP vs JPG Sammenligning",
-      "description": "<ul><li><strong>Filstørrelse:</strong> WebP er typisk 25–35% mindre end JPG ved lignende kvalitet.</li><li><strong>Kompatibilitet:</strong> JPG har universel support.</li><li><strong>Gennemsigtighed:</strong> WebP understøtter alfa; JPG gør ikke.</li><li><strong>Animation:</strong> WebP kan være animeret; JPG er altid statisk.</li></ul>"
-    },
-    {
-      "title": "Funktioner ved vores WebP til JPG Konverter",
-      "description": "<ul><li>100% gratis uden vandmærker</li><li>Højkvalitets konvertering (progressiv JPEG)</li><li>Sikre, krypterede uploads</li><li>Automatisk fil slettelse efter konvertering</li><li>Fungerer på Windows, Mac, iOS og Android</li></ul>"
-    },
-    {
-      "title": "Understøttede grænser & formater",
-      "description": "<ul><li><strong>Acceptabel input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimal filstørrelse:</strong> 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animation:</strong> Første ramme kun</li></ul>"
-    },
-    {
-      "title": "Fejlfinding",
-      "description": "<ul><li><strong>Tabt gennemsigtighed:</strong> JPG kan ikke gemme alfa. Brug <a href='/en/convert/webp-to-png'>WebP → PNG</a> hvis du har brug for gennemsigtighed.</li><li><strong>Farver ser anderledes ud:</strong> Output konverteres til sRGB for webkonsistens.</li><li><strong>Fil stadig stor:</strong> Prøv at sænke kvaliteten til 80–85% eller nedskalere billedet før konvertering.</li><li><strong>Upload mislykkes:</strong> Sørg for at filen er <code>image/webp</code> og ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Sådan konverteres WebP til JPG Online"
+
+      "description": "<ol><li>Klik på <em>Upload WebP</em> og vælg din fil.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download JPG</em> for at få din kompatible fil.</li></ol><p>Vi bruger progressiv JPEG (mozjpeg) for en god størrelse-kvalitet balance.</p>"
+
+    }
+    {
+      "title": "WebP vs JPG Sammenligning"
+
+      "description": "<ul><li><strong>Filstørrelse:</strong> WebP er typisk 25–35% mindre end JPG ved lignende kvalitet.</li><li><strong>Kompatibilitet:</strong> JPG har universel support.</li><li><strong>Gennemsigtighed:</strong> WebP understøtter alfa; JPG gør ikke.</li><li><strong>Animation:</strong> WebP kan være animeret; JPG er altid statisk.</li></ul>"
+
+    }
+    {
+      "title": "Funktioner ved vores WebP til JPG Konverter"
+
+      "description": "<ul><li>100% gratis uden vandmærker</li><li>Højkvalitets konvertering (progressiv JPEG)</li><li>Sikre, krypterede uploads</li><li>Automatisk fil slettelse efter konvertering</li><li>Fungerer på Windows, Mac, iOS og Android</li></ul>"
+
+    }
+    {
+      "title": "Understøttede grænser & formater"
+
+      "description": "<ul><li><strong>Acceptabel input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimal filstørrelse:</strong> 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animation:</strong> Første ramme kun</li></ul>"
+
+    }
+    {
+      "title": "Fejlfinding"
+
+      "description": "<ul><li><strong>Tabt gennemsigtighed:</strong> JPG kan ikke gemme alfa. Brug <a href='/en/convert/webp-to-png'>WebP → PNG</a> hvis du har brug for gennemsigtighed.</li><li><strong>Farver ser anderledes ud:</strong> Output konverteres til sRGB for webkonsistens.</li><li><strong>Fil stadig stor:</strong> Prøv at sænke kvaliteten til 80–85% eller nedskalere billedet før konvertering.</li><li><strong>Upload mislykkes:</strong> Sørg for at filen er <code>image/webp</code> og ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Er denne WebP til JPG konverter gratis?",
+      "question": "Er denne WebP til JPG konverter gratis?"
+
       "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
-    },
-    {
-      "question": "Vil jeg miste kvalitet ved konvertering af WebP til JPG?",
-      "answer": "JPG bruger tabsgivende kompression, men vi bruger indstillinger af høj kvalitet (mozjpeg, progressiv) for at minimere synligt tab."
-    },
-    {
-      "question": "Vil jeg miste gennemsigtighed?",
-      "answer": "Ja. JPG understøtter ikke gennemsigtighed - gennemsigtige pixels bliver solide (hvide som standard)."
-    },
-    {
-      "question": "Understøtter I animeret WebP?",
-      "answer": "Animeret WebP konverteres som et statisk billede ved hjælp af første ramme."
-    },
-    {
-      "question": "Hvilke filstørrelser understøttes?",
-      "answer": "Du kan uploade billeder op til 16 MB pr. fil."
-    },
-    {
-      "question": "Kan jeg konvertere flere filer ad gangen?",
-      "answer": "Denne side konverterer én fil ad gangen. Gentag processen for flere billeder."
+
     }
-  ],
-  "note": "JPG er tabsgivende og fjerner gennemsigtighed. Behold dit originale WebP til arkivering eller når gennemsigtighed/animation er påkrævet.",
+    {
+      "question": "Vil jeg miste kvalitet ved konvertering af WebP til JPG?"
+
+      "answer": "JPG bruger tabsgivende kompression, men vi bruger indstillinger af høj kvalitet (mozjpeg, progressiv) for at minimere synligt tab."
+
+    }
+    {
+      "question": "Vil jeg miste gennemsigtighed?"
+
+      "answer": "Ja. JPG understøtter ikke gennemsigtighed - gennemsigtige pixels bliver solide (hvide som standard)."
+
+    }
+    {
+      "question": "Understøtter I animeret WebP?"
+
+      "answer": "Animeret WebP konverteres som et statisk billede ved hjælp af første ramme."
+
+    }
+    {
+      "question": "Hvilke filstørrelser understøttes?"
+
+      "answer": "Du kan uploade billeder op til 16 MB pr. fil."
+
+    }
+    {
+      "question": "Kan jeg konvertere flere filer ad gangen?"
+
+      "answer": "Denne side konverterer én fil ad gangen. Gentag processen for flere billeder."
+
+    }
+  ]
+  "note": "JPG er tabsgivende og fjerner gennemsigtighed. Behold dit originale WebP til arkivering eller når gennemsigtighed/animation er påkrævet."
+
   "related_links": [
     {
-      "title": "Konverter WebP til PNG (bevarer gennemsigtighed)",
+      "title": "Konverter WebP til PNG (bevarer gennemsigtighed)"
+
       "url": "/en/convert/webp-to-png"
-    },
-    {
-      "title": "Konverter JPG til WebP",
-      "url": "/en/convert/jpg-to-webp"
-    },
-    {
-      "title": "Konverter WebP til AVIF",
-      "url": "/en/convert/webp-to-avif"
-    },
-    {
-      "title": "Komprimer JPG Online",
-      "url": "/en/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rettigheder forbeholdes.",
+    {
+      "title": "Konverter JPG til WebP"
+
+      "url": "/en/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "Konverter WebP til AVIF"
+
+      "url": "/en/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Komprimer JPG Online"
+
+      "url": "/en/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP til JPG Konverter - Gratis & Online",
-      "url": "https://wikihowto.click/en/convert/webp-to-jpg",
-      "description": "Gratis online værktøj til at konvertere WebP billeder til JPG for maksimal kompatibilitet.",
-      "inLanguage": "da",
-      "image": "https://wikihowto.click/images/webp-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP til JPG Konverter - Gratis & Online"
+
+      "url": "https://miconvert.com/en/convert/webp-to-jpg"
+
+      "description": "Gratis online værktøj til at konvertere WebP billeder til JPG for maksimal kompatibilitet."
+
+      "inLanguage": "da"
+
+      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Hjem",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Hjem"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverter",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverter"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP til JPG",
-          "item": "https://wikihowto.click/en/convert/webp-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP til JPG"
+
+          "item": "https://miconvert.com/en/convert/webp-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP til JPG Konverter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/webp-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP til JPG Konverter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/webp-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "DKK"
-      },
+
+      }
       "featureList": [
-        "Progressiv JPEG",
-        "Højkvalitets konvertering",
+        "Progressiv JPEG"
+
+        "Højkvalitets konvertering"
+
         "Hurtig behandling"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Er denne WebP til JPG konverter gratis?",
+          "@type": "Question"
+
+          "name": "Er denne WebP til JPG konverter gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hvilke filstørrelser understøttes?",
+          "@type": "Question"
+
+          "name": "Hvilke filstørrelser understøttes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Du kan uploade billeder op til 16 MB pr. fil."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Understøtter I animeret WebP?",
+          "@type": "Question"
+
+          "name": "Understøtter I animeret WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animeret WebP konverteres som et statisk billede ved hjælp af første ramme."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vil jeg miste gennemsigtighed?",
+          "@type": "Question"
+
+          "name": "Vil jeg miste gennemsigtighed?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja. JPG understøtter ikke gennemsigtighed - gennemsigtige pixels vil blive fyldt med en solid farve (hvid som standard)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Sådan konverteres WebP til JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Sådan konverteres WebP til JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik på Upload WebP og vælg din fil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Vent på at behandling og optimering er færdig."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik på Download JPG for at gemme dit billede."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Vent på at behandling og optimering er færdig."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik på Download JPG for at gemme dit billede."
+
+        }
+      ]
       "tool": [
         "WebP til JPG Konverter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

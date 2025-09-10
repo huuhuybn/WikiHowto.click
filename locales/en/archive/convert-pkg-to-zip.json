@@ -5,86 +5,96 @@
   "og_title": "Convert PKG to ZIP - Free Online Converter",
   "og_description": "Convert PKG files to ZIP format online for free.",
   "og_image": "/images/archive-converter.jpg",
-  "twitter_title": "Convert PKG to ZIP - Free Online Converter",
-  "twitter_description": "Convert PKG files to ZIP format online for free.",
   "canonical_url": "/en/archive/convert-pkg-to-zip",
   "schema": {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "Convert PKG to ZIP",
-    "description": "Convert PKG files to ZIP format online for free.",
-    "image": "/images/archive-converter.jpg",
-    "totalTime": "PT2M",
-    "estimatedCost": {
+  "@type": "HowTo",
+  "name": "Convert PKG to ZIP",
+  "description": "Convert PKG files to ZIP format online for free.",
+  "image": "/images/archive-converter.jpg",
+  "totalTime": "PT2M",
+  "estimatedCost": {
       "@type": "MonetaryAmount",
-      "currency": "USD",
-      "value": "0"
+  "currency": "USD",
+  "value": "0"
+
     },
-    "step": [
+  "step": [
       {
         "@type": "HowToStep",
-        "name": "Upload PKG file",
-        "text": "Click the upload area or drag and drop your PKG file",
-        "image": "/images/upload-step.jpg"
+  "name": "Upload PKG file",
+  "text": "Click the upload area or drag and drop your PKG file",
+  "image": "/images/upload-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Convert to ZIP",
-        "text": "Click the convert button to start the conversion process",
-        "image": "/images/convert-step.jpg"
+  "name": "Convert to ZIP",
+  "text": "Click the convert button to start the conversion process",
+  "image": "/images/convert-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Download ZIP file",
-        "text": "Download your converted ZIP file when ready",
-        "image": "/images/download-step.jpg"
+  "name": "Download ZIP file",
+  "text": "Download your converted ZIP file when ready",
+  "image": "/images/download-step.jpg"
+
       }
-    ]
+  ]
   },
   "breadcrumb": [
     {
       "name": "Home",
-      "url": "/en/"
+  "url": "/en/"
+
     },
-    {
+  {
       "name": "Archive Converter",
-      "url": "/en/archive/converter"
+  "url": "/en/archive/converter"
+
     },
-    {
+  {
       "name": "PKG to ZIP",
-      "url": "/en/archive/convert-pkg-to-zip"
+  "url": "/en/archive/convert-pkg-to-zip"
+
     }
   ],
   "converter": {
     "title": "Convert PKG to ZIP",
-    "subtitle": "Convert PKG files to ZIP format",
-    "description": "Upload your PKG file and convert it to ZIP format quickly and securely.",
-    "supported_formats": {
+  "subtitle": "Convert PKG files to ZIP format",
+  "description": "Upload your PKG file and convert it to ZIP format quickly and securely.",
+  "supported_formats": {
       "input": [
         "pkg"
+
       ],
-      "output": [
+  "output": [
         "zip"
+
       ]
     },
-    "features": [
+  "features": [
       "Free online conversion",
-      "No registration required",
-      "Secure file processing",
-      "Fast conversion speed",
-      "Works on all devices"
+  "No registration required",
+  "Secure file processing",
+  "Fast conversion speed",
+  "Works on all devices"
+
     ],
-    "instructions": [
+  "instructions": [
       "Click the upload area or drag and drop your PKG file",
-      "Wait for the file to upload and process",
-      "Click 'Convert to ZIP' to start conversion",
-      "Download your ZIP file when ready"
+  "Wait for the file to upload and process",
+  "Click 'Convert to ZIP' to start conversion",
+  "Download your ZIP file when ready"
+
     ],
-    "tips": [
+  "tips": [
       "Maximum file size: 100MB",
-      "Supported PKG formats",
-      "High quality ZIP output",
-      "Fast and secure conversion"
+  "Supported PKG formats",
+  "High quality ZIP output",
+  "Fast and secure conversion"
+
     ]
   }
 }

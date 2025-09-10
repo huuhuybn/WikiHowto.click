@@ -1,244 +1,368 @@
 {
-  "lang": "cs",
-  "lang_name": "Čeština",
-  "title": "Převodník PNG na TIFF - Zdarma a Online | WikiHowTo.click",
-  "sub_title": "Převádějte PNG obrázky na TIFF online s bezztrátovými možnostmi, kvalitou připravenou k tisku a zachovanou průhledností. Žádné vodoznaky.",
-  "hint": "Nahrajte svůj PNG obrázek, abyste začali převádět...",
-  "btn_download": "Převést na TIFF",
-  "btn_paste": "Nahrát PNG",
-  "btn_clear": "Vymazat",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "cs"
+
+  "lang_name": "Čeština"
+
+  "title": "Převodník PNG na TIFF - Zdarma a Online | miconvert.com"
+
+  "sub_title": "Převádějte PNG obrázky na TIFF online s bezztrátovými možnostmi, kvalitou připravenou k tisku a zachovanou průhledností. Žádné vodoznaky."
+
+  "hint": "Nahrajte svůj PNG obrázek, abyste začali převádět..."
+
+  "btn_download": "Převést na TIFF"
+
+  "btn_paste": "Nahrát PNG"
+
+  "btn_clear": "Vymazat"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "Převod PNG na TIFF - Zdarma Online Převodník PNG na TIFF | WikiHowTo.click",
-    "description": "Převádějte PNG obrázky na TIFF formát online zdarma. Vysoce kvalitní převod PNG na TIFF s bezztrátovými možnostmi a rychlým zpracováním.",
-    "keywords": "png na tiff, převést png na tiff, zdarma png na tiff, online tiff převodník, převod obrázků",
-    "canonical": "https://wikihowto.click/cs/convert/png-to-tiff",
-    "og_title": "Převod PNG na TIFF - Zdarma Online Převodník PNG na TIFF",
-    "og_description": "Převádějte PNG obrázky na TIFF s bezztrátovými kompresními možnostmi a zachovanou průhledností. Zdarma, rychle a bezpečně.",
-    "og_url": "https://wikihowto.click/cs/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Zdarma Online Převodník PNG na TIFF",
-    "twitter_description": "Převádějte PNG na TIFF s bezztrátovými možnostmi, průhledností a kvalitou připravenou k tisku.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "Převod PNG na TIFF - Zdarma Online Převodník PNG na TIFF | miconvert.com"
+
+    "description": "Převádějte PNG obrázky na TIFF formát online zdarma. Vysoce kvalitní převod PNG na TIFF s bezztrátovými možnostmi a rychlým zpracováním."
+
+    "keywords": "png na tiff, převést png na tiff, zdarma png na tiff, online tiff převodník, převod obrázků"
+
+    "canonical": "https://miconvert.com/cs/convert/png-to-tiff"
+
+    "og_title": "Převod PNG na TIFF - Zdarma Online Převodník PNG na TIFF"
+
+    "og_description": "Převádějte PNG obrázky na TIFF s bezztrátovými kompresními možnostmi a zachovanou průhledností. Zdarma, rychle a bezpečně."
+
+    "og_url": "https://miconvert.com/cs/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Převod PNG na TIFF Online",
+    "title": "Převod PNG na TIFF Online"
+
     "description": "Zdarma převodník PNG na TIFF s bezztrátovými kompresními možnostmi a výstupem připraveným k tisku. Funguje na jakémkoli zařízení — není potřeba registrace."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "Převodník PNG na TIFF",
-    "description": "Převádějte PNG obrázky na TIFF s bezztrátovou kompresí LZW/ZIP při zachování alfa průhlednosti.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "Převodník PNG na TIFF"
+
+    "description": "Převádějte PNG obrázky na TIFF s bezztrátovou kompresí LZW/ZIP při zachování alfa průhlednosti."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Možnost bezztrátového TIFF (LZW/ZIP)",
-      "Zachovává průhlednost (alfa)",
-      "Kvalita připravená k tisku",
+      "Možnost bezztrátového TIFF (LZW/ZIP)"
+
+      "Zachovává průhlednost (alfa)"
+
+      "Kvalita připravená k tisku"
+
       "Zdarma online nástroj"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Převod PNG na TIFF Dokončen",
-    "back_button": "Zpět k převodníku",
-    "convert_another": "Převést další PNG",
+    "title": "Převod PNG na TIFF Dokončen"
+
+    "back_button": "Zpět k převodníku"
+
+    "convert_another": "Převést další PNG"
+
     "quick_conversions": "Rychlé převody:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Proč převádět PNG na TIFF?",
+      "title": "Proč převádět PNG na TIFF?"
+
       "description": "<p>TIFF je profesionální formát archivační kvality používaný v zobrazování a tisku:</p><ul><li><strong>Bezztrátové možnosti:</strong> Udržujte čistý master bez zavádění nových artefaktů.</li><li><strong>Připraveno k tisku:</strong> Skvělé pro výstup s vysokým rozlišením a předtiskové pracovní postupy.</li><li><strong>Podpora alfa:</strong> Může zachovat průhlednost (závislé na čtenáři).</li><li><strong>Přátelské k úpravám:</strong> Stabilní pro opakované ukládání a předávání.</li></ul>"
-    },
-    {
-      "title": "Jak převést PNG na TIFF online",
-      "description": "<ol><li>Klikněte na <em>Nahrát PNG</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout TIFF</em> pro uložení výsledku.</li></ol><p>Výchozí výstup: 32-bit RGBA, bezztrátový LZW, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF vs PNG: Klíčové rozdíly",
-      "description": "<ul><li><strong>Kompresní:</strong> PNG používá bezztrátovou DEFLATE; TIFF podporuje LZW/ZIP (bezztrátový) nebo jiné.</li><li><strong>Velikost souboru:</strong> Závisí na obsahu obrázku; TIFF může být větší nebo podobný PNG.</li><li><strong>Průhlednost:</strong> Oba mohou zahrnovat alfa (podpora prohlížeče se může lišit pro TIFF).</li><li><strong>Nejlepší pro:</strong> PNG pro webové doručení; TIFF pro úpravy, tisk a archivaci.</li></ul>"
-    },
-    {
-      "title": "Podporované limity a formáty",
-      "description": "<ul><li><strong>Přijatý vstup:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Výchozí:</strong> 32-bit RGBA, LZW komprese, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Odstraňování problémů",
-      "description": "<ul><li><strong>Soubor příliš velký:</strong> TIFF je těžší pro některý obsah — udržujte PNG pro web nebo zvažte WebP/AVIF.</li><li><strong>Alfa není viditelná:</strong> Někteří prohlížeči ignorují alfa TIFF; ověřte v profesionálním editoru.</li><li><strong>Posun barev:</strong> Před nahráním převádějte na sRGB pro konzistentní barvu na obrazovce.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že PNG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jak převést PNG na TIFF online"
+
+      "description": "<ol><li>Klikněte na <em>Nahrát PNG</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout TIFF</em> pro uložení výsledku.</li></ol><p>Výchozí výstup: 32-bit RGBA, bezztrátový LZW, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF vs PNG: Klíčové rozdíly"
+
+      "description": "<ul><li><strong>Kompresní:</strong> PNG používá bezztrátovou DEFLATE; TIFF podporuje LZW/ZIP (bezztrátový) nebo jiné.</li><li><strong>Velikost souboru:</strong> Závisí na obsahu obrázku; TIFF může být větší nebo podobný PNG.</li><li><strong>Průhlednost:</strong> Oba mohou zahrnovat alfa (podpora prohlížeče se může lišit pro TIFF).</li><li><strong>Nejlepší pro:</strong> PNG pro webové doručení; TIFF pro úpravy, tisk a archivaci.</li></ul>"
+
+    }
+    {
+      "title": "Podporované limity a formáty"
+
+      "description": "<ul><li><strong>Přijatý vstup:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Výchozí:</strong> 32-bit RGBA, LZW komprese, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Odstraňování problémů"
+
+      "description": "<ul><li><strong>Soubor příliš velký:</strong> TIFF je těžší pro některý obsah — udržujte PNG pro web nebo zvažte WebP/AVIF.</li><li><strong>Alfa není viditelná:</strong> Někteří prohlížeči ignorují alfa TIFF; ověřte v profesionálním editoru.</li><li><strong>Posun barev:</strong> Před nahráním převádějte na sRGB pro konzistentní barvu na obrazovce.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je tento převodník PNG na TIFF zdarma?",
+      "question": "Je tento převodník PNG na TIFF zdarma?"
+
       "answer": "Ano, převodník je zcela zdarma bez skrytých poplatků nebo předplatného."
-    },
-    {
-      "question": "Bude TIFF fungovat ve všech aplikacích?",
-      "answer": "TIFF je široce podporován v profesionálních aplikacích (Photoshop, Affinity, mnoho RIP/tiskových nástrojů). Někteří jednoduchí prohlížeči nemusí zobrazit alfa nebo určité metody komprese."
-    },
-    {
-      "question": "Jak velké jsou TIFF soubory vs PNG?",
-      "answer": "Liší se podle obrázku. S LZW/ZIP může být TIFF podobný nebo větší než PNG v závislosti na obsahu."
-    },
-    {
-      "question": "Jaké velikosti souborů jsou podporovány?",
-      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
-    },
-    {
-      "question": "Jsou moje soubory v bezpečí?",
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nezbytné pro převod."
-    },
-    {
-      "question": "Mohu převést více PNG najednou?",
-      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkový převod."
-    },
-    {
-      "question": "Podporuje TIFF vrstvy?",
-      "answer": "Standardní TIFF je plochý. Některé aplikace vkládají soukromá data vrstev, ale tento nástroj vytváří plochý TIFF."
+
     }
-  ],
-  "note": "TIFF je vhodný pro archivaci/tisk, ale může být těžký. Pro web zvažte PNG/WebP/AVIF.",
+    {
+      "question": "Bude TIFF fungovat ve všech aplikacích?"
+
+      "answer": "TIFF je široce podporován v profesionálních aplikacích (Photoshop, Affinity, mnoho RIP/tiskových nástrojů). Někteří jednoduchí prohlížeči nemusí zobrazit alfa nebo určité metody komprese."
+
+    }
+    {
+      "question": "Jak velké jsou TIFF soubory vs PNG?"
+
+      "answer": "Liší se podle obrázku. S LZW/ZIP může být TIFF podobný nebo větší než PNG v závislosti na obsahu."
+
+    }
+    {
+      "question": "Jaké velikosti souborů jsou podporovány?"
+
+      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
+
+    }
+    {
+      "question": "Jsou moje soubory v bezpečí?"
+
+      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nezbytné pro převod."
+
+    }
+    {
+      "question": "Mohu převést více PNG najednou?"
+
+      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkový převod."
+
+    }
+    {
+      "question": "Podporuje TIFF vrstvy?"
+
+      "answer": "Standardní TIFF je plochý. Některé aplikace vkládají soukromá data vrstev, ale tento nástroj vytváří plochý TIFF."
+
+    }
+  ]
+  "note": "TIFF je vhodný pro archivaci/tisk, ale může být těžký. Pro web zvažte PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Převést PNG na JPG",
+      "title": "Převést PNG na JPG"
+
       "url": "/cs/convert/png-to-jpg"
-    },
-    {
-      "title": "Převést PNG na WebP",
-      "url": "/cs/convert/png-to-webp"
-    },
-    {
-      "title": "Převést JPG na TIFF",
-      "url": "/cs/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+    {
+      "title": "Převést PNG na WebP"
+
+      "url": "/cs/convert/png-to-webp"
+
+    }
+    {
+      "title": "Převést JPG na TIFF"
+
+      "url": "/cs/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Převodník PNG na TIFF - Zdarma a Online",
-      "url": "https://wikihowto.click/cs/convert/png-to-tiff",
-      "description": "Zdarma online nástroj pro převod PNG obrázků na TIFF s bezztrátovými možnostmi a zachovanou průhledností.",
-      "inLanguage": "cs",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Převodník PNG na TIFF - Zdarma a Online"
+
+      "url": "https://miconvert.com/cs/convert/png-to-tiff"
+
+      "description": "Zdarma online nástroj pro převod PNG obrázků na TIFF s bezztrátovými možnostmi a zachovanou průhledností."
+
+      "inLanguage": "cs"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domů",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domů"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Převést",
-          "item": "https://wikihowto.click/cs/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Převést"
+
+          "item": "https://miconvert.com/cs/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG na TIFF",
-          "item": "https://wikihowto.click/cs/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG na TIFF"
+
+          "item": "https://miconvert.com/cs/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Převodník PNG na TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/cs/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Převodník PNG na TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/cs/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "CZK"
-      },
+
+      }
       "featureList": [
-        "Bezztrátová možnost LZW",
-        "Zachovává alfa",
+        "Bezztrátová možnost LZW"
+
+        "Zachovává alfa"
+
         "Připraveno k tisku 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Je tento převodník PNG na TIFF zdarma?",
+          "@type": "Question"
+
+          "name": "Je tento převodník PNG na TIFF zdarma?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ano, převodník je zcela zdarma bez skrytých poplatků nebo předplatného."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jaké velikosti souborů jsou podporovány?",
+          "@type": "Question"
+
+          "name": "Jaké velikosti souborů jsou podporovány?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Podporuje TIFF vrstvy?",
+          "@type": "Question"
+
+          "name": "Podporuje TIFF vrstvy?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standardní TIFF je plochý obrázek; některé aplikace vkládají soukromá data vrstev. Tento nástroj vytváří plochý TIFF."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jak převést PNG na TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jak převést PNG na TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikněte na Nahrát PNG a vyberte svůj soubor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počkejte na dokončení zpracování."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikněte na Stáhnout TIFF pro uložení výsledku."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počkejte na dokončení zpracování."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikněte na Stáhnout TIFF pro uložení výsledku."
+
+        }
+      ]
       "tool": [
         "Převodník PNG na TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

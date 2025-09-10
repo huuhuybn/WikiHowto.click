@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "miconvert.com - 無料オンラインファイルコンバーター",
+  "sub_title": "PDF、画像、音声、ビデオ、ドキュメント間のファイル変換を、各フォーマットペア専用のツールで行います。高速、安全、ウォーターマークなし。",
+  "hint": "コンバーターを検索（例：JPGからPNGへ、PDFからJPGへ、MP3からWAVへ）…",
+  "btn_download": "コンバーターを検索",
+  "btn_paste": "すべて表示",
+  "btn_clear": "クリア",
+  "description": "<p><strong>miconvert.comへようこそ</strong> — <em>ペア固有のファイルコンバーター</em>の専門ハブです。汎用的なツールではなく、各フォーマットペア（例：<strong>JPG → PNG</strong>、<strong>PDF → JPG</strong>、<strong>PNG → WebP</strong>、<strong>MP3 → WAV</strong>）ごとに専用のページを作成することで、常に適切なオプション、最高の品質、そしてシンプルなワークフローを実現します。</p><p>ここの各コンバーターは、その目的（画像の鮮明さ対サイズ、透過処理、印刷可能なPDFレイアウト、またはオーディオの忠実度）に合わせて調整されています。登録不要、ウォーターマークなし、設計上プライベート — アップロードされたファイルは安全に処理され、変換後に自動的に削除されます。デスクトップ、タブレット、またはモバイルでご利用いただけます。</p><p>当社の<strong>PDFツール</strong>（PDF ↔ JPG/PNG/TIFF/WebP、マージ/分割）、<strong>画像ツール</strong>（JPG ↔ PNG、PNG ↔ WebP、GIF ↔ PNG、TIFF ↔ JPG）、<strong>音声ツール</strong>（MP3 ↔ WAV、FLAC ↔ MP3、OGG ↔ AAC）、<strong>ビデオツール</strong>（MP4 ↔ AVI、MOV ↔ WMV、MKV ↔ MP4）、および<strong>ドキュメントツール</strong>（DOCX ↔ PDF、TXT ↔ RTF、ODT ↔ DOC）をご覧ください。各ツールは高速、正確、そして焦点を絞っています。</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "無料オンラインファイルコンバーター - PDF、画像、音声など | miconvert.com",
+    "description": "無料のコンバーターでオンラインでファイルをファイル変換します。各フォーマットペア専用のツール：PDFからJPGへ、PNGからPDFへ、MP3からWAVへなど。高速、安全、ウォーターマークなし。",
+    "keywords": "ファイルコンバーター、PDFコンバーター、画像コンバーター、音声コンバーター、ビデオコンバーター、ドキュメントコンバーター、jpgからpngへ、pdfからjpgへ、pngからpdfへ、mp3からwavへ",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - 無料オンラインファイルコンバーター",
+    "og_description": "PDF、画像、音声、ビデオ、ドキュメントを、各フォーマットペア専用のコンバーターで変換します。無料、高速、ウォーターマークなし。",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ファイルコンバーターとは何ですか？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "ファイルコンバーターは、ファイルをあるフォーマットから別のフォーマットに変換します（例：JPGからPNGへ、PDFからJPGへ）。優れたコンバーターは、サイズと互換性を最適化しながら、重要なコンテンツ（ピクセル、テキスト、音声）とメタデータを保持します。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "私のファイルを保存しますか？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "いいえ。ファイルは安全に処理され、変換後に自動的に削除されます。永久的に保存することはありません。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "変換は無料ですか？ウォーターマークはありますか？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "はい。すべてのツールは100％無料で使用でき、ウォーターマークは追加されません。"
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "無料オンラインファイルコンバーター",
+    "description": "フォーマットペアごとに1つのツール。PDF、画像、音声、ビデオ、ドキュメントをオンラインで高速、安全、ウォーターマークなしで変換します。"
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "ファイルコンバーターとは？",
+      "description": "<p>ファイルコンバーターは、ファイルのフォーマットを変更して、<strong>互換性</strong>、<strong>品質</strong>、または<strong>サイズ</strong>を向上させます。一般的な例としては、Web用の画像を変換する（<em>PNG → WebP</em>）、印刷可能なドキュメントを準備する（<em>JPG/PNG → PDF</em>）、またはドキュメントから画像を抽出する（<em>PDF → JPG/PNG/TIFF/WebP</em>）などがあります。</p><p>優れたコンバーターは、品質とサイズをバランスさせ、該当する場合は透過性を維持し（PNG/WebP）、PDFのレイアウト（ページサイズ、余白、ページへの適合）を維持します。当社のツールは適切なデフォルト値を使用しているため、ほとんどのユーザーは数秒で変換できます。</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "可逆圧縮と非可逆圧縮、ラスターとベクター",
+      "description": "<ul><li><strong>可逆圧縮と非可逆圧縮：</strong>JPG/WebP（非可逆圧縮）は、一部のデータを破棄することでサイズを縮小します。PNG/TIFF（可逆圧縮）は完全な詳細を保持します。Web共有には非可逆圧縮を、編集/アーカイブには可逆圧縮を選択してください。</li><li><strong>ラスターとベクター：</strong>JPG/PNG/WebP/TIFFはラスター（ピクセル）です。SVG/AIはベクター（形状、パス）です。ラスターは印刷に適切な解像度（DPI）が必要です。ベクターはぼやけることなく無限に拡大縮小できます。</li><li><strong>カラーとメタデータ：</strong>変換によって、ICCプロファイル、EXIF、またはアルファチャネルに影響を与える可能性があります。当社の画像からPDFへのツールは、透過処理の動作を適切に保持し、予測可能な印刷のために画像を余白付きでページに適合させます。</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "人気のある変換カテゴリ",
+      "description": "<ul><li><strong>PDFツール：</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>、<a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>、<a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>、<a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>、<a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>、<a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>、<a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>、<a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>、<a href=\"/en/pdf/merge-jpg-to-pdf/\">JPG → PDFマージ</a>、<a href=\"/en/pdf/combine-png-to-pdf/\">PNG → PDF結合</a></li><li><strong>画像ツール：</strong>JPG ↔ PNG、PNG ↔ WebP、GIF ↔ PNG、TIFF ↔ JPG</li><li><strong>音声ツール：</strong>MP3 ↔ WAV、FLAC ↔ MP3、OGG ↔ AAC</li><li><strong>ビデオツール：</strong>MP4 ↔ AVI、MOV ↔ WMV、MKV ↔ MP4</li><li><strong>ドキュメントツール：</strong>DOCX ↔ PDF、TXT ↔ RTF、ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "使用方法",
+      "description": "<ol><li>正確なフォーマットペアのコンバーターを選択します（例：<em>PNG → PDF</em>）。</li><li>1つまたは複数のファイル（多くのツールでバッチ処理に対応）をアップロードします。</li><li>変換をクリックします — デフォルトは品質とサイズに合わせて最適化されています。</li><li>すぐに結果をダウンロードします。サインアップ不要、ウォーターマークなし。</li></ol><p>ヒント：PDFにマージする際に、画像のアスペクト比を一定に保つことで、均一なレイアウトを実現できます。Webの場合は、優れた品質でサイズを縮小するためにWebPを検討してください。</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "セキュリティとプライバシー",
+      "description": "<ul><li><strong>暗号化された転送：</strong>ファイルは安全な接続を介して移動します。</li><li><strong>自動削除：</strong>処理されたファイルは自動的に削除されます。</li><li><strong>永続的なストレージなし：</strong>処理後、ファイルを保存しません。</li><li><strong>ウォーターマークなし：</strong>結果はクリーンで、すぐに使用できます。</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "ファイルコンバーターとは何ですか？",
+      "answer": "ファイルのフォーマットを（例：JPG → PNG、PDF → JPG）変更して、互換性、品質、またはサイズを向上させます。"
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "どのコンバーターが最も人気がありますか？",
+      "answer": "PDF ↔ 画像（PDF → JPG/PNG/WebP/TIFFとJPG/PNG/WebP/TIFF → PDF）と画像 ↔ 画像（JPG ↔ PNG、PNG ↔ WebP）が最も多く使用されています。"
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "画像を圧縮しますか？",
+      "answer": "はい、JPG/WebPなどの非可逆圧縮形式は、品質を調整しながらサイズを縮小します。PNG/TIFFなどの可逆圧縮形式は詳細を保持します。"
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "透過性を維持しますか？",
+      "answer": "PNGとWebPはアルファチャネルをサポートしています。PDFに変換する際には、ページは余白とページへの適合動作でレイアウトされ、予測可能な出力が得られます。"
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "OCRはサポートされていますか？",
+      "answer": "OCRはデフォルトでは有効になっていません。画像/PDFからテキストを抽出するには、専用のOCRツールを使用してください。"
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "最大ファイルサイズ？",
+      "answer": "ほとんどのコンバーターは、変換ごとに最大100MBをサポートしています。より大きなファイルの場合は、最初に分割または圧縮してください。"
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "私のファイルは保存されますか？",
+      "answer": "いいえ。ファイルは安全に処理され、変換後に自動的に削除されます。"
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "バッチ変換またはマージできますか？",
+      "answer": "多くのツールは、複数ファイルのアップロードとマージをサポートしています（例：JPG → PDFマージ、PNG → PDF結合）。"
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "注：各コンバーターは単一のフォーマットペアに対して最適化されており、最高の品質と速度が確保されています。最も均一なPDFレイアウトにするには、画像のサイズと向きを一定にしてください。",
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
 }

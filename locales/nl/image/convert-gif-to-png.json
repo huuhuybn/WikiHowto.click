@@ -1,244 +1,365 @@
 {
-  "lang": "nl",
-  "lang_name": "Nederlands",
-  "title": "GIF naar PNG Converter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Converteer GIF-afbeeldingen naar PNG-formaat online met ondersteuning voor transparantie, hoge kwaliteit en zonder watermerken.",
-  "hint": "Upload uw GIF-afbeelding om te beginnen met converteren...",
-  "btn_download": "Converteer naar PNG",
-  "btn_paste": "Upload GIF",
-  "btn_clear": "Wis",
+  "lang": "nl"
+
+  "lang_name": "Nederlands"
+
+  "title": "GIF naar PNG Converter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Converteer GIF-afbeeldingen naar PNG-formaat online met ondersteuning voor transparantie, hoge kwaliteit en zonder watermerken."
+
+  "hint": "Upload uw GIF-afbeelding om te beginnen met converteren..."
+
+  "btn_download": "Converteer naar PNG"
+
+  "btn_paste": "Upload GIF"
+
+  "btn_clear": "Wis"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Converteer uw <strong>GIF naar PNG</strong> voor hogere trouw en volledige ondersteuning van transparantie. Onze gratis online converter verandert geanimeerde of statische GIF's in hoogwaardige PNG-afbeeldingen. Terwijl GIF geweldig is voor eenvoudige animaties, biedt PNG superieure kleurdiepte, betere transparantie en verliesloze compressie voor scherpe statische graphics.</p><p><strong>Opmerking:</strong> Geanimeerde GIF's worden geconverteerd naar een <em>enkele statische afbeelding</em> (eerste frame). Voor geanimeerde uitvoer, probeer <a href='/nl/convert/gif-to-webp'>GIF naar WebP</a>.</p>",
+  }
+  "description": "<p>Converteer uw <strong>GIF naar PNG</strong> voor hogere trouw en volledige ondersteuning van transparantie. Onze gratis online converter verandert geanimeerde of statische GIF's in hoogwaardige PNG-afbeeldingen. Terwijl GIF geweldig is voor eenvoudige animaties, biedt PNG superieure kleurdiepte, betere transparantie en verliesloze compressie voor scherpe statische graphics.</p><p><strong>Opmerking:</strong> Geanimeerde GIF's worden geconverteerd naar een <em>enkele statische afbeelding</em> (eerste frame). Voor geanimeerde uitvoer, probeer <a href='/nl/convert/gif-to-webp'>GIF naar WebP</a>.</p>"
+
   "head": {
-    "title": "Converteer GIF naar PNG Online - Gratis GIF naar PNG Converter | WikiHowTo.click",
-    "description": "Converteer GIF naar PNG online met ondersteuning voor transparantie, hoge kwaliteit en zonder watermerken. Gratis, snel en veilig GIF naar PNG converter tool.",
-    "keywords": "gif naar png, converteer gif naar png, gratis gif naar png, online gif converter, transparante afbeeldingen",
-    "canonical": "https://wikihowto.click/nl/convert/gif-to-png",
-    "og_title": "GIF naar PNG Converter - Gratis & Online",
-    "og_description": "Converteer GIF-afbeeldingen naar PNG-formaat met ondersteuning voor transparantie en hoge kwaliteit. 100% gratis, snel en veilig.",
-    "og_url": "https://wikihowto.click/nl/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis GIF naar PNG Converter Online",
-    "twitter_description": "Converteer GIF naar PNG met ondersteuning voor transparantie, hoge kwaliteit en zonder watermerken. Werkt op alle apparaten.",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "Converteer GIF naar PNG Online - Gratis GIF naar PNG Converter | miconvert.com"
+
+    "description": "Converteer GIF naar PNG online met ondersteuning voor transparantie, hoge kwaliteit en zonder watermerken. Gratis, snel en veilig GIF naar PNG converter tool."
+
+    "keywords": "gif naar png, converteer gif naar png, gratis gif naar png, online gif converter, transparante afbeeldingen"
+
+    "canonical": "https://miconvert.com/nl/convert/gif-to-png"
+
+    "og_title": "GIF naar PNG Converter - Gratis & Online"
+
+    "og_description": "Converteer GIF-afbeeldingen naar PNG-formaat met ondersteuning voor transparantie en hoge kwaliteit. 100% gratis, snel en veilig."
+
+    "og_url": "https://miconvert.com/nl/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Converteer GIF naar PNG Online",
+    "title": "Converteer GIF naar PNG Online"
+
     "description": "Gratis en snelle GIF naar PNG converter met ondersteuning voor transparantie en hoge kwaliteit. Werkt direct op elk apparaat, geen aanmelding vereist."
-  },
+
+  }
   "h2": [
     {
-      "title": "Waarom GIF naar PNG converteren?",
+      "title": "Waarom GIF naar PNG converteren?"
+
       "description": "<p>GIF is beperkt tot 256 kleuren en geschikt voor eenvoudige animaties. PNG is ideaal voor hoogwaardige statische afbeeldingen:</p><ul><li><strong>Hogere kwaliteit:</strong> Truecolor (24-bit) + alpha vs GIF's 8-bit palet.</li><li><strong>Transparantie:</strong> PNG ondersteunt volledige alpha transparantie voor soepele randen.</li><li><strong>Verliesloze compressie:</strong> PNG behoudt details zonder kwaliteitsverlies.</li><li><strong>Universele compatibiliteit:</strong> Breed ondersteund op apps en platforms.</li></ul>"
-    },
-    {
-      "title": "Hoe GIF naar PNG online te converteren",
-      "description": "<ol><li>Klik op <em>Upload GIF</em> en selecteer uw bestand.</li><li>Wacht tot de verwerking is voltooid.</li><li>Klik op <em>Download PNG</em> om het resultaat op te slaan.</li></ol><p>Geanimeerde GIF's: alleen het eerste frame wordt geëxporteerd als PNG.</p>"
-    },
-    {
-      "title": "GIF vs PNG: Belangrijkste verschillen",
-      "description": "<table class='table-compare'><thead><tr><th>Kenmerk</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Kleurdiepte</td><td>8-bit (256 kleuren)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparantie</td><td>1-bit masker (aan/uit)</td><td>Volledige alpha transparantie</td></tr><tr><td>Compressie</td><td>Verliesloos (LZW)</td><td>Verliesloos (DEFLATE)</td></tr><tr><td>Animatie</td><td>Ondersteund</td><td>Niet ondersteund (statisch)</td></tr><tr><td>Het beste voor</td><td>Eenvoudige animaties, stickers</td><td>Logo's, UI, screenshots, statische graphics</td></tr></tbody></table>"
-    },
-    {
-      "title": "Ondersteunde limieten & formaten",
-      "description": "<ul><li><strong>Geaccepteerde invoer:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximale bestandsgrootte:</strong> tot 16&nbsp;MB per bestand</li><li><strong>Uitvoer:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Kenmerken van onze GIF naar PNG Converter",
-      "description": "<ul><li>100% gratis, geen watermerken</li><li>Behoudt transparantie waar aanwezig</li><li>Verliesloze PNG-uitvoer</li><li>Mobielvriendelijke interface</li></ul>"
-    },
-    {
-      "title": "Wat is GIF?",
-      "description": "<p>GIF (Graphics Interchange Format) ondersteunt basisanimatie en gebruikt verliesloze LZW-compressie, maar is beperkt tot een palet van 256 kleuren.</p>"
-    },
-    {
-      "title": "Wat is PNG?",
-      "description": "<p>PNG (Portable Network Graphics) is een verliesloos formaat dat truecolor en alpha transparantie ondersteunt — ideaal voor hoogwaardige statische afbeeldingen.</p>"
-    },
-    {
-      "title": "Probleemoplossing",
-      "description": "<ul><li><strong>Uploaden mislukt:</strong> Zorg ervoor dat het bestand GIF is en ≤ 16&nbsp;MB.</li><li><strong>Ruwe transparantie randen:</strong> GIF's 1-bit transparantie kan er hard uitzien; verfijn met <a href='/nl/effect/remove-background'>Achtergrondverwijderaar</a>.</li><li><strong>Animatie nodig:</strong> Gebruik <a href='/nl/convert/gif-to-webp'>GIF naar WebP</a> om beweging te behouden.</li></ul>"
-    },
-    {
-      "title": "Gebruiksscenario's: Wanneer GIF naar PNG converteren",
-      "description": "<ul><li><strong>Logo's & iconen</strong> die soepele transparantie nodig hebben.</li><li><strong>Screenshots/UI</strong> die scherpe tekst en lijnen vereisen.</li><li><strong>Archivering</strong> van statische frames in hogere kwaliteit.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Hoe GIF naar PNG online te converteren"
+
+      "description": "<ol><li>Klik op <em>Upload GIF</em> en selecteer uw bestand.</li><li>Wacht tot de verwerking is voltooid.</li><li>Klik op <em>Download PNG</em> om het resultaat op te slaan.</li></ol><p>Geanimeerde GIF's: alleen het eerste frame wordt geëxporteerd als PNG.</p>"
+
+    }
+    {
+      "title": "GIF vs PNG: Belangrijkste verschillen"
+
+      "description": "<table class='table-compare'><thead><tr><th>Kenmerk</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Kleurdiepte</td><td>8-bit (256 kleuren)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparantie</td><td>1-bit masker (aan/uit)</td><td>Volledige alpha transparantie</td></tr><tr><td>Compressie</td><td>Verliesloos (LZW)</td><td>Verliesloos (DEFLATE)</td></tr><tr><td>Animatie</td><td>Ondersteund</td><td>Niet ondersteund (statisch)</td></tr><tr><td>Het beste voor</td><td>Eenvoudige animaties, stickers</td><td>Logo's, UI, screenshots, statische graphics</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Ondersteunde limieten & formaten"
+
+      "description": "<ul><li><strong>Geaccepteerde invoer:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximale bestandsgrootte:</strong> tot 16&nbsp;MB per bestand</li><li><strong>Uitvoer:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Kenmerken van onze GIF naar PNG Converter"
+
+      "description": "<ul><li>100% gratis, geen watermerken</li><li>Behoudt transparantie waar aanwezig</li><li>Verliesloze PNG-uitvoer</li><li>Mobielvriendelijke interface</li></ul>"
+
+    }
+    {
+      "title": "Wat is GIF?"
+
+      "description": "<p>GIF (Graphics Interchange Format) ondersteunt basisanimatie en gebruikt verliesloze LZW-compressie, maar is beperkt tot een palet van 256 kleuren.</p>"
+
+    }
+    {
+      "title": "Wat is PNG?"
+
+      "description": "<p>PNG (Portable Network Graphics) is een verliesloos formaat dat truecolor en alpha transparantie ondersteunt — ideaal voor hoogwaardige statische afbeeldingen.</p>"
+
+    }
+    {
+      "title": "Probleemoplossing"
+
+      "description": "<ul><li><strong>Uploaden mislukt:</strong> Zorg ervoor dat het bestand GIF is en ≤ 16&nbsp;MB.</li><li><strong>Ruwe transparantie randen:</strong> GIF's 1-bit transparantie kan er hard uitzien; verfijn met <a href='/nl/effect/remove-background'>Achtergrondverwijderaar</a>.</li><li><strong>Animatie nodig:</strong> Gebruik <a href='/nl/convert/gif-to-webp'>GIF naar WebP</a> om beweging te behouden.</li></ul>"
+
+    }
+    {
+      "title": "Gebruiksscenario's: Wanneer GIF naar PNG converteren"
+
+      "description": "<ul><li><strong>Logo's & iconen</strong> die soepele transparantie nodig hebben.</li><li><strong>Screenshots/UI</strong> die scherpe tekst en lijnen vereisen.</li><li><strong>Archivering</strong> van statische frames in hogere kwaliteit.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Is deze GIF naar PNG converter gratis?",
+      "question": "Is deze GIF naar PNG converter gratis?"
+
       "answer": "Ja, de converter is volledig gratis zonder verborgen kosten of abonnementen."
-    },
-    {
-      "question": "Zal PNG transparantie van GIF behouden?",
-      "answer": "Ja. GIF's 1-bit transparante gebieden blijven transparant in PNG; voor soepelere randen, bewerk het alpha-kanaal na conversie."
-    },
-    {
-      "question": "Wat gebeurt er met geanimeerde GIF's?",
-      "answer": "Alleen het eerste frame wordt geconverteerd naar een statische PNG-afbeelding. Om animatie te behouden, gebruik GIF naar WebP."
-    },
-    {
-      "question": "Verlies ik kwaliteit bij het converteren van GIF naar PNG?",
-      "answer": "Nee. PNG gebruikt verliesloze compressie en ondersteunt volledige kleur, wat vaak de visuele trouw verbetert ten opzichte van 256-kleur GIF."
-    },
-    {
-      "question": "Welke bestandsgroottes worden ondersteund?",
-      "answer": "U kunt afbeeldingen tot 16 MB per bestand uploaden."
-    },
-    {
-      "question": "Zijn mijn bestanden veilig?",
-      "answer": "Bestanden worden automatisch verwerkt en niet langer bewaard dan nodig voor conversie."
-    },
-    {
-      "question": "Kan ik meerdere GIF-bestanden tegelijk converteren?",
-      "answer": "Deze pagina converteert één bestand tegelijk. Voor bulkbehoeften, herhaal het proces of gebruik een batchtool."
+
     }
-  ],
-  "note": "Geanimeerde GIF's worden statische PNG's (eerste frame). Voor geanimeerde uitvoer, converteer GIF naar WebP.",
+    {
+      "question": "Zal PNG transparantie van GIF behouden?"
+
+      "answer": "Ja. GIF's 1-bit transparante gebieden blijven transparant in PNG; voor soepelere randen, bewerk het alpha-kanaal na conversie."
+
+    }
+    {
+      "question": "Wat gebeurt er met geanimeerde GIF's?"
+
+      "answer": "Alleen het eerste frame wordt geconverteerd naar een statische PNG-afbeelding. Om animatie te behouden, gebruik GIF naar WebP."
+
+    }
+    {
+      "question": "Verlies ik kwaliteit bij het converteren van GIF naar PNG?"
+
+      "answer": "Nee. PNG gebruikt verliesloze compressie en ondersteunt volledige kleur, wat vaak de visuele trouw verbetert ten opzichte van 256-kleur GIF."
+
+    }
+    {
+      "question": "Welke bestandsgroottes worden ondersteund?"
+
+      "answer": "U kunt afbeeldingen tot 16 MB per bestand uploaden."
+
+    }
+    {
+      "question": "Zijn mijn bestanden veilig?"
+
+      "answer": "Bestanden worden automatisch verwerkt en niet langer bewaard dan nodig voor conversie."
+
+    }
+    {
+      "question": "Kan ik meerdere GIF-bestanden tegelijk converteren?"
+
+      "answer": "Deze pagina converteert één bestand tegelijk. Voor bulkbehoeften, herhaal het proces of gebruik een batchtool."
+
+    }
+  ]
+  "note": "Geanimeerde GIF's worden statische PNG's (eerste frame). Voor geanimeerde uitvoer, converteer GIF naar WebP."
+
   "related_links": [
     {
-      "title": "Converteer GIF naar JPG",
+      "title": "Converteer GIF naar JPG"
+
       "url": "/nl/convert/gif-to-jpg"
-    },
-    {
-      "title": "Converteer PNG naar GIF",
-      "url": "/nl/convert/png-to-gif"
-    },
-    {
-      "title": "Converteer GIF naar WebP",
-      "url": "/nl/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rechten voorbehouden.",
+    {
+      "title": "Converteer PNG naar GIF"
+
+      "url": "/nl/convert/png-to-gif"
+
+    }
+    {
+      "title": "Converteer GIF naar WebP"
+
+      "url": "/nl/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alle rechten voorbehouden."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "GIF naar PNG Converter - Gratis & Online",
-      "url": "https://wikihowto.click/nl/convert/gif-to-png",
-      "description": "Gratis online tool om GIF-afbeeldingen naar PNG te converteren met verliesloze compressie en ondersteuning voor transparantie.",
-      "inLanguage": "nl",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF naar PNG Converter - Gratis & Online"
+
+      "url": "https://miconvert.com/nl/convert/gif-to-png"
+
+      "description": "Gratis online tool om GIF-afbeeldingen naar PNG te converteren met verliesloze compressie en ondersteuning voor transparantie."
+
+      "inLanguage": "nl"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Home"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Converteren",
-          "item": "https://wikihowto.click/nl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Converteren"
+
+          "item": "https://miconvert.com/nl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF naar PNG",
-          "item": "https://wikihowto.click/nl/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF naar PNG"
+
+          "item": "https://miconvert.com/nl/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "GIF naar PNG Converter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/nl/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF naar PNG Converter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/nl/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "EUR"
-      },
+
+      }
       "featureList": [
-        "Verliesloze PNG-uitvoer",
-        "Ondersteuning voor transparantie",
+        "Verliesloze PNG-uitvoer"
+
+        "Ondersteuning voor transparantie"
+
         "Snelle verwerking"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Is deze GIF naar PNG converter gratis?",
+          "@type": "Question"
+
+          "name": "Is deze GIF naar PNG converter gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, de converter is volledig gratis zonder verborgen kosten of abonnementen."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Wat gebeurt er met geanimeerde GIF's?",
+          "@type": "Question"
+
+          "name": "Wat gebeurt er met geanimeerde GIF's?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Alleen het eerste frame wordt geconverteerd naar een statische PNG-afbeelding. Om animatie te behouden, gebruik GIF naar WebP."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Welke bestandsgroottes worden ondersteund?",
+          "@type": "Question"
+
+          "name": "Welke bestandsgroottes worden ondersteund?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "U kunt afbeeldingen tot 16 MB per bestand uploaden."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Hoe GIF naar PNG te converteren",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Hoe GIF naar PNG te converteren"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik op Upload GIF en selecteer uw bestand."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wacht tot de verwerking is voltooid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik op Download PNG om het resultaat op te slaan."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Wacht tot de verwerking is voltooid."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik op Download PNG om het resultaat op te slaan."
+
+        }
+      ]
       "tool": [
         "GIF naar PNG Converter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

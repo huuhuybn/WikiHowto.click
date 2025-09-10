@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "ko",
+  "lang_name": "한국어",
+  "title": "miconvert.com - 무료 온라인 파일 변환기",
+  "sub_title": "PDF, 이미지, 오디오, 비디오 및 문서 파일을 각 형식 쌍에 맞는 전용 도구를 사용하여 변환합니다. 빠르고 안전하며 워터마크가 없습니다.",
+  "hint": "변환기를 검색하세요 (예: JPG to PNG, PDF to JPG, MP3 to WAV)...",
+  "btn_download": "변환기 검색",
+  "btn_paste": "모두 보기",
+  "btn_clear": "지우기",
+  "description": "<p><strong>miconvert.com에 오신 것을 환영합니다.</strong> — <em>형식별 파일 변환기</em>의 특화된 허브입니다. 하나의 일반적인 도구 대신 각 형식 쌍(예: <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>)에 대해 전용 페이지를 생성하여 항상 올바른 옵션, 최상의 품질 및 간단한 워크플로를 얻을 수 있습니다.</p><p>여기의 모든 변환기는 이미지 선명도와 크기, 투명도 처리, 인쇄 가능한 PDF 레이아웃 또는 오디오 충실도에 맞게 조정됩니다. 등록이 필요 없고, 워터마크가 없으며, 디자인상으로 개인 정보가 보호됩니다. 업로드는 안전하게 처리되고 변환 후 자동으로 삭제됩니다. 데스크톱, 태블릿 또는 모바일에서 사용하세요.</p><p><strong>PDF 도구</strong>(PDF ↔ JPG/PNG/TIFF/WebP, 병합/분할), <strong>이미지 도구</strong>(JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>오디오 도구</strong>(MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>비디오 도구</strong>(MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) 및 <strong>문서 도구</strong>(DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC)를 살펴보세요. 각 도구는 빠르고 정확하며 집중적입니다.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "무료 온라인 파일 변환기 - PDF, 이미지, 오디오 등 | miconvert.com",
+    "description": "무료 변환기를 사용하여 온라인으로 파일을 변환하세요. 각 형식 쌍에 대한 특수 도구: PDF to JPG, PNG to PDF, MP3 to WAV 등. 빠르고 안전하며 워터마크가 없습니다.",
+    "keywords": "파일 변환기, pdf 변환기, 이미지 변환기, 오디오 변환기, 비디오 변환기, 문서 변환기, jpg to png, pdf to jpg, png to pdf, mp3 to wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - 무료 온라인 파일 변환기",
+    "og_description": "PDF, 이미지, 오디오, 비디오 및 문서를 모든 형식 쌍에 대한 특수 변환기를 사용하여 변환합니다. 무료, 빠르고 워터마크가 없습니다.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "파일 변환기란 무엇입니까?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "파일 변환기는 파일을 한 형식에서 다른 형식으로 변환합니다(예: JPG to PNG, PDF to JPG). 좋은 변환기는 크기와 호환성을 최적화하면서 필수 콘텐츠(픽셀, 텍스트, 오디오)와 메타데이터를 보존합니다."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "내 파일을 보관하십니까?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "아니요. 파일은 안전하게 처리되고 변환 후 자동으로 삭제됩니다. 영구적으로 보관하지 않습니다."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "변환은 무료이며 워터마크가 없습니까?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "네. 모든 도구는 100% 무료로 사용할 수 있으며 워터마크를 추가하지 않습니다."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "무료 온라인 파일 변환기",
+    "description": "형식 쌍당 하나의 도구. PDF, 이미지, 오디오, 비디오 및 문서를 온라인으로 빠르고 안전하게 워터마크 없이 변환하세요."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "파일 변환기란 무엇입니까?",
+      "description": "<p>파일 변환기는 파일의 형식을 변경하여 <strong>호환성</strong>, <strong>품질</strong> 또는 <strong>크기</strong>를 개선합니다. 일반적인 예로는 웹용 이미지 변환(<em>PNG → WebP</em>), 인쇄 가능한 문서 준비(<em>JPG/PNG → PDF</em>) 또는 문서에서 시각 자료 추출(<em>PDF → JPG/PNG/TIFF/WebP</em>)이 있습니다.</p><p>좋은 변환기는 품질과 크기의 균형을 맞추고, 적용 가능한 경우 투명도(PNG/WebP)를 유지하며, 예측 가능한 인쇄를 위해 여백이 있는 페이지에 이미지를 맞추는 등 PDF의 레이아웃을 유지합니다. 대부분의 사용자가 몇 초 만에 변환할 수 있도록 합리적인 기본값을 제공합니다.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "손실 압축 대 손실 없는 압축, 래스터 대 벡터",
+      "description": "<ul><li><strong>손실 압축 대 손실 없는 압축:</strong> JPG/WebP(손실 압축)는 일부 데이터를 삭제하여 크기를 줄입니다. PNG/TIFF(손실 없는 압축)는 전체 세부 정보를 유지합니다. 웹 공유에는 손실 압축을, 편집/보관에는 손실 없는 압축을 선택하세요.</li><li><strong>래스터 대 벡터:</strong> JPG/PNG/WebP/TIFF는 래스터(픽셀)입니다. SVG/AI는 벡터(도형, 패스)입니다. 래스터는 인쇄에 적절한 해상도(DPI)가 필요합니다. 벡터는 흐릿해지지 않고 무한히 확장됩니다.</li><li><strong>색상 및 메타데이터:</strong> 변환은 ICC 프로필, EXIF 또는 알파 채널에 영향을 줄 수 있습니다. 이미지에서 PDF로 변환하는 도구는 투명도 동작을 적절하게 유지하고 예측 가능한 인쇄를 위해 여백이 있는 페이지에 이미지를 맞춥니다.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "인기 변환 범주",
+      "description": "<ul><li><strong>PDF 도구:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">JPG 병합 → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">PNG 결합 → PDF</a></li><li><strong>이미지 도구:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>오디오 도구:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>비디오 도구:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>문서 도구:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "작동 방식",
+      "description": "<ol><li>정확한 형식 쌍에 대한 변환기를 선택합니다(예: <em>PNG → PDF</em>).</li><li>하나 이상의 파일을 업로드합니다(많은 도구에서 일괄 처리 지원).</li><li>변환을 클릭합니다. 기본값은 품질과 크기에 최적화되어 있습니다.</li><li>결과를 즉시 다운로드합니다. 가입이 필요 없고, 워터마크가 없습니다.</li></ol><p>팁: 균일한 레이아웃을 위해 PDF 병합 시 이미지 종횡비를 일관되게 유지하세요. 웹의 경우 우수한 품질로 크기를 줄이려면 WebP를 고려하세요.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "보안 및 개인 정보 보호",
+      "description": "<ul><li><strong>암호화된 전송:</strong> 파일은 안전한 연결을 통해 이동합니다.</li><li><strong>자동 삭제:</strong> 처리된 파일은 자동으로 삭제됩니다.</li><li><strong>영구 저장 없음:</strong> 처리 후 파일을 보관하지 않습니다.</li><li><strong>워터마크 없음:</strong> 결과는 깨끗하고 바로 사용할 수 있습니다.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "파일 변환기란 무엇입니까?",
+      "answer": "파일을 한 형식에서 다른 형식으로 변경하여 호환성, 품질 또는 크기를 개선합니다(예: JPG → PNG, PDF → JPG)."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "가장 인기 있는 변환기는 무엇입니까?",
+      "answer": "PDF ↔ 이미지(PDF → JPG/PNG/WebP/TIFF 및 JPG/PNG/WebP/TIFF → PDF)와 이미지 ↔ 이미지(JPG ↔ PNG, PNG ↔ WebP)가 가장 많이 사용됩니다."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "이미지를 압축합니까?",
+      "answer": "네, JPG/WebP와 같은 손실 압축 형식은 품질을 조정하여 크기를 줄입니다. PNG/TIFF와 같은 손실 없는 압축 형식은 세부 정보를 유지합니다."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "투명도를 유지합니까?",
+      "answer": "PNG와 WebP는 알파 채널을 지원합니다. PDF로 변환할 때 페이지는 예측 가능한 출력을 위해 여백이 있는 페이지에 맞춰 배치됩니다."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "OCR이 지원됩니까?",
+      "answer": "OCR은 기본적으로 사용할 수 없습니다. 이미지/PDF에서 텍스트를 추출하려면 전용 OCR 도구를 사용하세요."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "최대 파일 크기는 얼마입니까?",
+      "answer": "대부분의 변환기는 변환당 최대 100MB를 지원합니다. 더 큰 파일의 경우 먼저 분할하거나 압축하세요."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "내 파일이 저장됩니까?",
+      "answer": "아니요. 파일은 안전하게 처리되고 변환 후 자동으로 삭제됩니다."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "일괄 변환 또는 병합을 할 수 있습니까?",
+      "answer": "많은 도구가 다중 파일 업로드 및 병합을 지원합니다(예: JPG 병합 → PDF, PNG 결합 → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "참고: 각 변환기는 단일 형식 쌍에 최적화되어 최상의 품질과 속도를 보장합니다. 가장 균일한 PDF 레이아웃을 위해서는 일관된 이미지 크기와 방향을 사용하세요.",
+  "footer": "© 2019 - 2025 miconvert.com. 모든 권한 보유."
 }

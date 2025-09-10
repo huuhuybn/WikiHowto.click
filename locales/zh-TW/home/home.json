@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "zh-TW",
+  "lang_name": "繁體中文",
+  "title": "miconvert.com - 免費線上檔案轉換器",
+  "sub_title": "使用專為每種格式組合設計的工具，在 PDF、圖片、音訊、影片和文件之間轉換檔案。快速、安全且無浮水印。",
+  "hint": "搜尋轉換器（例如，JPG 轉 PNG、PDF 轉 JPG、MP3 轉 WAV）…",
+  "btn_download": "搜尋轉換器",
+  "btn_paste": "瀏覽全部",
+  "btn_clear": "清除",
+  "description": "<p><strong>歡迎來到 miconvert.com</strong> —一個專門的<em>成對特定檔案轉換器</em>中心。我們不是使用單一的通用工具，而是為每種格式組合（例如，<strong>JPG → PNG</strong>、<strong>PDF → JPG</strong>、<strong>PNG → WebP</strong>、<strong>MP3 → WAV</strong>）建立一個專用的頁面，讓您始終獲得正確的選項、最佳品質和簡潔的工作流程。</p><p>此處的每個轉換器都針對其確切用途進行調整：影像清晰度與大小、透明度處理、可列印的 PDF 版面配置或音訊保真度。無需註冊、無浮水印，且設計上注重隱私——上傳的檔案會安全地進行處理，並在轉換後自動刪除。可在桌上型電腦、平板電腦或行動裝置上使用。</p><p>瀏覽我們的<strong>PDF 工具</strong>（PDF ↔ JPG/PNG/TIFF/WebP，合併/分割）、<strong>圖片工具</strong>（JPG ↔ PNG、PNG ↔ WebP、GIF ↔ PNG、TIFF ↔ JPG）、<strong>音訊工具</strong>（MP3 ↔ WAV、FLAC ↔ MP3、OGG ↔ AAC）、<strong>影片工具</strong>（MP4 ↔ AVI、MOV ↔ WMV、MKV ↔ MP4）和<strong>文件工具</strong>（DOCX ↔ PDF、TXT ↔ RTF、ODT ↔ DOC）。每個工具都快速、精確且專注。</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "免費線上檔案轉換器 - PDF、圖片、音訊及更多 | miconvert.com",
+    "description": "使用免費轉換器線上轉換檔案。專為每種格式組合設計的工具：PDF 轉 JPG、PNG 轉 PDF、MP3 轉 WAV 等等。快速、安全，無浮水印。",
+    "keywords": "檔案轉換器, pdf 轉換器, 圖片轉換器, 音訊轉換器, 影片轉換器, 文件轉換器, jpg 轉 png, pdf 轉 jpg, png 轉 pdf, mp3 轉 wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - 免費線上檔案轉換器",
+    "og_description": "使用專為每種格式組合設計的轉換器，轉換 PDF、圖片、音訊、影片和文件。免費、快速且無浮水印。",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "什麼是檔案轉換器？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "檔案轉換器將檔案從一種格式轉換成另一種格式（例如，JPG 轉 PNG、PDF 轉 JPG）。好的轉換器會保留重要的內容（像素、文字、音訊）和中繼資料，同時優化大小和相容性。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "你們會保留我的檔案嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "不會。檔案會安全地進行處理，並在轉換後自動刪除。我們不會永久保留它們。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "轉換是免費且無浮水印的嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的。所有工具均可免費使用，且絕不會添加浮水印。"
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "免費線上檔案轉換器",
+    "description": "每種格式組合一個工具。線上快速、安全且無浮水印地轉換 PDF、圖片、音訊、影片和文件。"
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "什麼是檔案轉換器？",
+      "description": "<p>檔案轉換器會更改檔案的格式以改善<strong>相容性</strong>、<strong>品質</strong>或<strong>大小</strong>。常見的範例包括為網頁轉換圖片（<em>PNG → WebP</em>）、準備可列印的文件（<em>JPG/PNG → PDF</em>）或從文件中提取視覺效果（<em>PDF → JPG/PNG/TIFF/WebP</em>）。</p><p>好的轉換器會在品質和大小之間取得平衡，在適用的情況下保留透明度（PNG/WebP），並保留 PDF 的版面配置（頁面大小、頁邊界、適合頁面）。我們的工具會顯示合理的預設值，因此大多數使用者都能在幾秒鐘內完成轉換。</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "有損 vs. 無損、點陣圖 vs. 向量圖",
+      "description": "<ul><li><strong>有損 vs. 無損：</strong>JPG/WebP（有損）透過捨棄一些資料來縮小大小；PNG/TIFF（無損）則保留完整的細節。為網路分享選擇有損格式，為編輯/歸檔選擇無損格式。</li><li><strong>點陣圖 vs. 向量圖：</strong>JPG/PNG/WebP/TIFF 為點陣圖（像素）。SVG/AI 為向量圖（形狀、路徑）。點陣圖需要足夠的解析度 (DPI) 才能列印；向量圖則可以無限縮放而不模糊。</li><li><strong>顏色和中繼資料：</strong>轉換可能會影響 ICC 配置檔、EXIF 或 Alpha 通道。我們的圖片轉 PDF 工具會適當地保留透明度行為，並將圖片與頁邊界配合調整以預測列印。</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "熱門轉換類別",
+      "description": "<ul><li><strong>PDF 工具：</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>、<a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>、<a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>、<a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>、<a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>、<a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>、<a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>、<a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>、<a href=\"/en/pdf/merge-jpg-to-pdf/\">合併 JPG → PDF</a>、<a href=\"/en/pdf/combine-png-to-pdf/\">合併 PNG → PDF</a></li><li><strong>圖片工具：</strong>JPG ↔ PNG、PNG ↔ WebP、GIF ↔ PNG、TIFF ↔ JPG</li><li><strong>音訊工具：</strong>MP3 ↔ WAV、FLAC ↔ MP3、OGG ↔ AAC</li><li><strong>影片工具：</strong>MP4 ↔ AVI、MOV ↔ WMV、MKV ↔ MP4</li><li><strong>文件工具：</strong>DOCX ↔ PDF、TXT ↔ RTF、ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "使用方法",
+      "description": "<ol><li>選擇與您的確切格式組合相符的轉換器（例如，<em>PNG → PDF</em>）。</li><li>上傳一個或多個檔案（許多工具都支援批次處理）。</li><li>點擊轉換——預設值已針對品質和大小進行最佳化。</li><li>立即下載您的結果。無需註冊，無浮水印。</li></ol><p>提示：將圖片合併到 PDF 時，請保持圖片縱橫比一致，以獲得一致的版面配置。對於網頁，請考慮使用 WebP 以在保持出色品質的同時減小檔案大小。</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "安全性與隱私權",
+      "description": "<ul><li><strong>加密傳輸：</strong>檔案透過安全連線傳輸。</li><li><strong>自動刪除：</strong>已處理的檔案會自動刪除。</li><li><strong>無永久儲存：</strong>我們不會在處理後保留您的檔案。</li><li><strong>無浮水印：</strong>結果乾淨且可立即使用。</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "什麼是檔案轉換器？",
+      "answer": "它將檔案從一種格式轉換成另一種格式（例如，JPG → PNG、PDF → JPG）以改善相容性、品質或大小。"
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "哪些轉換器最受歡迎？",
+      "answer": "PDF ↔ 圖片（PDF → JPG/PNG/WebP/TIFF 和 JPG/PNG/WebP/TIFF → PDF）和圖片 ↔ 圖片（JPG ↔ PNG、PNG ↔ WebP）最常用。"
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "你們會壓縮圖片嗎？",
+      "answer": "是的，像 JPG/WebP 這樣的有損格式會在可調整的品質下減小大小；像 PNG/TIFF 這樣的無損格式會保留細節。"
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "你們會保留透明度嗎？",
+      "answer": "PNG 和 WebP 支援 Alpha 通道。轉換為 PDF 時，頁面會以頁邊界和適合頁面行為進行佈局，以獲得可預測的輸出。"
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "是否支援 OCR？",
+      "answer": "預設情況下未啟用 OCR。若要從圖片/PDF 中提取文字，請使用專用的 OCR 工具。"
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "最大檔案大小？",
+      "answer": "大多數轉換器每次轉換最多支援 100MB。對於較大的檔案，請先分割或壓縮。"
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "我的檔案會被儲存嗎？",
+      "answer": "不會。檔案會安全地進行處理，並在轉換後自動刪除。"
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "我可以批次轉換或合併嗎？",
+      "answer": "許多工具都支援多檔案上傳和合併（例如，合併 JPG → PDF、合併 PNG → PDF）。"
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "注意：每個轉換器都針對單一格式組合進行最佳化，以確保最佳品質和速度。為獲得最一致的 PDF 版面配置，請使用一致的圖片尺寸和方向。",
+  "footer": "© 2019 - 2025 miconvert.com。版權所有。"
 }

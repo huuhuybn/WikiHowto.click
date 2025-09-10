@@ -1,244 +1,365 @@
 {
-  "lang": "da",
-  "lang_name": "Dansk",
-  "title": "GIF til PNG Konverter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konverter GIF-billeder til PNG-format online med understøttelse af gennemsigtighed, høj kvalitet og uden vandmærker.",
-  "hint": "Upload dit GIF-billede for at starte konverteringen...",
-  "btn_download": "Konverter til PNG",
-  "btn_paste": "Upload GIF",
-  "btn_clear": "Ryd",
+  "lang": "da"
+
+  "lang_name": "Dansk"
+
+  "title": "GIF til PNG Konverter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konverter GIF-billeder til PNG-format online med understøttelse af gennemsigtighed, høj kvalitet og uden vandmærker."
+
+  "hint": "Upload dit GIF-billede for at starte konverteringen..."
+
+  "btn_download": "Konverter til PNG"
+
+  "btn_paste": "Upload GIF"
+
+  "btn_clear": "Ryd"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Konverter din <strong>GIF til PNG</strong> for højere troværdighed og fuld understøttelse af gennemsigtighed. Vores gratis online konverter omdanner animerede eller statiske GIF'er til billeder af høj kvalitet i PNG-format. Mens GIF er fantastisk til enkle animationer, tilbyder PNG overlegen farvedybde, bedre gennemsigtighed og tabsfri kompression til skarpe statiske grafik.</p><p><strong>Bemærk:</strong> Animerede GIF'er konverteres til et <em>enkelt statisk billede</em> (første ramme). For animeret output, prøv <a href='/en/convert/gif-to-webp'>GIF til WebP</a>.</p>",
+  }
+  "description": "<p>Konverter din <strong>GIF til PNG</strong> for højere troværdighed og fuld understøttelse af gennemsigtighed. Vores gratis online konverter omdanner animerede eller statiske GIF'er til billeder af høj kvalitet i PNG-format. Mens GIF er fantastisk til enkle animationer, tilbyder PNG overlegen farvedybde, bedre gennemsigtighed og tabsfri kompression til skarpe statiske grafik.</p><p><strong>Bemærk:</strong> Animerede GIF'er konverteres til et <em>enkelt statisk billede</em> (første ramme). For animeret output, prøv <a href='/en/convert/gif-to-webp'>GIF til WebP</a>.</p>"
+
   "head": {
-    "title": "Konverter GIF til PNG Online - Gratis GIF til PNG Konverter | WikiHowTo.click",
-    "description": "Konverter GIF til PNG online med understøttelse af gennemsigtighed, høj kvalitet og uden vandmærker. Gratis, hurtig og sikker GIF til PNG konverteringsværktøj.",
-    "keywords": "gif til png, konverter gif til png, gratis gif til png, online gif konverter, gennemsigtige billeder",
-    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_title": "GIF til PNG Konverter - Gratis & Online",
-    "og_description": "Konverter GIF-billeder til PNG-format med understøttelse af gennemsigtighed og høj kvalitet. 100% gratis, hurtig og sikker.",
-    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis GIF til PNG Konverter Online",
-    "twitter_description": "Konverter GIF til PNG med understøttelse af gennemsigtighed, høj kvalitet og uden vandmærker. Fungerer på alle enheder.",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "Konverter GIF til PNG Online - Gratis GIF til PNG Konverter | miconvert.com"
+
+    "description": "Konverter GIF til PNG online med understøttelse af gennemsigtighed, høj kvalitet og uden vandmærker. Gratis, hurtig og sikker GIF til PNG konverteringsværktøj."
+
+    "keywords": "gif til png, konverter gif til png, gratis gif til png, online gif konverter, gennemsigtige billeder"
+
+    "canonical": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_title": "GIF til PNG Konverter - Gratis & Online"
+
+    "og_description": "Konverter GIF-billeder til PNG-format med understøttelse af gennemsigtighed og høj kvalitet. 100% gratis, hurtig og sikker."
+
+    "og_url": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konverter GIF til PNG Online",
+    "title": "Konverter GIF til PNG Online"
+
     "description": "Gratis og hurtig GIF til PNG konverter med understøttelse af gennemsigtighed og høj kvalitet. Fungerer straks på enhver enhed, ingen tilmelding kræves."
-  },
+
+  }
   "h2": [
     {
-      "title": "Hvorfor konvertere GIF til PNG?",
+      "title": "Hvorfor konvertere GIF til PNG?"
+
       "description": "<p>GIF er begrænset til 256 farver og egnet til enkle animationer. PNG er ideel til billeder af høj kvalitet:</p><ul><li><strong>Højere kvalitet:</strong> Truecolor (24-bit) + alpha vs GIF's 8-bit palet.</li><li><strong>Gennemsigtighed:</strong> PNG understøtter fuld alpha-gennemsigtighed for glatte kanter.</li><li><strong>Tabsfri kompression:</strong> PNG bevarer detaljer uden kvalitetstab.</li><li><strong>Universel kompatibilitet:</strong> Bredt understøttet på tværs af apps og platforme.</li></ul>"
-    },
-    {
-      "title": "Sådan konverteres GIF til PNG Online",
-      "description": "<ol><li>Klik på <em>Upload GIF</em> og vælg din fil.</li><li>Vent på, at behandlingen er færdig.</li><li>Klik på <em>Download PNG</em> for at gemme resultatet.</li></ol><p>Animerede GIF'er: kun den første ramme eksporteres som PNG.</p>"
-    },
-    {
-      "title": "GIF vs PNG: Nøgleforskelle",
-      "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Farvedybde</td><td>8-bit (256 farver)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Gennemsigtighed</td><td>1-bit maske (til/fra)</td><td>Fuld alpha-gennemsigtighed</td></tr><tr><td>Kompression</td><td>Tabsfri (LZW)</td><td>Tabsfri (DEFLATE)</td></tr><tr><td>Animation</td><td>Understøttet</td><td>Ikke understøttet (statisk)</td></tr><tr><td>Bedst til</td><td>Enkle animationer, klistermærker</td><td>Logoer, UI, screenshots, statisk grafik</td></tr></tbody></table>"
-    },
-    {
-      "title": "Understøttede grænser & formater",
-      "description": "<ul><li><strong>Acceptabel input:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Funktioner i vores GIF til PNG konverter",
-      "description": "<ul><li>100% gratis, ingen vandmærker</li><li>Bevarer gennemsigtighed, hvor det er til stede</li><li>Tabsfri PNG-output</li><li>Mobilvenlig grænseflade</li></ul>"
-    },
-    {
-      "title": "Hvad er GIF?",
-      "description": "<p>GIF (Graphics Interchange Format) understøtter grundlæggende animation og bruger tabsfri LZW-kompression, men er begrænset til en 256-farvers palet.</p>"
-    },
-    {
-      "title": "Hvad er PNG?",
-      "description": "<p>PNG (Portable Network Graphics) er et tabsfrit format, der understøtter truecolor og alpha-gennemsigtighed - ideelt til billeder af høj kvalitet.</p>"
-    },
-    {
-      "title": "Fejlfinding",
-      "description": "<ul><li><strong>Upload fejler:</strong> Sørg for, at filen er GIF og ≤ 16&nbsp;MB.</li><li><strong>Ragede gennemsigtighedskanter:</strong> GIF's 1-bit gennemsigtighed kan se hård ud; forfin med <a href='/en/effect/remove-background'>Baggrundsfjerner</a>.</li><li><strong>Har brug for animation:</strong> Brug <a href='/en/convert/gif-to-webp'>GIF til WebP</a> for at bevare bevægelse.</li></ul>"
-    },
-    {
-      "title": "Brugssager: Hvornår skal man konvertere GIF til PNG",
-      "description": "<ul><li><strong>Logoer & ikoner</strong> der kræver glat gennemsigtighed.</li><li><strong>Screenshots/UI</strong> der kræver skarpe tekster og linjer.</li><li><strong>Arkivering</strong> af statiske rammer i højere kvalitet.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Sådan konverteres GIF til PNG Online"
+
+      "description": "<ol><li>Klik på <em>Upload GIF</em> og vælg din fil.</li><li>Vent på, at behandlingen er færdig.</li><li>Klik på <em>Download PNG</em> for at gemme resultatet.</li></ol><p>Animerede GIF'er: kun den første ramme eksporteres som PNG.</p>"
+
+    }
+    {
+      "title": "GIF vs PNG: Nøgleforskelle"
+
+      "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Farvedybde</td><td>8-bit (256 farver)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Gennemsigtighed</td><td>1-bit maske (til/fra)</td><td>Fuld alpha-gennemsigtighed</td></tr><tr><td>Kompression</td><td>Tabsfri (LZW)</td><td>Tabsfri (DEFLATE)</td></tr><tr><td>Animation</td><td>Understøttet</td><td>Ikke understøttet (statisk)</td></tr><tr><td>Bedst til</td><td>Enkle animationer, klistermærker</td><td>Logoer, UI, screenshots, statisk grafik</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Understøttede grænser & formater"
+
+      "description": "<ul><li><strong>Acceptabel input:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Funktioner i vores GIF til PNG konverter"
+
+      "description": "<ul><li>100% gratis, ingen vandmærker</li><li>Bevarer gennemsigtighed, hvor det er til stede</li><li>Tabsfri PNG-output</li><li>Mobilvenlig grænseflade</li></ul>"
+
+    }
+    {
+      "title": "Hvad er GIF?"
+
+      "description": "<p>GIF (Graphics Interchange Format) understøtter grundlæggende animation og bruger tabsfri LZW-kompression, men er begrænset til en 256-farvers palet.</p>"
+
+    }
+    {
+      "title": "Hvad er PNG?"
+
+      "description": "<p>PNG (Portable Network Graphics) er et tabsfrit format, der understøtter truecolor og alpha-gennemsigtighed - ideelt til billeder af høj kvalitet.</p>"
+
+    }
+    {
+      "title": "Fejlfinding"
+
+      "description": "<ul><li><strong>Upload fejler:</strong> Sørg for, at filen er GIF og ≤ 16&nbsp;MB.</li><li><strong>Ragede gennemsigtighedskanter:</strong> GIF's 1-bit gennemsigtighed kan se hård ud; forfin med <a href='/en/effect/remove-background'>Baggrundsfjerner</a>.</li><li><strong>Har brug for animation:</strong> Brug <a href='/en/convert/gif-to-webp'>GIF til WebP</a> for at bevare bevægelse.</li></ul>"
+
+    }
+    {
+      "title": "Brugssager: Hvornår skal man konvertere GIF til PNG"
+
+      "description": "<ul><li><strong>Logoer & ikoner</strong> der kræver glat gennemsigtighed.</li><li><strong>Screenshots/UI</strong> der kræver skarpe tekster og linjer.</li><li><strong>Arkivering</strong> af statiske rammer i højere kvalitet.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Er denne GIF til PNG konverter gratis?",
+      "question": "Er denne GIF til PNG konverter gratis?"
+
       "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
-    },
-    {
-      "question": "Bevarer PNG gennemsigtighed fra GIF?",
-      "answer": "Ja. GIF's 1-bit gennemsigtige områder forbliver gennemsigtige i PNG; for glattere kanter, rediger alpha-kanalen efter konvertering."
-    },
-    {
-      "question": "Hvad sker der med animerede GIF'er?",
-      "answer": "Kun den første ramme konverteres til et statisk PNG-billede. For at bevare animationen, brug GIF til WebP."
-    },
-    {
-      "question": "Vil jeg miste kvalitet, når jeg konverterer GIF til PNG?",
-      "answer": "Nej. PNG bruger tabsfri kompression og understøtter fuld farve, hvilket ofte forbedrer visuel troværdighed over 256-farvers GIF."
-    },
-    {
-      "question": "Hvilke filstørrelser understøttes?",
-      "answer": "Du kan uploade billeder op til 16 MB pr. fil."
-    },
-    {
-      "question": "Er mine filer sikre?",
-      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
-    },
-    {
-      "question": "Kan jeg konvertere flere GIF-filer ad gangen?",
-      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
+
     }
-  ],
-  "note": "Animerede GIF'er bliver statiske PNG'er (første ramme). For animeret output, konverter GIF til WebP.",
+    {
+      "question": "Bevarer PNG gennemsigtighed fra GIF?"
+
+      "answer": "Ja. GIF's 1-bit gennemsigtige områder forbliver gennemsigtige i PNG; for glattere kanter, rediger alpha-kanalen efter konvertering."
+
+    }
+    {
+      "question": "Hvad sker der med animerede GIF'er?"
+
+      "answer": "Kun den første ramme konverteres til et statisk PNG-billede. For at bevare animationen, brug GIF til WebP."
+
+    }
+    {
+      "question": "Vil jeg miste kvalitet, når jeg konverterer GIF til PNG?"
+
+      "answer": "Nej. PNG bruger tabsfri kompression og understøtter fuld farve, hvilket ofte forbedrer visuel troværdighed over 256-farvers GIF."
+
+    }
+    {
+      "question": "Hvilke filstørrelser understøttes?"
+
+      "answer": "Du kan uploade billeder op til 16 MB pr. fil."
+
+    }
+    {
+      "question": "Er mine filer sikre?"
+
+      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
+
+    }
+    {
+      "question": "Kan jeg konvertere flere GIF-filer ad gangen?"
+
+      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
+
+    }
+  ]
+  "note": "Animerede GIF'er bliver statiske PNG'er (første ramme). For animeret output, konverter GIF til WebP."
+
   "related_links": [
     {
-      "title": "Konverter GIF til JPG",
+      "title": "Konverter GIF til JPG"
+
       "url": "/en/convert/gif-to-jpg"
-    },
-    {
-      "title": "Konverter PNG til GIF",
-      "url": "/en/convert/png-to-gif"
-    },
-    {
-      "title": "Konverter GIF til WebP",
-      "url": "/en/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rettigheder forbeholdes.",
+    {
+      "title": "Konverter PNG til GIF"
+
+      "url": "/en/convert/png-to-gif"
+
+    }
+    {
+      "title": "Konverter GIF til WebP"
+
+      "url": "/en/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "GIF til PNG Konverter - Gratis & Online",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
-      "description": "Gratis online værktøj til at konvertere GIF-billeder til PNG med tabsfri kompression og understøttelse af gennemsigtighed.",
-      "inLanguage": "da",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF til PNG Konverter - Gratis & Online"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
+      "description": "Gratis online værktøj til at konvertere GIF-billeder til PNG med tabsfri kompression og understøttelse af gennemsigtighed."
+
+      "inLanguage": "da"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Hjem",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Hjem"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverter",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverter"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF til PNG",
-          "item": "https://wikihowto.click/en/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF til PNG"
+
+          "item": "https://miconvert.com/en/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "GIF til PNG Konverter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF til PNG Konverter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "DKK"
-      },
+
+      }
       "featureList": [
-        "Tabsfri PNG-output",
-        "Understøttelse af gennemsigtighed",
+        "Tabsfri PNG-output"
+
+        "Understøttelse af gennemsigtighed"
+
         "Hurtig behandling"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Er denne GIF til PNG konverter gratis?",
+          "@type": "Question"
+
+          "name": "Er denne GIF til PNG konverter gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hvad sker der med animerede GIF'er?",
+          "@type": "Question"
+
+          "name": "Hvad sker der med animerede GIF'er?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Kun den første ramme konverteres til et statisk PNG-billede. For at bevare animationen, brug GIF til WebP."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hvilke filstørrelser understøttes?",
+          "@type": "Question"
+
+          "name": "Hvilke filstørrelser understøttes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Du kan uploade billeder op til 16 MB pr. fil."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Sådan konverteres GIF til PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Sådan konverteres GIF til PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik på Upload GIF og vælg din fil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Vent på, at behandlingen er færdig."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik på Download PNG for at gemme resultatet."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Vent på, at behandlingen er færdig."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik på Download PNG for at gemme resultatet."
+
+        }
+      ]
       "tool": [
         "GIF til PNG Konverter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

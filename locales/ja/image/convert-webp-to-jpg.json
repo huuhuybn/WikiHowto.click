@@ -1,242 +1,362 @@
 {
-  "lang": "ja",
-  "lang_name": "日本語",
-  "title": "WebPからJPGへの変換 - 無料＆オンライン | WikiHowTo.click",
-  "sub_title": "WebP画像をオンラインで高品質、より良い互換性、透かしなしでJPG形式に変換します。",
-  "hint": "変換を開始するにはWebP画像をアップロードしてください...",
-  "btn_download": "JPGに変換",
-  "btn_paste": "WebPをアップロード",
-  "btn_clear": "クリア",
-  "ogImage": "https://wikihowto.click/images/webp-to-jpg.jpg",
+  "lang": "ja"
+
+  "lang_name": "日本語"
+
+  "title": "WebPからJPGへの変換 - 無料＆オンライン | miconvert.com"
+
+  "sub_title": "WebP画像をオンラインで高品質、より良い互換性、透かしなしでJPG形式に変換します。"
+
+  "hint": "変換を開始するにはWebP画像をアップロードしてください..."
+
+  "btn_download": "JPGに変換"
+
+  "btn_paste": "WebPをアップロード"
+
+  "btn_clear": "クリア"
+
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
+
   "converter": {
-    "type": "webp-to-jpg",
-    "inputFormat": "WebP",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-jpg"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p><strong>WebPをJPG</strong>に変換する必要がありますか？この無料のオンラインコンバータは、最新のWebP画像を普遍的にサポートされるJPEGに変換し、強い視覚品質を維持します。<em>注意：</em> JPGは透明性をサポートしていません—透明な部分は固体の背景（デフォルトでは白）で埋められます。アニメーションWebPファイルは、<strong>最初のフレーム</strong>を使用して静的画像として変換されます。</p>",
+  }
+  "description": "<p><strong>WebPをJPG</strong>に変換する必要がありますか？この無料のオンラインコンバータは、最新のWebP画像を普遍的にサポートされるJPEGに変換し、強い視覚品質を維持します。<em>注意：</em> JPGは透明性をサポートしていません—透明な部分は固体の背景（デフォルトでは白）で埋められます。アニメーションWebPファイルは、<strong>最初のフレーム</strong>を使用して静的画像として変換されます。</p>"
+
   "head": {
-    "title": "WebPをJPGにオンラインで変換 - 無料WebPからJPGコンバータ | WikiHowTo.click",
-    "description": "高品質、より良い互換性、透かしなしでWebPをJPGにオンラインで変換します。無料で、迅速で、安全なWebPからJPGへの変換ツール。",
-    "keywords": "webp to jpg, convert webp to jpg, free webp to jpg, online webp converter, image compatibility",
-    "canonical": "https://wikihowto.click/en/convert/webp-to-jpg",
-    "og_title": "WebPからJPGへの変換 - 無料＆オンライン",
-    "og_description": "高品質でより良い互換性を持つJPG形式にWebP画像を変換します。100％無料、迅速、安全。",
-    "og_url": "https://wikihowto.click/en/convert/webp-to-jpg",
-    "og_image": "https://wikihowto.click/images/webp-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "無料WebPからJPGへのオンラインコンバータ",
-    "twitter_description": "高品質、より良い互換性、透かしなしでWebPをJPGに変換します。すべてのデバイスで動作します。",
-    "twitter_image": "https://wikihowto.click/images/webp-to-jpg.jpg"
-  },
+    "title": "WebPをJPGにオンラインで変換 - 無料WebPからJPGコンバータ | miconvert.com"
+
+    "description": "高品質、より良い互換性、透かしなしでWebPをJPGにオンラインで変換します。無料で、迅速で、安全なWebPからJPGへの変換ツール。"
+
+    "keywords": "webp to jpg, convert webp to jpg, free webp to jpg, online webp converter, image compatibility"
+
+    "canonical": "https://miconvert.com/en/convert/webp-to-jpg"
+
+    "og_title": "WebPからJPGへの変換 - 無料＆オンライン"
+
+    "og_description": "高品質でより良い互換性を持つJPG形式にWebP画像を変換します。100％無料、迅速、安全。"
+
+    "og_url": "https://miconvert.com/en/convert/webp-to-jpg"
+
+    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "WebPをJPGにオンラインで変換",
+    "title": "WebPをJPGにオンラインで変換"
+
     "description": "高品質でより良い互換性を持つ無料で迅速なWebPからJPGへの変換。すべてのデバイスで即座に動作し、サインアップは不要です。"
-  },
+
+  }
   "h2": [
     {
-      "title": "なぜWebPをJPGに変換するのか？",
+      "title": "なぜWebPをJPGに変換するのか？"
+
       "description": "<p>WebPは優れた圧縮を提供しますが、JPGは普遍的な互換性を提供します：</p><ul><li><strong>どこでも動作：</strong> JPGはほぼすべてのデバイスとアプリでサポートされています。</li><li><strong>プラットフォーム要件：</strong> 一部のサービスはまだJPGのアップロードを必要とします。</li><li><strong>レガシーサポート：</strong> 古いブラウザやツールはWebPをサポートしていない場合があります。</li><li><strong>簡単な共有：</strong> JPGはプラットフォーム間で信頼性高く開きます。</li></ul>"
-    },
-    {
-      "title": "WebPをJPGにオンラインで変換する方法",
-      "description": "<ol><li><em>WebPをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理と最適化を待ちます。</li><li><em>JPGをダウンロード</em>をクリックして、互換性のあるファイルを取得します。</li></ol><p>優れたサイズ–品質バランスのためにプログレッシブJPEG（mozjpeg）を使用しています。</p>"
-    },
-    {
-      "title": "WebPとJPGの比較",
-      "description": "<ul><li><strong>ファイルサイズ：</strong> WebPは通常、同等の品質でJPGよりも25〜35％小さいです。</li><li><strong>互換性：</strong> JPGは普遍的なサポートがあります。</li><li><strong>透明性：</strong> WebPはアルファをサポートしますが、JPGはサポートしていません。</li><li><strong>アニメーション：</strong> WebPはアニメーション可能ですが、JPGは常に静的です。</li></ul>"
-    },
-    {
-      "title": "私たちのWebPからJPGへのコンバータの特徴",
-      "description": "<ul><li>透かしなしで100％無料</li><li>高品質な変換（プログレッシブJPEG）</li><li>安全で暗号化されたアップロード</li><li>変換後の自動ファイル削除</li><li>Windows、Mac、iOS、Androidで動作</li></ul>"
-    },
-    {
-      "title": "サポートされる制限とフォーマット",
-      "description": "<ul><li><strong>受け入れられる入力：</strong> WebP (<code>image/webp</code>)</li><li><strong>最大ファイルサイズ：</strong> 1ファイルあたり16&nbsp;MB</li><li><strong>出力：</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>アニメーション：</strong> 最初のフレームのみ</li></ul>"
-    },
-    {
-      "title": "トラブルシューティング",
-      "description": "<ul><li><strong>透明性が失われた：</strong> JPGはアルファを保存できません。透明性が必要な場合は、<a href='/en/convert/webp-to-png'>WebP → PNG</a>を使用してください。</li><li><strong>色が異なる：</strong> 出力はウェブの一貫性のためにsRGBに変換されます。</li><li><strong>ファイルがまだ大きい：</strong> 品質を80〜85％に下げるか、変換前に画像を縮小してみてください。</li><li><strong>アップロードに失敗：</strong> ファイルが<code>image/webp</code>であり、≤ 16&nbsp;MBであることを確認してください。</li></ul>"
+
     }
-  ],
+    {
+      "title": "WebPをJPGにオンラインで変換する方法"
+
+      "description": "<ol><li><em>WebPをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理と最適化を待ちます。</li><li><em>JPGをダウンロード</em>をクリックして、互換性のあるファイルを取得します。</li></ol><p>優れたサイズ–品質バランスのためにプログレッシブJPEG（mozjpeg）を使用しています。</p>"
+
+    }
+    {
+      "title": "WebPとJPGの比較"
+
+      "description": "<ul><li><strong>ファイルサイズ：</strong> WebPは通常、同等の品質でJPGよりも25〜35％小さいです。</li><li><strong>互換性：</strong> JPGは普遍的なサポートがあります。</li><li><strong>透明性：</strong> WebPはアルファをサポートしますが、JPGはサポートしていません。</li><li><strong>アニメーション：</strong> WebPはアニメーション可能ですが、JPGは常に静的です。</li></ul>"
+
+    }
+    {
+      "title": "私たちのWebPからJPGへのコンバータの特徴"
+
+      "description": "<ul><li>透かしなしで100％無料</li><li>高品質な変換（プログレッシブJPEG）</li><li>安全で暗号化されたアップロード</li><li>変換後の自動ファイル削除</li><li>Windows、Mac、iOS、Androidで動作</li></ul>"
+
+    }
+    {
+      "title": "サポートされる制限とフォーマット"
+
+      "description": "<ul><li><strong>受け入れられる入力：</strong> WebP (<code>image/webp</code>)</li><li><strong>最大ファイルサイズ：</strong> 1ファイルあたり16&nbsp;MB</li><li><strong>出力：</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>アニメーション：</strong> 最初のフレームのみ</li></ul>"
+
+    }
+    {
+      "title": "トラブルシューティング"
+
+      "description": "<ul><li><strong>透明性が失われた：</strong> JPGはアルファを保存できません。透明性が必要な場合は、<a href='/en/convert/webp-to-png'>WebP → PNG</a>を使用してください。</li><li><strong>色が異なる：</strong> 出力はウェブの一貫性のためにsRGBに変換されます。</li><li><strong>ファイルがまだ大きい：</strong> 品質を80〜85％に下げるか、変換前に画像を縮小してみてください。</li><li><strong>アップロードに失敗：</strong> ファイルが<code>image/webp</code>であり、≤ 16&nbsp;MBであることを確認してください。</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "このWebPからJPGへのコンバータは無料ですか？",
+      "question": "このWebPからJPGへのコンバータは無料ですか？"
+
       "answer": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
-    },
-    {
-      "question": "WebPをJPGに変換するときに品質が失われますか？",
-      "answer": "JPGはロスのある圧縮を使用しますが、私たちは目に見える損失を最小限に抑えるために高品質の設定（mozjpeg、プログレッシブ）を使用しています。"
-    },
-    {
-      "question": "透明性が失われますか？",
-      "answer": "はい。JPGは透明性をサポートしていません—透明なピクセルは固体になります（デフォルトでは白）。"
-    },
-    {
-      "question": "アニメーションWebPをサポートしていますか？",
-      "answer": "アニメーションWebPは、最初のフレームを使用して静的画像として変換されます。"
-    },
-    {
-      "question": "サポートされるファイルサイズは何ですか？",
-      "answer": "1ファイルあたり最大16 MBの画像をアップロードできます。"
-    },
-    {
-      "question": "複数のファイルを一度に変換できますか？",
-      "answer": "このページは1回に1ファイルを変換します。複数の画像についてはプロセスを繰り返してください。"
+
     }
-  ],
-  "note": "JPGはロスのある形式で透明性を削除します。アーカイブ用や透明性/アニメーションが必要な場合は、元のWebPを保持してください。",
+    {
+      "question": "WebPをJPGに変換するときに品質が失われますか？"
+
+      "answer": "JPGはロスのある圧縮を使用しますが、私たちは目に見える損失を最小限に抑えるために高品質の設定（mozjpeg、プログレッシブ）を使用しています。"
+
+    }
+    {
+      "question": "透明性が失われますか？"
+
+      "answer": "はい。JPGは透明性をサポートしていません—透明なピクセルは固体になります（デフォルトでは白）。"
+
+    }
+    {
+      "question": "アニメーションWebPをサポートしていますか？"
+
+      "answer": "アニメーションWebPは、最初のフレームを使用して静的画像として変換されます。"
+
+    }
+    {
+      "question": "サポートされるファイルサイズは何ですか？"
+
+      "answer": "1ファイルあたり最大16 MBの画像をアップロードできます。"
+
+    }
+    {
+      "question": "複数のファイルを一度に変換できますか？"
+
+      "answer": "このページは1回に1ファイルを変換します。複数の画像についてはプロセスを繰り返してください。"
+
+    }
+  ]
+  "note": "JPGはロスのある形式で透明性を削除します。アーカイブ用や透明性/アニメーションが必要な場合は、元のWebPを保持してください。"
+
   "related_links": [
     {
-      "title": "WebPをPNGに変換（透明性を保持）",
+      "title": "WebPをPNGに変換（透明性を保持）"
+
       "url": "/en/convert/webp-to-png"
-    },
-    {
-      "title": "JPGをWebPに変換",
-      "url": "/en/convert/jpg-to-webp"
-    },
-    {
-      "title": "WebPをAVIFに変換",
-      "url": "/en/convert/webp-to-avif"
-    },
-    {
-      "title": "JPGをオンラインで圧縮",
-      "url": "/en/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. 全著作権所有。",
+    {
+      "title": "JPGをWebPに変換"
+
+      "url": "/en/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "WebPをAVIFに変換"
+
+      "url": "/en/convert/webp-to-avif"
+
+    }
+    {
+      "title": "JPGをオンラインで圧縮"
+
+      "url": "/en/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. 全著作権所有。"
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebPからJPGへの変換 - 無料＆オンライン",
-      "url": "https://wikihowto.click/en/convert/webp-to-jpg",
-      "description": "WebP画像をJPGに変換するための無料のオンラインツール、最大の互換性のために。",
-      "inLanguage": "ja",
-      "image": "https://wikihowto.click/images/webp-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebPからJPGへの変換 - 無料＆オンライン"
+
+      "url": "https://miconvert.com/en/convert/webp-to-jpg"
+
+      "description": "WebP画像をJPGに変換するための無料のオンラインツール、最大の互換性のために。"
+
+      "inLanguage": "ja"
+
+      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "ホーム",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "ホーム"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "変換",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "変換"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebPからJPG",
-          "item": "https://wikihowto.click/en/convert/webp-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebPからJPG"
+
+          "item": "https://miconvert.com/en/convert/webp-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebPからJPGへの変換",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/webp-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebPからJPGへの変換"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/webp-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "プログレッシブJPEG",
-        "高品質な変換",
+        "プログレッシブJPEG"
+
+        "高品質な変換"
+
         "迅速な処理"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "このWebPからJPGへのコンバータは無料ですか？",
+          "@type": "Question"
+
+          "name": "このWebPからJPGへのコンバータは無料ですか？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "サポートされるファイルサイズは何ですか？",
+          "@type": "Question"
+
+          "name": "サポートされるファイルサイズは何ですか？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "1ファイルあたり最大16 MBの画像をアップロードできます。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "アニメーションWebPをサポートしていますか？",
+          "@type": "Question"
+
+          "name": "アニメーションWebPをサポートしていますか？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "アニメーションWebPは、最初のフレームを使用して静的画像として変換されます。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "透明性が失われますか？",
+          "@type": "Question"
+
+          "name": "透明性が失われますか？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "はい。JPGは透明性をサポートしていません—透明なピクセルは固体の色で埋められます（デフォルトでは白）。"
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "WebPをJPGに変換する方法",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "WebPをJPGに変換する方法"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "WebPをアップロードをクリックし、ファイルを選択します。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "処理と最適化が完了するまで待ちます。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "JPGをダウンロードをクリックして画像を保存します。"
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "処理と最適化が完了するまで待ちます。"
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "JPGをダウンロードをクリックして画像を保存します。"
+
+        }
+      ]
       "tool": [
         "WebPからJPGへの変換"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

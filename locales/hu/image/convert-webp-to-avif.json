@@ -1,242 +1,365 @@
 {
-  "lang": "hu",
-  "lang_name": "Magyar",
-  "title": "WEBP to AVIF Átalakító - Ingyenes és Online | WikiHowTo.click",
-  "sub_title": "WebP képek online átalakítása AVIF formátumba kiváló tömörítéssel, magas minőséggel és vízjelek nélkül.",
-  "hint": "Töltsd fel a WebP képed az átalakítás megkezdéséhez...",
-  "btn_download": "Átalakítás AVIF-ra",
-  "btn_paste": "WebP feltöltése",
-  "btn_clear": "Törlés",
-  "ogImage": "https://wikihowto.click/images/webp-to-avif.jpg",
+  "lang": "hu"
+
+  "lang_name": "Magyar"
+
+  "title": "WEBP to AVIF Átalakító - Ingyenes és Online | miconvert.com"
+
+  "sub_title": "WebP képek online átalakítása AVIF formátumba kiváló tömörítéssel, magas minőséggel és vízjelek nélkül."
+
+  "hint": "Töltsd fel a WebP képed az átalakítás megkezdéséhez..."
+
+  "btn_download": "Átalakítás AVIF-ra"
+
+  "btn_paste": "WebP feltöltése"
+
+  "btn_clear": "Törlés"
+
+  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg"
+
   "head": {
-    "title": "WebP átalakítása AVIF formátumba online - Ingyenes WebP to AVIF átalakító | WikiHowTo.click",
-    "description": "WebP átalakítása AVIF formátumba online kiváló tömörítéssel és magas minőséggel. Ingyenes, gyors és biztonságos WebP to AVIF átalakító eszköz.",
-    "keywords": "webp to avif, webp átalakítása avif-ra, ingyenes webp to avif, online avif átalakító, kép átalakítás",
-    "canonical": "https://wikihowto.click/hu/convert/webp-to-avif",
-    "og_title": "WebP to AVIF Átalakító - Ingyenes és Online",
-    "og_description": "WebP képek átalakítása AVIF formátumba kiváló tömörítéssel és minőséggel. 100% ingyenes, gyors és biztonságos.",
-    "og_url": "https://wikihowto.click/hu/convert/webp-to-avif",
-    "og_image": "https://wikihowto.click/images/webp-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Ingyenes WebP to AVIF Átalakító Online",
-    "twitter_description": "WebP átalakítása AVIF-ra kiváló tömörítéssel és magas minőséggel. Minden eszközön működik.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-avif.jpg"
-  },
+    "title": "WebP átalakítása AVIF formátumba online - Ingyenes WebP to AVIF átalakító | miconvert.com"
+
+    "description": "WebP átalakítása AVIF formátumba online kiváló tömörítéssel és magas minőséggel. Ingyenes, gyors és biztonságos WebP to AVIF átalakító eszköz."
+
+    "keywords": "webp to avif, webp átalakítása avif-ra, ingyenes webp to avif, online avif átalakító, kép átalakítás"
+
+    "canonical": "https://miconvert.com/hu/convert/webp-to-avif"
+
+    "og_title": "WebP to AVIF Átalakító - Ingyenes és Online"
+
+    "og_description": "WebP képek átalakítása AVIF formátumba kiváló tömörítéssel és minőséggel. 100% ingyenes, gyors és biztonságos."
+
+    "og_url": "https://miconvert.com/hu/convert/webp-to-avif"
+
+    "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "WebP átalakítása AVIF formátumba online",
+    "title": "WebP átalakítása AVIF formátumba online"
+
     "description": "Ingyenes és gyors WebP to AVIF átalakító kiváló tömörítéssel és minőséggel. Azonnal működik bármely eszközön - regisztráció nem szükséges."
-  },
-  "description": "<p>Frissítsd a képeidet az <strong>WebP AVIF-ra</strong> való átalakításával. Az AVIF (AV1 Képformátum) egy új generációs formátum, amely gyakran kisebb fájlokat eredményez hasonló vizuális minőség mellett. Eszközünk megőrzi az átlátszóságot és a színeket sRGB-re alakítja a webes konzisztencia érdekében.</p><p><em>Megjegyzés:</em> Ha a WebP-d animált, csak az első képkocka kerül átalakításra statikus AVIF képpé.</p>",
+
+  }
+  "description": "<p>Frissítsd a képeidet az <strong>WebP AVIF-ra</strong> való átalakításával. Az AVIF (AV1 Képformátum) egy új generációs formátum, amely gyakran kisebb fájlokat eredményez hasonló vizuális minőség mellett. Eszközünk megőrzi az átlátszóságot és a színeket sRGB-re alakítja a webes konzisztencia érdekében.</p><p><em>Megjegyzés:</em> Ha a WebP-d animált, csak az első képkocka kerül átalakításra statikus AVIF képpé.</p>"
+
   "converter": {
-    "type": "webp-to-avif",
-    "title": "WebP to AVIF Átalakító",
-    "description": "WebP képek átalakítása AVIF formátumba magas minőséggel és kiváló tömörítéssel.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "WebP",
-    "outputFormat": "AVIF",
+    "type": "webp-to-avif"
+
+    "title": "WebP to AVIF Átalakító"
+
+    "description": "WebP képek átalakítása AVIF formátumba magas minőséggel és kiváló tömörítéssel."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 60,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 60
     "features": [
-      "Magas minőségű AVIF átalakítás",
-      "Kiváló tömörítés",
-      "Átlátszóság megőrzése",
+      "Magas minőségű AVIF átalakítás"
+
+      "Kiváló tömörítés"
+
+      "Átlátszóság megőrzése"
+
       "Ingyenes online eszköz"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "cqLevel": 30,
-        "speed": 6,
-        "subsample": "4:2:0",
-        "lossless": false,
+        "cqLevel": 30
+        "speed": 6
+        "subsample": "4:2:0"
+
+        "lossless": false
         "alphaQuality": 100
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "WebP to AVIF Átalakítás Befejezve",
-    "back_button": "Vissza az Átalakítóhoz",
-    "convert_another": "Átalakítás Másik WebP-re",
+    "title": "WebP to AVIF Átalakítás Befejezve"
+
+    "back_button": "Vissza az Átalakítóhoz"
+
+    "convert_another": "Átalakítás Másik WebP-re"
+
     "quick_conversions": "Gyors Átalakítások:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miért érdemes WebP-t AVIF-ra átalakítani?",
+      "title": "Miért érdemes WebP-t AVIF-ra átalakítani?"
+
       "description": "<p>Az AVIF az AV1 kodekre épül, és a kiváló hatékonyságra törekszik:</p><ul><li><strong>Kisebb fájlok:</strong> Gyakran 15–30%-kal kisebb, mint a hasonló minőségű WebP.</li><li><strong>Magas minőség:</strong> Jobb részletmegőrzés alacsonyabb bitráták mellett.</li><li><strong>Modern és jövőbiztos:</strong> Széles és növekvő böngészőtámogatás.</li><li><strong>Átlátszóság:</strong> Teljes alfa csatorna támogatás, mint a WebP.</li></ul>"
-    },
-    {
-      "title": "Hogyan lehet WebP-t AVIF-ra átalakítani online",
-      "description": "<ol><li>Kattints a <em>WebP feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra és optimalizálásra.</li><li>Kattints a <em>AVIF letöltése</em> gombra az eredmény mentéséhez.</li></ol><p>A beállítások egyensúlyt teremtenek a hűség és a méret között a modern web számára.</p>"
-    },
-    {
-      "title": "AVIF vs WebP Összehasonlítás",
-      "description": "<ul><li><strong>Tömörítés:</strong> Az AVIF általában kisebb fájlokat ér el hasonló minőség mellett.</li><li><strong>Átlátszóság:</strong> Mindkettő támogatja az alfa csatornákat.</li><li><strong>Animáció:</strong> Ez az eszköz <em>statikus</em> AVIF-t (csak az első képkockát) ad ki.</li><li><strong>Böngészőtámogatás:</strong> Az AVIF-t a főbb böngészők aktuális verziói támogatják.</li></ul>"
-    },
-    {
-      "title": "Támogatott korlátok és formátumok",
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximális fájlméret:</strong> 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animáció:</strong> Csak az első képkocka</li></ul>"
-    },
-    {
-      "title": "Hibaelhárítás",
-      "description": "<ul><li><strong>A színek eltérően néznek ki:</strong> A kimenet sRGB-re van átalakítva a webes konzisztencia érdekében.</li><li><strong>A fájl még mindig nagy:</strong> Próbálj meg egy magasabb <em>cqLevel</em>-t (pl. 34–36) vagy csökkentsd a méretet az átalakítás előtt.</li><li><strong>A feltöltés nem sikerült:</strong> Győződj meg róla, hogy <code>image/webp</code> és ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Hogyan lehet WebP-t AVIF-ra átalakítani online"
+
+      "description": "<ol><li>Kattints a <em>WebP feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra és optimalizálásra.</li><li>Kattints a <em>AVIF letöltése</em> gombra az eredmény mentéséhez.</li></ol><p>A beállítások egyensúlyt teremtenek a hűség és a méret között a modern web számára.</p>"
+
+    }
+    {
+      "title": "AVIF vs WebP Összehasonlítás"
+
+      "description": "<ul><li><strong>Tömörítés:</strong> Az AVIF általában kisebb fájlokat ér el hasonló minőség mellett.</li><li><strong>Átlátszóság:</strong> Mindkettő támogatja az alfa csatornákat.</li><li><strong>Animáció:</strong> Ez az eszköz <em>statikus</em> AVIF-t (csak az első képkockát) ad ki.</li><li><strong>Böngészőtámogatás:</strong> Az AVIF-t a főbb böngészők aktuális verziói támogatják.</li></ul>"
+
+    }
+    {
+      "title": "Támogatott korlátok és formátumok"
+
+      "description": "<ul><li><strong>Elfogadott bemenet:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximális fájlméret:</strong> 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animáció:</strong> Csak az első képkocka</li></ul>"
+
+    }
+    {
+      "title": "Hibaelhárítás"
+
+      "description": "<ul><li><strong>A színek eltérően néznek ki:</strong> A kimenet sRGB-re van átalakítva a webes konzisztencia érdekében.</li><li><strong>A fájl még mindig nagy:</strong> Próbálj meg egy magasabb <em>cqLevel</em>-t (pl. 34–36) vagy csökkentsd a méretet az átalakítás előtt.</li><li><strong>A feltöltés nem sikerült:</strong> Győződj meg róla, hogy <code>image/webp</code> és ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ez az WebP to AVIF átalakító ingyenes?",
+      "question": "Ez az WebP to AVIF átalakító ingyenes?"
+
       "answer": "Igen, teljesen ingyenes, vízjelek vagy rejtett díjak nélkül."
-    },
-    {
-      "question": "Az AVIF működik minden böngészőn?",
-      "answer": "Az AVIF-t a modern böngészők (Chrome, Firefox, Safari, Edge) támogatják. Biztosíts WebP vagy JPG visszaeséseket az idősebb verziókhoz."
-    },
-    {
-      "question": "Mennyivel kisebbek az AVIF fájlok a WebP-hez képest?",
-      "answer": "Az eredmények képenként változnak, de az AVIF gyakran 15–30%-kal kisebb hasonló vizuális minőség mellett."
-    },
-    {
-      "question": "Megőrzi az átlátszóságot?",
-      "answer": "Igen. Ha a WebP-dnek van alfa csatornája, az AVIF kimenet megőrzi azt."
-    },
-    {
-      "question": "Támogatjátok az animált WebP-t?",
-      "answer": "Az animált WebP statikus képként kerül átalakításra az első képkocka felhasználásával."
-    },
-    {
-      "question": "Milyen fájlméreteket támogatnak?",
-      "answer": "Képeket tölthetsz fel legfeljebb 16&nbsp;MB fájlonként."
+
     }
-  ],
-  "note": "Az AVIF rendkívül hatékony, de nagyon régi eszközökön kissé lassabban renderelhet. A maximális kompatibilitás érdekében tartsd meg az eredeti WebP-t visszaesésként.",
+    {
+      "question": "Az AVIF működik minden böngészőn?"
+
+      "answer": "Az AVIF-t a modern böngészők (Chrome, Firefox, Safari, Edge) támogatják. Biztosíts WebP vagy JPG visszaeséseket az idősebb verziókhoz."
+
+    }
+    {
+      "question": "Mennyivel kisebbek az AVIF fájlok a WebP-hez képest?"
+
+      "answer": "Az eredmények képenként változnak, de az AVIF gyakran 15–30%-kal kisebb hasonló vizuális minőség mellett."
+
+    }
+    {
+      "question": "Megőrzi az átlátszóságot?"
+
+      "answer": "Igen. Ha a WebP-dnek van alfa csatornája, az AVIF kimenet megőrzi azt."
+
+    }
+    {
+      "question": "Támogatjátok az animált WebP-t?"
+
+      "answer": "Az animált WebP statikus képként kerül átalakításra az első képkocka felhasználásával."
+
+    }
+    {
+      "question": "Milyen fájlméreteket támogatnak?"
+
+      "answer": "Képeket tölthetsz fel legfeljebb 16&nbsp;MB fájlonként."
+
+    }
+  ]
+  "note": "Az AVIF rendkívül hatékony, de nagyon régi eszközökön kissé lassabban renderelhet. A maximális kompatibilitás érdekében tartsd meg az eredeti WebP-t visszaesésként."
+
   "related_links": [
     {
-      "title": "AVIF átalakítása WebP-re",
+      "title": "AVIF átalakítása WebP-re"
+
       "url": "/hu/convert/avif-to-webp"
-    },
-    {
-      "title": "PNG átalakítása AVIF-ra",
-      "url": "/hu/convert/png-to-avif"
-    },
-    {
-      "title": "JPG átalakítása AVIF-ra",
-      "url": "/hu/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Minden jog fenntartva.",
+    {
+      "title": "PNG átalakítása AVIF-ra"
+
+      "url": "/hu/convert/png-to-avif"
+
+    }
+    {
+      "title": "JPG átalakítása AVIF-ra"
+
+      "url": "/hu/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP to AVIF Átalakító - Ingyenes és Online",
-      "url": "https://wikihowto.click/hu/convert/webp-to-avif",
-      "description": "Ingyenes online eszköz WebP képek AVIF-ra való átalakítására kiváló tömörítéssel és magas minőséggel.",
-      "inLanguage": "hu",
-      "image": "https://wikihowto.click/images/webp-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to AVIF Átalakító - Ingyenes és Online"
+
+      "url": "https://miconvert.com/hu/convert/webp-to-avif"
+
+      "description": "Ingyenes online eszköz WebP képek AVIF-ra való átalakítására kiváló tömörítéssel és magas minőséggel."
+
+      "inLanguage": "hu"
+
+      "image": "https://miconvert.com/images/webp-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Főoldal",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Főoldal"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Átalakítás",
-          "item": "https://wikihowto.click/hu/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Átalakítás"
+
+          "item": "https://miconvert.com/hu/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP to AVIF",
-          "item": "https://wikihowto.click/hu/convert/webp-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP to AVIF"
+
+          "item": "https://miconvert.com/hu/convert/webp-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP to AVIF Átalakító",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/hu/convert/webp-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to AVIF Átalakító"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/hu/convert/webp-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Átlátszóság megőrzése",
-        "Kiváló tömörítés",
+        "Átlátszóság megőrzése"
+
+        "Kiváló tömörítés"
+
         "Gyors feldolgozás"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ez az WebP to AVIF átalakító ingyenes?",
+          "@type": "Question"
+
+          "name": "Ez az WebP to AVIF átalakító ingyenes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Igen, teljesen ingyenes, vízjelek vagy rejtett díjak nélkül."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Mennyivel kisebbek az AVIF fájlok a WebP-hez képest?",
+          "@type": "Question"
+
+          "name": "Mennyivel kisebbek az AVIF fájlok a WebP-hez képest?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Az AVIF gyakran 15–30%-kal kisebb, mint a hasonló WebP, de ez a képtől függ."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Támogatjátok az animált WebP-t?",
+          "@type": "Question"
+
+          "name": "Támogatjátok az animált WebP-t?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Az animált WebP statikus képként kerül átalakításra (csak az első képkocka)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Hogyan lehet WebP-t AVIF-ra átalakítani",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Hogyan lehet WebP-t AVIF-ra átalakítani"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kattints a WebP feltöltése gombra, és válaszd ki a fájlodat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Várj a feldolgozásra és optimalizálásra."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kattints az AVIF letöltése gombra a képed mentéséhez."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Várj a feldolgozásra és optimalizálásra."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kattints az AVIF letöltése gombra a képed mentéséhez."
+
+        }
+      ]
       "tool": [
         "WebP to AVIF Átalakító"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

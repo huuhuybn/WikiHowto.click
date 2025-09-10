@@ -1,241 +1,365 @@
 {
-  "lang": "zh",
-  "lang_name": "中文",
-  "title": "PNG 转 BMP 转换器 - 免费在线 | WikiHowTo.click",
-  "sub_title": "在线将 PNG 图像转换为 BMP，使用未压缩的无损像素数据。没有水印。",
-  "hint": "上传您的 PNG 图像以开始转换...",
-  "btn_download": "转换为 BMP",
-  "btn_paste": "上传 PNG",
-  "btn_clear": "清除",
-  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "lang": "zh"
+
+  "lang_name": "中文"
+
+  "title": "PNG 转 BMP 转换器 - 免费在线 | miconvert.com"
+
+  "sub_title": "在线将 PNG 图像转换为 BMP，使用未压缩的无损像素数据。没有水印。"
+
+  "hint": "上传您的 PNG 图像以开始转换..."
+
+  "btn_download": "转换为 BMP"
+
+  "btn_paste": "上传 PNG"
+
+  "btn_clear": "清除"
+
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
+
   "head": {
-    "title": "将 PNG 转换为 BMP - 免费在线 PNG 转 BMP 转换器",
-    "description": "在线免费将 PNG 图像转换为 BMP 格式。高质量的 PNG 转 BMP 转换，处理速度快。",
-    "keywords": "png 转 bmp, 将 png 转换为 bmp, 免费 png 转 bmp, 在线 bmp 转换器, 图像转换",
-    "canonical": "https://wikihowto.click/zh/convert/png-to-bmp",
-    "og_title": "将 PNG 转换为 BMP - 免费在线 PNG 转 BMP 转换器",
-    "og_description": "在线免费将 PNG 图像转换为 BMP 格式。高质量的 PNG 转 BMP 转换，处理速度快。",
-    "og_url": "https://wikihowto.click/zh/convert/png-to-bmp",
-    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "将 PNG 转换为 BMP - 免费在线 PNG 转 BMP 转换器",
-    "twitter_description": "在线免费将 PNG 图像转换为 BMP 格式。高质量的 PNG 转 BMP 转换，处理速度快。",
-    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
-  },
+    "title": "将 PNG 转换为 BMP - 免费在线 PNG 转 BMP 转换器"
+
+    "description": "在线免费将 PNG 图像转换为 BMP 格式。高质量的 PNG 转 BMP 转换，处理速度快。"
+
+    "keywords": "png 转 bmp, 将 png 转换为 bmp, 免费 png 转 bmp, 在线 bmp 转换器, 图像转换"
+
+    "canonical": "https://miconvert.com/zh/convert/png-to-bmp"
+
+    "og_title": "将 PNG 转换为 BMP - 免费在线 PNG 转 BMP 转换器"
+
+    "og_description": "在线免费将 PNG 图像转换为 BMP 格式。高质量的 PNG 转 BMP 转换，处理速度快。"
+
+    "og_url": "https://miconvert.com/zh/convert/png-to-bmp"
+
+    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "在线将 PNG 转换为 BMP",
+    "title": "在线将 PNG 转换为 BMP"
+
     "description": "免费的 PNG 转 BMP 转换器，使用未压缩的无损像素数据。适用于任何设备 - 无需注册。"
-  },
+
+  }
   "converter": {
-    "type": "png-to-bmp",
-    "title": "PNG 转 BMP 转换器",
-    "description": "快速处理和准确颜色的 PNG 图像转换为 BMP。",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "BMP",
+    "type": "png-to-bmp"
+
+    "title": "PNG 转 BMP 转换器"
+
+    "description": "快速处理和准确颜色的 PNG 图像转换为 BMP。"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "未压缩（无损）像素数据",
-      "在 Windows 上兼容性高",
-      "快速处理",
+      "未压缩（无损）像素数据"
+
+      "在 Windows 上兼容性高"
+
+      "快速处理"
+
       "免费的在线工具"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG 转 BMP 转换完成",
-    "back_button": "返回转换器",
-    "convert_another": "转换另一个 PNG",
+    "title": "PNG 转 BMP 转换完成"
+
+    "back_button": "返回转换器"
+
+    "convert_another": "转换另一个 PNG"
+
     "quick_conversions": "快速转换："
-  },
+
+  }
   "h2": [
     {
-      "title": "为什么将 PNG 转换为 BMP？",
+      "title": "为什么将 PNG 转换为 BMP？"
+
       "description": "<p>BMP 是一种简单的光栅格式，存储未压缩的像素 - 对某些工作流程非常有用：</p><ul><li><strong>没有新伪影：</strong> 保持像素完整以进行低级编辑。</li><li><strong>结构简单：</strong> 便于程序读取和操作。</li><li><strong>遗留/嵌入式应用：</strong> 一些 Windows 工具更喜欢 BMP。</li></ul>"
-    },
-    {
-      "title": "如何在线将 PNG 转换为 BMP",
-      "description": "<ol><li>点击 <em>上传 PNG</em> 并选择您的文件。</li><li>等待处理完成。</li><li>点击 <em>下载 BMP</em> 保存您的图像。</li></ol><p>默认转换为 24 位 BMP，无压缩。</p>"
-    },
-    {
-      "title": "BMP 与 PNG 比较",
-      "description": "<ul><li><strong>文件大小：</strong> BMP 通常比 PNG 大得多。</li><li><strong>质量：</strong> 两者都是无损的（BMP 未压缩；PNG 无损压缩）。</li><li><strong>透明度：</strong> PNG 支持 alpha；常见的 24 位 BMP 不支持。</li><li><strong>压缩：</strong> BMP 无；PNG 无损 DEFLATE。</li><li><strong>使用案例：</strong> BMP 用于遗留/像素操作；PNG 用于网页和高效无损存储。</li></ul>"
-    },
-    {
-      "title": "支持的限制和格式",
-      "description": "<ul><li><strong>接受的输入：</strong> PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>位深度：</strong> 24 位（无 alpha）</li></ul>"
-    },
-    {
-      "title": "故障排除",
-      "description": "<ul><li><strong>输出文件过大：</strong> BMP 是未压缩的；对于较小的无损文件，请保持 PNG。</li><li><strong>需要透明度：</strong> BMP 24 位没有 alpha；请使用 PNG。</li><li><strong>上传失败：</strong> 确保文件是 PNG 且 ≤ 16&nbsp;MB。</li></ul>"
+
     }
-  ],
+    {
+      "title": "如何在线将 PNG 转换为 BMP"
+
+      "description": "<ol><li>点击 <em>上传 PNG</em> 并选择您的文件。</li><li>等待处理完成。</li><li>点击 <em>下载 BMP</em> 保存您的图像。</li></ol><p>默认转换为 24 位 BMP，无压缩。</p>"
+
+    }
+    {
+      "title": "BMP 与 PNG 比较"
+
+      "description": "<ul><li><strong>文件大小：</strong> BMP 通常比 PNG 大得多。</li><li><strong>质量：</strong> 两者都是无损的（BMP 未压缩；PNG 无损压缩）。</li><li><strong>透明度：</strong> PNG 支持 alpha；常见的 24 位 BMP 不支持。</li><li><strong>压缩：</strong> BMP 无；PNG 无损 DEFLATE。</li><li><strong>使用案例：</strong> BMP 用于遗留/像素操作；PNG 用于网页和高效无损存储。</li></ul>"
+
+    }
+    {
+      "title": "支持的限制和格式"
+
+      "description": "<ul><li><strong>接受的输入：</strong> PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>位深度：</strong> 24 位（无 alpha）</li></ul>"
+
+    }
+    {
+      "title": "故障排除"
+
+      "description": "<ul><li><strong>输出文件过大：</strong> BMP 是未压缩的；对于较小的无损文件，请保持 PNG。</li><li><strong>需要透明度：</strong> BMP 24 位没有 alpha；请使用 PNG。</li><li><strong>上传失败：</strong> 确保文件是 PNG 且 ≤ 16&nbsp;MB。</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "这个 PNG 转 BMP 转换器是免费的吗？",
+      "question": "这个 PNG 转 BMP 转换器是免费的吗？"
+
       "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
-    },
-    {
-      "question": "BMP 会在所有应用程序上工作吗？",
-      "answer": "BMP 在 Windows 上得到广泛支持，并被许多其他平台识别。现代网页工作流程通常更喜欢 PNG/WebP 以提高大小效率。"
-    },
-    {
-      "question": "BMP 文件比 PNG 大多少？",
-      "answer": "通常大几倍（例如，3–10 倍或更多），因为 BMP 是未压缩的。"
-    },
-    {
-      "question": "支持什么文件大小？",
-      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
-    },
-    {
-      "question": "我的文件安全吗？",
-      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
-    },
-    {
-      "question": "我可以一次转换多个 PNG 吗？",
-      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
-    },
-    {
-      "question": "BMP 支持透明度吗？",
-      "answer": "标准 24 位 BMP 不包括 alpha 通道。请使用 PNG 以获得透明度。"
+
     }
-  ],
-  "note": "BMP 输出故意较大（未压缩）。对于网页交付，建议使用 PNG/WebP/AVIF。",
+    {
+      "question": "BMP 会在所有应用程序上工作吗？"
+
+      "answer": "BMP 在 Windows 上得到广泛支持，并被许多其他平台识别。现代网页工作流程通常更喜欢 PNG/WebP 以提高大小效率。"
+
+    }
+    {
+      "question": "BMP 文件比 PNG 大多少？"
+
+      "answer": "通常大几倍（例如，3–10 倍或更多），因为 BMP 是未压缩的。"
+
+    }
+    {
+      "question": "支持什么文件大小？"
+
+      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
+
+    }
+    {
+      "question": "我的文件安全吗？"
+
+      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
+
+    }
+    {
+      "question": "我可以一次转换多个 PNG 吗？"
+
+      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+
+    }
+    {
+      "question": "BMP 支持透明度吗？"
+
+      "answer": "标准 24 位 BMP 不包括 alpha 通道。请使用 PNG 以获得透明度。"
+
+    }
+  ]
+  "note": "BMP 输出故意较大（未压缩）。对于网页交付，建议使用 PNG/WebP/AVIF。"
+
   "related_links": [
     {
-      "title": "将 BMP 转换为 PNG",
+      "title": "将 BMP 转换为 PNG"
+
       "url": "/zh/convert/bmp-to-png"
-    },
-    {
-      "title": "将 PNG 转换为 JPG",
-      "url": "/zh/convert/png-to-jpg"
-    },
-    {
-      "title": "将 PNG 转换为 WebP",
-      "url": "/zh/convert/png-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. 保留所有权利。",
+    {
+      "title": "将 PNG 转换为 JPG"
+
+      "url": "/zh/convert/png-to-jpg"
+
+    }
+    {
+      "title": "将 PNG 转换为 WebP"
+
+      "url": "/zh/convert/png-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. 保留所有权利。"
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG 转 BMP 转换器 - 免费在线",
-      "url": "https://wikihowto.click/zh/convert/png-to-bmp",
-      "description": "免费的在线工具，将 PNG 图像转换为 BMP，使用未压缩的无损像素数据。",
-      "inLanguage": "zh",
-      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG 转 BMP 转换器 - 免费在线"
+
+      "url": "https://miconvert.com/zh/convert/png-to-bmp"
+
+      "description": "免费的在线工具，将 PNG 图像转换为 BMP，使用未压缩的无损像素数据。"
+
+      "inLanguage": "zh"
+
+      "image": "https://miconvert.com/images/png-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "首页",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "首页"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "转换",
-          "item": "https://wikihowto.click/zh/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "转换"
+
+          "item": "https://miconvert.com/zh/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG 转 BMP",
-          "item": "https://wikihowto.click/zh/convert/png-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG 转 BMP"
+
+          "item": "https://miconvert.com/zh/convert/png-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG 转 BMP 转换器",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/zh/convert/png-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG 转 BMP 转换器"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/zh/convert/png-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "未压缩的像素数据",
-        "准确的颜色",
+        "未压缩的像素数据"
+
+        "准确的颜色"
+
         "快速处理"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "这个 PNG 转 BMP 转换器是免费的吗？",
+          "@type": "Question"
+
+          "name": "这个 PNG 转 BMP 转换器是免费的吗？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "支持什么文件大小？",
+          "@type": "Question"
+
+          "name": "支持什么文件大小？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "您可以上传每个文件最多 16 MB 的图像。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "BMP 支持透明度吗？",
+          "@type": "Question"
+
+          "name": "BMP 支持透明度吗？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "标准 24 位 BMP 不包括 alpha 通道。请使用 PNG 以获得透明度。"
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "如何将 PNG 转换为 BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "如何将 PNG 转换为 BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "点击上传 PNG 并选择您的文件。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "等待处理完成。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "点击下载 BMP 保存图像。"
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "等待处理完成。"
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "点击下载 BMP 保存图像。"
+
+        }
+      ]
       "tool": [
         "PNG 转 BMP 转换器"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

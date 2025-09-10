@@ -1,238 +1,359 @@
 {
-  "lang": "bg",
-  "lang_name": "Български",
-  "title": "SVG към PNG Конвертор - Безплатно и Онлайн | WikiHowTo.click",
-  "sub_title": "Конвертирайте SVG векторна графика в PNG онлайн с ясна растеризация, прозрачност и без водни знаци.",
-  "hint": "Качете SVG файла си, за да започнете конвертирането...",
-  "btn_download": "Конвертиране в PNG",
-  "btn_paste": "Качете SVG",
-  "btn_clear": "Изчисти",
-  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "lang": "bg"
+
+  "lang_name": "Български"
+
+  "title": "SVG към PNG Конвертор - Безплатно и Онлайн | miconvert.com"
+
+  "sub_title": "Конвертирайте SVG векторна графика в PNG онлайн с ясна растеризация, прозрачност и без водни знаци."
+
+  "hint": "Качете SVG файла си, за да започнете конвертирането..."
+
+  "btn_download": "Конвертиране в PNG"
+
+  "btn_paste": "Качете SVG"
+
+  "btn_clear": "Изчисти"
+
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
+
   "head": {
-    "title": "Конвертиране на SVG в PNG - Безплатен Онлайн SVG към PNG Конвертор | WikiHowTo.click",
-    "description": "Конвертирайте SVG векторна графика в PNG онлайн безплатно. Висококачествена растеризация SVG→PNG с бърза обработка и поддръжка на прозрачност.",
-    "keywords": "svg към png, конвертиране svg в png, вектор в растер, безплатен svg конвертор, онлайн png конвертор",
-    "canonical": "https://wikihowto.click/bg/convert/svg-to-png",
-    "og_title": "SVG към PNG Конвертор - Безплатно и Онлайн",
-    "og_description": "Конвертирайте SVG в PNG с ясна растеризация и прозрачност. 100% безплатно, бързо и сигурно.",
-    "og_url": "https://wikihowto.click/bg/convert/svg-to-png",
-    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Безплатен SVG към PNG Конвертор Онлайн",
-    "twitter_description": "Конвертирайте SVG в PNG с поддръжка на прозрачност и високо качество. Работи на всички устройства.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
-  },
+    "title": "Конвертиране на SVG в PNG - Безплатен Онлайн SVG към PNG Конвертор | miconvert.com"
+
+    "description": "Конвертирайте SVG векторна графика в PNG онлайн безплатно. Висококачествена растеризация SVG→PNG с бърза обработка и поддръжка на прозрачност."
+
+    "keywords": "svg към png, конвертиране svg в png, вектор в растер, безплатен svg конвертор, онлайн png конвертор"
+
+    "canonical": "https://miconvert.com/bg/convert/svg-to-png"
+
+    "og_title": "SVG към PNG Конвертор - Безплатно и Онлайн"
+
+    "og_description": "Конвертирайте SVG в PNG с ясна растеризация и прозрачност. 100% безплатно, бързо и сигурно."
+
+    "og_url": "https://miconvert.com/bg/convert/svg-to-png"
+
+    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Конвертиране на SVG в PNG Онлайн",
+    "title": "Конвертиране на SVG в PNG Онлайн"
+
     "description": "Безплатен и бърз SVG към PNG конвертор с ясна растеризация и поддръжка на прозрачност. Работи мигновено на всяко устройство — без необходимост от регистрация."
-  },
-  "description": "<p>Конвертирайте вашето <strong>SVG в PNG</strong> за секунди. Този безплатен онлайн конвертор растеризира вашата векторна графика в изображения с високо качество PNG, запазвайки прозрачността за чисти ръбове на всякакъв фон.</p><p>Перфектен за фавикони, активи на приложения, социални изображения и уеб графики. Оптимизираме изхода за силен баланс между яснота и размер на файла.</p>",
+
+  }
+  "description": "<p>Конвертирайте вашето <strong>SVG в PNG</strong> за секунди. Този безплатен онлайн конвертор растеризира вашата векторна графика в изображения с високо качество PNG, запазвайки прозрачността за чисти ръбове на всякакъв фон.</p><p>Перфектен за фавикони, активи на приложения, социални изображения и уеб графики. Оптимизираме изхода за силен баланс между яснота и размер на файла.</p>"
+
   "converter": {
-    "type": "svg-to-png",
-    "title": "SVG към PNG Конвертор",
-    "description": "Конвертирайте SVG векторна графика в PNG растерен формат с високо качество и бърза обработка.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "SVG",
-    "outputFormat": "PNG",
+    "type": "svg-to-png"
+
+    "title": "SVG към PNG Конвертор"
+
+    "description": "Конвертирайте SVG векторна графика в PNG растерен формат с високо качество и бърза обработка."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "PNG"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
     "features": [
-      "Висококачествена растеризация",
-      "Запазена прозрачност",
-      "Бърза обработка",
+      "Висококачествена растеризация"
+
+      "Запазена прозрачност"
+
+      "Бърза обработка"
+
       "Безплатен онлайн инструмент"
-    ],
+
+    ]
     "options": {
       "png": {
-        "compressionLevel": 6,
-        "progressive": false,
-        "background": "прозрачен",
-        "width": null,
-        "height": null,
+        "compressionLevel": 6
+        "progressive": false
+        "background": "прозрачен"
+
+        "width": null
+        "height": null
         "scale": 1
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Конвертирането на SVG в PNG е завършено",
-    "back_button": "Назад към Конвертора",
-    "convert_another": "Конвертирайте Друг SVG",
+    "title": "Конвертирането на SVG в PNG е завършено"
+
+    "back_button": "Назад към Конвертора"
+
+    "convert_another": "Конвертирайте Друг SVG"
+
     "quick_conversions": "Бързи Конверсии:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Защо да конвертирате SVG в PNG?",
+      "title": "Защо да конвертирате SVG в PNG?"
+
       "description": "<ul><li><strong>Универсална съвместимост:</strong> PNG се показва навсякъде, не е необходима поддръжка на SVG.</li><li><strong>Прозрачност:</strong> Запазете алфа за наложения и UI елементи.</li><li><strong>Производителност:</strong> По-малки, кешируеми битмапи за продукция.</li></ul>"
-    },
-    {
-      "title": "Как да конвертирате SVG в PNG Онлайн",
-      "description": "<ol><li>Кликнете <em>Качете SVG</em> и изберете файла си.</li><li>Изчакайте растеризацията и оптимизацията.</li><li>Кликнете <em>Изтеглете PNG</em>, за да запазите изображението си.</li></ol><p>По подразбиране се запазва прозрачността и балансираната компресия.</p>"
-    },
-    {
-      "title": "Поддържани ограничения и формати",
-      "description": "<ul><li><strong>Приети входни формати:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Максимален размер на файла:</strong> 16&nbsp;MB</li><li><strong>Изход:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Най-добри практики за ясни резултати",
-      "description": "<ul><li>Използвайте квадратна работна площ с отстъп, за да избегнете изрязване на ръбовете.</li><li>Конвертирайте текста в контури; вградете шрифтове и изображения.</li><li>Избягвайте прекалено тънки линии за малки икони (≥1px при целевия размер).</li><li>Експортирайте по-големи (напр. 512–1024 px), ако ще намалявате размера по-късно.</li></ul>"
-    },
-    {
-      "title": "Отстраняване на проблеми",
-      "description": "<ul><li><strong>Липсващи шрифтове/филтри:</strong> Вградете активи и конвертирайте текста в контури.</li><li><strong>Зъбчати ръбове:</strong> Увеличете целевия размер или <code>scale</code>, след това намалете.</li><li><strong>Солиден фон:</strong> Уверете се, че <code>background</code> е зададен на <em>прозрачен</em> в опциите.</li><li><strong>Качването не успя:</strong> Уверете се, че SVG е валиден и ≤16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Как да конвертирате SVG в PNG Онлайн"
+
+      "description": "<ol><li>Кликнете <em>Качете SVG</em> и изберете файла си.</li><li>Изчакайте растеризацията и оптимизацията.</li><li>Кликнете <em>Изтеглете PNG</em>, за да запазите изображението си.</li></ol><p>По подразбиране се запазва прозрачността и балансираната компресия.</p>"
+
+    }
+    {
+      "title": "Поддържани ограничения и формати"
+
+      "description": "<ul><li><strong>Приети входни формати:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Максимален размер на файла:</strong> 16&nbsp;MB</li><li><strong>Изход:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Най-добри практики за ясни резултати"
+
+      "description": "<ul><li>Използвайте квадратна работна площ с отстъп, за да избегнете изрязване на ръбовете.</li><li>Конвертирайте текста в контури; вградете шрифтове и изображения.</li><li>Избягвайте прекалено тънки линии за малки икони (≥1px при целевия размер).</li><li>Експортирайте по-големи (напр. 512–1024 px), ако ще намалявате размера по-късно.</li></ul>"
+
+    }
+    {
+      "title": "Отстраняване на проблеми"
+
+      "description": "<ul><li><strong>Липсващи шрифтове/филтри:</strong> Вградете активи и конвертирайте текста в контури.</li><li><strong>Зъбчати ръбове:</strong> Увеличете целевия размер или <code>scale</code>, след това намалете.</li><li><strong>Солиден фон:</strong> Уверете се, че <code>background</code> е зададен на <em>прозрачен</em> в опциите.</li><li><strong>Качването не успя:</strong> Уверете се, че SVG е валиден и ≤16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Този SVG към PNG конвертор безплатен ли е?",
+      "question": "Този SVG към PNG конвертор безплатен ли е?"
+
       "answer": "Да, той е напълно безплатен без водни знаци или скрити такси."
-    },
-    {
-      "question": "PNG запазва ли прозрачността?",
-      "answer": "Да. PNG поддържа алфа прозрачност и ние я запазваме по подразбиране."
-    },
-    {
-      "question": "Мога ли да избера размера на изхода?",
-      "answer": "По подразбиране използваме SVG viewBox. Можете да зададете ширина/височина или фактор на мащабиране в разширените опции, ако се поддържат."
-    },
-    {
-      "question": "Какви ограничения за размер на файла важат?",
-      "answer": "Можете да качвате SVG файлове до 16 MB."
-    },
-    {
-      "question": "Защо PNG-то ми изглежда различно от SVG-то?",
-      "answer": "Външни шрифтове, филтри или свързани активи могат да се визуализират различно при растеризация. Конвертирайте текста в контури и вградете активите за последователни резултати."
+
     }
-  ],
-  "note": "SVG файловете се растеризират по време на конверсията. За предсказуеми резултати, контурирайте текста и вградете всички външни активи.",
+    {
+      "question": "PNG запазва ли прозрачността?"
+
+      "answer": "Да. PNG поддържа алфа прозрачност и ние я запазваме по подразбиране."
+
+    }
+    {
+      "question": "Мога ли да избера размера на изхода?"
+
+      "answer": "По подразбиране използваме SVG viewBox. Можете да зададете ширина/височина или фактор на мащабиране в разширените опции, ако се поддържат."
+
+    }
+    {
+      "question": "Какви ограничения за размер на файла важат?"
+
+      "answer": "Можете да качвате SVG файлове до 16 MB."
+
+    }
+    {
+      "question": "Защо PNG-то ми изглежда различно от SVG-то?"
+
+      "answer": "Външни шрифтове, филтри или свързани активи могат да се визуализират различно при растеризация. Конвертирайте текста в контури и вградете активите за последователни резултати."
+
+    }
+  ]
+  "note": "SVG файловете се растеризират по време на конверсията. За предсказуеми резултати, контурирайте текста и вградете всички външни активи."
+
   "related_links": [
     {
-      "title": "Конвертиране на SVG в ICO",
+      "title": "Конвертиране на SVG в ICO"
+
       "url": "/bg/convert/svg-to-ico"
-    },
-    {
-      "title": "Конвертиране на PNG в SVG",
-      "url": "/bg/convert/png-to-svg"
-    },
-    {
-      "title": "Компресиране на PNG Онлайн",
-      "url": "/bg/compress/png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Всички права запазени.",
+    {
+      "title": "Конвертиране на PNG в SVG"
+
+      "url": "/bg/convert/png-to-svg"
+
+    }
+    {
+      "title": "Компресиране на PNG Онлайн"
+
+      "url": "/bg/compress/png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Всички права запазени."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "SVG към PNG Конвертор - Безплатно и Онлайн",
-      "url": "https://wikihowto.click/bg/convert/svg-to-png",
-      "description": "Безплатен онлайн инструмент за конвертиране на SVG векторна графика в PNG с прозрачност.",
-      "inLanguage": "bg",
-      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG към PNG Конвертор - Безплатно и Онлайн"
+
+      "url": "https://miconvert.com/bg/convert/svg-to-png"
+
+      "description": "Безплатен онлайн инструмент за конвертиране на SVG векторна графика в PNG с прозрачност."
+
+      "inLanguage": "bg"
+
+      "image": "https://miconvert.com/images/svg-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Начало",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Начало"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Конвертиране",
-          "item": "https://wikihowto.click/bg/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Конвертиране"
+
+          "item": "https://miconvert.com/bg/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG към PNG",
-          "item": "https://wikihowto.click/bg/convert/svg-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG към PNG"
+
+          "item": "https://miconvert.com/bg/convert/svg-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "SVG към PNG Конвертор",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/bg/convert/svg-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG към PNG Конвертор"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/bg/convert/svg-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "BGN"
-      },
+
+      }
       "featureList": [
-        "Ясна растеризация",
-        "Запазена прозрачност",
+        "Ясна растеризация"
+
+        "Запазена прозрачност"
+
         "Бърза обработка"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Този SVG към PNG конвертор безплатен ли е?",
+          "@type": "Question"
+
+          "name": "Този SVG към PNG конвертор безплатен ли е?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Да, той е напълно безплатен без водни знаци или скрити такси."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "PNG запазва ли прозрачността?",
+          "@type": "Question"
+
+          "name": "PNG запазва ли прозрачността?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Да, алфа прозрачността се запазва по подразбиране."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Какви ограничения за размер на файла важат?",
+          "@type": "Question"
+
+          "name": "Какви ограничения за размер на файла важат?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Можете да качвате SVG файлове до 16 MB."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Как да конвертирате SVG в PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Как да конвертирате SVG в PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Кликнете Качете SVG и изберете файла си."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Изчакайте растеризацията и оптимизацията да завършат."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Кликнете Изтеглете PNG, за да запазите изображението си."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Изчакайте растеризацията и оптимизацията да завършат."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Кликнете Изтеглете PNG, за да запазите изображението си."
+
+        }
+      ]
       "tool": [
         "SVG към PNG Конвертор"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

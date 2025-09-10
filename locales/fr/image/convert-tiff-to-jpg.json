@@ -1,234 +1,350 @@
 {
-  "lang": "fr",
-  "lang_name": "Français",
-  "title": "Convertisseur TIFF en JPG - Gratuit & En Ligne | WikiHowTo.click",
-  "sub_title": "Convertissez des images TIFF en format JPG en ligne avec une haute qualité, des tailles de fichiers plus petites et sans filigranes.",
-  "hint": "Téléchargez votre image TIFF pour commencer la conversion...",
-  "btn_download": "Convertir en JPG",
-  "btn_paste": "Télécharger TIFF",
-  "btn_clear": "Effacer",
-  "ogImage": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+  "lang": "fr"
+
+  "lang_name": "Français"
+
+  "title": "Convertisseur TIFF en JPG - Gratuit & En Ligne | miconvert.com"
+
+  "sub_title": "Convertissez des images TIFF en format JPG en ligne avec une haute qualité, des tailles de fichiers plus petites et sans filigranes."
+
+  "hint": "Téléchargez votre image TIFF pour commencer la conversion..."
+
+  "btn_download": "Convertir en JPG"
+
+  "btn_paste": "Télécharger TIFF"
+
+  "btn_clear": "Effacer"
+
+  "ogImage": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
   "converter": {
-    "type": "tiff-to-jpg",
-    "inputFormat": "TIFF",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "tiff-to-jpg"
+
+    "inputFormat": "TIFF"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/tiff"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Convertissez votre <strong>TIFF en JPG</strong> pour un partage plus facile et des fichiers plus petits. Ce convertisseur en ligne gratuit transforme des images TIFF professionnelles en JPEG universellement pris en charge tout en conservant une forte qualité visuelle. Les TIFF multi-pages sont aplatis et seule la <em>première page</em> est convertie. Si votre TIFF a de la transparence, le JPG rendra ces zones sur un fond solide (blanc par défaut).</p>",
+  }
+  "description": "<p>Convertissez votre <strong>TIFF en JPG</strong> pour un partage plus facile et des fichiers plus petits. Ce convertisseur en ligne gratuit transforme des images TIFF professionnelles en JPEG universellement pris en charge tout en conservant une forte qualité visuelle. Les TIFF multi-pages sont aplatis et seule la <em>première page</em> est convertie. Si votre TIFF a de la transparence, le JPG rendra ces zones sur un fond solide (blanc par défaut).</p>"
+
   "head": {
-    "title": "Convertir TIFF en JPG en Ligne - Convertisseur TIFF en JPG Gratuit | WikiHowTo.click",
-    "description": "Convertissez TIFF en JPG en ligne avec une haute qualité, des tailles de fichiers plus petites et sans filigranes. Outil de conversion TIFF en JPG gratuit, rapide et sécurisé.",
-    "keywords": "tiff en jpg, convertir tiff en jpg, gratuit tiff en jpg, convertisseur tiff en ligne, tiff en jpeg",
-    "canonical": "https://wikihowto.click/fr/convert/tiff-to-jpg",
-    "og_title": "Convertisseur TIFF en JPG - Gratuit & En Ligne",
-    "og_description": "Convertissez des images TIFF en format JPG avec une haute qualité et des tailles de fichiers plus petites. 100% gratuit, rapide et sécurisé.",
-    "og_url": "https://wikihowto.click/fr/convert/tiff-to-jpg",
-    "og_image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertisseur TIFF en JPG Gratuit En Ligne",
-    "twitter_description": "Convertissez TIFF en JPG avec une haute qualité, des tailles de fichiers plus petites et sans filigranes. Fonctionne sur tous les appareils.",
-    "twitter_image": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-  },
+    "title": "Convertir TIFF en JPG en Ligne - Convertisseur TIFF en JPG Gratuit | miconvert.com"
+
+    "description": "Convertissez TIFF en JPG en ligne avec une haute qualité, des tailles de fichiers plus petites et sans filigranes. Outil de conversion TIFF en JPG gratuit, rapide et sécurisé."
+
+    "keywords": "tiff en jpg, convertir tiff en jpg, gratuit tiff en jpg, convertisseur tiff en ligne, tiff en jpeg"
+
+    "canonical": "https://miconvert.com/fr/convert/tiff-to-jpg"
+
+    "og_title": "Convertisseur TIFF en JPG - Gratuit & En Ligne"
+
+    "og_description": "Convertissez des images TIFF en format JPG avec une haute qualité et des tailles de fichiers plus petites. 100% gratuit, rapide et sécurisé."
+
+    "og_url": "https://miconvert.com/fr/convert/tiff-to-jpg"
+
+    "og_image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Convertir TIFF en JPG En Ligne",
+    "title": "Convertir TIFF en JPG En Ligne"
+
     "description": "Convertisseur TIFF en JPG gratuit et rapide avec une haute qualité et des tailles de fichiers plus petites. Fonctionne instantanément sur n'importe quel appareil — aucune inscription requise."
-  },
+
+  }
   "h2": [
     {
-      "title": "Pourquoi convertir TIFF en JPG ?",
+      "title": "Pourquoi convertir TIFF en JPG ?"
+
       "description": "<p>Le TIFF est idéal pour l'édition et l'impression, mais il est lourd et moins compatible. Le JPG trouve un équilibre pratique :</p><ul><li><strong>Fichiers beaucoup plus petits :</strong> Souvent <em>70–90%</em> plus petits que le TIFF, selon le contenu.</li><li><strong>Compatibilité universelle :</strong> Le JPG fonctionne sur pratiquement tous les appareils et applications.</li><li><strong>Partage facile :</strong> Parfait pour les e-mails, la messagerie et le web.</li><li><strong>Économies de stockage :</strong> Réduisez l'espace sans perte visuelle majeure.</li></ul>"
-    },
-    {
-      "title": "Comment convertir TIFF en JPG en ligne",
-      "description": "<ol><li>Cliquez sur <em>Télécharger TIFF</em> et choisissez votre fichier.</li><li>Attendez le traitement et l'optimisation.</li><li>Cliquez sur <em>Télécharger JPG</em> pour enregistrer votre image.</li></ol><p>Nous utilisons JPEG progressif (mozjpeg) pour un excellent équilibre taille-qualité.</p>"
-    },
-    {
-      "title": "Comparaison TIFF vs JPG",
-      "description": "<ul><li><strong>Compression :</strong> Le TIFF peut être sans perte ; le JPG est avec perte pour des fichiers plus petits.</li><li><strong>Transparence :</strong> Le TIFF peut inclure un alpha ; le JPG n'en a pas (les pixels transparents deviennent solides).</li><li><strong>Couleur :</strong> Le TIFF peut être CMYK/AdobeRGB ; la sortie JPG est standardisée en sRGB pour le web.</li><li><strong>Cas d'utilisation :</strong> Gardez le TIFF pour les masters d'édition/impression ; utilisez le JPG pour la livraison et le partage.</li></ul>"
-    },
-    {
-      "title": "Limites et formats pris en charge",
-      "description": "<ul><li><strong>Entrée acceptée :</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Taille de fichier maximale :</strong> jusqu'à 16&nbsp;Mo par fichier</li><li><strong>Sortie :</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Pages :</strong> TIFF multi-pages : seule la <em>première page</em> est convertie</li></ul>"
-    },
-    {
-      "title": "Dépannage",
-      "description": "<ul><li><strong>Les couleurs semblent différentes :</strong> Nous convertissons en sRGB pour la cohérence web. Faites un proof soft en sRGB avant de télécharger si possible.</li><li><strong>Transparence perdue :</strong> Le JPG ne prend pas en charge l'alpha ; utilisez <a href='/fr/convert/tiff-to-png'>TIFF → PNG</a> si vous avez besoin de transparence.</li><li><strong>Le fichier est toujours volumineux :</strong> Réduisez la résolution ou baissez la qualité à 80–85%.</li><li><strong>Échec du téléchargement :</strong> Assurez-vous que le TIFF fait ≤ 16&nbsp;Mo.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Comment convertir TIFF en JPG en ligne"
+
+      "description": "<ol><li>Cliquez sur <em>Télécharger TIFF</em> et choisissez votre fichier.</li><li>Attendez le traitement et l'optimisation.</li><li>Cliquez sur <em>Télécharger JPG</em> pour enregistrer votre image.</li></ol><p>Nous utilisons JPEG progressif (mozjpeg) pour un excellent équilibre taille-qualité.</p>"
+
+    }
+    {
+      "title": "Comparaison TIFF vs JPG"
+
+      "description": "<ul><li><strong>Compression :</strong> Le TIFF peut être sans perte ; le JPG est avec perte pour des fichiers plus petits.</li><li><strong>Transparence :</strong> Le TIFF peut inclure un alpha ; le JPG n'en a pas (les pixels transparents deviennent solides).</li><li><strong>Couleur :</strong> Le TIFF peut être CMYK/AdobeRGB ; la sortie JPG est standardisée en sRGB pour le web.</li><li><strong>Cas d'utilisation :</strong> Gardez le TIFF pour les masters d'édition/impression ; utilisez le JPG pour la livraison et le partage.</li></ul>"
+
+    }
+    {
+      "title": "Limites et formats pris en charge"
+
+      "description": "<ul><li><strong>Entrée acceptée :</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Taille de fichier maximale :</strong> jusqu'à 16&nbsp;Mo par fichier</li><li><strong>Sortie :</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Pages :</strong> TIFF multi-pages : seule la <em>première page</em> est convertie</li></ul>"
+
+    }
+    {
+      "title": "Dépannage"
+
+      "description": "<ul><li><strong>Les couleurs semblent différentes :</strong> Nous convertissons en sRGB pour la cohérence web. Faites un proof soft en sRGB avant de télécharger si possible.</li><li><strong>Transparence perdue :</strong> Le JPG ne prend pas en charge l'alpha ; utilisez <a href='/fr/convert/tiff-to-png'>TIFF → PNG</a> si vous avez besoin de transparence.</li><li><strong>Le fichier est toujours volumineux :</strong> Réduisez la résolution ou baissez la qualité à 80–85%.</li><li><strong>Échec du téléchargement :</strong> Assurez-vous que le TIFF fait ≤ 16&nbsp;Mo.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ce convertisseur TIFF en JPG est-il gratuit ?",
+      "question": "Ce convertisseur TIFF en JPG est-il gratuit ?"
+
       "answer": "Oui, il est complètement gratuit sans filigranes ni frais cachés."
-    },
-    {
-      "question": "Vais-je perdre de la qualité en convertissant TIFF en JPG ?",
-      "answer": "Le JPG est avec perte, mais nous utilisons des paramètres de haute qualité (mozjpeg, progressif) pour minimiser la perte visible."
-    },
-    {
-      "question": "Le JPG conserve-t-il la transparence ?",
-      "answer": "Non. Le JPG n'a pas de canal alpha. Les zones transparentes dans la source seront remplies d'un fond solide (blanc par défaut)."
-    },
-    {
-      "question": "Pouvez-vous traiter des TIFF multi-pages ?",
-      "answer": "Oui, mais nous ne convertissons que la première page. Si nécessaire, divisez les pages avant le téléchargement."
-    },
-    {
-      "question": "Quelles tailles de fichiers sont prises en charge ?",
-      "answer": "Vous pouvez télécharger des images jusqu'à 16&nbsp;Mo par fichier."
-    },
-    {
-      "question": "Puis-je convertir plusieurs fichiers TIFF en même temps ?",
-      "answer": "Cette page convertit un fichier à la fois. Pour des besoins en masse, répétez le processus."
+
     }
-  ],
-  "note": "Le JPG est avec perte et supprime la transparence. Conservez votre TIFF original pour l'édition ou l'impression, et exportez en JPG pour le partage.",
+    {
+      "question": "Vais-je perdre de la qualité en convertissant TIFF en JPG ?"
+
+      "answer": "Le JPG est avec perte, mais nous utilisons des paramètres de haute qualité (mozjpeg, progressif) pour minimiser la perte visible."
+
+    }
+    {
+      "question": "Le JPG conserve-t-il la transparence ?"
+
+      "answer": "Non. Le JPG n'a pas de canal alpha. Les zones transparentes dans la source seront remplies d'un fond solide (blanc par défaut)."
+
+    }
+    {
+      "question": "Pouvez-vous traiter des TIFF multi-pages ?"
+
+      "answer": "Oui, mais nous ne convertissons que la première page. Si nécessaire, divisez les pages avant le téléchargement."
+
+    }
+    {
+      "question": "Quelles tailles de fichiers sont prises en charge ?"
+
+      "answer": "Vous pouvez télécharger des images jusqu'à 16&nbsp;Mo par fichier."
+
+    }
+    {
+      "question": "Puis-je convertir plusieurs fichiers TIFF en même temps ?"
+
+      "answer": "Cette page convertit un fichier à la fois. Pour des besoins en masse, répétez le processus."
+
+    }
+  ]
+  "note": "Le JPG est avec perte et supprime la transparence. Conservez votre TIFF original pour l'édition ou l'impression, et exportez en JPG pour le partage."
+
   "related_links": [
     {
-      "title": "Convertir TIFF en PNG (conserve la transparence)",
+      "title": "Convertir TIFF en PNG (conserve la transparence)"
+
       "url": "/fr/convert/tiff-to-png"
-    },
-    {
-      "title": "Convertir JPG en TIFF",
-      "url": "/fr/convert/jpg-to-tiff"
-    },
-    {
-      "title": "Compresser JPG en ligne",
-      "url": "/fr/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tous droits réservés.",
+    {
+      "title": "Convertir JPG en TIFF"
+
+      "url": "/fr/convert/jpg-to-tiff"
+
+    }
+    {
+      "title": "Compresser JPG en ligne"
+
+      "url": "/fr/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tous droits réservés."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertisseur TIFF en JPG - Gratuit & En Ligne",
-      "url": "https://wikihowto.click/fr/convert/tiff-to-jpg",
-      "description": "Outil en ligne gratuit pour convertir des images TIFF en JPG avec une haute qualité et des tailles de fichiers plus petites.",
-      "inLanguage": "fr",
-      "image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertisseur TIFF en JPG - Gratuit & En Ligne"
+
+      "url": "https://miconvert.com/fr/convert/tiff-to-jpg"
+
+      "description": "Outil en ligne gratuit pour convertir des images TIFF en JPG avec une haute qualité et des tailles de fichiers plus petites."
+
+      "inLanguage": "fr"
+
+      "image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Accueil",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Accueil"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/fr/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/fr/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "TIFF en JPG",
-          "item": "https://wikihowto.click/fr/convert/tiff-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "TIFF en JPG"
+
+          "item": "https://miconvert.com/fr/convert/tiff-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertisseur TIFF en JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/fr/convert/tiff-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertisseur TIFF en JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/fr/convert/tiff-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG progressif",
-        "Conversion de haute qualité",
+        "JPEG progressif"
+
+        "Conversion de haute qualité"
+
         "Traitement rapide"
-      ],
-      "screenshot": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ce convertisseur TIFF en JPG est-il gratuit ?",
+          "@type": "Question"
+
+          "name": "Ce convertisseur TIFF en JPG est-il gratuit ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Oui, il est complètement gratuit sans filigranes ni frais cachés."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quelles tailles de fichiers sont prises en charge ?",
+          "@type": "Question"
+
+          "name": "Quelles tailles de fichiers sont prises en charge ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Le JPG conserve-t-il la transparence ?",
+          "@type": "Question"
+
+          "name": "Le JPG conserve-t-il la transparence ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Non. Le JPG ne prend pas en charge un canal alpha. Les pixels transparents deviennent solides."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Traitez-vous des TIFF multi-pages ?",
+          "@type": "Question"
+
+          "name": "Traitez-vous des TIFF multi-pages ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Seule la première page est convertie. Divisez les pages au préalable si nécessaire."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Comment convertir TIFF en JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Comment convertir TIFF en JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Cliquez sur Télécharger TIFF et sélectionnez votre fichier."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Attendez que le traitement et l'optimisation soient terminés."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cliquez sur Télécharger JPG pour enregistrer le résultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Attendez que le traitement et l'optimisation soient terminés."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Cliquez sur Télécharger JPG pour enregistrer le résultat."
+
+        }
+      ]
       "tool": [
         "Convertisseur TIFF en JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

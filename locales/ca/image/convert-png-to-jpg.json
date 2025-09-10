@@ -1,230 +1,344 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Convertidor de PNG a JPG - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges PNG a format JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua.",
-  "hint": "Puja la teva imatge PNG per començar a convertir...",
-  "btn_download": "Convertir a JPG",
-  "btn_paste": "Pujar PNG",
-  "btn_clear": "Esborrar",
-  "ogImage": "https://wikihowto.click/images/png-to-jpg.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Convertidor de PNG a JPG - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges PNG a format JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge PNG per començar a convertir..."
+
+  "btn_download": "Convertir a JPG"
+
+  "btn_paste": "Pujar PNG"
+
+  "btn_clear": "Esborrar"
+
+  "ogImage": "https://miconvert.com/images/png-to-jpg.jpg"
+
   "converter": {
-    "type": "png-to-jpg",
-    "inputFormat": "PNG",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-jpg"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Necessites convertir <strong>PNG a JPG</strong> per a mides de fitxer més petites o una compatibilitat més àmplia? El nostre convertidor gratuït en línia de PNG a JPG crea JPEG d'alta qualitat en segons. Funciona al teu navegador, no requereix registre i manté els teus fitxers privats amb eliminació automàtica després del processament.</p><p>JPG és ideal per a fotos i imatges colorides, oferint una excel·lent compressió amb bona qualitat visual. PNG és sense pèrdues (i sovint més gran), així que canviar a JPG ajuda a reduir l'emmagatzematge i accelerar la entrega web.</p>",
+  }
+  "description": "<p>Necessites convertir <strong>PNG a JPG</strong> per a mides de fitxer més petites o una compatibilitat més àmplia? El nostre convertidor gratuït en línia de PNG a JPG crea JPEG d'alta qualitat en segons. Funciona al teu navegador, no requereix registre i manté els teus fitxers privats amb eliminació automàtica després del processament.</p><p>JPG és ideal per a fotos i imatges colorides, oferint una excel·lent compressió amb bona qualitat visual. PNG és sense pèrdues (i sovint més gran), així que canviar a JPG ajuda a reduir l'emmagatzematge i accelerar la entrega web.</p>"
+
   "head": {
-    "title": "Converteix PNG a JPG en línia - Gratuït convertidor de PNG a JPG | WikiHowTo.click",
-    "description": "Converteix PNG a JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Convertidor de PNG a JPG gratuït, ràpid i segur.",
-    "keywords": "png a jpg, convertir png a jpg, gratuït png a jpg, convertidor png en línia, compressió jpg",
-    "canonical": "https://wikihowto.click/en/convert/png-to-jpg",
-    "og_title": "Convertidor de PNG a JPG - Gratuït i en línia",
-    "og_description": "Converteix imatges PNG a format JPG amb alta qualitat i mides de fitxer més petites. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/en/convert/png-to-jpg",
-    "og_image": "https://wikihowto.click/images/png-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertidor gratuït de PNG a JPG en línia",
-    "twitter_description": "Converteix PNG a JPG amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/png-to-jpg.jpg"
-  },
+    "title": "Converteix PNG a JPG en línia - Gratuït convertidor de PNG a JPG | miconvert.com"
+
+    "description": "Converteix PNG a JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Convertidor de PNG a JPG gratuït, ràpid i segur."
+
+    "keywords": "png a jpg, convertir png a jpg, gratuït png a jpg, convertidor png en línia, compressió jpg"
+
+    "canonical": "https://miconvert.com/en/convert/png-to-jpg"
+
+    "og_title": "Convertidor de PNG a JPG - Gratuït i en línia"
+
+    "og_description": "Converteix imatges PNG a format JPG amb alta qualitat i mides de fitxer més petites. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/en/convert/png-to-jpg"
+
+    "og_image": "https://miconvert.com/images/png-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Converteix PNG a JPG en línia",
+    "title": "Converteix PNG a JPG en línia"
+
     "description": "Convertidor gratuït i ràpid de PNG a JPG amb alta qualitat i mides de fitxer més petites. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir PNG a JPG?",
+      "title": "Per què convertir PNG a JPG?"
+
       "description": "<p>PNG és excel·lent per a gràfics amb transparència però pot ser pesat. JPG ofereix fitxers més petits i una gran compatibilitat:</p><ul><li><strong>Mides de fitxer més petites:</strong> Redueix l'emmagatzematge i accelera la càrrega de pàgines.</li><li><strong>Millor compatibilitat:</strong> JPG funciona a tot arreu.</li><li><strong>Amigable amb fotos:</strong> Ideal per a fotos i degradats.</li><li><strong estalvi de amplada de banda:</strong> Imatges més lleugeres per a mòbil/web.</li></ul>"
-    },
-    {
-      "title": "Com convertir PNG a JPG en línia",
-      "description": "<ol><li>Fes clic a <em>Pujar PNG</em> i selecciona el teu fitxer.</li><li>Espera que es completi el processament.</li><li>Fes clic a <em>Descarregar JPG</em> per desar la teva imatge.</li></ol><p>La qualitat s'ajusta automàticament per a un bon equilibri entre mida i fidelitat.</p>"
-    },
-    {
-      "title": "Consells per a millors resultats",
-      "description": "<ul><li><strong>Configuració de qualitat:</strong> Utilitza un 85–90% per a imatges importants; 70–80% per a web.</li><li><strong>Transparència:</strong> L'alpha de PNG es converteix en un fons sòlid (blanc per defecte) en JPG.</li><li><strong>Resolució:</strong> Redimensiona imatges grans abans de convertir per reduir encara més els fitxers.</li><li><strong>Rendiment web:</strong> Després de JPG, considera <a href='/en/convert/jpg-to-webp'>JPG → WebP</a> per a estalvis addicionals.</li></ul>"
-    },
-    {
-      "title": "Límits i formats compatibles",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codificació:</strong> JPEG progressiu a través de mozjpeg</li></ul>"
-    },
-    {
-      "title": "Solució de problemes",
-      "description": "<ul><li><strong>Àrees transparents:</strong> JPG no té alpha; el fons serà blanc. Si necessites transparència, mantingues PNG.</li><li><strong>Desviació de color:</strong> Converteix a sRGB abans de pujar per a una visualització web consistent.</li><li><strong>Encara massa gran:</strong> Redueix la qualitat lleugerament (80–85%) o redimensiona.</li><li><strong>La pujada falla:</strong> Assegura't que PNG i ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir PNG a JPG en línia"
+
+      "description": "<ol><li>Fes clic a <em>Pujar PNG</em> i selecciona el teu fitxer.</li><li>Espera que es completi el processament.</li><li>Fes clic a <em>Descarregar JPG</em> per desar la teva imatge.</li></ol><p>La qualitat s'ajusta automàticament per a un bon equilibri entre mida i fidelitat.</p>"
+
+    }
+    {
+      "title": "Consells per a millors resultats"
+
+      "description": "<ul><li><strong>Configuració de qualitat:</strong> Utilitza un 85–90% per a imatges importants; 70–80% per a web.</li><li><strong>Transparència:</strong> L'alpha de PNG es converteix en un fons sòlid (blanc per defecte) en JPG.</li><li><strong>Resolució:</strong> Redimensiona imatges grans abans de convertir per reduir encara més els fitxers.</li><li><strong>Rendiment web:</strong> Després de JPG, considera <a href='/en/convert/jpg-to-webp'>JPG → WebP</a> per a estalvis addicionals.</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats compatibles"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codificació:</strong> JPEG progressiu a través de mozjpeg</li></ul>"
+
+    }
+    {
+      "title": "Solució de problemes"
+
+      "description": "<ul><li><strong>Àrees transparents:</strong> JPG no té alpha; el fons serà blanc. Si necessites transparència, mantingues PNG.</li><li><strong>Desviació de color:</strong> Converteix a sRGB abans de pujar per a una visualització web consistent.</li><li><strong>Encara massa gran:</strong> Redueix la qualitat lleugerament (80–85%) o redimensiona.</li><li><strong>La pujada falla:</strong> Assegura't que PNG i ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest convertidor de PNG a JPG?",
+      "question": "És gratuït aquest convertidor de PNG a JPG?"
+
       "answer": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Perdré transparència en convertir PNG a JPG?",
-      "answer": "Sí. JPG no suporta transparència, així que els píxels transparents es converteixen en un fons sòlid (blanc per defecte)."
-    },
-    {
-      "question": "Perdrà qualitat la imatge durant la conversió?",
-      "answer": "JPG utilitza compressió amb pèrdues. Utilitzem configuracions d'alta qualitat per minimitzar la pèrdua visible."
-    },
-    {
-      "question": "Quines mides de fitxer són compatibles?",
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "Puc convertir múltiples PNG alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de massa, repeteix el procés o utilitza una eina de lot."
-    },
-    {
-      "question": "Puc utilitzar aquesta eina al meu telèfon?",
-      "answer": "Sí. El convertidor és amigable amb mòbils i funciona en navegadors iOS i Android."
+
     }
-  ],
-  "note": "La conversió a JPG és amb pèrdues. Mantingues una còpia del teu PNG original si necessites sense pèrdues o transparència més endavant.",
+    {
+      "question": "Perdré transparència en convertir PNG a JPG?"
+
+      "answer": "Sí. JPG no suporta transparència, així que els píxels transparents es converteixen en un fons sòlid (blanc per defecte)."
+
+    }
+    {
+      "question": "Perdrà qualitat la imatge durant la conversió?"
+
+      "answer": "JPG utilitza compressió amb pèrdues. Utilitzem configuracions d'alta qualitat per minimitzar la pèrdua visible."
+
+    }
+    {
+      "question": "Quines mides de fitxer són compatibles?"
+
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "Puc convertir múltiples PNG alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de massa, repeteix el procés o utilitza una eina de lot."
+
+    }
+    {
+      "question": "Puc utilitzar aquesta eina al meu telèfon?"
+
+      "answer": "Sí. El convertidor és amigable amb mòbils i funciona en navegadors iOS i Android."
+
+    }
+  ]
+  "note": "La conversió a JPG és amb pèrdues. Mantingues una còpia del teu PNG original si necessites sense pèrdues o transparència més endavant."
+
   "related_links": [
     {
-      "title": "Convertir PNG a WebP",
+      "title": "Convertir PNG a WebP"
+
       "url": "/en/convert/png-to-webp"
-    },
-    {
-      "title": "Convertir JPG a PNG",
-      "url": "/en/convert/jpg-to-png"
-    },
-    {
-      "title": "Comprimir JPG en línia",
-      "url": "/en/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Convertir JPG a PNG"
+
+      "url": "/en/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Comprimir JPG en línia"
+
+      "url": "/en/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a JPG - Gratuït i en línia",
-      "url": "https://wikihowto.click/en/convert/png-to-jpg",
-      "description": "Eina gratuïta en línia per convertir imatges PNG a JPG amb alta qualitat i mides de fitxer més petites.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/png-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a JPG - Gratuït i en línia"
+
+      "url": "https://miconvert.com/en/convert/png-to-jpg"
+
+      "description": "Eina gratuïta en línia per convertir imatges PNG a JPG amb alta qualitat i mides de fitxer més petites."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/png-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a JPG",
-          "item": "https://wikihowto.click/en/convert/png-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a JPG"
+
+          "item": "https://miconvert.com/en/convert/png-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/png-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/png-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG d'alta qualitat",
-        "Codificació progressiva",
+        "JPEG d'alta qualitat"
+
+        "Codificació progressiva"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest convertidor de PNG a JPG?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest convertidor de PNG a JPG?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són compatibles?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són compatibles?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Perdré transparència?",
+          "@type": "Question"
+
+          "name": "Perdré transparència?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí. JPG no suporta transparència; els píxels transparents es converteixen en un fons sòlid."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir PNG a JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir PNG a JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Pujar PNG i selecciona el teu fitxer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament es completi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar JPG per desar el resultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament es completi."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar JPG per desar el resultat."
+
+        }
+      ]
       "tool": [
         "Convertidor de PNG a JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

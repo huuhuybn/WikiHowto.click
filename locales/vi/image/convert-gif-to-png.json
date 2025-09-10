@@ -1,244 +1,365 @@
 {
-  "lang": "vi",
-  "lang_name": "Tiếng Việt",
-  "title": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến | WikiHowTo.click",
-  "sub_title": "Chuyển đổi hình ảnh GIF sang định dạng PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng cao và không có watermark.",
-  "hint": "Tải lên hình ảnh GIF của bạn để bắt đầu chuyển đổi...",
-  "btn_download": "Chuyển đổi sang PNG",
-  "btn_paste": "Tải lên GIF",
-  "btn_clear": "Xóa",
+  "lang": "vi"
+
+  "lang_name": "Tiếng Việt"
+
+  "title": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến | miconvert.com"
+
+  "sub_title": "Chuyển đổi hình ảnh GIF sang định dạng PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng cao và không có watermark."
+
+  "hint": "Tải lên hình ảnh GIF của bạn để bắt đầu chuyển đổi..."
+
+  "btn_download": "Chuyển đổi sang PNG"
+
+  "btn_paste": "Tải lên GIF"
+
+  "btn_clear": "Xóa"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Chuyển đổi <strong>GIF sang PNG</strong> của bạn để có độ trung thực cao hơn và hỗ trợ độ trong suốt đầy đủ. Công cụ chuyển đổi trực tuyến miễn phí của chúng tôi biến GIF động hoặc tĩnh thành hình ảnh PNG chất lượng cao. Trong khi GIF rất tuyệt cho các hoạt ảnh đơn giản, PNG cung cấp độ sâu màu sắc vượt trội, độ trong suốt tốt hơn và nén không mất dữ liệu cho đồ họa tĩnh sắc nét.</p><p><strong>Lưu ý:</strong> GIF động được chuyển đổi thành một <em>hình ảnh tĩnh duy nhất</em> (khung đầu tiên). Để đầu ra động, hãy thử <a href='/en/convert/gif-to-webp'>GIF sang WebP</a>.</p>",
+  }
+  "description": "<p>Chuyển đổi <strong>GIF sang PNG</strong> của bạn để có độ trung thực cao hơn và hỗ trợ độ trong suốt đầy đủ. Công cụ chuyển đổi trực tuyến miễn phí của chúng tôi biến GIF động hoặc tĩnh thành hình ảnh PNG chất lượng cao. Trong khi GIF rất tuyệt cho các hoạt ảnh đơn giản, PNG cung cấp độ sâu màu sắc vượt trội, độ trong suốt tốt hơn và nén không mất dữ liệu cho đồ họa tĩnh sắc nét.</p><p><strong>Lưu ý:</strong> GIF động được chuyển đổi thành một <em>hình ảnh tĩnh duy nhất</em> (khung đầu tiên). Để đầu ra động, hãy thử <a href='/en/convert/gif-to-webp'>GIF sang WebP</a>.</p>"
+
   "head": {
-    "title": "Chuyển đổi GIF sang PNG Trực tuyến - Công cụ Chuyển đổi GIF sang PNG Miễn phí | WikiHowTo.click",
-    "description": "Chuyển đổi GIF sang PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng cao và không có watermark. Công cụ chuyển đổi GIF sang PNG miễn phí, nhanh chóng và an toàn.",
-    "keywords": "gif sang png, chuyển đổi gif sang png, gif sang png miễn phí, công cụ chuyển đổi gif trực tuyến, hình ảnh trong suốt",
-    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_title": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến",
-    "og_description": "Chuyển đổi hình ảnh GIF sang định dạng PNG với hỗ trợ độ trong suốt và chất lượng cao. 100% miễn phí, nhanh chóng và an toàn.",
-    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Công cụ Chuyển đổi GIF sang PNG Miễn phí Trực tuyến",
-    "twitter_description": "Chuyển đổi GIF sang PNG với hỗ trợ độ trong suốt, chất lượng cao và không có watermark. Hoạt động trên tất cả các thiết bị.",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "Chuyển đổi GIF sang PNG Trực tuyến - Công cụ Chuyển đổi GIF sang PNG Miễn phí | miconvert.com"
+
+    "description": "Chuyển đổi GIF sang PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng cao và không có watermark. Công cụ chuyển đổi GIF sang PNG miễn phí, nhanh chóng và an toàn."
+
+    "keywords": "gif sang png, chuyển đổi gif sang png, gif sang png miễn phí, công cụ chuyển đổi gif trực tuyến, hình ảnh trong suốt"
+
+    "canonical": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_title": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến"
+
+    "og_description": "Chuyển đổi hình ảnh GIF sang định dạng PNG với hỗ trợ độ trong suốt và chất lượng cao. 100% miễn phí, nhanh chóng và an toàn."
+
+    "og_url": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Chuyển đổi GIF sang PNG Trực tuyến",
+    "title": "Chuyển đổi GIF sang PNG Trực tuyến"
+
     "description": "Công cụ chuyển đổi GIF sang PNG miễn phí và nhanh chóng với hỗ trợ độ trong suốt và chất lượng cao. Hoạt động ngay lập tức trên bất kỳ thiết bị nào, không cần đăng ký."
-  },
+
+  }
   "h2": [
     {
-      "title": "Tại sao nên chuyển đổi GIF sang PNG?",
+      "title": "Tại sao nên chuyển đổi GIF sang PNG?"
+
       "description": "<p>GIF bị giới hạn ở 256 màu và phù hợp cho các hoạt ảnh đơn giản. PNG lý tưởng cho hình ảnh tĩnh chất lượng cao:</p><ul><li><strong>Chất lượng cao hơn:</strong> Truecolor (24-bit) + alpha so với bảng màu 8-bit của GIF.</li><li><strong>Độ trong suốt:</strong> PNG hỗ trợ độ trong suốt alpha đầy đủ cho các cạnh mượt mà.</li><li><strong>Nén không mất dữ liệu:</strong> PNG bảo tồn chi tiết mà không mất chất lượng.</li><li><strong>Tương thích toàn cầu:</strong> Được hỗ trợ rộng rãi trên các ứng dụng và nền tảng.</li></ul>"
-    },
-    {
-      "title": "Cách chuyển đổi GIF sang PNG trực tuyến",
-      "description": "<ol><li>Nhấp vào <em>Tải lên GIF</em> và chọn tệp của bạn.</li><li>Chờ quá trình xử lý hoàn tất.</li><li>Nhấp vào <em>Tải xuống PNG</em> để lưu kết quả.</li></ol><p>GIF động: chỉ khung đầu tiên được xuất dưới dạng PNG.</p>"
-    },
-    {
-      "title": "GIF và PNG: Sự khác biệt chính",
-      "description": "<table class='table-compare'><thead><tr><th>Tính năng</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Độ sâu màu</td><td>8-bit (256 màu)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Độ trong suốt</td><td>1-bit mask (bật/tắt)</td><td>Độ trong suốt alpha đầy đủ</td></tr><tr><td>Nén</td><td>Không mất dữ liệu (LZW)</td><td>Không mất dữ liệu (DEFLATE)</td></tr><tr><td>Hoạt ảnh</td><td>Được hỗ trợ</td><td>Không được hỗ trợ (tĩnh)</td></tr><tr><td>Tốt nhất cho</td><td>Hoạt ảnh đơn giản, nhãn dán</td><td>Logo, UI, ảnh chụp màn hình, đồ họa tĩnh</td></tr></tbody></table>"
-    },
-    {
-      "title": "Giới hạn & định dạng được hỗ trợ",
-      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> GIF (<code>image/gif</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Tính năng của Công cụ Chuyển đổi GIF sang PNG của chúng tôi",
-      "description": "<ul><li>100% miễn phí, không có watermark</li><li>Bảo tồn độ trong suốt khi có</li><li>Đầu ra PNG không mất dữ liệu</li><li>Giao diện thân thiện với di động</li></ul>"
-    },
-    {
-      "title": "GIF là gì?",
-      "description": "<p>GIF (Định dạng Hoán đổi Đồ họa) hỗ trợ hoạt ảnh cơ bản và sử dụng nén không mất dữ liệu LZW, nhưng bị giới hạn ở bảng màu 256 màu.</p>"
-    },
-    {
-      "title": "PNG là gì?",
-      "description": "<p>PNG (Đồ họa Mạng Di động) là định dạng không mất dữ liệu hỗ trợ truecolor và độ trong suốt alpha — lý tưởng cho hình ảnh tĩnh chất lượng cao.</p>"
-    },
-    {
-      "title": "Khắc phục sự cố",
-      "description": "<ul><li><strong>Tải lên không thành công:</strong> Đảm bảo tệp là GIF và ≤ 16&nbsp;MB.</li><li><strong>Các cạnh trong suốt bị răng cưa:</strong> Độ trong suốt 1-bit của GIF có thể trông thô; tinh chỉnh với <a href='/en/effect/remove-background'>Công cụ Xóa nền</a>.</li><li><strong>Cần hoạt ảnh:</strong> Sử dụng <a href='/en/convert/gif-to-webp'>GIF sang WebP</a> để giữ chuyển động.</li></ul>"
-    },
-    {
-      "title": "Trường hợp sử dụng: Khi nào nên chuyển đổi GIF sang PNG",
-      "description": "<ul><li><strong>Logo & biểu tượng</strong> cần độ trong suốt mượt mà.</li><li><strong>Ảnh chụp màn hình/UI</strong> yêu cầu văn bản và đường nét sắc nét.</li><li><strong>Lưu trữ</strong> các khung tĩnh với chất lượng cao hơn.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cách chuyển đổi GIF sang PNG trực tuyến"
+
+      "description": "<ol><li>Nhấp vào <em>Tải lên GIF</em> và chọn tệp của bạn.</li><li>Chờ quá trình xử lý hoàn tất.</li><li>Nhấp vào <em>Tải xuống PNG</em> để lưu kết quả.</li></ol><p>GIF động: chỉ khung đầu tiên được xuất dưới dạng PNG.</p>"
+
+    }
+    {
+      "title": "GIF và PNG: Sự khác biệt chính"
+
+      "description": "<table class='table-compare'><thead><tr><th>Tính năng</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Độ sâu màu</td><td>8-bit (256 màu)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Độ trong suốt</td><td>1-bit mask (bật/tắt)</td><td>Độ trong suốt alpha đầy đủ</td></tr><tr><td>Nén</td><td>Không mất dữ liệu (LZW)</td><td>Không mất dữ liệu (DEFLATE)</td></tr><tr><td>Hoạt ảnh</td><td>Được hỗ trợ</td><td>Không được hỗ trợ (tĩnh)</td></tr><tr><td>Tốt nhất cho</td><td>Hoạt ảnh đơn giản, nhãn dán</td><td>Logo, UI, ảnh chụp màn hình, đồ họa tĩnh</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Giới hạn & định dạng được hỗ trợ"
+
+      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> GIF (<code>image/gif</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Tính năng của Công cụ Chuyển đổi GIF sang PNG của chúng tôi"
+
+      "description": "<ul><li>100% miễn phí, không có watermark</li><li>Bảo tồn độ trong suốt khi có</li><li>Đầu ra PNG không mất dữ liệu</li><li>Giao diện thân thiện với di động</li></ul>"
+
+    }
+    {
+      "title": "GIF là gì?"
+
+      "description": "<p>GIF (Định dạng Hoán đổi Đồ họa) hỗ trợ hoạt ảnh cơ bản và sử dụng nén không mất dữ liệu LZW, nhưng bị giới hạn ở bảng màu 256 màu.</p>"
+
+    }
+    {
+      "title": "PNG là gì?"
+
+      "description": "<p>PNG (Đồ họa Mạng Di động) là định dạng không mất dữ liệu hỗ trợ truecolor và độ trong suốt alpha — lý tưởng cho hình ảnh tĩnh chất lượng cao.</p>"
+
+    }
+    {
+      "title": "Khắc phục sự cố"
+
+      "description": "<ul><li><strong>Tải lên không thành công:</strong> Đảm bảo tệp là GIF và ≤ 16&nbsp;MB.</li><li><strong>Các cạnh trong suốt bị răng cưa:</strong> Độ trong suốt 1-bit của GIF có thể trông thô; tinh chỉnh với <a href='/en/effect/remove-background'>Công cụ Xóa nền</a>.</li><li><strong>Cần hoạt ảnh:</strong> Sử dụng <a href='/en/convert/gif-to-webp'>GIF sang WebP</a> để giữ chuyển động.</li></ul>"
+
+    }
+    {
+      "title": "Trường hợp sử dụng: Khi nào nên chuyển đổi GIF sang PNG"
+
+      "description": "<ul><li><strong>Logo & biểu tượng</strong> cần độ trong suốt mượt mà.</li><li><strong>Ảnh chụp màn hình/UI</strong> yêu cầu văn bản và đường nét sắc nét.</li><li><strong>Lưu trữ</strong> các khung tĩnh với chất lượng cao hơn.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Công cụ chuyển đổi GIF sang PNG này có miễn phí không?",
+      "question": "Công cụ chuyển đổi GIF sang PNG này có miễn phí không?"
+
       "answer": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hoặc đăng ký."
-    },
-    {
-      "question": "PNG có bảo tồn độ trong suốt từ GIF không?",
-      "answer": "Có. Các khu vực trong suốt 1-bit của GIF vẫn giữ nguyên độ trong suốt trong PNG; để có các cạnh mượt mà hơn, hãy chỉnh sửa kênh alpha sau khi chuyển đổi."
-    },
-    {
-      "question": "Điều gì xảy ra với GIF động?",
-      "answer": "Chỉ khung đầu tiên được chuyển đổi thành hình ảnh PNG tĩnh. Để giữ hoạt ảnh, hãy sử dụng GIF sang WebP."
-    },
-    {
-      "question": "Tôi có mất chất lượng khi chuyển đổi GIF sang PNG không?",
-      "answer": "Không. PNG sử dụng nén không mất dữ liệu và hỗ trợ đầy đủ màu sắc, thường cải thiện độ trung thực hình ảnh so với GIF 256 màu."
-    },
-    {
-      "question": "Kích thước tệp nào được hỗ trợ?",
-      "answer": "Bạn có thể tải lên hình ảnh lên đến 16 MB mỗi tệp."
-    },
-    {
-      "question": "Tệp của tôi có an toàn không?",
-      "answer": "Các tệp được xử lý tự động và không được giữ lại lâu hơn cần thiết cho việc chuyển đổi."
-    },
-    {
-      "question": "Tôi có thể chuyển đổi nhiều tệp GIF cùng một lúc không?",
-      "answer": "Trang này chuyển đổi một tệp tại một thời điểm. Đối với nhu cầu số lượng lớn, hãy lặp lại quy trình hoặc sử dụng công cụ hàng loạt."
+
     }
-  ],
-  "note": "GIF động trở thành PNG tĩnh (khung đầu tiên). Để đầu ra động, chuyển đổi GIF sang WebP.",
+    {
+      "question": "PNG có bảo tồn độ trong suốt từ GIF không?"
+
+      "answer": "Có. Các khu vực trong suốt 1-bit của GIF vẫn giữ nguyên độ trong suốt trong PNG; để có các cạnh mượt mà hơn, hãy chỉnh sửa kênh alpha sau khi chuyển đổi."
+
+    }
+    {
+      "question": "Điều gì xảy ra với GIF động?"
+
+      "answer": "Chỉ khung đầu tiên được chuyển đổi thành hình ảnh PNG tĩnh. Để giữ hoạt ảnh, hãy sử dụng GIF sang WebP."
+
+    }
+    {
+      "question": "Tôi có mất chất lượng khi chuyển đổi GIF sang PNG không?"
+
+      "answer": "Không. PNG sử dụng nén không mất dữ liệu và hỗ trợ đầy đủ màu sắc, thường cải thiện độ trung thực hình ảnh so với GIF 256 màu."
+
+    }
+    {
+      "question": "Kích thước tệp nào được hỗ trợ?"
+
+      "answer": "Bạn có thể tải lên hình ảnh lên đến 16 MB mỗi tệp."
+
+    }
+    {
+      "question": "Tệp của tôi có an toàn không?"
+
+      "answer": "Các tệp được xử lý tự động và không được giữ lại lâu hơn cần thiết cho việc chuyển đổi."
+
+    }
+    {
+      "question": "Tôi có thể chuyển đổi nhiều tệp GIF cùng một lúc không?"
+
+      "answer": "Trang này chuyển đổi một tệp tại một thời điểm. Đối với nhu cầu số lượng lớn, hãy lặp lại quy trình hoặc sử dụng công cụ hàng loạt."
+
+    }
+  ]
+  "note": "GIF động trở thành PNG tĩnh (khung đầu tiên). Để đầu ra động, chuyển đổi GIF sang WebP."
+
   "related_links": [
     {
-      "title": "Chuyển đổi GIF sang JPG",
+      "title": "Chuyển đổi GIF sang JPG"
+
       "url": "/en/convert/gif-to-jpg"
-    },
-    {
-      "title": "Chuyển đổi PNG sang GIF",
-      "url": "/en/convert/png-to-gif"
-    },
-    {
-      "title": "Chuyển đổi GIF sang WebP",
-      "url": "/en/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tất cả các quyền được bảo lưu.",
+    {
+      "title": "Chuyển đổi PNG sang GIF"
+
+      "url": "/en/convert/png-to-gif"
+
+    }
+    {
+      "title": "Chuyển đổi GIF sang WebP"
+
+      "url": "/en/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tất cả các quyền được bảo lưu."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
-      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh GIF sang PNG với nén không mất dữ liệu và hỗ trợ độ trong suốt.",
-      "inLanguage": "vi",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Chuyển đổi GIF sang PNG - Miễn phí & Trực tuyến"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
+      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh GIF sang PNG với nén không mất dữ liệu và hỗ trợ độ trong suốt."
+
+      "inLanguage": "vi"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Trang chủ",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Trang chủ"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Chuyển đổi",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Chuyển đổi"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF sang PNG",
-          "item": "https://wikihowto.click/en/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF sang PNG"
+
+          "item": "https://miconvert.com/en/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Công cụ Chuyển đổi GIF sang PNG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Công cụ Chuyển đổi GIF sang PNG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Đầu ra PNG không mất dữ liệu",
-        "Hỗ trợ độ trong suốt",
+        "Đầu ra PNG không mất dữ liệu"
+
+        "Hỗ trợ độ trong suốt"
+
         "Xử lý nhanh"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Công cụ chuyển đổi GIF sang PNG này có miễn phí không?",
+          "@type": "Question"
+
+          "name": "Công cụ chuyển đổi GIF sang PNG này có miễn phí không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hoặc đăng ký."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Điều gì xảy ra với GIF động?",
+          "@type": "Question"
+
+          "name": "Điều gì xảy ra với GIF động?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Chỉ khung đầu tiên được chuyển đổi thành hình ảnh PNG tĩnh. Để giữ hoạt ảnh, hãy sử dụng GIF sang WebP."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kích thước tệp nào được hỗ trợ?",
+          "@type": "Question"
+
+          "name": "Kích thước tệp nào được hỗ trợ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Bạn có thể tải lên hình ảnh lên đến 16 MB mỗi tệp."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cách chuyển đổi GIF sang PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cách chuyển đổi GIF sang PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Nhấp vào Tải lên GIF và chọn tệp của bạn."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chờ quá trình xử lý hoàn tất."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Nhấp vào Tải xuống PNG để lưu kết quả."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Chờ quá trình xử lý hoàn tất."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Nhấp vào Tải xuống PNG để lưu kết quả."
+
+        }
+      ]
       "tool": [
         "Công cụ Chuyển đổi GIF sang PNG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

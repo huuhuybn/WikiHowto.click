@@ -1,239 +1,355 @@
 {
-  "lang": "es",
-  "lang_name": "Español",
-  "title": "Convertidor de PNG a ICO - Gratis y en Línea | WikiHowTo.click",
-  "sub_title": "Convierte imágenes PNG a formato ICO en línea para favicons e íconos de escritorio. Gratis, rápido y sin marcas de agua.",
-  "hint": "Sube tu imagen PNG para comenzar a convertir...",
-  "btn_download": "Convertir a ICO",
-  "btn_paste": "Subir PNG",
-  "btn_clear": "Limpiar",
+  "lang": "es"
+
+  "lang_name": "Español"
+
+  "title": "Convertidor de PNG a ICO - Gratis y en Línea | miconvert.com"
+
+  "sub_title": "Convierte imágenes PNG a formato ICO en línea para favicons e íconos de escritorio. Gratis, rápido y sin marcas de agua."
+
+  "hint": "Sube tu imagen PNG para comenzar a convertir..."
+
+  "btn_download": "Convertir a ICO"
+
+  "btn_paste": "Subir PNG"
+
+  "btn_clear": "Limpiar"
+
   "converter": {
-    "type": "png-to-ico",
-    "inputFormat": "PNG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-ico"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>¡Transforma tu <strong>PNG a ICO</strong> para obtener favicons e íconos de escritorio perfectos! Nuestro convertidor gratuito de PNG a ICO crea íconos profesionales de múltiples tamaños que se ven nítidos en todos los navegadores y escritorios de Windows.</p><p>Los archivos ICO pueden agrupar varios tamaños en un solo archivo (por ejemplo, 16–256 px), ideal para favicons e íconos de aplicaciones/accesos directos. La transparencia del PNG se conserva para bordes suaves en fondos oscuros/claros.</p>",
+  }
+  "description": "<p>¡Transforma tu <strong>PNG a ICO</strong> para obtener favicons e íconos de escritorio perfectos! Nuestro convertidor gratuito de PNG a ICO crea íconos profesionales de múltiples tamaños que se ven nítidos en todos los navegadores y escritorios de Windows.</p><p>Los archivos ICO pueden agrupar varios tamaños en un solo archivo (por ejemplo, 16–256 px), ideal para favicons e íconos de aplicaciones/accesos directos. La transparencia del PNG se conserva para bordes suaves en fondos oscuros/claros.</p>"
+
   "head": {
-    "title": "Convertir PNG a ICO en Línea - Convertidor Gratuito de PNG a ICO | WikiHowTo.click",
-    "description": "Convierte PNG a ICO en línea para favicons e íconos de escritorio. Herramienta de conversión de PNG a ICO gratuita, rápida y segura.",
-    "keywords": "png a ico, convertir png a ico, gratis png a ico, convertidor ico en línea, creador de favicon",
-    "canonical": "https://wikihowto.click/es/convert/png-to-ico",
-    "og_title": "Convertidor de PNG a ICO - Gratis y en Línea",
-    "og_description": "Convierte imágenes PNG a formato ICO para favicons e íconos de escritorio. 100% gratis, rápido y seguro.",
-    "og_url": "https://wikihowto.click/es/convert/png-to-ico",
-    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertidor Gratuito de PNG a ICO en Línea",
-    "twitter_description": "Convierte PNG a ICO para favicons e íconos de escritorio. Funciona en todos los dispositivos.",
-    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
-  },
+    "title": "Convertir PNG a ICO en Línea - Convertidor Gratuito de PNG a ICO | miconvert.com"
+
+    "description": "Convierte PNG a ICO en línea para favicons e íconos de escritorio. Herramienta de conversión de PNG a ICO gratuita, rápida y segura."
+
+    "keywords": "png a ico, convertir png a ico, gratis png a ico, convertidor ico en línea, creador de favicon"
+
+    "canonical": "https://miconvert.com/es/convert/png-to-ico"
+
+    "og_title": "Convertidor de PNG a ICO - Gratis y en Línea"
+
+    "og_description": "Convierte imágenes PNG a formato ICO para favicons e íconos de escritorio. 100% gratis, rápido y seguro."
+
+    "og_url": "https://miconvert.com/es/convert/png-to-ico"
+
+    "og_image": "https://miconvert.com/images/png-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Convertir PNG a ICO en Línea",
+    "title": "Convertir PNG a ICO en Línea"
+
     "description": "Convertidor gratuito y rápido de PNG a ICO para favicons e íconos de escritorio. Funciona instantáneamente en cualquier dispositivo, sin necesidad de registro."
-  },
+
+  }
   "h2": [
     {
-      "title": "¿Por qué convertir PNG a ICO?",
+      "title": "¿Por qué convertir PNG a ICO?"
+
       "description": "<p>ICO está diseñado para íconos:</p><ul><li><strong>Soporte de múltiples tamaños:</strong> Agrupa variantes de 16–256 px en un solo archivo.</li><li><strong>Estándar de favicon:</strong> Reconocido por los principales navegadores.</li><li><strong>Compatibilidad con Windows:</strong> Formato nativo de íconos de escritorio/aplicaciones.</li><li><strong>Transparencia:</strong> Bordes suaves con alfa de PNG preservado.</li></ul>"
-    },
-    {
-      "title": "Cómo convertir PNG a ICO en línea",
-      "description": "<ol><li>Haz clic en <em>Subir PNG</em> y selecciona tu imagen.</li><li>Espera a que se procese y optimice.</li><li>Haz clic en <em>Descargar ICO</em> para guardar tu ícono.</li></ol><p>Generamos automáticamente los tamaños de íconos comunes.</p>"
-    },
-    {
-      "title": "Especificaciones del formato ICO",
-      "description": "<ul><li><strong>Tamaños estándar:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profundidad de color:</strong> Hasta 32 bits RGBA</li><li><strong>Transparencia:</strong> Canal alfa completo</li><li><strong>Estructura:</strong> Encabezado + múltiples entradas de imagen</li><li><strong>Compresión:</strong> Entradas comprimidas en PNG para íconos de 32 bits (Vista+)</li></ul>"
-    },
-    {
-      "title": "Límites y formatos soportados",
-      "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Solución de problemas",
-      "description": "<ul><li><strong>Favicon no visible:</strong> Limpia la caché y asegúrate de que <code>/favicon.ico</code> esté en la raíz del sitio con <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Bordes irregulares:</strong> Comienza con un PNG más grande y de alto contraste; reduce el tamaño de manera limpia.</li><li><strong>Fallo en la carga:</strong> Asegúrate de que el PNG ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Características de nuestro convertidor de PNG a ICO",
-      "description": "<ul><li>100% Gratis sin marcas de agua</li><li>Optimización automática de tamaño</li><li>Preservación de la transparencia</li><li>Procesamiento seguro</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cómo convertir PNG a ICO en línea"
+
+      "description": "<ol><li>Haz clic en <em>Subir PNG</em> y selecciona tu imagen.</li><li>Espera a que se procese y optimice.</li><li>Haz clic en <em>Descargar ICO</em> para guardar tu ícono.</li></ol><p>Generamos automáticamente los tamaños de íconos comunes.</p>"
+
+    }
+    {
+      "title": "Especificaciones del formato ICO"
+
+      "description": "<ul><li><strong>Tamaños estándar:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profundidad de color:</strong> Hasta 32 bits RGBA</li><li><strong>Transparencia:</strong> Canal alfa completo</li><li><strong>Estructura:</strong> Encabezado + múltiples entradas de imagen</li><li><strong>Compresión:</strong> Entradas comprimidas en PNG para íconos de 32 bits (Vista+)</li></ul>"
+
+    }
+    {
+      "title": "Límites y formatos soportados"
+
+      "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Solución de problemas"
+
+      "description": "<ul><li><strong>Favicon no visible:</strong> Limpia la caché y asegúrate de que <code>/favicon.ico</code> esté en la raíz del sitio con <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Bordes irregulares:</strong> Comienza con un PNG más grande y de alto contraste; reduce el tamaño de manera limpia.</li><li><strong>Fallo en la carga:</strong> Asegúrate de que el PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Características de nuestro convertidor de PNG a ICO"
+
+      "description": "<ul><li>100% Gratis sin marcas de agua</li><li>Optimización automática de tamaño</li><li>Preservación de la transparencia</li><li>Procesamiento seguro</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "¿Es gratuito este convertidor de PNG a ICO?",
+      "question": "¿Es gratuito este convertidor de PNG a ICO?"
+
       "answer": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
-    },
-    {
-      "question": "¿Qué tamaños son soportados en archivos ICO?",
-      "answer": "Los tamaños comunes incluyen 16×16, 32×32, 48×48, 64×64, 128×128 y 256×256 píxeles."
-    },
-    {
-      "question": "¿Puedo usar archivos ICO para favicons de sitios web?",
-      "answer": "Sí. <code>favicon.ico</code> es ampliamente soportado por los principales navegadores."
-    },
-    {
-      "question": "¿Qué tamaños de archivo son soportados?",
-      "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
-    },
-    {
-      "question": "¿Son seguros mis archivos?",
-      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
-    },
-    {
-      "question": "¿La calidad del ícono será buena?",
-      "answer": "Preservamos la transparencia del PNG y generamos múltiples tamaños para una representación nítida en dimensiones pequeñas."
+
     }
-  ],
-  "note": "Para obtener los mejores resultados, utiliza un PNG claro y de alto contraste. Coloca <code>/favicon.ico</code> en la raíz de tu sitio y haz referencia a él con <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+    {
+      "question": "¿Qué tamaños son soportados en archivos ICO?"
+
+      "answer": "Los tamaños comunes incluyen 16×16, 32×32, 48×48, 64×64, 128×128 y 256×256 píxeles."
+
+    }
+    {
+      "question": "¿Puedo usar archivos ICO para favicons de sitios web?"
+
+      "answer": "Sí. <code>favicon.ico</code> es ampliamente soportado por los principales navegadores."
+
+    }
+    {
+      "question": "¿Qué tamaños de archivo son soportados?"
+
+      "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
+
+    }
+    {
+      "question": "¿Son seguros mis archivos?"
+
+      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
+
+    }
+    {
+      "question": "¿La calidad del ícono será buena?"
+
+      "answer": "Preservamos la transparencia del PNG y generamos múltiples tamaños para una representación nítida en dimensiones pequeñas."
+
+    }
+  ]
+  "note": "Para obtener los mejores resultados, utiliza un PNG claro y de alto contraste. Coloca <code>/favicon.ico</code> en la raíz de tu sitio y haz referencia a él con <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
   "related_links": [
     {
-      "title": "Convertir JPG a ICO",
+      "title": "Convertir JPG a ICO"
+
       "url": "/es/convert/jpg-to-ico"
-    },
-    {
-      "title": "Convertir BMP a ICO",
-      "url": "/es/convert/bmp-to-ico"
-    },
-    {
-      "title": "Convertir SVG a ICO",
-      "url": "/es/convert/svg-to-ico"
-    },
-    {
-      "title": "Convertir ICO a PNG",
-      "url": "/es/convert/ico-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Todos los derechos reservados.",
+    {
+      "title": "Convertir BMP a ICO"
+
+      "url": "/es/convert/bmp-to-ico"
+
+    }
+    {
+      "title": "Convertir SVG a ICO"
+
+      "url": "/es/convert/svg-to-ico"
+
+    }
+    {
+      "title": "Convertir ICO a PNG"
+
+      "url": "/es/convert/ico-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Todos los derechos reservados."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a ICO - Gratis y en Línea",
-      "url": "https://wikihowto.click/es/convert/png-to-ico",
-      "description": "Herramienta en línea gratuita para convertir imágenes PNG a ICO para favicons e íconos de escritorio de Windows.",
-      "inLanguage": "es",
-      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a ICO - Gratis y en Línea"
+
+      "url": "https://miconvert.com/es/convert/png-to-ico"
+
+      "description": "Herramienta en línea gratuita para convertir imágenes PNG a ICO para favicons e íconos de escritorio de Windows."
+
+      "inLanguage": "es"
+
+      "image": "https://miconvert.com/images/png-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inicio",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inicio"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/es/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/es/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a ICO",
-          "item": "https://wikihowto.click/es/convert/png-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a ICO"
+
+          "item": "https://miconvert.com/es/convert/png-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/es/convert/png-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/es/convert/png-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Conjunto de íconos de múltiples tamaños",
-        "Transparencia preservada",
+        "Conjunto de íconos de múltiples tamaños"
+
+        "Transparencia preservada"
+
         "Procesamiento rápido"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "¿Es gratuito este convertidor de PNG a ICO?",
+          "@type": "Question"
+
+          "name": "¿Es gratuito este convertidor de PNG a ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "¿Qué tamaños de archivo son soportados?",
+          "@type": "Question"
+
+          "name": "¿Qué tamaños de archivo son soportados?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Puedes subir imágenes de hasta 16 MB por archivo."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "¿Qué tamaños son soportados en archivos ICO?",
+          "@type": "Question"
+
+          "name": "¿Qué tamaños son soportados en archivos ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Los tamaños comunes incluyen 16×16, 32×32, 48×48, 64×64, 128×128 y 256×256 píxeles."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cómo convertir PNG a ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cómo convertir PNG a ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Haz clic en Subir PNG y selecciona tu imagen."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera a que se complete el procesamiento."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Haz clic en Descargar ICO para guardar tu ícono."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera a que se complete el procesamiento."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Haz clic en Descargar ICO para guardar tu ícono."
+
+        }
+      ]
       "tool": [
         "Convertidor de PNG a ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

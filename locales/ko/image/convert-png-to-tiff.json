@@ -1,244 +1,368 @@
 {
-  "lang": "ko",
-  "lang_name": "한국어",
-  "title": "PNG에서 TIFF 변환기 - 무료 및 온라인 | WikiHowTo.click",
-  "sub_title": "손실 없는 옵션, 인쇄 준비 품질 및 투명성을 유지하며 PNG 이미지를 온라인으로 TIFF로 변환하세요. 워터마크 없음.",
-  "hint": "변환을 시작하려면 PNG 이미지를 업로드하세요...",
-  "btn_download": "TIFF로 변환",
-  "btn_paste": "PNG 업로드",
-  "btn_clear": "지우기",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "ko"
+
+  "lang_name": "한국어"
+
+  "title": "PNG에서 TIFF 변환기 - 무료 및 온라인 | miconvert.com"
+
+  "sub_title": "손실 없는 옵션, 인쇄 준비 품질 및 투명성을 유지하며 PNG 이미지를 온라인으로 TIFF로 변환하세요. 워터마크 없음."
+
+  "hint": "변환을 시작하려면 PNG 이미지를 업로드하세요..."
+
+  "btn_download": "TIFF로 변환"
+
+  "btn_paste": "PNG 업로드"
+
+  "btn_clear": "지우기"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "PNG에서 TIFF로 변환 - 무료 온라인 PNG에서 TIFF 변환기 | WikiHowTo.click",
-    "description": "PNG 이미지를 무료로 온라인에서 TIFF 형식으로 변환하세요. 손실 없는 옵션과 빠른 처리를 통한 고품질 PNG에서 TIFF 변환.",
-    "keywords": "png에서 tiff, png를 tiff로 변환, 무료 png에서 tiff, 온라인 tiff 변환기, 이미지 변환",
-    "canonical": "https://wikihowto.click/ko/convert/png-to-tiff",
-    "og_title": "PNG에서 TIFF로 변환 - 무료 온라인 PNG에서 TIFF 변환기",
-    "og_description": "손실 없는 압축 옵션과 투명성을 유지하며 PNG 이미지를 TIFF로 변환하세요. 무료, 빠르고 안전합니다.",
-    "og_url": "https://wikihowto.click/ko/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "무료 PNG에서 TIFF 변환기 온라인",
-    "twitter_description": "손실 없는 옵션, 투명성 및 인쇄 준비 품질로 PNG를 TIFF로 변환하세요.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "PNG에서 TIFF로 변환 - 무료 온라인 PNG에서 TIFF 변환기 | miconvert.com"
+
+    "description": "PNG 이미지를 무료로 온라인에서 TIFF 형식으로 변환하세요. 손실 없는 옵션과 빠른 처리를 통한 고품질 PNG에서 TIFF 변환."
+
+    "keywords": "png에서 tiff, png를 tiff로 변환, 무료 png에서 tiff, 온라인 tiff 변환기, 이미지 변환"
+
+    "canonical": "https://miconvert.com/ko/convert/png-to-tiff"
+
+    "og_title": "PNG에서 TIFF로 변환 - 무료 온라인 PNG에서 TIFF 변환기"
+
+    "og_description": "손실 없는 압축 옵션과 투명성을 유지하며 PNG 이미지를 TIFF로 변환하세요. 무료, 빠르고 안전합니다."
+
+    "og_url": "https://miconvert.com/ko/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "온라인에서 PNG를 TIFF로 변환",
+    "title": "온라인에서 PNG를 TIFF로 변환"
+
     "description": "손실 없는 압축 옵션과 인쇄 준비 출력이 가능한 무료 PNG에서 TIFF 변환기. 모든 장치에서 작동 — 가입 필요 없음."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "PNG에서 TIFF 변환기",
-    "description": "알파 투명성을 유지하면서 LZW/ZIP 손실 없는 압축으로 PNG 이미지를 TIFF로 변환합니다.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "PNG에서 TIFF 변환기"
+
+    "description": "알파 투명성을 유지하면서 LZW/ZIP 손실 없는 압축으로 PNG 이미지를 TIFF로 변환합니다."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "손실 없는 TIFF (LZW/ZIP) 옵션",
-      "투명성 유지 (알파)",
-      "인쇄 준비 품질",
+      "손실 없는 TIFF (LZW/ZIP) 옵션"
+
+      "투명성 유지 (알파)"
+
+      "인쇄 준비 품질"
+
       "무료 온라인 도구"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG에서 TIFF 변환 완료",
-    "back_button": "변환기로 돌아가기",
-    "convert_another": "다른 PNG 변환",
+    "title": "PNG에서 TIFF 변환 완료"
+
+    "back_button": "변환기로 돌아가기"
+
+    "convert_another": "다른 PNG 변환"
+
     "quick_conversions": "빠른 변환:"
-  },
+
+  }
   "h2": [
     {
-      "title": "왜 PNG를 TIFF로 변환하나요?",
+      "title": "왜 PNG를 TIFF로 변환하나요?"
+
       "description": "<p>TIFF는 이미징 및 인쇄에 사용되는 전문 아카이브 등급 형식입니다:</p><ul><li><strong>손실 없는 옵션:</strong> 새로운 아티팩트를 도입하지 않고 깨끗한 마스터를 유지합니다.</li><li><strong>인쇄 준비:</strong> 고해상도 출력 및 프리프레스 워크플로우에 적합합니다.</li><li><strong>알파 지원:</strong> 투명성을 유지할 수 있습니다 (뷰어에 따라 다름).</li><li><strong>편집 친화적:</strong> 반복 저장 및 전달에 안정적입니다.</li></ul>"
-    },
-    {
-      "title": "온라인에서 PNG를 TIFF로 변환하는 방법",
-      "description": "<ol><li><em>PNG 업로드</em>를 클릭하고 파일을 선택하세요.</li><li>처리를 기다리세요.</li><li><em>TIFF 다운로드</em>를 클릭하여 결과를 저장하세요.</li></ol><p>기본 출력: 32비트 RGBA, LZW 손실 없음, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF와 PNG: 주요 차이점",
-      "description": "<ul><li><strong>압축:</strong> PNG는 손실 없는 DEFLATE를 사용합니다; TIFF는 LZW/ZIP (손실 없음) 또는 기타를 지원합니다.</li><li><strong>파일 크기:</strong> 이미지 내용에 따라 다릅니다; TIFF는 PNG보다 크거나 비슷할 수 있습니다.</li><li><strong>투명성:</strong> 둘 다 알파를 포함할 수 있습니다 (TIFF의 경우 뷰어 지원이 다를 수 있습니다).</li><li><strong>최고의 용도:</strong> 웹 배달에는 PNG; 편집, 인쇄 및 아카이빙에는 TIFF가 적합합니다.</li></ul>"
-    },
-    {
-      "title": "지원되는 한계 및 형식",
-      "description": "<ul><li><strong>허용된 입력:</strong> PNG (<code>image/png</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16&nbsp;MB</li><li><strong>출력:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>기본값:</strong> 32비트 RGBA, LZW 압축, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "문제 해결",
-      "description": "<ul><li><strong>파일이 너무 큽니다:</strong> TIFF는 일부 콘텐츠에 대해 더 무겁습니다 — 웹에는 PNG를 유지하거나 WebP/AVIF를 고려하세요.</li><li><strong>알파가 보이지 않음:</strong> 일부 뷰어는 TIFF 알파를 무시합니다; 전문 편집기에서 확인하세요.</li><li><strong>색상 변화:</strong> 일관된 화면 색상을 위해 업로드 전에 sRGB로 변환하세요.</li><li><strong>업로드 실패:</strong> PNG ≤ 16&nbsp;MB인지 확인하세요.</li></ul>"
+
     }
-  ],
+    {
+      "title": "온라인에서 PNG를 TIFF로 변환하는 방법"
+
+      "description": "<ol><li><em>PNG 업로드</em>를 클릭하고 파일을 선택하세요.</li><li>처리를 기다리세요.</li><li><em>TIFF 다운로드</em>를 클릭하여 결과를 저장하세요.</li></ol><p>기본 출력: 32비트 RGBA, LZW 손실 없음, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF와 PNG: 주요 차이점"
+
+      "description": "<ul><li><strong>압축:</strong> PNG는 손실 없는 DEFLATE를 사용합니다; TIFF는 LZW/ZIP (손실 없음) 또는 기타를 지원합니다.</li><li><strong>파일 크기:</strong> 이미지 내용에 따라 다릅니다; TIFF는 PNG보다 크거나 비슷할 수 있습니다.</li><li><strong>투명성:</strong> 둘 다 알파를 포함할 수 있습니다 (TIFF의 경우 뷰어 지원이 다를 수 있습니다).</li><li><strong>최고의 용도:</strong> 웹 배달에는 PNG; 편집, 인쇄 및 아카이빙에는 TIFF가 적합합니다.</li></ul>"
+
+    }
+    {
+      "title": "지원되는 한계 및 형식"
+
+      "description": "<ul><li><strong>허용된 입력:</strong> PNG (<code>image/png</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16&nbsp;MB</li><li><strong>출력:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>기본값:</strong> 32비트 RGBA, LZW 압축, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "문제 해결"
+
+      "description": "<ul><li><strong>파일이 너무 큽니다:</strong> TIFF는 일부 콘텐츠에 대해 더 무겁습니다 — 웹에는 PNG를 유지하거나 WebP/AVIF를 고려하세요.</li><li><strong>알파가 보이지 않음:</strong> 일부 뷰어는 TIFF 알파를 무시합니다; 전문 편집기에서 확인하세요.</li><li><strong>색상 변화:</strong> 일관된 화면 색상을 위해 업로드 전에 sRGB로 변환하세요.</li><li><strong>업로드 실패:</strong> PNG ≤ 16&nbsp;MB인지 확인하세요.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "이 PNG에서 TIFF 변환기는 무료인가요?",
+      "question": "이 PNG에서 TIFF 변환기는 무료인가요?"
+
       "answer": "네, 변환기는 숨겨진 요금이나 구독 없이 완전히 무료입니다."
-    },
-    {
-      "question": "TIFF는 모든 애플리케이션에서 작동하나요?",
-      "answer": "TIFF는 전문 앱(포토샵, 어피니티, 많은 RIP/인쇄 도구)에서 널리 지원됩니다. 일부 간단한 뷰어는 알파 또는 특정 압축 방법을 표시하지 않을 수 있습니다."
-    },
-    {
-      "question": "TIFF 파일과 PNG 파일의 크기는 얼마나 되나요?",
-      "answer": "이미지에 따라 다릅니다. LZW/ZIP을 사용하면 TIFF는 콘텐츠에 따라 PNG와 비슷하거나 더 클 수 있습니다."
-    },
-    {
-      "question": "지원되는 파일 크기는 얼마인가요?",
-      "answer": "파일당 최대 16&nbsp;MB의 이미지를 업로드할 수 있습니다."
-    },
-    {
-      "question": "내 파일은 안전한가요?",
-      "answer": "파일은 자동으로 처리되며 변환에 필요한 시간보다 더 오래 보관되지 않습니다."
-    },
-    {
-      "question": "여러 PNG를 한 번에 변환할 수 있나요?",
-      "answer": "이 페이지는 한 번에 하나의 파일을 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
-    },
-    {
-      "question": "TIFF는 레이어를 지원하나요?",
-      "answer": "표준 TIFF는 평면 이미지입니다; 일부 앱은 개인 레이어 데이터를 포함하지만 이 도구는 평면 TIFF를 출력합니다."
+
     }
-  ],
-  "note": "TIFF는 저장/인쇄에 적합하지만 무거울 수 있습니다. 웹에는 PNG/WebP/AVIF를 고려하세요.",
+    {
+      "question": "TIFF는 모든 애플리케이션에서 작동하나요?"
+
+      "answer": "TIFF는 전문 앱(포토샵, 어피니티, 많은 RIP/인쇄 도구)에서 널리 지원됩니다. 일부 간단한 뷰어는 알파 또는 특정 압축 방법을 표시하지 않을 수 있습니다."
+
+    }
+    {
+      "question": "TIFF 파일과 PNG 파일의 크기는 얼마나 되나요?"
+
+      "answer": "이미지에 따라 다릅니다. LZW/ZIP을 사용하면 TIFF는 콘텐츠에 따라 PNG와 비슷하거나 더 클 수 있습니다."
+
+    }
+    {
+      "question": "지원되는 파일 크기는 얼마인가요?"
+
+      "answer": "파일당 최대 16&nbsp;MB의 이미지를 업로드할 수 있습니다."
+
+    }
+    {
+      "question": "내 파일은 안전한가요?"
+
+      "answer": "파일은 자동으로 처리되며 변환에 필요한 시간보다 더 오래 보관되지 않습니다."
+
+    }
+    {
+      "question": "여러 PNG를 한 번에 변환할 수 있나요?"
+
+      "answer": "이 페이지는 한 번에 하나의 파일을 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
+
+    }
+    {
+      "question": "TIFF는 레이어를 지원하나요?"
+
+      "answer": "표준 TIFF는 평면 이미지입니다; 일부 앱은 개인 레이어 데이터를 포함하지만 이 도구는 평면 TIFF를 출력합니다."
+
+    }
+  ]
+  "note": "TIFF는 저장/인쇄에 적합하지만 무거울 수 있습니다. 웹에는 PNG/WebP/AVIF를 고려하세요."
+
   "related_links": [
     {
-      "title": "PNG를 JPG로 변환",
+      "title": "PNG를 JPG로 변환"
+
       "url": "/ko/convert/png-to-jpg"
-    },
-    {
-      "title": "PNG를 WebP로 변환",
-      "url": "/ko/convert/png-to-webp"
-    },
-    {
-      "title": "JPG를 TIFF로 변환",
-      "url": "/ko/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. 모든 권리 보유.",
+    {
+      "title": "PNG를 WebP로 변환"
+
+      "url": "/ko/convert/png-to-webp"
+
+    }
+    {
+      "title": "JPG를 TIFF로 변환"
+
+      "url": "/ko/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG에서 TIFF 변환기 - 무료 및 온라인",
-      "url": "https://wikihowto.click/ko/convert/png-to-tiff",
-      "description": "손실 없는 옵션과 투명성을 유지하며 PNG 이미지를 TIFF로 변환하는 무료 온라인 도구입니다.",
-      "inLanguage": "ko",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG에서 TIFF 변환기 - 무료 및 온라인"
+
+      "url": "https://miconvert.com/ko/convert/png-to-tiff"
+
+      "description": "손실 없는 옵션과 투명성을 유지하며 PNG 이미지를 TIFF로 변환하는 무료 온라인 도구입니다."
+
+      "inLanguage": "ko"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "홈",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "홈"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "변환",
-          "item": "https://wikihowto.click/ko/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "변환"
+
+          "item": "https://miconvert.com/ko/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG에서 TIFF",
-          "item": "https://wikihowto.click/ko/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG에서 TIFF"
+
+          "item": "https://miconvert.com/ko/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG에서 TIFF 변환기",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ko/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG에서 TIFF 변환기"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ko/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "손실 없는 LZW 옵션",
-        "알파 유지",
+        "손실 없는 LZW 옵션"
+
+        "알파 유지"
+
         "인쇄 준비 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "이 PNG에서 TIFF 변환기는 무료인가요?",
+          "@type": "Question"
+
+          "name": "이 PNG에서 TIFF 변환기는 무료인가요?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "네, 변환기는 숨겨진 요금이나 구독 없이 완전히 무료입니다."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "지원되는 파일 크기는 얼마인가요?",
+          "@type": "Question"
+
+          "name": "지원되는 파일 크기는 얼마인가요?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "파일당 최대 16 MB의 이미지를 업로드할 수 있습니다."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "TIFF는 레이어를 지원하나요?",
+          "@type": "Question"
+
+          "name": "TIFF는 레이어를 지원하나요?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "표준 TIFF는 평면 이미지입니다; 일부 앱은 개인 레이어 데이터를 포함합니다. 이 도구는 평면 TIFF를 출력합니다."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "PNG를 TIFF로 변환하는 방법",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG를 TIFF로 변환하는 방법"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "PNG 업로드를 클릭하고 파일을 선택하세요."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "처리가 완료될 때까지 기다리세요."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "TIFF 다운로드를 클릭하여 결과를 저장하세요."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "처리가 완료될 때까지 기다리세요."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "TIFF 다운로드를 클릭하여 결과를 저장하세요."
+
+        }
+      ]
       "tool": [
         "PNG에서 TIFF 변환기"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

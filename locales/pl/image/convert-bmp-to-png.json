@@ -1,244 +1,365 @@
 {
-  "lang": "pl",
-  "lang_name": "Polski",
-  "title": "Konwerter BMP na PNG - Darmowy i Online | WikiHowTo.click",
-  "sub_title": "Konwertuj obrazy BMP na format PNG online z obsługą przezroczystości, lepszą kompresją i bez znaków wodnych.",
-  "hint": "Prześlij swój obraz BMP, aby rozpocząć konwersję...",
-  "btn_download": "Konwertuj na PNG",
-  "btn_paste": "Prześlij BMP",
-  "btn_clear": "Wyczyść",
+  "lang": "pl"
+
+  "lang_name": "Polski"
+
+  "title": "Konwerter BMP na PNG - Darmowy i Online | miconvert.com"
+
+  "sub_title": "Konwertuj obrazy BMP na format PNG online z obsługą przezroczystości, lepszą kompresją i bez znaków wodnych."
+
+  "hint": "Prześlij swój obraz BMP, aby rozpocząć konwersję..."
+
+  "btn_download": "Konwertuj na PNG"
+
+  "btn_paste": "Prześlij BMP"
+
+  "btn_clear": "Wyczyść"
+
   "converter": {
-    "type": "bmp-to-png",
-    "inputFormat": "BMP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "bmp-to-png"
+
+    "inputFormat": "BMP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/bmp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Konwertuj swoje <strong>BMP na PNG</strong> dla lepszej kompresji i kompatybilności z siecią! Nasz darmowy konwerter BMP na PNG online pomaga przekształcić duże pliki BMP w zoptymalizowany format PNG. Pliki BMP (Bitmap) są często niekompresowane i mogą być bardzo duże, co czyni je nieodpowiednimi do użytku w sieci lub udostępniania. PNG oferuje doskonałą kompresję przy zachowaniu jakości, idealne dla nowoczesnych aplikacji i stron internetowych.</p><p>PNG zapewnia kompresję bezstratną, wsparcie dla przezroczystości i uniwersalną kompatybilność na wszystkich platformach. Nasz konwerter optymalizuje Twoje obrazy BMP, zachowując szczegóły wizualne. Niezależnie od tego, czy pracujesz z zrzutami ekranu, grafiką czy obrazami do sieci, to narzędzie zmniejsza rozmiar pliku bez utraty jakości.</p>",
+  }
+  "description": "<p>Konwertuj swoje <strong>BMP na PNG</strong> dla lepszej kompresji i kompatybilności z siecią! Nasz darmowy konwerter BMP na PNG online pomaga przekształcić duże pliki BMP w zoptymalizowany format PNG. Pliki BMP (Bitmap) są często niekompresowane i mogą być bardzo duże, co czyni je nieodpowiednimi do użytku w sieci lub udostępniania. PNG oferuje doskonałą kompresję przy zachowaniu jakości, idealne dla nowoczesnych aplikacji i stron internetowych.</p><p>PNG zapewnia kompresję bezstratną, wsparcie dla przezroczystości i uniwersalną kompatybilność na wszystkich platformach. Nasz konwerter optymalizuje Twoje obrazy BMP, zachowując szczegóły wizualne. Niezależnie od tego, czy pracujesz z zrzutami ekranu, grafiką czy obrazami do sieci, to narzędzie zmniejsza rozmiar pliku bez utraty jakości.</p>"
+
   "head": {
-    "title": "Konwertuj BMP na PNG Online - Darmowy konwerter BMP na PNG | WikiHowTo.click",
-    "description": "Konwertuj BMP na PNG online z lepszą kompresją, wsparciem dla przezroczystości i bez znaków wodnych. Darmowe, szybkie i bezpieczne narzędzie konwertera BMP na PNG.",
-    "keywords": "bmp na png, konwertuj bmp na png, darmowy bmp na png, online konwerter bmp, bitmap na png",
-    "canonical": "https://wikihowto.click/pl/convert/bmp-to-png",
-    "og_title": "Konwerter BMP na PNG - Darmowy i Online",
-    "og_description": "Konwertuj obrazy BMP na format PNG z lepszą kompresją i wsparciem dla przezroczystości. 100% darmowe, szybkie i bezpieczne.",
-    "og_url": "https://wikihowto.click/pl/convert/bmp-to-png",
-    "og_image": "https://wikihowto.click/images/bmp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Darmowy konwerter BMP na PNG Online",
-    "twitter_description": "Konwertuj BMP na PNG z lepszą kompresją, wsparciem dla przezroczystości i bez znaków wodnych. Działa na wszystkich urządzeniach.",
-    "twitter_image": "https://wikihowto.click/images/bmp-to-png.jpg"
-  },
+    "title": "Konwertuj BMP na PNG Online - Darmowy konwerter BMP na PNG | miconvert.com"
+
+    "description": "Konwertuj BMP na PNG online z lepszą kompresją, wsparciem dla przezroczystości i bez znaków wodnych. Darmowe, szybkie i bezpieczne narzędzie konwertera BMP na PNG."
+
+    "keywords": "bmp na png, konwertuj bmp na png, darmowy bmp na png, online konwerter bmp, bitmap na png"
+
+    "canonical": "https://miconvert.com/pl/convert/bmp-to-png"
+
+    "og_title": "Konwerter BMP na PNG - Darmowy i Online"
+
+    "og_description": "Konwertuj obrazy BMP na format PNG z lepszą kompresją i wsparciem dla przezroczystości. 100% darmowe, szybkie i bezpieczne."
+
+    "og_url": "https://miconvert.com/pl/convert/bmp-to-png"
+
+    "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konwertuj BMP na PNG Online",
+    "title": "Konwertuj BMP na PNG Online"
+
     "description": "Darmowy i szybki konwerter BMP na PNG z lepszą kompresją i wsparciem dla przezroczystości. Działa natychmiast na każdym urządzeniu, bez rejestracji."
-  },
+
+  }
   "h2": [
     {
-      "title": "Dlaczego konwertować BMP na PNG?",
+      "title": "Dlaczego konwertować BMP na PNG?"
+
       "description": "<p>Pliki BMP są zazwyczaj niekompresowane i niezwykle duże, podczas gdy PNG oferuje nowoczesne funkcje i efektywny rozmiar. Korzyści z konwersji BMP na PNG:</p><ul><li><strong>Lepsza kompresja:</strong> Pliki PNG są zazwyczaj 50–90% mniejsze niż BMP.</li><li><strong>Wsparcie dla przezroczystości:</strong> PNG obsługuje przezroczystość alfa dla czystych krawędzi.</li><li><strong>Kompatybilność z siecią:</strong> Idealne do stron internetowych i udostępniania online.</li><li><strong>Uniwersalne wsparcie:</strong> Działa na wszystkich nowoczesnych urządzeniach i aplikacjach.</li><li><strong>Zachowanie jakości:</strong> Kompresja bezstratna zachowuje szczegóły.</li></ul>"
-    },
-    {
-      "title": "Jak konwertować BMP na PNG Online",
-      "description": "<p>Wystarczy kilka kroków:</p><ol><li>Kliknij <em>Prześlij BMP</em> i wybierz swój plik.</li><li>Poczekaj na przetwarzanie i optymalizację.</li><li>Kliknij <em>Pobierz PNG</em>, aby zapisać zoptymalizowany plik.</li></ol><p>Nie są wymagane umiejętności techniczne — kompresja jest automatycznie dostosowywana.</p>"
-    },
-    {
-      "title": "Porównanie BMP i PNG",
-      "description": "<ul><li><strong>Rozmiar pliku:</strong> PNG zazwyczaj 50–90% mniejsze niż BMP.</li><li><strong>Kompresja:</strong> PNG jest bezstratne; BMP jest zazwyczaj niekompresowane.</li><li><strong>Przezroczystość:</strong> PNG obsługuje przezroczystość; BMP zazwyczaj nie.</li><li><strong>Użycie w sieci:</strong> PNG jest przyjazne dla sieci; BMP nie jest zalecane.</li><li><strong>Jakość:</strong> Oba mogą być wysokiej jakości; PNG osiąga to przy mniejszym rozmiarze.</li></ul>"
-    },
-    {
-      "title": "Obsługiwane limity i formaty",
-      "description": "<ul><li><strong>Akceptowane wejście:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16 MB na plik</li><li><strong>Wyjście:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Poziom kompresji:</strong> 0–9 (domyślnie 6)</li></ul>"
-    },
-    {
-      "title": "Funkcje naszego konwertera BMP na PNG",
-      "description": "<ul><li>100% darmowe, bez znaków wodnych</li><li>Automatyczna optymalizacja kompresji</li><li>Zachowanie jakości (bezstratne PNG)</li><li>Bezpieczny, oparty na przeglądarce proces</li><li>Przyjazne dla urządzeń mobilnych (iOS, Android)</li></ul>"
-    },
-    {
-      "title": "Czym jest BMP?",
-      "description": "<p>BMP (Bitmap) to prosty format obrazu rastrowego, często niekompresowany — co skutkuje bardzo dużymi plikami. Jest kompatybilny, ale nieefektywny w sieci.</p>"
-    },
-    {
-      "title": "Czym jest PNG?",
-      "description": "<p>PNG (Portable Network Graphics) to bezstratny format rastrowy z obsługą przezroczystości, szeroko stosowany w UI, grafice, zrzutach ekranu i w sieci.</p>"
-    },
-    {
-      "title": "Rozwiązywanie problemów",
-      "description": "<ul><li><strong>Nieudane przesyłanie:</strong> Upewnij się, że plik jest BMP i ≤ 16 MB.</li><li><strong>PNG nadal duże:</strong> Spróbuj niższego poziomu kompresji lub użyj naszego <a href='/pl/edit/compress-image'>Kompresora obrazów</a>.</li><li><strong>Potrzebna przezroczystość:</strong> PNG obsługuje przezroczystość, ale jeśli Twój BMP ma jednolite tło, najpierw usuń je za pomocą <a href='/pl/effect/remove-background'>Usuwacza tła</a>.</li></ul>"
-    },
-    {
-      "title": "Przykłady użycia: Kiedy konwertować BMP na PNG",
-      "description": "<ul><li><strong>Przesyłanie do sieci</strong> z mniejszym rozmiarem.</li><li><strong>Grafika i logotypy</strong> wymagające przezroczystych teł.</li><li><strong>Optymalizacja przechowywania</strong> bez utraty jakości.</li><li><strong>Udostępnianie międzyplatformowe</strong> i archiwizacja.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jak konwertować BMP na PNG Online"
+
+      "description": "<p>Wystarczy kilka kroków:</p><ol><li>Kliknij <em>Prześlij BMP</em> i wybierz swój plik.</li><li>Poczekaj na przetwarzanie i optymalizację.</li><li>Kliknij <em>Pobierz PNG</em>, aby zapisać zoptymalizowany plik.</li></ol><p>Nie są wymagane umiejętności techniczne — kompresja jest automatycznie dostosowywana.</p>"
+
+    }
+    {
+      "title": "Porównanie BMP i PNG"
+
+      "description": "<ul><li><strong>Rozmiar pliku:</strong> PNG zazwyczaj 50–90% mniejsze niż BMP.</li><li><strong>Kompresja:</strong> PNG jest bezstratne; BMP jest zazwyczaj niekompresowane.</li><li><strong>Przezroczystość:</strong> PNG obsługuje przezroczystość; BMP zazwyczaj nie.</li><li><strong>Użycie w sieci:</strong> PNG jest przyjazne dla sieci; BMP nie jest zalecane.</li><li><strong>Jakość:</strong> Oba mogą być wysokiej jakości; PNG osiąga to przy mniejszym rozmiarze.</li></ul>"
+
+    }
+    {
+      "title": "Obsługiwane limity i formaty"
+
+      "description": "<ul><li><strong>Akceptowane wejście:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16 MB na plik</li><li><strong>Wyjście:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Poziom kompresji:</strong> 0–9 (domyślnie 6)</li></ul>"
+
+    }
+    {
+      "title": "Funkcje naszego konwertera BMP na PNG"
+
+      "description": "<ul><li>100% darmowe, bez znaków wodnych</li><li>Automatyczna optymalizacja kompresji</li><li>Zachowanie jakości (bezstratne PNG)</li><li>Bezpieczny, oparty na przeglądarce proces</li><li>Przyjazne dla urządzeń mobilnych (iOS, Android)</li></ul>"
+
+    }
+    {
+      "title": "Czym jest BMP?"
+
+      "description": "<p>BMP (Bitmap) to prosty format obrazu rastrowego, często niekompresowany — co skutkuje bardzo dużymi plikami. Jest kompatybilny, ale nieefektywny w sieci.</p>"
+
+    }
+    {
+      "title": "Czym jest PNG?"
+
+      "description": "<p>PNG (Portable Network Graphics) to bezstratny format rastrowy z obsługą przezroczystości, szeroko stosowany w UI, grafice, zrzutach ekranu i w sieci.</p>"
+
+    }
+    {
+      "title": "Rozwiązywanie problemów"
+
+      "description": "<ul><li><strong>Nieudane przesyłanie:</strong> Upewnij się, że plik jest BMP i ≤ 16 MB.</li><li><strong>PNG nadal duże:</strong> Spróbuj niższego poziomu kompresji lub użyj naszego <a href='/pl/edit/compress-image'>Kompresora obrazów</a>.</li><li><strong>Potrzebna przezroczystość:</strong> PNG obsługuje przezroczystość, ale jeśli Twój BMP ma jednolite tło, najpierw usuń je za pomocą <a href='/pl/effect/remove-background'>Usuwacza tła</a>.</li></ul>"
+
+    }
+    {
+      "title": "Przykłady użycia: Kiedy konwertować BMP na PNG"
+
+      "description": "<ul><li><strong>Przesyłanie do sieci</strong> z mniejszym rozmiarem.</li><li><strong>Grafika i logotypy</strong> wymagające przezroczystych teł.</li><li><strong>Optymalizacja przechowywania</strong> bez utraty jakości.</li><li><strong>Udostępnianie międzyplatformowe</strong> i archiwizacja.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Czy ten konwerter BMP na PNG jest darmowy?",
+      "question": "Czy ten konwerter BMP na PNG jest darmowy?"
+
       "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
-    },
-    {
-      "question": "Czy stracę jakość podczas konwersji BMP na PNG?",
-      "answer": "Nie. PNG używa kompresji bezstratnej, więc nie stracisz jakości podczas konwersji."
-    },
-    {
-      "question": "Jak dużo mniejszy będzie mój plik?",
-      "answer": "Pliki PNG są zazwyczaj 50–90% mniejsze niż BMP, zachowując tę samą jakość wizualną."
-    },
-    {
-      "question": "Jakie rozmiary plików są obsługiwane?",
-      "answer": "Możesz przesyłać obrazy do 16 MB na plik."
-    },
-    {
-      "question": "Czy moje pliki są bezpieczne?",
-      "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
-    },
-    {
-      "question": "Czy mogę konwertować wiele plików BMP jednocześnie?",
-      "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorczych powtórz proces lub użyj narzędzia wsadowego."
-    },
-    {
-      "question": "Kiedy powinienem używać PNG zamiast BMP?",
-      "answer": "Użyj PNG do użytku w sieci, mniejszych rozmiarów plików i gdy potrzebujesz przezroczystości. BMP jest głównie do pracy, która wymaga niekompresowanych obrazów."
+
     }
-  ],
-  "note": "Konwersja PNG znacznie zmniejszy rozmiar pliku przy zachowaniu jakości — idealna do sieci i udostępniania.",
+    {
+      "question": "Czy stracę jakość podczas konwersji BMP na PNG?"
+
+      "answer": "Nie. PNG używa kompresji bezstratnej, więc nie stracisz jakości podczas konwersji."
+
+    }
+    {
+      "question": "Jak dużo mniejszy będzie mój plik?"
+
+      "answer": "Pliki PNG są zazwyczaj 50–90% mniejsze niż BMP, zachowując tę samą jakość wizualną."
+
+    }
+    {
+      "question": "Jakie rozmiary plików są obsługiwane?"
+
+      "answer": "Możesz przesyłać obrazy do 16 MB na plik."
+
+    }
+    {
+      "question": "Czy moje pliki są bezpieczne?"
+
+      "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
+
+    }
+    {
+      "question": "Czy mogę konwertować wiele plików BMP jednocześnie?"
+
+      "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorczych powtórz proces lub użyj narzędzia wsadowego."
+
+    }
+    {
+      "question": "Kiedy powinienem używać PNG zamiast BMP?"
+
+      "answer": "Użyj PNG do użytku w sieci, mniejszych rozmiarów plików i gdy potrzebujesz przezroczystości. BMP jest głównie do pracy, która wymaga niekompresowanych obrazów."
+
+    }
+  ]
+  "note": "Konwersja PNG znacznie zmniejszy rozmiar pliku przy zachowaniu jakości — idealna do sieci i udostępniania."
+
   "related_links": [
     {
-      "title": "Konwertuj BMP na JPG",
+      "title": "Konwertuj BMP na JPG"
+
       "url": "/pl/convert/bmp-to-jpg"
-    },
-    {
-      "title": "Konwertuj JPG na PNG",
-      "url": "/pl/convert/jpg-to-png"
-    },
-    {
-      "title": "Konwertuj PNG na BMP",
-      "url": "/pl/convert/png-to-bmp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Wszelkie prawa zastrzeżone.",
+    {
+      "title": "Konwertuj JPG na PNG"
+
+      "url": "/pl/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Konwertuj PNG na BMP"
+
+      "url": "/pl/convert/png-to-bmp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Konwerter BMP na PNG - Darmowy i Online",
-      "url": "https://wikihowto.click/pl/convert/bmp-to-png",
-      "description": "Darmowe narzędzie online do konwersji obrazów BMP na PNG z kompresją bezstratną i wsparciem dla przezroczystości.",
-      "inLanguage": "pl",
-      "image": "https://wikihowto.click/images/bmp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Konwerter BMP na PNG - Darmowy i Online"
+
+      "url": "https://miconvert.com/pl/convert/bmp-to-png"
+
+      "description": "Darmowe narzędzie online do konwersji obrazów BMP na PNG z kompresją bezstratną i wsparciem dla przezroczystości."
+
+      "inLanguage": "pl"
+
+      "image": "https://miconvert.com/images/bmp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Strona główna",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Strona główna"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konwertuj",
-          "item": "https://wikihowto.click/pl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konwertuj"
+
+          "item": "https://miconvert.com/pl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "BMP na PNG",
-          "item": "https://wikihowto.click/pl/convert/bmp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "BMP na PNG"
+
+          "item": "https://miconvert.com/pl/convert/bmp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Konwerter BMP na PNG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/pl/convert/bmp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Konwerter BMP na PNG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/pl/convert/bmp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Bezstratne wyjście PNG",
-        "Wsparcie dla przezroczystości",
+        "Bezstratne wyjście PNG"
+
+        "Wsparcie dla przezroczystości"
+
         "Szybkie przetwarzanie w przeglądarce"
-      ],
-      "screenshot": "https://wikihowto.click/images/bmp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Czy ten konwerter BMP na PNG jest darmowy?",
+          "@type": "Question"
+
+          "name": "Czy ten konwerter BMP na PNG jest darmowy?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jak dużo mniejszy będzie mój plik?",
+          "@type": "Question"
+
+          "name": "Jak dużo mniejszy będzie mój plik?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pliki PNG są zazwyczaj 50–90% mniejsze niż BMP, zachowując tę samą jakość wizualną."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jakie rozmiary plików są obsługiwane?",
+          "@type": "Question"
+
+          "name": "Jakie rozmiary plików są obsługiwane?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Możesz przesyłać obrazy do 16 MB na plik."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jak konwertować BMP na PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jak konwertować BMP na PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknij Prześlij BMP i wybierz swój plik."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Poczekaj na zakończenie przetwarzania i optymalizacji."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknij Pobierz PNG, aby zapisać wynik."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Poczekaj na zakończenie przetwarzania i optymalizacji."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknij Pobierz PNG, aby zapisać wynik."
+
+        }
+      ]
       "tool": [
         "Konwerter BMP na PNG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

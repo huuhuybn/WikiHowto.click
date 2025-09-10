@@ -1,244 +1,368 @@
 {
-  "lang": "sw",
-  "lang_name": "Kiswahili",
-  "title": "Mbadala wa JPG hadi TIFF - Bure na Mtandaoni | WikiHowTo.click",
-  "sub_title": "Badilisha picha za JPG kuwa TIFF mtandaoni kwa chaguo za kubana bila kupoteza ubora na ubora wa kuchapisha. Hakuna alama za maji.",
-  "hint": "Pakua picha yako ya JPG ili kuanza kubadilisha...",
-  "btn_download": "Badilisha kuwa TIFF",
-  "btn_paste": "Pakia JPG",
-  "btn_clear": "Futa",
-  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "lang": "sw"
+
+  "lang_name": "Kiswahili"
+
+  "title": "Mbadala wa JPG hadi TIFF - Bure na Mtandaoni | miconvert.com"
+
+  "sub_title": "Badilisha picha za JPG kuwa TIFF mtandaoni kwa chaguo za kubana bila kupoteza ubora na ubora wa kuchapisha. Hakuna alama za maji."
+
+  "hint": "Pakua picha yako ya JPG ili kuanza kubadilisha..."
+
+  "btn_download": "Badilisha kuwa TIFF"
+
+  "btn_paste": "Pakia JPG"
+
+  "btn_clear": "Futa"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
   "head": {
-    "title": "Badilisha JPG kuwa TIFF - Mbadala wa JPG hadi TIFF Bure Mtandaoni",
-    "description": "Badilisha picha za JPG kuwa TIFF mtandaoni bure. Mbadala wa JPG hadi TIFF wa ubora wa juu na usindikaji wa haraka.",
-    "keywords": "jpg hadi tiff, badilisha jpg hadi tiff, bure jpg hadi tiff, mbadala wa tiff mtandaoni, ubadilishaji wa picha",
-    "canonical": "https://wikihowto.click/sw/convert/jpg-to-tiff",
-    "og_title": "Badilisha JPG kuwa TIFF - Mbadala wa JPG hadi TIFF Bure Mtandaoni",
-    "og_description": "Badilisha picha za JPG kuwa TIFF mtandaoni bure. Mbadala wa JPG hadi TIFF wa ubora wa juu na usindikaji wa haraka.",
-    "og_url": "https://wikihowto.click/sw/convert/jpg-to-tiff",
-    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Badilisha JPG kuwa TIFF - Mbadala wa JPG hadi TIFF Bure Mtandaoni",
-    "twitter_description": "Badilisha picha za JPG kuwa TIFF mtandaoni bure. Mbadala wa JPG hadi TIFF wa ubora wa juu na usindikaji wa haraka.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-  },
+    "title": "Badilisha JPG kuwa TIFF - Mbadala wa JPG hadi TIFF Bure Mtandaoni"
+
+    "description": "Badilisha picha za JPG kuwa TIFF mtandaoni bure. Mbadala wa JPG hadi TIFF wa ubora wa juu na usindikaji wa haraka."
+
+    "keywords": "jpg hadi tiff, badilisha jpg hadi tiff, bure jpg hadi tiff, mbadala wa tiff mtandaoni, ubadilishaji wa picha"
+
+    "canonical": "https://miconvert.com/sw/convert/jpg-to-tiff"
+
+    "og_title": "Badilisha JPG kuwa TIFF - Mbadala wa JPG hadi TIFF Bure Mtandaoni"
+
+    "og_description": "Badilisha picha za JPG kuwa TIFF mtandaoni bure. Mbadala wa JPG hadi TIFF wa ubora wa juu na usindikaji wa haraka."
+
+    "og_url": "https://miconvert.com/sw/convert/jpg-to-tiff"
+
+    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Badilisha JPG kuwa TIFF Mtandaoni",
+    "title": "Badilisha JPG kuwa TIFF Mtandaoni"
+
     "description": "Mbadala wa bure wa JPG hadi TIFF wenye chaguo za kubana bila kupoteza ubora na matokeo ya kuchapisha tayari. Inafanya kazi kwenye kifaa chochote - hakuna usajili unahitajika."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-tiff",
-    "title": "Mbadala wa JPG hadi TIFF",
-    "description": "Badilisha picha za JPG kuwa TIFF kwa kubana bila kupoteza (LZW/ZIP) na rangi sahihi.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "TIFF",
+    "type": "jpg-to-tiff"
+
+    "title": "Mbadala wa JPG hadi TIFF"
+
+    "description": "Badilisha picha za JPG kuwa TIFF kwa kubana bila kupoteza (LZW/ZIP) na rangi sahihi."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Chaguo la TIFF bila kupoteza (LZW/ZIP)",
-      "Ubora wa kuchapisha tayari",
-      "Rangi sahihi",
+      "Chaguo la TIFF bila kupoteza (LZW/ZIP)"
+
+      "Ubora wa kuchapisha tayari"
+
+      "Rangi sahihi"
+
       "Zana ya bure mtandaoni"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 24,
-        "dpi": 300,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 24
+        "dpi": 300
         "alpha": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Mbadala wa JPG hadi TIFF Umekamilika",
-    "back_button": "Rudi kwa Mbadala",
-    "convert_another": "Badilisha JPG Nyingine",
+    "title": "Mbadala wa JPG hadi TIFF Umekamilika"
+
+    "back_button": "Rudi kwa Mbadala"
+
+    "convert_another": "Badilisha JPG Nyingine"
+
     "quick_conversions": "Mabadiliko ya Haraka:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Kwa Nini Kubadilisha JPG kuwa TIFF?",
+      "title": "Kwa Nini Kubadilisha JPG kuwa TIFF?"
+
       "description": "<p>TIFF ni muundo wa kitaaluma, wa kuhifadhi picha unaotumiwa katika picha na uchapishaji:</p><ul><li><strong>Chaguzi zisizo na hasara:</strong> Hifadhi nakala safi bila kasoro mpya za JPEG.</li><li><strong>Vali ya kuchapisha:</strong> Inahifadhi maelezo kwa matokeo ya azimio la juu.</li><li><strong>Inayoweza kubadilika:</strong> Inasaidia channel ya alpha na nafasi nyingi za rangi (inategemea msomaji).</li><li><strong>Rafiki kwa mtiririko wa kazi:</strong> Imara kwa uhariri wa mara kwa mara na uhamisho.</li></ul><p><em>Kumbuka:</em> Kubadilisha kutoka JPG (isiyo na hasara) hakutarejesha maelezo yaliyopotea - lakini husaidia kuepuka kupungua zaidi katika akiba zijazo.</p>"
-    },
-    {
-      "title": "Jinsi ya Kubadilisha JPG kuwa TIFF Mtandaoni",
-      "description": "<ol><li>Bonyeza <em>Pakia JPG</em> na uchague picha yako.</li><li>Subiri usindikaji.</li><li>Bonyeza <em>Pakua TIFF</em> ili kuhifadhi faili.</li></ol><p>Chaguo la Kawaida: RGB ya bit 24, LZW isiyo na hasara, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF dhidi ya JPG: Tofauti Kuu",
-      "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kubana</td><td>Isiyo na hasara (JPEG)</td><td>Isiyo na hasara (LZW/ZIP) au JPEG/hakuna</td></tr><tr><td>Ukubwa wa faili</td><td>Ndogo</td><td>Kubwa (inategemea kubana)</td></tr><tr><td>Uwazi</td><td>Hapana</td><td>Alpha ya hiari (inategemea msomaji)</td></tr><tr><td>Inafaa kwa</td><td>Mtandao/ushiriki wa picha</td><td>Uhariri, uchapishaji, uhifadhi</td></tr></tbody></table>"
-    },
-    {
-      "title": "Mipaka na Mifumo Inayoungwa Mkono",
-      "description": "<ul><li><strong>Ingizo lililokubaliwa:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Chaguo za Kawaida:</strong> RGB ya bit 24, kubana LZW, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Kutatua Matatizo",
-      "description": "<ul><li><strong>Faili kubwa sana:</strong> TIFF ni nzito kwa muundo. Kwa isiyo na hasara ndogo, jaribu <a href='/sw/convert/jpg-to-png'>JPG hadi PNG</a>.</li><li><strong>Inahitaji uwazi:</strong> JPG ya chanzo haina alpha; badilisha na hariri alpha katika mhariri, au anza na PNG.</li><li><strong>Kuhamasisha rangi:</strong> Badilisha kuwa sRGB kabla ya kupakia kwa usawa wa mtandao.</li><li><strong>Pakia inashindwa:</strong> Hakikisha JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jinsi ya Kubadilisha JPG kuwa TIFF Mtandaoni"
+
+      "description": "<ol><li>Bonyeza <em>Pakia JPG</em> na uchague picha yako.</li><li>Subiri usindikaji.</li><li>Bonyeza <em>Pakua TIFF</em> ili kuhifadhi faili.</li></ol><p>Chaguo la Kawaida: RGB ya bit 24, LZW isiyo na hasara, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF dhidi ya JPG: Tofauti Kuu"
+
+      "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kubana</td><td>Isiyo na hasara (JPEG)</td><td>Isiyo na hasara (LZW/ZIP) au JPEG/hakuna</td></tr><tr><td>Ukubwa wa faili</td><td>Ndogo</td><td>Kubwa (inategemea kubana)</td></tr><tr><td>Uwazi</td><td>Hapana</td><td>Alpha ya hiari (inategemea msomaji)</td></tr><tr><td>Inafaa kwa</td><td>Mtandao/ushiriki wa picha</td><td>Uhariri, uchapishaji, uhifadhi</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Mipaka na Mifumo Inayoungwa Mkono"
+
+      "description": "<ul><li><strong>Ingizo lililokubaliwa:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Chaguo za Kawaida:</strong> RGB ya bit 24, kubana LZW, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Kutatua Matatizo"
+
+      "description": "<ul><li><strong>Faili kubwa sana:</strong> TIFF ni nzito kwa muundo. Kwa isiyo na hasara ndogo, jaribu <a href='/sw/convert/jpg-to-png'>JPG hadi PNG</a>.</li><li><strong>Inahitaji uwazi:</strong> JPG ya chanzo haina alpha; badilisha na hariri alpha katika mhariri, au anza na PNG.</li><li><strong>Kuhamasisha rangi:</strong> Badilisha kuwa sRGB kabla ya kupakia kwa usawa wa mtandao.</li><li><strong>Pakia inashindwa:</strong> Hakikisha JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je, mbadala huu wa JPG hadi TIFF ni bure?",
+      "question": "Je, mbadala huu wa JPG hadi TIFF ni bure?"
+
       "answer": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
-    },
-    {
-      "question": "Je, TIFF itafanya kazi kwenye programu zote?",
-      "answer": "TIFF inasaidiwa sana katika programu za kitaaluma (Photoshop, Affinity, zana nyingi za RIP/uchapishaji). Watazamaji wengine rahisi huenda wasisaidie chaguzi zote za kubana."
-    },
-    {
-      "question": "Faili za TIFF ni kubwa kiasi gani ikilinganishwa na JPG?",
-      "answer": "Kawaida ni kubwa mara 3–10 kuliko JPG yenye vipimo sawa (inategemea maudhui na kubana)."
-    },
-    {
-      "question": "Ni ukubwa gani wa faili unakubaliwa?",
-      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
-    },
-    {
-      "question": "Je, faili zangu ziko salama?",
-      "answer": "Faili zinashughulikiwa kiotomatiki na hazihifadhiwi kwa muda mrefu zaidi ya inavyohitajika kwa kubadilisha."
-    },
-    {
-      "question": "Je, naweza kubadilisha JPG nyingi kwa wakati mmoja?",
-      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia zana ya kundi."
-    },
-    {
-      "question": "Je, TIFF inasaidia tabaka?",
-      "answer": "TIFF ya kawaida ni picha tambarare; baadhi ya programu huandika data za tabaka za kibinafsi; zana hii inatoa TIFF tambarare."
+
     }
-  ],
-  "note": "TIFF inafaa kwa uhifadhi/uchapishaji lakini ina ukubwa mkubwa. Kwa mtandao, fikiria PNG/WebP/AVIF.",
+    {
+      "question": "Je, TIFF itafanya kazi kwenye programu zote?"
+
+      "answer": "TIFF inasaidiwa sana katika programu za kitaaluma (Photoshop, Affinity, zana nyingi za RIP/uchapishaji). Watazamaji wengine rahisi huenda wasisaidie chaguzi zote za kubana."
+
+    }
+    {
+      "question": "Faili za TIFF ni kubwa kiasi gani ikilinganishwa na JPG?"
+
+      "answer": "Kawaida ni kubwa mara 3–10 kuliko JPG yenye vipimo sawa (inategemea maudhui na kubana)."
+
+    }
+    {
+      "question": "Ni ukubwa gani wa faili unakubaliwa?"
+
+      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
+
+    }
+    {
+      "question": "Je, faili zangu ziko salama?"
+
+      "answer": "Faili zinashughulikiwa kiotomatiki na hazihifadhiwi kwa muda mrefu zaidi ya inavyohitajika kwa kubadilisha."
+
+    }
+    {
+      "question": "Je, naweza kubadilisha JPG nyingi kwa wakati mmoja?"
+
+      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia zana ya kundi."
+
+    }
+    {
+      "question": "Je, TIFF inasaidia tabaka?"
+
+      "answer": "TIFF ya kawaida ni picha tambarare; baadhi ya programu huandika data za tabaka za kibinafsi; zana hii inatoa TIFF tambarare."
+
+    }
+  ]
+  "note": "TIFF inafaa kwa uhifadhi/uchapishaji lakini ina ukubwa mkubwa. Kwa mtandao, fikiria PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Badilisha JPG hadi PNG",
+      "title": "Badilisha JPG hadi PNG"
+
       "url": "/sw/convert/jpg-to-png"
-    },
-    {
-      "title": "Badilisha JPG hadi WebP",
-      "url": "/sw/convert/jpg-to-webp"
-    },
-    {
-      "title": "Badilisha PNG hadi TIFF",
-      "url": "/sw/convert/png-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Haki zote zimehifadhiwa.",
+    {
+      "title": "Badilisha JPG hadi WebP"
+
+      "url": "/sw/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "Badilisha PNG hadi TIFF"
+
+      "url": "/sw/convert/png-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Mbadala wa JPG hadi TIFF - Bure na Mtandaoni",
-      "url": "https://wikihowto.click/sw/convert/jpg-to-tiff",
-      "description": "Zana ya bure mtandaoni kubadilisha picha za JPG kuwa TIFF kwa kubana bila kupoteza ubora na matokeo ya kuchapisha tayari.",
-      "inLanguage": "sw",
-      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Mbadala wa JPG hadi TIFF - Bure na Mtandaoni"
+
+      "url": "https://miconvert.com/sw/convert/jpg-to-tiff"
+
+      "description": "Zana ya bure mtandaoni kubadilisha picha za JPG kuwa TIFF kwa kubana bila kupoteza ubora na matokeo ya kuchapisha tayari."
+
+      "inLanguage": "sw"
+
+      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Nyumbani",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Nyumbani"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Badilisha",
-          "item": "https://wikihowto.click/sw/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Badilisha"
+
+          "item": "https://miconvert.com/sw/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG hadi TIFF",
-          "item": "https://wikihowto.click/sw/convert/jpg-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG hadi TIFF"
+
+          "item": "https://miconvert.com/sw/convert/jpg-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Mbadala wa JPG hadi TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Mtandao",
-      "url": "https://wikihowto.click/sw/convert/jpg-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Mbadala wa JPG hadi TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Mtandao"
+
+      "url": "https://miconvert.com/sw/convert/jpg-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Chaguo la LZW lisilo na hasara",
-        "Ubora wa kuchapisha 300 DPI",
+        "Chaguo la LZW lisilo na hasara"
+
+        "Ubora wa kuchapisha 300 DPI"
+
         "Rangi sahihi"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Je, mbadala huu wa JPG hadi TIFF ni bure?",
+          "@type": "Question"
+
+          "name": "Je, mbadala huu wa JPG hadi TIFF ni bure?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ni ukubwa gani wa faili unakubaliwa?",
+          "@type": "Question"
+
+          "name": "Ni ukubwa gani wa faili unakubaliwa?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Je, TIFF inasaidia tabaka?",
+          "@type": "Question"
+
+          "name": "Je, TIFF inasaidia tabaka?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "TIFF ya kawaida ni tambarare. Baadhi ya programu huhifadhi data za tabaka za kibinafsi; zana hii inatoa TIFF tambarare."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jinsi ya kubadilisha JPG kuwa TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jinsi ya kubadilisha JPG kuwa TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Bonyeza Pakia JPG na uchague picha yako."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Subiri usindikaji ukamilike."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bonyeza Pakua TIFF ili kuhifadhi faili."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Subiri usindikaji ukamilike."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Bonyeza Pakua TIFF ili kuhifadhi faili."
+
+        }
+      ]
       "tool": [
         "Mbadala wa JPG hadi TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

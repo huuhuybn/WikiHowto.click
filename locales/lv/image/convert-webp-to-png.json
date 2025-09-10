@@ -1,237 +1,355 @@
 {
-  "lang": "lv",
-  "lang_name": "Latviešu",
-  "title": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē | WikiHowTo.click",
-  "sub_title": "Konvertējiet WebP attēlus uz PNG formātu tiešsaistē ar caurspīdīguma atbalstu, bezzaudējumu kvalitāti un bez ūdenszīmēm.",
-  "hint": "Augšupielādējiet savu WebP attēlu, lai sāktu konvertēšanu...",
-  "btn_download": "Konvertēt uz PNG",
-  "btn_paste": "Augšupielādēt WebP",
-  "btn_clear": "Notīrīt",
-  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "lang": "lv"
+
+  "lang_name": "Latviešu"
+
+  "title": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
+
+  "sub_title": "Konvertējiet WebP attēlus uz PNG formātu tiešsaistē ar caurspīdīguma atbalstu, bezzaudējumu kvalitāti un bez ūdenszīmēm."
+
+  "hint": "Augšupielādējiet savu WebP attēlu, lai sāktu konvertēšanu..."
+
+  "btn_download": "Konvertēt uz PNG"
+
+  "btn_paste": "Augšupielādēt WebP"
+
+  "btn_clear": "Notīrīt"
+
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
+
   "converter": {
-    "type": "webp-to-png",
-    "inputFormat": "WebP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-png"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Vai jums ir nepieciešams <strong>konvertēt WebP uz PNG</strong>? Šis bezmaksas tiešsaistes rīks pārvērš mūsdienu WebP failus augstas kvalitātes PNG, saglabājot <strong>caurspīdīgumu (alfa)</strong>. PNG izmanto bezzaudējumu kompresiju un ir plaši atbalstīts visās lietotnēs un platformās—ideāli piemērots logotipiem, UI elementiem un dokumentiem.</p><p><em>Piezīmes:</em> JPG neatbalsta caurspīdīgumu (PNG atbalsta). Ja jūsu WebP ir animēts, tikai <strong>pirmais kadrs</strong> tiks konvertēts uz statisku PNG. Krāsas tiek konvertētas uz sRGB tīmekļa konsekvences nodrošināšanai.</p>",
+  }
+  "description": "<p>Vai jums ir nepieciešams <strong>konvertēt WebP uz PNG</strong>? Šis bezmaksas tiešsaistes rīks pārvērš mūsdienu WebP failus augstas kvalitātes PNG, saglabājot <strong>caurspīdīgumu (alfa)</strong>. PNG izmanto bezzaudējumu kompresiju un ir plaši atbalstīts visās lietotnēs un platformās—ideāli piemērots logotipiem, UI elementiem un dokumentiem.</p><p><em>Piezīmes:</em> JPG neatbalsta caurspīdīgumu (PNG atbalsta). Ja jūsu WebP ir animēts, tikai <strong>pirmais kadrs</strong> tiks konvertēts uz statisku PNG. Krāsas tiek konvertētas uz sRGB tīmekļa konsekvences nodrošināšanai.</p>"
+
   "head": {
-    "title": "Konvertēt WebP uz PNG Tiešsaistē - Bezmaksas WebP uz PNG Konvertētājs | WikiHowTo.click",
-    "description": "Konvertējiet WebP uz PNG tiešsaistē ar caurspīdīguma atbalstu, bezzaudējumu kvalitāti un bez ūdenszīmēm. Bezmaksas, ātrs un drošs WebP uz PNG konvertētājs.",
-    "keywords": "webp uz png, konvertēt webp uz png, bezmaksas webp uz png, tiešsaistes webp konvertētājs, mainīt webp uz png, webp attēls uz png",
-    "canonical": "https://wikihowto.click/lv/convert/webp-to-png",
-    "og_title": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē",
-    "og_description": "Konvertējiet WebP attēlus PNG formātā ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti. 100% bezmaksas, ātrs un drošs.",
-    "og_url": "https://wikihowto.click/lv/convert/webp-to-png",
-    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Bezmaksas WebP uz PNG Konvertētājs Tiešsaistē",
-    "twitter_description": "Konvertējiet WebP uz PNG ar caurspīdīguma atbalstu, bezzaudējumu kvalitāti un bez ūdenszīmēm. Darbojas visās ierīcēs.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
-  },
+    "title": "Konvertēt WebP uz PNG Tiešsaistē - Bezmaksas WebP uz PNG Konvertētājs | miconvert.com"
+
+    "description": "Konvertējiet WebP uz PNG tiešsaistē ar caurspīdīguma atbalstu, bezzaudējumu kvalitāti un bez ūdenszīmēm. Bezmaksas, ātrs un drošs WebP uz PNG konvertētājs."
+
+    "keywords": "webp uz png, konvertēt webp uz png, bezmaksas webp uz png, tiešsaistes webp konvertētājs, mainīt webp uz png, webp attēls uz png"
+
+    "canonical": "https://miconvert.com/lv/convert/webp-to-png"
+
+    "og_title": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē"
+
+    "og_description": "Konvertējiet WebP attēlus PNG formātā ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti. 100% bezmaksas, ātrs un drošs."
+
+    "og_url": "https://miconvert.com/lv/convert/webp-to-png"
+
+    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konvertēt WebP uz PNG Tiešsaistē",
+    "title": "Konvertēt WebP uz PNG Tiešsaistē"
+
     "description": "Bezmaksas un ātrs WebP uz PNG konvertētājs ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti. Darbojas nekavējoties jebkurā ierīcē, reģistrācija nav nepieciešama."
-  },
+
+  }
   "h2": [
     {
-      "title": "Kāpēc konvertēt WebP uz PNG?",
+      "title": "Kāpēc konvertēt WebP uz PNG?"
+
       "description": "<p>WebP ir efektīvs tīmeklim, bet PNG piedāvā maksimālu saderību un bezzaudējumu izeju:</p><ul><li><strong>Universāla saderība:</strong> Darbojas visās Windows, macOS, Linux, iOS un Android platformās.</li><li><strong>Caurspīdīgums:</strong> Ideāli piemērots logotipiem, ikonām un UI grafikām.</li><li><strong>Rediģēšana un dizains:</strong> Priekšroka Photoshop, Illustrator, Figma un citiem.</li><li><strong>Dokumenti:</strong> Ievietojiet PNG Word, PowerPoint un PDF dokumentos bez pārsteigumiem.</li></ul>"
-    },
-    {
-      "title": "Kā konvertēt WebP uz PNG Tiešsaistē",
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt WebP</em> un izvēlieties savu failu.</li><li>Uzgaidiet īsu brīdi, kamēr mēs to droši apstrādājam.</li><li>Noklikšķiniet uz <em>Lejupielādēt PNG</em>, lai saglabātu savu attēlu.</li></ol><p>Šī lapa konvertē <strong>vienu failu vienlaicīgi</strong>, lai nodrošinātu uzticamību un ātrumu.</p>"
-    },
-    {
-      "title": "WebP pret PNG Salīdzinājums",
-      "description": "<ul><li><strong>Faila izmērs:</strong> WebP parasti ir 30–50% mazāks; PNG ir lielāks, bet bezzaudējumu.</li><li><strong>Caurspīdīgums:</strong> Abi atbalsta alfa; PNG ir profesionālais standarts.</li><li><strong>Rediģēšana:</strong> PNG labi integrējas ar lielāko daļu dizaina rīku.</li><li><strong>Izmantošanas gadījums:</strong> WebP tīmekļa vietnēm; PNG lietotnēm, dokumentiem un dizaina darba plūsmām.</li></ul>"
-    },
-    {
-      "title": "Atbalstītie ierobežojumi un formāti",
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimālais faila izmērs:</strong> 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animācija:</strong> Tikai pirmais kadrs</li></ul>"
-    },
-    {
-      "title": "Problēmu novēršana",
-      "description": "<ul><li><strong>Vēl joprojām pārāk liels?</strong> Izmantojiet <a href='/lv/edit/compress-image'>PNG kompresoru</a> vai mainiet izmēru pirms konvertēšanas.</li><li><strong>Krāsas izskatās nepareizi:</strong> Izvade tiek konvertēta uz sRGB, lai nodrošinātu konsekventu attēlošanu.</li><li><strong>Augšupielāde neizdevās:</strong> Pārliecinieties, ka fails ir <code>image/webp</code> un ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Saistītie rīki, kas jums var būt nepieciešami",
-      "description": "<ul><li><a href='/lv/convert/png-to-webp'>PNG uz WebP Konvertētājs</a> – samaziniet faila izmēru ātrākām vietnēm</li><li><a href='/lv/edit/compress-image'>PNG Kompresors</a> – samaziniet PNG izmēru ar kvalitātes kontroli</li><li><a href='/lv/effect/remove-background'>Noņemt fona</a> – ātri padariet PNG caurspīdīgu</li><li><a href='/lv/convert/jpg-to-png'>JPG uz PNG Konvertētājs</a> – mainiet citus formātus uz PNG</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kā konvertēt WebP uz PNG Tiešsaistē"
+
+      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt WebP</em> un izvēlieties savu failu.</li><li>Uzgaidiet īsu brīdi, kamēr mēs to droši apstrādājam.</li><li>Noklikšķiniet uz <em>Lejupielādēt PNG</em>, lai saglabātu savu attēlu.</li></ol><p>Šī lapa konvertē <strong>vienu failu vienlaicīgi</strong>, lai nodrošinātu uzticamību un ātrumu.</p>"
+
+    }
+    {
+      "title": "WebP pret PNG Salīdzinājums"
+
+      "description": "<ul><li><strong>Faila izmērs:</strong> WebP parasti ir 30–50% mazāks; PNG ir lielāks, bet bezzaudējumu.</li><li><strong>Caurspīdīgums:</strong> Abi atbalsta alfa; PNG ir profesionālais standarts.</li><li><strong>Rediģēšana:</strong> PNG labi integrējas ar lielāko daļu dizaina rīku.</li><li><strong>Izmantošanas gadījums:</strong> WebP tīmekļa vietnēm; PNG lietotnēm, dokumentiem un dizaina darba plūsmām.</li></ul>"
+
+    }
+    {
+      "title": "Atbalstītie ierobežojumi un formāti"
+
+      "description": "<ul><li><strong>Pieņemti ievadi:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimālais faila izmērs:</strong> 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animācija:</strong> Tikai pirmais kadrs</li></ul>"
+
+    }
+    {
+      "title": "Problēmu novēršana"
+
+      "description": "<ul><li><strong>Vēl joprojām pārāk liels?</strong> Izmantojiet <a href='/lv/edit/compress-image'>PNG kompresoru</a> vai mainiet izmēru pirms konvertēšanas.</li><li><strong>Krāsas izskatās nepareizi:</strong> Izvade tiek konvertēta uz sRGB, lai nodrošinātu konsekventu attēlošanu.</li><li><strong>Augšupielāde neizdevās:</strong> Pārliecinieties, ka fails ir <code>image/webp</code> un ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Saistītie rīki, kas jums var būt nepieciešami"
+
+      "description": "<ul><li><a href='/lv/convert/png-to-webp'>PNG uz WebP Konvertētājs</a> – samaziniet faila izmēru ātrākām vietnēm</li><li><a href='/lv/edit/compress-image'>PNG Kompresors</a> – samaziniet PNG izmēru ar kvalitātes kontroli</li><li><a href='/lv/effect/remove-background'>Noņemt fona</a> – ātri padariet PNG caurspīdīgu</li><li><a href='/lv/convert/jpg-to-png'>JPG uz PNG Konvertētājs</a> – mainiet citus formātus uz PNG</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Vai šis WebP uz PNG konvertētājs ir bezmaksas?",
+      "question": "Vai šis WebP uz PNG konvertētājs ir bezmaksas?"
+
       "answer": "Jā, tas ir pilnīgi bezmaksas, bez ūdenszīmēm vai slēptām maksām."
-    },
-    {
-      "question": "Vai caurspīdīgums tiks saglabāts?",
-      "answer": "Jā. PNG pilnībā atbalsta alfa caurspīdīgumu, un mēs to saglabājam."
-    },
-    {
-      "question": "Vai konvertēšana samazina kvalitāti?",
-      "answer": "Nē. PNG izmanto bezzaudējumu kompresiju, tāpēc jūs saglabājat oriģinālo vizuālo detaļu."
-    },
-    {
-      "question": "Vai jūs atbalstāt animētu WebP?",
-      "answer": "Animētais WebP tiek konvertēts uz statisku PNG, izmantojot pirmo kadru."
-    },
-    {
-      "question": "Kāds ir maksimālais faila izmērs?",
-      "answer": "Līdz 16 MB uz failu."
-    },
-    {
-      "question": "Vai es varu konvertēt vairākus failus vienlaicīgi?",
-      "answer": "Šī lapa konvertē vienu failu vienlaicīgi stabilitātes nodrošināšanai. Atkārtojiet procesu papildu attēliem."
-    },
-    {
-      "question": "Vai mani faili ir droši?",
-      "answer": "Jā. Augšupielādes tiek šifrētas, apstrādātas drošos serveros un automātiski dzēstas pēc konvertēšanas."
+
     }
-  ],
-  "note": "PNG faili var būt lielāki par WebP dēļ bezzaudējumu kompresijas—tas ir normāli un saglabā maksimālo kvalitāti.",
+    {
+      "question": "Vai caurspīdīgums tiks saglabāts?"
+
+      "answer": "Jā. PNG pilnībā atbalsta alfa caurspīdīgumu, un mēs to saglabājam."
+
+    }
+    {
+      "question": "Vai konvertēšana samazina kvalitāti?"
+
+      "answer": "Nē. PNG izmanto bezzaudējumu kompresiju, tāpēc jūs saglabājat oriģinālo vizuālo detaļu."
+
+    }
+    {
+      "question": "Vai jūs atbalstāt animētu WebP?"
+
+      "answer": "Animētais WebP tiek konvertēts uz statisku PNG, izmantojot pirmo kadru."
+
+    }
+    {
+      "question": "Kāds ir maksimālais faila izmērs?"
+
+      "answer": "Līdz 16 MB uz failu."
+
+    }
+    {
+      "question": "Vai es varu konvertēt vairākus failus vienlaicīgi?"
+
+      "answer": "Šī lapa konvertē vienu failu vienlaicīgi stabilitātes nodrošināšanai. Atkārtojiet procesu papildu attēliem."
+
+    }
+    {
+      "question": "Vai mani faili ir droši?"
+
+      "answer": "Jā. Augšupielādes tiek šifrētas, apstrādātas drošos serveros un automātiski dzēstas pēc konvertēšanas."
+
+    }
+  ]
+  "note": "PNG faili var būt lielāki par WebP dēļ bezzaudējumu kompresijas—tas ir normāli un saglabā maksimālo kvalitāti."
+
   "related_links": [
     {
-      "title": "Konvertēt WebP uz JPG",
+      "title": "Konvertēt WebP uz JPG"
+
       "url": "/lv/convert/webp-to-jpg"
-    },
-    {
-      "title": "Konvertēt WebP uz AVIF",
-      "url": "/lv/convert/webp-to-avif"
-    },
-    {
-      "title": "Konvertēt PNG uz WebP",
-      "url": "/lv/convert/png-to-webp"
-    },
-    {
-      "title": "Kompresēt PNG Tiešsaistē",
-      "url": "/lv/edit/compress-image"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Visas tiesības aizsargātas.",
+    {
+      "title": "Konvertēt WebP uz AVIF"
+
+      "url": "/lv/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Konvertēt PNG uz WebP"
+
+      "url": "/lv/convert/png-to-webp"
+
+    }
+    {
+      "title": "Kompresēt PNG Tiešsaistē"
+
+      "url": "/lv/edit/compress-image"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē",
-      "url": "https://wikihowto.click/lv/convert/webp-to-png",
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu WebP attēlus uz PNG ar saglabātu caurspīdīgumu.",
-      "inLanguage": "lv",
-      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP uz PNG Konvertētājs - Bezmaksas un Tiešsaistē"
+
+      "url": "https://miconvert.com/lv/convert/webp-to-png"
+
+      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu WebP attēlus uz PNG ar saglabātu caurspīdīgumu."
+
+      "inLanguage": "lv"
+
+      "image": "https://miconvert.com/images/webp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Sākums",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Sākums"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertēt",
-          "item": "https://wikihowto.click/lv/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertēt"
+
+          "item": "https://miconvert.com/lv/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP uz PNG",
-          "item": "https://wikihowto.click/lv/convert/webp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP uz PNG"
+
+          "item": "https://miconvert.com/lv/convert/webp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP uz PNG Konvertētājs",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/lv/convert/webp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP uz PNG Konvertētājs"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/lv/convert/webp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Caurspīdīgums saglabāts",
-        "Bezzaudējumu izeja",
+        "Caurspīdīgums saglabāts"
+
+        "Bezzaudējumu izeja"
+
         "Ātra apstrāde"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Vai caurspīdīgums tiks saglabāts?",
+          "@type": "Question"
+
+          "name": "Vai caurspīdīgums tiks saglabāts?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jā, PNG pilnībā atbalsta alfa caurspīdīgumu, un konvertētājs to saglabā."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vai jūs atbalstāt animētu WebP?",
+          "@type": "Question"
+
+          "name": "Vai jūs atbalstāt animētu WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animētais WebP tiek konvertēts kā statisks PNG, izmantojot pirmo kadru."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kāds ir maksimālais faila izmērs?",
+          "@type": "Question"
+
+          "name": "Kāds ir maksimālais faila izmērs?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Līdz 16 MB uz failu."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kā konvertēt WebP uz PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kā konvertēt WebP uz PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Noklikšķiniet uz Augšupielādēt WebP un izvēlieties savu failu."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uzgaidiet, kamēr droša apstrāde pabeigsies."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Noklikšķiniet uz Lejupielādēt PNG, lai saglabātu savu attēlu."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Uzgaidiet, kamēr droša apstrāde pabeigsies."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Noklikšķiniet uz Lejupielādēt PNG, lai saglabātu savu attēlu."
+
+        }
+      ]
       "tool": [
         "WebP uz PNG Konvertētājs"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

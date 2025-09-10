@@ -7,17 +7,12 @@
 <title><%= (content.head && content.head.title) ? content.head.title : content.title %></title>
 <meta itemprop="name" content="<%= (content.head && content.head.title) ? content.head.title : content.title %>">
 <meta name="description" content="<%= (content.head && content.head.description) ? content.head.description : (content.description || '') %>">
-<meta itemprop="image" content="<%= (content.head && (content.head.og_image || content.head.twitter_image)) ? (content.head.og_image || content.head.twitter_image) : (content.ogImage || 'https://snapsave.social/images/snapsave.jpg') %>">
 <% if (content.head && content.head.canonical) { %>
 <link rel="canonical" href="<%= content.head.canonical %>">
 <% } %>
-<meta name="twitter:card" content="<%= (content.head && content.head.twitter_card) ? content.head.twitter_card : 'summary' %>">
-<meta name="twitter:title" content="<%= (content.head && content.head.twitter_title) ? content.head.twitter_title : ((content.head && content.head.title) ? content.head.title : content.title) %>">
-<meta name="twitter:description" content="<%= (content.head && content.head.twitter_description) ? content.head.twitter_description : ((content.head && content.head.description) ? content.head.description : (content.description || '')) %>">
-<meta name="twitter:image:src" content="<%= (content.head && (content.head.twitter_image || content.head.og_image)) ? (content.head.twitter_image || content.head.og_image) : (content.ogImage || 'https://snapsave.social/images/snapsave.jpg') %>">
 <meta property="og:title" content="<%= (content.head && content.head.og_title) ? content.head.og_title : ((content.head && content.head.title) ? content.head.title : content.title) %>">
 <meta property="og:type" content="article">
-<meta property="og:image" content="<%= (content.head && content.head.og_image) ? content.head.og_image : (content.ogImage || 'https://snapsave.social/images/snapsave.jpg') %>">
+<meta property="og:image" content="<%= (content.head && content.head.og_image) ? content.head.og_image : (content.ogImage || 'https://miconvert.com/images/miconvert.jpg') %>">
 <meta property="og:description" content="<%= (content.head && content.head.og_description) ? content.head.og_description : ((content.head && content.head.description) ? content.head.description : (content.description || '')) %>">
 <meta property="og:site_name" content="<%= (content.head && content.head.title) ? content.head.title : content.title %>">
 <link rel="apple-touch-icon" sizes="192x192" href="favicons/img-icon_x192.png">

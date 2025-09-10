@@ -1,244 +1,368 @@
 {
-  "lang": "sl",
-  "lang_name": "Slovenščina",
-  "title": "Pretvornik PNG v TIFF - Brezplačno in Spletno | WikiHowTo.click",
-  "sub_title": "Pretvorite PNG slike v TIFF spletu z brezizgubnimi možnostmi, kakovostjo pripravljeno za tisk in ohranjeno prosojnostjo. Brez vodnih znakov.",
-  "hint": "Naložite svojo PNG sliko, da začnete s pretvorbo...",
-  "btn_download": "Pretvori v TIFF",
-  "btn_paste": "Naloži PNG",
-  "btn_clear": "Počisti",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "sl"
+
+  "lang_name": "Slovenščina"
+
+  "title": "Pretvornik PNG v TIFF - Brezplačno in Spletno | miconvert.com"
+
+  "sub_title": "Pretvorite PNG slike v TIFF spletu z brezizgubnimi možnostmi, kakovostjo pripravljeno za tisk in ohranjeno prosojnostjo. Brez vodnih znakov."
+
+  "hint": "Naložite svojo PNG sliko, da začnete s pretvorbo..."
+
+  "btn_download": "Pretvori v TIFF"
+
+  "btn_paste": "Naloži PNG"
+
+  "btn_clear": "Počisti"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "Pretvorite PNG v TIFF - Brezplačen Spletni Pretvornik PNG v TIFF | WikiHowTo.click",
-    "description": "Pretvorite PNG slike v TIFF format spletu brezplačno. Visokokakovostna pretvorba PNG v TIFF z brezizgubnimi možnostmi in hitro obdelavo.",
-    "keywords": "png v tiff, pretvori png v tiff, brezplačen png v tiff, spletni tiff pretvornik, pretvorba slik",
-    "canonical": "https://wikihowto.click/sl/convert/png-to-tiff",
-    "og_title": "Pretvorite PNG v TIFF - Brezplačen Spletni Pretvornik PNG v TIFF",
-    "og_description": "Pretvorite PNG slike v TIFF z brezizgubnimi možnostmi kompresije in ohranjeno prosojnostjo. Brezplačno, hitro in varno.",
-    "og_url": "https://wikihowto.click/sl/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Brezplačen Spletni Pretvornik PNG v TIFF",
-    "twitter_description": "Pretvorite PNG v TIFF z brezizgubnimi možnostmi, prosojnostjo in kakovostjo pripravljeno za tisk.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "Pretvorite PNG v TIFF - Brezplačen Spletni Pretvornik PNG v TIFF | miconvert.com"
+
+    "description": "Pretvorite PNG slike v TIFF format spletu brezplačno. Visokokakovostna pretvorba PNG v TIFF z brezizgubnimi možnostmi in hitro obdelavo."
+
+    "keywords": "png v tiff, pretvori png v tiff, brezplačen png v tiff, spletni tiff pretvornik, pretvorba slik"
+
+    "canonical": "https://miconvert.com/sl/convert/png-to-tiff"
+
+    "og_title": "Pretvorite PNG v TIFF - Brezplačen Spletni Pretvornik PNG v TIFF"
+
+    "og_description": "Pretvorite PNG slike v TIFF z brezizgubnimi možnostmi kompresije in ohranjeno prosojnostjo. Brezplačno, hitro in varno."
+
+    "og_url": "https://miconvert.com/sl/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Pretvorite PNG v TIFF Spletno",
+    "title": "Pretvorite PNG v TIFF Spletno"
+
     "description": "Brezplačen pretvornik PNG v TIFF z brezizgubnimi možnostmi kompresije in kakovostjo pripravljeno za tisk. Deluje na vseh napravah — brez registracije."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "Pretvornik PNG v TIFF",
-    "description": "Pretvorite PNG slike v TIFF z LZW/ZIP brezizgubno kompresijo ob ohranjanju alfa prosojnosti.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "Pretvornik PNG v TIFF"
+
+    "description": "Pretvorite PNG slike v TIFF z LZW/ZIP brezizgubno kompresijo ob ohranjanju alfa prosojnosti."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Brezizgubna TIFF (LZW/ZIP) možnost",
-      "Ohranja prosojnost (alfa)",
-      "Kakovost pripravljena za tisk",
+      "Brezizgubna TIFF (LZW/ZIP) možnost"
+
+      "Ohranja prosojnost (alfa)"
+
+      "Kakovost pripravljena za tisk"
+
       "Brezplačno spletno orodje"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Pretvorba PNG v TIFF Končana",
-    "back_button": "Nazaj na Pretvornik",
-    "convert_another": "Pretvori Drugi PNG",
+    "title": "Pretvorba PNG v TIFF Končana"
+
+    "back_button": "Nazaj na Pretvornik"
+
+    "convert_another": "Pretvori Drugi PNG"
+
     "quick_conversions": "Hitre Pretvorbe:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Zakaj Pretvoriti PNG v TIFF?",
+      "title": "Zakaj Pretvoriti PNG v TIFF?"
+
       "description": "<p>TIFF je profesionalen, arhivski format, ki se uporablja pri slikanju in tisku:</p><ul><li><strong>Brezizgubne možnosti:</strong> Ohranite čisto izvirno sliko brez uvajanja novih artefaktov.</li><li><strong>Kakovost pripravljena za tisk:</strong> Odlično za izhod visoke ločljivosti in predtiskovne delovne tokove.</li><li><strong>Podpora za alfa:</strong> Lahko ohrani prosojnost (odvisno od bralnika).</li><li><strong>Prijazno za urejanje:</strong> Stabilno za ponavljajoče se shranjevanje in predajo.</li></ul>"
-    },
-    {
-      "title": "Kako Pretvoriti PNG v TIFF Spletno",
-      "description": "<ol><li>Kliknite <em>Naloži PNG</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo.</li><li>Kliknite <em>Prenesi TIFF</em>, da shranite rezultat.</li></ol><p>Privzeti izhod: 32-bitni RGBA, LZW brezizgubno, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF proti PNG: Ključne Razlike",
-      "description": "<ul><li><strong>Kompresija:</strong> PNG uporablja brezizgubno DEFLATE; TIFF podpira LZW/ZIP (brezizgubno) ali druge.</li><li><strong>Velikost datoteke:</strong> Odvisno od vsebine slike; TIFF je lahko večji ali podoben PNG.</li><li><strong>Prosojnost:</strong> Obe lahko vključujeta alfa (podpora za gledalce se lahko razlikuje za TIFF).</li><li><strong>Najboljše za:</strong> PNG za spletno dostavo; TIFF za urejanje, tisk in arhiviranje.</li></ul>"
-    },
-    {
-      "title": "Podprte Omejitve in Formati",
-      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> PNG (<code>image/png</code>)</li><li><strong>Največja velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Privzeti:</strong> 32-bitni RGBA, LZW kompresija, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Odpravljanje Težav",
-      "description": "<ul><li><strong>Datoteka je prevelika:</strong> TIFF je težji za nekatere vsebine — obdržite PNG za splet ali razmislite o WebP/AVIF.</li><li><strong>Alfa ni vidna:</strong> Nekateri gledalci ignorirajo TIFF alfa; preverite v profesionalnem urejevalniku.</li><li><strong>Barvni premik:</strong> Pretvorite v sRGB pred nalaganjem za dosledno barvo na zaslonu.</li><li><strong>Nalaganje ne uspe:</strong> Poskrbite, da je PNG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kako Pretvoriti PNG v TIFF Spletno"
+
+      "description": "<ol><li>Kliknite <em>Naloži PNG</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo.</li><li>Kliknite <em>Prenesi TIFF</em>, da shranite rezultat.</li></ol><p>Privzeti izhod: 32-bitni RGBA, LZW brezizgubno, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF proti PNG: Ključne Razlike"
+
+      "description": "<ul><li><strong>Kompresija:</strong> PNG uporablja brezizgubno DEFLATE; TIFF podpira LZW/ZIP (brezizgubno) ali druge.</li><li><strong>Velikost datoteke:</strong> Odvisno od vsebine slike; TIFF je lahko večji ali podoben PNG.</li><li><strong>Prosojnost:</strong> Obe lahko vključujeta alfa (podpora za gledalce se lahko razlikuje za TIFF).</li><li><strong>Najboljše za:</strong> PNG za spletno dostavo; TIFF za urejanje, tisk in arhiviranje.</li></ul>"
+
+    }
+    {
+      "title": "Podprte Omejitve in Formati"
+
+      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> PNG (<code>image/png</code>)</li><li><strong>Največja velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Privzeti:</strong> 32-bitni RGBA, LZW kompresija, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Odpravljanje Težav"
+
+      "description": "<ul><li><strong>Datoteka je prevelika:</strong> TIFF je težji za nekatere vsebine — obdržite PNG za splet ali razmislite o WebP/AVIF.</li><li><strong>Alfa ni vidna:</strong> Nekateri gledalci ignorirajo TIFF alfa; preverite v profesionalnem urejevalniku.</li><li><strong>Barvni premik:</strong> Pretvorite v sRGB pred nalaganjem za dosledno barvo na zaslonu.</li><li><strong>Nalaganje ne uspe:</strong> Poskrbite, da je PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ali je ta pretvornik PNG v TIFF brezplačen?",
+      "question": "Ali je ta pretvornik PNG v TIFF brezplačen?"
+
       "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
-    },
-    {
-      "question": "Ali bo TIFF deloval v vseh aplikacijah?",
-      "answer": "TIFF je široko podprt v profesionalnih aplikacijah (Photoshop, Affinity, mnogih RIP/tiskalnih orodjih). Nekateri preprosti gledalci morda ne bodo prikazali alfa ali določenih metod kompresije."
-    },
-    {
-      "question": "Kako velike so TIFF datoteke v primerjavi s PNG?",
-      "answer": "To se razlikuje glede na sliko. Z LZW/ZIP je TIFF lahko podoben ali večji od PNG, odvisno od vsebine."
-    },
-    {
-      "question": "Katere velikosti datotek so podprte?",
-      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
-    },
-    {
-      "question": "Ali so moje datoteke varne?",
-      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
-    },
-    {
-      "question": "Ali lahko hkrati pretvorim več PNG-jev?",
-      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
-    },
-    {
-      "question": "Ali TIFF podpira plasti?",
-      "answer": "Standardni TIFF je raven. Nekatere aplikacije vključujejo zasebne podatke o plasteh, vendar to orodje izhodno ustvari raven TIFF."
+
     }
-  ],
-  "note": "TIFF je primeren za shranjevanje/tiskanje, vendar je lahko težak. Za splet razmislite o PNG/WebP/AVIF.",
+    {
+      "question": "Ali bo TIFF deloval v vseh aplikacijah?"
+
+      "answer": "TIFF je široko podprt v profesionalnih aplikacijah (Photoshop, Affinity, mnogih RIP/tiskalnih orodjih). Nekateri preprosti gledalci morda ne bodo prikazali alfa ali določenih metod kompresije."
+
+    }
+    {
+      "question": "Kako velike so TIFF datoteke v primerjavi s PNG?"
+
+      "answer": "To se razlikuje glede na sliko. Z LZW/ZIP je TIFF lahko podoben ali večji od PNG, odvisno od vsebine."
+
+    }
+    {
+      "question": "Katere velikosti datotek so podprte?"
+
+      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+
+    }
+    {
+      "question": "Ali so moje datoteke varne?"
+
+      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
+
+    }
+    {
+      "question": "Ali lahko hkrati pretvorim več PNG-jev?"
+
+      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+
+    }
+    {
+      "question": "Ali TIFF podpira plasti?"
+
+      "answer": "Standardni TIFF je raven. Nekatere aplikacije vključujejo zasebne podatke o plasteh, vendar to orodje izhodno ustvari raven TIFF."
+
+    }
+  ]
+  "note": "TIFF je primeren za shranjevanje/tiskanje, vendar je lahko težak. Za splet razmislite o PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Pretvori PNG v JPG",
+      "title": "Pretvori PNG v JPG"
+
       "url": "/sl/convert/png-to-jpg"
-    },
-    {
-      "title": "Pretvori PNG v WebP",
-      "url": "/sl/convert/png-to-webp"
-    },
-    {
-      "title": "Pretvori JPG v TIFF",
-      "url": "/sl/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+    {
+      "title": "Pretvori PNG v WebP"
+
+      "url": "/sl/convert/png-to-webp"
+
+    }
+    {
+      "title": "Pretvori JPG v TIFF"
+
+      "url": "/sl/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Pretvornik PNG v TIFF - Brezplačno in Spletno",
-      "url": "https://wikihowto.click/sl/convert/png-to-tiff",
-      "description": "Brezplačno spletno orodje za pretvorbo PNG slik v TIFF z brezizgubnimi možnostmi in ohranjeno prosojnostjo.",
-      "inLanguage": "sl",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik PNG v TIFF - Brezplačno in Spletno"
+
+      "url": "https://miconvert.com/sl/convert/png-to-tiff"
+
+      "description": "Brezplačno spletno orodje za pretvorbo PNG slik v TIFF z brezizgubnimi možnostmi in ohranjeno prosojnostjo."
+
+      "inLanguage": "sl"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Pretvori",
-          "item": "https://wikihowto.click/sl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Pretvori"
+
+          "item": "https://miconvert.com/sl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG v TIFF",
-          "item": "https://wikihowto.click/sl/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG v TIFF"
+
+          "item": "https://miconvert.com/sl/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Pretvornik PNG v TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sl/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik PNG v TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sl/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Brezizgubna LZW možnost",
-        "Ohranja alfa",
+        "Brezizgubna LZW možnost"
+
+        "Ohranja alfa"
+
         "Kakovost pripravljena za tisk 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ali je ta pretvornik PNG v TIFF brezplačen?",
+          "@type": "Question"
+
+          "name": "Ali je ta pretvornik PNG v TIFF brezplačen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Katere velikosti datotek so podprte?",
+          "@type": "Question"
+
+          "name": "Katere velikosti datotek so podprte?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Lahko naložite slike do 16 MB na datoteko."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ali TIFF podpira plasti?",
+          "@type": "Question"
+
+          "name": "Ali TIFF podpira plasti?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standardni TIFF je raven; nekatere aplikacije vključujejo zasebne podatke o plasteh. To orodje izhodno ustvari raven TIFF."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kako pretvoriti PNG v TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kako pretvoriti PNG v TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite Naloži PNG in izberite svojo datoteko."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počakajte, da se obdelava konča."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite Prenesi TIFF, da shranite rezultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počakajte, da se obdelava konča."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite Prenesi TIFF, da shranite rezultat."
+
+        }
+      ]
       "tool": [
         "Pretvornik PNG v TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

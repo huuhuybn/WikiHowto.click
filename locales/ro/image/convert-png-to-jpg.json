@@ -1,230 +1,344 @@
 {
-  "lang": "ro",
-  "lang_name": "Română",
-  "title": "Converter PNG în JPG - Gratuit & Online | WikiHowTo.click",
-  "sub_title": "Converteți imagini PNG în format JPG online cu calitate înaltă, dimensiuni mai mici ale fișierelor și fără mărci de apă.",
-  "hint": "Încărcați imaginea dvs. PNG pentru a începe conversia...",
-  "btn_download": "Convertește în JPG",
-  "btn_paste": "Încărcați PNG",
-  "btn_clear": "Șterge",
-  "ogImage": "https://wikihowto.click/images/png-to-jpg.jpg",
+  "lang": "ro"
+
+  "lang_name": "Română"
+
+  "title": "Converter PNG în JPG - Gratuit & Online | miconvert.com"
+
+  "sub_title": "Converteți imagini PNG în format JPG online cu calitate înaltă, dimensiuni mai mici ale fișierelor și fără mărci de apă."
+
+  "hint": "Încărcați imaginea dvs. PNG pentru a începe conversia..."
+
+  "btn_download": "Convertește în JPG"
+
+  "btn_paste": "Încărcați PNG"
+
+  "btn_clear": "Șterge"
+
+  "ogImage": "https://miconvert.com/images/png-to-jpg.jpg"
+
   "converter": {
-    "type": "png-to-jpg",
-    "inputFormat": "PNG",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-jpg"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Trebuie să convertiți <strong>PNG în JPG</strong> pentru dimensiuni mai mici ale fișierelor sau o compatibilitate mai largă? Converterul nostru gratuit online PNG în JPG creează JPEG-uri de înaltă calitate în câteva secunde. Funcționează în browserul dvs., nu necesită înscriere și păstrează fișierele dvs. private cu ștergere automată după procesare.</p><p>JPG este ideal pentru fotografii și imagini colorate, oferind o compresie excelentă la o calitate vizuală bună. PNG este fără pierderi (și adesea mai mare), așa că trecerea la JPG ajută la reducerea stocării și la accelerarea livrării pe web.</p>",
+  }
+  "description": "<p>Trebuie să convertiți <strong>PNG în JPG</strong> pentru dimensiuni mai mici ale fișierelor sau o compatibilitate mai largă? Converterul nostru gratuit online PNG în JPG creează JPEG-uri de înaltă calitate în câteva secunde. Funcționează în browserul dvs., nu necesită înscriere și păstrează fișierele dvs. private cu ștergere automată după procesare.</p><p>JPG este ideal pentru fotografii și imagini colorate, oferind o compresie excelentă la o calitate vizuală bună. PNG este fără pierderi (și adesea mai mare), așa că trecerea la JPG ajută la reducerea stocării și la accelerarea livrării pe web.</p>"
+
   "head": {
-    "title": "Convertește PNG în JPG Online - Converter Gratuit PNG în JPG | WikiHowTo.click",
-    "description": "Converteți PNG în JPG online cu calitate înaltă, dimensiuni mai mici ale fișierelor și fără mărci de apă. Gratuit, rapid și sigur instrument de conversie PNG în JPG.",
-    "keywords": "png în jpg, convertește png în jpg, png gratuit în jpg, converter png online, compresie jpg",
-    "canonical": "https://wikihowto.click/ro/convert/png-to-jpg",
-    "og_title": "Converter PNG în JPG - Gratuit & Online",
-    "og_description": "Converteți imagini PNG în format JPG cu calitate înaltă și dimensiuni mai mici ale fișierelor. 100% gratuit, rapid și sigur.",
-    "og_url": "https://wikihowto.click/ro/convert/png-to-jpg",
-    "og_image": "https://wikihowto.click/images/png-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Converter Gratuit PNG în JPG Online",
-    "twitter_description": "Converteți PNG în JPG cu calitate înaltă, dimensiuni mai mici ale fișierelor și fără mărci de apă. Funcționează pe toate dispozitivele.",
-    "twitter_image": "https://wikihowto.click/images/png-to-jpg.jpg"
-  },
+    "title": "Convertește PNG în JPG Online - Converter Gratuit PNG în JPG | miconvert.com"
+
+    "description": "Converteți PNG în JPG online cu calitate înaltă, dimensiuni mai mici ale fișierelor și fără mărci de apă. Gratuit, rapid și sigur instrument de conversie PNG în JPG."
+
+    "keywords": "png în jpg, convertește png în jpg, png gratuit în jpg, converter png online, compresie jpg"
+
+    "canonical": "https://miconvert.com/ro/convert/png-to-jpg"
+
+    "og_title": "Converter PNG în JPG - Gratuit & Online"
+
+    "og_description": "Converteți imagini PNG în format JPG cu calitate înaltă și dimensiuni mai mici ale fișierelor. 100% gratuit, rapid și sigur."
+
+    "og_url": "https://miconvert.com/ro/convert/png-to-jpg"
+
+    "og_image": "https://miconvert.com/images/png-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Convertește PNG în JPG Online",
+    "title": "Convertește PNG în JPG Online"
+
     "description": "Converter gratuit și rapid PNG în JPG cu calitate înaltă și dimensiuni mai mici ale fișierelor. Funcționează instantaneu pe orice dispozitiv — nu este necesară înscrierea."
-  },
+
+  }
   "h2": [
     {
-      "title": "De ce să convertești PNG în JPG?",
+      "title": "De ce să convertești PNG în JPG?"
+
       "description": "<p>PNG este excelent pentru grafica cu transparență, dar poate fi greu. JPG oferă fișiere mai mici și o compatibilitate largă:</p><ul><li><strong>Dimensiuni mai mici ale fișierelor:</strong> Reduceți stocarea și accelerați încărcările paginilor.</li><li><strong>Compatibilitate mai bună:</strong> JPG funcționează peste tot.</li><li><strong>Prietenos cu fotografiile:</strong> Ideal pentru fotografii și degradeuri.</li><li><strong>Economii de lățime de bandă:</strong> Imagini mai ușoare pentru mobil/web.</li></ul>"
-    },
-    {
-      "title": "Cum să convertești PNG în JPG Online",
-      "description": "<ol><li>Faceți clic pe <em>Încărcați PNG</em> și alegeți fișierul dvs.</li><li>Așteptați procesarea.</li><li>Faceți clic pe <em>Descarcă JPG</em> pentru a salva imaginea dvs.</li></ol><p>Calitatea este ajustată automat pentru un echilibru puternic între dimensiune și fidelitate.</p>"
-    },
-    {
-      "title": "Sfaturi pentru rezultate mai bune",
-      "description": "<ul><li><strong>Setarea calității:</strong> Utilizați 85–90% pentru imagini importante; 70–80% pentru web.</li><li><strong>Transparență:</strong> Alpha PNG devine un fundal solid (alb implicit) în JPG.</li><li><strong>Rezoluție:</strong> Redimensionați imaginile mari înainte de conversie pentru a micșora fișierele și mai mult.</li><li><strong>Performanța web:</strong> După JPG, luați în considerare <a href='/ro/convert/jpg-to-webp'>JPG → WebP</a> pentru economii suplimentare.</li></ul>"
-    },
-    {
-      "title": "Limite și formate acceptate",
-      "description": "<ul><li><strong>Intrare acceptată:</strong> PNG (<code>image/png</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Ieșire:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codare:</strong> JPEG progresiv prin mozjpeg</li></ul>"
-    },
-    {
-      "title": "Depanare",
-      "description": "<ul><li><strong>Zone transparente:</strong> JPG nu are alpha; fundalul va fi alb. Dacă aveți nevoie de transparență, păstrați PNG.</li><li><strong>Schimbare de culoare:</strong> Converteți în sRGB înainte de încărcare pentru o afișare web consistentă.</li><li><strong>Încă prea mare:</strong> Reduceți calitatea ușor (80–85%) sau redimensionați.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că PNG și ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cum să convertești PNG în JPG Online"
+
+      "description": "<ol><li>Faceți clic pe <em>Încărcați PNG</em> și alegeți fișierul dvs.</li><li>Așteptați procesarea.</li><li>Faceți clic pe <em>Descarcă JPG</em> pentru a salva imaginea dvs.</li></ol><p>Calitatea este ajustată automat pentru un echilibru puternic între dimensiune și fidelitate.</p>"
+
+    }
+    {
+      "title": "Sfaturi pentru rezultate mai bune"
+
+      "description": "<ul><li><strong>Setarea calității:</strong> Utilizați 85–90% pentru imagini importante; 70–80% pentru web.</li><li><strong>Transparență:</strong> Alpha PNG devine un fundal solid (alb implicit) în JPG.</li><li><strong>Rezoluție:</strong> Redimensionați imaginile mari înainte de conversie pentru a micșora fișierele și mai mult.</li><li><strong>Performanța web:</strong> După JPG, luați în considerare <a href='/ro/convert/jpg-to-webp'>JPG → WebP</a> pentru economii suplimentare.</li></ul>"
+
+    }
+    {
+      "title": "Limite și formate acceptate"
+
+      "description": "<ul><li><strong>Intrare acceptată:</strong> PNG (<code>image/png</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Ieșire:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codare:</strong> JPEG progresiv prin mozjpeg</li></ul>"
+
+    }
+    {
+      "title": "Depanare"
+
+      "description": "<ul><li><strong>Zone transparente:</strong> JPG nu are alpha; fundalul va fi alb. Dacă aveți nevoie de transparență, păstrați PNG.</li><li><strong>Schimbare de culoare:</strong> Converteți în sRGB înainte de încărcare pentru o afișare web consistentă.</li><li><strong>Încă prea mare:</strong> Reduceți calitatea ușor (80–85%) sau redimensionați.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că PNG și ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Este acest converter PNG în JPG gratuit?",
+      "question": "Este acest converter PNG în JPG gratuit?"
+
       "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
-    },
-    {
-      "question": "Voi pierde transparența când convertesc PNG în JPG?",
-      "answer": "Da. JPG nu suportă transparența, așa că pixelii transparenți devin un fundal solid (alb implicit)."
-    },
-    {
-      "question": "Imaginea va pierde calitate în timpul conversiei?",
-      "answer": "JPG folosește compresie cu pierderi. Folosim setări de înaltă calitate pentru a minimiza pierderile vizibile."
-    },
-    {
-      "question": "Ce dimensiuni ale fișierelor sunt acceptate?",
-      "answer": "Puteți încărca imagini de până la 16&nbsp;MB pe fișier."
-    },
-    {
-      "question": "Fișierele mele sunt în siguranță?",
-      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
-    },
-    {
-      "question": "Pot converti mai multe PNG-uri simultan?",
-      "answer": "Această pagină convertește un fișier pe rând. Pentru nevoi în masă, repetați procesul sau folosiți un instrument de lot."
-    },
-    {
-      "question": "Pot folosi acest instrument pe telefonul meu?",
-      "answer": "Da. Converterul este prietenos cu mobilul și funcționează pe browserele iOS și Android."
+
     }
-  ],
-  "note": "Conversia JPG este cu pierderi. Păstrați o copie a PNG-ului original dacă aveți nevoie de fără pierderi sau transparență mai târziu.",
+    {
+      "question": "Voi pierde transparența când convertesc PNG în JPG?"
+
+      "answer": "Da. JPG nu suportă transparența, așa că pixelii transparenți devin un fundal solid (alb implicit)."
+
+    }
+    {
+      "question": "Imaginea va pierde calitate în timpul conversiei?"
+
+      "answer": "JPG folosește compresie cu pierderi. Folosim setări de înaltă calitate pentru a minimiza pierderile vizibile."
+
+    }
+    {
+      "question": "Ce dimensiuni ale fișierelor sunt acceptate?"
+
+      "answer": "Puteți încărca imagini de până la 16&nbsp;MB pe fișier."
+
+    }
+    {
+      "question": "Fișierele mele sunt în siguranță?"
+
+      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
+
+    }
+    {
+      "question": "Pot converti mai multe PNG-uri simultan?"
+
+      "answer": "Această pagină convertește un fișier pe rând. Pentru nevoi în masă, repetați procesul sau folosiți un instrument de lot."
+
+    }
+    {
+      "question": "Pot folosi acest instrument pe telefonul meu?"
+
+      "answer": "Da. Converterul este prietenos cu mobilul și funcționează pe browserele iOS și Android."
+
+    }
+  ]
+  "note": "Conversia JPG este cu pierderi. Păstrați o copie a PNG-ului original dacă aveți nevoie de fără pierderi sau transparență mai târziu."
+
   "related_links": [
     {
-      "title": "Convertește PNG în WebP",
+      "title": "Convertește PNG în WebP"
+
       "url": "/ro/convert/png-to-webp"
-    },
-    {
-      "title": "Convertește JPG în PNG",
-      "url": "/ro/convert/jpg-to-png"
-    },
-    {
-      "title": "Comprimă JPG Online",
-      "url": "/ro/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Toate drepturile rezervate.",
+    {
+      "title": "Convertește JPG în PNG"
+
+      "url": "/ro/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Comprimă JPG Online"
+
+      "url": "/ro/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Converter PNG în JPG - Gratuit & Online",
-      "url": "https://wikihowto.click/ro/convert/png-to-jpg",
-      "description": "Instrument gratuit online pentru a converti imagini PNG în JPG cu calitate înaltă și dimensiuni mai mici ale fișierelor.",
-      "inLanguage": "ro",
-      "image": "https://wikihowto.click/images/png-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Converter PNG în JPG - Gratuit & Online"
+
+      "url": "https://miconvert.com/ro/convert/png-to-jpg"
+
+      "description": "Instrument gratuit online pentru a converti imagini PNG în JPG cu calitate înaltă și dimensiuni mai mici ale fișierelor."
+
+      "inLanguage": "ro"
+
+      "image": "https://miconvert.com/images/png-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Acasă",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Acasă"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertește",
-          "item": "https://wikihowto.click/ro/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertește"
+
+          "item": "https://miconvert.com/ro/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG în JPG",
-          "item": "https://wikihowto.click/ro/convert/png-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG în JPG"
+
+          "item": "https://miconvert.com/ro/convert/png-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Converter PNG în JPG",
-      "applicationCategory": "Aplicație Multimedia",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ro/convert/png-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Converter PNG în JPG"
+
+      "applicationCategory": "Aplicație Multimedia"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ro/convert/png-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG de înaltă calitate",
-        "Codare progresivă",
+        "JPEG de înaltă calitate"
+
+        "Codare progresivă"
+
         "Procesare rapidă"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Este acest converter PNG în JPG gratuit?",
+          "@type": "Question"
+
+          "name": "Este acest converter PNG în JPG gratuit?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ce dimensiuni ale fișierelor sunt acceptate?",
+          "@type": "Question"
+
+          "name": "Ce dimensiuni ale fișierelor sunt acceptate?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Puteți încărca imagini de până la 16 MB pe fișier."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Voi pierde transparența?",
+          "@type": "Question"
+
+          "name": "Voi pierde transparența?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da. JPG nu suportă transparența; pixelii transparenți devin un fundal solid."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cum să convertești PNG în JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cum să convertești PNG în JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Faceți clic pe Încărcați PNG și selectați fișierul dvs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Așteptați finalizarea procesării."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Faceți clic pe Descarcă JPG pentru a salva rezultatul."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Așteptați finalizarea procesării."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Faceți clic pe Descarcă JPG pentru a salva rezultatul."
+
+        }
+      ]
       "tool": [
         "Converter PNG în JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

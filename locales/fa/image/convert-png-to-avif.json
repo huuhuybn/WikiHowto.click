@@ -1,248 +1,374 @@
 {
-  "lang": "fa",
-  "lang_name": "فارسی",
-  "title": "تبدیل PNG به AVIF - رایگان و آنلاین | WikiHowTo.click",
-  "sub_title": "تصاویر PNG را به AVIF به صورت آنلاین با فشرده‌سازی عالی و کیفیت بالا تبدیل کنید. شفافیت را حفظ می‌کند. بدون واترمارک.",
-  "hint": "تصویر PNG خود را بارگذاری کنید تا تبدیل را شروع کنید...",
-  "btn_download": "تبدیل به AVIF",
-  "btn_paste": "بارگذاری PNG",
-  "btn_clear": "پاک کردن",
-  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "lang": "fa"
+
+  "lang_name": "فارسی"
+
+  "title": "تبدیل PNG به AVIF - رایگان و آنلاین | miconvert.com"
+
+  "sub_title": "تصاویر PNG را به AVIF به صورت آنلاین با فشرده‌سازی عالی و کیفیت بالا تبدیل کنید. شفافیت را حفظ می‌کند. بدون واترمارک."
+
+  "hint": "تصویر PNG خود را بارگذاری کنید تا تبدیل را شروع کنید..."
+
+  "btn_download": "تبدیل به AVIF"
+
+  "btn_paste": "بارگذاری PNG"
+
+  "btn_clear": "پاک کردن"
+
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
+
   "head": {
-    "title": "تبدیل PNG به AVIF - تبدیل‌کننده آنلاین PNG به AVIF رایگان | WikiHowTo.click",
-    "description": "تصاویر PNG را به AVIF به صورت آنلاین و رایگان تبدیل کنید. تبدیل PNG به AVIF با کیفیت بالا و فشرده‌سازی عالی و پشتیبانی از شفافیت.",
-    "keywords": "png به avif، تبدیل png به avif، png به avif رایگان، تبدیل‌کننده آنلاین avif، تبدیل تصویر",
-    "canonical": "https://wikihowto.click/fa/convert/png-to-avif",
-    "og_title": "تبدیل PNG به AVIF - تبدیل‌کننده آنلاین PNG به AVIF رایگان",
-    "og_description": "تصاویر PNG را به AVIF با فشرده‌سازی عالی و شفافیت حفظ شده تبدیل کنید. رایگان، سریع و امن.",
-    "og_url": "https://wikihowto.click/fa/convert/png-to-avif",
-    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "تبدیل‌کننده رایگان PNG به AVIF آنلاین",
-    "twitter_description": "PNG را به AVIF با فشرده‌سازی عالی و پشتیبانی از شفافیت تبدیل کنید. در تمام دستگاه‌ها کار می‌کند.",
-    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
-  },
+    "title": "تبدیل PNG به AVIF - تبدیل‌کننده آنلاین PNG به AVIF رایگان | miconvert.com"
+
+    "description": "تصاویر PNG را به AVIF به صورت آنلاین و رایگان تبدیل کنید. تبدیل PNG به AVIF با کیفیت بالا و فشرده‌سازی عالی و پشتیبانی از شفافیت."
+
+    "keywords": "png به avif، تبدیل png به avif، png به avif رایگان، تبدیل‌کننده آنلاین avif، تبدیل تصویر"
+
+    "canonical": "https://miconvert.com/fa/convert/png-to-avif"
+
+    "og_title": "تبدیل PNG به AVIF - تبدیل‌کننده آنلاین PNG به AVIF رایگان"
+
+    "og_description": "تصاویر PNG را به AVIF با فشرده‌سازی عالی و شفافیت حفظ شده تبدیل کنید. رایگان، سریع و امن."
+
+    "og_url": "https://miconvert.com/fa/convert/png-to-avif"
+
+    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "تبدیل PNG به AVIF آنلاین",
+    "title": "تبدیل PNG به AVIF آنلاین"
+
     "description": "تبدیل‌کننده رایگان و سریع PNG به AVIF با فشرده‌سازی عالی و پشتیبانی کامل از شفافیت. به‌طور آنی در هر دستگاهی کار می‌کند — نیازی به ثبت‌نام نیست."
-  },
+
+  }
   "converter": {
-    "type": "png-to-avif",
-    "title": "تبدیل‌کننده PNG به AVIF",
-    "description": "تصاویر PNG را به AVIF با فشرده‌سازی مدرن در حالی که شفافیت آلفا را حفظ می‌کند، تبدیل کنید.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "AVIF",
+    "type": "png-to-avif"
+
+    "title": "تبدیل‌کننده PNG به AVIF"
+
+    "description": "تصاویر PNG را به AVIF با فشرده‌سازی مدرن در حالی که شفافیت آلفا را حفظ می‌کند، تبدیل کنید."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 80,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 80
     "features": [
-      "خروجی AVIF با کیفیت بالا",
-      "فشرده‌سازی عالی",
-      "حفظ شفافیت (آلفا)",
+      "خروجی AVIF با کیفیت بالا"
+
+      "فشرده‌سازی عالی"
+
+      "حفظ شفافیت (آلفا)"
+
       "ابزار آنلاین رایگان"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "quality": 80,
-        "speed": 4,
-        "subsample": "4:4:4",
+        "quality": 80
+        "speed": 4
+        "subsample": "4:4:4"
+
         "lossless": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "تبدیل PNG به AVIF کامل شد",
-    "back_button": "بازگشت به تبدیل‌کننده",
-    "convert_another": "تبدیل PNG دیگری",
+    "title": "تبدیل PNG به AVIF کامل شد"
+
+    "back_button": "بازگشت به تبدیل‌کننده"
+
+    "convert_another": "تبدیل PNG دیگری"
+
     "quick_conversions": "تبدیل‌های سریع:"
-  },
+
+  }
   "h2": [
     {
-      "title": "چرا PNG را به AVIF تبدیل کنیم؟",
+      "title": "چرا PNG را به AVIF تبدیل کنیم؟"
+
       "description": "<p>AVIF (فرمت فایل تصویر AV1) یک فرمت نسل بعدی با کارایی فوق‌العاده است:</p><ul><li><strong>فشرده‌سازی برتر:</strong> معمولاً ۳۰–۵۰٪ کوچکتر از PNG با کیفیت مشابه.</li><li><strong>کدک مدرن:</strong> مبتنی بر استاندارد AV1.</li><li><strong>وفاداری بالا:</strong> حفظ جزئیات عالی در اندازه‌های کوچکتر.</li><li><strong>عملکرد وب:</strong> تصاویر کوچکتر = صفحات سریع‌تر و بهبود Core Web Vitals.</li></ul>"
-    },
-    {
-      "title": "چگونه PNG را به AVIF آنلاین تبدیل کنیم",
-      "description": "<ol><li>روی <em>بارگذاری PNG</em> کلیک کنید و فایل خود را انتخاب کنید.</li><li>منتظر پردازش و بهینه‌سازی باشید.</li><li>روی <em>دانلود AVIF</em> کلیک کنید تا تصویر خود را ذخیره کنید.</li></ol><p>تبدیل‌کننده به‌طور خودکار کیفیت و اندازه را برای استفاده‌های رایج وب متعادل می‌کند.</p>"
-    },
-    {
-      "title": "مقایسه AVIF و PNG",
-      "description": "<ul><li><strong>اندازه فایل:</strong> AVIF معمولاً ۳۰–۵۰٪ کوچکتر از PNG است.</li><li><strong>کیفیت:</strong> AVIF کیفیت قوی را در بیت‌ریت‌های پایین حفظ می‌کند.</li><li><strong>شفافیت:</strong> هر دو از شفافیت آلفا پشتیبانی می‌کنند.</li><li><strong>پشتیبانی مرورگر:</strong> AVIF در مرورگرهای مدرن کار می‌کند (در صورت نیاز، پشتیبانی از PNG/WebP را فراهم کنید).</li></ul>"
-    },
-    {
-      "title": "محدودیت‌ها و فرمت‌های پشتیبانی شده",
-      "description": "<ul><li><strong>ورودی‌های پذیرفته شده:</strong> PNG (<code>image/png</code>)</li><li><strong>حداکثر اندازه فایل:</strong> تا ۱۶&nbsp;MB برای هر فایل</li><li><strong>خروجی:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>کدگذاری:</strong> کیفیت ≈ ۸۰، سرعت ۴، زیرنمونه‌برداری ۴:۴:۴ برای حفظ لبه‌ها تمیز</li></ul>"
-    },
-    {
-      "title": "رفع اشکال",
-      "description": "<ul><li><strong>مرورگرهای قدیمی:</strong> از عنصر <code>&lt;picture&gt;</code> با پشتیبانی PNG/WebP استفاده کنید.</li><li><strong>هاله در لبه‌ها:</strong> ۴:۴:۴ کمک می‌کند؛ اگر هنوز قابل مشاهده است، از PNG با وضوح بالاتر شروع کنید یا آلفا را اصلاح کنید.</li><li><strong>نیاز به بدون افت کیفیت:</strong> برای نیازهای دقیق پیکسل، PNG را در نظر بگیرید یا AVIF را در گردش کار پیشرفته به حالت بدون افت کیفیت تنظیم کنید.</li><li><strong>بارگذاری ناموفق:</strong> اطمینان حاصل کنید که فایل PNG است و ≤ ۱۶&nbsp;MB است.</li></ul>"
-    },
-    {
-      "title": "موارد استفاده: چه زمانی PNG را به AVIF تبدیل کنیم",
-      "description": "<ul><li><strong>بهینه‌سازی وب:</strong> کاهش بار برای آیکون‌ها، رابط کاربری و گرافیک با شفافیت.</li><li><strong>برنامه‌های موبایل:</strong> کاهش استفاده از پهنای باند و فضای ذخیره‌سازی.</li><li><strong>کتابخانه‌های بزرگ:</strong> صرفه‌جویی در فضای دیسک بدون افت کیفیت مشهود.</li></ul>"
+
     }
-  ],
+    {
+      "title": "چگونه PNG را به AVIF آنلاین تبدیل کنیم"
+
+      "description": "<ol><li>روی <em>بارگذاری PNG</em> کلیک کنید و فایل خود را انتخاب کنید.</li><li>منتظر پردازش و بهینه‌سازی باشید.</li><li>روی <em>دانلود AVIF</em> کلیک کنید تا تصویر خود را ذخیره کنید.</li></ol><p>تبدیل‌کننده به‌طور خودکار کیفیت و اندازه را برای استفاده‌های رایج وب متعادل می‌کند.</p>"
+
+    }
+    {
+      "title": "مقایسه AVIF و PNG"
+
+      "description": "<ul><li><strong>اندازه فایل:</strong> AVIF معمولاً ۳۰–۵۰٪ کوچکتر از PNG است.</li><li><strong>کیفیت:</strong> AVIF کیفیت قوی را در بیت‌ریت‌های پایین حفظ می‌کند.</li><li><strong>شفافیت:</strong> هر دو از شفافیت آلفا پشتیبانی می‌کنند.</li><li><strong>پشتیبانی مرورگر:</strong> AVIF در مرورگرهای مدرن کار می‌کند (در صورت نیاز، پشتیبانی از PNG/WebP را فراهم کنید).</li></ul>"
+
+    }
+    {
+      "title": "محدودیت‌ها و فرمت‌های پشتیبانی شده"
+
+      "description": "<ul><li><strong>ورودی‌های پذیرفته شده:</strong> PNG (<code>image/png</code>)</li><li><strong>حداکثر اندازه فایل:</strong> تا ۱۶&nbsp;MB برای هر فایل</li><li><strong>خروجی:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>کدگذاری:</strong> کیفیت ≈ ۸۰، سرعت ۴، زیرنمونه‌برداری ۴:۴:۴ برای حفظ لبه‌ها تمیز</li></ul>"
+
+    }
+    {
+      "title": "رفع اشکال"
+
+      "description": "<ul><li><strong>مرورگرهای قدیمی:</strong> از عنصر <code>&lt;picture&gt;</code> با پشتیبانی PNG/WebP استفاده کنید.</li><li><strong>هاله در لبه‌ها:</strong> ۴:۴:۴ کمک می‌کند؛ اگر هنوز قابل مشاهده است، از PNG با وضوح بالاتر شروع کنید یا آلفا را اصلاح کنید.</li><li><strong>نیاز به بدون افت کیفیت:</strong> برای نیازهای دقیق پیکسل، PNG را در نظر بگیرید یا AVIF را در گردش کار پیشرفته به حالت بدون افت کیفیت تنظیم کنید.</li><li><strong>بارگذاری ناموفق:</strong> اطمینان حاصل کنید که فایل PNG است و ≤ ۱۶&nbsp;MB است.</li></ul>"
+
+    }
+    {
+      "title": "موارد استفاده: چه زمانی PNG را به AVIF تبدیل کنیم"
+
+      "description": "<ul><li><strong>بهینه‌سازی وب:</strong> کاهش بار برای آیکون‌ها، رابط کاربری و گرافیک با شفافیت.</li><li><strong>برنامه‌های موبایل:</strong> کاهش استفاده از پهنای باند و فضای ذخیره‌سازی.</li><li><strong>کتابخانه‌های بزرگ:</strong> صرفه‌جویی در فضای دیسک بدون افت کیفیت مشهود.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "آیا این تبدیل‌کننده PNG به AVIF رایگان است؟",
+      "question": "آیا این تبدیل‌کننده PNG به AVIF رایگان است؟"
+
       "answer": "بله، این تبدیل‌کننده کاملاً رایگان است و هیچ هزینه یا اشتراک پنهانی ندارد."
-    },
-    {
-      "question": "آیا AVIF در تمام مرورگرها کار می‌کند؟",
-      "answer": "AVIF توسط مرورگرهای مدرن (کروم، فایرفاکس، سافاری، اج) پشتیبانی می‌شود. برای مرورگرهای قدیمی‌تر، پشتیبانی PNG/WebP را فراهم کنید."
-    },
-    {
-      "question": "فایل‌های AVIF نسبت به PNG چقدر کوچکتر هستند؟",
-      "answer": "معمولاً ۳۰–۵۰٪ کوچکتر با کیفیت مشابه، بسته به تصویر."
-    },
-    {
-      "question": "چه اندازه فایل‌هایی پشتیبانی می‌شوند؟",
-      "answer": "شما می‌توانید تصاویری تا ۱۶&nbsp;MB برای هر فایل بارگذاری کنید."
-    },
-    {
-      "question": "آیا فایل‌های من امن هستند؟",
-      "answer": "فایل‌ها به‌طور خودکار پردازش می‌شوند و بیشتر از حد لازم برای تبدیل نگهداری نمی‌شوند."
-    },
-    {
-      "question": "آیا می‌توانم چندین PNG را به‌طور همزمان تبدیل کنم؟",
-      "answer": "این صفحه یک فایل را در یک زمان تبدیل می‌کند. برای نیازهای انبوه، فرآیند را تکرار کنید یا از ابزار دسته‌ای استفاده کنید."
-    },
-    {
-      "question": "آیا AVIF بهتر از PNG برای وب‌سایت‌ها است؟",
-      "answer": "اغلب بله برای اندازه‌های فایل کوچکتر با کیفیت خوب؛ برای موارد خاص بدون افت کیفیت یا دقیق، PNG ممکن است هنوز ترجیح داده شود."
+
     }
-  ],
-  "note": "برای حداکثر سازگاری، AVIF را با پشتیبانی PNG/WebP با استفاده از عنصر <code>&lt;picture&gt;</code> ارائه دهید.",
+    {
+      "question": "آیا AVIF در تمام مرورگرها کار می‌کند؟"
+
+      "answer": "AVIF توسط مرورگرهای مدرن (کروم، فایرفاکس، سافاری، اج) پشتیبانی می‌شود. برای مرورگرهای قدیمی‌تر، پشتیبانی PNG/WebP را فراهم کنید."
+
+    }
+    {
+      "question": "فایل‌های AVIF نسبت به PNG چقدر کوچکتر هستند؟"
+
+      "answer": "معمولاً ۳۰–۵۰٪ کوچکتر با کیفیت مشابه، بسته به تصویر."
+
+    }
+    {
+      "question": "چه اندازه فایل‌هایی پشتیبانی می‌شوند؟"
+
+      "answer": "شما می‌توانید تصاویری تا ۱۶&nbsp;MB برای هر فایل بارگذاری کنید."
+
+    }
+    {
+      "question": "آیا فایل‌های من امن هستند؟"
+
+      "answer": "فایل‌ها به‌طور خودکار پردازش می‌شوند و بیشتر از حد لازم برای تبدیل نگهداری نمی‌شوند."
+
+    }
+    {
+      "question": "آیا می‌توانم چندین PNG را به‌طور همزمان تبدیل کنم؟"
+
+      "answer": "این صفحه یک فایل را در یک زمان تبدیل می‌کند. برای نیازهای انبوه، فرآیند را تکرار کنید یا از ابزار دسته‌ای استفاده کنید."
+
+    }
+    {
+      "question": "آیا AVIF بهتر از PNG برای وب‌سایت‌ها است؟"
+
+      "answer": "اغلب بله برای اندازه‌های فایل کوچکتر با کیفیت خوب؛ برای موارد خاص بدون افت کیفیت یا دقیق، PNG ممکن است هنوز ترجیح داده شود."
+
+    }
+  ]
+  "note": "برای حداکثر سازگاری، AVIF را با پشتیبانی PNG/WebP با استفاده از عنصر <code>&lt;picture&gt;</code> ارائه دهید."
+
   "related_links": [
     {
-      "title": "تبدیل AVIF به PNG",
+      "title": "تبدیل AVIF به PNG"
+
       "url": "/fa/convert/avif-to-png"
-    },
-    {
-      "title": "تبدیل PNG به WebP",
-      "url": "/fa/convert/png-to-webp"
-    },
-    {
-      "title": "تبدیل JPG به AVIF",
-      "url": "/fa/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© ۲۰۱۹ - ۲۰۲۵ WikiHowTo.click. تمامی حقوق محفوظ است.",
+    {
+      "title": "تبدیل PNG به WebP"
+
+      "url": "/fa/convert/png-to-webp"
+
+    }
+    {
+      "title": "تبدیل JPG به AVIF"
+
+      "url": "/fa/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© ۲۰۱۹ - ۲۰۲۵ miconvert.com. تمامی حقوق محفوظ است."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "تبدیل‌کننده PNG به AVIF - رایگان و آنلاین",
-      "url": "https://wikihowto.click/fa/convert/png-to-avif",
-      "description": "ابزار آنلاین رایگان برای تبدیل تصاویر PNG به AVIF با فشرده‌سازی عالی و حفظ شفافیت.",
-      "inLanguage": "fa",
-      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "تبدیل‌کننده PNG به AVIF - رایگان و آنلاین"
+
+      "url": "https://miconvert.com/fa/convert/png-to-avif"
+
+      "description": "ابزار آنلاین رایگان برای تبدیل تصاویر PNG به AVIF با فشرده‌سازی عالی و حفظ شفافیت."
+
+      "inLanguage": "fa"
+
+      "image": "https://miconvert.com/images/png-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "خانه",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "خانه"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "تبدیل",
-          "item": "https://wikihowto.click/fa/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "تبدیل"
+
+          "item": "https://miconvert.com/fa/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG به AVIF",
-          "item": "https://wikihowto.click/fa/convert/png-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG به AVIF"
+
+          "item": "https://miconvert.com/fa/convert/png-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "تبدیل‌کننده PNG به AVIF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/fa/convert/png-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "تبدیل‌کننده PNG به AVIF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/fa/convert/png-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "فشرده‌سازی عالی",
-        "حفظ شفافیت",
+        "فشرده‌سازی عالی"
+
+        "حفظ شفافیت"
+
         "پردازش سریع"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "آیا این تبدیل‌کننده PNG به AVIF رایگان است؟",
+          "@type": "Question"
+
+          "name": "آیا این تبدیل‌کننده PNG به AVIF رایگان است؟"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "بله، این تبدیل‌کننده کاملاً رایگان است و هیچ هزینه یا اشتراک پنهانی ندارد."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "چه اندازه فایل‌هایی پشتیبانی می‌شوند؟",
+          "@type": "Question"
+
+          "name": "چه اندازه فایل‌هایی پشتیبانی می‌شوند؟"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "شما می‌توانید تصاویری تا ۱۶ MB برای هر فایل بارگذاری کنید."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "آیا AVIF در تمام مرورگرها کار می‌کند؟",
+          "@type": "Question"
+
+          "name": "آیا AVIF در تمام مرورگرها کار می‌کند؟"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF توسط مرورگرهای مدرن پشتیبانی می‌شود؛ برای مرورگرهای قدیمی‌تر، پشتیبانی PNG/WebP را فراهم کنید."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "چگونه PNG را به AVIF تبدیل کنیم",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "چگونه PNG را به AVIF تبدیل کنیم"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "روی بارگذاری PNG کلیک کنید و فایل خود را انتخاب کنید."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "منتظر پردازش و بهینه‌سازی باشید."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "روی دانلود AVIF کلیک کنید تا نتیجه را ذخیره کنید."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "منتظر پردازش و بهینه‌سازی باشید."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "روی دانلود AVIF کلیک کنید تا نتیجه را ذخیره کنید."
+
+        }
+      ]
       "tool": [
         "تبدیل‌کننده PNG به AVIF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

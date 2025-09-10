@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "he",
+  "lang_name": "עברית",
+  "title": "miconvert.com - ממירים מקוונים חינמיים לקבצים",
+  "sub_title": "המר קבצים בין PDF, תמונות, שמע, וידאו ומסמכים באמצעות כלים ייעודיים לכל זוג פורמטים. מהיר, בטוח, ללא סימני מים.",
+  "hint": "חפש ממירים (לדוגמה, JPG ל-PNG, PDF ל-JPG, MP3 ל-WAV)...",
+  "btn_download": "חפש ממירים",
+  "btn_paste": "הצג הכל",
+  "btn_clear": "נקה",
+  "description": "<p><strong>ברוכים הבאים ל-miconvert.com</strong> — מרכז מיוחד של <em>ממירים ספציפיים לזוגות קבצים</em>. במקום כלי גנרי אחד, אנו יוצרים דף ייעודי לכל זוג פורמטים (לדוגמה, <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>) כך שתמיד תקבל את האפשרויות הנכונות, האיכות הטובה ביותר וזרימת עבודה פשוטה.</p><p>כל ממיר כאן מכוון למטרה הספציפית שלו: בהירות תמונה לעומת גודל, טיפול בשקיפות, פריסות PDF מוכנות להדפסה או נאמנות שמע. ללא רישום, ללא סימני מים, ופרטיות בעיצוב — העלאות מעובדות באופן מאובטח ונמחקות באופן אוטומטי לאחר ההמרה. השתמש בשולחן עבודה, בטאבלט או בנייד.</p><p>חקור את **כלי ה-PDF** שלנו (PDF ↔ JPG/PNG/TIFF/WebP, מיזוג/פיצול), **כלי תמונה** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **כלי שמע** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **כלי וידאו** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4), ו- **כלי מסמכים** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). כל כלי מהיר, מדויק וממוקד.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "ממירים מקוונים חינמיים לקבצים - PDF, תמונה, שמע ועוד | miconvert.com",
+    "description": "המר קבצים באופן מקוון עם ממירים חינמיים. כלים מיוחדים לכל זוג פורמטים: PDF ל-JPG, PNG ל-PDF, MP3 ל-WAV ועוד. מהיר, בטוח, ללא סימני מים.",
+    "keywords": "ממיר קבצים, ממיר PDF, ממיר תמונה, ממיר שמע, ממיר וידאו, ממיר מסמכים, jpg ל-png, pdf ל-jpg, png ל-pdf, mp3 ל-wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - ממירים מקוונים חינמיים לקבצים",
+    "og_description": "המר PDF, תמונות, שמע, וידאו ומסמכים עם ממירים מיוחדים לכל זוג פורמטים. חינמי, מהיר, וללא סימני מים.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "מהו ממיר קבצים?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "ממיר קבצים ממיר קובץ מפורמט אחד לאחר (לדוגמה, JPG ל-PNG, PDF ל-JPG). ממירים טובים שומרים על תוכן חיוני (פיקסלים, טקסט, שמע) ונתונים משניים תוך אופטימיזציה של גודל ותאימות."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "האם אתם שומרים את הקבצים שלי?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "לא. קבצים מעובדים באופן מאובטח ונמחקים באופן אוטומטי לאחר ההמרה. אנחנו לא שומרים אותם לצמיתות."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "האם ההמרות חינמיות וללא סימני מים?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "כן. כל הכלים הם חינמיים לשימוש לחלוטין ולעולם לא מוסיפים סימני מים."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "ממירים מקוונים חינמיים לקבצים",
+    "description": "כלי אחד לכל זוג פורמטים. המר PDF, תמונות, שמע, וידאו ומסמכים באופן מקוון — מהיר, בטוח, וללא סימני מים."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "מהו ממיר קבצים?",
+      "description": "<p>ממיר קבצים משנה את פורמט הקובץ כדי לשפר את <strong>התאימות</strong>, <strong>האיכות</strong> או <strong>הגודל</strong>. דוגמאות נפוצות כוללות המרת תמונות עבור האינטרנט (<em>PNG → WebP</em>), הכנת מסמכים מוכנים להדפסה (<em>JPG/PNG → PDF</em>), או חילוץ חזותיים ממסמכים (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>ממירים טובים מאזנים בין איכות לגודל, שומרים על שקיפות היכן שניתן (PNG/WebP), ושומרים על פריסה עבור PDF (גודל עמוד, שוליים, התאמה לעמוד). הכלים שלנו מציגים ברירות מחדל הגיוניות כך שרוב המשתמשים יכולים להמיר תוך שניות.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "מאבד מידע לעומת ללא אובדן מידע, רסטר לעומת וקטור",
+      "description": "<ul><li><strong>מאבד מידע לעומת ללא אובדן מידע:</strong> JPG/WebP (מאבד מידע) מקטינים את הגודל על ידי השלכת חלק מהנתונים; PNG/TIFF (ללא אובדן מידע) שומרים על פרטים מלאים. בחר באובדן מידע לשיתוף באינטרנט, ללא אובדן מידע לעריכה/ארכיון.</li><li><strong>רסטר לעומת וקטור:</strong> JPG/PNG/WebP/TIFF הם רסטר (פיקסלים). SVG/AI הם וקטור (צורות, נתיבים). רסטר זקוק לרזולוציה מספקת (DPI) להדפסה; וקטור מתקפל ללא הגבלה ללא טשטוש.</li><li><strong>צבע ונתונים משניים:</strong> המרות יכולות להשפיע על פרופילי ICC, EXIF, או ערוצי אלפא. כלים להמרת תמונה ל-PDF שלנו שומרים על התנהגות שקיפות כראוי ומתאימים תמונות לעמוד עם שוליים להדפסה צפויה.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "קטגוריות המרה פופולריות",
+      "description": "<ul><li><strong>כלי PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">מיזוג JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">שילוב PNG → PDF</a></li><li><strong>כלי תמונה:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>כלי שמע:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>כלי וידאו:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>כלי מסמכים:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "איך זה עובד",
+      "description": "<ol><li>בחר את הממיר עבור זוג הפורמטים המדויק שלך (לדוגמה, <em>PNG → PDF</em>).</li><li>העלה קובץ אחד או יותר (תמיכה בקבוצות בקובץ בכלים רבים).</li><li>לחץ על המר — ברירות המחדל מותאמות לאיכות ולגודל.</li><li>הורד את התוצאה שלך באופן מיידי. ללא הרשמה, ללא סימני מים.</li></ol><p>טיפים: שמור על יחס גובה-רוחב של תמונה עקבי בעת מיזוג ל-PDF עבור פריסה אחידה. עבור אינטרנט, שקול WebP כדי להקטין את הגודל באיכות מעולה.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "אבטחה ופרטיות",
+      "description": "<ul><li><strong>העברות מוצפנות:</strong> קבצים עוברים דרך חיבורים מאובטחים.</li><li><strong>מחיקה אוטומטית:</strong> קבצים מעובדים נמחקים באופן אוטומטי.</li><li><strong>ללא אחסון קבוע:</strong> אנחנו לא שומרים את הקבצים שלך לאחר העיבוד.</li><li><strong>ללא סימני מים:</strong> תוצאות נקיות ומוכנות לשימוש.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "מהו ממיר קבצים?",
+      "answer": "זה משנה קובץ מפורמט אחד לאחר (לדוגמה, JPG → PNG, PDF → JPG) כדי לשפר את התאימות, האיכות או הגודל."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "אילו ממירים פופולריים ביותר?",
+      "answer": "PDF ↔ תמונה (PDF → JPG/PNG/WebP/TIFF ו- JPG/PNG/WebP/TIFF → PDF) ותמונה ↔ תמונה (JPG ↔ PNG, PNG ↔ WebP) הם הנפוצים ביותר."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "האם אתה דוחס תמונות?",
+      "answer": "כן, פורמטים מאבדי מידע כמו JPG/WebP מקטינים את הגודל באיכות ניתנת לכוונון; פורמטים ללא אובדן מידע כמו PNG/TIFF שומרים על הפרטים."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "האם אתה שומר על שקיפות?",
+      "answer": "PNG ו-WebP תומכים בערוצי אלפא. בעת המרה ל-PDF, עמודים מתוכננים עם שוליים והתנהגות התאמה לעמוד עבור פלט צפוי."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "האם OCR נתמך?",
+      "answer": "OCR אינו מופעל כברירת מחדל. לחילוץ טקסט מתמונות/PDF, השתמש בכלים ייעודיים ל-OCR."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "גודל קובץ מקסימלי?",
+      "answer": "רוב הממירים תומכים עד 100MB לכל המרה. עבור קבצים גדולים יותר, פצל או דחס תחילה."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "האם הקבצים שלי מאוחסנים?",
+      "answer": "לא. קבצים מעובדים באופן מאובטח ונמחקים באופן אוטומטי לאחר ההמרה."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "האם אוכל להמיר קבוצות או למזג?",
+      "answer": "כלים רבים תומכים בהעלאת קבצים מרובים ומיזוג (לדוגמה, מיזוג JPG → PDF, שילוב PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "הערה: כל ממיר מותאם לזוג פורמטים בודד, ומבטיח את האיכות והמהירות הטובות ביותר. עבור פריסת PDF אחידה ביותר, השתמש בממדים וכיוון עקביים של תמונה.",
+  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
 }

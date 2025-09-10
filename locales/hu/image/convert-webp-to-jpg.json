@@ -1,242 +1,362 @@
 {
-  "lang": "hu",
-  "lang_name": "Magyar",
-  "title": "WebP to JPG Átalakító - Ingyenes és Online | WikiHowTo.click",
-  "sub_title": "WebP képek online átalakítása JPG formátumba, magas minőséggel, jobb kompatibilitással és vízjelek nélkül.",
-  "hint": "Töltsd fel a WebP képed az átalakítás megkezdéséhez...",
-  "btn_download": "Átalakítás JPG-ra",
-  "btn_paste": "WebP feltöltése",
-  "btn_clear": "Törlés",
-  "ogImage": "https://wikihowto.click/images/webp-to-jpg.jpg",
+  "lang": "hu"
+
+  "lang_name": "Magyar"
+
+  "title": "WebP to JPG Átalakító - Ingyenes és Online | miconvert.com"
+
+  "sub_title": "WebP képek online átalakítása JPG formátumba, magas minőséggel, jobb kompatibilitással és vízjelek nélkül."
+
+  "hint": "Töltsd fel a WebP képed az átalakítás megkezdéséhez..."
+
+  "btn_download": "Átalakítás JPG-ra"
+
+  "btn_paste": "WebP feltöltése"
+
+  "btn_clear": "Törlés"
+
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
+
   "converter": {
-    "type": "webp-to-jpg",
-    "inputFormat": "WebP",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-jpg"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>WebP-t JPG-ra szeretnél átalakítani a jobb kompatibilitás érdekében? Ez az ingyenes online átalakító a modern WebP képeket univerzálisan támogatott JPEG formátumba alakítja, miközben megőrzi a magas vizuális minőséget. <em>Megjegyzés:</em> A JPG nem támogatja az átlátszóságot - az átlátszó területek egy szilárd háttérrel (alapértelmezés szerint fehér) lesznek kitöltve. Az animált WebP fájlokat statikus képként alakítjuk át az <strong>első képkocka</strong> felhasználásával.</p>",
+  }
+  "description": "<p>WebP-t JPG-ra szeretnél átalakítani a jobb kompatibilitás érdekében? Ez az ingyenes online átalakító a modern WebP képeket univerzálisan támogatott JPEG formátumba alakítja, miközben megőrzi a magas vizuális minőséget. <em>Megjegyzés:</em> A JPG nem támogatja az átlátszóságot - az átlátszó területek egy szilárd háttérrel (alapértelmezés szerint fehér) lesznek kitöltve. Az animált WebP fájlokat statikus képként alakítjuk át az <strong>első képkocka</strong> felhasználásával.</p>"
+
   "head": {
-    "title": "WebP átalakítása JPG-ra Online - Ingyenes WebP to JPG Átalakító | WikiHowTo.click",
-    "description": "WebP átalakítása JPG-ra online, magas minőséggel, jobb kompatibilitással és vízjelek nélkül. Ingyenes, gyors és biztonságos WebP to JPG átalakító eszköz.",
-    "keywords": "webp to jpg, webp átalakítása jpg-ra, ingyenes webp to jpg, online webp átalakító, kép kompatibilitás",
-    "canonical": "https://wikihowto.click/hu/convert/webp-to-jpg",
-    "og_title": "WebP to JPG Átalakító - Ingyenes és Online",
-    "og_description": "WebP képek JPG formátumba való átalakítása magas minőséggel és jobb kompatibilitással. 100% ingyenes, gyors és biztonságos.",
-    "og_url": "https://wikihowto.click/hu/convert/webp-to-jpg",
-    "og_image": "https://wikihowto.click/images/webp-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Ingyenes WebP to JPG Átalakító Online",
-    "twitter_description": "WebP átalakítása JPG-ra magas minőséggel, jobb kompatibilitással és vízjelek nélkül. Minden eszközön működik.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-jpg.jpg"
-  },
+    "title": "WebP átalakítása JPG-ra Online - Ingyenes WebP to JPG Átalakító | miconvert.com"
+
+    "description": "WebP átalakítása JPG-ra online, magas minőséggel, jobb kompatibilitással és vízjelek nélkül. Ingyenes, gyors és biztonságos WebP to JPG átalakító eszköz."
+
+    "keywords": "webp to jpg, webp átalakítása jpg-ra, ingyenes webp to jpg, online webp átalakító, kép kompatibilitás"
+
+    "canonical": "https://miconvert.com/hu/convert/webp-to-jpg"
+
+    "og_title": "WebP to JPG Átalakító - Ingyenes és Online"
+
+    "og_description": "WebP képek JPG formátumba való átalakítása magas minőséggel és jobb kompatibilitással. 100% ingyenes, gyors és biztonságos."
+
+    "og_url": "https://miconvert.com/hu/convert/webp-to-jpg"
+
+    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "WebP átalakítása JPG-ra Online",
+    "title": "WebP átalakítása JPG-ra Online"
+
     "description": "Ingyenes és gyors WebP to JPG átalakító, magas minőséggel és jobb kompatibilitással. Azonnal működik bármilyen eszközön, regisztráció nem szükséges."
-  },
+
+  }
   "h2": [
     {
-      "title": "Miért érdemes WebP-t JPG-ra átalakítani?",
+      "title": "Miért érdemes WebP-t JPG-ra átalakítani?"
+
       "description": "<p>Bár a WebP kiváló tömörítést kínál, a JPG univerzális kompatibilitást biztosít:</p><ul><li><strong>Mindenhol működik:</strong> A JPG-t gyakorlatilag minden eszköz és alkalmazás támogatja.</li><li><strong>Platform követelmények:</strong> Néhány szolgáltatás még mindig JPG feltöltéseket igényel.</li><li><strong>Örökölt támogatás:</strong> Régebbi böngészők és eszközök nem biztos, hogy támogatják a WebP-t.</li><li><strong>Könnyű megosztás:</strong> A JPG megbízhatóan megnyílik a platformokon.</li></ul>"
-    },
-    {
-      "title": "Hogyan lehet WebP-t JPG-ra átalakítani online",
-      "description": "<ol><li>Kattints a <em>WebP feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra és az optimalizálásra.</li><li>Kattints a <em>JPG letöltése</em> gombra, hogy megkapd a kompatibilis fájlodat.</li></ol><p>Progresszív JPEG-t (mozjpeg) használunk a kiváló méret-minőség egyensúly érdekében.</p>"
-    },
-    {
-      "title": "WebP vs JPG Összehasonlítás",
-      "description": "<ul><li><strong>Fájlméret:</strong> A WebP jellemzően 25–35%-kal kisebb, mint a JPG hasonló minőség mellett.</li><li><strong>Kompatibilitás:</strong> A JPG univerzális támogatással rendelkezik.</li><li><strong>Átlátszóság:</strong> A WebP támogatja az alfát; a JPG nem.</li><li><strong>Animáció:</strong> A WebP animálható; a JPG mindig statikus.</li></ul>"
-    },
-    {
-      "title": "A WebP to JPG Átalakítónk Jellemzői",
-      "description": "<ul><li>100% ingyenes, vízjelek nélkül</li><li>Magas minőségű átalakítás (progresszív JPEG)</li><li>Biztonságos, titkosított feltöltések</li><li>Automatikus fájl törlés az átalakítás után</li><li>Működik Windows, Mac, iOS és Android rendszereken</li></ul>"
-    },
-    {
-      "title": "Támogatott korlátok és formátumok",
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximális fájlméret:</strong> 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animáció:</strong> Csak az első képkocka</li></ul>"
-    },
-    {
-      "title": "Hibaelhárítás",
-      "description": "<ul><li><strong>Elveszett átlátszóság:</strong> A JPG nem tudja tárolni az alfát. Használj <a href='/hu/convert/webp-to-png'>WebP → PNG</a> átalakítást, ha átlátszóságra van szükséged.</li><li><strong>A színek eltérően néznek ki:</strong> A kimenet sRGB-re van konvertálva a webes konzisztencia érdekében.</li><li><strong>A fájl még mindig nagy:</strong> Próbáld meg csökkenteni a minőséget 80–85%-ra, vagy csökkentsd a képet az átalakítás előtt.</li><li><strong>A feltöltés nem sikerült:</strong> Győződj meg róla, hogy a fájl <code>image/webp</code> és ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Hogyan lehet WebP-t JPG-ra átalakítani online"
+
+      "description": "<ol><li>Kattints a <em>WebP feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra és az optimalizálásra.</li><li>Kattints a <em>JPG letöltése</em> gombra, hogy megkapd a kompatibilis fájlodat.</li></ol><p>Progresszív JPEG-t (mozjpeg) használunk a kiváló méret-minőség egyensúly érdekében.</p>"
+
+    }
+    {
+      "title": "WebP vs JPG Összehasonlítás"
+
+      "description": "<ul><li><strong>Fájlméret:</strong> A WebP jellemzően 25–35%-kal kisebb, mint a JPG hasonló minőség mellett.</li><li><strong>Kompatibilitás:</strong> A JPG univerzális támogatással rendelkezik.</li><li><strong>Átlátszóság:</strong> A WebP támogatja az alfát; a JPG nem.</li><li><strong>Animáció:</strong> A WebP animálható; a JPG mindig statikus.</li></ul>"
+
+    }
+    {
+      "title": "A WebP to JPG Átalakítónk Jellemzői"
+
+      "description": "<ul><li>100% ingyenes, vízjelek nélkül</li><li>Magas minőségű átalakítás (progresszív JPEG)</li><li>Biztonságos, titkosított feltöltések</li><li>Automatikus fájl törlés az átalakítás után</li><li>Működik Windows, Mac, iOS és Android rendszereken</li></ul>"
+
+    }
+    {
+      "title": "Támogatott korlátok és formátumok"
+
+      "description": "<ul><li><strong>Elfogadott bemenet:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximális fájlméret:</strong> 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animáció:</strong> Csak az első képkocka</li></ul>"
+
+    }
+    {
+      "title": "Hibaelhárítás"
+
+      "description": "<ul><li><strong>Elveszett átlátszóság:</strong> A JPG nem tudja tárolni az alfát. Használj <a href='/hu/convert/webp-to-png'>WebP → PNG</a> átalakítást, ha átlátszóságra van szükséged.</li><li><strong>A színek eltérően néznek ki:</strong> A kimenet sRGB-re van konvertálva a webes konzisztencia érdekében.</li><li><strong>A fájl még mindig nagy:</strong> Próbáld meg csökkenteni a minőséget 80–85%-ra, vagy csökkentsd a képet az átalakítás előtt.</li><li><strong>A feltöltés nem sikerült:</strong> Győződj meg róla, hogy a fájl <code>image/webp</code> és ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ez a WebP to JPG átalakító ingyenes?",
+      "question": "Ez a WebP to JPG átalakító ingyenes?"
+
       "answer": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett költségek vagy előfizetések."
-    },
-    {
-      "question": "Elveszítem a minőséget, amikor WebP-t JPG-ra alakítok?",
-      "answer": "A JPG veszteséges tömörítést használ, de mi magas minőségű beállításokat (mozjpeg, progresszív) alkalmazunk a látható veszteség minimalizálása érdekében."
-    },
-    {
-      "question": "Elveszítem az átlátszóságot?",
-      "answer": "Igen. A JPG nem támogatja az átlátszóságot - az átlátszó pixelek szilárd színnel (alapértelmezés szerint fehér) lesznek kitöltve."
-    },
-    {
-      "question": "Támogatjátok az animált WebP-t?",
-      "answer": "Az animált WebP statikus képként van átalakítva az első képkocka felhasználásával."
-    },
-    {
-      "question": "Milyen fájlméreteket támogat?",
-      "answer": "Képeket tölthetsz fel legfeljebb 16 MB fájlonként."
-    },
-    {
-      "question": "Több fájlt is átalakíthatok egyszerre?",
-      "answer": "Ez az oldal egyszerre egy fájlt alakít át. Ismételd meg a folyamatot több kép esetén."
+
     }
-  ],
-  "note": "A JPG veszteséges és eltávolítja az átlátszóságot. Tartsd meg az eredeti WebP-t archiválásra vagy ha átlátszóságra/animációra van szükséged.",
+    {
+      "question": "Elveszítem a minőséget, amikor WebP-t JPG-ra alakítok?"
+
+      "answer": "A JPG veszteséges tömörítést használ, de mi magas minőségű beállításokat (mozjpeg, progresszív) alkalmazunk a látható veszteség minimalizálása érdekében."
+
+    }
+    {
+      "question": "Elveszítem az átlátszóságot?"
+
+      "answer": "Igen. A JPG nem támogatja az átlátszóságot - az átlátszó pixelek szilárd színnel (alapértelmezés szerint fehér) lesznek kitöltve."
+
+    }
+    {
+      "question": "Támogatjátok az animált WebP-t?"
+
+      "answer": "Az animált WebP statikus képként van átalakítva az első képkocka felhasználásával."
+
+    }
+    {
+      "question": "Milyen fájlméreteket támogat?"
+
+      "answer": "Képeket tölthetsz fel legfeljebb 16 MB fájlonként."
+
+    }
+    {
+      "question": "Több fájlt is átalakíthatok egyszerre?"
+
+      "answer": "Ez az oldal egyszerre egy fájlt alakít át. Ismételd meg a folyamatot több kép esetén."
+
+    }
+  ]
+  "note": "A JPG veszteséges és eltávolítja az átlátszóságot. Tartsd meg az eredeti WebP-t archiválásra vagy ha átlátszóságra/animációra van szükséged."
+
   "related_links": [
     {
-      "title": "WebP átalakítása PNG-ra (megőrzi az átlátszóságot)",
+      "title": "WebP átalakítása PNG-ra (megőrzi az átlátszóságot)"
+
       "url": "/hu/convert/webp-to-png"
-    },
-    {
-      "title": "JPG átalakítása WebP-ra",
-      "url": "/hu/convert/jpg-to-webp"
-    },
-    {
-      "title": "WebP átalakítása AVIF-ra",
-      "url": "/hu/convert/webp-to-avif"
-    },
-    {
-      "title": "JPG tömörítése online",
-      "url": "/hu/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Minden jog fenntartva.",
+    {
+      "title": "JPG átalakítása WebP-ra"
+
+      "url": "/hu/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "WebP átalakítása AVIF-ra"
+
+      "url": "/hu/convert/webp-to-avif"
+
+    }
+    {
+      "title": "JPG tömörítése online"
+
+      "url": "/hu/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP to JPG Átalakító - Ingyenes és Online",
-      "url": "https://wikihowto.click/hu/convert/webp-to-jpg",
-      "description": "Ingyenes online eszköz WebP képek JPG-ra való átalakításához a maximális kompatibilitás érdekében.",
-      "inLanguage": "hu",
-      "image": "https://wikihowto.click/images/webp-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to JPG Átalakító - Ingyenes és Online"
+
+      "url": "https://miconvert.com/hu/convert/webp-to-jpg"
+
+      "description": "Ingyenes online eszköz WebP képek JPG-ra való átalakításához a maximális kompatibilitás érdekében."
+
+      "inLanguage": "hu"
+
+      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Főoldal",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Főoldal"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Átalakítás",
-          "item": "https://wikihowto.click/hu/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Átalakítás"
+
+          "item": "https://miconvert.com/hu/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP to JPG",
-          "item": "https://wikihowto.click/hu/convert/webp-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP to JPG"
+
+          "item": "https://miconvert.com/hu/convert/webp-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP to JPG Átalakító",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/hu/convert/webp-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to JPG Átalakító"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/hu/convert/webp-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Progresszív JPEG",
-        "Magas minőségű átalakítás",
+        "Progresszív JPEG"
+
+        "Magas minőségű átalakítás"
+
         "Gyors feldolgozás"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ez a WebP to JPG átalakító ingyenes?",
+          "@type": "Question"
+
+          "name": "Ez a WebP to JPG átalakító ingyenes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett költségek vagy előfizetések."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Milyen fájlméreteket támogat?",
+          "@type": "Question"
+
+          "name": "Milyen fájlméreteket támogat?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Képeket tölthetsz fel legfeljebb 16 MB fájlonként."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Támogatjátok az animált WebP-t?",
+          "@type": "Question"
+
+          "name": "Támogatjátok az animált WebP-t?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Az animált WebP statikus képként van átalakítva az első képkocka felhasználásával."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Elveszítem az átlátszóságot?",
+          "@type": "Question"
+
+          "name": "Elveszítem az átlátszóságot?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Igen. A JPG nem támogatja az átlátszóságot - az átlátszó pixelek szilárd színnel (alapértelmezés szerint fehér) lesznek kitöltve."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Hogyan lehet WebP-t JPG-ra átalakítani",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Hogyan lehet WebP-t JPG-ra átalakítani"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kattints a WebP feltöltése gombra, és válaszd ki a fájlodat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Várj a feldolgozásra és az optimalizálásra."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kattints a JPG letöltése gombra, hogy elmentsd a képed."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Várj a feldolgozásra és az optimalizálásra."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kattints a JPG letöltése gombra, hogy elmentsd a képed."
+
+        }
+      ]
       "tool": [
         "WebP to JPG Átalakító"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

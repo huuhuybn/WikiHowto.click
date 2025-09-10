@@ -1,244 +1,368 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Conversor de PNG a TIFF - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges PNG a TIFF en línia amb opcions sense pèrdues, qualitat preparada per a impressió i transparència preservada. Sense marques d'aigua.",
-  "hint": "Puja la teva imatge PNG per començar a convertir...",
-  "btn_download": "Converteix a TIFF",
-  "btn_paste": "Puja PNG",
-  "btn_clear": "Neteja",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Conversor de PNG a TIFF - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges PNG a TIFF en línia amb opcions sense pèrdues, qualitat preparada per a impressió i transparència preservada. Sense marques d'aigua."
+
+  "hint": "Puja la teva imatge PNG per començar a convertir..."
+
+  "btn_download": "Converteix a TIFF"
+
+  "btn_paste": "Puja PNG"
+
+  "btn_clear": "Neteja"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "Converteix PNG a TIFF - Conversor gratuït en línia de PNG a TIFF | WikiHowTo.click",
-    "description": "Converteix imatges PNG a format TIFF en línia de manera gratuïta. Conversió de PNG a TIFF d'alta qualitat amb opcions sense pèrdues i processament ràpid.",
-    "keywords": "png a tiff, converteix png a tiff, gratuït png a tiff, conversor tiff en línia, conversió d'imatges",
-    "canonical": "https://wikihowto.click/ca/convert/png-to-tiff",
-    "og_title": "Converteix PNG a TIFF - Conversor gratuït en línia de PNG a TIFF",
-    "og_description": "Converteix imatges PNG a TIFF amb opcions de compressió sense pèrdues i transparència preservada. Gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/ca/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Conversor gratuït de PNG a TIFF en línia",
-    "twitter_description": "Converteix PNG a TIFF amb opcions sense pèrdues, transparència i qualitat preparada per a impressió.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "Converteix PNG a TIFF - Conversor gratuït en línia de PNG a TIFF | miconvert.com"
+
+    "description": "Converteix imatges PNG a format TIFF en línia de manera gratuïta. Conversió de PNG a TIFF d'alta qualitat amb opcions sense pèrdues i processament ràpid."
+
+    "keywords": "png a tiff, converteix png a tiff, gratuït png a tiff, conversor tiff en línia, conversió d'imatges"
+
+    "canonical": "https://miconvert.com/ca/convert/png-to-tiff"
+
+    "og_title": "Converteix PNG a TIFF - Conversor gratuït en línia de PNG a TIFF"
+
+    "og_description": "Converteix imatges PNG a TIFF amb opcions de compressió sense pèrdues i transparència preservada. Gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/ca/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Converteix PNG a TIFF en línia",
+    "title": "Converteix PNG a TIFF en línia"
+
     "description": "Conversor gratuït de PNG a TIFF amb opcions de compressió sense pèrdues i sortida preparada per a impressió. Funciona en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "Conversor de PNG a TIFF",
-    "description": "Converteix imatges PNG a TIFF amb compressió sense pèrdues LZW/ZIP mentre preserves la transparència alfa.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "Conversor de PNG a TIFF"
+
+    "description": "Converteix imatges PNG a TIFF amb compressió sense pèrdues LZW/ZIP mentre preserves la transparència alfa."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Opció TIFF sense pèrdues (LZW/ZIP)",
-      "Preserva la transparència (alfa)",
-      "Qualitat preparada per a impressió",
+      "Opció TIFF sense pèrdues (LZW/ZIP)"
+
+      "Preserva la transparència (alfa)"
+
+      "Qualitat preparada per a impressió"
+
       "Eina gratuïta en línia"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Conversió de PNG a TIFF completada",
-    "back_button": "Torna al conversor",
-    "convert_another": "Converteix un altre PNG",
+    "title": "Conversió de PNG a TIFF completada"
+
+    "back_button": "Torna al conversor"
+
+    "convert_another": "Converteix un altre PNG"
+
     "quick_conversions": "Conversions ràpides:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir PNG a TIFF?",
+      "title": "Per què convertir PNG a TIFF?"
+
       "description": "<p>TIFF és un format professional d'arxiu utilitzat en imatge i impressió:</p><ul><li><strong>Opcions sense pèrdues:</strong> Mantingues un mestre net sense introduir nous artefactes.</li><li><strong>Preparat per a impressió:</strong> Ideal per a sortides d'alta resolució i fluxos de treball de preimpressió.</li><li><strong>Suport alfa:</strong> Pot preservar la transparència (depèn del lector).</li><li><strong>Amigable per a l'edició:</strong> Estable per a desades i transferències repetides.</li></ul>"
-    },
-    {
-      "title": "Com convertir PNG a TIFF en línia",
-      "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament.</li><li>Fes clic a <em descarregar TIFF</em> per desar el resultat.</li></ol><p>Sortida per defecte: 32 bits RGBA, LZW sense pèrdues, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF vs PNG: Diferències clau",
-      "description": "<ul><li><strong>Compressió:</strong> PNG utilitza DEFLATE sense pèrdues; TIFF suporta LZW/ZIP (sense pèrdues) o altres.</li><li><strong>Grandària del fitxer:</strong> Depèn del contingut de la imatge; TIFF pot ser més gran o similar a PNG.</li><li><strong>Transparència:</strong> Ambdós poden incloure alfa (el suport del visualitzador pot variar per a TIFF).</li><li><strong>Millor per a:</strong> PNG per a lliurament web; TIFF per a edició, impressió i arxiu.</li></ul>"
-    },
-    {
-      "title": "Límits i formats suportats",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Grandària màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Per defecte:</strong> 32 bits RGBA, compressió LZW, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Resolució de problemes",
-      "description": "<ul><li><strong>Fitxer massa gran:</strong> TIFF és més pesat per a alguns continguts — mantingues PNG per a web o considera WebP/AVIF.</li><li><strong>Alpha no visible:</strong> Alguns visualitzadors ignoren l'alfa de TIFF; verifica en un editor professional.</li><li><strong>Desviació de color:</strong> Converteix a sRGB abans de pujar per a un color consistent a la pantalla.</li><li><strong>La pujada falla:</strong> Assegura't que PNG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir PNG a TIFF en línia"
+
+      "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament.</li><li>Fes clic a <em descarregar TIFF</em> per desar el resultat.</li></ol><p>Sortida per defecte: 32 bits RGBA, LZW sense pèrdues, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF vs PNG: Diferències clau"
+
+      "description": "<ul><li><strong>Compressió:</strong> PNG utilitza DEFLATE sense pèrdues; TIFF suporta LZW/ZIP (sense pèrdues) o altres.</li><li><strong>Grandària del fitxer:</strong> Depèn del contingut de la imatge; TIFF pot ser més gran o similar a PNG.</li><li><strong>Transparència:</strong> Ambdós poden incloure alfa (el suport del visualitzador pot variar per a TIFF).</li><li><strong>Millor per a:</strong> PNG per a lliurament web; TIFF per a edició, impressió i arxiu.</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats suportats"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Grandària màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Per defecte:</strong> 32 bits RGBA, compressió LZW, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Resolució de problemes"
+
+      "description": "<ul><li><strong>Fitxer massa gran:</strong> TIFF és més pesat per a alguns continguts — mantingues PNG per a web o considera WebP/AVIF.</li><li><strong>Alpha no visible:</strong> Alguns visualitzadors ignoren l'alfa de TIFF; verifica en un editor professional.</li><li><strong>Desviació de color:</strong> Converteix a sRGB abans de pujar per a un color consistent a la pantalla.</li><li><strong>La pujada falla:</strong> Assegura't que PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest conversor de PNG a TIFF?",
+      "question": "És gratuït aquest conversor de PNG a TIFF?"
+
       "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Funcionarà TIFF en totes les aplicacions?",
-      "answer": "TIFF és àmpliament suportat en aplicacions professionals (Photoshop, Affinity, moltes eines RIP/impressió). Alguns visualitzadors simples poden no mostrar l'alfa o certs mètodes de compressió."
-    },
-    {
-      "question": "Quina grandària tenen els fitxers TIFF en comparació amb PNG?",
-      "answer": "Varía segons la imatge. Amb LZW/ZIP, TIFF pot ser similar o més gran que PNG depenent del contingut."
-    },
-    {
-      "question": "Quines grandàries de fitxer són suportades?",
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "Puc convertir múltiples PNG alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
-    },
-    {
-      "question": "Suporta TIFF capes?",
-      "answer": "El TIFF estàndard és pla. Algunes aplicacions incrusten dades de capa privades, però aquesta eina genera un TIFF pla."
+
     }
-  ],
-  "note": "TIFF és adequat per a l'emmagatzematge/impressió però pot ser pesat. Per a web, considera PNG/WebP/AVIF.",
+    {
+      "question": "Funcionarà TIFF en totes les aplicacions?"
+
+      "answer": "TIFF és àmpliament suportat en aplicacions professionals (Photoshop, Affinity, moltes eines RIP/impressió). Alguns visualitzadors simples poden no mostrar l'alfa o certs mètodes de compressió."
+
+    }
+    {
+      "question": "Quina grandària tenen els fitxers TIFF en comparació amb PNG?"
+
+      "answer": "Varía segons la imatge. Amb LZW/ZIP, TIFF pot ser similar o més gran que PNG depenent del contingut."
+
+    }
+    {
+      "question": "Quines grandàries de fitxer són suportades?"
+
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "Puc convertir múltiples PNG alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
+
+    }
+    {
+      "question": "Suporta TIFF capes?"
+
+      "answer": "El TIFF estàndard és pla. Algunes aplicacions incrusten dades de capa privades, però aquesta eina genera un TIFF pla."
+
+    }
+  ]
+  "note": "TIFF és adequat per a l'emmagatzematge/impressió però pot ser pesat. Per a web, considera PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Converteix PNG a JPG",
+      "title": "Converteix PNG a JPG"
+
       "url": "/ca/convert/png-to-jpg"
-    },
-    {
-      "title": "Converteix PNG a WebP",
-      "url": "/ca/convert/png-to-webp"
-    },
-    {
-      "title": "Converteix JPG a TIFF",
-      "url": "/ca/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Converteix PNG a WebP"
+
+      "url": "/ca/convert/png-to-webp"
+
+    }
+    {
+      "title": "Converteix JPG a TIFF"
+
+      "url": "/ca/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Conversor de PNG a TIFF - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/png-to-tiff",
-      "description": "Eina gratuïta en línia per convertir imatges PNG a TIFF amb opcions sense pèrdues i transparència preservada.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de PNG a TIFF - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/png-to-tiff"
+
+      "description": "Eina gratuïta en línia per convertir imatges PNG a TIFF amb opcions sense pèrdues i transparència preservada."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a TIFF",
-          "item": "https://wikihowto.click/ca/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a TIFF"
+
+          "item": "https://miconvert.com/ca/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Conversor de PNG a TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de PNG a TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Opció LZW sense pèrdues",
-        "Preserva l'alfa",
+        "Opció LZW sense pèrdues"
+
+        "Preserva l'alfa"
+
         "Preparat per a impressió 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest conversor de PNG a TIFF?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest conversor de PNG a TIFF?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines grandàries de fitxer són suportades?",
+          "@type": "Question"
+
+          "name": "Quines grandàries de fitxer són suportades?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Suporta TIFF capes?",
+          "@type": "Question"
+
+          "name": "Suporta TIFF capes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "El TIFF estàndard és una imatge plana; algunes aplicacions incrusten dades de capa privades. Aquesta eina genera un TIFF pla."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir PNG a TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir PNG a TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Puja PNG i selecciona el teu fitxer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament es completi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar TIFF per desar el resultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament es completi."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar TIFF per desar el resultat."
+
+        }
+      ]
       "tool": [
         "Conversor de PNG a TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

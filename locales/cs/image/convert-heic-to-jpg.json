@@ -1,250 +1,374 @@
 {
-  "lang": "cs",
-  "lang_name": "Čeština",
-  "title": "HEIC na JPG Konvertor - Zdarma & Online | WikiHowTo.click",
-  "sub_title": "Převádějte HEIC obrázky do JPG formátu online s vysokou kvalitou, lepší kompatibilitou a bez vodoznaků.",
-  "hint": "Nahrajte svůj HEIC obrázek, abyste začali převádět...",
-  "btn_download": "Převést na JPG",
-  "btn_paste": "Nahrát HEIC",
-  "btn_clear": "Vymazat",
+  "lang": "cs"
+
+  "lang_name": "Čeština"
+
+  "title": "HEIC na JPG Konvertor - Zdarma & Online | miconvert.com"
+
+  "sub_title": "Převádějte HEIC obrázky do JPG formátu online s vysokou kvalitou, lepší kompatibilitou a bez vodoznaků."
+
+  "hint": "Nahrajte svůj HEIC obrázek, abyste začali převádět..."
+
+  "btn_download": "Převést na JPG"
+
+  "btn_paste": "Nahrát HEIC"
+
+  "btn_clear": "Vymazat"
+
   "converter": {
-    "type": "heic-to-jpg",
-    "inputFormat": "HEIC",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "heic-to-jpg"
+
+    "inputFormat": "HEIC"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
-      "image/heic",
+      "image/heic"
+
       "image/heif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Převádějte svůj <strong>HEIC na JPG</strong> pro univerzální kompatibilitu! Náš bezplatný online konvertor převádí vaše fotografie z iPhonu/iPadu na široce podporované JPG. HEIC (na základě standardu HEIF) nabízí vynikající kompresi, ale mnoho aplikací a platforem stále očekává JPG. Ať už potřebujete sdílet s uživateli Android/Windows, nahrát na sociální média nebo zajistit kompatibilitu se starším softwarem, tento nástroj to usnadňuje.</p><p>JPG je podporováno téměř všude. Převod je rychlý a zachovává vizuální kvalitu s optimalizovanými JPEG nastaveními — ideální pro fotografy, tvůrce a každého, kdo potřebuje maximální kompatibilitu.</p>",
+  }
+  "description": "<p>Převádějte svůj <strong>HEIC na JPG</strong> pro univerzální kompatibilitu! Náš bezplatný online konvertor převádí vaše fotografie z iPhonu/iPadu na široce podporované JPG. HEIC (na základě standardu HEIF) nabízí vynikající kompresi, ale mnoho aplikací a platforem stále očekává JPG. Ať už potřebujete sdílet s uživateli Android/Windows, nahrát na sociální média nebo zajistit kompatibilitu se starším softwarem, tento nástroj to usnadňuje.</p><p>JPG je podporováno téměř všude. Převod je rychlý a zachovává vizuální kvalitu s optimalizovanými JPEG nastaveními — ideální pro fotografy, tvůrce a každého, kdo potřebuje maximální kompatibilitu.</p>"
+
   "head": {
-    "title": "Převést HEIC na JPG Online - Zdarma HEIC na JPG Konvertor | WikiHowTo.click",
-    "description": "Převádějte HEIC na JPG online s vysokou kvalitou, lepší kompatibilitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro převod HEIC na JPG.",
-    "keywords": "heic na jpg, převést heic na jpg, zdarma heic na jpg, online heic konvertor, fotografie z iphone",
-    "canonical": "https://wikihowto.click/cs/convert/heic-to-jpg",
-    "og_title": "HEIC na JPG Konvertor - Zdarma & Online",
-    "og_description": "Převádějte HEIC obrázky do JPG formátu s vysokou kvalitou a lepší kompatibilitou. 100% zdarma, rychlé a bezpečné.",
-    "og_url": "https://wikihowto.click/cs/convert/heic-to-jpg",
-    "og_image": "https://wikihowto.click/images/heic-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Zdarma HEIC na JPG Konvertor Online",
-    "twitter_description": "Převádějte HEIC na JPG s vysokou kvalitou, lepší kompatibilitou a bez vodoznaků. Funguje na všech zařízeních.",
-    "twitter_image": "https://wikihowto.click/images/heic-to-jpg.jpg"
-  },
+    "title": "Převést HEIC na JPG Online - Zdarma HEIC na JPG Konvertor | miconvert.com"
+
+    "description": "Převádějte HEIC na JPG online s vysokou kvalitou, lepší kompatibilitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro převod HEIC na JPG."
+
+    "keywords": "heic na jpg, převést heic na jpg, zdarma heic na jpg, online heic konvertor, fotografie z iphone"
+
+    "canonical": "https://miconvert.com/cs/convert/heic-to-jpg"
+
+    "og_title": "HEIC na JPG Konvertor - Zdarma & Online"
+
+    "og_description": "Převádějte HEIC obrázky do JPG formátu s vysokou kvalitou a lepší kompatibilitou. 100% zdarma, rychlé a bezpečné."
+
+    "og_url": "https://miconvert.com/cs/convert/heic-to-jpg"
+
+    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Převést HEIC na JPG Online",
+    "title": "Převést HEIC na JPG Online"
+
     "description": "Zdarma a rychlý HEIC na JPG konvertor s vysokou kvalitou a univerzální kompatibilitou. Funguje okamžitě na jakémkoli zařízení, není potřeba registrace."
-  },
+
+  }
   "h2": [
     {
-      "title": "Proč převádět HEIC na JPG?",
+      "title": "Proč převádět HEIC na JPG?"
+
       "description": "<p>HEIC je efektivní, ale JPG je univerzálně akceptováno. Převádějte, když potřebujete:</p><ul><li><strong>Univerzální kompatibilita:</strong> JPG funguje na různých zařízeních, aplikacích a platformách.</li><li><strong>Mezi-platformní sdílení:</strong> Posílejte fotografie uživatelům Android/Windows bez problémů.</li><li><strong>Sociální nahrávání:</strong> Většina platforem preferuje nebo vyžaduje JPG.</li><li><strong>Podpora starších verzí:</strong> Starší aplikace nečtou HEIC spolehlivě.</li></ul>"
-    },
-    {
-      "title": "Jak převést HEIC na JPG Online",
-      "description": "<ol><li>Klikněte na <em>Nahrát HEIC</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout JPG</em> pro uložení výsledku.</li></ol><p>Žádné technické kroky — kvalita je automaticky optimalizována.</p>"
-    },
-    {
-      "title": "HEIC vs JPG: Klíčové rozdíly",
-      "description": "<ul><li><strong>Velikost souboru:</strong> HEIC je obvykle menší než JPG při podobné kvalitě.</li><li><strong>Kompatibilita:</strong> JPG má téměř univerzální podporu.</li><li><strong>Kvalita:</strong> Oba mohou vypadat skvěle; JPG používá ztrátovou kompresi.</li><li><strong>Ecosystém:</strong> HEIC je běžný na Apple; JPG je všude.</li></ul>"
-    },
-    {
-      "title": "Podporované limity a formáty",
-      "description": "<ul><li><strong>Přijatý vstup:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG nastavení:</strong> Kvalita 90 (progresivní, mozjpeg)</li></ul>"
-    },
-    {
-      "title": "Funkce našeho HEIC na JPG konvertoru",
-      "description": "<ul><li>100% zdarma, žádné vodoznaky</li><li>Výstup v kvalitním JPEG</li><li>Mobilní přívětivé uživatelské rozhraní</li><li>Jednoduchý, rychlý pracovní postup</li></ul>"
-    },
-    {
-      "title": "Co je HEIC?",
-      "description": "<p>HEIC je přípona souboru pro obrázky uložené pomocí standardu HEIF (High Efficiency Image File Format) — běžně kódováno s HEVC (H.265). Nabízí silnou kompresi s dobrou kvalitou, ale není univerzálně podporováno.</p>"
-    },
-    {
-      "title": "Co je JPG?",
-      "description": "<p>JPG (JPEG) je nejširší podporovaný formát obrázků. Používá ztrátovou kompresi pro vyvážení kvality a velikosti, což ho činí ideálním pro sdílení a webové použití.</p>"
-    },
-    {
-      "title": "Odstraňování problémů",
-      "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je HEIC/HEIF a ≤ 16&nbsp;MB.</li><li><strong>Otočený obrázek:</strong> Některé prohlížeče ignorují EXIF orientaci — otočte po stažení, pokud je to potřeba.</li><li><strong>Posun barev:</strong> Široké gamut fotografie mohou vypadat jinak; převádějte s sRGB, pokud je to nutné.</li><li><strong>Živé fotografie:</strong> Pouze statický HEIC je převeden; spojené video (MOV) není zahrnuto.</li></ul>"
-    },
-    {
-      "title": "Případové použití",
-      "description": "<ul><li><strong>Sdílejte s uživateli, kteří nemají Apple</strong> bez problémů s kompatibilitou.</li><li><strong>Nahrávejte do CMS/sociálních</strong> platforem, které očekávají JPG.</li><li><strong>Tiskněte a upravujte</strong> v aplikacích, které nečtou HEIC.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jak převést HEIC na JPG Online"
+
+      "description": "<ol><li>Klikněte na <em>Nahrát HEIC</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout JPG</em> pro uložení výsledku.</li></ol><p>Žádné technické kroky — kvalita je automaticky optimalizována.</p>"
+
+    }
+    {
+      "title": "HEIC vs JPG: Klíčové rozdíly"
+
+      "description": "<ul><li><strong>Velikost souboru:</strong> HEIC je obvykle menší než JPG při podobné kvalitě.</li><li><strong>Kompatibilita:</strong> JPG má téměř univerzální podporu.</li><li><strong>Kvalita:</strong> Oba mohou vypadat skvěle; JPG používá ztrátovou kompresi.</li><li><strong>Ecosystém:</strong> HEIC je běžný na Apple; JPG je všude.</li></ul>"
+
+    }
+    {
+      "title": "Podporované limity a formáty"
+
+      "description": "<ul><li><strong>Přijatý vstup:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG nastavení:</strong> Kvalita 90 (progresivní, mozjpeg)</li></ul>"
+
+    }
+    {
+      "title": "Funkce našeho HEIC na JPG konvertoru"
+
+      "description": "<ul><li>100% zdarma, žádné vodoznaky</li><li>Výstup v kvalitním JPEG</li><li>Mobilní přívětivé uživatelské rozhraní</li><li>Jednoduchý, rychlý pracovní postup</li></ul>"
+
+    }
+    {
+      "title": "Co je HEIC?"
+
+      "description": "<p>HEIC je přípona souboru pro obrázky uložené pomocí standardu HEIF (High Efficiency Image File Format) — běžně kódováno s HEVC (H.265). Nabízí silnou kompresi s dobrou kvalitou, ale není univerzálně podporováno.</p>"
+
+    }
+    {
+      "title": "Co je JPG?"
+
+      "description": "<p>JPG (JPEG) je nejširší podporovaný formát obrázků. Používá ztrátovou kompresi pro vyvážení kvality a velikosti, což ho činí ideálním pro sdílení a webové použití.</p>"
+
+    }
+    {
+      "title": "Odstraňování problémů"
+
+      "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je HEIC/HEIF a ≤ 16&nbsp;MB.</li><li><strong>Otočený obrázek:</strong> Některé prohlížeče ignorují EXIF orientaci — otočte po stažení, pokud je to potřeba.</li><li><strong>Posun barev:</strong> Široké gamut fotografie mohou vypadat jinak; převádějte s sRGB, pokud je to nutné.</li><li><strong>Živé fotografie:</strong> Pouze statický HEIC je převeden; spojené video (MOV) není zahrnuto.</li></ul>"
+
+    }
+    {
+      "title": "Případové použití"
+
+      "description": "<ul><li><strong>Sdílejte s uživateli, kteří nemají Apple</strong> bez problémů s kompatibilitou.</li><li><strong>Nahrávejte do CMS/sociálních</strong> platforem, které očekávají JPG.</li><li><strong>Tiskněte a upravujte</strong> v aplikacích, které nečtou HEIC.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je tento HEIC na JPG konvertor zdarma?",
+      "question": "Je tento HEIC na JPG konvertor zdarma?"
+
       "answer": "Ano, konvertor je zcela zdarma, bez skrytých poplatků nebo předplatného."
-    },
-    {
-      "question": "Ztratím kvalitu při převodu HEIC na JPG?",
-      "answer": "JPG používá ztrátovou kompresi, takže je možná malá ztráta kvality. Používáme optimalizovaná nastavení (kvalita ~90, progresivní), abychom ji minimalizovali."
-    },
-    {
-      "question": "Která zařízení podporují HEIC?",
-      "answer": "HEIC/HEIF je běžný na Apple zařízeních. Mnoho dalších platforem stále preferuje JPG jako výchozí."
-    },
-    {
-      "question": "Jaké velikosti souborů jsou podporovány?",
-      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
-    },
-    {
-      "question": "Jsou mé soubory v bezpečí?",
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro převod."
-    },
-    {
-      "question": "Mohu převést více HEIC souborů najednou?",
-      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkovou konverzi."
-    },
-    {
-      "question": "Kdy bych měl použít JPG místo HEIC?",
-      "answer": "Použijte JPG pro maximální kompatibilitu, nahrávání na platformy, které nepodporují HEIC, nebo při sdílení s zařízeními, která nemají Apple."
+
     }
-  ],
-  "note": "JPG používá ztrátovou kompresi; mírné kompromisy v velikosti/kvalitě jsou normální. Pro potřeby průhlednosti převádějte HEIC na PNG místo toho.",
+    {
+      "question": "Ztratím kvalitu při převodu HEIC na JPG?"
+
+      "answer": "JPG používá ztrátovou kompresi, takže je možná malá ztráta kvality. Používáme optimalizovaná nastavení (kvalita ~90, progresivní), abychom ji minimalizovali."
+
+    }
+    {
+      "question": "Která zařízení podporují HEIC?"
+
+      "answer": "HEIC/HEIF je běžný na Apple zařízeních. Mnoho dalších platforem stále preferuje JPG jako výchozí."
+
+    }
+    {
+      "question": "Jaké velikosti souborů jsou podporovány?"
+
+      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
+
+    }
+    {
+      "question": "Jsou mé soubory v bezpečí?"
+
+      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro převod."
+
+    }
+    {
+      "question": "Mohu převést více HEIC souborů najednou?"
+
+      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkovou konverzi."
+
+    }
+    {
+      "question": "Kdy bych měl použít JPG místo HEIC?"
+
+      "answer": "Použijte JPG pro maximální kompatibilitu, nahrávání na platformy, které nepodporují HEIC, nebo při sdílení s zařízeními, která nemají Apple."
+
+    }
+  ]
+  "note": "JPG používá ztrátovou kompresi; mírné kompromisy v velikosti/kvalitě jsou normální. Pro potřeby průhlednosti převádějte HEIC na PNG místo toho."
+
   "related_links": [
     {
-      "title": "Převést HEIC na PNG",
+      "title": "Převést HEIC na PNG"
+
       "url": "/cs/convert/heic-to-png"
-    },
-    {
-      "title": "Převést JPG na HEIC",
-      "url": "/cs/convert/jpg-to-heic"
-    },
-    {
-      "title": "Převést HEIC na WebP",
-      "url": "/cs/convert/heic-to-webp"
-    },
-    {
-      "title": "Komprimovat JPG Online",
-      "url": "/cs/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+    {
+      "title": "Převést JPG na HEIC"
+
+      "url": "/cs/convert/jpg-to-heic"
+
+    }
+    {
+      "title": "Převést HEIC na WebP"
+
+      "url": "/cs/convert/heic-to-webp"
+
+    }
+    {
+      "title": "Komprimovat JPG Online"
+
+      "url": "/cs/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "HEIC na JPG Konvertor - Zdarma & Online",
-      "url": "https://wikihowto.click/cs/convert/heic-to-jpg",
-      "description": "Bezplatný online nástroj pro převod HEIC obrázků na JPG s vysokou kvalitou a univerzální kompatibilitou.",
-      "inLanguage": "cs",
-      "image": "https://wikihowto.click/images/heic-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "HEIC na JPG Konvertor - Zdarma & Online"
+
+      "url": "https://miconvert.com/cs/convert/heic-to-jpg"
+
+      "description": "Bezplatný online nástroj pro převod HEIC obrázků na JPG s vysokou kvalitou a univerzální kompatibilitou."
+
+      "inLanguage": "cs"
+
+      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Převést",
-          "item": "https://wikihowto.click/cs/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Převést"
+
+          "item": "https://miconvert.com/cs/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "HEIC na JPG",
-          "item": "https://wikihowto.click/cs/convert/heic-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "HEIC na JPG"
+
+          "item": "https://miconvert.com/cs/convert/heic-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "HEIC na JPG Konvertor",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/cs/convert/heic-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "HEIC na JPG Konvertor"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/cs/convert/heic-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Výstup v kvalitním JPEG",
-        "Progresivní kódování",
+        "Výstup v kvalitním JPEG"
+
+        "Progresivní kódování"
+
         "Rychlé zpracování"
-      ],
-      "screenshot": "https://wikihowto.click/images/heic-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Je tento HEIC na JPG konvertor zdarma?",
+          "@type": "Question"
+
+          "name": "Je tento HEIC na JPG konvertor zdarma?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ano, konvertor je zcela zdarma, bez skrytých poplatků nebo předplatného."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jaké velikosti souborů jsou podporovány?",
+          "@type": "Question"
+
+          "name": "Jaké velikosti souborů jsou podporovány?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ztratím kvalitu při převodu HEIC na JPG?",
+          "@type": "Question"
+
+          "name": "Ztratím kvalitu při převodu HEIC na JPG?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "JPG používá ztrátovou kompresi, ale používáme optimalizovaná nastavení, abychom minimalizovali viditelnou ztrátu."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jak převést HEIC na JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jak převést HEIC na JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikněte na Nahrát HEIC a vyberte svůj soubor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počkejte na dokončení zpracování."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikněte na Stáhnout JPG pro uložení výsledku."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počkejte na dokončení zpracování."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikněte na Stáhnout JPG pro uložení výsledku."
+
+        }
+      ]
       "tool": [
         "HEIC na JPG Konvertor"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

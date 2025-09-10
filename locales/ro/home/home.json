@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "ro",
+  "lang_name": "Română",
+  "title": "miconvert.com - Convertoare de Fișiere Online Gratuite",
+  "sub_title": "Convertiți fișiere între PDF, imagini, audio, video și documente cu instrumente dedicate pentru fiecare pereche de formate. Rapid, sigur și fără filigran.",
+  "hint": "Căutați convertoare (de exemplu, JPG în PNG, PDF în JPG, MP3 în WAV)...",
+  "btn_download": "Căutați Convertoare",
+  "btn_paste": "Răsfoiți Totul",
+  "btn_clear": "Ștergeți",
+  "description": "<p><strong>Bine ați venit la miconvert.com</strong> — un hub specializat de <em>convertoare de fișiere specifice perechilor</em>. În loc de un singur instrument generic, creăm o pagină dedicată pentru fiecare pereche de formate (de exemplu, <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), astfel încât să obțineți întotdeauna opțiunile potrivite, cea mai bună calitate și un flux de lucru simplu.</p><p>Fiecare convertor de aici este adaptat scopului său exact: claritatea imaginii vs. dimensiunea, gestionarea transparenței, machete PDF gata de imprimare sau fidelitatea audio. Fără înregistrare, fără filigran și privat prin design — încărcările sunt procesate în siguranță și șterse automat după conversie. Utilizați pe desktop, tabletă sau mobil.</p><p>Explorați instrumentele noastre **PDF** (PDF ↔ JPG/PNG/TIFF/WebP, îmbinare/separare), **instrumente imagine** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **instrumente audio** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **instrumente video** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) și **instrumente documente** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Fiecare instrument este rapid, precis și concentrat.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Convertoare de Fișiere Online Gratuite - PDF, Imagine, Audio și Mai Mult | miconvert.com",
+    "description": "Convertiți fișiere online cu convertoare gratuite. Instrumente specializate pentru fiecare pereche de formate: PDF în JPG, PNG în PDF, MP3 în WAV și multe altele. Rapid, sigur, fără filigran.",
+    "keywords": "convertor fișiere, convertor pdf, convertor imagine, convertor audio, convertor video, convertor documente, jpg în png, pdf în jpg, png în pdf, mp3 în wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Convertoare de Fișiere Online Gratuite",
+    "og_description": "Convertiți PDF-uri, imagini, audio, video și documente cu convertoare specializate pentru fiecare pereche de formate. Gratuit, rapid și fără filigran.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ce este un convertor de fișiere?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Un convertor de fișiere transformă un fișier dintr-un format în altul (de exemplu, JPG în PNG, PDF în JPG). Convertoarele bune păstrează conținutul esențial (pixeli, text, audio) și metadatele, optimizând în același timp dimensiunea și compatibilitatea."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Îmi păstrați fișierele?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nu. Fișierele sunt procesate în siguranță și șterse automat după conversie. Nu le păstrăm permanent."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Conversia este gratuită și fără filigran?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Toate instrumentele sunt 100% gratuite și nu adaugă niciodată filigran."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Convertoare de Fișiere Online Gratuite",
+    "description": "Un instrument pentru fiecare pereche de formate. Convertiți PDF-uri, imagini, audio, video și documente online — rapid, sigur și fără filigran."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Ce este un Convertor de Fișiere?",
+      "description": "<p>Un convertor de fișiere schimbă formatul unui fișier pentru a îmbunătăți <strong>compatibilitatea</strong>, <strong>calitatea</strong> sau <strong>dimensiunea</strong>. Exemple comune includ conversia imaginilor pentru web (<em>PNG → WebP</em>), pregătirea documentelor gata de imprimare (<em>JPG/PNG → PDF</em>) sau extragerea vizualelor din documente (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Convertoarele bune echilibrează calitatea și dimensiunea, păstrează transparența acolo unde este cazul (PNG/WebP) și păstrează aspectul pentru PDF-uri (dimensiunea paginii, marginile, ajustarea la pagină). Instrumentele noastre expun setările implicite rezonabile, astfel încât majoritatea utilizatorilor să poată converti în câteva secunde.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Cu Pierderi vs. Fără Pierderi, Raster vs. Vectorial",
+      "description": "<ul><li><strong>Cu Pierderi vs. Fără Pierderi:</strong> JPG/WebP (cu pierderi) reduc dimensiunea prin eliminarea unor date; PNG/TIFF (fără pierderi) păstrează toate detaliile. Alegeți cu pierderi pentru partajarea pe web, fără pierderi pentru editare/arhivare.</li><li><strong>Raster vs. Vectorial:</strong> JPG/PNG/WebP/TIFF sunt raster (pixeli). SVG/AI sunt vectoriale (forme, trasee). Raster necesită o rezoluție adecvată (DPI) pentru imprimare; vectorial se scalează infinit fără estompare.</li><li><strong>Culoare și Metadate:</strong> Conversia poate afecta profilele ICC, EXIF sau canalele alfa. Instrumentele noastre de conversie imagine-PDF păstrează comportamentul transparenței în mod corespunzător și ajustează imaginile la pagină cu margini pentru o imprimare previzibilă.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Categorii Populare de Conversie",
+      "description": "<ul><li><strong>Instrumente PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Îmbinare JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Combinare PNG → PDF</a></li><li><strong>Instrumente Imagine:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Instrumente Audio:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Instrumente Video:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Instrumente Documente:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Cum Funcționează",
+      "description": "<ol><li>Alegeți convertorul pentru perechea de formate exactă (de exemplu, <em>PNG → PDF</em>).</li><li>Încărcați unul sau mai multe fișiere (procesare în lot acceptată la multe instrumente).</li><li>Faceți clic pe convertire — setările implicite sunt optimizate pentru calitate și dimensiune.</li><li>Descărcați rezultatul instantaneu. Fără înregistrare, fără filigran.</li></ol><p>Sfaturi: Păstrați rapoartele de aspect ale imaginilor consistente atunci când îmbinați în PDF pentru o prezentare uniformă. Pentru web, luați în considerare WebP pentru a reduce dimensiunea cu o calitate excelentă.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Securitate și Confidențialitate",
+      "description": "<ul><li><strong>Transferuri criptate:</strong> Fișierele se deplasează prin conexiuni securizate.</li><li><strong>Ștergere automată:</strong> Fișierele procesate sunt șterse automat.</li><li><strong>Fără stocare permanentă:</strong> Nu vă păstrăm fișierele după procesare.</li><li><strong>Fără filigran:</strong> Rezultatele sunt curate și gata de utilizare.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Ce este un convertor de fișiere?",
+      "answer": "Schimbă un fișier dintr-un format în altul (de exemplu, JPG → PNG, PDF → JPG) pentru a îmbunătăți compatibilitatea, calitatea sau dimensiunea."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Care sunt cele mai populare convertoare?",
+      "answer": "PDF ↔ Imagine (PDF → JPG/PNG/WebP/TIFF și JPG/PNG/WebP/TIFF → PDF) și Imagine ↔ Imagine (JPG ↔ PNG, PNG ↔ WebP) sunt cele mai utilizate."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Comprimați imaginile?",
+      "answer": "Da, formatele cu pierderi precum JPG/WebP reduc dimensiunea cu o calitate reglabilă; formatele fără pierderi precum PNG/TIFF păstrează detaliile."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Păstrați transparența?",
+      "answer": "PNG și WebP acceptă canale alfa. La conversia în PDF, paginile sunt aranjate cu margini și comportament de ajustare la pagină pentru un rezultat previzibil."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Este acceptat OCR?",
+      "answer": "OCR nu este activat în mod implicit. Pentru extragerea textului din imagini/PDF-uri, utilizați instrumente OCR dedicate."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Dimensiunea maximă a fișierului?",
+      "answer": "Majoritatea convertoarelor acceptă până la 100 MB pe conversie. Pentru fișiere mai mari, împărțiți sau comprimați mai întâi."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Sunt stocate fișierele mele?",
+      "answer": "Nu. Fișierele sunt procesate în siguranță și șterse automat după conversie."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Pot converti în lot sau îmbina?",
+      "answer": "Multe instrumente acceptă încărcarea mai multor fișiere și îmbinarea (de exemplu, Îmbinare JPG → PDF, Combinare PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Notă: Fiecare convertor este optimizat pentru o singură pereche de formate, asigurând cea mai bună calitate și viteză. Pentru cea mai uniformă prezentare PDF, utilizați dimensiuni și orientare consistente ale imaginilor.",
+  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate."
 }

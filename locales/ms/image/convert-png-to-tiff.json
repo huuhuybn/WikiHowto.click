@@ -1,244 +1,368 @@
 {
-  "lang": "ms",
-  "lang_name": "Melayu",
-  "title": "Penukar PNG ke TIFF - Percuma & Dalam Talian | WikiHowTo.click",
-  "sub_title": "Tukar imej PNG kepada TIFF dalam talian dengan pilihan tanpa kehilangan, kualiti sedia cetak, dan ketelusan yang dipelihara. Tiada tanda air.",
-  "hint": "Muat naik imej PNG anda untuk mula menukar...",
-  "btn_download": "Tukar kepada TIFF",
-  "btn_paste": "Muat naik PNG",
-  "btn_clear": "Bersihkan",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "ms"
+
+  "lang_name": "Melayu"
+
+  "title": "Penukar PNG ke TIFF - Percuma & Dalam Talian | miconvert.com"
+
+  "sub_title": "Tukar imej PNG kepada TIFF dalam talian dengan pilihan tanpa kehilangan, kualiti sedia cetak, dan ketelusan yang dipelihara. Tiada tanda air."
+
+  "hint": "Muat naik imej PNG anda untuk mula menukar..."
+
+  "btn_download": "Tukar kepada TIFF"
+
+  "btn_paste": "Muat naik PNG"
+
+  "btn_clear": "Bersihkan"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "Tukar PNG kepada TIFF - Penukar PNG ke TIFF Dalam Talian Percuma | WikiHowTo.click",
-    "description": "Tukar imej PNG kepada format TIFF dalam talian secara percuma. Penukaran PNG ke TIFF berkualiti tinggi dengan pilihan tanpa kehilangan dan pemprosesan pantas.",
-    "keywords": "png ke tiff, tukar png ke tiff, percuma png ke tiff, penukar tiff dalam talian, penukaran imej",
-    "canonical": "https://wikihowto.click/ms/convert/png-to-tiff",
-    "og_title": "Tukar PNG kepada TIFF - Penukar PNG ke TIFF Dalam Talian Percuma",
-    "og_description": "Tukar imej PNG kepada TIFF dengan pilihan pemampatan tanpa kehilangan dan ketelusan yang dipelihara. Percuma, pantas, dan selamat.",
-    "og_url": "https://wikihowto.click/ms/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Penukar PNG ke TIFF Dalam Talian Percuma",
-    "twitter_description": "Tukar PNG kepada TIFF dengan pilihan tanpa kehilangan, ketelusan, dan kualiti sedia cetak.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "Tukar PNG kepada TIFF - Penukar PNG ke TIFF Dalam Talian Percuma | miconvert.com"
+
+    "description": "Tukar imej PNG kepada format TIFF dalam talian secara percuma. Penukaran PNG ke TIFF berkualiti tinggi dengan pilihan tanpa kehilangan dan pemprosesan pantas."
+
+    "keywords": "png ke tiff, tukar png ke tiff, percuma png ke tiff, penukar tiff dalam talian, penukaran imej"
+
+    "canonical": "https://miconvert.com/ms/convert/png-to-tiff"
+
+    "og_title": "Tukar PNG kepada TIFF - Penukar PNG ke TIFF Dalam Talian Percuma"
+
+    "og_description": "Tukar imej PNG kepada TIFF dengan pilihan pemampatan tanpa kehilangan dan ketelusan yang dipelihara. Percuma, pantas, dan selamat."
+
+    "og_url": "https://miconvert.com/ms/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Tukar PNG kepada TIFF Dalam Talian",
+    "title": "Tukar PNG kepada TIFF Dalam Talian"
+
     "description": "Penukar PNG ke TIFF percuma dengan pilihan pemampatan tanpa kehilangan dan output sedia cetak. Berfungsi pada mana-mana peranti — tiada pendaftaran diperlukan."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "Penukar PNG ke TIFF",
-    "description": "Tukar imej PNG kepada TIFF dengan pemampatan tanpa kehilangan LZW/ZIP sambil memelihara ketelusan alpha.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "Penukar PNG ke TIFF"
+
+    "description": "Tukar imej PNG kepada TIFF dengan pemampatan tanpa kehilangan LZW/ZIP sambil memelihara ketelusan alpha."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Pilihan TIFF tanpa kehilangan (LZW/ZIP)",
-      "Memelihara ketelusan (alpha)",
-      "Kualiti sedia cetak",
+      "Pilihan TIFF tanpa kehilangan (LZW/ZIP)"
+
+      "Memelihara ketelusan (alpha)"
+
+      "Kualiti sedia cetak"
+
       "Alat dalam talian percuma"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Penukaran PNG ke TIFF Selesai",
-    "back_button": "Kembali ke Penukar",
-    "convert_another": "Tukar PNG Lain",
+    "title": "Penukaran PNG ke TIFF Selesai"
+
+    "back_button": "Kembali ke Penukar"
+
+    "convert_another": "Tukar PNG Lain"
+
     "quick_conversions": "Penukaran Pantas:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Mengapa Tukar PNG kepada TIFF?",
+      "title": "Mengapa Tukar PNG kepada TIFF?"
+
       "description": "<p>TIFF adalah format profesional, tahap arkib yang digunakan dalam pengimejan dan cetakan:</p><ul><li><strong>Pilihan tanpa kehilangan:</strong> Simpan master yang bersih tanpa memperkenalkan artefak baru.</li><li><strong>Sedia cetak:</strong> Hebat untuk output resolusi tinggi dan aliran kerja pra-cetak.</li><li><strong>Sokongan alpha:</strong> Boleh memelihara ketelusan (bergantung kepada pembaca).</li><li><strong>Mesra penyuntingan:</strong> Stabil untuk simpanan berulang dan pemindahan.</li></ul>"
-    },
-    {
-      "title": "Cara Tukar PNG kepada TIFF Dalam Talian",
-      "description": "<ol><li>Klik <em>Muat naik PNG</em> dan pilih fail anda.</li><li>Tunggu untuk pemprosesan.</li><li>Klik <em>Muat turun TIFF</em> untuk menyimpan hasilnya.</li></ol><p>Output lalai: 32-bit RGBA, tanpa kehilangan LZW, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF vs PNG: Perbezaan Utama",
-      "description": "<ul><li><strong>Pemampatan:</strong> PNG menggunakan DEFLATE tanpa kehilangan; TIFF menyokong LZW/ZIP (tanpa kehilangan) atau yang lain.</li><li><strong>Saiz fail:</strong> Bergantung kepada kandungan imej; TIFF boleh lebih besar atau serupa dengan PNG.</li><li><strong>Ketelusan:</strong> Kedua-duanya boleh termasuk alpha (sokongan pemapar mungkin berbeza untuk TIFF).</li><li><strong>Terbaik untuk:</strong> PNG untuk penghantaran web; TIFF untuk penyuntingan, cetakan, dan pengarkiban.</li></ul>"
-    },
-    {
-      "title": "Had & Format yang Disokong",
-      "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Laluan lalai:</strong> 32-bit RGBA, pemampatan LZW, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Penyelesaian Masalah",
-      "description": "<ul><li><strong>Fail terlalu besar:</strong> TIFF lebih berat untuk beberapa kandungan — simpan PNG untuk web atau pertimbangkan WebP/AVIF.</li><li><strong>Alpha tidak kelihatan:</strong> Beberapa pemapar mengabaikan alpha TIFF; sahkan dalam penyunting pro.</li><li><strong>Peralihan warna:</strong> Tukar kepada sRGB sebelum muat naik untuk warna yang konsisten di skrin.</li><li><strong>Muat naik gagal:</strong> Pastikan PNG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cara Tukar PNG kepada TIFF Dalam Talian"
+
+      "description": "<ol><li>Klik <em>Muat naik PNG</em> dan pilih fail anda.</li><li>Tunggu untuk pemprosesan.</li><li>Klik <em>Muat turun TIFF</em> untuk menyimpan hasilnya.</li></ol><p>Output lalai: 32-bit RGBA, tanpa kehilangan LZW, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF vs PNG: Perbezaan Utama"
+
+      "description": "<ul><li><strong>Pemampatan:</strong> PNG menggunakan DEFLATE tanpa kehilangan; TIFF menyokong LZW/ZIP (tanpa kehilangan) atau yang lain.</li><li><strong>Saiz fail:</strong> Bergantung kepada kandungan imej; TIFF boleh lebih besar atau serupa dengan PNG.</li><li><strong>Ketelusan:</strong> Kedua-duanya boleh termasuk alpha (sokongan pemapar mungkin berbeza untuk TIFF).</li><li><strong>Terbaik untuk:</strong> PNG untuk penghantaran web; TIFF untuk penyuntingan, cetakan, dan pengarkiban.</li></ul>"
+
+    }
+    {
+      "title": "Had & Format yang Disokong"
+
+      "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Saiz fail maksimum:</strong> sehingga 16&nbsp;MB setiap fail</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Laluan lalai:</strong> 32-bit RGBA, pemampatan LZW, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Penyelesaian Masalah"
+
+      "description": "<ul><li><strong>Fail terlalu besar:</strong> TIFF lebih berat untuk beberapa kandungan — simpan PNG untuk web atau pertimbangkan WebP/AVIF.</li><li><strong>Alpha tidak kelihatan:</strong> Beberapa pemapar mengabaikan alpha TIFF; sahkan dalam penyunting pro.</li><li><strong>Peralihan warna:</strong> Tukar kepada sRGB sebelum muat naik untuk warna yang konsisten di skrin.</li><li><strong>Muat naik gagal:</strong> Pastikan PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Adakah penukar PNG ke TIFF ini percuma?",
+      "question": "Adakah penukar PNG ke TIFF ini percuma?"
+
       "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
-    },
-    {
-      "question": "Adakah TIFF berfungsi pada semua aplikasi?",
-      "answer": "TIFF disokong secara meluas dalam aplikasi profesional (Photoshop, Affinity, banyak alat RIP/cetakan). Beberapa pemapar mudah mungkin tidak memaparkan alpha atau kaedah pemampatan tertentu."
-    },
-    {
-      "question": "Berapa besar fail TIFF berbanding PNG?",
-      "answer": "Ia berbeza mengikut imej. Dengan LZW/ZIP, TIFF boleh serupa atau lebih besar daripada PNG bergantung kepada kandungan."
-    },
-    {
-      "question": "Apakah saiz fail yang disokong?",
-      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
-    },
-    {
-      "question": "Adakah fail saya selamat?",
-      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
-    },
-    {
-      "question": "Bolehkah saya menukar beberapa PNG sekaligus?",
-      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
-    },
-    {
-      "question": "Adakah TIFF menyokong lapisan?",
-      "answer": "TIFF standard adalah imej rata. Beberapa aplikasi menyematkan data lapisan peribadi, tetapi alat ini mengeluarkan TIFF rata."
+
     }
-  ],
-  "note": "TIFF sesuai untuk penyimpanan/cetakan tetapi mungkin berat. Untuk web, pertimbangkan PNG/WebP/AVIF.",
+    {
+      "question": "Adakah TIFF berfungsi pada semua aplikasi?"
+
+      "answer": "TIFF disokong secara meluas dalam aplikasi profesional (Photoshop, Affinity, banyak alat RIP/cetakan). Beberapa pemapar mudah mungkin tidak memaparkan alpha atau kaedah pemampatan tertentu."
+
+    }
+    {
+      "question": "Berapa besar fail TIFF berbanding PNG?"
+
+      "answer": "Ia berbeza mengikut imej. Dengan LZW/ZIP, TIFF boleh serupa atau lebih besar daripada PNG bergantung kepada kandungan."
+
+    }
+    {
+      "question": "Apakah saiz fail yang disokong?"
+
+      "answer": "Anda boleh memuat naik imej sehingga 16&nbsp;MB setiap fail."
+
+    }
+    {
+      "question": "Adakah fail saya selamat?"
+
+      "answer": "Fail diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+
+    }
+    {
+      "question": "Bolehkah saya menukar beberapa PNG sekaligus?"
+
+      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulang proses atau gunakan alat batch."
+
+    }
+    {
+      "question": "Adakah TIFF menyokong lapisan?"
+
+      "answer": "TIFF standard adalah imej rata. Beberapa aplikasi menyematkan data lapisan peribadi, tetapi alat ini mengeluarkan TIFF rata."
+
+    }
+  ]
+  "note": "TIFF sesuai untuk penyimpanan/cetakan tetapi mungkin berat. Untuk web, pertimbangkan PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Tukar PNG kepada JPG",
+      "title": "Tukar PNG kepada JPG"
+
       "url": "/ms/convert/png-to-jpg"
-    },
-    {
-      "title": "Tukar PNG kepada WebP",
-      "url": "/ms/convert/png-to-webp"
-    },
-    {
-      "title": "Tukar JPG kepada TIFF",
-      "url": "/ms/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Semua hak terpelihara.",
+    {
+      "title": "Tukar PNG kepada WebP"
+
+      "url": "/ms/convert/png-to-webp"
+
+    }
+    {
+      "title": "Tukar JPG kepada TIFF"
+
+      "url": "/ms/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Semua hak terpelihara."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Penukar PNG ke TIFF - Percuma & Dalam Talian",
-      "url": "https://wikihowto.click/ms/convert/png-to-tiff",
-      "description": "Alat dalam talian percuma untuk menukar imej PNG kepada TIFF dengan pilihan tanpa kehilangan dan ketelusan yang dipelihara.",
-      "inLanguage": "ms",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Penukar PNG ke TIFF - Percuma & Dalam Talian"
+
+      "url": "https://miconvert.com/ms/convert/png-to-tiff"
+
+      "description": "Alat dalam talian percuma untuk menukar imej PNG kepada TIFF dengan pilihan tanpa kehilangan dan ketelusan yang dipelihara."
+
+      "inLanguage": "ms"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Laman Utama",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Laman Utama"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Tukar",
-          "item": "https://wikihowto.click/ms/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Tukar"
+
+          "item": "https://miconvert.com/ms/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG ke TIFF",
-          "item": "https://wikihowto.click/ms/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG ke TIFF"
+
+          "item": "https://miconvert.com/ms/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Penukar PNG ke TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ms/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Penukar PNG ke TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ms/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Pilihan LZW tanpa kehilangan",
-        "Memelihara alpha",
+        "Pilihan LZW tanpa kehilangan"
+
+        "Memelihara alpha"
+
         "Sedia cetak 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Adakah penukar PNG ke TIFF ini percuma?",
+          "@type": "Question"
+
+          "name": "Adakah penukar PNG ke TIFF ini percuma?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Apakah saiz fail yang disokong?",
+          "@type": "Question"
+
+          "name": "Apakah saiz fail yang disokong?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Adakah TIFF menyokong lapisan?",
+          "@type": "Question"
+
+          "name": "Adakah TIFF menyokong lapisan?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "TIFF standard adalah imej rata; beberapa aplikasi menyematkan data lapisan peribadi. Alat ini mengeluarkan TIFF rata."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cara menukar PNG kepada TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cara menukar PNG kepada TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik Muat naik PNG dan pilih fail anda."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Tunggu pemprosesan selesai."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik Muat turun TIFF untuk menyimpan hasilnya."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Tunggu pemprosesan selesai."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik Muat turun TIFF untuk menyimpan hasilnya."
+
+        }
+      ]
       "tool": [
         "Penukar PNG ke TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

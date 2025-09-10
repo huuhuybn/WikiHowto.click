@@ -1,244 +1,365 @@
 {
-  "lang": "zh",
-  "lang_name": "中文",
-  "title": "GIF 转 PNG 转换器 - 免费在线 | WikiHowTo.click",
-  "sub_title": "在线将 GIF 图像转换为支持透明度的 PNG 格式，高质量且无水印。",
-  "hint": "上传您的 GIF 图像以开始转换...",
-  "btn_download": "转换为 PNG",
-  "btn_paste": "上传 GIF",
-  "btn_clear": "清除",
+  "lang": "zh"
+
+  "lang_name": "中文"
+
+  "title": "GIF 转 PNG 转换器 - 免费在线 | miconvert.com"
+
+  "sub_title": "在线将 GIF 图像转换为支持透明度的 PNG 格式，高质量且无水印。"
+
+  "hint": "上传您的 GIF 图像以开始转换..."
+
+  "btn_download": "转换为 PNG"
+
+  "btn_paste": "上传 GIF"
+
+  "btn_clear": "清除"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>将您的 <strong>GIF 转换为 PNG</strong> 以获得更高的保真度和完全的透明度支持。我们的免费在线转换器将动画或静态 GIF 转换为高质量的 PNG 图像。虽然 GIF 适合简单动画，但 PNG 提供更优的色彩深度、更好的透明度和无损压缩，以获得清晰的静态图形。</p><p><strong>注意：</strong> 动画 GIF 被转换为 <em>单个静态图像</em>（第一帧）。要获得动画输出，请尝试 <a href='/en/convert/gif-to-webp'>GIF 转 WebP</a>。</p>",
+  }
+  "description": "<p>将您的 <strong>GIF 转换为 PNG</strong> 以获得更高的保真度和完全的透明度支持。我们的免费在线转换器将动画或静态 GIF 转换为高质量的 PNG 图像。虽然 GIF 适合简单动画，但 PNG 提供更优的色彩深度、更好的透明度和无损压缩，以获得清晰的静态图形。</p><p><strong>注意：</strong> 动画 GIF 被转换为 <em>单个静态图像</em>（第一帧）。要获得动画输出，请尝试 <a href='/en/convert/gif-to-webp'>GIF 转 WebP</a>。</p>"
+
   "head": {
-    "title": "在线转换 GIF 为 PNG - 免费 GIF 转 PNG 转换器 | WikiHowTo.click",
-    "description": "在线将 GIF 转换为 PNG，支持透明度，高质量且无水印。免费的、快速的、安全的 GIF 转 PNG 转换工具。",
-    "keywords": "gif 转 png, 转换 gif 为 png, 免费 gif 转 png, 在线 gif 转换器, 透明图像",
-    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_title": "GIF 转 PNG 转换器 - 免费在线",
-    "og_description": "将 GIF 图像转换为 PNG 格式，支持透明度和高质量。100% 免费、快速、安全。",
-    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "免费的 GIF 转 PNG 在线转换器",
-    "twitter_description": "将 GIF 转换为 PNG，支持透明度，高质量且无水印。适用于所有设备。",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "在线转换 GIF 为 PNG - 免费 GIF 转 PNG 转换器 | miconvert.com"
+
+    "description": "在线将 GIF 转换为 PNG，支持透明度，高质量且无水印。免费的、快速的、安全的 GIF 转 PNG 转换工具。"
+
+    "keywords": "gif 转 png, 转换 gif 为 png, 免费 gif 转 png, 在线 gif 转换器, 透明图像"
+
+    "canonical": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_title": "GIF 转 PNG 转换器 - 免费在线"
+
+    "og_description": "将 GIF 图像转换为 PNG 格式，支持透明度和高质量。100% 免费、快速、安全。"
+
+    "og_url": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "在线转换 GIF 为 PNG",
+    "title": "在线转换 GIF 为 PNG"
+
     "description": "免费的快速 GIF 转 PNG 转换器，支持透明度和高质量。可在任何设备上即时使用，无需注册。"
-  },
+
+  }
   "h2": [
     {
-      "title": "为什么要将 GIF 转换为 PNG？",
+      "title": "为什么要将 GIF 转换为 PNG？"
+
       "description": "<p>GIF 限制为 256 种颜色，适合简单动画。PNG 适合高质量静态图像：</p><ul><li><strong>更高的质量：</strong> 真彩色（24 位）+ alpha 对比 GIF 的 8 位调色板。</li><li><strong>透明度：</strong> PNG 支持完全 alpha 透明度，边缘平滑。</li><li><strong>无损压缩：</strong> PNG 保留细节而不损失质量。</li><li><strong>通用兼容性：</strong> 在应用程序和平台上广泛支持。</li></ul>"
-    },
-    {
-      "title": "如何在线将 GIF 转换为 PNG",
-      "description": "<ol><li>点击 <em>上传 GIF</em> 并选择您的文件。</li><li>等待处理完成。</li><li>点击 <em>下载 PNG</em> 保存结果。</li></ol><p>动画 GIF：仅第一帧导出为 PNG。</p>"
-    },
-    {
-      "title": "GIF 与 PNG：主要区别",
-      "description": "<table class='table-compare'><thead><tr><th>特性</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>颜色深度</td><td>8 位（256 种颜色）</td><td>真彩色（24 位）+ alpha</td></tr><tr><td>透明度</td><td>1 位掩码（开/关）</td><td>完全 alpha 透明度</td></tr><tr><td>压缩</td><td>无损（LZW）</td><td>无损（DEFLATE）</td></tr><tr><td>动画</td><td>支持</td><td>不支持（静态）</td></tr><tr><td>最佳用途</td><td>简单动画、贴纸</td><td>徽标、用户界面、截图、静态图形</td></tr></tbody></table>"
-    },
-    {
-      "title": "支持的限制和格式",
-      "description": "<ul><li><strong>接受的输入：</strong> GIF (<code>image/gif</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "我们的 GIF 转 PNG 转换器的特点",
-      "description": "<ul><li>100% 免费，无水印</li><li>保留存在的透明度</li><li>无损 PNG 输出</li><li>移动友好的界面</li></ul>"
-    },
-    {
-      "title": "什么是 GIF？",
-      "description": "<p>GIF（图形交换格式）支持基本动画并使用无损 LZW 压缩，但限制为 256 种颜色调色板。</p>"
-    },
-    {
-      "title": "什么是 PNG？",
-      "description": "<p>PNG（可移植网络图形）是一种无损格式，支持真彩色和 alpha 透明度——非常适合高质量静态图像。</p>"
-    },
-    {
-      "title": "故障排除",
-      "description": "<ul><li><strong>上传失败：</strong> 确保文件为 GIF 且 ≤ 16&nbsp;MB。</li><li><strong>锯齿状透明边缘：</strong> GIF 的 1 位透明度可能看起来很生硬；使用 <a href='/en/effect/remove-background'>背景去除器</a> 进行细化。</li><li><strong>需要动画：</strong> 使用 <a href='/en/convert/gif-to-webp'>GIF 转 WebP</a> 保持运动。</li></ul>"
-    },
-    {
-      "title": "使用案例：何时将 GIF 转换为 PNG",
-      "description": "<ul><li><strong>需要平滑透明度的徽标和图标。</strong></li><li><strong>需要清晰文本和线条的截图/用户界面。</strong></li><li><strong>以更高质量归档静态帧。</strong></li></ul>"
+
     }
-  ],
+    {
+      "title": "如何在线将 GIF 转换为 PNG"
+
+      "description": "<ol><li>点击 <em>上传 GIF</em> 并选择您的文件。</li><li>等待处理完成。</li><li>点击 <em>下载 PNG</em> 保存结果。</li></ol><p>动画 GIF：仅第一帧导出为 PNG。</p>"
+
+    }
+    {
+      "title": "GIF 与 PNG：主要区别"
+
+      "description": "<table class='table-compare'><thead><tr><th>特性</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>颜色深度</td><td>8 位（256 种颜色）</td><td>真彩色（24 位）+ alpha</td></tr><tr><td>透明度</td><td>1 位掩码（开/关）</td><td>完全 alpha 透明度</td></tr><tr><td>压缩</td><td>无损（LZW）</td><td>无损（DEFLATE）</td></tr><tr><td>动画</td><td>支持</td><td>不支持（静态）</td></tr><tr><td>最佳用途</td><td>简单动画、贴纸</td><td>徽标、用户界面、截图、静态图形</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "支持的限制和格式"
+
+      "description": "<ul><li><strong>接受的输入：</strong> GIF (<code>image/gif</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "我们的 GIF 转 PNG 转换器的特点"
+
+      "description": "<ul><li>100% 免费，无水印</li><li>保留存在的透明度</li><li>无损 PNG 输出</li><li>移动友好的界面</li></ul>"
+
+    }
+    {
+      "title": "什么是 GIF？"
+
+      "description": "<p>GIF（图形交换格式）支持基本动画并使用无损 LZW 压缩，但限制为 256 种颜色调色板。</p>"
+
+    }
+    {
+      "title": "什么是 PNG？"
+
+      "description": "<p>PNG（可移植网络图形）是一种无损格式，支持真彩色和 alpha 透明度——非常适合高质量静态图像。</p>"
+
+    }
+    {
+      "title": "故障排除"
+
+      "description": "<ul><li><strong>上传失败：</strong> 确保文件为 GIF 且 ≤ 16&nbsp;MB。</li><li><strong>锯齿状透明边缘：</strong> GIF 的 1 位透明度可能看起来很生硬；使用 <a href='/en/effect/remove-background'>背景去除器</a> 进行细化。</li><li><strong>需要动画：</strong> 使用 <a href='/en/convert/gif-to-webp'>GIF 转 WebP</a> 保持运动。</li></ul>"
+
+    }
+    {
+      "title": "使用案例：何时将 GIF 转换为 PNG"
+
+      "description": "<ul><li><strong>需要平滑透明度的徽标和图标。</strong></li><li><strong>需要清晰文本和线条的截图/用户界面。</strong></li><li><strong>以更高质量归档静态帧。</strong></li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "这个 GIF 转 PNG 转换器是免费的吗？",
+      "question": "这个 GIF 转 PNG 转换器是免费的吗？"
+
       "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
-    },
-    {
-      "question": "PNG 会保留 GIF 的透明度吗？",
-      "answer": "是的。GIF 的 1 位透明区域在 PNG 中保持透明；为了更平滑的边缘，转换后编辑 alpha 通道。"
-    },
-    {
-      "question": "动画 GIF 会发生什么？",
-      "answer": "仅第一帧被转换为静态 PNG 图像。要保持动画，请使用 GIF 转 WebP。"
-    },
-    {
-      "question": "将 GIF 转换为 PNG 时会失去质量吗？",
-      "answer": "不会。PNG 使用无损压缩并支持全色，通常在视觉保真度上优于 256 色的 GIF。"
-    },
-    {
-      "question": "支持什么文件大小？",
-      "answer": "您可以上传每个文件最多 16 MB 的图像。"
-    },
-    {
-      "question": "我的文件安全吗？",
-      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
-    },
-    {
-      "question": "我可以一次转换多个 GIF 文件吗？",
-      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+
     }
-  ],
-  "note": "动画 GIF 变为静态 PNG（第一帧）。要获得动画输出，请将 GIF 转换为 WebP。",
+    {
+      "question": "PNG 会保留 GIF 的透明度吗？"
+
+      "answer": "是的。GIF 的 1 位透明区域在 PNG 中保持透明；为了更平滑的边缘，转换后编辑 alpha 通道。"
+
+    }
+    {
+      "question": "动画 GIF 会发生什么？"
+
+      "answer": "仅第一帧被转换为静态 PNG 图像。要保持动画，请使用 GIF 转 WebP。"
+
+    }
+    {
+      "question": "将 GIF 转换为 PNG 时会失去质量吗？"
+
+      "answer": "不会。PNG 使用无损压缩并支持全色，通常在视觉保真度上优于 256 色的 GIF。"
+
+    }
+    {
+      "question": "支持什么文件大小？"
+
+      "answer": "您可以上传每个文件最多 16 MB 的图像。"
+
+    }
+    {
+      "question": "我的文件安全吗？"
+
+      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
+
+    }
+    {
+      "question": "我可以一次转换多个 GIF 文件吗？"
+
+      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
+
+    }
+  ]
+  "note": "动画 GIF 变为静态 PNG（第一帧）。要获得动画输出，请将 GIF 转换为 WebP。"
+
   "related_links": [
     {
-      "title": "将 GIF 转换为 JPG",
+      "title": "将 GIF 转换为 JPG"
+
       "url": "/en/convert/gif-to-jpg"
-    },
-    {
-      "title": "将 PNG 转换为 GIF",
-      "url": "/en/convert/png-to-gif"
-    },
-    {
-      "title": "将 GIF 转换为 WebP",
-      "url": "/en/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. 保留所有权利。",
+    {
+      "title": "将 PNG 转换为 GIF"
+
+      "url": "/en/convert/png-to-gif"
+
+    }
+    {
+      "title": "将 GIF 转换为 WebP"
+
+      "url": "/en/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. 保留所有权利。"
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "GIF 转 PNG 转换器 - 免费在线",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
-      "description": "免费的在线工具，将 GIF 图像转换为 PNG，支持无损压缩和透明度。",
-      "inLanguage": "zh",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF 转 PNG 转换器 - 免费在线"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
+      "description": "免费的在线工具，将 GIF 图像转换为 PNG，支持无损压缩和透明度。"
+
+      "inLanguage": "zh"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "首页",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "首页"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "转换",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "转换"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF 转 PNG",
-          "item": "https://wikihowto.click/en/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF 转 PNG"
+
+          "item": "https://miconvert.com/en/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "GIF 转 PNG 转换器",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF 转 PNG 转换器"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "无损 PNG 输出",
-        "支持透明度",
+        "无损 PNG 输出"
+
+        "支持透明度"
+
         "快速处理"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "这个 GIF 转 PNG 转换器是免费的吗？",
+          "@type": "Question"
+
+          "name": "这个 GIF 转 PNG 转换器是免费的吗？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "动画 GIF 会发生什么？",
+          "@type": "Question"
+
+          "name": "动画 GIF 会发生什么？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "仅第一帧被转换为静态 PNG 图像。要保持动画，请使用 GIF 转 WebP。"
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "支持什么文件大小？",
+          "@type": "Question"
+
+          "name": "支持什么文件大小？"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "您可以上传每个文件最多 16 MB 的图像。"
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "如何将 GIF 转换为 PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "如何将 GIF 转换为 PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "点击上传 GIF 并选择您的文件。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "等待处理完成。"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "点击下载 PNG 保存结果。"
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "等待处理完成。"
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "点击下载 PNG 保存结果。"
+
+        }
+      ]
       "tool": [
         "GIF 转 PNG 转换器"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

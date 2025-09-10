@@ -1,244 +1,363 @@
 {
-  "lang": "sq",
-  "lang_name": "Shqip",
-  "title": "Konvertues SVG në ICO - Falas & Online | WikiHowTo.click",
-  "sub_title": "Konvertoni imazhet SVG në formatin ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe pa ujëra.",
-  "hint": "Ngarko imazhin tuaj SVG për të filluar konvertimin...",
-  "btn_download": "Konverto në ICO",
-  "btn_paste": "Ngarko SVG",
-  "btn_clear": "Pastro",
-  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "lang": "sq"
+
+  "lang_name": "Shqip"
+
+  "title": "Konvertues SVG në ICO - Falas & Online | miconvert.com"
+
+  "sub_title": "Konvertoni imazhet SVG në formatin ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe pa ujëra."
+
+  "hint": "Ngarko imazhin tuaj SVG për të filluar konvertimin..."
+
+  "btn_download": "Konverto në ICO"
+
+  "btn_paste": "Ngarko SVG"
+
+  "btn_clear": "Pastro"
+
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
+
   "converter": {
-    "type": "svg-to-ico",
-    "inputFormat": "SVG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "svg-to-ico"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>Transformoni <strong>SVG në ICO</strong> për favicon dhe ikona desktopi perfekte! Konvertuesi ynë falas rasterizon SVG tuaj vektor në ICO me shumë madhësi që funksionon në të gjitha shfletuesit dhe desktopet Windows.</p><p>ICO mund të përfshijë disa madhësi në një skedar (p.sh., 16–256 px), kështu që ikona juaj duket e mprehtë në skedat, shkurtesat dhe ekranet me DPI të lartë. Transparenca ruhet për skaj të butë në sfondet e lehta dhe të errëta.</p>",
+  }
+  "description": "<p>Transformoni <strong>SVG në ICO</strong> për favicon dhe ikona desktopi perfekte! Konvertuesi ynë falas rasterizon SVG tuaj vektor në ICO me shumë madhësi që funksionon në të gjitha shfletuesit dhe desktopet Windows.</p><p>ICO mund të përfshijë disa madhësi në një skedar (p.sh., 16–256 px), kështu që ikona juaj duket e mprehtë në skedat, shkurtesat dhe ekranet me DPI të lartë. Transparenca ruhet për skaj të butë në sfondet e lehta dhe të errëta.</p>"
+
   "head": {
-    "title": "Konverto SVG në ICO Online - Falas Konvertues SVG në ICO | WikiHowTo.click",
-    "description": "Konvertoni SVG në ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe mjet konvertimi të sigurt SVG në ICO.",
-    "keywords": "svg në ico, konverto svg në ico, falas svg në ico, konvertues online ico, krijues favicon",
-    "canonical": "https://wikihowto.click/sq/convert/svg-to-ico",
-    "og_title": "Konvertues SVG në ICO - Falas & Online",
-    "og_description": "Konvertoni imazhet SVG në formatin ICO për favicon dhe ikona desktopi. 100% falas, shpejt, dhe të sigurt.",
-    "og_url": "https://wikihowto.click/sq/convert/svg-to-ico",
-    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertuesi Falas SVG në ICO Online",
-    "twitter_description": "Konvertoni SVG në ICO për favicon dhe ikona desktopi. Funksionon në të gjitha pajisjet.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
-  },
+    "title": "Konverto SVG në ICO Online - Falas Konvertues SVG në ICO | miconvert.com"
+
+    "description": "Konvertoni SVG në ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe mjet konvertimi të sigurt SVG në ICO."
+
+    "keywords": "svg në ico, konverto svg në ico, falas svg në ico, konvertues online ico, krijues favicon"
+
+    "canonical": "https://miconvert.com/sq/convert/svg-to-ico"
+
+    "og_title": "Konvertues SVG në ICO - Falas & Online"
+
+    "og_description": "Konvertoni imazhet SVG në formatin ICO për favicon dhe ikona desktopi. 100% falas, shpejt, dhe të sigurt."
+
+    "og_url": "https://miconvert.com/sq/convert/svg-to-ico"
+
+    "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Konverto SVG në ICO Online",
+    "title": "Konverto SVG në ICO Online"
+
     "description": "Konvertues falas dhe i shpejtë SVG në ICO për favicon dhe ikona desktopi. Funksionon menjëherë në çdo pajisje — nuk kërkohet regjistrim."
-  },
+
+  }
   "h2": [
     {
-      "title": "Pse të Konvertoni SVG në ICO?",
+      "title": "Pse të Konvertoni SVG në ICO?"
+
       "description": "<p>SVG ju jep forma të pavarura nga rezolucioni; ICO ju jep përputhshmëri native për ikonat:</p><ul><li><strong>Mbështetje për shumë madhësi:</strong> Bashkoni variacione 16–256 px në një skedar.</li><li><strong>Standardi i favicon:</strong> Njohur gjerësisht nga shfletuesit.</li><li><strong>Përputhshmëria me Windows:</strong> Formati natyror për ikonat desktop/aplikacioneve.</li><li><strong>Transparenca:</strong> Skaj të butë me alfa të ruajtur.</li></ul>"
-    },
-    {
-      "title": "Si të Konvertoni SVG në ICO Online",
-      "description": "<ol><li>Klikoni <em>Ngarko SVG</em> dhe zgjidhni skedarin tuaj vektor.</li><li>Prisni për rasterizimin dhe optimizimin.</li><li>Klikoni <em>Shkarko ICO</em> për të ruajtur ikonën tuaj.</li></ol><p>Ne gjenerojmë automatikisht madhësi të zakonshme për rezultate të mprehta.</p>"
-    },
-    {
-      "title": "Specifikimet e Formatit ICO",
-      "description": "<ul><li><strong>Madhësitë standarde:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Thellësia e ngjyrës:</strong> Deri në 32-bit RGBA</li><li><strong>Kompressimi:</strong> Hyrje të kompresuara PNG për ikona 32-bit (Vista+)</li><li><strong>Struktura:</strong> Header + shumë hyrje imazhesh në një skedar</li></ul>"
-    },
-    {
-      "title": "Kufijtë dhe Formatet e Mbështetura",
-      "description": "<ul><li><strong>Input i pranuar:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Zgjidhja e Problemeve",
-      "description": "<ul><li><strong>Favicon nuk po shfaqet:</strong> Pastroni cache-n dhe sigurohuni që <code>/favicon.ico</code> është lidhur përmes <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fontet/filtrat:</strong> Fontet e pa-integrauara, filtrat kompleksë, ose asetet e jashtme mund të rasterizohen ndryshe. Konvertoni tekstin në skica dhe asetet inline në SVG.</li><li><strong>Prerja:</strong> Përdorni një artboard katror me padding për të shmangur prerjen pas rasterizimit.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që SVG ≤ 16&nbsp;MB dhe është e vlefshme <code>image/svg+xml</code>.</li></ul>"
-    },
-    {
-      "title": "Praktikat më të Mira",
-      "description": "<ul><li>Projektoni në një kanavacë katrore 512×512 ose 1024×1024 për shkallëzim të pastër.</li><li>Mbani format e guximshme; shmangni linjat e holla në madhësi të vogla.</li><li>Përdorni kontrast të lartë për lexueshmëri në ikona 16–32 px.</li></ul>"
-    },
-    {
-      "title": "Karakteristikat e Konvertuesit Tonë SVG në ICO",
-      "description": "<ul><li>100% Falas pa ujëra</li><li>Konvertimi automatik vektor→raster</li><li>Gjenerimi i ikonave me shumë madhësi</li><li>Transparenca e ruajtur</li><li>Procesim të sigurt</li></ul>"
+
     }
-  ],
+    {
+      "title": "Si të Konvertoni SVG në ICO Online"
+
+      "description": "<ol><li>Klikoni <em>Ngarko SVG</em> dhe zgjidhni skedarin tuaj vektor.</li><li>Prisni për rasterizimin dhe optimizimin.</li><li>Klikoni <em>Shkarko ICO</em> për të ruajtur ikonën tuaj.</li></ol><p>Ne gjenerojmë automatikisht madhësi të zakonshme për rezultate të mprehta.</p>"
+
+    }
+    {
+      "title": "Specifikimet e Formatit ICO"
+
+      "description": "<ul><li><strong>Madhësitë standarde:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Thellësia e ngjyrës:</strong> Deri në 32-bit RGBA</li><li><strong>Kompressimi:</strong> Hyrje të kompresuara PNG për ikona 32-bit (Vista+)</li><li><strong>Struktura:</strong> Header + shumë hyrje imazhesh në një skedar</li></ul>"
+
+    }
+    {
+      "title": "Kufijtë dhe Formatet e Mbështetura"
+
+      "description": "<ul><li><strong>Input i pranuar:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Zgjidhja e Problemeve"
+
+      "description": "<ul><li><strong>Favicon nuk po shfaqet:</strong> Pastroni cache-n dhe sigurohuni që <code>/favicon.ico</code> është lidhur përmes <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fontet/filtrat:</strong> Fontet e pa-integrauara, filtrat kompleksë, ose asetet e jashtme mund të rasterizohen ndryshe. Konvertoni tekstin në skica dhe asetet inline në SVG.</li><li><strong>Prerja:</strong> Përdorni një artboard katror me padding për të shmangur prerjen pas rasterizimit.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që SVG ≤ 16&nbsp;MB dhe është e vlefshme <code>image/svg+xml</code>.</li></ul>"
+
+    }
+    {
+      "title": "Praktikat më të Mira"
+
+      "description": "<ul><li>Projektoni në një kanavacë katrore 512×512 ose 1024×1024 për shkallëzim të pastër.</li><li>Mbani format e guximshme; shmangni linjat e holla në madhësi të vogla.</li><li>Përdorni kontrast të lartë për lexueshmëri në ikona 16–32 px.</li></ul>"
+
+    }
+    {
+      "title": "Karakteristikat e Konvertuesit Tonë SVG në ICO"
+
+      "description": "<ul><li>100% Falas pa ujëra</li><li>Konvertimi automatik vektor→raster</li><li>Gjenerimi i ikonave me shumë madhësi</li><li>Transparenca e ruajtur</li><li>Procesim të sigurt</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "A është ky konvertues SVG në ICO falas?",
+      "question": "A është ky konvertues SVG në ICO falas?"
+
       "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
-    },
-    {
-      "question": "Cilat madhësi mbështeten në skedarët ICO?",
-      "answer": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
-    },
-    {
-      "question": "Mund të përdor ICO për favicon të faqes së internetit?",
-      "answer": "Po. Vendosni <code>/favicon.ico</code> në rrënjën e faqes tuaj dhe referojeni me <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-    },
-    {
-      "question": "Cilat madhësi skedarësh mbështeten?",
-      "answer": "Mund të ngarkoni skedarë SVG deri në 16&nbsp;MB."
-    },
-    {
-      "question": "A janë skedarët e mi të sigurt?",
-      "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
-    },
-    {
-      "question": "A do të jetë cilësia e ikonës e mirë?",
-      "answer": "Po. Ne rasterizojmë nga vektori juaj në shumë madhësi për të mbajtur skajet e mprehta dhe transparencën të paprekur."
+
     }
-  ],
-  "note": "SVG-të rasterizohen gjatë konvertimit. Për rezultate të qëndrueshme, konvertoni tekstin në skica dhe integoni asetet e nevojshme.",
+    {
+      "question": "Cilat madhësi mbështeten në skedarët ICO?"
+
+      "answer": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
+
+    }
+    {
+      "question": "Mund të përdor ICO për favicon të faqes së internetit?"
+
+      "answer": "Po. Vendosni <code>/favicon.ico</code> në rrënjën e faqes tuaj dhe referojeni me <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
+    }
+    {
+      "question": "Cilat madhësi skedarësh mbështeten?"
+
+      "answer": "Mund të ngarkoni skedarë SVG deri në 16&nbsp;MB."
+
+    }
+    {
+      "question": "A janë skedarët e mi të sigurt?"
+
+      "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
+
+    }
+    {
+      "question": "A do të jetë cilësia e ikonës e mirë?"
+
+      "answer": "Po. Ne rasterizojmë nga vektori juaj në shumë madhësi për të mbajtur skajet e mprehta dhe transparencën të paprekur."
+
+    }
+  ]
+  "note": "SVG-të rasterizohen gjatë konvertimit. Për rezultate të qëndrueshme, konvertoni tekstin në skica dhe integoni asetet e nevojshme."
+
   "related_links": [
     {
-      "title": "Konverto PNG në ICO",
+      "title": "Konverto PNG në ICO"
+
       "url": "/sq/convert/png-to-ico"
-    },
-    {
-      "title": "Konverto JPG në ICO",
-      "url": "/sq/convert/jpg-to-ico"
-    },
-    {
-      "title": "Konverto ICO në PNG",
-      "url": "/sq/convert/ico-to-png"
-    },
-    {
-      "title": "Konverto SVG në PNG",
-      "url": "/sq/convert/svg-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Të gjitha të drejtat e rezervuara.",
+    {
+      "title": "Konverto JPG në ICO"
+
+      "url": "/sq/convert/jpg-to-ico"
+
+    }
+    {
+      "title": "Konverto ICO në PNG"
+
+      "url": "/sq/convert/ico-to-png"
+
+    }
+    {
+      "title": "Konverto SVG në PNG"
+
+      "url": "/sq/convert/svg-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Konvertues SVG në ICO - Falas & Online",
-      "url": "https://wikihowto.click/sq/convert/svg-to-ico",
-      "description": "Mjet falas online për të konvertuar imazhet SVG në ICO për favicon dhe ikona desktopi Windows.",
-      "inLanguage": "sq",
-      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Konvertues SVG në ICO - Falas & Online"
+
+      "url": "https://miconvert.com/sq/convert/svg-to-ico"
+
+      "description": "Mjet falas online për të konvertuar imazhet SVG në ICO për favicon dhe ikona desktopi Windows."
+
+      "inLanguage": "sq"
+
+      "image": "https://miconvert.com/images/svg-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Kryefaqja",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Kryefaqja"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverto",
-          "item": "https://wikihowto.click/sq/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverto"
+
+          "item": "https://miconvert.com/sq/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG në ICO",
-          "item": "https://wikihowto.click/sq/convert/svg-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG në ICO"
+
+          "item": "https://miconvert.com/sq/convert/svg-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Konvertues SVG në ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sq/convert/svg-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Konvertues SVG në ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sq/convert/svg-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Vektor në raster",
-        "Set me shumë madhësi",
+        "Vektor në raster"
+
+        "Set me shumë madhësi"
+
         "Transparenca e ruajtur"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "A është ky konvertues SVG në ICO falas?",
+          "@type": "Question"
+
+          "name": "A është ky konvertues SVG në ICO falas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Cilat madhësi skedarësh mbështeten?",
+          "@type": "Question"
+
+          "name": "Cilat madhësi skedarësh mbështeten?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Mund të ngarkoni skedarë SVG deri në 16 MB."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Cilat madhësi mbështeten në skedarët ICO?",
+          "@type": "Question"
+
+          "name": "Cilat madhësi mbështeten në skedarët ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Si të konvertoni SVG në ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Si të konvertoni SVG në ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikoni Ngarko SVG dhe zgjidhni skedarin tuaj vektor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Prisni për të përfunduar rasterizimin dhe optimizimin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikoni Shkarko ICO për të ruajtur skedarin e ikonës."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Prisni për të përfunduar rasterizimin dhe optimizimin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikoni Shkarko ICO për të ruajtur skedarin e ikonës."
+
+        }
+      ]
       "tool": [
         "Konvertues SVG në ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,7 +1,7 @@
 const langArr = require('../locales/langs');
 const SUPPORTED_LANGS = langArr
 
-const BASE_URL = 'https://snapsave.social';
+const BASE_URL = 'https://miconvert.com';
 
 function escapeHtml(str) {
     return str.replace(/&/g, '&amp;')

@@ -1,244 +1,365 @@
 {
-  "lang": "sl",
-  "lang_name": "Slovenščina",
-  "title": "Pretvornik GIF v PNG - Brezplačno in Spletno | WikiHowTo.click",
-  "sub_title": "Pretvorite GIF slike v PNG format na spletu s podporo za prosojnost, visoko kakovostjo in brez vodnih žigov.",
-  "hint": "Naložite svojo GIF sliko, da začnete s pretvorbo...",
-  "btn_download": "Pretvori v PNG",
-  "btn_paste": "Naloži GIF",
-  "btn_clear": "Počisti",
+  "lang": "sl"
+
+  "lang_name": "Slovenščina"
+
+  "title": "Pretvornik GIF v PNG - Brezplačno in Spletno | miconvert.com"
+
+  "sub_title": "Pretvorite GIF slike v PNG format na spletu s podporo za prosojnost, visoko kakovostjo in brez vodnih žigov."
+
+  "hint": "Naložite svojo GIF sliko, da začnete s pretvorbo..."
+
+  "btn_download": "Pretvori v PNG"
+
+  "btn_paste": "Naloži GIF"
+
+  "btn_clear": "Počisti"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Pretvorite svoj <strong>GIF v PNG</strong> za višjo zvestobo in popolno podporo prosojnosti. Naš brezplačni spletni pretvornik pretvarja animirane ali statične GIF-e v slike PNG visoke kakovosti. Medtem ko je GIF odličen za preproste animacije, PNG ponuja boljšo globino barv, boljšo prosojnost in brezizgubno stiskanje za jasne statične grafike.</p><p><strong>Opomba:</strong> Animirani GIF-i se pretvorijo v <em>eno statično sliko</em> (prvi okvir). Za animirani izhod poskusite <a href='/en/convert/gif-to-webp'>GIF v WebP</a>.</p>",
+  }
+  "description": "<p>Pretvorite svoj <strong>GIF v PNG</strong> za višjo zvestobo in popolno podporo prosojnosti. Naš brezplačni spletni pretvornik pretvarja animirane ali statične GIF-e v slike PNG visoke kakovosti. Medtem ko je GIF odličen za preproste animacije, PNG ponuja boljšo globino barv, boljšo prosojnost in brezizgubno stiskanje za jasne statične grafike.</p><p><strong>Opomba:</strong> Animirani GIF-i se pretvorijo v <em>eno statično sliko</em> (prvi okvir). Za animirani izhod poskusite <a href='/en/convert/gif-to-webp'>GIF v WebP</a>.</p>"
+
   "head": {
-    "title": "Pretvori GIF v PNG na spletu - Brezplačen pretvornik GIF v PNG | WikiHowTo.click",
-    "description": "Pretvorite GIF v PNG na spletu s podporo za prosojnost, visoko kakovostjo in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo GIF v PNG.",
-    "keywords": "gif v png, pretvori gif v png, brezplačen gif v png, spletni gif pretvornik, prosojne slike",
-    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_title": "Pretvornik GIF v PNG - Brezplačno in Spletno",
-    "og_description": "Pretvorite GIF slike v PNG format s podporo za prosojnost in visoko kakovostjo. 100% brezplačno, hitro in varno.",
-    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Brezplačen pretvornik GIF v PNG na spletu",
-    "twitter_description": "Pretvorite GIF v PNG s podporo za prosojnost, visoko kakovostjo in brez vodnih žigov. Deluje na vseh napravah.",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "Pretvori GIF v PNG na spletu - Brezplačen pretvornik GIF v PNG | miconvert.com"
+
+    "description": "Pretvorite GIF v PNG na spletu s podporo za prosojnost, visoko kakovostjo in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo GIF v PNG."
+
+    "keywords": "gif v png, pretvori gif v png, brezplačen gif v png, spletni gif pretvornik, prosojne slike"
+
+    "canonical": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_title": "Pretvornik GIF v PNG - Brezplačno in Spletno"
+
+    "og_description": "Pretvorite GIF slike v PNG format s podporo za prosojnost in visoko kakovostjo. 100% brezplačno, hitro in varno."
+
+    "og_url": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Pretvori GIF v PNG na spletu",
+    "title": "Pretvori GIF v PNG na spletu"
+
     "description": "Brezplačen in hiter pretvornik GIF v PNG s podporo za prosojnost in visoko kakovostjo. Deluje takoj na kateri koli napravi, brez potrebe po prijavi."
-  },
+
+  }
   "h2": [
     {
-      "title": "Zakaj pretvoriti GIF v PNG?",
+      "title": "Zakaj pretvoriti GIF v PNG?"
+
       "description": "<p>GIF je omejen na 256 barv in primeren za preproste animacije. PNG je idealen za slike visoke kakovosti:</p><ul><li><strong>Višja kakovost:</strong> Prava barva (24-bit) + alfa v primerjavi z GIF-ovo 8-bitno paleto.</li><li><strong>Prosojnost:</strong> PNG podpira popolno alfa prosojnost za gladke robove.</li><li><strong>Brezizgubno stiskanje:</strong> PNG ohranja podrobnosti brez izgube kakovosti.</li><li><strong>Univerzalna združljivost:</strong> Široko podprt v aplikacijah in platformah.</li></ul>"
-    },
-    {
-      "title": "Kako pretvoriti GIF v PNG na spletu",
-      "description": "<ol><li>Kliknite <em>Naloži GIF</em> in izberite svojo datoteko.</li><li>Počakajte, da se obdelava konča.</li><li>Kliknite <em>Prenesi PNG</em>, da shranite rezultat.</li></ol><p>Animirani GIF-i: samo prvi okvir se izvozi kot PNG.</p>"
-    },
-    {
-      "title": "GIF proti PNG: Ključne razlike",
-      "description": "<table class='table-compare'><thead><tr><th>Lastnost</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Globina barv</td><td>8-bit (256 barv)</td><td>Prava barva (24-bit) + alfa</td></tr><tr><td>Prosojnost</td><td>1-bitna maska (vklop/izklop)</td><td>Polna alfa prosojnost</td></tr><tr><td>Stiskanje</td><td>Brezizgubno (LZW)</td><td>Brezizgubno (DEFLATE)</td></tr><tr><td>Animacija</td><td>Podprta</td><td>Ni podprta (statična)</td></tr><tr><td>Najboljše za</td><td>Preproste animacije, nalepke</td><td>Logotipi, UI, posnetki zaslona, statične grafike</td></tr></tbody></table>"
-    },
-    {
-      "title": "Podprte omejitve in formati",
-      "description": "<ul><li><strong> Sprejeti vhod:</strong> GIF (<code>image/gif</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Značilnosti našega pretvornika GIF v PNG",
-      "description": "<ul><li>100% brezplačno, brez vodnih žigov</li><li>Ohranja prosojnost, kjer je prisotna</li><li>Brezizgubni PNG izhod</li><li>Mobilno prijazen vmesnik</li></ul>"
-    },
-    {
-      "title": "Kaj je GIF?",
-      "description": "<p>GIF (Graphics Interchange Format) podpira osnovno animacijo in uporablja brezizgubno LZW stiskanje, vendar je omejen na paleto 256 barv.</p>"
-    },
-    {
-      "title": "Kaj je PNG?",
-      "description": "<p>PNG (Portable Network Graphics) je brezizgubni format, ki podpira pravo barvo in alfa prosojnost - idealen za slike visoke kakovosti.</p>"
-    },
-    {
-      "title": "Odpravljanje težav",
-      "description": "<ul><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je datoteka GIF in ≤ 16&nbsp;MB.</li><li><strong>Neenakomerni robovi prosojnosti:</strong> 1-bitna prosojnost GIF-a lahko izgleda ostro; izpopolnite z <a href='/en/effect/remove-background'>Odstranjevalcem ozadja</a>.</li><li><strong>Potrebna animacija:</strong> Uporabite <a href='/en/convert/gif-to-webp'>GIF v WebP</a>, da ohranite gibanje.</li></ul>"
-    },
-    {
-      "title": "Uporabniški primeri: Kdaj pretvoriti GIF v PNG",
-      "description": "<ul><li><strong>Logotipi in ikone</strong>, ki potrebujejo gladko prosojnost.</li><li><strong>Posnetki zaslona/UI</strong>, ki zahtevajo jasen tekst in črte.</li><li><strong>Arhiviranje</strong> statičnih okvirjev v višji kakovosti.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kako pretvoriti GIF v PNG na spletu"
+
+      "description": "<ol><li>Kliknite <em>Naloži GIF</em> in izberite svojo datoteko.</li><li>Počakajte, da se obdelava konča.</li><li>Kliknite <em>Prenesi PNG</em>, da shranite rezultat.</li></ol><p>Animirani GIF-i: samo prvi okvir se izvozi kot PNG.</p>"
+
+    }
+    {
+      "title": "GIF proti PNG: Ključne razlike"
+
+      "description": "<table class='table-compare'><thead><tr><th>Lastnost</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Globina barv</td><td>8-bit (256 barv)</td><td>Prava barva (24-bit) + alfa</td></tr><tr><td>Prosojnost</td><td>1-bitna maska (vklop/izklop)</td><td>Polna alfa prosojnost</td></tr><tr><td>Stiskanje</td><td>Brezizgubno (LZW)</td><td>Brezizgubno (DEFLATE)</td></tr><tr><td>Animacija</td><td>Podprta</td><td>Ni podprta (statična)</td></tr><tr><td>Najboljše za</td><td>Preproste animacije, nalepke</td><td>Logotipi, UI, posnetki zaslona, statične grafike</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Podprte omejitve in formati"
+
+      "description": "<ul><li><strong> Sprejeti vhod:</strong> GIF (<code>image/gif</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Značilnosti našega pretvornika GIF v PNG"
+
+      "description": "<ul><li>100% brezplačno, brez vodnih žigov</li><li>Ohranja prosojnost, kjer je prisotna</li><li>Brezizgubni PNG izhod</li><li>Mobilno prijazen vmesnik</li></ul>"
+
+    }
+    {
+      "title": "Kaj je GIF?"
+
+      "description": "<p>GIF (Graphics Interchange Format) podpira osnovno animacijo in uporablja brezizgubno LZW stiskanje, vendar je omejen na paleto 256 barv.</p>"
+
+    }
+    {
+      "title": "Kaj je PNG?"
+
+      "description": "<p>PNG (Portable Network Graphics) je brezizgubni format, ki podpira pravo barvo in alfa prosojnost - idealen za slike visoke kakovosti.</p>"
+
+    }
+    {
+      "title": "Odpravljanje težav"
+
+      "description": "<ul><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je datoteka GIF in ≤ 16&nbsp;MB.</li><li><strong>Neenakomerni robovi prosojnosti:</strong> 1-bitna prosojnost GIF-a lahko izgleda ostro; izpopolnite z <a href='/en/effect/remove-background'>Odstranjevalcem ozadja</a>.</li><li><strong>Potrebna animacija:</strong> Uporabite <a href='/en/convert/gif-to-webp'>GIF v WebP</a>, da ohranite gibanje.</li></ul>"
+
+    }
+    {
+      "title": "Uporabniški primeri: Kdaj pretvoriti GIF v PNG"
+
+      "description": "<ul><li><strong>Logotipi in ikone</strong>, ki potrebujejo gladko prosojnost.</li><li><strong>Posnetki zaslona/UI</strong>, ki zahtevajo jasen tekst in črte.</li><li><strong>Arhiviranje</strong> statičnih okvirjev v višji kakovosti.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ali je ta pretvornik GIF v PNG brezplačen?",
+      "question": "Ali je ta pretvornik GIF v PNG brezplačen?"
+
       "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
-    },
-    {
-      "question": "Ali bo PNG ohranil prosojnost iz GIF-a?",
-      "answer": "Da. 1-bitna prosojna območja GIF-a ostanejo prosojna v PNG; za gladkejše robove uredite alfa kanal po pretvorbi."
-    },
-    {
-      "question": "Kaj se zgodi z animiranimi GIF-i?",
-      "answer": "Samo prvi okvir se pretvori v statično PNG sliko. Da ohranite animacijo, uporabite GIF v WebP."
-    },
-    {
-      "question": "Ali bom izgubil kakovost pri pretvorbi GIF v PNG?",
-      "answer": "Ne. PNG uporablja brezizgubno stiskanje in podpira polno barvo, pogosto izboljša vizualno zvestobo v primerjavi z 256-barvnim GIF-om."
-    },
-    {
-      "question": "Katere velikosti datotek so podprte?",
-      "answer": "Lahko naložite slike do 16 MB na datoteko."
-    },
-    {
-      "question": "Ali so moje datoteke varne?",
-      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
-    },
-    {
-      "question": "Ali lahko hkrati pretvorim več GIF datotek?",
-      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+
     }
-  ],
-  "note": "Animirani GIF-i postanejo statični PNG-ji (prvi okvir). Za animirani izhod pretvorite GIF v WebP.",
+    {
+      "question": "Ali bo PNG ohranil prosojnost iz GIF-a?"
+
+      "answer": "Da. 1-bitna prosojna območja GIF-a ostanejo prosojna v PNG; za gladkejše robove uredite alfa kanal po pretvorbi."
+
+    }
+    {
+      "question": "Kaj se zgodi z animiranimi GIF-i?"
+
+      "answer": "Samo prvi okvir se pretvori v statično PNG sliko. Da ohranite animacijo, uporabite GIF v WebP."
+
+    }
+    {
+      "question": "Ali bom izgubil kakovost pri pretvorbi GIF v PNG?"
+
+      "answer": "Ne. PNG uporablja brezizgubno stiskanje in podpira polno barvo, pogosto izboljša vizualno zvestobo v primerjavi z 256-barvnim GIF-om."
+
+    }
+    {
+      "question": "Katere velikosti datotek so podprte?"
+
+      "answer": "Lahko naložite slike do 16 MB na datoteko."
+
+    }
+    {
+      "question": "Ali so moje datoteke varne?"
+
+      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
+
+    }
+    {
+      "question": "Ali lahko hkrati pretvorim več GIF datotek?"
+
+      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
+
+    }
+  ]
+  "note": "Animirani GIF-i postanejo statični PNG-ji (prvi okvir). Za animirani izhod pretvorite GIF v WebP."
+
   "related_links": [
     {
-      "title": "Pretvori GIF v JPG",
+      "title": "Pretvori GIF v JPG"
+
       "url": "/en/convert/gif-to-jpg"
-    },
-    {
-      "title": "Pretvori PNG v GIF",
-      "url": "/en/convert/png-to-gif"
-    },
-    {
-      "title": "Pretvori GIF v WebP",
-      "url": "/en/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+    {
+      "title": "Pretvori PNG v GIF"
+
+      "url": "/en/convert/png-to-gif"
+
+    }
+    {
+      "title": "Pretvori GIF v WebP"
+
+      "url": "/en/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Pretvornik GIF v PNG - Brezplačno in Spletno",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
-      "description": "Brezplačno spletno orodje za pretvorbo GIF slik v PNG z brezizgubnim stiskanjem in podporo za prosojnost.",
-      "inLanguage": "sl",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik GIF v PNG - Brezplačno in Spletno"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
+      "description": "Brezplačno spletno orodje za pretvorbo GIF slik v PNG z brezizgubnim stiskanjem in podporo za prosojnost."
+
+      "inLanguage": "sl"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Pretvori",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Pretvori"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF v PNG",
-          "item": "https://wikihowto.click/en/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF v PNG"
+
+          "item": "https://miconvert.com/en/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Pretvornik GIF v PNG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik GIF v PNG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Brezizgubni PNG izhod",
-        "Podpora za prosojnost",
+        "Brezizgubni PNG izhod"
+
+        "Podpora za prosojnost"
+
         "Hitro obdelovanje"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ali je ta pretvornik GIF v PNG brezplačen?",
+          "@type": "Question"
+
+          "name": "Ali je ta pretvornik GIF v PNG brezplačen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kaj se zgodi z animiranimi GIF-i?",
+          "@type": "Question"
+
+          "name": "Kaj se zgodi z animiranimi GIF-i?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Samo prvi okvir se pretvori v statično PNG sliko. Da ohranite animacijo, uporabite GIF v WebP."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Katere velikosti datotek so podprte?",
+          "@type": "Question"
+
+          "name": "Katere velikosti datotek so podprte?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Lahko naložite slike do 16 MB na datoteko."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kako pretvoriti GIF v PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kako pretvoriti GIF v PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite Naloži GIF in izberite svojo datoteko."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počakajte, da se obdelava konča."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite Prenesi PNG, da shranite rezultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počakajte, da se obdelava konča."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite Prenesi PNG, da shranite rezultat."
+
+        }
+      ]
       "tool": [
         "Pretvornik GIF v PNG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

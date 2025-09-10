@@ -1,239 +1,355 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Convertidor de PNG a ICO - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges PNG a format ICO en línia per a favicons i icones de escriptori. Gratuït, ràpid i sense marques d'aigua.",
-  "hint": "Puja la teva imatge PNG per començar a convertir...",
-  "btn_download": "Convertir a ICO",
-  "btn_paste": "Pujar PNG",
-  "btn_clear": "Esborrar",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Convertidor de PNG a ICO - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges PNG a format ICO en línia per a favicons i icones de escriptori. Gratuït, ràpid i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge PNG per començar a convertir..."
+
+  "btn_download": "Convertir a ICO"
+
+  "btn_paste": "Pujar PNG"
+
+  "btn_clear": "Esborrar"
+
   "converter": {
-    "type": "png-to-ico",
-    "inputFormat": "PNG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-ico"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>Transforma el teu <strong>PNG a ICO</strong> per a favicons i icones de escriptori perfectes! El nostre convertidor gratuït de PNG a ICO crea icones professionals de múltiples mides que es veuen nítides a través dels navegadors i escriptoris de Windows.</p><p>Els fitxers ICO poden agrupar diverses mides en un sol fitxer (per exemple, 16–256 px), ideal per a favicons i icones d'aplicacions/accés directe. La transparència del PNG es preserva per a vores suaus sobre fons foscos/clars.</p>",
+  }
+  "description": "<p>Transforma el teu <strong>PNG a ICO</strong> per a favicons i icones de escriptori perfectes! El nostre convertidor gratuït de PNG a ICO crea icones professionals de múltiples mides que es veuen nítides a través dels navegadors i escriptoris de Windows.</p><p>Els fitxers ICO poden agrupar diverses mides en un sol fitxer (per exemple, 16–256 px), ideal per a favicons i icones d'aplicacions/accés directe. La transparència del PNG es preserva per a vores suaus sobre fons foscos/clars.</p>"
+
   "head": {
-    "title": "Converteix PNG a ICO en línia - Gratuït convertidor de PNG a ICO | WikiHowTo.click",
-    "description": "Converteix PNG a ICO en línia per a favicons i icones de escriptori. Gratuït, ràpid i segur convertidor de PNG a ICO.",
-    "keywords": "png a ico, convertir png a ico, gratuït png a ico, convertidor ico en línia, creador de favicon",
-    "canonical": "https://wikihowto.click/ca/convert/png-to-ico",
-    "og_title": "Convertidor de PNG a ICO - Gratuït i en línia",
-    "og_description": "Converteix imatges PNG a format ICO per a favicons i icones de escriptori. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/ca/convert/png-to-ico",
-    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratuït convertidor de PNG a ICO en línia",
-    "twitter_description": "Converteix PNG a ICO per a favicons i icones de escriptori. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
-  },
+    "title": "Converteix PNG a ICO en línia - Gratuït convertidor de PNG a ICO | miconvert.com"
+
+    "description": "Converteix PNG a ICO en línia per a favicons i icones de escriptori. Gratuït, ràpid i segur convertidor de PNG a ICO."
+
+    "keywords": "png a ico, convertir png a ico, gratuït png a ico, convertidor ico en línia, creador de favicon"
+
+    "canonical": "https://miconvert.com/ca/convert/png-to-ico"
+
+    "og_title": "Convertidor de PNG a ICO - Gratuït i en línia"
+
+    "og_description": "Converteix imatges PNG a format ICO per a favicons i icones de escriptori. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/ca/convert/png-to-ico"
+
+    "og_image": "https://miconvert.com/images/png-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Converteix PNG a ICO en línia",
+    "title": "Converteix PNG a ICO en línia"
+
     "description": "Gratuït i ràpid convertidor de PNG a ICO per a favicons i icones de escriptori. Funciona instantàniament en qualsevol dispositiu, sense necessitat de registre."
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir PNG a ICO?",
+      "title": "Per què convertir PNG a ICO?"
+
       "description": "<p>ICO està dissenyat per a icones:</p><ul><li><strong>Suport de múltiples mides:</strong> Agrupa variants de 16–256 px en un sol fitxer.</li><li><strong>Estàndard de favicon:</strong> Reconegut pels principals navegadors.</li><li><strong>Compatibilitat amb Windows:</strong> Format natiu d'icona d'escriptori/aplicació.</li><li><strong>Transparència:</strong> Vores suaus amb l'alpha del PNG preservat.</li></ul>"
-    },
-    {
-      "title": "Com convertir PNG a ICO en línia",
-      "description": "<ol><li>Fes clic a <em>Pujar PNG</em> i selecciona la teva imatge.</li><li>Espera que es processi i s'optimitzi.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem automàticament les mides d'icona comunes.</p>"
-    },
-    {
-      "title": "Especificacions del format ICO",
-      "description": "<ul><li><strong>Mides estàndard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profunditat de color:</strong> Fins a 32 bits RGBA</li><li><strong>Transparència:</strong> Canal alpha complet</li><li><strong>Estructura:</strong> Capçalera + múltiples entrades d'imatge</li><li><strong>Compressió:</strong> Entrades comprimides en PNG per a icones de 32 bits (Vista+)</li></ul>"
-    },
-    {
-      "title": "Límits i formats compatibles",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Solució de problemes",
-      "description": "<ul><li><strong>Favicon no apareix:</strong> Esborra la memòria cau i assegura't que <code>/favicon.ico</code> estigui a l'arrel del lloc amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Vores esgrogueïdes:</strong> Comença amb un PNG més gran i de contrast alt; redueix netament.</li><li><strong>La pujada falla:</strong> Assegura't que el PNG ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Característiques del nostre convertidor de PNG a ICO",
-      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Optimització automàtica de mida</li><li>Preservació de la transparència</li><li>Processament segur</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir PNG a ICO en línia"
+
+      "description": "<ol><li>Fes clic a <em>Pujar PNG</em> i selecciona la teva imatge.</li><li>Espera que es processi i s'optimitzi.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem automàticament les mides d'icona comunes.</p>"
+
+    }
+    {
+      "title": "Especificacions del format ICO"
+
+      "description": "<ul><li><strong>Mides estàndard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profunditat de color:</strong> Fins a 32 bits RGBA</li><li><strong>Transparència:</strong> Canal alpha complet</li><li><strong>Estructura:</strong> Capçalera + múltiples entrades d'imatge</li><li><strong>Compressió:</strong> Entrades comprimides en PNG per a icones de 32 bits (Vista+)</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats compatibles"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Solució de problemes"
+
+      "description": "<ul><li><strong>Favicon no apareix:</strong> Esborra la memòria cau i assegura't que <code>/favicon.ico</code> estigui a l'arrel del lloc amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Vores esgrogueïdes:</strong> Comença amb un PNG més gran i de contrast alt; redueix netament.</li><li><strong>La pujada falla:</strong> Assegura't que el PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Característiques del nostre convertidor de PNG a ICO"
+
+      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Optimització automàtica de mida</li><li>Preservació de la transparència</li><li>Processament segur</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest convertidor de PNG a ICO?",
+      "question": "És gratuït aquest convertidor de PNG a ICO?"
+
       "answer": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Quines mides són compatibles amb els fitxers ICO?",
-      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 píxels."
-    },
-    {
-      "question": "Puc utilitzar fitxers ICO per a favicons de llocs web?",
-      "answer": "Sí. <code>favicon.ico</code> és àmpliament compatible amb els principals navegadors."
-    },
-    {
-      "question": "Quines mides de fitxer són compatibles?",
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "La qualitat de la icona serà bona?",
-      "answer": "Preservem la transparència del PNG i generem múltiples mides per a una renderització nítida en dimensions petites."
+
     }
-  ],
-  "note": "Per obtenir els millors resultats, utilitza un PNG clar i de contrast alt. Col·loca <code>/favicon.ico</code> a l'arrel del teu lloc i fes referència amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+    {
+      "question": "Quines mides són compatibles amb els fitxers ICO?"
+
+      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 píxels."
+
+    }
+    {
+      "question": "Puc utilitzar fitxers ICO per a favicons de llocs web?"
+
+      "answer": "Sí. <code>favicon.ico</code> és àmpliament compatible amb els principals navegadors."
+
+    }
+    {
+      "question": "Quines mides de fitxer són compatibles?"
+
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "La qualitat de la icona serà bona?"
+
+      "answer": "Preservem la transparència del PNG i generem múltiples mides per a una renderització nítida en dimensions petites."
+
+    }
+  ]
+  "note": "Per obtenir els millors resultats, utilitza un PNG clar i de contrast alt. Col·loca <code>/favicon.ico</code> a l'arrel del teu lloc i fes referència amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
   "related_links": [
     {
-      "title": "Convertir JPG a ICO",
+      "title": "Convertir JPG a ICO"
+
       "url": "/ca/convert/jpg-to-ico"
-    },
-    {
-      "title": "Convertir BMP a ICO",
-      "url": "/ca/convert/bmp-to-ico"
-    },
-    {
-      "title": "Convertir SVG a ICO",
-      "url": "/ca/convert/svg-to-ico"
-    },
-    {
-      "title": "Convertir ICO a PNG",
-      "url": "/ca/convert/ico-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Convertir BMP a ICO"
+
+      "url": "/ca/convert/bmp-to-ico"
+
+    }
+    {
+      "title": "Convertir SVG a ICO"
+
+      "url": "/ca/convert/svg-to-ico"
+
+    }
+    {
+      "title": "Convertir ICO a PNG"
+
+      "url": "/ca/convert/ico-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a ICO - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/png-to-ico",
-      "description": "Eina en línia gratuïta per convertir imatges PNG a ICO per a favicons i icones de escriptori de Windows.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a ICO - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/png-to-ico"
+
+      "description": "Eina en línia gratuïta per convertir imatges PNG a ICO per a favicons i icones de escriptori de Windows."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/png-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a ICO",
-          "item": "https://wikihowto.click/ca/convert/png-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a ICO"
+
+          "item": "https://miconvert.com/ca/convert/png-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/png-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/png-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Conjunt d'icones de múltiples mides",
-        "Transparència preservada",
+        "Conjunt d'icones de múltiples mides"
+
+        "Transparència preservada"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest convertidor de PNG a ICO?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest convertidor de PNG a ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són compatibles?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són compatibles?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides són compatibles amb els fitxers ICO?",
+          "@type": "Question"
+
+          "name": "Quines mides són compatibles amb els fitxers ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 píxels."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir PNG a ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir PNG a ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Pujar PNG i selecciona la teva imatge."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament es completi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar ICO per desar la teva icona."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament es completi."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar ICO per desar la teva icona."
+
+        }
+      ]
       "tool": [
         "Convertidor de PNG a ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

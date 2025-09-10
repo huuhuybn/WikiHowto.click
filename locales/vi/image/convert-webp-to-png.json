@@ -1,237 +1,355 @@
 {
-  "lang": "vi",
-  "lang_name": "Tiếng Việt",
-  "title": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến | WikiHowTo.click",
-  "sub_title": "Chuyển đổi hình ảnh WebP sang định dạng PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng không mất dữ liệu và không có hình mờ.",
-  "hint": "Tải lên hình ảnh WebP của bạn để bắt đầu chuyển đổi...",
-  "btn_download": "Chuyển đổi sang PNG",
-  "btn_paste": "Tải lên WebP",
-  "btn_clear": "Xóa",
-  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "lang": "vi"
+
+  "lang_name": "Tiếng Việt"
+
+  "title": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến | miconvert.com"
+
+  "sub_title": "Chuyển đổi hình ảnh WebP sang định dạng PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng không mất dữ liệu và không có hình mờ."
+
+  "hint": "Tải lên hình ảnh WebP của bạn để bắt đầu chuyển đổi..."
+
+  "btn_download": "Chuyển đổi sang PNG"
+
+  "btn_paste": "Tải lên WebP"
+
+  "btn_clear": "Xóa"
+
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
+
   "converter": {
-    "type": "webp-to-png",
-    "inputFormat": "WebP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-png"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Cần <strong>chuyển đổi WebP sang PNG</strong>? Công cụ trực tuyến miễn phí này biến các tệp WebP hiện đại thành PNG chất lượng cao trong khi vẫn giữ <strong>độ trong suốt (alpha)</strong>. PNG sử dụng nén không mất dữ liệu và được hỗ trợ rộng rãi trên các ứng dụng và nền tảng—hoàn hảo cho logo, tài sản UI và tài liệu.</p><p><em>Ghi chú:</em> JPG không hỗ trợ độ trong suốt (PNG có). Nếu WebP của bạn là hoạt hình, chỉ <strong>khung hình đầu tiên</strong> sẽ được chuyển đổi thành PNG tĩnh. Màu sắc được chuyển đổi sang sRGB để đảm bảo tính nhất quán trên web.</p>",
+  }
+  "description": "<p>Cần <strong>chuyển đổi WebP sang PNG</strong>? Công cụ trực tuyến miễn phí này biến các tệp WebP hiện đại thành PNG chất lượng cao trong khi vẫn giữ <strong>độ trong suốt (alpha)</strong>. PNG sử dụng nén không mất dữ liệu và được hỗ trợ rộng rãi trên các ứng dụng và nền tảng—hoàn hảo cho logo, tài sản UI và tài liệu.</p><p><em>Ghi chú:</em> JPG không hỗ trợ độ trong suốt (PNG có). Nếu WebP của bạn là hoạt hình, chỉ <strong>khung hình đầu tiên</strong> sẽ được chuyển đổi thành PNG tĩnh. Màu sắc được chuyển đổi sang sRGB để đảm bảo tính nhất quán trên web.</p>"
+
   "head": {
-    "title": "Chuyển đổi WebP sang PNG Trực tuyến - Công cụ Chuyển đổi WebP sang PNG Miễn phí | WikiHowTo.click",
-    "description": "Chuyển đổi WebP sang PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng không mất dữ liệu và không có hình mờ. Công cụ chuyển đổi WebP sang PNG miễn phí, nhanh chóng và an toàn.",
-    "keywords": "webp sang png, chuyển đổi webp sang png, webp sang png miễn phí, công cụ chuyển đổi webp trực tuyến, thay đổi webp sang png, hình ảnh webp sang png",
-    "canonical": "https://wikihowto.click/vi/convert/webp-to-png",
-    "og_title": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến",
-    "og_description": "Chuyển đổi hình ảnh WebP thành định dạng PNG với hỗ trợ độ trong suốt và chất lượng không mất dữ liệu. 100% miễn phí, nhanh chóng và an toàn.",
-    "og_url": "https://wikihowto.click/vi/convert/webp-to-png",
-    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Công cụ Chuyển đổi WebP sang PNG Miễn phí Trực tuyến",
-    "twitter_description": "Chuyển đổi WebP sang PNG với hỗ trợ độ trong suốt, chất lượng không mất dữ liệu và không có hình mờ. Hoạt động trên tất cả các thiết bị.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
-  },
+    "title": "Chuyển đổi WebP sang PNG Trực tuyến - Công cụ Chuyển đổi WebP sang PNG Miễn phí | miconvert.com"
+
+    "description": "Chuyển đổi WebP sang PNG trực tuyến với hỗ trợ độ trong suốt, chất lượng không mất dữ liệu và không có hình mờ. Công cụ chuyển đổi WebP sang PNG miễn phí, nhanh chóng và an toàn."
+
+    "keywords": "webp sang png, chuyển đổi webp sang png, webp sang png miễn phí, công cụ chuyển đổi webp trực tuyến, thay đổi webp sang png, hình ảnh webp sang png"
+
+    "canonical": "https://miconvert.com/vi/convert/webp-to-png"
+
+    "og_title": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến"
+
+    "og_description": "Chuyển đổi hình ảnh WebP thành định dạng PNG với hỗ trợ độ trong suốt và chất lượng không mất dữ liệu. 100% miễn phí, nhanh chóng và an toàn."
+
+    "og_url": "https://miconvert.com/vi/convert/webp-to-png"
+
+    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Chuyển đổi WebP sang PNG Trực tuyến",
+    "title": "Chuyển đổi WebP sang PNG Trực tuyến"
+
     "description": "Công cụ chuyển đổi WebP sang PNG miễn phí và nhanh chóng với hỗ trợ độ trong suốt và chất lượng không mất dữ liệu. Hoạt động ngay lập tức trên bất kỳ thiết bị nào, không cần đăng ký."
-  },
+
+  }
   "h2": [
     {
-      "title": "Tại sao nên chuyển đổi WebP sang PNG?",
+      "title": "Tại sao nên chuyển đổi WebP sang PNG?"
+
       "description": "<p>WebP hiệu quả cho web, nhưng PNG cung cấp khả năng tương thích tối đa và đầu ra không mất dữ liệu:</p><ul><li><strong>Khả năng tương thích toàn cầu:</strong> Hoạt động trên Windows, macOS, Linux, iOS và Android.</li><li><strong>Độ trong suốt:</strong> Lý tưởng cho logo, biểu tượng và đồ họa UI.</li><li><strong>Chỉnh sửa & Thiết kế:</strong> Được ưa chuộng bởi Photoshop, Illustrator, Figma và nhiều hơn nữa.</li><li><strong>Tài liệu:</strong> Chèn PNG vào Word, PowerPoint và PDF mà không có bất ngờ.</li></ul>"
-    },
-    {
-      "title": "Cách chuyển đổi WebP sang PNG trực tuyến",
-      "description": "<ol><li>Nhấp vào <em>Tải lên WebP</em> và chọn tệp của bạn.</li><li>Chờ một chút trong khi chúng tôi xử lý nó một cách an toàn.</li><li>Nhấp vào <em>Tải xuống PNG</em> để lưu hình ảnh của bạn.</li></ol><p>Trang này chuyển đổi <strong>một tệp tại một thời điểm</strong> để đảm bảo độ tin cậy và tốc độ.</p>"
-    },
-    {
-      "title": "So sánh WebP và PNG",
-      "description": "<ul><li><strong>Kích thước tệp:</strong> WebP thường nhỏ hơn 30–50%; PNG lớn hơn nhưng không mất dữ liệu.</li><li><strong>Độ trong suốt:</strong> Cả hai đều hỗ trợ alpha; PNG là tiêu chuẩn chuyên nghiệp.</li><li><strong>Chỉnh sửa:</strong> PNG tích hợp sạch sẽ với hầu hết các công cụ thiết kế.</li><li><strong>Trường hợp sử dụng:</strong> WebP cho trang web; PNG cho ứng dụng, tài liệu và quy trình thiết kế.</li></ul>"
-    },
-    {
-      "title": "Giới hạn & Định dạng được hỗ trợ",
-      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> WebP (<code>image/webp</code>)</li><li><strong>Kích thước tệp tối đa:</strong> 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Hoạt hình:</strong> Chỉ khung hình đầu tiên</li></ul>"
-    },
-    {
-      "title": "Khắc phục sự cố",
-      "description": "<ul><li><strong>Vẫn quá lớn?</strong> Sử dụng <a href='/vi/edit/compress-image'>Công cụ nén PNG</a> hoặc thay đổi kích thước trước khi chuyển đổi.</li><li><strong>Màu sắc trông không đúng:</strong> Đầu ra được chuyển đổi sang sRGB để hiển thị nhất quán.</li><li><strong>Tải lên không thành công:</strong> Đảm bảo tệp là <code>image/webp</code> và ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Các công cụ liên quan bạn có thể cần",
-      "description": "<ul><li><a href='/vi/convert/png-to-webp'>Công cụ chuyển đổi PNG sang WebP</a> – giảm kích thước tệp cho các trang web nhanh hơn</li><li><a href='/vi/edit/compress-image'>Công cụ nén PNG</a> – giảm kích thước PNG với kiểm soát chất lượng</li><li><a href='/vi/effect/remove-background'>Xóa nền</a> – làm cho PNG trong suốt nhanh chóng</li><li><a href='/vi/convert/jpg-to-png'>Công cụ chuyển đổi JPG sang PNG</a> – chuyển đổi các định dạng khác sang PNG</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cách chuyển đổi WebP sang PNG trực tuyến"
+
+      "description": "<ol><li>Nhấp vào <em>Tải lên WebP</em> và chọn tệp của bạn.</li><li>Chờ một chút trong khi chúng tôi xử lý nó một cách an toàn.</li><li>Nhấp vào <em>Tải xuống PNG</em> để lưu hình ảnh của bạn.</li></ol><p>Trang này chuyển đổi <strong>một tệp tại một thời điểm</strong> để đảm bảo độ tin cậy và tốc độ.</p>"
+
+    }
+    {
+      "title": "So sánh WebP và PNG"
+
+      "description": "<ul><li><strong>Kích thước tệp:</strong> WebP thường nhỏ hơn 30–50%; PNG lớn hơn nhưng không mất dữ liệu.</li><li><strong>Độ trong suốt:</strong> Cả hai đều hỗ trợ alpha; PNG là tiêu chuẩn chuyên nghiệp.</li><li><strong>Chỉnh sửa:</strong> PNG tích hợp sạch sẽ với hầu hết các công cụ thiết kế.</li><li><strong>Trường hợp sử dụng:</strong> WebP cho trang web; PNG cho ứng dụng, tài liệu và quy trình thiết kế.</li></ul>"
+
+    }
+    {
+      "title": "Giới hạn & Định dạng được hỗ trợ"
+
+      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> WebP (<code>image/webp</code>)</li><li><strong>Kích thước tệp tối đa:</strong> 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Hoạt hình:</strong> Chỉ khung hình đầu tiên</li></ul>"
+
+    }
+    {
+      "title": "Khắc phục sự cố"
+
+      "description": "<ul><li><strong>Vẫn quá lớn?</strong> Sử dụng <a href='/vi/edit/compress-image'>Công cụ nén PNG</a> hoặc thay đổi kích thước trước khi chuyển đổi.</li><li><strong>Màu sắc trông không đúng:</strong> Đầu ra được chuyển đổi sang sRGB để hiển thị nhất quán.</li><li><strong>Tải lên không thành công:</strong> Đảm bảo tệp là <code>image/webp</code> và ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Các công cụ liên quan bạn có thể cần"
+
+      "description": "<ul><li><a href='/vi/convert/png-to-webp'>Công cụ chuyển đổi PNG sang WebP</a> – giảm kích thước tệp cho các trang web nhanh hơn</li><li><a href='/vi/edit/compress-image'>Công cụ nén PNG</a> – giảm kích thước PNG với kiểm soát chất lượng</li><li><a href='/vi/effect/remove-background'>Xóa nền</a> – làm cho PNG trong suốt nhanh chóng</li><li><a href='/vi/convert/jpg-to-png'>Công cụ chuyển đổi JPG sang PNG</a> – chuyển đổi các định dạng khác sang PNG</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Công cụ chuyển đổi WebP sang PNG này có miễn phí không?",
+      "question": "Công cụ chuyển đổi WebP sang PNG này có miễn phí không?"
+
       "answer": "Có, hoàn toàn miễn phí mà không có hình mờ hoặc phí ẩn."
-    },
-    {
-      "question": "Độ trong suốt có được giữ lại không?",
-      "answer": "Có. PNG hoàn toàn hỗ trợ độ trong suốt alpha và chúng tôi giữ nguyên."
-    },
-    {
-      "question": "Chuyển đổi có làm giảm chất lượng không?",
-      "answer": "Không. PNG sử dụng nén không mất dữ liệu, vì vậy bạn giữ lại chi tiết hình ảnh gốc."
-    },
-    {
-      "question": "Bạn có hỗ trợ WebP hoạt hình không?",
-      "answer": "WebP hoạt hình được chuyển đổi thành PNG tĩnh bằng cách sử dụng khung hình đầu tiên."
-    },
-    {
-      "question": "Kích thước tệp tối đa là bao nhiêu?",
-      "answer": "Lên đến 16 MB mỗi tệp."
-    },
-    {
-      "question": "Tôi có thể chuyển đổi nhiều tệp cùng một lúc không?",
-      "answer": "Trang này chuyển đổi một tệp tại một thời điểm để đảm bảo ổn định. Lặp lại quy trình cho các hình ảnh bổ sung."
-    },
-    {
-      "question": "Các tệp của tôi có an toàn không?",
-      "answer": "Có. Các tệp tải lên được mã hóa, xử lý trên các máy chủ an toàn và tự động bị xóa sau khi chuyển đổi."
+
     }
-  ],
-  "note": "Các tệp PNG có thể lớn hơn WebP do nén không mất dữ liệu—điều này là bình thường và giữ lại chất lượng tối đa.",
+    {
+      "question": "Độ trong suốt có được giữ lại không?"
+
+      "answer": "Có. PNG hoàn toàn hỗ trợ độ trong suốt alpha và chúng tôi giữ nguyên."
+
+    }
+    {
+      "question": "Chuyển đổi có làm giảm chất lượng không?"
+
+      "answer": "Không. PNG sử dụng nén không mất dữ liệu, vì vậy bạn giữ lại chi tiết hình ảnh gốc."
+
+    }
+    {
+      "question": "Bạn có hỗ trợ WebP hoạt hình không?"
+
+      "answer": "WebP hoạt hình được chuyển đổi thành PNG tĩnh bằng cách sử dụng khung hình đầu tiên."
+
+    }
+    {
+      "question": "Kích thước tệp tối đa là bao nhiêu?"
+
+      "answer": "Lên đến 16 MB mỗi tệp."
+
+    }
+    {
+      "question": "Tôi có thể chuyển đổi nhiều tệp cùng một lúc không?"
+
+      "answer": "Trang này chuyển đổi một tệp tại một thời điểm để đảm bảo ổn định. Lặp lại quy trình cho các hình ảnh bổ sung."
+
+    }
+    {
+      "question": "Các tệp của tôi có an toàn không?"
+
+      "answer": "Có. Các tệp tải lên được mã hóa, xử lý trên các máy chủ an toàn và tự động bị xóa sau khi chuyển đổi."
+
+    }
+  ]
+  "note": "Các tệp PNG có thể lớn hơn WebP do nén không mất dữ liệu—điều này là bình thường và giữ lại chất lượng tối đa."
+
   "related_links": [
     {
-      "title": "Chuyển đổi WebP sang JPG",
+      "title": "Chuyển đổi WebP sang JPG"
+
       "url": "/vi/convert/webp-to-jpg"
-    },
-    {
-      "title": "Chuyển đổi WebP sang AVIF",
-      "url": "/vi/convert/webp-to-avif"
-    },
-    {
-      "title": "Chuyển đổi PNG sang WebP",
-      "url": "/vi/convert/png-to-webp"
-    },
-    {
-      "title": "Nén PNG Trực tuyến",
-      "url": "/vi/edit/compress-image"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tất cả các quyền được bảo lưu.",
+    {
+      "title": "Chuyển đổi WebP sang AVIF"
+
+      "url": "/vi/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Chuyển đổi PNG sang WebP"
+
+      "url": "/vi/convert/png-to-webp"
+
+    }
+    {
+      "title": "Nén PNG Trực tuyến"
+
+      "url": "/vi/edit/compress-image"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tất cả các quyền được bảo lưu."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến",
-      "url": "https://wikihowto.click/vi/convert/webp-to-png",
-      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh WebP sang PNG với độ trong suốt được giữ lại.",
-      "inLanguage": "vi",
-      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Chuyển đổi WebP sang PNG - Miễn phí & Trực tuyến"
+
+      "url": "https://miconvert.com/vi/convert/webp-to-png"
+
+      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh WebP sang PNG với độ trong suốt được giữ lại."
+
+      "inLanguage": "vi"
+
+      "image": "https://miconvert.com/images/webp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Trang chủ",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Trang chủ"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Chuyển đổi",
-          "item": "https://wikihowto.click/vi/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Chuyển đổi"
+
+          "item": "https://miconvert.com/vi/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP sang PNG",
-          "item": "https://wikihowto.click/vi/convert/webp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP sang PNG"
+
+          "item": "https://miconvert.com/vi/convert/webp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Công cụ Chuyển đổi WebP sang PNG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/vi/convert/webp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Công cụ Chuyển đổi WebP sang PNG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/vi/convert/webp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Độ trong suốt được giữ lại",
-        "Đầu ra không mất dữ liệu",
+        "Độ trong suốt được giữ lại"
+
+        "Đầu ra không mất dữ liệu"
+
         "Xử lý nhanh chóng"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Độ trong suốt có được giữ lại không?",
+          "@type": "Question"
+
+          "name": "Độ trong suốt có được giữ lại không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Có, PNG hoàn toàn hỗ trợ độ trong suốt alpha và công cụ chuyển đổi giữ nguyên."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Bạn có hỗ trợ WebP hoạt hình không?",
+          "@type": "Question"
+
+          "name": "Bạn có hỗ trợ WebP hoạt hình không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "WebP hoạt hình được chuyển đổi thành PNG tĩnh bằng cách sử dụng khung hình đầu tiên."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kích thước tệp tối đa là bao nhiêu?",
+          "@type": "Question"
+
+          "name": "Kích thước tệp tối đa là bao nhiêu?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Lên đến 16 MB mỗi tệp."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cách chuyển đổi WebP sang PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cách chuyển đổi WebP sang PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Nhấp vào Tải lên WebP và chọn tệp của bạn."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chờ cho quá trình xử lý an toàn hoàn tất."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Nhấp vào Tải xuống PNG để lưu hình ảnh của bạn."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Chờ cho quá trình xử lý an toàn hoàn tất."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Nhấp vào Tải xuống PNG để lưu hình ảnh của bạn."
+
+        }
+      ]
       "tool": [
         "Công cụ Chuyển đổi WebP sang PNG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

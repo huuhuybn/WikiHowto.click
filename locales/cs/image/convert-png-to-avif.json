@@ -1,248 +1,374 @@
 {
-  "lang": "cs",
-  "lang_name": "Čeština",
-  "title": "Převodník PNG na AVIF - Zdarma a Online | WikiHowTo.click",
-  "sub_title": "Převádějte PNG obrázky na AVIF online s vynikající kompresí a vysokou kvalitou. Zachovává průhlednost. Žádné vodoznaky.",
-  "hint": "Nahrajte svůj PNG obrázek, abyste začali převádět...",
-  "btn_download": "Převést na AVIF",
-  "btn_paste": "Nahrát PNG",
-  "btn_clear": "Vymazat",
-  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "lang": "cs"
+
+  "lang_name": "Čeština"
+
+  "title": "Převodník PNG na AVIF - Zdarma a Online | miconvert.com"
+
+  "sub_title": "Převádějte PNG obrázky na AVIF online s vynikající kompresí a vysokou kvalitou. Zachovává průhlednost. Žádné vodoznaky."
+
+  "hint": "Nahrajte svůj PNG obrázek, abyste začali převádět..."
+
+  "btn_download": "Převést na AVIF"
+
+  "btn_paste": "Nahrát PNG"
+
+  "btn_clear": "Vymazat"
+
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
+
   "head": {
-    "title": "Převod PNG na AVIF - Zdarma Online Převodník PNG na AVIF | WikiHowTo.click",
-    "description": "Převádějte PNG obrázky na AVIF online zdarma. Vysoce kvalitní převod PNG na AVIF s vynikající kompresí a podporou průhlednosti.",
-    "keywords": "png na avif, převést png na avif, zdarma png na avif, online avif převodník, převod obrázků",
-    "canonical": "https://wikihowto.click/cs/convert/png-to-avif",
-    "og_title": "Převod PNG na AVIF - Zdarma Online Převodník PNG na AVIF",
-    "og_description": "Převádějte PNG obrázky na AVIF s vynikající kompresí a zachovanou průhledností. Zdarma, rychle a bezpečně.",
-    "og_url": "https://wikihowto.click/cs/convert/png-to-avif",
-    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Zdarma Online Převodník PNG na AVIF",
-    "twitter_description": "Převádějte PNG na AVIF s vynikající kompresí a podporou průhlednosti. Funguje na všech zařízeních.",
-    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
-  },
+    "title": "Převod PNG na AVIF - Zdarma Online Převodník PNG na AVIF | miconvert.com"
+
+    "description": "Převádějte PNG obrázky na AVIF online zdarma. Vysoce kvalitní převod PNG na AVIF s vynikající kompresí a podporou průhlednosti."
+
+    "keywords": "png na avif, převést png na avif, zdarma png na avif, online avif převodník, převod obrázků"
+
+    "canonical": "https://miconvert.com/cs/convert/png-to-avif"
+
+    "og_title": "Převod PNG na AVIF - Zdarma Online Převodník PNG na AVIF"
+
+    "og_description": "Převádějte PNG obrázky na AVIF s vynikající kompresí a zachovanou průhledností. Zdarma, rychle a bezpečně."
+
+    "og_url": "https://miconvert.com/cs/convert/png-to-avif"
+
+    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Převod PNG na AVIF Online",
+    "title": "Převod PNG na AVIF Online"
+
     "description": "Zdarma a rychlý převodník PNG na AVIF s vynikající kompresí a plnou podporou průhlednosti. Funguje okamžitě na jakémkoli zařízení — není potřeba registrace."
-  },
+
+  }
   "converter": {
-    "type": "png-to-avif",
-    "title": "Převodník PNG na AVIF",
-    "description": "Převádějte PNG obrázky na AVIF s moderní kompresí při zachování alfa průhlednosti.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "AVIF",
+    "type": "png-to-avif"
+
+    "title": "Převodník PNG na AVIF"
+
+    "description": "Převádějte PNG obrázky na AVIF s moderní kompresí při zachování alfa průhlednosti."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 80,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 80
     "features": [
-      "Vysoce kvalitní AVIF výstup",
-      "Vynikající komprese",
-      "Zachovává průhlednost (alfa)",
+      "Vysoce kvalitní AVIF výstup"
+
+      "Vynikající komprese"
+
+      "Zachovává průhlednost (alfa)"
+
       "Zdarma online nástroj"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "quality": 80,
-        "speed": 4,
-        "subsample": "4:4:4",
+        "quality": 80
+        "speed": 4
+        "subsample": "4:4:4"
+
         "lossless": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Převod PNG na AVIF Dokončen",
-    "back_button": "Zpět k převodníku",
-    "convert_another": "Převést další PNG",
+    "title": "Převod PNG na AVIF Dokončen"
+
+    "back_button": "Zpět k převodníku"
+
+    "convert_another": "Převést další PNG"
+
     "quick_conversions": "Rychlé převody:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Proč převádět PNG na AVIF?",
+      "title": "Proč převádět PNG na AVIF?"
+
       "description": "<p>AVIF (AV1 Image File Format) je formát nové generace s vynikající efektivitou:</p><ul><li><strong>Vynikající komprese:</strong> Často 30–50% menší než PNG při podobné kvalitě.</li><li><strong>Moderní kodek:</strong> Založen na standardu AV1.</li><li><strong>Vysoká věrnost:</strong> Skvělé zachování detailů při nižších velikostech.</li><li><strong>Webový výkon:</strong> Menší obrázky = rychlejší stránky a lepší Core Web Vitals.</li></ul>"
-    },
-    {
-      "title": "Jak převést PNG na AVIF online",
-      "description": "<ol><li>Klikněte na <em>Nahrát PNG</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování a optimalizaci.</li><li>Klikněte na <em>Stáhnout AVIF</em>, abyste uložili svůj obrázek.</li></ol><p>Převodník automaticky vyvažuje kvalitu a velikost pro běžné webové použití.</p>"
-    },
-    {
-      "title": "Srovnání AVIF vs PNG",
-      "description": "<ul><li><strong>Velikost souboru:</strong> AVIF je obvykle 30–50% menší než PNG.</li><li><strong>Kvalita:</strong> AVIF udržuje silnou kvalitu při nižších bitrates.</li><li><strong>Průhlednost:</strong> Oba podporují alfa průhlednost.</li><li><strong>Podpora prohlížečů:</strong> AVIF funguje v moderních prohlížečích (poskytněte fallback, pokud je to potřeba).</li></ul>"
-    },
-    {
-      "title": "Podporované limity a formáty",
-      "description": "<ul><li><strong>Přijatý vstup:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kódování:</strong> Kvalita ≈ 80, rychlost 4, subsampling 4:4:4 pro udržení čistých okrajů</li></ul>"
-    },
-    {
-      "title": "Odstraňování problémů",
-      "description": "<ul><li><strong>Starší prohlížeče:</strong> Použijte element <code>&lt;picture&gt;</code> s fallbackem PNG/WebP.</li><li><strong>Halo na okrajích:</strong> 4:4:4 pomáhá; pokud je stále viditelné, začněte z vyššího rozlišení PNG nebo vylepšete alfa.</li><li><strong>Potřebujete bezztrátové:</strong> Zvažte PNG pro pixelově dokonalé potřeby, nebo nastavte AVIF na bezztrátové v pokročilých pracovních postupech.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je PNG a ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Případy použití: Kdy převádět PNG na AVIF",
-      "description": "<ul><li><strong>Webová optimalizace:</strong> Snižte zátěž pro ikony, UI a grafiku s průhledností.</li><li><strong>Mobilní aplikace:</strong> Nižší šířka pásma a využití úložiště.</li><li><strong>Velké knihovny:</strong> Ušetřete místo na disku bez zjevné ztráty kvality.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jak převést PNG na AVIF online"
+
+      "description": "<ol><li>Klikněte na <em>Nahrát PNG</em> a vyberte svůj soubor.</li><li>Počkejte na zpracování a optimalizaci.</li><li>Klikněte na <em>Stáhnout AVIF</em>, abyste uložili svůj obrázek.</li></ol><p>Převodník automaticky vyvažuje kvalitu a velikost pro běžné webové použití.</p>"
+
+    }
+    {
+      "title": "Srovnání AVIF vs PNG"
+
+      "description": "<ul><li><strong>Velikost souboru:</strong> AVIF je obvykle 30–50% menší než PNG.</li><li><strong>Kvalita:</strong> AVIF udržuje silnou kvalitu při nižších bitrates.</li><li><strong>Průhlednost:</strong> Oba podporují alfa průhlednost.</li><li><strong>Podpora prohlížečů:</strong> AVIF funguje v moderních prohlížečích (poskytněte fallback, pokud je to potřeba).</li></ul>"
+
+    }
+    {
+      "title": "Podporované limity a formáty"
+
+      "description": "<ul><li><strong>Přijatý vstup:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kódování:</strong> Kvalita ≈ 80, rychlost 4, subsampling 4:4:4 pro udržení čistých okrajů</li></ul>"
+
+    }
+    {
+      "title": "Odstraňování problémů"
+
+      "description": "<ul><li><strong>Starší prohlížeče:</strong> Použijte element <code>&lt;picture&gt;</code> s fallbackem PNG/WebP.</li><li><strong>Halo na okrajích:</strong> 4:4:4 pomáhá; pokud je stále viditelné, začněte z vyššího rozlišení PNG nebo vylepšete alfa.</li><li><strong>Potřebujete bezztrátové:</strong> Zvažte PNG pro pixelově dokonalé potřeby, nebo nastavte AVIF na bezztrátové v pokročilých pracovních postupech.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je PNG a ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Případy použití: Kdy převádět PNG na AVIF"
+
+      "description": "<ul><li><strong>Webová optimalizace:</strong> Snižte zátěž pro ikony, UI a grafiku s průhledností.</li><li><strong>Mobilní aplikace:</strong> Nižší šířka pásma a využití úložiště.</li><li><strong>Velké knihovny:</strong> Ušetřete místo na disku bez zjevné ztráty kvality.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je tento převodník PNG na AVIF zdarma?",
+      "question": "Je tento převodník PNG na AVIF zdarma?"
+
       "answer": "Ano, převodník je zcela zdarma bez skrytých poplatků nebo předplatného."
-    },
-    {
-      "question": "Bude AVIF fungovat ve všech prohlížečích?",
-      "answer": "AVIF je podporován moderními prohlížeči (Chrome, Firefox, Safari, Edge). Poskytněte fallbacky PNG/WebP pro starší."
-    },
-    {
-      "question": "Jak moc menší jsou soubory AVIF ve srovnání s PNG?",
-      "answer": "Obvykle 30–50% menší při podobné vnímané kvalitě, v závislosti na obrázku."
-    },
-    {
-      "question": "Jaké velikosti souborů jsou podporovány?",
-      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
-    },
-    {
-      "question": "Jsou mé soubory v bezpečí?",
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro převod."
-    },
-    {
-      "question": "Mohu převést více PNG najednou?",
-      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkový převod."
-    },
-    {
-      "question": "Je AVIF lepší než PNG pro webové stránky?",
-      "answer": "Často ano pro menší velikosti souborů s dobrou kvalitou; pro přísné bezztrátové nebo speciální případy může být PNG stále preferováno."
+
     }
-  ],
-  "note": "Pro maximální kompatibilitu poskytujte AVIF s fallbackem PNG/WebP pomocí elementu <code>&lt;picture&gt;</code>.",
+    {
+      "question": "Bude AVIF fungovat ve všech prohlížečích?"
+
+      "answer": "AVIF je podporován moderními prohlížeči (Chrome, Firefox, Safari, Edge). Poskytněte fallbacky PNG/WebP pro starší."
+
+    }
+    {
+      "question": "Jak moc menší jsou soubory AVIF ve srovnání s PNG?"
+
+      "answer": "Obvykle 30–50% menší při podobné vnímané kvalitě, v závislosti na obrázku."
+
+    }
+    {
+      "question": "Jaké velikosti souborů jsou podporovány?"
+
+      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
+
+    }
+    {
+      "question": "Jsou mé soubory v bezpečí?"
+
+      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro převod."
+
+    }
+    {
+      "question": "Mohu převést více PNG najednou?"
+
+      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkový převod."
+
+    }
+    {
+      "question": "Je AVIF lepší než PNG pro webové stránky?"
+
+      "answer": "Často ano pro menší velikosti souborů s dobrou kvalitou; pro přísné bezztrátové nebo speciální případy může být PNG stále preferováno."
+
+    }
+  ]
+  "note": "Pro maximální kompatibilitu poskytujte AVIF s fallbackem PNG/WebP pomocí elementu <code>&lt;picture&gt;</code>."
+
   "related_links": [
     {
-      "title": "Převést AVIF na PNG",
+      "title": "Převést AVIF na PNG"
+
       "url": "/cs/convert/avif-to-png"
-    },
-    {
-      "title": "Převést PNG na WebP",
-      "url": "/cs/convert/png-to-webp"
-    },
-    {
-      "title": "Převést JPG na AVIF",
-      "url": "/cs/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+    {
+      "title": "Převést PNG na WebP"
+
+      "url": "/cs/convert/png-to-webp"
+
+    }
+    {
+      "title": "Převést JPG na AVIF"
+
+      "url": "/cs/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Převodník PNG na AVIF - Zdarma a Online",
-      "url": "https://wikihowto.click/cs/convert/png-to-avif",
-      "description": "Zdarma online nástroj pro převod PNG obrázků na AVIF s vynikající kompresí a zachovanou průhledností.",
-      "inLanguage": "cs",
-      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Převodník PNG na AVIF - Zdarma a Online"
+
+      "url": "https://miconvert.com/cs/convert/png-to-avif"
+
+      "description": "Zdarma online nástroj pro převod PNG obrázků na AVIF s vynikající kompresí a zachovanou průhledností."
+
+      "inLanguage": "cs"
+
+      "image": "https://miconvert.com/images/png-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domů",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domů"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Převést",
-          "item": "https://wikihowto.click/cs/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Převést"
+
+          "item": "https://miconvert.com/cs/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG na AVIF",
-          "item": "https://wikihowto.click/cs/convert/png-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG na AVIF"
+
+          "item": "https://miconvert.com/cs/convert/png-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Převodník PNG na AVIF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/cs/convert/png-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Převodník PNG na AVIF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/cs/convert/png-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Vynikající komprese",
-        "Zachovává průhlednost",
+        "Vynikající komprese"
+
+        "Zachovává průhlednost"
+
         "Rychlé zpracování"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Je tento převodník PNG na AVIF zdarma?",
+          "@type": "Question"
+
+          "name": "Je tento převodník PNG na AVIF zdarma?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ano, převodník je zcela zdarma bez skrytých poplatků nebo předplatného."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jaké velikosti souborů jsou podporovány?",
+          "@type": "Question"
+
+          "name": "Jaké velikosti souborů jsou podporovány?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Bude AVIF fungovat ve všech prohlížečích?",
+          "@type": "Question"
+
+          "name": "Bude AVIF fungovat ve všech prohlížečích?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF je podporován moderními prohlížeči; poskytněte fallbacky PNG/WebP pro starší."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jak převést PNG na AVIF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jak převést PNG na AVIF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikněte na Nahrát PNG a vyberte svůj soubor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počkejte na dokončení zpracování a optimalizace."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikněte na Stáhnout AVIF, abyste uložili výsledek."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počkejte na dokončení zpracování a optimalizace."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikněte na Stáhnout AVIF, abyste uložili výsledek."
+
+        }
+      ]
       "tool": [
         "Převodník PNG na AVIF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,237 +1,355 @@
 {
-  "lang": "ta",
-  "lang_name": "தமிழ்",
-  "title": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன் | WikiHowTo.click",
-  "sub_title": "WebP படங்களை PNG வடிவத்திற்கு ஆன்லைனில் மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு, இழப்பில்லா தரம் மற்றும் நீர் முத்திரைகள் இல்லாமல்.",
-  "hint": "மாற்றத்தை தொடங்க WebP படத்தை பதிவேற்றவும்...",
-  "btn_download": "PNG ஆக மாற்றவும்",
-  "btn_paste": "WebP பதிவேற்றவும்",
-  "btn_clear": "அழிக்கவும்",
-  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "lang": "ta"
+
+  "lang_name": "தமிழ்"
+
+  "title": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன் | miconvert.com"
+
+  "sub_title": "WebP படங்களை PNG வடிவத்திற்கு ஆன்லைனில் மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு, இழப்பில்லா தரம் மற்றும் நீர் முத்திரைகள் இல்லாமல்."
+
+  "hint": "மாற்றத்தை தொடங்க WebP படத்தை பதிவேற்றவும்..."
+
+  "btn_download": "PNG ஆக மாற்றவும்"
+
+  "btn_paste": "WebP பதிவேற்றவும்"
+
+  "btn_clear": "அழிக்கவும்"
+
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
+
   "converter": {
-    "type": "webp-to-png",
-    "inputFormat": "WebP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-png"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>WebP ஐ PNG ஆக <strong>மாற்ற வேண்டும்</strong>வா? இந்த இலவச ஆன்லைன் கருவி, <strong>வெளிப்படைத்தன்மை (அல்பா)</strong> காக்கும் போது, நவீன WebP கோப்புகளை உயர்தர PNG களாக மாற்றுகிறது. PNG இழப்பில்லா சுருக்கத்தை பயன்படுத்துகிறது மற்றும் பயன்பாடுகள் மற்றும் தளங்களில் பரவலாக ஆதரிக்கப்படுகிறது - லோகோக்கள், UI சொத்துகள் மற்றும் ஆவணங்களுக்கு சிறந்தது.</p><p><em>குறிப்புகள்:</em> JPG வெளிப்படைத்தன்மையை ஆதரிக்காது (PNG ஆதரிக்கிறது). உங்கள் WebP அனிமேஷன் ஆக இருந்தால், <strong>முதல் கட்டம்</strong> மட்டுமே நிலையான PNG ஆக மாற்றப்படும். வண்ணங்கள் இணைய ஒத்திசைவு க்காக sRGB க்கு மாற்றப்படும்.</p>",
+  }
+  "description": "<p>WebP ஐ PNG ஆக <strong>மாற்ற வேண்டும்</strong>வா? இந்த இலவச ஆன்லைன் கருவி, <strong>வெளிப்படைத்தன்மை (அல்பா)</strong> காக்கும் போது, நவீன WebP கோப்புகளை உயர்தர PNG களாக மாற்றுகிறது. PNG இழப்பில்லா சுருக்கத்தை பயன்படுத்துகிறது மற்றும் பயன்பாடுகள் மற்றும் தளங்களில் பரவலாக ஆதரிக்கப்படுகிறது - லோகோக்கள், UI சொத்துகள் மற்றும் ஆவணங்களுக்கு சிறந்தது.</p><p><em>குறிப்புகள்:</em> JPG வெளிப்படைத்தன்மையை ஆதரிக்காது (PNG ஆதரிக்கிறது). உங்கள் WebP அனிமேஷன் ஆக இருந்தால், <strong>முதல் கட்டம்</strong> மட்டுமே நிலையான PNG ஆக மாற்றப்படும். வண்ணங்கள் இணைய ஒத்திசைவு க்காக sRGB க்கு மாற்றப்படும்.</p>"
+
   "head": {
-    "title": "WebP ஐ PNG ஆன்லைனில் மாற்றவும் - இலவச WebP to PNG மாற்றி | WikiHowTo.click",
-    "description": "WebP ஐ PNG ஆன்லைனில் மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு, இழப்பில்லா தரம் மற்றும் நீர் முத்திரைகள் இல்லாமல். இலவச, வேகமாகவும், பாதுகாப்பான WebP to PNG மாற்றி கருவி.",
-    "keywords": "webp to png, webp ஐ png ஆக மாற்றவும், இலவச webp to png, ஆன்லைன் webp மாற்றி, webp ஐ png ஆக மாற்றவும், webp படம் png க்கு",
-    "canonical": "https://wikihowto.click/ta/convert/webp-to-png",
-    "og_title": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன்",
-    "og_description": "WebP படங்களை PNG வடிவத்திற்கு மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு மற்றும் இழப்பில்லா தரம். 100% இலவசம், வேகமாகவும், பாதுகாப்பானது.",
-    "og_url": "https://wikihowto.click/ta/convert/webp-to-png",
-    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "இலவச WebP to PNG மாற்றி ஆன்லைன்",
-    "twitter_description": "WebP ஐ PNG ஆக மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு, இழப்பில்லா தரம் மற்றும் நீர் முத்திரைகள் இல்லாமல். அனைத்து சாதனங்களில் வேலை செய்கிறது.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
-  },
+    "title": "WebP ஐ PNG ஆன்லைனில் மாற்றவும் - இலவச WebP to PNG மாற்றி | miconvert.com"
+
+    "description": "WebP ஐ PNG ஆன்லைனில் மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு, இழப்பில்லா தரம் மற்றும் நீர் முத்திரைகள் இல்லாமல். இலவச, வேகமாகவும், பாதுகாப்பான WebP to PNG மாற்றி கருவி."
+
+    "keywords": "webp to png, webp ஐ png ஆக மாற்றவும், இலவச webp to png, ஆன்லைன் webp மாற்றி, webp ஐ png ஆக மாற்றவும், webp படம் png க்கு"
+
+    "canonical": "https://miconvert.com/ta/convert/webp-to-png"
+
+    "og_title": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன்"
+
+    "og_description": "WebP படங்களை PNG வடிவத்திற்கு மாற்றவும், வெளிப்படைத்தன்மை ஆதரவு மற்றும் இழப்பில்லா தரம். 100% இலவசம், வேகமாகவும், பாதுகாப்பானது."
+
+    "og_url": "https://miconvert.com/ta/convert/webp-to-png"
+
+    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "WebP ஐ PNG ஆன்லைனில் மாற்றவும்",
+    "title": "WebP ஐ PNG ஆன்லைனில் மாற்றவும்"
+
     "description": "வெளிப்படைத்தன்மை ஆதரவு மற்றும் இழப்பில்லா தரத்துடன் இலவச மற்றும் வேகமான WebP to PNG மாற்றி. எந்த சாதனத்திலும் உடனடியாக வேலை செய்கிறது, பதிவு தேவை இல்லை."
-  },
+
+  }
   "h2": [
     {
-      "title": "WebP ஐ PNG ஆக மாற்றுவதற்கான காரணம் என்ன?",
+      "title": "WebP ஐ PNG ஆக மாற்றுவதற்கான காரணம் என்ன?"
+
       "description": "<p>WebP இணையத்திற்காக திறமையானது, ஆனால் PNG அதிகतम ஒத்திசைவு மற்றும் இழப்பில்லா வெளியீட்டை வழங்குகிறது:</p><ul><li><strong>உலகளாவிய ஒத்திசைவு:</strong> Windows, macOS, Linux, iOS மற்றும் Android இல் வேலை செய்கிறது.</li><li><strong>வெளிப்படைத்தன்மை:</strong> லோகோக்கள், ஐகான்கள் மற்றும் UI கிராபிக்ஸ் க்கான சிறந்தது.</li><li><strong>திருத்தம் & வடிவமைப்பு:</strong> Photoshop, Illustrator, Figma மற்றும் மேலும் விரும்பப்படுகிறது.</li><li><strong>ஆவணங்கள்:</strong> Word, PowerPoint மற்றும் PDF க்களில் PNG ஐ அசராதவாறு சேர்க்கவும்.</li></ul>"
-    },
-    {
-      "title": "WebP ஐ PNG ஆன்லைனில் எப்படி மாற்றுவது",
-      "description": "<ol><li><em>WebP பதிவேற்றவும்</em> என்பதைக் கிளிக் செய்து உங்கள் கோப்பை தேர்ந்தெடுக்கவும்.</li><li>நாங்கள் அதை பாதுகாப்பாக செயலாக்கும் போது சிறிது நேரம் காத்திருக்கவும்.</li><li>உங்கள் படத்தை சேமிக்க <em>PNG பதிவிறக்கம்</em> என்பதைக் கிளிக் செய்யவும்.</li></ol><p>இந்த பக்கம் <strong>ஒரு கோப்பை ஒரே நேரத்தில்</strong> மாற்றுகிறது, நம்பகத்தன்மை மற்றும் வேகத்தை உறுதி செய்ய.</p>"
-    },
-    {
-      "title": "WebP மற்றும் PNG ஒப்பீடு",
-      "description": "<ul><li><strong>கோப்பு அளவு:</strong> WebP பொதுவாக 30–50% சிறியது; PNG பெரியது ஆனால் இழப்பில்லா.</li><li><strong>வெளிப்படைத்தன்மை:</strong> இரண்டும் அல்பாவை ஆதரிக்கின்றன; PNG தொழில்முறை தரநிலையாகும்.</li><li><strong>திருத்தம்:</strong> PNG பெரும்பாலான வடிவமைப்பு கருவிகளுடன் சுத்தமாக இணைக்கிறது.</li><li><strong>பயன்பாட்டு வழக்கு:</strong> இணையதளங்களுக்கு WebP; செயலிகளுக்கு, ஆவணங்களுக்கு மற்றும் வடிவமைப்பு வேலைப்பாட்டுக்கு PNG.</li></ul>"
-    },
-    {
-      "title": "ஆதரிக்கப்படும் எல்லைகள் & வடிவங்கள்",
-      "description": "<ul><li><strong>ஏற்கப்படும் உள்ளீடு:</strong> WebP (<code>image/webp</code>)</li><li><strong>அதிகபட்ச கோப்பு அளவு:</strong> 16&nbsp;MB ஒவ்வொரு கோப்பிற்கும்</li><li><strong>வெளியீடு:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>அனிமேஷன்:</strong> முதல் கட்டம் மட்டுமே</li></ul>"
-    },
-    {
-      "title": "சிக்கல்களை தீர்க்குதல்",
-      "description": "<ul><li><strong>இன்னும் மிகப்பெரியது?</strong> <a href='/ta/edit/compress-image'>PNG சுருக்கி</a> ஐ பயன்படுத்தவும் அல்லது மாற்றுவதற்கு முன் அளவை மாற்றவும்.</li><li><strong>வண்ணங்கள் தவறாகக் காணப்படுகிறதா:</strong> வெளியீடு ஒத்திசைவான காட்சிக்காக sRGB க்கு மாற்றப்படுகிறது.</li><li><strong>பதிவேற்றம் தோல்வியுற்றது:</strong> கோப்பு <code>image/webp</code> ஆக இருக்க வேண்டும் மற்றும் ≤ 16&nbsp;MB ஆக இருக்க வேண்டும் என்பதை உறுதி செய்யவும்.</li></ul>"
-    },
-    {
-      "title": "நீங்கள் தேவைப்படும் தொடர்புடைய கருவிகள்",
-      "description": "<ul><li><a href='/ta/convert/png-to-webp'>PNG to WebP மாற்றி</a> – வேகமான தளங்களுக்கு கோப்பு அளவை குறைக்கவும்</li><li><a href='/ta/edit/compress-image'>PNG சுருக்கி</a> – தரக் கட்டுப்பாட்டுடன் PNG அளவை குறைக்கவும்</li><li><a href='/ta/effect/remove-background'>பின்னணி நீக்கு</a> – PNG ஐ விரைவாக வெளிப்படையாக மாற்றவும்</li><li><a href='/ta/convert/jpg-to-png'>JPG to PNG மாற்றி</a> – பிற வடிவங்களை PNG க்கு மாற்றவும்</li></ul>"
+
     }
-  ],
+    {
+      "title": "WebP ஐ PNG ஆன்லைனில் எப்படி மாற்றுவது"
+
+      "description": "<ol><li><em>WebP பதிவேற்றவும்</em> என்பதைக் கிளிக் செய்து உங்கள் கோப்பை தேர்ந்தெடுக்கவும்.</li><li>நாங்கள் அதை பாதுகாப்பாக செயலாக்கும் போது சிறிது நேரம் காத்திருக்கவும்.</li><li>உங்கள் படத்தை சேமிக்க <em>PNG பதிவிறக்கம்</em> என்பதைக் கிளிக் செய்யவும்.</li></ol><p>இந்த பக்கம் <strong>ஒரு கோப்பை ஒரே நேரத்தில்</strong> மாற்றுகிறது, நம்பகத்தன்மை மற்றும் வேகத்தை உறுதி செய்ய.</p>"
+
+    }
+    {
+      "title": "WebP மற்றும் PNG ஒப்பீடு"
+
+      "description": "<ul><li><strong>கோப்பு அளவு:</strong> WebP பொதுவாக 30–50% சிறியது; PNG பெரியது ஆனால் இழப்பில்லா.</li><li><strong>வெளிப்படைத்தன்மை:</strong> இரண்டும் அல்பாவை ஆதரிக்கின்றன; PNG தொழில்முறை தரநிலையாகும்.</li><li><strong>திருத்தம்:</strong> PNG பெரும்பாலான வடிவமைப்பு கருவிகளுடன் சுத்தமாக இணைக்கிறது.</li><li><strong>பயன்பாட்டு வழக்கு:</strong> இணையதளங்களுக்கு WebP; செயலிகளுக்கு, ஆவணங்களுக்கு மற்றும் வடிவமைப்பு வேலைப்பாட்டுக்கு PNG.</li></ul>"
+
+    }
+    {
+      "title": "ஆதரிக்கப்படும் எல்லைகள் & வடிவங்கள்"
+
+      "description": "<ul><li><strong>ஏற்கப்படும் உள்ளீடு:</strong> WebP (<code>image/webp</code>)</li><li><strong>அதிகபட்ச கோப்பு அளவு:</strong> 16&nbsp;MB ஒவ்வொரு கோப்பிற்கும்</li><li><strong>வெளியீடு:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>அனிமேஷன்:</strong> முதல் கட்டம் மட்டுமே</li></ul>"
+
+    }
+    {
+      "title": "சிக்கல்களை தீர்க்குதல்"
+
+      "description": "<ul><li><strong>இன்னும் மிகப்பெரியது?</strong> <a href='/ta/edit/compress-image'>PNG சுருக்கி</a> ஐ பயன்படுத்தவும் அல்லது மாற்றுவதற்கு முன் அளவை மாற்றவும்.</li><li><strong>வண்ணங்கள் தவறாகக் காணப்படுகிறதா:</strong> வெளியீடு ஒத்திசைவான காட்சிக்காக sRGB க்கு மாற்றப்படுகிறது.</li><li><strong>பதிவேற்றம் தோல்வியுற்றது:</strong> கோப்பு <code>image/webp</code> ஆக இருக்க வேண்டும் மற்றும் ≤ 16&nbsp;MB ஆக இருக்க வேண்டும் என்பதை உறுதி செய்யவும்.</li></ul>"
+
+    }
+    {
+      "title": "நீங்கள் தேவைப்படும் தொடர்புடைய கருவிகள்"
+
+      "description": "<ul><li><a href='/ta/convert/png-to-webp'>PNG to WebP மாற்றி</a> – வேகமான தளங்களுக்கு கோப்பு அளவை குறைக்கவும்</li><li><a href='/ta/edit/compress-image'>PNG சுருக்கி</a> – தரக் கட்டுப்பாட்டுடன் PNG அளவை குறைக்கவும்</li><li><a href='/ta/effect/remove-background'>பின்னணி நீக்கு</a> – PNG ஐ விரைவாக வெளிப்படையாக மாற்றவும்</li><li><a href='/ta/convert/jpg-to-png'>JPG to PNG மாற்றி</a> – பிற வடிவங்களை PNG க்கு மாற்றவும்</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "இந்த WebP to PNG மாற்றி இலவசமா?",
+      "question": "இந்த WebP to PNG மாற்றி இலவசமா?"
+
       "answer": "ஆம், இது முற்றிலும் இலவசமாகவும், நீர் முத்திரைகள் அல்லது மறைமுக கட்டணங்கள் இல்லாமல்."
-    },
-    {
-      "question": "வெளிப்படைத்தன்மை காக்கப்படுமா?",
-      "answer": "ஆம். PNG முழுமையாக அல்பா வெளிப்படைத்தன்மையை ஆதரிக்கிறது மற்றும் நாங்கள் அதை intact க்காக காக்கிறோம்."
-    },
-    {
-      "question": "மாற்றுவது தரத்தை குறைக்குமா?",
-      "answer": "இல்லை. PNG இழப்பில்லா சுருக்கத்தை பயன்படுத்துகிறது, எனவே நீங்கள் முதன்மை காட்சி விவரத்தை காக்கிறீர்கள்."
-    },
-    {
-      "question": "நீங்கள் அனிமேஷன் செய்யப்பட்ட WebP ஐ ஆதரிக்கிறீர்களா?",
-      "answer": "அனிமேஷன் செய்யப்பட்ட WebP, முதல் கட்டத்தைப் பயன்படுத்தி நிலையான PNG ஆக மாற்றப்படுகிறது."
-    },
-    {
-      "question": "அதிகபட்ச கோப்பு அளவு என்ன?",
-      "answer": "ஒவ்வொரு கோப்பிற்கும் 16 MB வரை."
-    },
-    {
-      "question": "ஒரே நேரத்தில் பல கோப்புகளை மாற்ற முடியுமா?",
-      "answer": "இந்த பக்கம் நிலைத்தன்மைக்காக ஒரு கோப்பை ஒரே நேரத்தில் மாற்றுகிறது. கூடுதல் படங்களுக்கு செயல்முறையை மீண்டும் செய்யவும்."
-    },
-    {
-      "question": "என் கோப்புகள் பாதுகாப்பானவா?",
-      "answer": "ஆம். பதிவேற்றங்கள் குறியாக்கம் செய்யப்படுகின்றன, பாதுகாப்பான சேவையகங்களில் செயலாக்கப்படுகின்றன, மற்றும் மாற்றத்திற்குப் பிறகு தானாகவே அழிக்கப்படுகின்றன."
+
     }
-  ],
-  "note": "PNG கோப்புகள் WebP க்கு ஒப்பிடும்போது இழப்பில்லா சுருக்கத்தால் பெரியதாக இருக்கலாம் - இது சாதாரணமாகும் மற்றும் அதிகபட்ச தரத்தை காக்கிறது.",
+    {
+      "question": "வெளிப்படைத்தன்மை காக்கப்படுமா?"
+
+      "answer": "ஆம். PNG முழுமையாக அல்பா வெளிப்படைத்தன்மையை ஆதரிக்கிறது மற்றும் நாங்கள் அதை intact க்காக காக்கிறோம்."
+
+    }
+    {
+      "question": "மாற்றுவது தரத்தை குறைக்குமா?"
+
+      "answer": "இல்லை. PNG இழப்பில்லா சுருக்கத்தை பயன்படுத்துகிறது, எனவே நீங்கள் முதன்மை காட்சி விவரத்தை காக்கிறீர்கள்."
+
+    }
+    {
+      "question": "நீங்கள் அனிமேஷன் செய்யப்பட்ட WebP ஐ ஆதரிக்கிறீர்களா?"
+
+      "answer": "அனிமேஷன் செய்யப்பட்ட WebP, முதல் கட்டத்தைப் பயன்படுத்தி நிலையான PNG ஆக மாற்றப்படுகிறது."
+
+    }
+    {
+      "question": "அதிகபட்ச கோப்பு அளவு என்ன?"
+
+      "answer": "ஒவ்வொரு கோப்பிற்கும் 16 MB வரை."
+
+    }
+    {
+      "question": "ஒரே நேரத்தில் பல கோப்புகளை மாற்ற முடியுமா?"
+
+      "answer": "இந்த பக்கம் நிலைத்தன்மைக்காக ஒரு கோப்பை ஒரே நேரத்தில் மாற்றுகிறது. கூடுதல் படங்களுக்கு செயல்முறையை மீண்டும் செய்யவும்."
+
+    }
+    {
+      "question": "என் கோப்புகள் பாதுகாப்பானவா?"
+
+      "answer": "ஆம். பதிவேற்றங்கள் குறியாக்கம் செய்யப்படுகின்றன, பாதுகாப்பான சேவையகங்களில் செயலாக்கப்படுகின்றன, மற்றும் மாற்றத்திற்குப் பிறகு தானாகவே அழிக்கப்படுகின்றன."
+
+    }
+  ]
+  "note": "PNG கோப்புகள் WebP க்கு ஒப்பிடும்போது இழப்பில்லா சுருக்கத்தால் பெரியதாக இருக்கலாம் - இது சாதாரணமாகும் மற்றும் அதிகபட்ச தரத்தை காக்கிறது."
+
   "related_links": [
     {
-      "title": "WebP ஐ JPG ஆக மாற்றவும்",
+      "title": "WebP ஐ JPG ஆக மாற்றவும்"
+
       "url": "/ta/convert/webp-to-jpg"
-    },
-    {
-      "title": "WebP ஐ AVIF ஆக மாற்றவும்",
-      "url": "/ta/convert/webp-to-avif"
-    },
-    {
-      "title": "PNG ஐ WebP ஆக மாற்றவும்",
-      "url": "/ta/convert/png-to-webp"
-    },
-    {
-      "title": "PNG ஐ ஆன்லைனில் சுருக்கவும்",
-      "url": "/ta/edit/compress-image"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+    {
+      "title": "WebP ஐ AVIF ஆக மாற்றவும்"
+
+      "url": "/ta/convert/webp-to-avif"
+
+    }
+    {
+      "title": "PNG ஐ WebP ஆக மாற்றவும்"
+
+      "url": "/ta/convert/png-to-webp"
+
+    }
+    {
+      "title": "PNG ஐ ஆன்லைனில் சுருக்கவும்"
+
+      "url": "/ta/edit/compress-image"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன்",
-      "url": "https://wikihowto.click/ta/convert/webp-to-png",
-      "description": "WebP படங்களை PNG க்கு மாற்றுவதற்கான இலவச ஆன்லைன் கருவி, வெளிப்படைத்தன்மை காக்கப்படுகிறது.",
-      "inLanguage": "ta",
-      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to PNG மாற்றி - இலவசம் & ஆன்லைன்"
+
+      "url": "https://miconvert.com/ta/convert/webp-to-png"
+
+      "description": "WebP படங்களை PNG க்கு மாற்றுவதற்கான இலவச ஆன்லைன் கருவி, வெளிப்படைத்தன்மை காக்கப்படுகிறது."
+
+      "inLanguage": "ta"
+
+      "image": "https://miconvert.com/images/webp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "முகப்பு",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "முகப்பு"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "மாற்றவும்",
-          "item": "https://wikihowto.click/ta/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "மாற்றவும்"
+
+          "item": "https://miconvert.com/ta/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP to PNG",
-          "item": "https://wikihowto.click/ta/convert/webp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP to PNG"
+
+          "item": "https://miconvert.com/ta/convert/webp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP to PNG மாற்றி",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ta/convert/webp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to PNG மாற்றி"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ta/convert/webp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "வெளிப்படைத்தன்மை காக்கப்படுகிறது",
-        "இழப்பில்லா வெளியீடு",
+        "வெளிப்படைத்தன்மை காக்கப்படுகிறது"
+
+        "இழப்பில்லா வெளியீடு"
+
         "வேகமான செயலாக்கம்"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "வெளிப்படைத்தன்மை காக்கப்படுமா?",
+          "@type": "Question"
+
+          "name": "வெளிப்படைத்தன்மை காக்கப்படுமா?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "ஆம், PNG முழுமையாக அல்பா வெளிப்படைத்தன்மையை ஆதரிக்கிறது மற்றும் மாற்றி அதை intact க்காக காக்கிறது."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "நீங்கள் அனிமேஷன் செய்யப்பட்ட WebP ஐ ஆதரிக்கிறீர்களா?",
+          "@type": "Question"
+
+          "name": "நீங்கள் அனிமேஷன் செய்யப்பட்ட WebP ஐ ஆதரிக்கிறீர்களா?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "அனிமேஷன் செய்யப்பட்ட WebP, முதல் கட்டத்தைப் பயன்படுத்தி நிலையான PNG ஆக மாற்றப்படுகிறது."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "அதிகபட்ச கோப்பு அளவு என்ன?",
+          "@type": "Question"
+
+          "name": "அதிகபட்ச கோப்பு அளவு என்ன?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "ஒவ்வொரு கோப்பிற்கும் 16 MB வரை."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "WebP ஐ PNG ஆக மாற்றுவது எப்படி",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP ஐ PNG ஆக மாற்றுவது எப்படி"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "WebP பதிவேற்றவும் என்பதைக் கிளிக் செய்து உங்கள் கோப்பை தேர்ந்தெடுக்கவும்."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "பாதுகாப்பான செயலாக்கம் முடிவடைய காத்திருக்கவும்."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "உங்கள் படத்தைச் சேமிக்க PNG பதிவிறக்கம் என்பதைக் கிளிக் செய்யவும்."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "பாதுகாப்பான செயலாக்கம் முடிவடைய காத்திருக்கவும்."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "உங்கள் படத்தைச் சேமிக்க PNG பதிவிறக்கம் என்பதைக் கிளிக் செய்யவும்."
+
+        }
+      ]
       "tool": [
         "WebP to PNG மாற்றி"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,253 +1,383 @@
 {
-  "lang": "lv",
-  "lang_name": "Latviešu",
-  "title": "JPG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē | WikiHowTo.click",
-  "sub_title": "Konvertējiet JPG attēlus uz BMP tiešsaistē ar nekompresētiem, bezzaudējumu pikseļu datiem. Nav ūdenszīmju.",
-  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu...",
-  "btn_download": "Konvertēt uz BMP",
-  "btn_paste": "Augšupielādēt JPG",
-  "btn_clear": "Notīrīt",
-  "ogImage": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+  "lang": "lv"
+
+  "lang_name": "Latviešu"
+
+  "title": "JPG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
+
+  "sub_title": "Konvertējiet JPG attēlus uz BMP tiešsaistē ar nekompresētiem, bezzaudējumu pikseļu datiem. Nav ūdenszīmju."
+
+  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu..."
+
+  "btn_download": "Konvertēt uz BMP"
+
+  "btn_paste": "Augšupielādēt JPG"
+
+  "btn_clear": "Notīrīt"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
   "head": {
-    "title": "Konvertēt JPG uz BMP - Bezmaksas Tiešsaistes JPG uz BMP Konvertētājs",
-    "description": "Konvertējiet JPG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz BMP konvertēšana ar ātru apstrādi.",
-    "keywords": "jpg uz bmp, konvertēt jpg uz bmp, bezmaksas jpg uz bmp, tiešsaistes bmp konvertētājs, attēlu konvertēšana",
-    "canonical": "https://wikihowto.click/lv/convert/jpg-to-bmp",
-    "og_title": "Konvertēt JPG uz BMP - Bezmaksas Tiešsaistes JPG uz BMP Konvertētājs",
-    "og_description": "Konvertējiet JPG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz BMP konvertēšana ar ātru apstrādi.",
-    "og_url": "https://wikihowto.click/lv/convert/jpg-to-bmp",
-    "og_image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertēt JPG uz BMP - Bezmaksas Tiešsaistes JPG uz BMP Konvertētājs",
-    "twitter_description": "Konvertējiet JPG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz BMP konvertēšana ar ātru apstrādi.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-bmp.jpg"
-  },
+    "title": "Konvertēt JPG uz BMP - Bezmaksas Tiešsaistes JPG uz BMP Konvertētājs"
+
+    "description": "Konvertējiet JPG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz BMP konvertēšana ar ātru apstrādi."
+
+    "keywords": "jpg uz bmp, konvertēt jpg uz bmp, bezmaksas jpg uz bmp, tiešsaistes bmp konvertētājs, attēlu konvertēšana"
+
+    "canonical": "https://miconvert.com/lv/convert/jpg-to-bmp"
+
+    "og_title": "Konvertēt JPG uz BMP - Bezmaksas Tiešsaistes JPG uz BMP Konvertētājs"
+
+    "og_description": "Konvertējiet JPG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz BMP konvertēšana ar ātru apstrādi."
+
+    "og_url": "https://miconvert.com/lv/convert/jpg-to-bmp"
+
+    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "Konvertēt JPG uz BMP Tiešsaistē",
+    "title": "Konvertēt JPG uz BMP Tiešsaistē"
+
     "description": "Bezmaksas JPG uz BMP konvertētājs ar nekompresētiem, bezzaudējumu pikseļu datiem. Darbojas jebkurā ierīcē — nav nepieciešama reģistrācija."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-bmp",
-    "title": "JPG uz BMP Konvertētājs",
-    "description": "Konvertējiet JPG attēlus uz BMP ar ātru apstrādi un precīzām krāsām.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "BMP",
+    "type": "jpg-to-bmp"
+
+    "title": "JPG uz BMP Konvertētājs"
+
+    "description": "Konvertējiet JPG attēlus uz BMP ar ātru apstrādi un precīzām krāsām."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "Nekompresēti (bezzaudējumu) pikseļu dati",
-      "Augsta saderība ar Windows",
-      "Ātra apstrāde",
+      "Nekompresēti (bezzaudējumu) pikseļu dati"
+
+      "Augsta saderība ar Windows"
+
+      "Ātra apstrāde"
+
       "Bezmaksas tiešsaistes rīks"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "JPG uz BMP Konvertēšana Pabeigta",
-    "back_button": "Atpakaļ uz Konvertētāju",
-    "convert_another": "Konvertēt Vēl Vienu JPG",
+    "title": "JPG uz BMP Konvertēšana Pabeigta"
+
+    "back_button": "Atpakaļ uz Konvertētāju"
+
+    "convert_another": "Konvertēt Vēl Vienu JPG"
+
     "quick_conversions": "Ātrās Konvertēšanas:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Kāpēc Konvertēt JPG uz BMP?",
+      "title": "Kāpēc Konvertēt JPG uz BMP?"
+
       "description": "<p>BMP ir vienkāršs rastra formāts, kas glabā pikseļus bez kompresijas — noderīgs noteiktos darba procesos:</p><ul><li><strong>Nav JPEG artefaktu:</strong> Izvairieties no atkārtotām zaudējumu kompresijām rediģēšanas laikā.</li><li><strong>Vienkārša struktūra:</strong> Viegli zemas līmeņa pikseļu manipulācijām.</li><li><strong>Vēsturiskas/iebūvētas lietotnes:</strong> Daži Windows rīki dod priekšroku BMP.</li></ul>"
-    },
-    {
-      "title": "Kā Konvertēt JPG uz BMP Tiešsaistē",
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt BMP</em>, lai saglabātu savu attēlu.</li></ol><p>Noklusējuma iestatījums ir 24 bitu BMP bez kompresijas.</p>"
-    },
-    {
-      "title": "BMP pret JPG: Galvenās Atšķirības",
-      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Kompresija</td><td>Zaudējumu (JPEG)</td><td>Parasti nekompresēts (bezzaudējumu)</td></tr><tr><td>Faila izmērs</td><td>Mazs</td><td>Liels</td></tr><tr><td>Caurredzamība</td><td>Nav</td><td>Nav (parasts 24 bitu BMP)</td></tr><tr><td>Labākais priekš</td><td>Fotogrāfijām, tīmekļa izmantošanai</td><td>Rediģēšanas darba procesiem, vēsturiskām lietotnēm, pikseļu operācijām</td></tr></tbody></table>"
-    },
-    {
-      "title": "Atbalstītie Ierobežojumi un Formāti",
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitu dziļums:</strong> 24 bitu (nav alfa)</li></ul>"
-    },
-    {
-      "title": "Problēmu Novēršana",
-      "description": "<ul><li><strong>Ļoti liela izvade:</strong> BMP ir nekompresēts pēc dizaina; apsveriet <a href='/lv/convert/jpg-to-png'>JPG uz PNG</a> mazākiem bezzaudējumu failiem.</li><li><strong>Nepieciešama caurredzamība:</strong> BMP (24 bitu) nav alfa; izmantojiet <a href='/lv/convert/jpg-to-png'>JPG uz PNG</a>.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir JPG/JPEG un ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Kas ir JPG?",
-      "description": "<p>JPG (JPEG) izmanto zaudējumu kompresiju, lai saglabātu failus mazus, ideāli piemērots fotogrāfijām un tīmeklim, bet atkārtota saglabāšana var ieviest artefaktus.</p>"
-    },
-    {
-      "title": "Kas ir BMP?",
-      "description": "<p>BMP ir vienkāršs bitmaps formāts, kas parasti glabā neapstrādātus pikseļus bez kompresijas. Tas ir liels izmēra ziņā, bet viegli lasāms un manipulējams programmām.</p>"
-    },
-    {
-      "title": "Izmantošanas Gadījumi: Kad Konvertēt JPG uz BMP",
-      "description": "<ul><li><strong>Rediģēšanas cikli:</strong> Izvairieties no kumulatīviem JPEG artefaktiem.</li><li><strong>Vēsturiskā programmatūra:</strong> Vecāki Windows rīki, kas prasa BMP.</li><li><strong>Izstrāde:</strong> Tieša pikseļu piekļuve zemas līmeņa apstrādē.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kā Konvertēt JPG uz BMP Tiešsaistē"
+
+      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt BMP</em>, lai saglabātu savu attēlu.</li></ol><p>Noklusējuma iestatījums ir 24 bitu BMP bez kompresijas.</p>"
+
+    }
+    {
+      "title": "BMP pret JPG: Galvenās Atšķirības"
+
+      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Kompresija</td><td>Zaudējumu (JPEG)</td><td>Parasti nekompresēts (bezzaudējumu)</td></tr><tr><td>Faila izmērs</td><td>Mazs</td><td>Liels</td></tr><tr><td>Caurredzamība</td><td>Nav</td><td>Nav (parasts 24 bitu BMP)</td></tr><tr><td>Labākais priekš</td><td>Fotogrāfijām, tīmekļa izmantošanai</td><td>Rediģēšanas darba procesiem, vēsturiskām lietotnēm, pikseļu operācijām</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Atbalstītie Ierobežojumi un Formāti"
+
+      "description": "<ul><li><strong>Pieņemti ievadi:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitu dziļums:</strong> 24 bitu (nav alfa)</li></ul>"
+
+    }
+    {
+      "title": "Problēmu Novēršana"
+
+      "description": "<ul><li><strong>Ļoti liela izvade:</strong> BMP ir nekompresēts pēc dizaina; apsveriet <a href='/lv/convert/jpg-to-png'>JPG uz PNG</a> mazākiem bezzaudējumu failiem.</li><li><strong>Nepieciešama caurredzamība:</strong> BMP (24 bitu) nav alfa; izmantojiet <a href='/lv/convert/jpg-to-png'>JPG uz PNG</a>.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir JPG/JPEG un ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Kas ir JPG?"
+
+      "description": "<p>JPG (JPEG) izmanto zaudējumu kompresiju, lai saglabātu failus mazus, ideāli piemērots fotogrāfijām un tīmeklim, bet atkārtota saglabāšana var ieviest artefaktus.</p>"
+
+    }
+    {
+      "title": "Kas ir BMP?"
+
+      "description": "<p>BMP ir vienkāršs bitmaps formāts, kas parasti glabā neapstrādātus pikseļus bez kompresijas. Tas ir liels izmēra ziņā, bet viegli lasāms un manipulējams programmām.</p>"
+
+    }
+    {
+      "title": "Izmantošanas Gadījumi: Kad Konvertēt JPG uz BMP"
+
+      "description": "<ul><li><strong>Rediģēšanas cikli:</strong> Izvairieties no kumulatīviem JPEG artefaktiem.</li><li><strong>Vēsturiskā programmatūra:</strong> Vecāki Windows rīki, kas prasa BMP.</li><li><strong>Izstrāde:</strong> Tieša pikseļu piekļuve zemas līmeņa apstrādē.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Vai šis JPG uz BMP konvertētājs ir bezmaksas?",
+      "question": "Vai šis JPG uz BMP konvertētājs ir bezmaksas?"
+
       "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
-    },
-    {
-      "question": "Vai BMP darbosies visās lietotnēs?",
-      "answer": "BMP ir plaši atbalstīts Windows un atpazīts daudzās citās platformās. Daži mūsdienu darba procesi dod priekšroku PNG/WebP izmēra efektivitātei."
-    },
-    {
-      "question": "Cik daudz lielāki ir BMP faili nekā JPG?",
-      "answer": "Bieži vien vairākkārt lielāki (piemēram, 5–20×), jo BMP parasti ir nekompresēts."
-    },
-    {
-      "question": "Kādi faila izmēri ir atbalstīti?",
-      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
-    },
-    {
-      "question": "Vai mani faili ir droši?",
-      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
-    },
-    {
-      "question": "Vai es varu konvertēt vairākus JPG vienlaicīgi?",
-      "answer": "Šī lapa konvertē vienu failu vienlaicīgi. Lielākām vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
-    },
-    {
-      "question": "Vai BMP atbalsta caurredzamību?",
-      "answer": "Parastais 24 bitu BMP neietver alfa kanālu. Caurredzamībai izmantojiet PNG."
+
     }
-  ],
-  "note": "BMP izvade ir apzināti liela (nekompresēta). Tīmeklim dodiet priekšroku PNG/WebP/AVIF.",
+    {
+      "question": "Vai BMP darbosies visās lietotnēs?"
+
+      "answer": "BMP ir plaši atbalstīts Windows un atpazīts daudzās citās platformās. Daži mūsdienu darba procesi dod priekšroku PNG/WebP izmēra efektivitātei."
+
+    }
+    {
+      "question": "Cik daudz lielāki ir BMP faili nekā JPG?"
+
+      "answer": "Bieži vien vairākkārt lielāki (piemēram, 5–20×), jo BMP parasti ir nekompresēts."
+
+    }
+    {
+      "question": "Kādi faila izmēri ir atbalstīti?"
+
+      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
+
+    }
+    {
+      "question": "Vai mani faili ir droši?"
+
+      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
+
+    }
+    {
+      "question": "Vai es varu konvertēt vairākus JPG vienlaicīgi?"
+
+      "answer": "Šī lapa konvertē vienu failu vienlaicīgi. Lielākām vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
+
+    }
+    {
+      "question": "Vai BMP atbalsta caurredzamību?"
+
+      "answer": "Parastais 24 bitu BMP neietver alfa kanālu. Caurredzamībai izmantojiet PNG."
+
+    }
+  ]
+  "note": "BMP izvade ir apzināti liela (nekompresēta). Tīmeklim dodiet priekšroku PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Konvertēt BMP uz JPG",
+      "title": "Konvertēt BMP uz JPG"
+
       "url": "/lv/convert/bmp-to-jpg"
-    },
-    {
-      "title": "Konvertēt JPG uz PNG",
-      "url": "/lv/convert/jpg-to-png"
-    },
-    {
-      "title": "Konvertēt PNG uz BMP",
-      "url": "/lv/convert/png-to-bmp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Visas tiesības aizsargātas.",
+    {
+      "title": "Konvertēt JPG uz PNG"
+
+      "url": "/lv/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Konvertēt PNG uz BMP"
+
+      "url": "/lv/convert/png-to-bmp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "JPG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē",
-      "url": "https://wikihowto.click/lv/convert/jpg-to-bmp",
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz BMP ar nekompresētiem, bezzaudējumu pikseļu datiem.",
-      "inLanguage": "lv",
-      "image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē"
+
+      "url": "https://miconvert.com/lv/convert/jpg-to-bmp"
+
+      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz BMP ar nekompresētiem, bezzaudējumu pikseļu datiem."
+
+      "inLanguage": "lv"
+
+      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Sākums",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Sākums"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertēt",
-          "item": "https://wikihowto.click/lv/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertēt"
+
+          "item": "https://miconvert.com/lv/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG uz BMP",
-          "item": "https://wikihowto.click/lv/convert/jpg-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG uz BMP"
+
+          "item": "https://miconvert.com/lv/convert/jpg-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "JPG uz BMP Konvertētājs",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/lv/convert/jpg-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG uz BMP Konvertētājs"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/lv/convert/jpg-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Nekompresēti pikseļu dati",
-        "Precīzas krāsas",
+        "Nekompresēti pikseļu dati"
+
+        "Precīzas krāsas"
+
         "Ātra apstrāde"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Vai šis JPG uz BMP konvertētājs ir bezmaksas?",
+          "@type": "Question"
+
+          "name": "Vai šis JPG uz BMP konvertētājs ir bezmaksas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kādi faila izmēri ir atbalstīti?",
+          "@type": "Question"
+
+          "name": "Kādi faila izmēri ir atbalstīti?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vai BMP atbalsta caurredzamību?",
+          "@type": "Question"
+
+          "name": "Vai BMP atbalsta caurredzamību?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standarta 24 bitu BMP neietver caurredzamību. Izmantojiet PNG alfa."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kā konvertēt JPG uz BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kā konvertēt JPG uz BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Noklikšķiniet uz Augšupielādēt JPG un izvēlieties savu failu."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gaidiet, līdz apstrāde ir pabeigta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Noklikšķiniet uz Lejupielādēt BMP, lai saglabātu attēlu."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Gaidiet, līdz apstrāde ir pabeigta."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Noklikšķiniet uz Lejupielādēt BMP, lai saglabātu attēlu."
+
+        }
+      ]
       "tool": [
         "JPG uz BMP Konvertētājs"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

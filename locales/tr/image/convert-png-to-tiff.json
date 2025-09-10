@@ -1,244 +1,368 @@
 {
-  "lang": "tr",
-  "lang_name": "Türkçe",
-  "title": "PNG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi | WikiHowTo.click",
-  "sub_title": "PNG görüntülerini kayıpsız seçeneklerle, baskıya hazır kalitede ve şeffaflığı koruyarak çevrimiçi TIFF'ye dönüştürün. Su işareti yok.",
-  "hint": "Dönüştürmeye başlamak için PNG görüntünüzü yükleyin...",
-  "btn_download": "TIFF'ye Dönüştür",
-  "btn_paste": "PNG Yükle",
-  "btn_clear": "Temizle",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "tr"
+
+  "lang_name": "Türkçe"
+
+  "title": "PNG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi | miconvert.com"
+
+  "sub_title": "PNG görüntülerini kayıpsız seçeneklerle, baskıya hazır kalitede ve şeffaflığı koruyarak çevrimiçi TIFF'ye dönüştürün. Su işareti yok."
+
+  "hint": "Dönüştürmeye başlamak için PNG görüntünüzü yükleyin..."
+
+  "btn_download": "TIFF'ye Dönüştür"
+
+  "btn_paste": "PNG Yükle"
+
+  "btn_clear": "Temizle"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "PNG'den TIFF'e Dönüştür - Ücretsiz Çevrimiçi PNG'den TIFF'e Dönüştürücü | WikiHowTo.click",
-    "description": "PNG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Kayıpsız seçeneklerle yüksek kaliteli PNG'den TIFF dönüşümü ve hızlı işleme.",
-    "keywords": "png'den tiff'e, png'yi tiff'e dönüştür, ücretsiz png'den tiff'e, çevrimiçi tiff dönüştürücü, görüntü dönüşümü",
-    "canonical": "https://wikihowto.click/tr/convert/png-to-tiff",
-    "og_title": "PNG'den TIFF'e Dönüştür - Ücretsiz Çevrimiçi PNG'den TIFF'e Dönüştürücü",
-    "og_description": "PNG görüntülerini kayıpsız sıkıştırma seçenekleri ve korunan şeffaflık ile TIFF'ye dönüştürün. Ücretsiz, hızlı ve güvenli.",
-    "og_url": "https://wikihowto.click/tr/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Ücretsiz PNG'den TIFF'e Dönüştürücü Çevrimiçi",
-    "twitter_description": "Kayıpsız seçeneklerle, şeffaflık ve baskıya hazır kalite ile PNG'yi TIFF'ye dönüştürün.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "PNG'den TIFF'e Dönüştür - Ücretsiz Çevrimiçi PNG'den TIFF'e Dönüştürücü | miconvert.com"
+
+    "description": "PNG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Kayıpsız seçeneklerle yüksek kaliteli PNG'den TIFF dönüşümü ve hızlı işleme."
+
+    "keywords": "png'den tiff'e, png'yi tiff'e dönüştür, ücretsiz png'den tiff'e, çevrimiçi tiff dönüştürücü, görüntü dönüşümü"
+
+    "canonical": "https://miconvert.com/tr/convert/png-to-tiff"
+
+    "og_title": "PNG'den TIFF'e Dönüştür - Ücretsiz Çevrimiçi PNG'den TIFF'e Dönüştürücü"
+
+    "og_description": "PNG görüntülerini kayıpsız sıkıştırma seçenekleri ve korunan şeffaflık ile TIFF'ye dönüştürün. Ücretsiz, hızlı ve güvenli."
+
+    "og_url": "https://miconvert.com/tr/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "PNG'yi Çevrimiçi TIFF'ye Dönüştür",
+    "title": "PNG'yi Çevrimiçi TIFF'ye Dönüştür"
+
     "description": "Kayıpsız sıkıştırma seçenekleri ve baskıya hazır çıktı ile ücretsiz PNG'den TIFF'e dönüştürücü. Herhangi bir cihazda çalışır - kayıt gerektirmez."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "PNG'den TIFF'e Dönüştürücü",
-    "description": "PNG görüntülerini LZW/ZIP kayıpsız sıkıştırma ile TIFF'ye dönüştürürken alfa şeffaflığını korur.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "PNG'den TIFF'e Dönüştürücü"
+
+    "description": "PNG görüntülerini LZW/ZIP kayıpsız sıkıştırma ile TIFF'ye dönüştürürken alfa şeffaflığını korur."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Kayıpsız TIFF (LZW/ZIP) seçeneği",
-      "Şeffaflığı korur (alfa)",
-      "Baskıya hazır kalite",
+      "Kayıpsız TIFF (LZW/ZIP) seçeneği"
+
+      "Şeffaflığı korur (alfa)"
+
+      "Baskıya hazır kalite"
+
       "Ücretsiz çevrimiçi araç"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG'den TIFF'e Dönüşüm Tamamlandı",
-    "back_button": "Dönüştürücüye Geri Dön",
-    "convert_another": "Başka Bir PNG Dönüştür",
+    "title": "PNG'den TIFF'e Dönüşüm Tamamlandı"
+
+    "back_button": "Dönüştürücüye Geri Dön"
+
+    "convert_another": "Başka Bir PNG Dönüştür"
+
     "quick_conversions": "Hızlı Dönüşümler:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Neden PNG'yi TIFF'ye Dönüştürmeliyim?",
+      "title": "Neden PNG'yi TIFF'ye Dönüştürmeliyim?"
+
       "description": "<p>TIFF, görüntüleme ve baskıda kullanılan profesyonel, arşiv kalitesinde bir formattır:</p><ul><li><strong>Kayıpsız seçenekler:</strong> Yeni artefaktlar eklemeden temiz bir master saklayın.</li><li><strong>Baskıya hazır:</strong> Yüksek çözünürlüklü çıktı ve ön baskı iş akışları için harika.</li><li><strong>Alfa desteği:</strong> Şeffaflığı koruyabilir (okuyucuya bağlı).</li><li><strong>Düzenlemeye uygun:</strong> Tekrar kaydetmeler ve aktarım için stabil.</li></ul>"
-    },
-    {
-      "title": "PNG'yi Çevrimiçi TIFF'ye Nasıl Dönüştürürüm",
-      "description": "<ol><li><em>PNG Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlem için bekleyin.</li><li>Sonucu kaydetmek için <em>TIFF İndir</em> butonuna tıklayın.</li></ol><p>Varsayılan çıktı: 32-bit RGBA, LZW kayıpsız, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF ve PNG: Temel Farklar",
-      "description": "<ul><li><strong>Sıkıştırma:</strong> PNG kayıpsız DEFLATE kullanır; TIFF LZW/ZIP (kayıpsız) veya diğerlerini destekler.</li><li><strong>Dosya boyutu:</strong> Görüntü içeriğine bağlıdır; TIFF, PNG'den daha büyük veya benzer olabilir.</li><li><strong>Şeffaflık:</strong> Her ikisi de alfa içerebilir (görüntüleyici desteği TIFF için değişebilir).</li><li><strong>En iyi kullanım:</strong> PNG web dağıtımı için; TIFF düzenleme, baskı ve arşivleme için.</li></ul>"
-    },
-    {
-      "title": "Desteklenen Sınırlar & Formatlar",
-      "description": "<ul><li><strong>Kabul edilen giriş:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Varsayılanlar:</strong> 32-bit RGBA, LZW sıkıştırma, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Sorun Giderme",
-      "description": "<ul><li><strong>Dosya çok büyük:</strong> TIFF bazı içerikler için daha ağırdır - web için PNG kullanın veya WebP/AVIF'i düşünün.</li><li><strong>Alfa görünmüyor:</strong> Bazı görüntüleyiciler TIFF alfa'yı görmezden gelir; profesyonel bir editörde doğrulayın.</li><li><strong>Renk kayması:</strong> Ekranda tutarlı renk için yüklemeden önce sRGB'ye dönüştürün.</li><li><strong>Yükleme başarısız:</strong> PNG'nin ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
+
     }
-  ],
+    {
+      "title": "PNG'yi Çevrimiçi TIFF'ye Nasıl Dönüştürürüm"
+
+      "description": "<ol><li><em>PNG Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlem için bekleyin.</li><li>Sonucu kaydetmek için <em>TIFF İndir</em> butonuna tıklayın.</li></ol><p>Varsayılan çıktı: 32-bit RGBA, LZW kayıpsız, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF ve PNG: Temel Farklar"
+
+      "description": "<ul><li><strong>Sıkıştırma:</strong> PNG kayıpsız DEFLATE kullanır; TIFF LZW/ZIP (kayıpsız) veya diğerlerini destekler.</li><li><strong>Dosya boyutu:</strong> Görüntü içeriğine bağlıdır; TIFF, PNG'den daha büyük veya benzer olabilir.</li><li><strong>Şeffaflık:</strong> Her ikisi de alfa içerebilir (görüntüleyici desteği TIFF için değişebilir).</li><li><strong>En iyi kullanım:</strong> PNG web dağıtımı için; TIFF düzenleme, baskı ve arşivleme için.</li></ul>"
+
+    }
+    {
+      "title": "Desteklenen Sınırlar & Formatlar"
+
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Varsayılanlar:</strong> 32-bit RGBA, LZW sıkıştırma, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Sorun Giderme"
+
+      "description": "<ul><li><strong>Dosya çok büyük:</strong> TIFF bazı içerikler için daha ağırdır - web için PNG kullanın veya WebP/AVIF'i düşünün.</li><li><strong>Alfa görünmüyor:</strong> Bazı görüntüleyiciler TIFF alfa'yı görmezden gelir; profesyonel bir editörde doğrulayın.</li><li><strong>Renk kayması:</strong> Ekranda tutarlı renk için yüklemeden önce sRGB'ye dönüştürün.</li><li><strong>Yükleme başarısız:</strong> PNG'nin ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Bu PNG'den TIFF'e dönüştürücü ücretsiz mi?",
+      "question": "Bu PNG'den TIFF'e dönüştürücü ücretsiz mi?"
+
       "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
-    },
-    {
-      "question": "TIFF tüm uygulamalarda çalışır mı?",
-      "answer": "TIFF, profesyonel uygulamalarda (Photoshop, Affinity, birçok RIP/baskı aracı) yaygın olarak desteklenir. Bazı basit görüntüleyiciler alfa veya belirli sıkıştırma yöntemlerini görüntülemeyebilir."
-    },
-    {
-      "question": "TIFF dosyaları PNG'ye göre ne kadar büyük?",
-      "answer": "Görüntüye bağlıdır. LZW/ZIP ile TIFF, içeriğe bağlı olarak PNG ile benzer veya daha büyük olabilir."
-    },
-    {
-      "question": "Hangi dosya boyutları destekleniyor?",
-      "answer": "Dosya başına 16&nbsp;MB'a kadar görüntü yükleyebilirsiniz."
-    },
-    {
-      "question": "Dosyalarım güvende mi?",
-      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
-    },
-    {
-      "question": "Birden fazla PNG'yi aynı anda dönüştürebilir miyim?",
-      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
-    },
-    {
-      "question": "TIFF katmanları destekliyor mu?",
-      "answer": "Standart TIFF düz bir görüntüdür; bazı uygulamalar özel katman verilerini gömürebilir, ancak bu araç düz bir TIFF çıktısı verir."
+
     }
-  ],
-  "note": "TIFF, arşivleme/baskı için uygundur ancak ağır olabilir. Web için PNG/WebP/AVIF'i düşünün.",
+    {
+      "question": "TIFF tüm uygulamalarda çalışır mı?"
+
+      "answer": "TIFF, profesyonel uygulamalarda (Photoshop, Affinity, birçok RIP/baskı aracı) yaygın olarak desteklenir. Bazı basit görüntüleyiciler alfa veya belirli sıkıştırma yöntemlerini görüntülemeyebilir."
+
+    }
+    {
+      "question": "TIFF dosyaları PNG'ye göre ne kadar büyük?"
+
+      "answer": "Görüntüye bağlıdır. LZW/ZIP ile TIFF, içeriğe bağlı olarak PNG ile benzer veya daha büyük olabilir."
+
+    }
+    {
+      "question": "Hangi dosya boyutları destekleniyor?"
+
+      "answer": "Dosya başına 16&nbsp;MB'a kadar görüntü yükleyebilirsiniz."
+
+    }
+    {
+      "question": "Dosyalarım güvende mi?"
+
+      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
+
+    }
+    {
+      "question": "Birden fazla PNG'yi aynı anda dönüştürebilir miyim?"
+
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+
+    }
+    {
+      "question": "TIFF katmanları destekliyor mu?"
+
+      "answer": "Standart TIFF düz bir görüntüdür; bazı uygulamalar özel katman verilerini gömürebilir, ancak bu araç düz bir TIFF çıktısı verir."
+
+    }
+  ]
+  "note": "TIFF, arşivleme/baskı için uygundur ancak ağır olabilir. Web için PNG/WebP/AVIF'i düşünün."
+
   "related_links": [
     {
-      "title": "PNG'yi JPG'ye Dönüştür",
+      "title": "PNG'yi JPG'ye Dönüştür"
+
       "url": "/tr/convert/png-to-jpg"
-    },
-    {
-      "title": "PNG'yi WebP'ye Dönüştür",
-      "url": "/tr/convert/png-to-webp"
-    },
-    {
-      "title": "JPG'yi TIFF'ye Dönüştür",
-      "url": "/tr/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+    {
+      "title": "PNG'yi WebP'ye Dönüştür"
+
+      "url": "/tr/convert/png-to-webp"
+
+    }
+    {
+      "title": "JPG'yi TIFF'ye Dönüştür"
+
+      "url": "/tr/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tüm hakları saklıdır."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi",
-      "url": "https://wikihowto.click/tr/convert/png-to-tiff",
-      "description": "Kayıpsız seçenekler ve korunan şeffaflık ile PNG görüntülerini TIFF'ye dönüştürmek için ücretsiz çevrimiçi araç.",
-      "inLanguage": "tr",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi"
+
+      "url": "https://miconvert.com/tr/convert/png-to-tiff"
+
+      "description": "Kayıpsız seçenekler ve korunan şeffaflık ile PNG görüntülerini TIFF'ye dönüştürmek için ücretsiz çevrimiçi araç."
+
+      "inLanguage": "tr"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Ana Sayfa",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Ana Sayfa"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Dönüştür",
-          "item": "https://wikihowto.click/tr/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Dönüştür"
+
+          "item": "https://miconvert.com/tr/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG'den TIFF'e",
-          "item": "https://wikihowto.click/tr/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG'den TIFF'e"
+
+          "item": "https://miconvert.com/tr/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG'den TIFF'e Dönüştürücü",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/tr/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG'den TIFF'e Dönüştürücü"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/tr/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Kayıpsız LZW seçeneği",
-        "Alfayı korur",
+        "Kayıpsız LZW seçeneği"
+
+        "Alfayı korur"
+
         "Baskıya hazır 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Bu PNG'den TIFF'e dönüştürücü ücretsiz mi?",
+          "@type": "Question"
+
+          "name": "Bu PNG'den TIFF'e dönüştürücü ücretsiz mi?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hangi dosya boyutları destekleniyor?",
+          "@type": "Question"
+
+          "name": "Hangi dosya boyutları destekleniyor?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "TIFF katmanları destekliyor mu?",
+          "@type": "Question"
+
+          "name": "TIFF katmanları destekliyor mu?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standart TIFF düz bir görüntüdür; bazı uygulamalar özel katman verilerini gömürebilir. Bu araç düz bir TIFF çıktısı verir."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "PNG'yi TIFF'ye nasıl dönüştürürüm",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG'yi TIFF'ye nasıl dönüştürürüm"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "PNG Yükle butonuna tıklayın ve dosyanızı seçin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "İşlemin tamamlanmasını bekleyin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sonucu kaydetmek için TIFF İndir butonuna tıklayın."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "İşlemin tamamlanmasını bekleyin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Sonucu kaydetmek için TIFF İndir butonuna tıklayın."
+
+        }
+      ]
       "tool": [
         "PNG'den TIFF'e Dönüştürücü"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

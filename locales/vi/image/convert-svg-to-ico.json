@@ -1,244 +1,363 @@
 {
-  "lang": "vi",
-  "lang_name": "Tiếng Việt",
-  "title": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến | WikiHowTo.click",
-  "sub_title": "Chuyển đổi hình ảnh SVG sang định dạng ICO trực tuyến cho favicon và biểu tượng trên máy tính. Miễn phí, nhanh chóng và không có watermark.",
-  "hint": "Tải lên hình ảnh SVG của bạn để bắt đầu chuyển đổi...",
-  "btn_download": "Chuyển đổi sang ICO",
-  "btn_paste": "Tải lên SVG",
-  "btn_clear": "Xóa",
-  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "lang": "vi"
+
+  "lang_name": "Tiếng Việt"
+
+  "title": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến | miconvert.com"
+
+  "sub_title": "Chuyển đổi hình ảnh SVG sang định dạng ICO trực tuyến cho favicon và biểu tượng trên máy tính. Miễn phí, nhanh chóng và không có watermark."
+
+  "hint": "Tải lên hình ảnh SVG của bạn để bắt đầu chuyển đổi..."
+
+  "btn_download": "Chuyển đổi sang ICO"
+
+  "btn_paste": "Tải lên SVG"
+
+  "btn_clear": "Xóa"
+
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
+
   "converter": {
-    "type": "svg-to-ico",
-    "inputFormat": "SVG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "svg-to-ico"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>Chuyển đổi <strong>SVG sang ICO</strong> của bạn để có favicon và biểu tượng trên máy tính hoàn hảo! Công cụ chuyển đổi miễn phí của chúng tôi raster hóa SVG vector của bạn thành ICO đa kích thước sắc nét hoạt động trên các trình duyệt và máy tính Windows.</p><p>ICO có thể gộp nhiều kích thước trong một tệp (ví dụ: 16–256 px), vì vậy biểu tượng của bạn trông sắc nét trên các tab, phím tắt và màn hình độ phân giải cao. Độ trong suốt được bảo tồn cho các cạnh mượt mà trên nền sáng và tối.</p>",
+  }
+  "description": "<p>Chuyển đổi <strong>SVG sang ICO</strong> của bạn để có favicon và biểu tượng trên máy tính hoàn hảo! Công cụ chuyển đổi miễn phí của chúng tôi raster hóa SVG vector của bạn thành ICO đa kích thước sắc nét hoạt động trên các trình duyệt và máy tính Windows.</p><p>ICO có thể gộp nhiều kích thước trong một tệp (ví dụ: 16–256 px), vì vậy biểu tượng của bạn trông sắc nét trên các tab, phím tắt và màn hình độ phân giải cao. Độ trong suốt được bảo tồn cho các cạnh mượt mà trên nền sáng và tối.</p>"
+
   "head": {
-    "title": "Chuyển đổi SVG sang ICO Trực tuyến - Công cụ Chuyển đổi SVG sang ICO Miễn phí | WikiHowTo.click",
-    "description": "Chuyển đổi SVG sang ICO trực tuyến cho favicon và biểu tượng trên máy tính. Công cụ chuyển đổi SVG sang ICO miễn phí, nhanh chóng và an toàn.",
-    "keywords": "svg sang ico, chuyển đổi svg sang ico, svg sang ico miễn phí, công cụ chuyển đổi ico trực tuyến, tạo favicon",
-    "canonical": "https://wikihowto.click/vi/convert/svg-to-ico",
-    "og_title": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến",
-    "og_description": "Chuyển đổi hình ảnh SVG thành định dạng ICO cho favicon và biểu tượng trên máy tính. 100% miễn phí, nhanh chóng và an toàn.",
-    "og_url": "https://wikihowto.click/vi/convert/svg-to-ico",
-    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Công cụ Chuyển đổi SVG sang ICO Miễn phí Trực tuyến",
-    "twitter_description": "Chuyển đổi SVG sang ICO cho favicon và biểu tượng trên máy tính. Hoạt động trên tất cả các thiết bị.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
-  },
+    "title": "Chuyển đổi SVG sang ICO Trực tuyến - Công cụ Chuyển đổi SVG sang ICO Miễn phí | miconvert.com"
+
+    "description": "Chuyển đổi SVG sang ICO trực tuyến cho favicon và biểu tượng trên máy tính. Công cụ chuyển đổi SVG sang ICO miễn phí, nhanh chóng và an toàn."
+
+    "keywords": "svg sang ico, chuyển đổi svg sang ico, svg sang ico miễn phí, công cụ chuyển đổi ico trực tuyến, tạo favicon"
+
+    "canonical": "https://miconvert.com/vi/convert/svg-to-ico"
+
+    "og_title": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến"
+
+    "og_description": "Chuyển đổi hình ảnh SVG thành định dạng ICO cho favicon và biểu tượng trên máy tính. 100% miễn phí, nhanh chóng và an toàn."
+
+    "og_url": "https://miconvert.com/vi/convert/svg-to-ico"
+
+    "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Chuyển đổi SVG sang ICO Trực tuyến",
+    "title": "Chuyển đổi SVG sang ICO Trực tuyến"
+
     "description": "Công cụ chuyển đổi SVG sang ICO miễn phí và nhanh chóng cho favicon và biểu tượng trên máy tính. Hoạt động ngay lập tức trên bất kỳ thiết bị nào — không cần đăng ký."
-  },
+
+  }
   "h2": [
     {
-      "title": "Tại sao nên chuyển đổi SVG sang ICO?",
+      "title": "Tại sao nên chuyển đổi SVG sang ICO?"
+
       "description": "<p>SVG cung cấp cho bạn hình dạng độc lập với độ phân giải; ICO cung cấp khả năng tương thích biểu tượng gốc:</p><ul><li><strong>Hỗ trợ đa kích thước:</strong> Gộp các biến thể 16–256 px trong một tệp.</li><li><strong>Tiêu chuẩn favicon:</strong> Được các trình duyệt công nhận rộng rãi.</li><li><strong>Khả năng tương thích với Windows:</strong> Định dạng gốc cho biểu tượng trên máy tính/ứng dụng.</li><li><strong>Độ trong suốt:</strong> Các cạnh mượt mà với alpha được bảo tồn.</li></ul>"
-    },
-    {
-      "title": "Cách chuyển đổi SVG sang ICO trực tuyến",
-      "description": "<ol><li>Nhấp vào <em>Tải lên SVG</em> và chọn tệp vector của bạn.</li><li>Chờ quá trình raster hóa và tối ưu hóa hoàn tất.</li><li>Nhấp vào <em>Tải xuống ICO</em> để lưu biểu tượng của bạn.</li></ol><p>Chúng tôi tự động tạo các kích thước phổ biến để có kết quả sắc nét.</p>"
-    },
-    {
-      "title": "Thông số kỹ thuật định dạng ICO",
-      "description": "<ul><li><strong>Kích thước tiêu chuẩn:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Độ sâu màu:</strong> Lên đến 32-bit RGBA</li><li><strong>Định dạng nén:</strong> Các mục nén PNG cho biểu tượng 32-bit (Vista+)</li><li><strong>Cấu trúc:</strong> Tiêu đề + nhiều mục hình ảnh trong một tệp</li></ul>"
-    },
-    {
-      "title": "Giới hạn & Định dạng được hỗ trợ",
-      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Khắc phục sự cố",
-      "description": "<ul><li><strong>Favicon không hiển thị:</strong> Xóa bộ nhớ cache và đảm bảo <code>/favicon.ico</code> được liên kết qua <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Phông chữ/bộ lọc:</strong> Phông chữ không nhúng, bộ lọc phức tạp hoặc tài sản bên ngoài có thể raster hóa khác nhau. Chuyển đổi văn bản thành đường viền và tài sản nội tuyến trong SVG.</li><li><strong>Cắt:</strong> Sử dụng bảng vẽ vuông với khoảng đệm để tránh cắt sau khi raster hóa.</li><li><strong>Tải lên thất bại:</strong> Đảm bảo SVG ≤ 16&nbsp;MB và hợp lệ <code>image/svg+xml</code>.</li></ul>"
-    },
-    {
-      "title": "Thực hành tốt nhất",
-      "description": "<ul><li>Thiết kế trên một canvas vuông 512×512 hoặc 1024×1024 để có kết quả thu nhỏ sạch sẽ.</li><li>Giữ cho các hình dạng đậm; tránh các đường viền mỏng ở kích thước nhỏ.</li><li>Sử dụng độ tương phản cao để dễ đọc trong các biểu tượng 16–32 px.</li></ul>"
-    },
-    {
-      "title": "Các tính năng của Công cụ Chuyển đổi SVG sang ICO của chúng tôi",
-      "description": "<ul><li>100% Miễn phí không có watermark</li><li>Chuyển đổi tự động từ vector→raster</li><li>Tạo biểu tượng đa kích thước</li><li>Bảo tồn độ trong suốt</li><li>Xử lý an toàn</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cách chuyển đổi SVG sang ICO trực tuyến"
+
+      "description": "<ol><li>Nhấp vào <em>Tải lên SVG</em> và chọn tệp vector của bạn.</li><li>Chờ quá trình raster hóa và tối ưu hóa hoàn tất.</li><li>Nhấp vào <em>Tải xuống ICO</em> để lưu biểu tượng của bạn.</li></ol><p>Chúng tôi tự động tạo các kích thước phổ biến để có kết quả sắc nét.</p>"
+
+    }
+    {
+      "title": "Thông số kỹ thuật định dạng ICO"
+
+      "description": "<ul><li><strong>Kích thước tiêu chuẩn:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Độ sâu màu:</strong> Lên đến 32-bit RGBA</li><li><strong>Định dạng nén:</strong> Các mục nén PNG cho biểu tượng 32-bit (Vista+)</li><li><strong>Cấu trúc:</strong> Tiêu đề + nhiều mục hình ảnh trong một tệp</li></ul>"
+
+    }
+    {
+      "title": "Giới hạn & Định dạng được hỗ trợ"
+
+      "description": "<ul><li><strong>Đầu vào được chấp nhận:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Kích thước tệp tối đa:</strong> lên đến 16&nbsp;MB mỗi tệp</li><li><strong>Đầu ra:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Khắc phục sự cố"
+
+      "description": "<ul><li><strong>Favicon không hiển thị:</strong> Xóa bộ nhớ cache và đảm bảo <code>/favicon.ico</code> được liên kết qua <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Phông chữ/bộ lọc:</strong> Phông chữ không nhúng, bộ lọc phức tạp hoặc tài sản bên ngoài có thể raster hóa khác nhau. Chuyển đổi văn bản thành đường viền và tài sản nội tuyến trong SVG.</li><li><strong>Cắt:</strong> Sử dụng bảng vẽ vuông với khoảng đệm để tránh cắt sau khi raster hóa.</li><li><strong>Tải lên thất bại:</strong> Đảm bảo SVG ≤ 16&nbsp;MB và hợp lệ <code>image/svg+xml</code>.</li></ul>"
+
+    }
+    {
+      "title": "Thực hành tốt nhất"
+
+      "description": "<ul><li>Thiết kế trên một canvas vuông 512×512 hoặc 1024×1024 để có kết quả thu nhỏ sạch sẽ.</li><li>Giữ cho các hình dạng đậm; tránh các đường viền mỏng ở kích thước nhỏ.</li><li>Sử dụng độ tương phản cao để dễ đọc trong các biểu tượng 16–32 px.</li></ul>"
+
+    }
+    {
+      "title": "Các tính năng của Công cụ Chuyển đổi SVG sang ICO của chúng tôi"
+
+      "description": "<ul><li>100% Miễn phí không có watermark</li><li>Chuyển đổi tự động từ vector→raster</li><li>Tạo biểu tượng đa kích thước</li><li>Bảo tồn độ trong suốt</li><li>Xử lý an toàn</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Công cụ chuyển đổi SVG sang ICO này có miễn phí không?",
+      "question": "Công cụ chuyển đổi SVG sang ICO này có miễn phí không?"
+
       "answer": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hay đăng ký."
-    },
-    {
-      "question": "Các kích thước nào được hỗ trợ trong tệp ICO?",
-      "answer": "Các kích thước phổ biến bao gồm 16×16, 32×32, 48×48, 64×64, 128×128 và 256×256 px."
-    },
-    {
-      "question": "Tôi có thể sử dụng ICO cho favicon của trang web không?",
-      "answer": "Có. Đặt <code>/favicon.ico</code> ở thư mục gốc của bạn và tham chiếu nó bằng <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-    },
-    {
-      "question": "Các kích thước tệp nào được hỗ trợ?",
-      "answer": "Bạn có thể tải lên các tệp SVG lên đến 16&nbsp;MB."
-    },
-    {
-      "question": "Các tệp của tôi có an toàn không?",
-      "answer": "Các tệp được xử lý tự động và không được giữ lại lâu hơn cần thiết cho việc chuyển đổi."
-    },
-    {
-      "question": "Chất lượng biểu tượng có tốt không?",
-      "answer": "Có. Chúng tôi raster hóa từ vector của bạn ở nhiều kích thước để giữ cho các cạnh sắc nét và độ trong suốt nguyên vẹn."
+
     }
-  ],
-  "note": "Các tệp SVG được raster hóa trong quá trình chuyển đổi. Để có kết quả nhất quán, hãy chuyển đổi văn bản thành đường viền và nhúng các tài sản cần thiết.",
+    {
+      "question": "Các kích thước nào được hỗ trợ trong tệp ICO?"
+
+      "answer": "Các kích thước phổ biến bao gồm 16×16, 32×32, 48×48, 64×64, 128×128 và 256×256 px."
+
+    }
+    {
+      "question": "Tôi có thể sử dụng ICO cho favicon của trang web không?"
+
+      "answer": "Có. Đặt <code>/favicon.ico</code> ở thư mục gốc của bạn và tham chiếu nó bằng <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
+    }
+    {
+      "question": "Các kích thước tệp nào được hỗ trợ?"
+
+      "answer": "Bạn có thể tải lên các tệp SVG lên đến 16&nbsp;MB."
+
+    }
+    {
+      "question": "Các tệp của tôi có an toàn không?"
+
+      "answer": "Các tệp được xử lý tự động và không được giữ lại lâu hơn cần thiết cho việc chuyển đổi."
+
+    }
+    {
+      "question": "Chất lượng biểu tượng có tốt không?"
+
+      "answer": "Có. Chúng tôi raster hóa từ vector của bạn ở nhiều kích thước để giữ cho các cạnh sắc nét và độ trong suốt nguyên vẹn."
+
+    }
+  ]
+  "note": "Các tệp SVG được raster hóa trong quá trình chuyển đổi. Để có kết quả nhất quán, hãy chuyển đổi văn bản thành đường viền và nhúng các tài sản cần thiết."
+
   "related_links": [
     {
-      "title": "Chuyển đổi PNG sang ICO",
+      "title": "Chuyển đổi PNG sang ICO"
+
       "url": "/vi/convert/png-to-ico"
-    },
-    {
-      "title": "Chuyển đổi JPG sang ICO",
-      "url": "/vi/convert/jpg-to-ico"
-    },
-    {
-      "title": "Chuyển đổi ICO sang PNG",
-      "url": "/vi/convert/ico-to-png"
-    },
-    {
-      "title": "Chuyển đổi SVG sang PNG",
-      "url": "/vi/convert/svg-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tất cả các quyền được bảo lưu.",
+    {
+      "title": "Chuyển đổi JPG sang ICO"
+
+      "url": "/vi/convert/jpg-to-ico"
+
+    }
+    {
+      "title": "Chuyển đổi ICO sang PNG"
+
+      "url": "/vi/convert/ico-to-png"
+
+    }
+    {
+      "title": "Chuyển đổi SVG sang PNG"
+
+      "url": "/vi/convert/svg-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tất cả các quyền được bảo lưu."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến",
-      "url": "https://wikihowto.click/vi/convert/svg-to-ico",
-      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh SVG sang ICO cho favicon và biểu tượng trên máy tính Windows.",
-      "inLanguage": "vi",
-      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Chuyển đổi SVG sang ICO - Miễn phí & Trực tuyến"
+
+      "url": "https://miconvert.com/vi/convert/svg-to-ico"
+
+      "description": "Công cụ trực tuyến miễn phí để chuyển đổi hình ảnh SVG sang ICO cho favicon và biểu tượng trên máy tính Windows."
+
+      "inLanguage": "vi"
+
+      "image": "https://miconvert.com/images/svg-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Trang chủ",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Trang chủ"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Chuyển đổi",
-          "item": "https://wikihowto.click/vi/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Chuyển đổi"
+
+          "item": "https://miconvert.com/vi/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG sang ICO",
-          "item": "https://wikihowto.click/vi/convert/svg-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG sang ICO"
+
+          "item": "https://miconvert.com/vi/convert/svg-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Công cụ Chuyển đổi SVG sang ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/vi/convert/svg-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Công cụ Chuyển đổi SVG sang ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/vi/convert/svg-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Chuyển đổi từ vector sang raster",
-        "Tạo bộ đa kích thước",
+        "Chuyển đổi từ vector sang raster"
+
+        "Tạo bộ đa kích thước"
+
         "Bảo tồn độ trong suốt"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Công cụ chuyển đổi SVG sang ICO này có miễn phí không?",
+          "@type": "Question"
+
+          "name": "Công cụ chuyển đổi SVG sang ICO này có miễn phí không?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Có, công cụ chuyển đổi hoàn toàn miễn phí mà không có phí ẩn hay đăng ký."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Các kích thước tệp nào được hỗ trợ?",
+          "@type": "Question"
+
+          "name": "Các kích thước tệp nào được hỗ trợ?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Bạn có thể tải lên các tệp SVG lên đến 16 MB."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Các kích thước nào được hỗ trợ trong tệp ICO?",
+          "@type": "Question"
+
+          "name": "Các kích thước nào được hỗ trợ trong tệp ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Các kích thước phổ biến bao gồm 16×16, 32×32, 48×48, 64×64, 128×128 và 256×256 px."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cách chuyển đổi SVG sang ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cách chuyển đổi SVG sang ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Nhấp vào Tải lên SVG và chọn tệp vector của bạn."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chờ quá trình raster hóa và tối ưu hóa hoàn tất."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Nhấp vào Tải xuống ICO để lưu tệp biểu tượng."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Chờ quá trình raster hóa và tối ưu hóa hoàn tất."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Nhấp vào Tải xuống ICO để lưu tệp biểu tượng."
+
+        }
+      ]
       "tool": [
         "Công cụ Chuyển đổi SVG sang ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

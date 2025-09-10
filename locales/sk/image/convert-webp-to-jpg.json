@@ -1,242 +1,362 @@
 {
-  "lang": "sk",
-  "lang_name": "Slovenčina",
-  "title": "WebP na JPG Konvertor - Zadarmo & Online | WikiHowTo.click",
-  "sub_title": "Konvertujte WebP obrázky do JPG formátu online s vysokou kvalitou, lepšou kompatibilitou a bez vodoznakov.",
-  "hint": "Nahrajte svoj WebP obrázok, aby ste začali konvertovať...",
-  "btn_download": "Konvertovať na JPG",
-  "btn_paste": "Nahrať WebP",
-  "btn_clear": "Vymazať",
-  "ogImage": "https://wikihowto.click/images/webp-to-jpg.jpg",
+  "lang": "sk"
+
+  "lang_name": "Slovenčina"
+
+  "title": "WebP na JPG Konvertor - Zadarmo & Online | miconvert.com"
+
+  "sub_title": "Konvertujte WebP obrázky do JPG formátu online s vysokou kvalitou, lepšou kompatibilitou a bez vodoznakov."
+
+  "hint": "Nahrajte svoj WebP obrázok, aby ste začali konvertovať..."
+
+  "btn_download": "Konvertovať na JPG"
+
+  "btn_paste": "Nahrať WebP"
+
+  "btn_clear": "Vymazať"
+
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
+
   "converter": {
-    "type": "webp-to-jpg",
-    "inputFormat": "WebP",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-jpg"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Potrebujete konvertovať <strong>WebP na JPG</strong> pre lepšiu kompatibilitu? Tento bezplatný online konvertor prevádza moderné WebP obrázky na univerzálne podporované JPEG s vysokou vizuálnou kvalitou. <em>Poznámka:</em> JPG nepodporuje transparentnosť - transparentné oblasti budú vyplnené pevným pozadím (biele predvolene).</p>",
+  }
+  "description": "<p>Potrebujete konvertovať <strong>WebP na JPG</strong> pre lepšiu kompatibilitu? Tento bezplatný online konvertor prevádza moderné WebP obrázky na univerzálne podporované JPEG s vysokou vizuálnou kvalitou. <em>Poznámka:</em> JPG nepodporuje transparentnosť - transparentné oblasti budú vyplnené pevným pozadím (biele predvolene).</p>"
+
   "head": {
-    "title": "Konvertovať WebP na JPG Online - Bezplatný WebP na JPG Konvertor | WikiHowTo.click",
-    "description": "Konvertujte WebP na JPG online s vysokou kvalitou, lepšou kompatibilitou a bez vodoznakov. Bezplatný, rýchly a bezpečný nástroj na konverziu WebP na JPG.",
-    "keywords": "webp na jpg, konvertovať webp na jpg, bezplatný webp na jpg, online webp konvertor, kompatibilita obrázkov",
-    "canonical": "https://wikihowto.click/sk/convert/webp-to-jpg",
-    "og_title": "WebP na JPG Konvertor - Zadarmo & Online",
-    "og_description": "Konvertujte WebP obrázky do JPG formátu s vysokou kvalitou a lepšou kompatibilitou. 100% zadarmo, rýchlo a bezpečne.",
-    "og_url": "https://wikihowto.click/sk/convert/webp-to-jpg",
-    "og_image": "https://wikihowto.click/images/webp-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Bezplatný WebP na JPG Konvertor Online",
-    "twitter_description": "Konvertujte WebP na JPG s vysokou kvalitou, lepšou kompatibilitou a bez vodoznakov. Funguje na všetkých zariadeniach.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-jpg.jpg"
-  },
+    "title": "Konvertovať WebP na JPG Online - Bezplatný WebP na JPG Konvertor | miconvert.com"
+
+    "description": "Konvertujte WebP na JPG online s vysokou kvalitou, lepšou kompatibilitou a bez vodoznakov. Bezplatný, rýchly a bezpečný nástroj na konverziu WebP na JPG."
+
+    "keywords": "webp na jpg, konvertovať webp na jpg, bezplatný webp na jpg, online webp konvertor, kompatibilita obrázkov"
+
+    "canonical": "https://miconvert.com/sk/convert/webp-to-jpg"
+
+    "og_title": "WebP na JPG Konvertor - Zadarmo & Online"
+
+    "og_description": "Konvertujte WebP obrázky do JPG formátu s vysokou kvalitou a lepšou kompatibilitou. 100% zadarmo, rýchlo a bezpečne."
+
+    "og_url": "https://miconvert.com/sk/convert/webp-to-jpg"
+
+    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Konvertovať WebP na JPG Online",
+    "title": "Konvertovať WebP na JPG Online"
+
     "description": "Bezplatný a rýchly WebP na JPG konvertor s vysokou kvalitou a lepšou kompatibilitou. Funguje okamžite na akomkoľvek zariadení, nie je potrebná registrácia."
-  },
+
+  }
   "h2": [
     {
-      "title": "Prečo konvertovať WebP na JPG?",
+      "title": "Prečo konvertovať WebP na JPG?"
+
       "description": "<p>Aj keď WebP ponúka lepšiu kompresiu, JPG poskytuje univerzálnu kompatibilitu:</p><ul><li><strong>Funguje všade:</strong> JPG je podporovaný prakticky všetkými zariadeniami a aplikáciami.</li><li><strong>Požiadavky na platformu:</strong> Niektoré služby stále vyžadujú nahrávanie JPG.</li><li><strong>Podpora starších verzií:</strong> Staršie prehliadače a nástroje nemusia podporovať WebP.</li><li><strong>Jednoduché zdieľanie:</strong> JPG sa spoľahlivo otvára na všetkých platformách.</li></ul>"
-    },
-    {
-      "title": "Ako konvertovať WebP na JPG Online",
-      "description": "<ol><li>Kliknite na <em>Nahrať WebP</em> a vyberte svoj súbor.</li><li>Čakajte na spracovanie a optimalizáciu.</li><li>Kliknite na <em>Stiahnuť JPG</em>, aby ste získali svoj kompatibilný súbor.</li></ol><p>Používame progresívny JPEG (mozjpeg) pre skvelý pomer veľkosti a kvality.</p>"
-    },
-    {
-      "title": "Porovnanie WebP a JPG",
-      "description": "<ul><li><strong>Veľkosť súboru:</strong> WebP je zvyčajne o 25–35% menší ako JPG pri podobnej kvalite.</li><li><strong>Kompatibilita:</strong> JPG má univerzálnu podporu.</li><li><strong>Transparentnosť:</strong> WebP podporuje alfa; JPG nie.</li><li><strong>Animácia:</strong> WebP môže byť animovaný; JPG je vždy statický.</li></ul>"
-    },
-    {
-      "title": "Funkcie nášho WebP na JPG konvertora",
-      "description": "<ul><li>100% zadarmo bez vodoznakov</li><li>Konverzia s vysokou kvalitou (progresívny JPEG)</li><li>Bezpečné, šifrované nahrávanie</li><li>Automatické vymazanie súboru po konverzii</li><li>Funguje na Windows, Mac, iOS a Android</li></ul>"
-    },
-    {
-      "title": "Podporované limity a formáty",
-      "description": "<ul><li><strong>Akceptovaný vstup:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximálna veľkosť súboru:</strong> 16&nbsp;MB na súbor</li><li><strong>Výstup:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animácia:</strong> Iba prvý rámec</li></ul>"
-    },
-    {
-      "title": "Riešenie problémov",
-      "description": "<ul><li><strong>Stratená transparentnosť:</strong> JPG nemôže uložiť alfa. Použite <a href='/sk/convert/webp-to-png'>WebP → PNG</a>, ak potrebujete transparentnosť.</li><li><strong>Farby vyzerajú inak:</strong> Výstup je konvertovaný na sRGB pre webovú konzistenciu.</li><li><strong>Súbor je stále veľký:</strong> Skúste znížiť kvalitu na 80–85% alebo zmenšiť obrázok pred konverziou.</li><li><strong>Nahrávanie zlyhalo:</strong> Uistite sa, že súbor je <code>image/webp</code> a ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Ako konvertovať WebP na JPG Online"
+
+      "description": "<ol><li>Kliknite na <em>Nahrať WebP</em> a vyberte svoj súbor.</li><li>Čakajte na spracovanie a optimalizáciu.</li><li>Kliknite na <em>Stiahnuť JPG</em>, aby ste získali svoj kompatibilný súbor.</li></ol><p>Používame progresívny JPEG (mozjpeg) pre skvelý pomer veľkosti a kvality.</p>"
+
+    }
+    {
+      "title": "Porovnanie WebP a JPG"
+
+      "description": "<ul><li><strong>Veľkosť súboru:</strong> WebP je zvyčajne o 25–35% menší ako JPG pri podobnej kvalite.</li><li><strong>Kompatibilita:</strong> JPG má univerzálnu podporu.</li><li><strong>Transparentnosť:</strong> WebP podporuje alfa; JPG nie.</li><li><strong>Animácia:</strong> WebP môže byť animovaný; JPG je vždy statický.</li></ul>"
+
+    }
+    {
+      "title": "Funkcie nášho WebP na JPG konvertora"
+
+      "description": "<ul><li>100% zadarmo bez vodoznakov</li><li>Konverzia s vysokou kvalitou (progresívny JPEG)</li><li>Bezpečné, šifrované nahrávanie</li><li>Automatické vymazanie súboru po konverzii</li><li>Funguje na Windows, Mac, iOS a Android</li></ul>"
+
+    }
+    {
+      "title": "Podporované limity a formáty"
+
+      "description": "<ul><li><strong>Akceptovaný vstup:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximálna veľkosť súboru:</strong> 16&nbsp;MB na súbor</li><li><strong>Výstup:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animácia:</strong> Iba prvý rámec</li></ul>"
+
+    }
+    {
+      "title": "Riešenie problémov"
+
+      "description": "<ul><li><strong>Stratená transparentnosť:</strong> JPG nemôže uložiť alfa. Použite <a href='/sk/convert/webp-to-png'>WebP → PNG</a>, ak potrebujete transparentnosť.</li><li><strong>Farby vyzerajú inak:</strong> Výstup je konvertovaný na sRGB pre webovú konzistenciu.</li><li><strong>Súbor je stále veľký:</strong> Skúste znížiť kvalitu na 80–85% alebo zmenšiť obrázok pred konverziou.</li><li><strong>Nahrávanie zlyhalo:</strong> Uistite sa, že súbor je <code>image/webp</code> a ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je tento WebP na JPG konvertor zadarmo?",
+      "question": "Je tento WebP na JPG konvertor zadarmo?"
+
       "answer": "Áno, konvertor je úplne zadarmo bez skrytých poplatkov alebo predplatného."
-    },
-    {
-      "question": "Stratím kvalitu pri konverzii WebP na JPG?",
-      "answer": "JPG používa stratovú kompresiu, ale používame nastavenia s vysokou kvalitou (mozjpeg, progresívne), aby sme minimalizovali viditeľnú stratu."
-    },
-    {
-      "question": "Stratím transparentnosť?",
-      "answer": "Áno. JPG nepodporuje transparentnosť - transparentné pixely sa stanú pevným (bielym predvolene)."
-    },
-    {
-      "question": "Podporujete animovaný WebP?",
-      "answer": "Animovaný WebP je konvertovaný ako statický obrázok pomocou prvého rámca."
-    },
-    {
-      "question": "Aké veľkosti súborov sú podporované?",
-      "answer": "Môžete nahrávať obrázky až do 16 MB na súbor."
-    },
-    {
-      "question": "Môžem konvertovať viacero súborov naraz?",
-      "answer": "Táto stránka konvertuje jeden súbor naraz. Opakujte proces pre viacero obrázkov."
+
     }
-  ],
-  "note": "JPG je stratový a odstraňuje transparentnosť. Uchovajte svoj pôvodný WebP na archiváciu alebo keď je potrebná transparentnosť/animácia.",
+    {
+      "question": "Stratím kvalitu pri konverzii WebP na JPG?"
+
+      "answer": "JPG používa stratovú kompresiu, ale používame nastavenia s vysokou kvalitou (mozjpeg, progresívne), aby sme minimalizovali viditeľnú stratu."
+
+    }
+    {
+      "question": "Stratím transparentnosť?"
+
+      "answer": "Áno. JPG nepodporuje transparentnosť - transparentné pixely sa stanú pevným (bielym predvolene)."
+
+    }
+    {
+      "question": "Podporujete animovaný WebP?"
+
+      "answer": "Animovaný WebP je konvertovaný ako statický obrázok pomocou prvého rámca."
+
+    }
+    {
+      "question": "Aké veľkosti súborov sú podporované?"
+
+      "answer": "Môžete nahrávať obrázky až do 16 MB na súbor."
+
+    }
+    {
+      "question": "Môžem konvertovať viacero súborov naraz?"
+
+      "answer": "Táto stránka konvertuje jeden súbor naraz. Opakujte proces pre viacero obrázkov."
+
+    }
+  ]
+  "note": "JPG je stratový a odstraňuje transparentnosť. Uchovajte svoj pôvodný WebP na archiváciu alebo keď je potrebná transparentnosť/animácia."
+
   "related_links": [
     {
-      "title": "Konvertovať WebP na PNG (uchováva transparentnosť)",
+      "title": "Konvertovať WebP na PNG (uchováva transparentnosť)"
+
       "url": "/sk/convert/webp-to-png"
-    },
-    {
-      "title": "Konvertovať JPG na WebP",
-      "url": "/sk/convert/jpg-to-webp"
-    },
-    {
-      "title": "Konvertovať WebP na AVIF",
-      "url": "/sk/convert/webp-to-avif"
-    },
-    {
-      "title": "Komprimovať JPG Online",
-      "url": "/sk/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Všetky práva vyhradené.",
+    {
+      "title": "Konvertovať JPG na WebP"
+
+      "url": "/sk/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "Konvertovať WebP na AVIF"
+
+      "url": "/sk/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Komprimovať JPG Online"
+
+      "url": "/sk/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Všetky práva vyhradené."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP na JPG Konvertor - Zadarmo & Online",
-      "url": "https://wikihowto.click/sk/convert/webp-to-jpg",
-      "description": "Bezplatný online nástroj na konverziu WebP obrázkov na JPG pre maximálnu kompatibilitu.",
-      "inLanguage": "sk",
-      "image": "https://wikihowto.click/images/webp-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP na JPG Konvertor - Zadarmo & Online"
+
+      "url": "https://miconvert.com/sk/convert/webp-to-jpg"
+
+      "description": "Bezplatný online nástroj na konverziu WebP obrázkov na JPG pre maximálnu kompatibilitu."
+
+      "inLanguage": "sk"
+
+      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertovať",
-          "item": "https://wikihowto.click/sk/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertovať"
+
+          "item": "https://miconvert.com/sk/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP na JPG",
-          "item": "https://wikihowto.click/sk/convert/webp-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP na JPG"
+
+          "item": "https://miconvert.com/sk/convert/webp-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP na JPG Konvertor",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sk/convert/webp-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP na JPG Konvertor"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sk/convert/webp-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Progresívny JPEG",
-        "Konverzia s vysokou kvalitou",
+        "Progresívny JPEG"
+
+        "Konverzia s vysokou kvalitou"
+
         "Rýchle spracovanie"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Je tento WebP na JPG konvertor zadarmo?",
+          "@type": "Question"
+
+          "name": "Je tento WebP na JPG konvertor zadarmo?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Áno, konvertor je úplne zadarmo bez skrytých poplatkov alebo predplatného."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Aké veľkosti súborov sú podporované?",
+          "@type": "Question"
+
+          "name": "Aké veľkosti súborov sú podporované?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Môžete nahrávať obrázky až do 16 MB na súbor."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Podporujete animovaný WebP?",
+          "@type": "Question"
+
+          "name": "Podporujete animovaný WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animovaný WebP je konvertovaný ako statický obrázok pomocou prvého rámca."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Stratím transparentnosť?",
+          "@type": "Question"
+
+          "name": "Stratím transparentnosť?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Áno. JPG nepodporuje transparentnosť - transparentné pixely budú vyplnené pevným farbou (biele predvolene)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Ako konvertovať WebP na JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Ako konvertovať WebP na JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite na Nahrať WebP a vyberte svoj súbor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Čakajte na dokončenie spracovania a optimalizácie."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite na Stiahnuť JPG, aby ste uložili svoj obrázok."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Čakajte na dokončenie spracovania a optimalizácie."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite na Stiahnuť JPG, aby ste uložili svoj obrázok."
+
+        }
+      ]
       "tool": [
         "WebP na JPG Konvertor"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

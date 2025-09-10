@@ -1,244 +1,368 @@
 {
-  "lang": "he",
-  "lang_name": "עברית",
-  "title": "ממיר PNG ל-TIFF - חינם ואונליין | WikiHowTo.click",
-  "sub_title": "המיר תמונות PNG ל-TIFF אונליין עם אפשרויות ללא אובדן, איכות מוכנה להדפסה ושקיפות נשמרת. ללא סימני מים.",
-  "hint": "העלה את תמונת ה-PNG שלך כדי להתחיל להמיר...",
-  "btn_download": "המר ל-TIFF",
-  "btn_paste": "העלה PNG",
-  "btn_clear": "נקה",
-  "ogImage": "https://wikihowto.click/images/png-to-tiff.jpg",
+  "lang": "he"
+
+  "lang_name": "עברית"
+
+  "title": "ממיר PNG ל-TIFF - חינם ואונליין | miconvert.com"
+
+  "sub_title": "המיר תמונות PNG ל-TIFF אונליין עם אפשרויות ללא אובדן, איכות מוכנה להדפסה ושקיפות נשמרת. ללא סימני מים."
+
+  "hint": "העלה את תמונת ה-PNG שלך כדי להתחיל להמיר..."
+
+  "btn_download": "המר ל-TIFF"
+
+  "btn_paste": "העלה PNG"
+
+  "btn_clear": "נקה"
+
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
+
   "head": {
-    "title": "המר PNG ל-TIFF - ממיר PNG ל-TIFF חינם אונליין | WikiHowTo.click",
-    "description": "המר תמונות PNG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-TIFF עם אפשרויות ללא אובדן ועיבוד מהיר.",
-    "keywords": "png ל-tiff, המרת png ל-tiff, png ל-tiff חינם, ממיר tiff אונליין, המרת תמונות",
-    "canonical": "https://wikihowto.click/he/convert/png-to-tiff",
-    "og_title": "המר PNG ל-TIFF - ממיר PNG ל-TIFF חינם אונליין",
-    "og_description": "המר תמונות PNG ל-TIFF עם אפשרויות דחיסה ללא אובדן ושקיפות נשמרת. חינם, מהיר ובטוח.",
-    "og_url": "https://wikihowto.click/he/convert/png-to-tiff",
-    "og_image": "https://wikihowto.click/images/png-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "ממיר PNG ל-TIFF חינם אונליין",
-    "twitter_description": "המר PNG ל-TIFF עם אפשרויות ללא אובדן, שקיפות ואיכות מוכנה להדפסה.",
-    "twitter_image": "https://wikihowto.click/images/png-to-tiff.jpg"
-  },
+    "title": "המר PNG ל-TIFF - ממיר PNG ל-TIFF חינם אונליין | miconvert.com"
+
+    "description": "המר תמונות PNG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-TIFF עם אפשרויות ללא אובדן ועיבוד מהיר."
+
+    "keywords": "png ל-tiff, המרת png ל-tiff, png ל-tiff חינם, ממיר tiff אונליין, המרת תמונות"
+
+    "canonical": "https://miconvert.com/he/convert/png-to-tiff"
+
+    "og_title": "המר PNG ל-TIFF - ממיר PNG ל-TIFF חינם אונליין"
+
+    "og_description": "המר תמונות PNG ל-TIFF עם אפשרויות דחיסה ללא אובדן ושקיפות נשמרת. חינם, מהיר ובטוח."
+
+    "og_url": "https://miconvert.com/he/convert/png-to-tiff"
+
+    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "המר PNG ל-TIFF אונליין",
+    "title": "המר PNG ל-TIFF אונליין"
+
     "description": "ממיר PNG ל-TIFF חינם עם אפשרויות דחיסה ללא אובדן ופלט מוכן להדפסה. עובד על כל מכשיר - ללא צורך בהרשמה."
-  },
+
+  }
   "converter": {
-    "type": "png-to-tiff",
-    "title": "ממיר PNG ל-TIFF",
-    "description": "המר תמונות PNG ל-TIFF עם דחיסת LZW/ZIP ללא אובדן תוך שמירה על שקיפות אלפא.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "TIFF",
+    "type": "png-to-tiff"
+
+    "title": "ממיר PNG ל-TIFF"
+
+    "description": "המר תמונות PNG ל-TIFF עם דחיסת LZW/ZIP ללא אובדן תוך שמירה על שקיפות אלפא."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "אפשרות TIFF ללא אובדן (LZW/ZIP)",
-      "שומרת על שקיפות (אלפא)",
-      "איכות מוכנה להדפסה",
+      "אפשרות TIFF ללא אובדן (LZW/ZIP)"
+
+      "שומרת על שקיפות (אלפא)"
+
+      "איכות מוכנה להדפסה"
+
       "כלי אונליין חינם"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 32,
-        "alpha": true,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 32
+        "alpha": true
         "dpi": 300
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "המרת PNG ל-TIFF הושלמה",
-    "back_button": "חזור לממיר",
-    "convert_another": "המר PNG נוסף",
+    "title": "המרת PNG ל-TIFF הושלמה"
+
+    "back_button": "חזור לממיר"
+
+    "convert_another": "המר PNG נוסף"
+
     "quick_conversions": "המרות מהירות:"
-  },
+
+  }
   "h2": [
     {
-      "title": "למה להמיר PNG ל-TIFF?",
+      "title": "למה להמיר PNG ל-TIFF?"
+
       "description": "<p>TIFF הוא פורמט מקצועי, ברמת ארכיון, המשמש בתמונות ובדפוס:</p><ul><li><strong>אפשרויות ללא אובדן:</strong> שמור על מאסטר נקי מבלי להציג ארטיפקטים חדשים.</li><li><strong>מוכן להדפסה:</strong> מצוין לפלט ברזולוציה גבוהה ולזרימות עבודה לפני הדפסה.</li><li><strong>תמיכה באלפא:</strong> יכול לשמור על שקיפות (תלוי בקורא).</li><li><strong>ידידותי לעריכה:</strong> יציב לשמירות חוזרות והעברות.</li></ul>"
-    },
-    {
-      "title": "איך להמיר PNG ל-TIFF אונליין",
-      "description": "<ol><li>לחץ על <em>העלה PNG</em> ובחר את הקובץ שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד TIFF</em> כדי לשמור את התוצאה.</li></ol><p>פלט ברירת מחדל: RGBA 32-bit, דחיסת LZW ללא אובדן, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF מול PNG: הבדלים מרכזיים",
-      "description": "<ul><li><strong>דחיסה:</strong> PNG משתמש בדחיסת DEFLATE ללא אובדן; TIFF תומך ב-LZW/ZIP (ללא אובדן) או אחרים.</li><li><strong>גודל קובץ:</strong> תלוי בתוכן התמונה; TIFF יכול להיות גדול יותר או דומה ל-PNG.</li><li><strong>שקיפות:</strong> שניהם יכולים לכלול אלפא (תמיכת הצופה עשויה להשתנות עבור TIFF).</li><li><strong>הכי טוב עבור:</strong> PNG עבור מסירה לאינטרנט; TIFF עבור עריכה, הדפסה ואחסון.</li></ul>"
-    },
-    {
-      "title": "מגבלות ופורמטים נתמכים",
-      "description": "<ul><li><strong>קלט מתקבל:</strong> PNG (<code>image/png</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>ברירות מחדל:</strong> RGBA 32-bit, דחיסת LZW, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "פתרון בעיות",
-      "description": "<ul><li><strong>הקובץ גדול מדי:</strong> TIFF כבד יותר עבור חלק מהתוכן - שמור על PNG לאינטרנט או שקול WebP/AVIF.</li><li><strong>אלפא לא נראית:</strong> חלק מהצופים מתעלמים מאלפא של TIFF; אמת בעורך מקצועי.</li><li><strong>שינוי צבע:</strong> המיר ל-sRGB לפני ההעלאה עבור צבע עקבי על המסך.</li><li><strong>העלאה נכשלת:</strong> ודא ש-PNG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "איך להמיר PNG ל-TIFF אונליין"
+
+      "description": "<ol><li>לחץ על <em>העלה PNG</em> ובחר את הקובץ שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד TIFF</em> כדי לשמור את התוצאה.</li></ol><p>פלט ברירת מחדל: RGBA 32-bit, דחיסת LZW ללא אובדן, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF מול PNG: הבדלים מרכזיים"
+
+      "description": "<ul><li><strong>דחיסה:</strong> PNG משתמש בדחיסת DEFLATE ללא אובדן; TIFF תומך ב-LZW/ZIP (ללא אובדן) או אחרים.</li><li><strong>גודל קובץ:</strong> תלוי בתוכן התמונה; TIFF יכול להיות גדול יותר או דומה ל-PNG.</li><li><strong>שקיפות:</strong> שניהם יכולים לכלול אלפא (תמיכת הצופה עשויה להשתנות עבור TIFF).</li><li><strong>הכי טוב עבור:</strong> PNG עבור מסירה לאינטרנט; TIFF עבור עריכה, הדפסה ואחסון.</li></ul>"
+
+    }
+    {
+      "title": "מגבלות ופורמטים נתמכים"
+
+      "description": "<ul><li><strong>קלט מתקבל:</strong> PNG (<code>image/png</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>ברירות מחדל:</strong> RGBA 32-bit, דחיסת LZW, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "פתרון בעיות"
+
+      "description": "<ul><li><strong>הקובץ גדול מדי:</strong> TIFF כבד יותר עבור חלק מהתוכן - שמור על PNG לאינטרנט או שקול WebP/AVIF.</li><li><strong>אלפא לא נראית:</strong> חלק מהצופים מתעלמים מאלפא של TIFF; אמת בעורך מקצועי.</li><li><strong>שינוי צבע:</strong> המיר ל-sRGB לפני ההעלאה עבור צבע עקבי על המסך.</li><li><strong>העלאה נכשלת:</strong> ודא ש-PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "האם הממיר PNG ל-TIFF הזה חינם?",
+      "question": "האם הממיר PNG ל-TIFF הזה חינם?"
+
       "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
-    },
-    {
-      "question": "האם TIFF יעבוד בכל היישומים?",
-      "answer": "TIFF נתמך באופן רחב ביישומים מקצועיים (Photoshop, Affinity, רבים מכלי RIP/הדפסה). חלק מהצופים הפשוטים עשויים לא להציג אלפא או שיטות דחיסה מסוימות."
-    },
-    {
-      "question": "כמה גדולים קבצי TIFF לעומת PNG?",
-      "answer": "זה משתנה לפי התמונה. עם LZW/ZIP, TIFF יכול להיות דומה או גדול יותר מ-PNG בהתאם לתוכן."
-    },
-    {
-      "question": "אילו גדלי קבצים נתמכים?",
-      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
-    },
-    {
-      "question": "האם הקבצים שלי בטוחים?",
-      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
-    },
-    {
-      "question": "האם אני יכול להמיר מספר PNGs בבת אחת?",
-      "answer": "דף זה ממיר קובץ אחד בכל פעם. לצרכים בכמויות גדולות, חזור על התהליך או השתמש בכלי אצווה."
-    },
-    {
-      "question": "האם TIFF תומך בשכבות?",
-      "answer": "TIFF סטנדרטי הוא תמונה שטוחה. חלק מהיישומים משאירים נתוני שכבות פרטיים, אך כלי זה מפיק TIFF שטוח."
+
     }
-  ],
-  "note": "TIFF מתאים לאחסון/הדפסה אך עשוי להיות כבד. עבור אינטרנט, שקול PNG/WebP/AVIF.",
+    {
+      "question": "האם TIFF יעבוד בכל היישומים?"
+
+      "answer": "TIFF נתמך באופן רחב ביישומים מקצועיים (Photoshop, Affinity, רבים מכלי RIP/הדפסה). חלק מהצופים הפשוטים עשויים לא להציג אלפא או שיטות דחיסה מסוימות."
+
+    }
+    {
+      "question": "כמה גדולים קבצי TIFF לעומת PNG?"
+
+      "answer": "זה משתנה לפי התמונה. עם LZW/ZIP, TIFF יכול להיות דומה או גדול יותר מ-PNG בהתאם לתוכן."
+
+    }
+    {
+      "question": "אילו גדלי קבצים נתמכים?"
+
+      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
+
+    }
+    {
+      "question": "האם הקבצים שלי בטוחים?"
+
+      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
+
+    }
+    {
+      "question": "האם אני יכול להמיר מספר PNGs בבת אחת?"
+
+      "answer": "דף זה ממיר קובץ אחד בכל פעם. לצרכים בכמויות גדולות, חזור על התהליך או השתמש בכלי אצווה."
+
+    }
+    {
+      "question": "האם TIFF תומך בשכבות?"
+
+      "answer": "TIFF סטנדרטי הוא תמונה שטוחה. חלק מהיישומים משאירים נתוני שכבות פרטיים, אך כלי זה מפיק TIFF שטוח."
+
+    }
+  ]
+  "note": "TIFF מתאים לאחסון/הדפסה אך עשוי להיות כבד. עבור אינטרנט, שקול PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "המר PNG ל-JPG",
+      "title": "המר PNG ל-JPG"
+
       "url": "/he/convert/png-to-jpg"
-    },
-    {
-      "title": "המר PNG ל-WebP",
-      "url": "/he/convert/png-to-webp"
-    },
-    {
-      "title": "המר JPG ל-TIFF",
-      "url": "/he/convert/jpg-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. כל הזכויות שמורות.",
+    {
+      "title": "המר PNG ל-WebP"
+
+      "url": "/he/convert/png-to-webp"
+
+    }
+    {
+      "title": "המר JPG ל-TIFF"
+
+      "url": "/he/convert/jpg-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "ממיר PNG ל-TIFF - חינם ואונליין",
-      "url": "https://wikihowto.click/he/convert/png-to-tiff",
-      "description": "כלי אונליין חינם להמיר תמונות PNG ל-TIFF עם אפשרויות ללא אובדן ושקיפות נשמרת.",
-      "inLanguage": "he",
-      "image": "https://wikihowto.click/images/png-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "ממיר PNG ל-TIFF - חינם ואונליין"
+
+      "url": "https://miconvert.com/he/convert/png-to-tiff"
+
+      "description": "כלי אונליין חינם להמיר תמונות PNG ל-TIFF עם אפשרויות ללא אובדן ושקיפות נשמרת."
+
+      "inLanguage": "he"
+
+      "image": "https://miconvert.com/images/png-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "בית",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "בית"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "המרה",
-          "item": "https://wikihowto.click/he/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "המרה"
+
+          "item": "https://miconvert.com/he/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG ל-TIFF",
-          "item": "https://wikihowto.click/he/convert/png-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG ל-TIFF"
+
+          "item": "https://miconvert.com/he/convert/png-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "ממיר PNG ל-TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/he/convert/png-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "ממיר PNG ל-TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/he/convert/png-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "אפשרות LZW ללא אובדן",
-        "שומרת על אלפא",
+        "אפשרות LZW ללא אובדן"
+
+        "שומרת על אלפא"
+
         "מוכן להדפסה 300 DPI"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "האם הממיר PNG ל-TIFF הזה חינם?",
+          "@type": "Question"
+
+          "name": "האם הממיר PNG ל-TIFF הזה חינם?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "אילו גדלי קבצים נתמכים?",
+          "@type": "Question"
+
+          "name": "אילו גדלי קבצים נתמכים?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "אתה יכול להעלות תמונות עד 16 MB לקובץ."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "האם TIFF תומך בשכבות?",
+          "@type": "Question"
+
+          "name": "האם TIFF תומך בשכבות?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "TIFF סטנדרטי הוא תמונה שטוחה; חלק מהיישומים משאירים נתוני שכבות פרטיים. כלי זה מפיק TIFF שטוח."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "איך להמיר PNG ל-TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "איך להמיר PNG ל-TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "לחץ על העלה PNG ובחר את הקובץ שלך."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "חכה שהעיבוד יושלם."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "לחץ על הורד TIFF כדי לשמור את התוצאה."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "חכה שהעיבוד יושלם."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "לחץ על הורד TIFF כדי לשמור את התוצאה."
+
+        }
+      ]
       "tool": [
         "ממיר PNG ל-TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

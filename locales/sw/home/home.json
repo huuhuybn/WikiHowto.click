@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "sw",
+  "lang_name": "Kiswahili",
+  "title": "miconvert.com - Vigeuzafaili Bila Malipo Mtandaoni",
+  "sub_title": "Badilisha faili kati ya PDF, picha, sauti, video, na nyaraka kwa kutumia zana maalum kwa kila jozi ya umbizo. Haraka, salama, na bila alama ya maji.",
+  "hint": "Tafuta vigeuzafaili (mfano, JPG hadi PNG, PDF hadi JPG, MP3 hadi WAV)...",
+  "btn_download": "Tafuta Vigeuzafaili",
+  "btn_paste": "Vinjari Vyote",
+  "btn_clear": "Futa",
+  "description": "<p><strong>Karibu katika miconvert.com</strong> — kitovu maalumu cha <em>vigeuzafaili vya jozi maalum</em>. Badala ya chombo kimoja cha jumla, tunaunda ukurasa maalum kwa kila jozi ya umbizo (mfano, <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>) ili upate chaguo sahihi, ubora bora, na mtiririko rahisi wa kazi.</p><p>Kigeuzi kila kimoja hapa kimetengenezwa kwa kusudi lake: uwazi wa picha dhidi ya ukubwa, utunzaji wa uwazi, miundo ya PDF tayari ya kuchapishwa, au uaminifu wa sauti. Hakuna usajili, hakuna alama za maji, na faragha kwa muundo — upakiaji unasindika kwa usalama na kufutwa kiotomatiki baada ya ubadilishaji. Tumia kwenye kompyuta, kompyuta kibao, au simu.</p><p>Chunguza <strong>zana zetu za PDF</strong> (PDF ↔ JPG/PNG/TIFF/WebP, unganisha/tenganisha), <strong>zana za picha</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>zana za sauti</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>zana za video</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4), na <strong>zana za nyaraka</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Kila chombo ni haraka, sahihi, na lenye umakini.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Vigeuzafaili Bila Malipo Mtandaoni - PDF, Picha, Sauti & Zaidi | miconvert.com",
+    "description": "Badilisha faili mtandaoni kwa kutumia vigeuzafaili bila malipo. Zana maalumu kwa kila jozi ya umbizo: PDF hadi JPG, PNG hadi PDF, MP3 hadi WAV, na zaidi. Haraka, salama, hakuna alama za maji.",
+    "keywords": "kigeuzafaili, kigeuza pdf, kigeuza picha, kigeuza sauti, kigeuza video, kigeuza nyaraka, jpg hadi png, pdf hadi jpg, png hadi pdf, mp3 hadi wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Vigeuzafaili Bila Malipo Mtandaoni",
+    "og_description": "Badilisha PDF, picha, sauti, video, na nyaraka kwa kutumia vigeuzafaili maalumu kwa kila jozi ya umbizo. Bila malipo, haraka, na bila alama ya maji.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kigeuzafaili ni nini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kigeuzafaili hubadilisha faili kutoka umbizo moja hadi lingine (mfano, JPG hadi PNG, PDF hadi JPG). Vigeuzafaili vizuri huhifadhi yaliyomo muhimu (picha, maandishi, sauti) na metadata huku vikiboresha ukubwa na utangamano."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je, mnahifadhi faili zangu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hapana. Faili zinasindika kwa usalama na kufutwa kiotomatiki baada ya ubadilishaji. Hatuzishikilii kwa muda mrefu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je, ubadilishaji ni bure na bila alama ya maji?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ndiyo. Vyombo vyote ni vya bure kabisa kutumia na haviwezi kuongeza alama za maji."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Vigeuzafaili Bila Malipo Mtandaoni",
+    "description": "Chombo kimoja kwa kila jozi ya umbizo. Badilisha PDF, picha, sauti, video, na nyaraka mtandaoni — haraka, salama, na bila alama ya maji."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Kigeuzafaili Ni Nini?",
+      "description": "<p>Kigeuzafaili kinabadilisha umbizo la faili ili kuboresha <strong>utangamano</strong>, <strong>ubora</strong>, au <strong>ukubwa</strong>. Mifano ya kawaida ni pamoja na ubadilishaji wa picha kwa mtandao (<em>PNG → WebP</em>), utayarishaji wa nyaraka tayari za kuchapishwa (<em>JPG/PNG → PDF</em>), au uchimbaji wa picha kutoka kwa nyaraka (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Vigeuzafaili vizuri huweka uwiano kati ya ubora na ukubwa, huhifadhi uwazi pale inapowezekana (PNG/WebP), na huweka muundo wa PDF (ukubwa wa ukurasa, pembezoni, inafaa ukurasa). Vyombo vyetu vinaonyesha mipangilio ya msingi ili watumiaji wengi waweze kubadilisha katika sekunde.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Hasara dhidi ya Bila Hasara, Raster dhidi ya Vekta",
+      "description": "<ul><li><strong>Hasara dhidi ya Bila Hasara:</strong> JPG/WebP (hasara) hupunguza ukubwa kwa kuondoa baadhi ya data; PNG/TIFF (bila hasara) huhifadhi maelezo kamili. Chagua hasara kwa kushiriki kwenye mtandao, bila hasara kwa kuhariri/kuhifadhi.</li><li><strong>Raster dhidi ya Vekta:</strong> JPG/PNG/WebP/TIFF ni raster (picha). SVG/AI ni vekta (maumbo, njia). Raster inahitaji azimio la kutosha (DPI) kwa uchapishaji; vekta huongezeka bila kikomo bila ukungu.</li><li><strong>Rangi & Metadata:</strong> Ubadilishaji unaweza kuathiri wasifu wa ICC, EXIF, au njia za alfa. Vyombo vyetu vya picha hadi PDF huhifadhi tabia ya uwazi ipasavyo na hufaa picha kwenye ukurasa na pembezoni kwa uchapishaji unaoweza kutabirika.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Vikundi Maarufu vya Ubadilishaji",
+      "description": "<ul><li><strong>Zana za PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Unganisha JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Unganisha PNG → PDF</a></li><li><strong>Zana za Picha:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Zana za Sauti:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Zana za Video:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Zana za Nyaraka:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Jinsi Inavyofanya Kazi",
+      "description": "<ol><li>Chagua kigeuzi kwa jozi yako maalum ya umbizo (mfano, <em>PNG → PDF</em>).</li><li>Pakia faili moja au nyingi (kundi linaungwa mkono kwenye vyombo vingi).</li><li>Bonyeza badilisha — mipangilio ya msingi imeboreshwa kwa ubora na ukubwa.</li><li>Pakua matokeo yako mara moja. Hakuna kujisajili, hakuna alama za maji.</li></ol><p>Vidokezo: Weka uwiano wa picha sawa wakati wa kuunganisha kwenye PDF kwa muundo sare. Kwa mtandao, fikiria WebP kupunguza ukubwa kwa ubora bora.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Usalama & Faragha",
+      "description": "<ul><li><strong>Uhamisho Uliofichwa:</strong> Faili huenda kupitia miunganisho salama.</li><li><strong>Kufutwa Kiotomatiki:</strong> Faili zilizochakatwa hufutwa kiotomatiki.</li><li><strong>Hakuna Hifadhi ya Kudumu:</strong> Hatuzishikilii faili zako baada ya usindikaji.</li><li><strong>Hakuna Alama za Maji:</strong> Matokeo ni safi na tayari kutumika.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Kigeuzafaili ni nini?",
+      "answer": "Kinabadilisha faili kutoka umbizo moja hadi lingine (mfano, JPG → PNG, PDF → JPG) ili kuboresha utangamano, ubora, au ukubwa."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Vigeuzafaili vipi ndio maarufu zaidi?",
+      "answer": "PDF ↔ Picha (PDF → JPG/PNG/WebP/TIFF na JPG/PNG/WebP/TIFF → PDF) na Picha ↔ Picha (JPG ↔ PNG, PNG ↔ WebP) ndizo zinazotumiwa zaidi."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Je, mnabandika picha?",
+      "answer": "Ndiyo, umbizo lenye hasara kama JPG/WebP hupunguza ukubwa kwa ubora unaoweza kubadilishwa; umbizo lisilo na hasara kama PNG/TIFF huhifadhi maelezo."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Je, mnahifadhi uwazi?",
+      "answer": "PNG na WebP zinaunga mkono njia za alfa. Wakati wa kubadilisha hadi PDF, kurasa huwekwa na pembezoni na tabia inayofaa ukurasa kwa pato linaloweza kutabirika."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Je, OCR inaungwa mkono?",
+      "answer": "OCR haijawezeshwa kwa chaguo-msingi. Kwa uchimbaji wa maandishi kutoka kwa picha/PDF, tumia zana maalum za OCR."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Ukubwa wa faili wa juu kabisa?",
+      "answer": "Vigeuzafaili vingi vinaunga mkono hadi 100MB kwa kila ubadilishaji. Kwa faili kubwa, tenga au bandika kwanza."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Je, faili zangu zinahifadhiwa?",
+      "answer": "Hapana. Faili zinasindika kwa usalama na kufutwa kiotomatiki baada ya ubadilishaji."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Je, naweza kubadilisha kundi au kuunganisha?",
+      "answer": "Vyombo vingi vinaunga mkono upakiaji wa faili nyingi na kuunganisha (mfano, Unganisha JPG → PDF, Unganisha PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Kumbuka: Kigeuzi kila kimoja kimeboreshwa kwa jozi moja ya umbizo, kuhakikisha ubora bora na kasi. Kwa muundo wa PDF sare zaidi, tumia vipimo na mwelekeo wa picha unaofanana.",
+  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa."
 }

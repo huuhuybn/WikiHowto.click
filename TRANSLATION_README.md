@@ -1,4 +1,4 @@
-# Translation Scripts for WikiHowTo
+# Translation Scripts for MiConvert
 
 Scripts để dịch các file JSON từ tiếng Anh sang các ngôn ngữ khác sử dụng Gemini API.
 

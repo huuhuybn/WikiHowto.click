@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "sk",
+  "lang_name": "Slovak",
+  "title": "miconvert.com - Bezplatné online prevodníky súborov",
+  "sub_title": "Prevádzajte súbory medzi PDF, obrázkami, zvukom, videom a dokumentmi pomocou špecializovaných nástrojov pre každý pár formátov. Rýchlo, bezpečne a bez vodoznaku.",
+  "hint": "Vyhľadajte prevodníky (napr. JPG na PNG, PDF na JPG, MP3 na WAV)...",
+  "btn_download": "Vyhľadať prevodníky",
+  "btn_paste": "Prehliadať všetky",
+  "btn_clear": "Vymazať",
+  "description": "<p><strong>Vitajte na miconvert.com</strong> — špecializované centrum <em>párových prevodníkov súborov</em>. Namiesto jedného univerzálneho nástroja vytvárame samostatnú stránku pre každý pár formátov (napr. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), aby ste vždy mali správne možnosti, najlepšiu kvalitu a jednoduchý pracovný postup.</p><p>Každý prevodník je tu optimalizovaný pre svoj presný účel: jasnosť obrázka vs. veľkosť, spracovanie transparentnosti, tlačové rozloženie PDF alebo vernosť zvuku. Žiadna registrácia, žiadne vodoznaky a súkromie je navrhnuté tak, aby sa nahrávky spracovávali bezpečne a automaticky sa po konverzii odstránili. Používajte na stolnom počítači, tablete alebo mobile.</p><p>Preskúmajte naše **nástroje PDF** (PDF ↔ JPG/PNG/TIFF/WebP, zlúčenie/rozdelenie), **nástroje pre obrázky** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **zvukové nástroje** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **video nástroje** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) a **nástroje pre dokumenty** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Každý nástroj je rýchly, presný a zameraný.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Bezplatné online prevodníky súborov - PDF, Obrázky, Zvuk a Viac | miconvert.com",
+    "description": "Prevádzajte súbory online pomocou bezplatných prevodníkov. Špecializované nástroje pre každý pár formátov: PDF na JPG, PNG na PDF, MP3 na WAV a ďalšie. Rýchle, bezpečné, bez vodoznaku.",
+    "keywords": "prevodník súborov, pdf prevodník, prevodník obrázkov, zvukový prevodník, video prevodník, prevodník dokumentov, jpg na png, pdf na jpg, png na pdf, mp3 na wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Bezplatné online prevodníky súborov",
+    "og_description": "Prevádzajte súbory PDF, obrázky, zvuk, video a dokumenty pomocou špecializovaných prevodníkov pre každý pár formátov. Bezplatne, rýchlo a bez vodoznaku.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Čo je to prevodník súborov?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Prevodník súborov prevádza súbor z jedného formátu do druhého (napr. JPG na PNG, PDF na JPG). Dobre prevodníky zachovávajú dôležitý obsah (pixely, text, zvuk) a metadáta pri optimalizácii veľkosti a kompatibility."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Uchovávate moje súbory?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nie. Súbory sa spracovávajú bezpečne a automaticky sa po konverzii odstránia. Neuchovávame ich natrvalo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Sú konverzie bezplatné a bez vodoznaku?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Áno. Všetky nástroje sú 100% bezplatné na používanie a nikdy nepridávajú vodoznaky."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Bezplatné online prevodníky súborov",
+    "description": "Jeden nástroj na pár formátov. Prevádzajte súbory PDF, obrázky, zvuk, video a dokumenty online — rýchlo, bezpečne a bez vodoznaku."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Čo je to prevodník súborov?",
+      "description": "<p>Prevodník súborov mení formát súboru na zlepšenie <strong>kompatibility</strong>, <strong>kvality</strong> alebo <strong>veľkosti</strong>. Medzi bežné príklady patrí konverzia obrázkov pre web (<em>PNG → WebP</em>), príprava dokumentov pre tlač (<em>JPG/PNG → PDF</em>) alebo extrakcia vizuálov z dokumentov (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Dobre prevodníky vyvažujú kvalitu a veľkosť, zachovávajú transparentnosť, kde je to možné (PNG/WebP) a udržujú rozloženie pre súbory PDF (veľkosť strany, okraje, prispôsobenie strane). Naše nástroje ponúkajú rozumné predvolené nastavenia, takže väčšina používateľa môže konvertovať za pár sekúnd.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "S stratou dát vs. Bez straty dát, Raster vs. Vektor",
+      "description": "<ul><li><strong>S stratou dát vs. Bez straty dát:</strong> JPG/WebP (s  stratou dát) zmenšujú veľkosť odstránením niektorých údajov; PNG/TIFF (bez straty dát) zachovávajú všetky detaily. Vyberte si s stratou dát pre zdieľanie na webe, bez straty dát pre úpravu/archív.</li><li><strong>Raster vs. Vektor:</strong> JPG/PNG/WebP/TIFF sú rastrové (pixely). SVG/AI sú vektorové (tvary, cesty). Raster potrebuje dostatočné rozlíšenie (DPI) pre tlač; vektor sa škáluje nekonečne bez rozmazania.</li><li><strong>Farba a metadáta:</strong> Konverzie môžu ovplyvňovať profily ICC, EXIF alebo alfa kanály. Naše nástroje pre konverziu obrázkov na PDF správne zachovávajú správanie transparentnosti a prispôsobujú obrázky na stránku s okrajmi pre predvídateľnú tlač.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Populárne kategórie konverzií",
+      "description": "<ul><li><strong>Nástroje PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Zlúčenie JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Kombinácia PNG → PDF</a></li><li><strong>Nástroje pre obrázky:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Zvukové nástroje:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Video nástroje:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Nástroje pre dokumenty:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Ako to funguje",
+      "description": "<ol><li>Vyberte prevodník pre váš presný pár formátov (napr. <em>PNG → PDF</em>).</li><li>Nahrajte jeden alebo viacero súborov (mnohé nástroje podporujú dávkové spracovanie).</li><li>Kliknite na prevod — predvolené nastavenia sú optimalizované pre kvalitu a veľkosť.</li><li>Okamžite si stiahnite výsledok. Žiadna registrácia, žiadne vodoznaky.</li></ol><p>Tipy: Udržujte konzistentné pomery strán obrázkov pri zlúčení do PDF pre jednotné rozloženie. Pre web zvážte WebP na zníženie veľkosti s vynikajúcou kvalitou.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Bezpečnosť a súkromie",
+      "description": "<ul><li><strong>Šifrované prenosy:</strong> Súbory sa prenášajú cez zabezpečené pripojenia.</li><li><strong>Automatické odstránenie:</strong> Spracované súbory sa automaticky odstránia.</li><li><strong>Žiadne trvalé ukladanie:</strong> Po spracovaní vaše súbory neuchovávame.</li><li><strong>Žiadne vodoznaky:</strong> Výsledky sú čisté a pripravené na použitie.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Čo je to prevodník súborov?",
+      "answer": "Zmení súbor z jedného formátu do druhého (napr. JPG → PNG, PDF → JPG) na zlepšenie kompatibility, kvality alebo veľkosti."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Ktoré prevodníky sú najpopulárnejšie?",
+      "answer": "PDF ↔ Obrázok (PDF → JPG/PNG/WebP/TIFF a JPG/PNG/WebP/TIFF → PDF) a Obrázok ↔ Obrázok (JPG ↔ PNG, PNG ↔ WebP) sú najpoužívanejšie."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Komprimujete obrázky?",
+      "answer": "Áno, formáty s  stratou dát, ako sú JPG/WebP, znižujú veľkosť s nastaviteľnou kvalitou; formáty bez straty dát, ako sú PNG/TIFF, zachovávajú detaily."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Zachovávate transparentnosť?",
+      "answer": "PNG a WebP podporujú alfa kanály. Pri konverzii do PDF sa strany rozvrhnú s okrajmi a správaním prispôsobenia strane pre predvídateľný výstup."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Je podporovaný OCR?",
+      "answer": "OCR nie je štandardne aktivovaný. Pre extrakciu textu z obrázkov/PDF použite špecializované nástroje OCR."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maximálna veľkosť súboru?",
+      "answer": "Väčšina prevodníkov podporuje až 100 MB na konverziu. Pre väčšie súbory ich najprv rozdeľte alebo komprimujte."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Sú moje súbory uložené?",
+      "answer": "Nie. Súbory sa spracovávajú bezpečne a automaticky sa po konverzii odstránia."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Môžem konvertovať dávkovo alebo zlúčiť?",
+      "answer": "Mnohé nástroje podporujú nahrávanie viacerých súborov a zlúčenie (napr. Zlúčenie JPG → PDF, Kombinácia PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Poznámka: Každý prevodník je optimalizovaný pre jeden pár formátov, čím sa zaistí najlepšia kvalita a rýchlosť. Pre najjednotnejšie rozloženie PDF používajte konzistentné rozmery a orientáciu obrázkov.",
+  "footer": "© 2019 - 2025 miconvert.com. Všetky práva vyhradené."
 }

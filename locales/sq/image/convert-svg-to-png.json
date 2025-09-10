@@ -1,238 +1,359 @@
 {
-  "lang": "sq",
-  "lang_name": "Shqip",
-  "title": "Konvertues SVG në PNG - Falas & Online | WikiHowTo.click",
-  "sub_title": "Konvertoni grafikat vektoriale SVG në PNG online me rasterizim të qartë, transparencë dhe pa marka uji.",
-  "hint": "Ngarko skedarin tuaj SVG për të filluar konvertimin...",
-  "btn_download": "Konverto në PNG",
-  "btn_paste": "Ngarko SVG",
-  "btn_clear": "Pastro",
-  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "lang": "sq"
+
+  "lang_name": "Shqip"
+
+  "title": "Konvertues SVG në PNG - Falas & Online | miconvert.com"
+
+  "sub_title": "Konvertoni grafikat vektoriale SVG në PNG online me rasterizim të qartë, transparencë dhe pa marka uji."
+
+  "hint": "Ngarko skedarin tuaj SVG për të filluar konvertimin..."
+
+  "btn_download": "Konverto në PNG"
+
+  "btn_paste": "Ngarko SVG"
+
+  "btn_clear": "Pastro"
+
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
+
   "head": {
-    "title": "Konverto SVG në PNG - Konvertues Falas Online SVG në PNG | WikiHowTo.click",
-    "description": "Konvertoni grafikat vektoriale SVG në PNG online falas. Rasterizim me cilësi të lartë SVG→PNG me përpunim të shpejtë dhe mbështetje për transparencën.",
-    "keywords": "svg në png, konverto svg në png, vektor në raster, konvertues falas svg, konvertues online png",
-    "canonical": "https://wikihowto.click/sq/convert/svg-to-png",
-    "og_title": "Konvertues SVG në PNG - Falas & Online",
-    "og_description": "Konvertoni SVG në PNG me rasterizim të qartë dhe transparencë. 100% falas, shpejt dhe të sigurt.",
-    "og_url": "https://wikihowto.click/sq/convert/svg-to-png",
-    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertuesi Falas SVG në PNG Online",
-    "twitter_description": "Konvertoni SVG në PNG me mbështetje për transparencën dhe cilësi të lartë. Funksionon në të gjitha pajisjet.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
-  },
+    "title": "Konverto SVG në PNG - Konvertues Falas Online SVG në PNG | miconvert.com"
+
+    "description": "Konvertoni grafikat vektoriale SVG në PNG online falas. Rasterizim me cilësi të lartë SVG→PNG me përpunim të shpejtë dhe mbështetje për transparencën."
+
+    "keywords": "svg në png, konverto svg në png, vektor në raster, konvertues falas svg, konvertues online png"
+
+    "canonical": "https://miconvert.com/sq/convert/svg-to-png"
+
+    "og_title": "Konvertues SVG në PNG - Falas & Online"
+
+    "og_description": "Konvertoni SVG në PNG me rasterizim të qartë dhe transparencë. 100% falas, shpejt dhe të sigurt."
+
+    "og_url": "https://miconvert.com/sq/convert/svg-to-png"
+
+    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konverto SVG në PNG Online",
+    "title": "Konverto SVG në PNG Online"
+
     "description": "Konvertues falas dhe të shpejtë SVG në PNG me rasterizim të qartë dhe mbështetje për transparencën. Funksionon menjëherë në çdo pajisje — nuk kërkohet regjistrim."
-  },
-  "description": "<p>Kthe skedarin tuaj <strong>SVG në PNG</strong> në sekonda. Ky konvertues online falas rasterizon grafikat tuaja vektoriale në imazhe PNG me cilësi të lartë duke ruajtur transparencën për skaj të pastër në çdo sfond.</p><p>Përshtatshëm për favicon, asetet e aplikacioneve, imazhet sociale dhe grafikat e uebit. Ne optimizojmë daljen për një balancë të fortë të qartësisë dhe madhësisë së skedarit.</p>",
+
+  }
+  "description": "<p>Kthe skedarin tuaj <strong>SVG në PNG</strong> në sekonda. Ky konvertues online falas rasterizon grafikat tuaja vektoriale në imazhe PNG me cilësi të lartë duke ruajtur transparencën për skaj të pastër në çdo sfond.</p><p>Përshtatshëm për favicon, asetet e aplikacioneve, imazhet sociale dhe grafikat e uebit. Ne optimizojmë daljen për një balancë të fortë të qartësisë dhe madhësisë së skedarit.</p>"
+
   "converter": {
-    "type": "svg-to-png",
-    "title": "Konvertues SVG në PNG",
-    "description": "Konvertoni grafikat vektoriale SVG në formatin raster PNG me cilësi të lartë dhe përpunim të shpejtë.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "SVG",
-    "outputFormat": "PNG",
+    "type": "svg-to-png"
+
+    "title": "Konvertues SVG në PNG"
+
+    "description": "Konvertoni grafikat vektoriale SVG në formatin raster PNG me cilësi të lartë dhe përpunim të shpejtë."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "PNG"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
     "features": [
-      "Rasterizim me cilësi të lartë",
-      "Transparenca e ruajtur",
-      "Përpunim i shpejtë",
+      "Rasterizim me cilësi të lartë"
+
+      "Transparenca e ruajtur"
+
+      "Përpunim i shpejtë"
+
       "Mjet online falas"
-    ],
+
+    ]
     "options": {
       "png": {
-        "compressionLevel": 6,
-        "progressive": false,
-        "background": "transparent",
-        "width": null,
-        "height": null,
+        "compressionLevel": 6
+        "progressive": false
+        "background": "transparent"
+
+        "width": null
+        "height": null
         "scale": 1
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Konvertimi SVG në PNG përfundoi",
-    "back_button": "Kthehu te Konvertuesi",
-    "convert_another": "Konverto një SVG tjetër",
+    "title": "Konvertimi SVG në PNG përfundoi"
+
+    "back_button": "Kthehu te Konvertuesi"
+
+    "convert_another": "Konverto një SVG tjetër"
+
     "quick_conversions": "Konvertime të shpejta:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Pse të Konvertoni SVG në PNG?",
+      "title": "Pse të Konvertoni SVG në PNG?"
+
       "description": "<ul><li><strong>Përputhshmëri universale:</strong> PNG shfaqet kudo, nuk kërkohet mbështetje SVG.</li><li><strong>Transparenca:</strong> Ruani alfan për mbivendosje dhe elemente UI.</li><li><strong>Performanca:</strong> Bitmap më të vogla, të ruajtshme për prodhim.</li></ul>"
-    },
-    {
-      "title": "Si të Konvertoni SVG në PNG Online",
-      "description": "<ol><li>Klikoni <em>Ngarko SVG</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni për rasterizimin dhe optimizimin.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur imazhin tuaj.</li></ol><p>Parazgjedhjet ruajnë transparencën dhe kompresimin e balancuar.</p>"
-    },
-    {
-      "title": "Kufijtë & Format e Mbështetur",
-      "description": "<ul><li><strong>Input i pranuar:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> 16&nbsp;MB</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Praktikat më të Mira për Dalje të Qartë",
-      "description": "<ul><li>Përdorni një artboard katror me padding për të shmangur prerjen në skaj.</li><li>Konvertoni tekstin në skica; përfshini fontet dhe imazhet.</li><li>Shmangni goditjet shumë të holla për ikona të vogla (≥1px në madhësinë e synuar).</li><li>Eksportoni më të mëdha (p.sh., 512–1024 px) nëse do t'i zvogëloni më vonë.</li></ul>"
-    },
-    {
-      "title": "Zgjidhja e Problemeve",
-      "description": "<ul><li><strong>Fontet/filtrat e munguar:</strong> Aktivet inline dhe konvertoni tekstin në skica.</li><li><strong>Skaj të thyer:</strong> Rritni madhësinë e synuar ose <code>scale</code>, pastaj zvogëloni.</li><li><strong>Sfond i ngurtë:</strong> Sigurohuni që <code>background</code> të jetë vendosur në <em>transparent</em> në opsione.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që SVG të jetë i vlefshëm dhe ≤16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Si të Konvertoni SVG në PNG Online"
+
+      "description": "<ol><li>Klikoni <em>Ngarko SVG</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni për rasterizimin dhe optimizimin.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur imazhin tuaj.</li></ol><p>Parazgjedhjet ruajnë transparencën dhe kompresimin e balancuar.</p>"
+
+    }
+    {
+      "title": "Kufijtë & Format e Mbështetur"
+
+      "description": "<ul><li><strong>Input i pranuar:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> 16&nbsp;MB</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Praktikat më të Mira për Dalje të Qartë"
+
+      "description": "<ul><li>Përdorni një artboard katror me padding për të shmangur prerjen në skaj.</li><li>Konvertoni tekstin në skica; përfshini fontet dhe imazhet.</li><li>Shmangni goditjet shumë të holla për ikona të vogla (≥1px në madhësinë e synuar).</li><li>Eksportoni më të mëdha (p.sh., 512–1024 px) nëse do t'i zvogëloni më vonë.</li></ul>"
+
+    }
+    {
+      "title": "Zgjidhja e Problemeve"
+
+      "description": "<ul><li><strong>Fontet/filtrat e munguar:</strong> Aktivet inline dhe konvertoni tekstin në skica.</li><li><strong>Skaj të thyer:</strong> Rritni madhësinë e synuar ose <code>scale</code>, pastaj zvogëloni.</li><li><strong>Sfond i ngurtë:</strong> Sigurohuni që <code>background</code> të jetë vendosur në <em>transparent</em> në opsione.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që SVG të jetë i vlefshëm dhe ≤16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "A është ky konvertues SVG në PNG falas?",
+      "question": "A është ky konvertues SVG në PNG falas?"
+
       "answer": "Po, është plotësisht falas pa marka uji ose tarifa të fshehura."
-    },
-    {
-      "question": "A ruan PNG transparencën?",
-      "answer": "Po. PNG mbështet transparencën alfa dhe ne e ruajmë atë si parazgjedhje."
-    },
-    {
-      "question": "A mund të zgjedh madhësinë e daljes?",
-      "answer": "Si parazgjedhje ne përdorim viewBox-in SVG. Ju mund të vendosni gjerësinë/lartësinë ose një faktor shkalle në opsionet e avancuara nëse mbështetet."
-    },
-    {
-      "question": "Cilat kufij madhësie skedari zbatohen?",
-      "answer": "Ju mund të ngarkoni skedarë SVG deri në 16 MB."
-    },
-    {
-      "question": "Pse PNG im duket ndryshe nga SVG?",
-      "answer": "Fontet, filtrat ose asetet e lidhura mund të shfaqen ndryshe kur rasterizohen. Konvertoni tekstin në skica dhe aktivet inline për rezultate të qëndrueshme."
+
     }
-  ],
-  "note": "SVG-të rasterizohen gjatë konvertimit. Për rezultate të parashikueshme, skiconi tekstin dhe përfshini çdo aset të jashtëm.",
+    {
+      "question": "A ruan PNG transparencën?"
+
+      "answer": "Po. PNG mbështet transparencën alfa dhe ne e ruajmë atë si parazgjedhje."
+
+    }
+    {
+      "question": "A mund të zgjedh madhësinë e daljes?"
+
+      "answer": "Si parazgjedhje ne përdorim viewBox-in SVG. Ju mund të vendosni gjerësinë/lartësinë ose një faktor shkalle në opsionet e avancuara nëse mbështetet."
+
+    }
+    {
+      "question": "Cilat kufij madhësie skedari zbatohen?"
+
+      "answer": "Ju mund të ngarkoni skedarë SVG deri në 16 MB."
+
+    }
+    {
+      "question": "Pse PNG im duket ndryshe nga SVG?"
+
+      "answer": "Fontet, filtrat ose asetet e lidhura mund të shfaqen ndryshe kur rasterizohen. Konvertoni tekstin në skica dhe aktivet inline për rezultate të qëndrueshme."
+
+    }
+  ]
+  "note": "SVG-të rasterizohen gjatë konvertimit. Për rezultate të parashikueshme, skiconi tekstin dhe përfshini çdo aset të jashtëm."
+
   "related_links": [
     {
-      "title": "Konverto SVG në ICO",
+      "title": "Konverto SVG në ICO"
+
       "url": "/sq/convert/svg-to-ico"
-    },
-    {
-      "title": "Konverto PNG në SVG",
-      "url": "/sq/convert/png-to-svg"
-    },
-    {
-      "title": "Kompresoni PNG Online",
-      "url": "/sq/compress/png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Të gjitha të drejtat e rezervuara.",
+    {
+      "title": "Konverto PNG në SVG"
+
+      "url": "/sq/convert/png-to-svg"
+
+    }
+    {
+      "title": "Kompresoni PNG Online"
+
+      "url": "/sq/compress/png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Konvertues SVG në PNG - Falas & Online",
-      "url": "https://wikihowto.click/sq/convert/svg-to-png",
-      "description": "Mjet online falas për të konvertuar grafikat vektoriale SVG në PNG me transparencë.",
-      "inLanguage": "sq",
-      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Konvertues SVG në PNG - Falas & Online"
+
+      "url": "https://miconvert.com/sq/convert/svg-to-png"
+
+      "description": "Mjet online falas për të konvertuar grafikat vektoriale SVG në PNG me transparencë."
+
+      "inLanguage": "sq"
+
+      "image": "https://miconvert.com/images/svg-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Kryefaqja",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Kryefaqja"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverto",
-          "item": "https://wikihowto.click/sq/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverto"
+
+          "item": "https://miconvert.com/sq/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG në PNG",
-          "item": "https://wikihowto.click/sq/convert/svg-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG në PNG"
+
+          "item": "https://miconvert.com/sq/convert/svg-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Konvertues SVG në PNG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sq/convert/svg-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Konvertues SVG në PNG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sq/convert/svg-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Rasterizim të qartë",
-        "Transparenca e ruajtur",
+        "Rasterizim të qartë"
+
+        "Transparenca e ruajtur"
+
         "Përpunim i shpejtë"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "A është ky konvertues SVG në PNG falas?",
+          "@type": "Question"
+
+          "name": "A është ky konvertues SVG në PNG falas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Po, është plotësisht falas pa marka uji ose tarifa të fshehura."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "A ruan PNG transparencën?",
+          "@type": "Question"
+
+          "name": "A ruan PNG transparencën?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Po, transparenca alfa ruhet si parazgjedhje."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Cilat kufij madhësie skedari zbatohen?",
+          "@type": "Question"
+
+          "name": "Cilat kufij madhësie skedari zbatohen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ju mund të ngarkoni skedarë SVG deri në 16 MB."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Si të konvertoni SVG në PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Si të konvertoni SVG në PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikoni Ngarko SVG dhe zgjidhni skedarin tuaj."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Prisni për të përfunduar rasterizimin dhe optimizimin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikoni Shkarko PNG për të ruajtur imazhin tuaj."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Prisni për të përfunduar rasterizimin dhe optimizimin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikoni Shkarko PNG për të ruajtur imazhin tuaj."
+
+        }
+      ]
       "tool": [
         "Konvertues SVG në PNG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -35,7 +35,8 @@ function generateCacheKey(url) {
 function detectPlatform(url) {
     if (/tiktok\.com|vm\.tiktok\.com|vt\.tiktok\.com/i.test(url)) return 'tiktok';
     if (/facebook\.com|fb\.com|fb\.me|fb\.watch/i.test(url)) return 'facebook';
-    if (/twitter\.com|x\.com/i.test(url)) return 'twitter';
+    // Twitter support removed
+    // if (/twitter\.com|x\.com/i.test(url)) return 'twitter';
     if (/instagram\.com|instagr\.am/i.test(url)) return 'instagram';
     if (/pinterest\.|pin\.it/i.test(url)) return 'pinterest';
     if (/youtube\.com|youtu\.be/i.test(url)) return 'youtube';

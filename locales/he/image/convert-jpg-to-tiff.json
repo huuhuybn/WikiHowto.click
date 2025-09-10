@@ -1,244 +1,368 @@
 {
-  "lang": "he",
-  "lang_name": "עברית",
-  "title": "ממיר JPG ל-TIFF - חינם ואונליין | WikiHowTo.click",
-  "sub_title": "המיר תמונות JPG ל-TIFF אונליין עם אפשרויות דחיסה ללא אובדן ואיכות מוכנה להדפסה. ללא סימני מים.",
-  "hint": "העלה את תמונת ה-JPG שלך כדי להתחיל להמיר...",
-  "btn_download": "המר ל-TIFF",
-  "btn_paste": "העלה JPG",
-  "btn_clear": "נקה",
-  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "lang": "he"
+
+  "lang_name": "עברית"
+
+  "title": "ממיר JPG ל-TIFF - חינם ואונליין | miconvert.com"
+
+  "sub_title": "המיר תמונות JPG ל-TIFF אונליין עם אפשרויות דחיסה ללא אובדן ואיכות מוכנה להדפסה. ללא סימני מים."
+
+  "hint": "העלה את תמונת ה-JPG שלך כדי להתחיל להמיר..."
+
+  "btn_download": "המר ל-TIFF"
+
+  "btn_paste": "העלה JPG"
+
+  "btn_clear": "נקה"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
   "head": {
-    "title": "המר JPG ל-TIFF - ממיר JPG ל-TIFF חינם אונליין",
-    "description": "המיר תמונות JPG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה עם עיבוד מהיר.",
-    "keywords": "jpg ל-tiff, המרת jpg ל-tiff, jpg ל-tiff חינם, ממיר tiff אונליין, המרת תמונות",
-    "canonical": "https://wikihowto.click/he/convert/jpg-to-tiff",
-    "og_title": "המר JPG ל-TIFF - ממיר JPG ל-TIFF חינם אונליין",
-    "og_description": "המיר תמונות JPG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה עם עיבוד מהיר.",
-    "og_url": "https://wikihowto.click/he/convert/jpg-to-tiff",
-    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "המר JPG ל-TIFF - ממיר JPG ל-TIFF חינם אונליין",
-    "twitter_description": "המיר תמונות JPG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה עם עיבוד מהיר.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-  },
+    "title": "המר JPG ל-TIFF - ממיר JPG ל-TIFF חינם אונליין"
+
+    "description": "המיר תמונות JPG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה עם עיבוד מהיר."
+
+    "keywords": "jpg ל-tiff, המרת jpg ל-tiff, jpg ל-tiff חינם, ממיר tiff אונליין, המרת תמונות"
+
+    "canonical": "https://miconvert.com/he/convert/jpg-to-tiff"
+
+    "og_title": "המר JPG ל-TIFF - ממיר JPG ל-TIFF חינם אונליין"
+
+    "og_description": "המיר תמונות JPG לפורמט TIFF אונליין בחינם. המרה באיכות גבוהה עם עיבוד מהיר."
+
+    "og_url": "https://miconvert.com/he/convert/jpg-to-tiff"
+
+    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "המר JPG ל-TIFF אונליין",
+    "title": "המר JPG ל-TIFF אונליין"
+
     "description": "ממיר JPG ל-TIFF חינם עם אפשרויות דחיסה ללא אובדן ופלט מוכן להדפסה. עובד על כל מכשיר - ללא צורך בהרשמה."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-tiff",
-    "title": "ממיר JPG ל-TIFF",
-    "description": "המר תמונות JPG ל-TIFF עם דחיסת LZW/ZIP ללא אובדן וצבעים מדויקים.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "TIFF",
+    "type": "jpg-to-tiff"
+
+    "title": "ממיר JPG ל-TIFF"
+
+    "description": "המר תמונות JPG ל-TIFF עם דחיסת LZW/ZIP ללא אובדן וצבעים מדויקים."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "אפשרות TIFF ללא אובדן (LZW/ZIP)",
-      "איכות מוכנה להדפסה",
-      "צבעים מדויקים",
+      "אפשרות TIFF ללא אובדן (LZW/ZIP)"
+
+      "איכות מוכנה להדפסה"
+
+      "צבעים מדויקים"
+
       "כלי אונליין חינם"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 24,
-        "dpi": 300,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 24
+        "dpi": 300
         "alpha": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "המרת JPG ל-TIFF הושלמה",
-    "back_button": "חזור לממיר",
-    "convert_another": "המר JPG נוסף",
+    "title": "המרת JPG ל-TIFF הושלמה"
+
+    "back_button": "חזור לממיר"
+
+    "convert_another": "המר JPG נוסף"
+
     "quick_conversions": "המרות מהירות:"
-  },
+
+  }
   "h2": [
     {
-      "title": "למה להמיר JPG ל-TIFF?",
+      "title": "למה להמיר JPG ל-TIFF?"
+
       "description": "<p>TIFF הוא פורמט מקצועי, ברמת ארכיון, המשמש בצילום והדפסה:</p><ul><li><strong>אפשרויות ללא אובדן:</strong> שמור מאסטר נקי ללא ארטיפקטים חדשים של JPEG.</li><li><strong>מוכן להדפסה:</strong> שומר על פרטים לפלט ברזולוציה גבוהה.</li><li><strong>גמיש:</strong> תומך בערוץ אלפא ובמרחבי צבע מרובים (תלוי בקורא).</li><li><strong>ידידותי לעבודה:</strong> יציב לעריכות חוזרות והעברות.</li></ul><p><em>הערה:</em> המרה מ-JPG (עם אובדן) לא תחזיר פרטים שאבדו - אבל עוזרת למנוע ירידה נוספת בשמירה הבאה.</p>"
-    },
-    {
-      "title": "איך להמיר JPG ל-TIFF אונליין",
-      "description": "<ol><li>לחץ על <em>העלה JPG</em> ובחר את התמונה שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד TIFF</em> כדי לשמור את הקובץ.</li></ol><p>ברירת מחדל: RGB 24-bit, דחיסת LZW ללא אובדן, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF מול JPG: הבדלים מרכזיים",
-      "description": "<table class='table-compare'><thead><tr><th>תכונה</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>דחיסה</td><td>עם אובדן (JPEG)</td><td>ללא אובדן (LZW/ZIP) או JPEG/ללא</td></tr><tr><td>גודל קובץ</td><td>קטן</td><td>גדול יותר (תלוי בדחיסה)</td></tr><tr><td>שקיפות</td><td>לא</td><td>אלפא אופציונלי (תלוי בקורא)</td></tr><tr><td>הכי טוב עבור</td><td>שיתוף באינטרנט/תמונות</td><td>עריכה, הדפסה, ארכוב</td></tr></tbody></table>"
-    },
-    {
-      "title": "מגבלות ופורמטים נתמכים",
-      "description": "<ul><li><strong>קלט מתקבל:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>ברירות מחדל:</strong> RGB 24-bit, דחיסת LZW, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "פתרון בעיות",
-      "description": "<ul><li><strong>הקובץ גדול מדי:</strong> TIFF כבד יותר בעיצוב. עבור דחיסה ללא אובדן קטנה יותר, נסה <a href='/he/convert/jpg-to-png'>JPG ל-PNG</a>.</li><li><strong>צריך שקיפות:</strong> JPG המקורי חסר אלפא; המיר וערוך אלפא בעורך, או התחל מ-PNG.</li><li><strong>שינוי צבע:</strong> המיר ל-sRGB לפני ההעלאה כדי לשמור על עקביות באינטרנט.</li><li><strong>העלאה נכשלת:</strong> ודא ש-JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "איך להמיר JPG ל-TIFF אונליין"
+
+      "description": "<ol><li>לחץ על <em>העלה JPG</em> ובחר את התמונה שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד TIFF</em> כדי לשמור את הקובץ.</li></ol><p>ברירת מחדל: RGB 24-bit, דחיסת LZW ללא אובדן, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF מול JPG: הבדלים מרכזיים"
+
+      "description": "<table class='table-compare'><thead><tr><th>תכונה</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>דחיסה</td><td>עם אובדן (JPEG)</td><td>ללא אובדן (LZW/ZIP) או JPEG/ללא</td></tr><tr><td>גודל קובץ</td><td>קטן</td><td>גדול יותר (תלוי בדחיסה)</td></tr><tr><td>שקיפות</td><td>לא</td><td>אלפא אופציונלי (תלוי בקורא)</td></tr><tr><td>הכי טוב עבור</td><td>שיתוף באינטרנט/תמונות</td><td>עריכה, הדפסה, ארכוב</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "מגבלות ופורמטים נתמכים"
+
+      "description": "<ul><li><strong>קלט מתקבל:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>ברירות מחדל:</strong> RGB 24-bit, דחיסת LZW, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "פתרון בעיות"
+
+      "description": "<ul><li><strong>הקובץ גדול מדי:</strong> TIFF כבד יותר בעיצוב. עבור דחיסה ללא אובדן קטנה יותר, נסה <a href='/he/convert/jpg-to-png'>JPG ל-PNG</a>.</li><li><strong>צריך שקיפות:</strong> JPG המקורי חסר אלפא; המיר וערוך אלפא בעורך, או התחל מ-PNG.</li><li><strong>שינוי צבע:</strong> המיר ל-sRGB לפני ההעלאה כדי לשמור על עקביות באינטרנט.</li><li><strong>העלאה נכשלת:</strong> ודא ש-JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "האם ממיר JPG ל-TIFF הזה חינם?",
+      "question": "האם ממיר JPG ל-TIFF הזה חינם?"
+
       "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
-    },
-    {
-      "question": "האם TIFF יעבוד בכל היישומים?",
-      "answer": "TIFF נתמך באופן רחב ביישומים מקצועיים (Photoshop, Affinity, רבים מכלי RIP/הדפסה). כמה צופים פשוטים עשויים שלא לתמוך בכל אפשרויות הדחיסה."
-    },
-    {
-      "question": "כמה גדול יותר קבצי TIFF בהשוואה ל-JPG?",
-      "answer": "בדרך כלל 3–10× גדולים יותר מ-JPG באותן מידות (משתנה לפי תוכן ודחיסה)."
-    },
-    {
-      "question": "אילו גדלי קבצים נתמכים?",
-      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
-    },
-    {
-      "question": "האם הקבצים שלי בטוחים?",
-      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
-    },
-    {
-      "question": "האם אני יכול להמיר מספר JPGs בבת אחת?",
-      "answer": "דף זה ממיר קובץ אחד בכל פעם. עבור צרכים בכמויות, חזור על התהליך או השתמש בכלי אצווה."
-    },
-    {
-      "question": "האם TIFF תומך בשכבות?",
-      "answer": "TIFF סטנדרטי הוא תמונה שטוחה; כמה יישומים שומרים נתוני שכבות פרטיים; כלי זה מפיק TIFF שטוח."
+
     }
-  ],
-  "note": "TIFF מתאים לארכוב/הדפסה אך גודלו גדול. עבור אינטרנט, שקול PNG/WebP/AVIF.",
+    {
+      "question": "האם TIFF יעבוד בכל היישומים?"
+
+      "answer": "TIFF נתמך באופן רחב ביישומים מקצועיים (Photoshop, Affinity, רבים מכלי RIP/הדפסה). כמה צופים פשוטים עשויים שלא לתמוך בכל אפשרויות הדחיסה."
+
+    }
+    {
+      "question": "כמה גדול יותר קבצי TIFF בהשוואה ל-JPG?"
+
+      "answer": "בדרך כלל 3–10× גדולים יותר מ-JPG באותן מידות (משתנה לפי תוכן ודחיסה)."
+
+    }
+    {
+      "question": "אילו גדלי קבצים נתמכים?"
+
+      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
+
+    }
+    {
+      "question": "האם הקבצים שלי בטוחים?"
+
+      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
+
+    }
+    {
+      "question": "האם אני יכול להמיר מספר JPGs בבת אחת?"
+
+      "answer": "דף זה ממיר קובץ אחד בכל פעם. עבור צרכים בכמויות, חזור על התהליך או השתמש בכלי אצווה."
+
+    }
+    {
+      "question": "האם TIFF תומך בשכבות?"
+
+      "answer": "TIFF סטנדרטי הוא תמונה שטוחה; כמה יישומים שומרים נתוני שכבות פרטיים; כלי זה מפיק TIFF שטוח."
+
+    }
+  ]
+  "note": "TIFF מתאים לארכוב/הדפסה אך גודלו גדול. עבור אינטרנט, שקול PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "המר JPG ל-PNG",
+      "title": "המר JPG ל-PNG"
+
       "url": "/he/convert/jpg-to-png"
-    },
-    {
-      "title": "המר JPG ל-WebP",
-      "url": "/he/convert/jpg-to-webp"
-    },
-    {
-      "title": "המר PNG ל-TIFF",
-      "url": "/he/convert/png-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. כל הזכויות שמורות.",
+    {
+      "title": "המר JPG ל-WebP"
+
+      "url": "/he/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "המר PNG ל-TIFF"
+
+      "url": "/he/convert/png-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "ממיר JPG ל-TIFF - חינם ואונליין",
-      "url": "https://wikihowto.click/he/convert/jpg-to-tiff",
-      "description": "כלי אונליין חינם להמיר תמונות JPG ל-TIFF עם דחיסה ללא אובדן ופלט מוכן להדפסה.",
-      "inLanguage": "he",
-      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "ממיר JPG ל-TIFF - חינם ואונליין"
+
+      "url": "https://miconvert.com/he/convert/jpg-to-tiff"
+
+      "description": "כלי אונליין חינם להמיר תמונות JPG ל-TIFF עם דחיסה ללא אובדן ופלט מוכן להדפסה."
+
+      "inLanguage": "he"
+
+      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "בית",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "בית"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "המרה",
-          "item": "https://wikihowto.click/he/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "המרה"
+
+          "item": "https://miconvert.com/he/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG ל-TIFF",
-          "item": "https://wikihowto.click/he/convert/jpg-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG ל-TIFF"
+
+          "item": "https://miconvert.com/he/convert/jpg-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "ממיר JPG ל-TIFF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/he/convert/jpg-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "ממיר JPG ל-TIFF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/he/convert/jpg-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "אפשרות LZW ללא אובדן",
-        "מוכן להדפסה 300 DPI",
+        "אפשרות LZW ללא אובדן"
+
+        "מוכן להדפסה 300 DPI"
+
         "צבעים מדויקים"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "האם ממיר JPG ל-TIFF הזה חינם?",
+          "@type": "Question"
+
+          "name": "האם ממיר JPG ל-TIFF הזה חינם?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "אילו גדלי קבצים נתמכים?",
+          "@type": "Question"
+
+          "name": "אילו גדלי קבצים נתמכים?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "אתה יכול להעלות תמונות עד 16 MB לקובץ."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "האם TIFF תומך בשכבות?",
+          "@type": "Question"
+
+          "name": "האם TIFF תומך בשכבות?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "TIFF סטנדרטי הוא שטוח. כמה יישומים שומרים נתוני שכבות פרטיים; כלי זה מפיק TIFF שטוח."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "איך להמיר JPG ל-TIFF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "איך להמיר JPG ל-TIFF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "לחץ על העלה JPG ובחר את התמונה שלך."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "חכה שהעיבוד יושלם."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "לחץ על הורד TIFF כדי לשמור את הקובץ."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "חכה שהעיבוד יושלם."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "לחץ על הורד TIFF כדי לשמור את הקובץ."
+
+        }
+      ]
       "tool": [
         "ממיר JPG ל-TIFF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

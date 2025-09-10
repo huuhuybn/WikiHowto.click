@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "miconvert.com - Convertidors de fitxers en línia gratuïts",
+  "sub_title": "Converteix fitxers entre PDF, imatges, àudio, vídeo i documents amb eines dedicades per a cada parella de formats. Ràpid, segur i sense marques d'aigua.",
+  "hint": "Cerca convertidors (p. ex., JPG a PNG, PDF a JPG, MP3 a WAV)...",
+  "btn_download": "Cerca convertidors",
+  "btn_paste": "Explorar-ho tot",
+  "btn_clear": "Neteja",
+  "description": "<p><strong>Benvingut a miconvert.com</strong> — un centre especialitzat en <em>convertidors de fitxers específics per a parelles</em>. En lloc d'una eina genèrica, creem una pàgina dedicada per a cada parella de formats (p. ex., <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>) perquè sempre obtinguis les opcions correctes, la millor qualitat i un flux de treball senzill.</p><p>Cada convertidor aquí està ajustat per al seu propòsit exacte: claredat de la imatge vs. mida, gestió de la transparència, maquetats de PDF preparats per a la impressió o fidelitat d'àudio. Sense registre, sense marques d'aigua i privat per disseny: les pujades es processen de manera segura i s'eliminen automàticament després de la conversió. Utilitza-ho a l'escriptori, tauleta o mòbil.</p><p>Explora les nostres eines de <strong>PDF</strong> (PDF ↔ JPG/PNG/TIFF/WebP, fusionar/dividir), <strong>eines d'imatge</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>eines d'àudio</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>eines de vídeo</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) i <strong>eines de document</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Cada eina és ràpida, precisa i està enfocada.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Convertidors de fitxers en línia gratuïts - PDF, Imatge, Àudio i més | miconvert.com",
+    "description": "Converteix fitxers en línia amb convertidors gratuïts. Eines especialitzades per a cada parella de formats: PDF a JPG, PNG a PDF, MP3 a WAV, i més. Ràpid, segur, sense marques d'aigua.",
+    "keywords": "convertidor de fitxers, convertidor de pdf, convertidor d'imatges, convertidor d'àudio, convertidor de vídeo, convertidor de documents, jpg a png, pdf a jpg, png a pdf, mp3 a wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Convertidors de fitxers en línia gratuïts",
+    "og_description": "Converteix PDF, imatges, àudio, vídeo i documents amb convertidors especialitzats per a cada parella de formats. Gratuït, ràpid i sense marques d'aigua.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Què és un convertidor de fitxers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Un convertidor de fitxers transforma un fitxer d'un format a un altre (p. ex., JPG a PNG, PDF a JPG). Els bons convertidors conserven el contingut essencial (píxels, text, àudio) i els metadades mentre optimitzen la mida i la compatibilitat."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Guardeu els meus fitxers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Els fitxers es processen de manera segura i s'eliminen automàticament després de la conversió. No els guardem permanentment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Les conversions són gratuïtes i sense marques d'aigua?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. Totes les eines són 100% gratuïtes d'usar i mai afegeixen marques d'aigua."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Convertidors de fitxers en línia gratuïts",
+    "description": "Una eina per a cada parella de formats. Converteix PDF, imatges, àudio, vídeo i documents en línia — ràpid, segur i sense marques d'aigua."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Què és un convertidor de fitxers?",
+      "description": "<p>Un convertidor de fitxers canvia el format d'un fitxer per millorar la <strong>compatibilitat</strong>, la <strong>qualitat</strong> o la <strong>mida</strong>. Alguns exemples comuns inclouen la conversió d'imatges per a la web (<em>PNG → WebP</em>), la preparació de documents llestos per a la impressió (<em>JPG/PNG → PDF</em>) o l'extracció de visuals de documents (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Els bons convertidors equilibren la qualitat i la mida, conserven la transparència allà on sigui aplicable (PNG/WebP) i mantenen el disseny per als PDF (mida de la pàgina, marges, ajust a la pàgina). Les nostres eines exposen els valors predeterminats raonables perquè la majoria dels usuaris puguin convertir en segons.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Amb pèrdua vs. Sense pèrdua, Rastre vs. Vector",
+      "description": "<ul><li><strong>Amb pèrdua vs. Sense pèrdua:</strong> JPG/WebP (amb pèrdua) redueix la mida descartant algunes dades; PNG/TIFF (sense pèrdua) mantenen tot el detall. Trieu amb pèrdua per compartir a la web, sense pèrdua per a l'edició/arxivament.</li><li><strong>Rastre vs. Vector:</strong> JPG/PNG/WebP/TIFF són rastre (píxels). SVG/AI són vector (formes, camins). El rastre necessita una resolució adequada (DPI) per a la impressió; el vector escala infinitament sense desenfocament.</li><li><strong>Color i metadades:</strong> Les conversions poden afectar els perfils ICC, EXIF o els canals alfa. Les nostres eines d'imatge a PDF conserven el comportament de la transparència de manera adequada i ajusten les imatges a la pàgina amb marges per a una impressió predictible.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Categories de conversió populars",
+      "description": "<ul><li><strong>Eines de PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Fusionar JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Combinar PNG → PDF</a></li><li><strong>Eines d'imatge:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Eines d'àudio:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Eines de vídeo:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Eines de document:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Com funciona",
+      "description": "<ol><li>Trieu el convertidor per a la vostra parella de formats exacta (p. ex., <em>PNG → PDF</em>).</li><li>Pugeu un o diversos fitxers (admet processament per lots en moltes eines).</li><li>Feu clic a convertir: els valors predeterminats estan optimitzats per a la qualitat i la mida.</li><li>Descarregueu el resultat instantàniament. Sense registre, sense marques d'aigua.</li></ol><p>Consells: Mantingueu les proporcions de les imatges coherents quan les fusioni en PDF per obtenir un disseny uniforme. Per a la web, considereu WebP per reduir la mida amb una qualitat excel·lent.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Seguretat i privadesa",
+      "description": "<ul><li><strong>Transferències xifrades:</strong> Els fitxers es mouen a través de connexions segures.</li><li><strong>Eliminació automàtica:</strong> Els fitxers processats s'eliminen automàticament.</li><li><strong>Sense emmagatzematge permanent:</strong> No guardem els vostres fitxers després del processament.</li><li><strong>Sense marques d'aigua:</strong> Els resultats són nets i llestos per usar.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Què és un convertidor de fitxers?",
+      "answer": "Canvia un fitxer d'un format a un altre (p. ex., JPG → PNG, PDF → JPG) per millorar la compatibilitat, la qualitat o la mida."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Quins convertidors són més populars?",
+      "answer": "PDF ↔ Imatge (PDF → JPG/PNG/WebP/TIFF i JPG/PNG/WebP/TIFF → PDF) i Imatge ↔ Imatge (JPG ↔ PNG, PNG ↔ WebP) són els més utilitzats."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Comprimeix les imatges?",
+      "answer": "Sí, els formats amb pèrdua com JPG/WebP redueixen la mida amb una qualitat ajustable; els formats sense pèrdua com PNG/TIFF conserven els detalls."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Es conserva la transparència?",
+      "answer": "PNG i WebP admeten canals alfa. Quan es converteix a PDF, les pàgines es disposen amb marges i comportament d'ajust a la pàgina per obtenir una sortida predictible."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "És compatible amb OCR?",
+      "answer": "L'OCR no està habilitat per defecte. Per a l'extracció de text d'imatges/PDF, utilitzeu eines OCR dedicades."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Mida màxima del fitxer?",
+      "answer": "La majoria dels convertidors admeten fins a 100 MB per conversió. Per a fitxers més grans, dividiu-los o comprimiu-los primer."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "S'emmagatzemen els meus fitxers?",
+      "answer": "No. Els fitxers es processen de manera segura i s'eliminen automàticament després de la conversió."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Puc convertir o fusionar per lots?",
+      "answer": "Moltes eines admeten la pujada de múltiples fitxers i la fusió (p. ex., Fusionar JPG → PDF, Combinar PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Nota: Cada convertidor està optimitzat per a una sola parella de formats, garantint la millor qualitat i velocitat. Per obtenir el disseny de PDF més uniforme, utilitzeu dimensions i orientació d'imatge coherents.",
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
 }

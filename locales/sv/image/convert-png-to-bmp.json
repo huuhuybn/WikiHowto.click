@@ -1,241 +1,365 @@
 {
-  "lang": "sv",
-  "lang_name": "Svenska",
-  "title": "PNG till BMP Konverterare - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konvertera PNG-bilder till BMP online med okomprimerad, förlustfri pixeldata. Inga vattenstämplar.",
-  "hint": "Ladda upp din PNG-bild för att börja konvertera...",
-  "btn_download": "Konvertera till BMP",
-  "btn_paste": "Ladda upp PNG",
-  "btn_clear": "Rensa",
-  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "lang": "sv"
+
+  "lang_name": "Svenska"
+
+  "title": "PNG till BMP Konverterare - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konvertera PNG-bilder till BMP online med okomprimerad, förlustfri pixeldata. Inga vattenstämplar."
+
+  "hint": "Ladda upp din PNG-bild för att börja konvertera..."
+
+  "btn_download": "Konvertera till BMP"
+
+  "btn_paste": "Ladda upp PNG"
+
+  "btn_clear": "Rensa"
+
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
+
   "head": {
-    "title": "Konvertera PNG till BMP - Gratis Online PNG till BMP Konverterare",
-    "description": "Konvertera PNG-bilder till BMP-format online gratis. Högkvalitativ PNG till BMP-konvertering med snabb bearbetning.",
-    "keywords": "png till bmp, konvertera png till bmp, gratis png till bmp, online bmp konverterare, bildkonvertering",
-    "canonical": "https://wikihowto.click/sv/convert/png-to-bmp",
-    "og_title": "Konvertera PNG till BMP - Gratis Online PNG till BMP Konverterare",
-    "og_description": "Konvertera PNG-bilder till BMP-format online gratis. Högkvalitativ PNG till BMP-konvertering med snabb bearbetning.",
-    "og_url": "https://wikihowto.click/sv/convert/png-to-bmp",
-    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertera PNG till BMP - Gratis Online PNG till BMP Konverterare",
-    "twitter_description": "Konvertera PNG-bilder till BMP-format online gratis. Högkvalitativ PNG till BMP-konvertering med snabb bearbetning.",
-    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
-  },
+    "title": "Konvertera PNG till BMP - Gratis Online PNG till BMP Konverterare"
+
+    "description": "Konvertera PNG-bilder till BMP-format online gratis. Högkvalitativ PNG till BMP-konvertering med snabb bearbetning."
+
+    "keywords": "png till bmp, konvertera png till bmp, gratis png till bmp, online bmp konverterare, bildkonvertering"
+
+    "canonical": "https://miconvert.com/sv/convert/png-to-bmp"
+
+    "og_title": "Konvertera PNG till BMP - Gratis Online PNG till BMP Konverterare"
+
+    "og_description": "Konvertera PNG-bilder till BMP-format online gratis. Högkvalitativ PNG till BMP-konvertering med snabb bearbetning."
+
+    "og_url": "https://miconvert.com/sv/convert/png-to-bmp"
+
+    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "Konvertera PNG till BMP Online",
+    "title": "Konvertera PNG till BMP Online"
+
     "description": "Gratis PNG till BMP-konverterare med okomprimerad, förlustfri pixeldata. Fungerar på alla enheter — ingen registrering krävs."
-  },
+
+  }
   "converter": {
-    "type": "png-to-bmp",
-    "title": "PNG till BMP Konverterare",
-    "description": "Konvertera PNG-bilder till BMP med snabb bearbetning och exakta färger.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "BMP",
+    "type": "png-to-bmp"
+
+    "title": "PNG till BMP Konverterare"
+
+    "description": "Konvertera PNG-bilder till BMP med snabb bearbetning och exakta färger."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "Okomprimerad (förlustfri) pixeldata",
-      "Hög kompatibilitet på Windows",
-      "Snabb bearbetning",
+      "Okomprimerad (förlustfri) pixeldata"
+
+      "Hög kompatibilitet på Windows"
+
+      "Snabb bearbetning"
+
       "Gratis onlineverktyg"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG till BMP Konvertering Klar",
-    "back_button": "Tillbaka till Konverteraren",
-    "convert_another": "Konvertera en annan PNG",
+    "title": "PNG till BMP Konvertering Klar"
+
+    "back_button": "Tillbaka till Konverteraren"
+
+    "convert_another": "Konvertera en annan PNG"
+
     "quick_conversions": "Snabba Konverteringar:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Varför Konvertera PNG till BMP?",
+      "title": "Varför Konvertera PNG till BMP?"
+
       "description": "<p>BMP är ett enkelt rasterformat som lagrar pixlar utan komprimering — användbart för vissa arbetsflöden:</p><ul><li><strong>Inga nya artefakter:</strong> Håll pixlar intakta för låg nivå redigering.</li><li><strong>Enkel struktur:</strong> Lätt för program att läsa och manipulera.</li><li><strong>Äldre/inkapslade appar:</strong> Vissa Windows-verktyg föredrar BMP.</li></ul>"
-    },
-    {
-      "title": "Hur man Konverterar PNG till BMP Online",
-      "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner BMP</em> för att spara din bild.</li></ol><p>Standardinställningar för 24-bitars BMP utan komprimering.</p>"
-    },
-    {
-      "title": "BMP vs PNG Jämförelse",
-      "description": "<ul><li><strong>Filstorlek:</strong> BMP är vanligtvis mycket större än PNG.</li><li><strong>Kvalitet:</strong> Båda är förlustfria (BMP okomprimerad; PNG förlustfritt komprimerad).</li><li><strong>Transparens:</strong> PNG stöder alfa; vanlig 24-bitars BMP gör <em>inte</em>.</li><li><strong>Komprimering:</strong> BMP ingen; PNG förlustfri DEFLATE.</li><li><strong>Användningsfall:</strong> BMP för äldre/pixeloperationer; PNG för webben och effektiv förlustfri lagring.</li></ul>"
-    },
-    {
-      "title": "Stödda Gränser & Format",
-      "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitdjup:</strong> 24-bitars (ingen alfa)</li></ul>"
-    },
-    {
-      "title": "Felsökning",
-      "description": "<ul><li><strong>Mycket stor utdata:</strong> BMP är okomprimerad; för mindre förlustfritt, behåll PNG.</li><li><strong>Behöver transparens:</strong> BMP 24-bitars har ingen alfa; håll dig till PNG.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är PNG och ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Hur man Konverterar PNG till BMP Online"
+
+      "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner BMP</em> för att spara din bild.</li></ol><p>Standardinställningar för 24-bitars BMP utan komprimering.</p>"
+
+    }
+    {
+      "title": "BMP vs PNG Jämförelse"
+
+      "description": "<ul><li><strong>Filstorlek:</strong> BMP är vanligtvis mycket större än PNG.</li><li><strong>Kvalitet:</strong> Båda är förlustfria (BMP okomprimerad; PNG förlustfritt komprimerad).</li><li><strong>Transparens:</strong> PNG stöder alfa; vanlig 24-bitars BMP gör <em>inte</em>.</li><li><strong>Komprimering:</strong> BMP ingen; PNG förlustfri DEFLATE.</li><li><strong>Användningsfall:</strong> BMP för äldre/pixeloperationer; PNG för webben och effektiv förlustfri lagring.</li></ul>"
+
+    }
+    {
+      "title": "Stödda Gränser & Format"
+
+      "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitdjup:</strong> 24-bitars (ingen alfa)</li></ul>"
+
+    }
+    {
+      "title": "Felsökning"
+
+      "description": "<ul><li><strong>Mycket stor utdata:</strong> BMP är okomprimerad; för mindre förlustfritt, behåll PNG.</li><li><strong>Behöver transparens:</strong> BMP 24-bitars har ingen alfa; håll dig till PNG.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är PNG och ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Är denna PNG till BMP konverterare gratis?",
+      "question": "Är denna PNG till BMP konverterare gratis?"
+
       "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
-    },
-    {
-      "question": "Kommer BMP att fungera på alla applikationer?",
-      "answer": "BMP stöds i stor utsträckning på Windows och erkänns av många andra plattformar. Moderna webb arbetsflöden föredrar vanligtvis PNG/WebP för storlekseffektivitet."
-    },
-    {
-      "question": "Hur mycket större är BMP-filer jämfört med PNG?",
-      "answer": "Ofta flera gånger större (t.ex. 3–10× eller mer), eftersom BMP är okomprimerad."
-    },
-    {
-      "question": "Vilka filstorlekar stöds?",
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-    },
-    {
-      "question": "Är mina filer säkra?",
-      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
-    },
-    {
-      "question": "Kan jag konvertera flera PNG:er samtidigt?",
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-    },
-    {
-      "question": "Stöder BMP transparens?",
-      "answer": "Standard 24-bitars BMP inkluderar inte alfa. Använd PNG för transparens."
+
     }
-  ],
-  "note": "BMP-utdata är avsiktligt stor (okomprimerad). För webbleverans, föredra PNG/WebP/AVIF.",
+    {
+      "question": "Kommer BMP att fungera på alla applikationer?"
+
+      "answer": "BMP stöds i stor utsträckning på Windows och erkänns av många andra plattformar. Moderna webb arbetsflöden föredrar vanligtvis PNG/WebP för storlekseffektivitet."
+
+    }
+    {
+      "question": "Hur mycket större är BMP-filer jämfört med PNG?"
+
+      "answer": "Ofta flera gånger större (t.ex. 3–10× eller mer), eftersom BMP är okomprimerad."
+
+    }
+    {
+      "question": "Vilka filstorlekar stöds?"
+
+      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
+
+    }
+    {
+      "question": "Är mina filer säkra?"
+
+      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
+
+    }
+    {
+      "question": "Kan jag konvertera flera PNG:er samtidigt?"
+
+      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
+
+    }
+    {
+      "question": "Stöder BMP transparens?"
+
+      "answer": "Standard 24-bitars BMP inkluderar inte alfa. Använd PNG för transparens."
+
+    }
+  ]
+  "note": "BMP-utdata är avsiktligt stor (okomprimerad). För webbleverans, föredra PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Konvertera BMP till PNG",
+      "title": "Konvertera BMP till PNG"
+
       "url": "/sv/convert/bmp-to-png"
-    },
-    {
-      "title": "Konvertera PNG till JPG",
-      "url": "/sv/convert/png-to-jpg"
-    },
-    {
-      "title": "Konvertera PNG till WebP",
-      "url": "/sv/convert/png-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alla rättigheter förbehållna.",
+    {
+      "title": "Konvertera PNG till JPG"
+
+      "url": "/sv/convert/png-to-jpg"
+
+    }
+    {
+      "title": "Konvertera PNG till WebP"
+
+      "url": "/sv/convert/png-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG till BMP Konverterare - Gratis & Online",
-      "url": "https://wikihowto.click/sv/convert/png-to-bmp",
-      "description": "Gratis onlineverktyg för att konvertera PNG-bilder till BMP med okomprimerad, förlustfri pixeldata.",
-      "inLanguage": "sv",
-      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG till BMP Konverterare - Gratis & Online"
+
+      "url": "https://miconvert.com/sv/convert/png-to-bmp"
+
+      "description": "Gratis onlineverktyg för att konvertera PNG-bilder till BMP med okomprimerad, förlustfri pixeldata."
+
+      "inLanguage": "sv"
+
+      "image": "https://miconvert.com/images/png-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Hem",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Hem"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertera",
-          "item": "https://wikihowto.click/sv/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertera"
+
+          "item": "https://miconvert.com/sv/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG till BMP",
-          "item": "https://wikihowto.click/sv/convert/png-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG till BMP"
+
+          "item": "https://miconvert.com/sv/convert/png-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG till BMP Konverterare",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sv/convert/png-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG till BMP Konverterare"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sv/convert/png-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "SEK"
-      },
+
+      }
       "featureList": [
-        "Okomprimerad pixeldata",
-        "Exakta färger",
+        "Okomprimerad pixeldata"
+
+        "Exakta färger"
+
         "Snabb bearbetning"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Är denna PNG till BMP konverterare gratis?",
+          "@type": "Question"
+
+          "name": "Är denna PNG till BMP konverterare gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vilka filstorlekar stöds?",
+          "@type": "Question"
+
+          "name": "Vilka filstorlekar stöds?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Stöder BMP transparens?",
+          "@type": "Question"
+
+          "name": "Stöder BMP transparens?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standard 24-bitars BMP inkluderar inte en alfakanal. Använd PNG för transparens."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Hur man konverterar PNG till BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Hur man konverterar PNG till BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klicka på Ladda upp PNG och välj din fil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Vänta på att bearbetningen ska slutföras."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klicka på Ladda ner BMP för att spara bilden."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Vänta på att bearbetningen ska slutföras."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klicka på Ladda ner BMP för att spara bilden."
+
+        }
+      ]
       "tool": [
         "PNG till BMP Konverterare"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

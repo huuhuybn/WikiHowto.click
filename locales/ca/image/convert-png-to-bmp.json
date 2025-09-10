@@ -1,241 +1,365 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Conversor de PNG a BMP - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges PNG a BMP en línia amb dades de píxels sense compressió i sense pèrdues. Sense marques d'aigua.",
-  "hint": "Puja la teva imatge PNG per començar a convertir...",
-  "btn_download": "Converteix a BMP",
-  "btn_paste": "Puja PNG",
-  "btn_clear": "Neteja",
-  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Conversor de PNG a BMP - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges PNG a BMP en línia amb dades de píxels sense compressió i sense pèrdues. Sense marques d'aigua."
+
+  "hint": "Puja la teva imatge PNG per començar a convertir..."
+
+  "btn_download": "Converteix a BMP"
+
+  "btn_paste": "Puja PNG"
+
+  "btn_clear": "Neteja"
+
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
+
   "head": {
-    "title": "Converteix PNG a BMP - Conversor de PNG a BMP en línia gratuït",
-    "description": "Converteix imatges PNG a format BMP en línia de manera gratuïta. Conversió de PNG a BMP d'alta qualitat amb un processament ràpid.",
-    "keywords": "png a bmp, convertir png a bmp, gratuït png a bmp, conversor bmp en línia, conversió d'imatges",
-    "canonical": "https://wikihowto.click/ca/convert/png-to-bmp",
-    "og_title": "Converteix PNG a BMP - Conversor de PNG a BMP en línia gratuït",
-    "og_description": "Converteix imatges PNG a format BMP en línia de manera gratuïta. Conversió de PNG a BMP d'alta qualitat amb un processament ràpid.",
-    "og_url": "https://wikihowto.click/ca/convert/png-to-bmp",
-    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Converteix PNG a BMP - Conversor de PNG a BMP en línia gratuït",
-    "twitter_description": "Converteix imatges PNG a format BMP en línia de manera gratuïta. Conversió de PNG a BMP d'alta qualitat amb un processament ràpid.",
-    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
-  },
+    "title": "Converteix PNG a BMP - Conversor de PNG a BMP en línia gratuït"
+
+    "description": "Converteix imatges PNG a format BMP en línia de manera gratuïta. Conversió de PNG a BMP d'alta qualitat amb un processament ràpid."
+
+    "keywords": "png a bmp, convertir png a bmp, gratuït png a bmp, conversor bmp en línia, conversió d'imatges"
+
+    "canonical": "https://miconvert.com/ca/convert/png-to-bmp"
+
+    "og_title": "Converteix PNG a BMP - Conversor de PNG a BMP en línia gratuït"
+
+    "og_description": "Converteix imatges PNG a format BMP en línia de manera gratuïta. Conversió de PNG a BMP d'alta qualitat amb un processament ràpid."
+
+    "og_url": "https://miconvert.com/ca/convert/png-to-bmp"
+
+    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "Converteix PNG a BMP en línia",
+    "title": "Converteix PNG a BMP en línia"
+
     "description": "Conversor gratuït de PNG a BMP amb dades de píxels sense compressió i sense pèrdues. Funciona en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "converter": {
-    "type": "png-to-bmp",
-    "title": "Conversor de PNG a BMP",
-    "description": "Converteix imatges PNG a BMP amb un processament ràpid i colors precisos.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "BMP",
+    "type": "png-to-bmp"
+
+    "title": "Conversor de PNG a BMP"
+
+    "description": "Converteix imatges PNG a BMP amb un processament ràpid i colors precisos."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "Dades de píxels sense compressió (sense pèrdues)",
-      "Alta compatibilitat en Windows",
-      "Processament ràpid",
+      "Dades de píxels sense compressió (sense pèrdues)"
+
+      "Alta compatibilitat en Windows"
+
+      "Processament ràpid"
+
       "Eina en línia gratuïta"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Conversió de PNG a BMP completada",
-    "back_button": "Torna al conversor",
-    "convert_another": "Converteix un altre PNG",
+    "title": "Conversió de PNG a BMP completada"
+
+    "back_button": "Torna al conversor"
+
+    "convert_another": "Converteix un altre PNG"
+
     "quick_conversions": "Conversions ràpides:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir PNG a BMP?",
+      "title": "Per què convertir PNG a BMP?"
+
       "description": "<p>El BMP és un format raster senzill que emmagatzema píxels sense compressió — útil per a certs fluxos de treball:</p><ul><li><strong>Sense nous artefactes:</strong> Mantingueu els píxels intactes per a edicions de baix nivell.</li><li><strong>Estructura senzilla:</strong> Fàcil de llegir i manipular per part dels programes.</li><li><strong>Aplicacions llegades/integrades:</strong> Algunes eines de Windows prefereixen BMP.</li></ul>"
-    },
-    {
-      "title": "Com convertir PNG a BMP en línia",
-      "description": "<ol><li>Feu clic a <em>Puja PNG</em> i seleccioneu el vostre fitxer.</li><li>Espereu que el processament es completi.</li><li>Feu clic a <em>Descarregar BMP</em> per desar la vostra imatge.</li></ol><p>Per defecte, es converteix a BMP de 24 bits sense compressió.</p>"
-    },
-    {
-      "title": "Comparació BMP vs PNG",
-      "description": "<ul><li><strong>Grandària del fitxer:</strong> El BMP és normalment molt més gran que el PNG.</li><li><strong>Qualitat:</strong> Ambdós són sense pèrdues (BMP sense compressió; PNG compressió sense pèrdues).</li><li><strong>Transparència:</strong> El PNG admet alfa; el BMP comú de 24 bits <em>no</em> ho fa.</li><li><strong>Compressió:</strong> BMP cap; PNG compressió sense pèrdues DEFLATE.</li><li><strong>Casos d'ús:</strong> BMP per a operacions llegades/píxel; PNG per a web i emmagatzematge eficient sense pèrdues.</li></ul>"
-    },
-    {
-      "title": "Límits i formats compatibles",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Grandària màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profunditat de bits:</strong> 24 bits (sense alfa)</li></ul>"
-    },
-    {
-      "title": "Solució de problemes",
-      "description": "<ul><li><strong>Sortida molt gran:</strong> El BMP és sense compressió; per a una compressió sense pèrdues més petita, mantingueu el PNG.</li><li><strong>Necessiteu transparència:</strong> El BMP de 24 bits no té alfa; quedeu-vos amb el PNG.</li><li><strong>La pujada falla:</strong> Assegureu-vos que el fitxer sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir PNG a BMP en línia"
+
+      "description": "<ol><li>Feu clic a <em>Puja PNG</em> i seleccioneu el vostre fitxer.</li><li>Espereu que el processament es completi.</li><li>Feu clic a <em>Descarregar BMP</em> per desar la vostra imatge.</li></ol><p>Per defecte, es converteix a BMP de 24 bits sense compressió.</p>"
+
+    }
+    {
+      "title": "Comparació BMP vs PNG"
+
+      "description": "<ul><li><strong>Grandària del fitxer:</strong> El BMP és normalment molt més gran que el PNG.</li><li><strong>Qualitat:</strong> Ambdós són sense pèrdues (BMP sense compressió; PNG compressió sense pèrdues).</li><li><strong>Transparència:</strong> El PNG admet alfa; el BMP comú de 24 bits <em>no</em> ho fa.</li><li><strong>Compressió:</strong> BMP cap; PNG compressió sense pèrdues DEFLATE.</li><li><strong>Casos d'ús:</strong> BMP per a operacions llegades/píxel; PNG per a web i emmagatzematge eficient sense pèrdues.</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats compatibles"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Grandària màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profunditat de bits:</strong> 24 bits (sense alfa)</li></ul>"
+
+    }
+    {
+      "title": "Solució de problemes"
+
+      "description": "<ul><li><strong>Sortida molt gran:</strong> El BMP és sense compressió; per a una compressió sense pèrdues més petita, mantingueu el PNG.</li><li><strong>Necessiteu transparència:</strong> El BMP de 24 bits no té alfa; quedeu-vos amb el PNG.</li><li><strong>La pujada falla:</strong> Assegureu-vos que el fitxer sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest conversor de PNG a BMP?",
+      "question": "És gratuït aquest conversor de PNG a BMP?"
+
       "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Funcionaran els BMP en totes les aplicacions?",
-      "answer": "El BMP és àmpliament compatible amb Windows i reconegut per moltes altres plataformes. Els fluxos de treball web moderns solen preferir PNG/WebP per l'eficiència de mida."
-    },
-    {
-      "question": "Quina diferència de grandària hi ha entre els fitxers BMP i PNG?",
-      "answer": "Normalment són diverses vegades més grans (per exemple, 3–10× o més), perquè el BMP és sense compressió."
-    },
-    {
-      "question": "Quines grandàries de fitxer són compatibles?",
-      "answer": "Podeu pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "Puc convertir múltiples PNG alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repetiu el procés o utilitzeu una eina de lot."
-    },
-    {
-      "question": "Admet el BMP transparència?",
-      "answer": "El BMP estàndard de 24 bits no inclou un canal alfa. Utilitzeu PNG per a la transparència."
+
     }
-  ],
-  "note": "La sortida BMP és intencionadament gran (sense compressió). Per a la entrega web, preferiu PNG/WebP/AVIF.",
+    {
+      "question": "Funcionaran els BMP en totes les aplicacions?"
+
+      "answer": "El BMP és àmpliament compatible amb Windows i reconegut per moltes altres plataformes. Els fluxos de treball web moderns solen preferir PNG/WebP per l'eficiència de mida."
+
+    }
+    {
+      "question": "Quina diferència de grandària hi ha entre els fitxers BMP i PNG?"
+
+      "answer": "Normalment són diverses vegades més grans (per exemple, 3–10× o més), perquè el BMP és sense compressió."
+
+    }
+    {
+      "question": "Quines grandàries de fitxer són compatibles?"
+
+      "answer": "Podeu pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "Puc convertir múltiples PNG alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repetiu el procés o utilitzeu una eina de lot."
+
+    }
+    {
+      "question": "Admet el BMP transparència?"
+
+      "answer": "El BMP estàndard de 24 bits no inclou un canal alfa. Utilitzeu PNG per a la transparència."
+
+    }
+  ]
+  "note": "La sortida BMP és intencionadament gran (sense compressió). Per a la entrega web, preferiu PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Converteix BMP a PNG",
+      "title": "Converteix BMP a PNG"
+
       "url": "/ca/convert/bmp-to-png"
-    },
-    {
-      "title": "Converteix PNG a JPG",
-      "url": "/ca/convert/png-to-jpg"
-    },
-    {
-      "title": "Converteix PNG a WebP",
-      "url": "/ca/convert/png-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Converteix PNG a JPG"
+
+      "url": "/ca/convert/png-to-jpg"
+
+    }
+    {
+      "title": "Converteix PNG a WebP"
+
+      "url": "/ca/convert/png-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Conversor de PNG a BMP - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/png-to-bmp",
-      "description": "Eina en línia gratuïta per convertir imatges PNG a BMP amb dades de píxels sense compressió i sense pèrdues.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de PNG a BMP - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/png-to-bmp"
+
+      "description": "Eina en línia gratuïta per convertir imatges PNG a BMP amb dades de píxels sense compressió i sense pèrdues."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/png-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a BMP",
-          "item": "https://wikihowto.click/ca/convert/png-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a BMP"
+
+          "item": "https://miconvert.com/ca/convert/png-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Conversor de PNG a BMP",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/png-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de PNG a BMP"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/png-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Dades de píxels sense compressió",
-        "Colors precisos",
+        "Dades de píxels sense compressió"
+
+        "Colors precisos"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest conversor de PNG a BMP?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest conversor de PNG a BMP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines grandàries de fitxer són compatibles?",
+          "@type": "Question"
+
+          "name": "Quines grandàries de fitxer són compatibles?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Podeu pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Admet el BMP transparència?",
+          "@type": "Question"
+
+          "name": "Admet el BMP transparència?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "El BMP estàndard de 24 bits no inclou un canal alfa. Utilitzeu PNG per a la transparència."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir PNG a BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir PNG a BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Feu clic a Puja PNG i seleccioneu el vostre fitxer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espereu que el processament es completi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Feu clic a Descarregar BMP per desar la imatge."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espereu que el processament es completi."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Feu clic a Descarregar BMP per desar la imatge."
+
+        }
+      ]
       "tool": [
         "Conversor de PNG a BMP"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "de",
+  "lang_name": "Deutsch",
+  "title": "miconvert.com - Kostenlose Online-Dateikonverter",
+  "sub_title": "Konvertieren Sie Dateien zwischen PDF, Bildern, Audio, Video und Dokumenten mit speziellen Tools für jedes Formatpaar. Schnell, sicher und ohne Wasserzeichen.",
+  "hint": "Konverter suchen (z. B. JPG nach PNG, PDF nach JPG, MP3 nach WAV)...",
+  "btn_download": "Konverter suchen",
+  "btn_paste": "Alle durchsuchen",
+  "btn_clear": "Löschen",
+  "description": "<p><strong>Willkommen bei miconvert.com</strong> — ein spezialisierter Hub für <em>format-spezifische Dateikonverter</em>. Anstatt eines generischen Tools erstellen wir eine spezielle Seite für jedes Formatpaar (z. B. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), damit Sie immer die richtigen Optionen, die beste Qualität und einen einfachen Workflow erhalten.</p><p>Jeder Konverter hier ist auf seinen genauen Zweck abgestimmt: Bildschärfe vs. Größe, Transparenzbehandlung, druckfertige PDF-Layouts oder Audiotreue. Keine Registrierung, keine Wasserzeichen und von Grund auf privat – Uploads werden sicher verarbeitet und nach der Konvertierung automatisch gelöscht. Verwendung auf Desktop, Tablet oder Mobilgerät.</p><p>Entdecken Sie unsere <strong>PDF-Tools</strong> (PDF ↔ JPG/PNG/TIFF/WebP, Zusammenführen/Teilen), <strong>Bild-Tools</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>Audio-Tools</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>Video-Tools</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) und <strong>Dokument-Tools</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Jedes Tool ist schnell, präzise und fokussiert.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Kostenlose Online-Dateikonverter - PDF, Bild, Audio & mehr | miconvert.com",
+    "description": "Konvertieren Sie Dateien online mit kostenlosen Konvertern. Spezielle Tools für jedes Formatpaar: PDF nach JPG, PNG nach PDF, MP3 nach WAV und mehr. Schnell, sicher, keine Wasserzeichen.",
+    "keywords": "dateikonverter, pdf konverter, bildkonverter, audio konverter, video konverter, dokumentenkonverter, jpg nach png, pdf nach jpg, png nach pdf, mp3 nach wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Kostenlose Online-Dateikonverter",
+    "og_description": "Konvertieren Sie PDFs, Bilder, Audio, Video und Dokumente mit spezialisierten Konvertern für jedes Formatpaar. Kostenlos, schnell und ohne Wasserzeichen.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Was ist ein Dateikonverter?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ein Dateikonverter wandelt eine Datei von einem Format in ein anderes um (z. B. JPG nach PNG, PDF nach JPG). Gute Konverter erhalten wichtige Inhalte (Pixel, Text, Audio) und Metadaten und optimieren gleichzeitig Größe und Kompatibilität."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Bewahren Sie meine Dateien auf?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nein. Dateien werden sicher verarbeitet und nach der Konvertierung automatisch gelöscht. Wir bewahren sie nicht dauerhaft auf."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Sind Konvertierungen kostenlos und ohne Wasserzeichen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ja. Alle Tools sind zu 100 % kostenlos zu verwenden und fügen niemals Wasserzeichen hinzu."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Kostenlose Online-Dateikonverter",
+    "description": "Ein Tool pro Formatpaar. Konvertieren Sie PDFs, Bilder, Audio, Video und Dokumente online – schnell, sicher und ohne Wasserzeichen."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Was ist ein Dateikonverter?",
+      "description": "<p>Ein Dateikonverter ändert das Format einer Datei, um die <strong>Kompatibilität</strong>, <strong>Qualität</strong> oder <strong>Größe</strong> zu verbessern. Übliche Beispiele sind das Konvertieren von Bildern für das Web (<em>PNG → WebP</em>), das Vorbereiten von druckfertigen Dokumenten (<em>JPG/PNG → PDF</em>) oder das Extrahieren von Bildern aus Dokumenten (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Gute Konverter finden ein Gleichgewicht zwischen Qualität und Größe, bewahren die Transparenz, wo anwendbar (PNG/WebP), und behalten das Layout für PDFs bei (Seitengröße, Ränder, Anpassung an die Seite). Unsere Tools bieten sinnvolle Standardeinstellungen, sodass die meisten Benutzer innerhalb von Sekunden konvertieren können.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Verlustbehaftet vs. verlustfrei, Raster vs. Vektor",
+      "description": "<ul><li><strong>Verlustbehaftet vs. verlustfrei:</strong> JPG/WebP (verlustbehaftet) reduzieren die Größe, indem einige Daten verworfen werden; PNG/TIFF (verlustfrei) behalten alle Details bei. Wählen Sie verlustbehaftet für die gemeinsame Nutzung im Web, verlustfrei für die Bearbeitung/Archivierung.</li><li><strong>Raster vs. Vektor:</strong> JPG/PNG/WebP/TIFF sind Raster (Pixel). SVG/AI sind Vektor (Formen, Pfade). Raster benötigt eine ausreichende Auflösung (DPI) zum Drucken; Vektor skaliert unendlich ohne Unschärfe.</li><li><strong>Farbe & Metadaten:</strong> Konvertierungen können ICC-Profile, EXIF oder Alphakanäle beeinflussen. Unsere Bild-zu-PDF-Tools bewahren das Transparenzverhalten entsprechend und passen Bilder mit Rändern an die Seite an, um einen vorhersehbaren Druck zu gewährleisten.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Beliebte Konvertierungskategorien",
+      "description": "<ul><li><strong>PDF-Tools:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">JPGs zu PDF zusammenfügen</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">PNGs zu PDF zusammenfügen</a></li><li><strong>Bild-Tools:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Audio-Tools:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Video-Tools:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Dokument-Tools:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Funktionsweise",
+      "description": "<ol><li>Wählen Sie den Konverter für Ihr genaues Formatpaar (z. B. <em>PNG → PDF</em>).</li><li>Laden Sie eine oder mehrere Dateien hoch (Stapelverarbeitung wird bei vielen Tools unterstützt).</li><li>Klicken Sie auf Konvertieren – die Standardeinstellungen sind auf Qualität und Größe optimiert.</li><li>Laden Sie Ihr Ergebnis sofort herunter. Keine Anmeldung, keine Wasserzeichen.</li></ol><p>Tipps: Halten Sie die Bildseitenverhältnisse beim Zusammenführen zu PDF für ein einheitliches Layout konsistent. Für das Web sollten Sie WebP verwenden, um die Größe bei hervorragender Qualität zu reduzieren.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Sicherheit & Datenschutz",
+      "description": "<ul><li><strong>Verschlüsselte Übertragungen:</strong> Dateien werden über sichere Verbindungen übertragen.</li><li><strong>Automatische Löschung:</strong> Verarbeitete Dateien werden automatisch gelöscht.</li><li><strong>Keine dauerhafte Speicherung:</strong> Wir speichern Ihre Dateien nach der Verarbeitung nicht.</li><li><strong>Keine Wasserzeichen:</strong> Die Ergebnisse sind sauber und einsatzbereit.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Was ist ein Dateikonverter?",
+      "answer": "Er ändert eine Datei von einem Format in ein anderes (z. B. JPG → PNG, PDF → JPG), um die Kompatibilität, Qualität oder Größe zu verbessern."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Welche Konverter sind am beliebtesten?",
+      "answer": "PDF ↔ Bild (PDF → JPG/PNG/WebP/TIFF und JPG/PNG/WebP/TIFF → PDF) und Bild ↔ Bild (JPG ↔ PNG, PNG ↔ WebP) werden am häufigsten verwendet."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Komprimieren Sie Bilder?",
+      "answer": "Ja, verlustbehaftete Formate wie JPG/WebP reduzieren die Größe mit einstellbarer Qualität; verlustfreie Formate wie PNG/TIFF erhalten Details."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Erhalten Sie Transparenz?",
+      "answer": "PNG und WebP unterstützen Alphakanäle. Bei der Konvertierung in PDF werden die Seiten mit Rändern und Anpassung an die Seite angeordnet, um eine vorhersehbare Ausgabe zu gewährleisten."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Wird OCR unterstützt?",
+      "answer": "OCR ist nicht standardmäßig aktiviert. Verwenden Sie für die Textextraktion aus Bildern/PDFs spezielle OCR-Tools."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maximale Dateigröße?",
+      "answer": "Die meisten Konverter unterstützen bis zu 100 MB pro Konvertierung. Teilen oder komprimieren Sie größere Dateien zuerst."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Werden meine Dateien gespeichert?",
+      "answer": "Nein. Dateien werden sicher verarbeitet und nach der Konvertierung automatisch gelöscht."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Kann ich eine Stapelkonvertierung oder eine Zusammenführung durchführen?",
+      "answer": "Viele Tools unterstützen den Upload mehrerer Dateien und das Zusammenfügen (z. B. JPGs zu PDF zusammenfügen, PNGs zu PDF zusammenfügen)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Hinweis: Jeder Konverter ist für ein einzelnes Formatpaar optimiert, um beste Qualität und Geschwindigkeit zu gewährleisten. Verwenden Sie für das einheitlichste PDF-Layout konsistente Bildabmessungen und -ausrichtung.",
+  "footer": "© 2019 - 2025 miconvert.com. Alle Rechte vorbehalten."
 }

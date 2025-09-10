@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "bg",
+  "lang_name": "Български",
+  "title": "miconvert.com - Безплатни онлайн конвертори на файлове",
+  "sub_title": "Конвертирайте файлове между PDF, изображения, аудио, видео и документи с специализирани инструменти за всяка двойка формати. Бързо, сигурно и без воден знак.",
+  "hint": "Търсене на конвертори (напр. JPG към PNG, PDF към JPG, MP3 към WAV)...",
+  "btn_download": "Търсене на конвертори",
+  "btn_paste": "Преглед на всички",
+  "btn_clear": "Изчистване",
+  "description": "<p><strong>Добре дошли в miconvert.com</strong> — специализиран център от <em>конвертори на файлове, специфични за двойки</em>. Вместо един универсален инструмент, ние създаваме специална страница за всяка двойка формати (напр. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), така че винаги получавате правилните опции, най-високо качество и прост работен процес.</p><p>Всеки конвертор тук е настроен за своята точна цел: яснота на изображението спрямо размера, обработка на прозрачността, оформление на PDF за печат или качество на звука. Няма регистрация, няма воден знак и поверителност по дизайн — качванията се обработват сигурно и се изтриват автоматично след конвертиране. Използвайте на настолен компютър, таблет или мобилен телефон.</p><p>Разгледайте нашите **инструменти за PDF** (PDF ↔ JPG/PNG/TIFF/WebP, обединяване/разделяне), **инструменти за изображения** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **инструменти за аудио** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **инструменти за видео** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) и **инструменти за документи** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Всеки инструмент е бърз, прецизен и фокусиран.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Безплатни онлайн конвертори на файлове - PDF, изображения, аудио и др. | miconvert.com",
+    "description": "Конвертирайте файлове онлайн с безплатни конвертори. Специализирани инструменти за всяка двойка формати: PDF към JPG, PNG към PDF, MP3 към WAV и др. Бързо, сигурно, без воден знак.",
+    "keywords": "конвертор на файлове, pdf конвертор, конвертор на изображения, аудио конвертор, видео конвертор, конвертор на документи, jpg към png, pdf към jpg, png към pdf, mp3 към wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Безплатни онлайн конвертори на файлове",
+    "og_description": "Конвертирайте PDF файлове, изображения, аудио, видео и документи със специализирани конвертори за всяка двойка формати. Безплатно, бързо и без воден знак.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Какво е конвертор на файлове?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Конверторът на файлове преобразува файл от един формат в друг (напр. JPG към PNG, PDF към JPG). Добрите конвертори запазват основното съдържание (пиксели, текст, аудио) и метаданни, като същевременно оптимизират размера и съвместимостта."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Запазвате ли моите файлове?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Не. Файловете се обработват сигурно и се изтриват автоматично след конвертиране. Не ги съхраняваме постоянно."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Безплатни ли са конвертациите и без воден знак?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. Всички инструменти са 100% безплатни за ползване и никога не добавят воден знак."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Безплатни онлайн конвертори на файлове",
+    "description": "По един инструмент за всяка двойка формати. Конвертирайте PDF файлове, изображения, аудио, видео и документи онлайн — бързо, сигурно и без воден знак."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Какво е конвертор на файлове?",
+      "description": "<p>Конверторът на файлове променя формата на файла, за да подобри <strong>съвместимостта</strong>, <strong>качеството</strong> или <strong>размера</strong>. Често срещани примери са конвертирането на изображения за уеб (<em>PNG → WebP</em>), подготовката на документи за печат (<em>JPG/PNG → PDF</em>) или извличането на визуализации от документи (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Добрите конвертори балансират качеството и размера, запазват прозрачността, когато е приложимо (PNG/WebP), и запазват оформлението за PDF файлове (размер на страницата, полета, мащабиране). Нашите инструменти показват разумни настройки по подразбиране, така че повечето потребители могат да конвертират за секунди.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Загуба на данни vs. Без загуба на данни, Растерно vs. Векторно",
+      "description": "<ul><li><strong>Загуба на данни vs. Без загуба на данни:</strong> JPG/WebP (загуба на данни) намаляват размера, като изхвърлят някои данни; PNG/TIFF (без загуба на данни) запазват пълния детайл. Изберете загуба на данни за споделяне в уеб, без загуба на данни за редактиране/архивиране.</li><li><strong>Растерно vs. Векторно:</strong> JPG/PNG/WebP/TIFF са растерни (пиксели). SVG/AI са векторни (форми, пътеки). Растерните изображения се нуждаят от адекватно разрешение (DPI) за печат; векторните се мащабират безкрайно без замъгляване.</li><li><strong>Цвят и метаданни:</strong> Конвертирането може да повлияе на ICC профилите, EXIF или алфа каналите. Нашите инструменти за конвертиране на изображения в PDF запазват поведението на прозрачността по подходящ начин и подравняват изображенията на страницата с полета за предсказуем печат.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Популярни категории за конвертиране",
+      "description": "<ul><li><strong>Инструменти за PDF:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Обединяване JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Комбиниране PNG → PDF</a></li><li><strong>Инструменти за изображения:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Инструменти за аудио:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Инструменти за видео:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Инструменти за документи:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Как работи",
+      "description": "<ol><li>Изберете конвертора за вашата точна двойка формати (напр. <em>PNG → PDF</em>).</li><li>Качете един или няколко файла (поддържа се пакетно качване на много инструменти).</li><li>Кликнете върху конвертиране — настройките по подразбиране са оптимизирани за качество и размер.</li><li>Изтеглете резултата си мигновено. Няма регистрация, няма воден знак.</li></ol><p>Съвети: Поддържайте съответствие на съотношението на страните на изображението, когато обединявате в PDF, за еднородно оформление. За уеб, обмислете WebP, за да намалите размера с отлично качество.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Сигурност и поверителност",
+      "description": "<ul><li><strong>Криптирани трансфери:</strong> Файловете се движат през защитени връзки.</li><li><strong>Автоматично изтриване:</strong> Обработените файлове се изтриват автоматично.</li><li><strong>Без постоянно съхранение:</strong> Не съхраняваме вашите файлове след обработка.</li><li><strong>Без воден знак:</strong> Резултатите са чисти и готови за употреба.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Какво е конвертор на файлове?",
+      "answer": "Променя файла от един формат в друг (напр. JPG → PNG, PDF → JPG), за да подобри съвместимостта, качеството или размера."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Кои конвертори са най-популярни?",
+      "answer": "PDF ↔ Изображение (PDF → JPG/PNG/WebP/TIFF и JPG/PNG/WebP/TIFF → PDF) и Изображение ↔ Изображение (JPG ↔ PNG, PNG ↔ WebP) са най-използваните."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Компресирате ли изображения?",
+      "answer": "Да, форматите с загуба на данни като JPG/WebP намаляват размера с регулируемо качество; форматите без загуба на данни като PNG/TIFF запазват детайлите."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Запазвате ли прозрачността?",
+      "answer": "PNG и WebP поддържат алфа канали. При конвертиране в PDF, страниците се подреждат с полета и поведение „подравняване със страницата“ за предсказуем резултат."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Поддържа ли се OCR?",
+      "answer": "OCR не е активирано по подразбиране. За извличане на текст от изображения/PDF файлове използвайте специални OCR инструменти."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Максимален размер на файла?",
+      "answer": "Повечето конвертори поддържат до 100 MB на конвертиране. За по-големи файлове, първо ги разделете или компресирайте."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Съхраняват ли се моите файлове?",
+      "answer": "Не. Файловете се обработват сигурно и се изтриват автоматично след конвертиране."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Мога ли да конвертирам пакетно или да обединявам?",
+      "answer": "Много инструменти поддържат качване на няколко файла и обединяване (напр. Обединяване JPG → PDF, Комбиниране PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Забележка: Всеки конвертор е оптимизиран за една двойка формати, осигурявайки най-високо качество и скорост. За най-еднородно оформление на PDF, използвайте съвместими размери и ориентация на изображението.",
+  "footer": "© 2019 - 2025 miconvert.com. Всички права запазени."
 }

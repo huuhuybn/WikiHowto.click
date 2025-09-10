@@ -1,72 +1,103 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "PNG to PDF Converter - Free Online Tool | WikiHowTo.click",
-  "sub_title": "Convert PNG images to polished PDF documents online—high quality, clean layout, no watermarks.",
-  "hint": "Upload your PNG images (single or multiple) to start converting...",
-  "btn_download": "Convert to PDF",
-  "btn_paste": "Upload PNGs",
-  "btn_clear": "Clear",
+  "lang": "en"
+
+  "lang_name": "English"
+
+  "title": "PNG to PDF Converter - Free Online Tool | miconvert.com"
+
+  "sub_title": "Convert PNG images to polished PDF documents online—high quality, clean layout, no watermarks."
+
+  "hint": "Upload your PNG images (single or multiple) to start converting..."
+
+  "btn_download": "Convert to PDF"
+
+  "btn_paste": "Upload PNGs"
+
+  "btn_clear": "Clear"
+
   "converter": {
-    "type": "image-to-pdf",
-    "inputFormat": "PNG",
-    "outputFormat": "PDF",
-    "apiEndpoint": "/image-converter/convert-multi",
-    "allowedTypes": ["image/png"],
-    "maxFileSize": 104857600,
-    "outputMimeType": "application/pdf",
-    "outputExtension": ".pdf",
-    "quality": 90,
+    "type": "image-to-pdf"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "PDF"
+
+    "apiEndpoint": "/image-converter/convert-multi"
+
+    "allowedTypes": ["image/png"]
+    "maxFileSize": 104857600
+    "outputMimeType": "application/pdf"
+
+    "outputExtension": ".pdf"
+
+    "quality": 90
     "options": {
       "pdf": {
-        "merge": true,
-        "order": "upload",
-        "pageSize": "A4",
-        "margin": 20,
+        "merge": true
+        "order": "upload"
+
+        "pageSize": "A4"
+
+        "margin": 20
         "fitToPage": true
       }
     }
-  },
-  "description": "<p>Convert <strong>PNG to PDF</strong> in seconds. Upload one or multiple PNG images and get a professional, print-ready PDF with clean margins and consistent layout—perfect for portfolios, reports, invoices, and scanned pages.</p><p>No signup, no watermarks. Secure processing with automatic file deletion after conversion.</p>",
+  }
+  "description": "<p>Convert <strong>PNG to PDF</strong> in seconds. Upload one or multiple PNG images and get a professional, print-ready PDF with clean margins and consistent layout—perfect for portfolios, reports, invoices, and scanned pages.</p><p>No signup, no watermarks. Secure processing with automatic file deletion after conversion.</p>"
+
   "head": {
-    "title": "Convert PNG to PDF Online - Free PNG to PDF Converter | WikiHowTo.click",
-    "description": "Free PNG to PDF converter. Merge multiple PNG images into a single, high-quality PDF online. Fast, secure, and watermark-free.",
-    "keywords": "png to pdf, convert png to pdf, merge png to pdf, image to pdf, photo to pdf online",
-    "canonical": "https://wikihowto.click/en/convert/png-to-pdf",
-    "og_title": "PNG to PDF Converter - Free & Online",
-    "og_description": "Create high-quality PDFs from PNG images. Merge multiple PNGs into one PDF—fast, free, and secure.",
-    "og_url": "https://wikihowto.click/en/convert/png-to-pdf",
-    "og_image": "https://wikihowto.click/images/png-to-pdf.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Free PNG to PDF Converter Online",
-    "twitter_description": "Convert and merge PNG images into a single PDF with professional layout.",
-    "twitter_image": "https://wikihowto.click/images/png-to-pdf.jpg"
-  },
+    "title": "Convert PNG to PDF Online - Free PNG to PDF Converter | miconvert.com"
+
+    "description": "Free PNG to PDF converter. Merge multiple PNG images into a single, high-quality PDF online. Fast, secure, and watermark-free."
+
+    "keywords": "png to pdf, convert png to pdf, merge png to pdf, image to pdf, photo to pdf online"
+
+    "canonical": "https://miconvert.com/en/convert/png-to-pdf"
+
+    "og_title": "PNG to PDF Converter - Free & Online"
+
+    "og_description": "Create high-quality PDFs from PNG images. Merge multiple PNGs into one PDF—fast, free, and secure."
+
+    "og_url": "https://miconvert.com/en/convert/png-to-pdf"
+
+    "og_image": "https://miconvert.com/images/png-to-pdf.jpg"
+
+  }
   "h1": {
-    "title": "Convert PNG to PDF Online",
+    "title": "Convert PNG to PDF Online"
+
     "description": "Free and fast PNG to PDF converter with high quality and clean layout. Supports multiple images and preserves upload order."
-  },
+
+  }
   "h2": [
     {
-      "title": "Why Convert PNG to PDF?",
+      "title": "Why Convert PNG to PDF?"
+
       "description": "<ul><li><strong>Professional Layout:</strong> Ideal for documents and reports.</li><li><strong>Universal Compatibility:</strong> PDFs look identical on all devices.</li><li><strong>Print-Ready:</strong> Proper margins and automatic scaling.</li><li><strong>One File to Share:</strong> Merge multiple PNGs into a single PDF.</li></ul>"
-    },
-    {
-      "title": "How to Convert PNG to PDF Online",
-      "description": "<ol><li>Click <em>Upload PNGs</em> and choose one or more images.</li><li>Arrange them in your desired order.</li><li>Click <em>Convert to PDF</em> to download your document.</li></ol><p>Images are fit to page with clean margins for a polished result.</p>"
-    },
-    {
-      "title": "Features of Our PNG to PDF Converter",
-      "description": "<ul><li>100% Free, no watermarks</li><li>Batch upload & merge support</li><li>High-quality, print-ready output</li><li>Encrypted upload & auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+
     }
-  ],
+    {
+      "title": "How to Convert PNG to PDF Online"
+
+      "description": "<ol><li>Click <em>Upload PNGs</em> and choose one or more images.</li><li>Arrange them in your desired order.</li><li>Click <em>Convert to PDF</em> to download your document.</li></ol><p>Images are fit to page with clean margins for a polished result.</p>"
+
+    }
+    {
+      "title": "Features of Our PNG to PDF Converter"
+
+      "description": "<ul><li>100% Free, no watermarks</li><li>Batch upload & merge support</li><li>High-quality, print-ready output</li><li>Encrypted upload & auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+
+    }
+  ]
   "faq": [
-    { "question": "Is this PNG to PDF converter free?", "answer": "Yes, completely free with no watermarks or hidden fees." },
-    { "question": "Can I upload multiple PNGs?", "answer": "Yes. Upload multiple images and they will be merged into one PDF (upload order preserved)." },
-    { "question": "What file size is supported?", "answer": "Up to 100MB per conversion." },
-    { "question": "Will my PDF be print-ready?", "answer": "Yes. We apply margins and fit-to-page for consistent printing." },
+    { "question": "Is this PNG to PDF converter free?", "answer": "Yes, completely free with no watermarks or hidden fees." }
+    { "question": "Can I upload multiple PNGs?", "answer": "Yes. Upload multiple images and they will be merged into one PDF (upload order preserved)." }
+    { "question": "What file size is supported?", "answer": "Up to 100MB per conversion." }
+    { "question": "Will my PDF be print-ready?", "answer": "Yes. We apply margins and fit-to-page for consistent printing." }
     { "question": "Are my files safe?", "answer": "All files are encrypted during transfer, processed securely, and auto-deleted after conversion." }
-  ],
-  "note": "Note: Very large images or many pages may take longer to process. Keep aspect ratios consistent for the most uniform PDF layout.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  ]
+  "note": "Note: Very large images or many pages may take longer to process. Keep aspect ratios consistent for the most uniform PDF layout."
+
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
+
 }

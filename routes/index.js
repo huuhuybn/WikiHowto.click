@@ -143,17 +143,8 @@ router.post('/', async (req, res) => {
             return res.status(400).json({error: 'Missing video URL!'});
         }
 
-        // Chỉ hỗ trợ Twitter
-        const platform = 'twitter';
-
-        // Kiểm tra xem URL có phải là Twitter không
-        if (!/twitter\.com|x\.com/i.test(url)) {
-            logger.logUserRequest(req, 'error', {error: 'Only Twitter/X URLs are supported.', url});
-            return res.status(400).json({error: 'Only Twitter/X URLs are supported.'});
-        }
-
-        // Tạm thời return error
-        return res.status(501).json({error: 'Twitter module not implemented yet'});
+        // Twitter support removed
+        return res.status(501).json({error: 'Video downloader not available'});
     } catch (error) {
         console.error('Route handler error:', error);
 

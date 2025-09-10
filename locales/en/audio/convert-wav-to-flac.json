@@ -5,86 +5,96 @@
   "og_title": "Convert WAV to FLAC - Free Online Converter",
   "og_description": "Convert WAV files to FLAC format online for free.",
   "og_image": "/images/audio-converter.jpg",
-  "twitter_title": "Convert WAV to FLAC - Free Online Converter",
-  "twitter_description": "Convert WAV files to FLAC format online for free.",
   "canonical_url": "/en/audio/convert-wav-to-flac",
   "schema": {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "Convert WAV to FLAC",
-    "description": "Convert WAV files to FLAC format online for free.",
-    "image": "/images/audio-converter.jpg",
-    "totalTime": "PT2M",
-    "estimatedCost": {
+  "@type": "HowTo",
+  "name": "Convert WAV to FLAC",
+  "description": "Convert WAV files to FLAC format online for free.",
+  "image": "/images/audio-converter.jpg",
+  "totalTime": "PT2M",
+  "estimatedCost": {
       "@type": "MonetaryAmount",
-      "currency": "USD",
-      "value": "0"
+  "currency": "USD",
+  "value": "0"
+
     },
-    "step": [
+  "step": [
       {
         "@type": "HowToStep",
-        "name": "Upload WAV file",
-        "text": "Click the upload area or drag and drop your WAV file",
-        "image": "/images/upload-step.jpg"
+  "name": "Upload WAV file",
+  "text": "Click the upload area or drag and drop your WAV file",
+  "image": "/images/upload-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Convert to FLAC",
-        "text": "Click the convert button to start the conversion process",
-        "image": "/images/convert-step.jpg"
+  "name": "Convert to FLAC",
+  "text": "Click the convert button to start the conversion process",
+  "image": "/images/convert-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Download FLAC file",
-        "text": "Download your converted FLAC file when ready",
-        "image": "/images/download-step.jpg"
+  "name": "Download FLAC file",
+  "text": "Download your converted FLAC file when ready",
+  "image": "/images/download-step.jpg"
+
       }
-    ]
+  ]
   },
   "breadcrumb": [
     {
       "name": "Home",
-      "url": "/en/"
+  "url": "/en/"
+
     },
-    {
+  {
       "name": "Audio Converter",
-      "url": "/en/audio/converter"
+  "url": "/en/audio/converter"
+
     },
-    {
+  {
       "name": "WAV to FLAC",
-      "url": "/en/audio/convert-wav-to-flac"
+  "url": "/en/audio/convert-wav-to-flac"
+
     }
   ],
   "converter": {
     "title": "Convert WAV to FLAC",
-    "subtitle": "Convert WAV files to FLAC format",
-    "description": "Upload your WAV file and convert it to FLAC format quickly and securely.",
-    "supported_formats": {
+  "subtitle": "Convert WAV files to FLAC format",
+  "description": "Upload your WAV file and convert it to FLAC format quickly and securely.",
+  "supported_formats": {
       "input": [
         "wav"
+
       ],
-      "output": [
+  "output": [
         "flac"
+
       ]
     },
-    "features": [
+  "features": [
       "Free online conversion",
-      "No registration required",
-      "Secure file processing",
-      "Fast conversion speed",
-      "Works on all devices"
+  "No registration required",
+  "Secure file processing",
+  "Fast conversion speed",
+  "Works on all devices"
+
     ],
-    "instructions": [
+  "instructions": [
       "Click the upload area or drag and drop your WAV file",
-      "Wait for the file to upload and process",
-      "Click 'Convert to FLAC' to start conversion",
-      "Download your FLAC file when ready"
+  "Wait for the file to upload and process",
+  "Click 'Convert to FLAC' to start conversion",
+  "Download your FLAC file when ready"
+
     ],
-    "tips": [
+  "tips": [
       "Maximum file size: 100MB",
-      "Supported WAV formats",
-      "High quality FLAC output",
-      "Fast and secure conversion"
+  "Supported WAV formats",
+  "High quality FLAC output",
+  "Fast and secure conversion"
+
     ]
   }
 }

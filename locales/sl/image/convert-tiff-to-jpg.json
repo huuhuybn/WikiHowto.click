@@ -1,234 +1,350 @@
 {
-  "lang": "sl",
-  "lang_name": "Slovenščina",
-  "title": "Pretvornik TIFF v JPG - Brezplačno in Spletno | WikiHowTo.click",
-  "sub_title": "Pretvorite TIFF slike v JPG format spletno z visoko kakovostjo, manjšimi velikostmi datotek in brez vodnih žigov.",
-  "hint": "Naložite svojo TIFF sliko, da začnete s pretvorbo...",
-  "btn_download": "Pretvori v JPG",
-  "btn_paste": "Naloži TIFF",
-  "btn_clear": "Počisti",
-  "ogImage": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+  "lang": "sl"
+
+  "lang_name": "Slovenščina"
+
+  "title": "Pretvornik TIFF v JPG - Brezplačno in Spletno | miconvert.com"
+
+  "sub_title": "Pretvorite TIFF slike v JPG format spletno z visoko kakovostjo, manjšimi velikostmi datotek in brez vodnih žigov."
+
+  "hint": "Naložite svojo TIFF sliko, da začnete s pretvorbo..."
+
+  "btn_download": "Pretvori v JPG"
+
+  "btn_paste": "Naloži TIFF"
+
+  "btn_clear": "Počisti"
+
+  "ogImage": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
   "converter": {
-    "type": "tiff-to-jpg",
-    "inputFormat": "TIFF",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "tiff-to-jpg"
+
+    "inputFormat": "TIFF"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/tiff"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Pretvorite svoj <strong>TIFF v JPG</strong> za lažje deljenje in manjše datoteke. Ta brezplačni spletni pretvornik spremeni profesionalne TIFF slike v univerzalno podprte JPEG slike, pri čemer ohrani močno vizualno kakovost. Večstranske TIFF datoteke so zravnane in le <em>prva stran</em> je pretvorjena. Če vaš TIFF vsebuje prosojnost, bo JPG te površine prikazal na trdni podlagi (bela privzeto).</p>",
+  }
+  "description": "<p>Pretvorite svoj <strong>TIFF v JPG</strong> za lažje deljenje in manjše datoteke. Ta brezplačni spletni pretvornik spremeni profesionalne TIFF slike v univerzalno podprte JPEG slike, pri čemer ohrani močno vizualno kakovost. Večstranske TIFF datoteke so zravnane in le <em>prva stran</em> je pretvorjena. Če vaš TIFF vsebuje prosojnost, bo JPG te površine prikazal na trdni podlagi (bela privzeto).</p>"
+
   "head": {
-    "title": "Pretvorite TIFF v JPG Spletno - Brezplačni TIFF v JPG Pretvornik | WikiHowTo.click",
-    "description": "Pretvorite TIFF v JPG spletno z visoko kakovostjo, manjšimi velikostmi datotek in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo TIFF v JPG.",
-    "keywords": "tiff v jpg, pretvori tiff v jpg, brezplačen tiff v jpg, spletni tiff pretvornik, tiff v jpeg",
-    "canonical": "https://wikihowto.click/sl/convert/tiff-to-jpg",
-    "og_title": "Pretvornik TIFF v JPG - Brezplačno in Spletno",
-    "og_description": "Pretvorite TIFF slike v JPG format z visoko kakovostjo in manjšimi velikostmi datotek. 100% brezplačno, hitro in varno.",
-    "og_url": "https://wikihowto.click/sl/convert/tiff-to-jpg",
-    "og_image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Brezplačni TIFF v JPG Pretvornik Spletno",
-    "twitter_description": "Pretvorite TIFF v JPG z visoko kakovostjo, manjšimi velikostmi datotek in brez vodnih žigov. Deluje na vseh napravah.",
-    "twitter_image": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-  },
+    "title": "Pretvorite TIFF v JPG Spletno - Brezplačni TIFF v JPG Pretvornik | miconvert.com"
+
+    "description": "Pretvorite TIFF v JPG spletno z visoko kakovostjo, manjšimi velikostmi datotek in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo TIFF v JPG."
+
+    "keywords": "tiff v jpg, pretvori tiff v jpg, brezplačen tiff v jpg, spletni tiff pretvornik, tiff v jpeg"
+
+    "canonical": "https://miconvert.com/sl/convert/tiff-to-jpg"
+
+    "og_title": "Pretvornik TIFF v JPG - Brezplačno in Spletno"
+
+    "og_description": "Pretvorite TIFF slike v JPG format z visoko kakovostjo in manjšimi velikostmi datotek. 100% brezplačno, hitro in varno."
+
+    "og_url": "https://miconvert.com/sl/convert/tiff-to-jpg"
+
+    "og_image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Pretvorite TIFF v JPG Spletno",
+    "title": "Pretvorite TIFF v JPG Spletno"
+
     "description": "Brezplačni in hitri TIFF v JPG pretvornik z visoko kakovostjo in manjšimi velikostmi datotek. Deluje takoj na kateri koli napravi — brez registracije."
-  },
+
+  }
   "h2": [
     {
-      "title": "Zakaj pretvoriti TIFF v JPG?",
+      "title": "Zakaj pretvoriti TIFF v JPG?"
+
       "description": "<p>TIFF je idealen za urejanje in tiskanje, vendar je težak in manj združljiv. JPG doseže praktično ravnotežje:</p><ul><li><strong>Veliko manjše datoteke:</strong> Pogosto <em>70–90%</em> manjše od TIFF, odvisno od vsebine.</li><li><strong>Univerzalna združljivost:</strong> JPG deluje na skoraj vseh napravah in aplikacijah.</li><li><strong>Enostavno deljenje:</strong> Popolno za e-pošto, sporočila in splet.</li><li><strong>Prihranki pri shranjevanju:</strong> Zmanjšajte prostor brez večjih vizualnih izgub.</li></ul>"
-    },
-    {
-      "title": "Kako pretvoriti TIFF v JPG Spletno",
-      "description": "<ol><li>Kliknite <em>Naloži TIFF</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi JPG</em>, da shranite svojo sliko.</li></ol><p>Uporabljamo progresivni JPEG (mozjpeg) za odlično ravnotežje med velikostjo in kakovostjo.</p>"
-    },
-    {
-      "title": "Primerjava TIFF in JPG",
-      "description": "<ul><li><strong>Stiskanje:</strong> TIFF je lahko brez izgub; JPG je z izgubo za manjše datoteke.</li><li><strong>Prosojnost:</strong> TIFF lahko vključuje alfa; JPG je nima (prosojni piksli postanejo trdni).</li><li><strong>Barva:</strong> TIFF je lahko CMYK/AdobeRGB; izhod JPG je standardiziran na sRGB za splet.</li><li><strong>Uporaba:</strong> Ohranite TIFF za urejanje/tiskovne predloge; uporabite JPG za dostavo in deljenje.</li></ul>"
-    },
-    {
-      "title": "Podprti omejitve in formati",
-      "description": "<ul><li><strong>Sprejeti vhod:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Največja velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Strani:</strong> Večstranske TIFF datoteke: le <em>prva stran</em> je pretvorjena</li></ul>"
-    },
-    {
-      "title": "Odpravljanje težav",
-      "description": "<ul><li><strong>Barve izgledajo drugače:</strong> Pretvorimo v sRGB za doslednost na spletu. Pred nalaganjem mehko preverite v sRGB, če je mogoče.</li><li><strong>Prosojnost izgubljena:</strong> JPG ne podpira alfe; uporabite <a href='/sl/convert/tiff-to-png'>TIFF → PNG</a>, če potrebujete prosojnost.</li><li><strong>Datoteka še vedno velika:</strong> Zmanjšajte ločljivost ali znižajte kakovost na 80–85%.</li><li><strong>Nalaganje ne uspe:</strong> Preverite, ali je TIFF in ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kako pretvoriti TIFF v JPG Spletno"
+
+      "description": "<ol><li>Kliknite <em>Naloži TIFF</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi JPG</em>, da shranite svojo sliko.</li></ol><p>Uporabljamo progresivni JPEG (mozjpeg) za odlično ravnotežje med velikostjo in kakovostjo.</p>"
+
+    }
+    {
+      "title": "Primerjava TIFF in JPG"
+
+      "description": "<ul><li><strong>Stiskanje:</strong> TIFF je lahko brez izgub; JPG je z izgubo za manjše datoteke.</li><li><strong>Prosojnost:</strong> TIFF lahko vključuje alfa; JPG je nima (prosojni piksli postanejo trdni).</li><li><strong>Barva:</strong> TIFF je lahko CMYK/AdobeRGB; izhod JPG je standardiziran na sRGB za splet.</li><li><strong>Uporaba:</strong> Ohranite TIFF za urejanje/tiskovne predloge; uporabite JPG za dostavo in deljenje.</li></ul>"
+
+    }
+    {
+      "title": "Podprti omejitve in formati"
+
+      "description": "<ul><li><strong>Sprejeti vhod:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Največja velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Strani:</strong> Večstranske TIFF datoteke: le <em>prva stran</em> je pretvorjena</li></ul>"
+
+    }
+    {
+      "title": "Odpravljanje težav"
+
+      "description": "<ul><li><strong>Barve izgledajo drugače:</strong> Pretvorimo v sRGB za doslednost na spletu. Pred nalaganjem mehko preverite v sRGB, če je mogoče.</li><li><strong>Prosojnost izgubljena:</strong> JPG ne podpira alfe; uporabite <a href='/sl/convert/tiff-to-png'>TIFF → PNG</a>, če potrebujete prosojnost.</li><li><strong>Datoteka še vedno velika:</strong> Zmanjšajte ločljivost ali znižajte kakovost na 80–85%.</li><li><strong>Nalaganje ne uspe:</strong> Preverite, ali je TIFF in ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ali je ta TIFF v JPG pretvornik brezplačen?",
+      "question": "Ali je ta TIFF v JPG pretvornik brezplačen?"
+
       "answer": "Da, je popolnoma brezplačen brez vodnih žigov ali skritih stroškov."
-    },
-    {
-      "question": "Ali bom izgubil kakovost pri pretvorbi TIFF v JPG?",
-      "answer": "JPG je z izgubo, vendar uporabljamo nastavitve visoke kakovosti (mozjpeg, progresivno), da zmanjšamo vidne izgube."
-    },
-    {
-      "question": "Ali JPG ohranja prosojnost?",
-      "answer": "Ne. JPG nima alfa kanala. Prosojne površine v izvoru bodo napolnjene s trdno podlago (bela privzeto)."
-    },
-    {
-      "question": "Ali lahko obdelate večstranske TIFF datoteke?",
-      "answer": "Da, vendar pretvorimo le prvo stran. Če je potrebno, razdelite strani pred nalaganjem."
-    },
-    {
-      "question": "Katere velikosti datotek so podprte?",
-      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
-    },
-    {
-      "question": "Ali lahko hkrati pretvorim več TIFF datotek?",
-      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek."
+
     }
-  ],
-  "note": "JPG je z izgubo in odstrani prosojnost. Ohranite svoj izvirni TIFF za urejanje ali tiskanje in izvozite JPG za deljenje.",
+    {
+      "question": "Ali bom izgubil kakovost pri pretvorbi TIFF v JPG?"
+
+      "answer": "JPG je z izgubo, vendar uporabljamo nastavitve visoke kakovosti (mozjpeg, progresivno), da zmanjšamo vidne izgube."
+
+    }
+    {
+      "question": "Ali JPG ohranja prosojnost?"
+
+      "answer": "Ne. JPG nima alfa kanala. Prosojne površine v izvoru bodo napolnjene s trdno podlago (bela privzeto)."
+
+    }
+    {
+      "question": "Ali lahko obdelate večstranske TIFF datoteke?"
+
+      "answer": "Da, vendar pretvorimo le prvo stran. Če je potrebno, razdelite strani pred nalaganjem."
+
+    }
+    {
+      "question": "Katere velikosti datotek so podprte?"
+
+      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+
+    }
+    {
+      "question": "Ali lahko hkrati pretvorim več TIFF datotek?"
+
+      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek."
+
+    }
+  ]
+  "note": "JPG je z izgubo in odstrani prosojnost. Ohranite svoj izvirni TIFF za urejanje ali tiskanje in izvozite JPG za deljenje."
+
   "related_links": [
     {
-      "title": "Pretvorite TIFF v PNG (ohrani prosojnost)",
+      "title": "Pretvorite TIFF v PNG (ohrani prosojnost)"
+
       "url": "/sl/convert/tiff-to-png"
-    },
-    {
-      "title": "Pretvorite JPG v TIFF",
-      "url": "/sl/convert/jpg-to-tiff"
-    },
-    {
-      "title": "Stisnite JPG Spletno",
-      "url": "/sl/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+    {
+      "title": "Pretvorite JPG v TIFF"
+
+      "url": "/sl/convert/jpg-to-tiff"
+
+    }
+    {
+      "title": "Stisnite JPG Spletno"
+
+      "url": "/sl/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Pretvornik TIFF v JPG - Brezplačno in Spletno",
-      "url": "https://wikihowto.click/sl/convert/tiff-to-jpg",
-      "description": "Brezplačno spletno orodje za pretvorbo TIFF slik v JPG z visoko kakovostjo in manjšimi velikostmi datotek.",
-      "inLanguage": "sl",
-      "image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik TIFF v JPG - Brezplačno in Spletno"
+
+      "url": "https://miconvert.com/sl/convert/tiff-to-jpg"
+
+      "description": "Brezplačno spletno orodje za pretvorbo TIFF slik v JPG z visoko kakovostjo in manjšimi velikostmi datotek."
+
+      "inLanguage": "sl"
+
+      "image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Pretvori",
-          "item": "https://wikihowto.click/sl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Pretvori"
+
+          "item": "https://miconvert.com/sl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "TIFF v JPG",
-          "item": "https://wikihowto.click/sl/convert/tiff-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "TIFF v JPG"
+
+          "item": "https://miconvert.com/sl/convert/tiff-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Pretvornik TIFF v JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sl/convert/tiff-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik TIFF v JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sl/convert/tiff-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Progresivni JPEG",
-        "Pretvorba visoke kakovosti",
+        "Progresivni JPEG"
+
+        "Pretvorba visoke kakovosti"
+
         "Hitro obdelovanje"
-      ],
-      "screenshot": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ali je ta TIFF v JPG pretvornik brezplačen?",
+          "@type": "Question"
+
+          "name": "Ali je ta TIFF v JPG pretvornik brezplačen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, je popolnoma brezplačen brez vodnih žigov ali skritih stroškov."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Katere velikosti datotek so podprte?",
+          "@type": "Question"
+
+          "name": "Katere velikosti datotek so podprte?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Lahko naložite slike do 16 MB na datoteko."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ali JPG ohranja prosojnost?",
+          "@type": "Question"
+
+          "name": "Ali JPG ohranja prosojnost?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ne. JPG ne podpira alfa kanala. Prosojni piksli postanejo trdni."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ali obdelujete večstranske TIFF datoteke?",
+          "@type": "Question"
+
+          "name": "Ali obdelujete večstranske TIFF datoteke?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pretvorimo le prvo stran. Predhodno razdelite strani, če je potrebno."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kako pretvoriti TIFF v JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kako pretvoriti TIFF v JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite Naloži TIFF in izberite svojo datoteko."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počakajte, da se obdelava in optimizacija končata."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite Prenesi JPG, da shranite rezultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počakajte, da se obdelava in optimizacija končata."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite Prenesi JPG, da shranite rezultat."
+
+        }
+      ]
       "tool": [
         "Pretvornik TIFF v JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

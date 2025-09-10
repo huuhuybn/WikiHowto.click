@@ -1,268 +1,402 @@
 {
-  "lang": "da",
-  "lang_name": "Dansk",
-  "title": "JPG til ICO Konverter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konverter JPG-billeder til ICO online til favikoner og Windows skrivebordsikoner. Ingen vandmærker.",
-  "hint": "Upload dit JPG-billede for at starte konverteringen...",
-  "btn_download": "Konverter til ICO",
-  "btn_paste": "Upload JPG",
-  "btn_clear": "Ryd",
-  "ogImage": "https://wikihowto.click/images/jpg-to-ico.jpg",
+  "lang": "da"
+
+  "lang_name": "Dansk"
+
+  "title": "JPG til ICO Konverter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konverter JPG-billeder til ICO online til favikoner og Windows skrivebordsikoner. Ingen vandmærker."
+
+  "hint": "Upload dit JPG-billede for at starte konverteringen..."
+
+  "btn_download": "Konverter til ICO"
+
+  "btn_paste": "Upload JPG"
+
+  "btn_clear": "Ryd"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-ico.jpg"
+
   "head": {
-    "title": "Konverter JPG til ICO - Gratis Online JPG til ICO Konverter",
-    "description": "Konverter JPG-billeder til ICO-format online til favikoner og skrivebordsikoner. Gratis, hurtigt og uden vandmærker.",
-    "keywords": "jpg til ico, konverter jpg til ico, gratis jpg til ico, online ico konverter, favicon maker",
-    "canonical": "https://wikihowto.click/da/convert/jpg-to-ico",
-    "og_title": "JPG til ICO Konverter - Gratis & Online",
-    "og_description": "Konverter JPG-billeder til ICO-format til favikoner og skrivebordsikoner. 100% gratis, hurtigt og sikkert.",
-    "og_url": "https://wikihowto.click/da/convert/jpg-to-ico",
-    "og_image": "https://wikihowto.click/images/jpg-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis JPG til ICO Konverter Online",
-    "twitter_description": "Konverter JPG til ICO til favikoner og skrivebordsikoner. Fungerer på alle enheder.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-ico.jpg"
-  },
+    "title": "Konverter JPG til ICO - Gratis Online JPG til ICO Konverter"
+
+    "description": "Konverter JPG-billeder til ICO-format online til favikoner og skrivebordsikoner. Gratis, hurtigt og uden vandmærker."
+
+    "keywords": "jpg til ico, konverter jpg til ico, gratis jpg til ico, online ico konverter, favicon maker"
+
+    "canonical": "https://miconvert.com/da/convert/jpg-to-ico"
+
+    "og_title": "JPG til ICO Konverter - Gratis & Online"
+
+    "og_description": "Konverter JPG-billeder til ICO-format til favikoner og skrivebordsikoner. 100% gratis, hurtigt og sikkert."
+
+    "og_url": "https://miconvert.com/da/convert/jpg-to-ico"
+
+    "og_image": "https://miconvert.com/images/jpg-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Konverter JPG til ICO Online",
+    "title": "Konverter JPG til ICO Online"
+
     "description": "Gratis og hurtig JPG til ICO konverter optimeret til favikoner og Windows skrivebordsikoner. Fungerer straks — ingen tilmelding kræves."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-ico",
-    "title": "JPG til ICO Konverter",
-    "description": "Konverter JPG-billeder til ICO til hjemmesider og Windows-apps.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "ICO",
+    "type": "jpg-to-ico"
+
+    "title": "JPG til ICO Konverter"
+
+    "description": "Konverter JPG-billeder til ICO til hjemmesider og Windows-apps."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "ICO"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
     "features": [
-      "Multi-størrelse ikon output",
-      "Optimeret til små størrelser",
-      "Hurtig behandling",
+      "Multi-størrelse ikon output"
+
+      "Optimeret til små størrelser"
+
+      "Hurtig behandling"
+
       "Gratis online værktøj"
-    ],
+
+    ]
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "JPG til ICO Konvertering Fuldført",
-    "back_button": "Tilbage til Konverter",
-    "convert_another": "Konverter En Anden JPG",
+    "title": "JPG til ICO Konvertering Fuldført"
+
+    "back_button": "Tilbage til Konverter"
+
+    "convert_another": "Konverter En Anden JPG"
+
     "quick_conversions": "Hurtige Konverteringer:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Hvorfor Konvertere JPG til ICO?",
+      "title": "Hvorfor Konvertere JPG til ICO?"
+
       "description": "<p>ICO er standardformatet for Windows-ikoner og favikoner:</p><ul><li><strong>Multi-størrelse container:</strong> Inkluder flere opløsninger i én fil.</li><li><strong>Favicon standard:</strong> Fungerer på tværs af de største browsere.</li><li><strong>Windows kompatibilitet:</strong> Native desktop/app ikon support.</li><li><strong>Skarp ved små størrelser:</strong> Optimeret til 16–256 px skærme.</li></ul><p><em>Bemærk:</em> JPG har ikke gennemsigtighed. For gennemsigtige ikoner, start fra PNG.</p>"
-    },
-    {
-      "title": "Hvordan Konverterer Man JPG til ICO Online",
-      "description": "<ol><li>Klik på <em>Upload JPG</em> og vælg dit billede.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download ICO</em> for at få dit ikon.</li></ol><p>Vi genererer almindelige ikonstørrelser automatisk.</p>"
-    },
-    {
-      "title": "ICO Format Specifikationer",
-      "description": "<ul><li><strong>Standard størrelser:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Farvedybde:</strong> Op til 32-bit RGBA (alpha)</li><li><strong>Gennemsigtighed:</strong> Fuldt alpha kanal understøttet</li><li><strong>Struktur:</strong> Header + flere billedeindgange</li><li><strong>Kompression:</strong> PNG-komprimerede indgange for 32-bit ikoner (Vista+)</li></ul>"
-    },
-    {
-      "title": "Understøttede Grænser & Formater",
-      "description": "<ul><li><strong>Accepteret input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maks filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Fejlfinding",
-      "description": "<ul><li><strong>Ragede kanter:</strong> Start fra en højere opløsningskilde; skarpe kanter nedskaleres bedre.</li><li><strong>Har brug for gennemsigtighed:</strong> Konverter <a href='/da/convert/png-to-ico'>PNG til ICO</a> så alpha bevares.</li><li><strong>Favicon vises ikke:</strong> Ryd cache og sørg for at <code>/favicon.ico</code> er i rodmappen og linket med <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Upload fejler:</strong> Sørg for at filen er JPG/JPEG og ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Hvad er JPG?",
-      "description": "<p>JPG (JPEG) bruger tabsgivende kompression for små filstørrelser — ideelt til fotos og webbrug, men det understøtter ikke gennemsigtighed.</p>"
-    },
-    {
-      "title": "Hvad er ICO?",
-      "description": "<p>ICO er Windows- og favicon-ikonformatet, der kan samle flere størrelser og farvedybder i en enkelt fil, der understøtter alpha gennemsigtighed.</p>"
-    },
-    {
-      "title": "Brugsområder: Hvornår Skal Man Konvertere JPG til ICO",
-      "description": "<ul><li><strong>Favicon oprettelse:</strong> Generer en enkelt <code>favicon.ico</code> med flere størrelser.</li><li><strong>Windows apps/genveje:</strong> Forvandl logoer til desktop/app ikoner.</li><li><strong>Brand konsistens:</strong> Sikre skarpe, konsistente ikoner på tværs af opløsninger.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Hvordan Konverterer Man JPG til ICO Online"
+
+      "description": "<ol><li>Klik på <em>Upload JPG</em> og vælg dit billede.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download ICO</em> for at få dit ikon.</li></ol><p>Vi genererer almindelige ikonstørrelser automatisk.</p>"
+
+    }
+    {
+      "title": "ICO Format Specifikationer"
+
+      "description": "<ul><li><strong>Standard størrelser:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Farvedybde:</strong> Op til 32-bit RGBA (alpha)</li><li><strong>Gennemsigtighed:</strong> Fuldt alpha kanal understøttet</li><li><strong>Struktur:</strong> Header + flere billedeindgange</li><li><strong>Kompression:</strong> PNG-komprimerede indgange for 32-bit ikoner (Vista+)</li></ul>"
+
+    }
+    {
+      "title": "Understøttede Grænser & Formater"
+
+      "description": "<ul><li><strong>Accepteret input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maks filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Fejlfinding"
+
+      "description": "<ul><li><strong>Ragede kanter:</strong> Start fra en højere opløsningskilde; skarpe kanter nedskaleres bedre.</li><li><strong>Har brug for gennemsigtighed:</strong> Konverter <a href='/da/convert/png-to-ico'>PNG til ICO</a> så alpha bevares.</li><li><strong>Favicon vises ikke:</strong> Ryd cache og sørg for at <code>/favicon.ico</code> er i rodmappen og linket med <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Upload fejler:</strong> Sørg for at filen er JPG/JPEG og ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Hvad er JPG?"
+
+      "description": "<p>JPG (JPEG) bruger tabsgivende kompression for små filstørrelser — ideelt til fotos og webbrug, men det understøtter ikke gennemsigtighed.</p>"
+
+    }
+    {
+      "title": "Hvad er ICO?"
+
+      "description": "<p>ICO er Windows- og favicon-ikonformatet, der kan samle flere størrelser og farvedybder i en enkelt fil, der understøtter alpha gennemsigtighed.</p>"
+
+    }
+    {
+      "title": "Brugsområder: Hvornår Skal Man Konvertere JPG til ICO"
+
+      "description": "<ul><li><strong>Favicon oprettelse:</strong> Generer en enkelt <code>favicon.ico</code> med flere størrelser.</li><li><strong>Windows apps/genveje:</strong> Forvandl logoer til desktop/app ikoner.</li><li><strong>Brand konsistens:</strong> Sikre skarpe, konsistente ikoner på tværs af opløsninger.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Er denne JPG til ICO konverter gratis?",
+      "question": "Er denne JPG til ICO konverter gratis?"
+
       "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
-    },
-    {
-      "question": "Hvilke størrelser understøttes i ICO-filer?",
-      "answer": "Almindelige størrelser inkluderer 16×16, 32×32, 48×48, 64×64, 128×128 og 256×256 pixels."
-    },
-    {
-      "question": "Kan jeg bruge ICO-filer til hjemmeside favikoner?",
-      "answer": "Ja. <code>favicon.ico</code> er bredt understøttet på tværs af de største browsere."
-    },
-    {
-      "question": "Hvilke filstørrelser understøttes?",
-      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
-    },
-    {
-      "question": "Er mine filer sikre?",
-      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
-    },
-    {
-      "question": "Vil ikon kvaliteten være god?",
-      "answer": "Vi optimerer til almindelige ikonstørrelser og bruger PNG-komprimerede indgange for skarpe resultater."
-    },
-    {
-      "question": "Kan jeg bruge dette værktøj på min telefon?",
-      "answer": "Ja. Konverteren er mobilvenlig og fungerer på iOS og Android browsere."
-    },
-    {
-      "question": "Understøtter JPG gennemsigtighed i ICO?",
-      "answer": "JPG har ingen gennemsigtighed. Hvis du har brug for gennemsigtige ikoner, konverter PNG til ICO i stedet."
+
     }
-  ],
-  "note": "For gennemsigtige ikoner, start med PNG input. Placer <code>/favicon.ico</code> i din rodmappe og referer til det med <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+    {
+      "question": "Hvilke størrelser understøttes i ICO-filer?"
+
+      "answer": "Almindelige størrelser inkluderer 16×16, 32×32, 48×48, 64×64, 128×128 og 256×256 pixels."
+
+    }
+    {
+      "question": "Kan jeg bruge ICO-filer til hjemmeside favikoner?"
+
+      "answer": "Ja. <code>favicon.ico</code> er bredt understøttet på tværs af de største browsere."
+
+    }
+    {
+      "question": "Hvilke filstørrelser understøttes?"
+
+      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
+
+    }
+    {
+      "question": "Er mine filer sikre?"
+
+      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
+
+    }
+    {
+      "question": "Vil ikon kvaliteten være god?"
+
+      "answer": "Vi optimerer til almindelige ikonstørrelser og bruger PNG-komprimerede indgange for skarpe resultater."
+
+    }
+    {
+      "question": "Kan jeg bruge dette værktøj på min telefon?"
+
+      "answer": "Ja. Konverteren er mobilvenlig og fungerer på iOS og Android browsere."
+
+    }
+    {
+      "question": "Understøtter JPG gennemsigtighed i ICO?"
+
+      "answer": "JPG har ingen gennemsigtighed. Hvis du har brug for gennemsigtige ikoner, konverter PNG til ICO i stedet."
+
+    }
+  ]
+  "note": "For gennemsigtige ikoner, start med PNG input. Placer <code>/favicon.ico</code> i din rodmappe og referer til det med <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
   "related_links": [
     {
-      "title": "Konverter PNG til ICO",
+      "title": "Konverter PNG til ICO"
+
       "url": "/da/convert/png-to-ico"
-    },
-    {
-      "title": "Konverter BMP til ICO",
-      "url": "/da/convert/bmp-to-ico"
-    },
-    {
-      "title": "Konverter SVG til ICO",
-      "url": "/da/convert/svg-to-ico"
-    },
-    {
-      "title": "Konverter ICO til PNG",
-      "url": "/da/convert/ico-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rettigheder forbeholdes.",
+    {
+      "title": "Konverter BMP til ICO"
+
+      "url": "/da/convert/bmp-to-ico"
+
+    }
+    {
+      "title": "Konverter SVG til ICO"
+
+      "url": "/da/convert/svg-to-ico"
+
+    }
+    {
+      "title": "Konverter ICO til PNG"
+
+      "url": "/da/convert/ico-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "JPG til ICO Konverter - Gratis & Online",
-      "url": "https://wikihowto.click/da/convert/jpg-to-ico",
-      "description": "Gratis online værktøj til at konvertere JPG-billeder til ICO til favikoner og Windows skrivebordsikoner.",
-      "inLanguage": "da",
-      "image": "https://wikihowto.click/images/jpg-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG til ICO Konverter - Gratis & Online"
+
+      "url": "https://miconvert.com/da/convert/jpg-to-ico"
+
+      "description": "Gratis online værktøj til at konvertere JPG-billeder til ICO til favikoner og Windows skrivebordsikoner."
+
+      "inLanguage": "da"
+
+      "image": "https://miconvert.com/images/jpg-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Hjem",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Hjem"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverter",
-          "item": "https://wikihowto.click/da/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverter"
+
+          "item": "https://miconvert.com/da/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG til ICO",
-          "item": "https://wikihowto.click/da/convert/jpg-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG til ICO"
+
+          "item": "https://miconvert.com/da/convert/jpg-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "JPG til ICO Konverter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/da/convert/jpg-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG til ICO Konverter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/da/convert/jpg-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "DKK"
-      },
+
+      }
       "featureList": [
-        "Multi-størrelse ikon sæt",
-        "PNG-komprimerede indgange",
+        "Multi-størrelse ikon sæt"
+
+        "PNG-komprimerede indgange"
+
         "Hurtig behandling"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Er denne JPG til ICO konverter gratis?",
+          "@type": "Question"
+
+          "name": "Er denne JPG til ICO konverter gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hvilke filstørrelser understøttes?",
+          "@type": "Question"
+
+          "name": "Hvilke filstørrelser understøttes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Du kan uploade billeder op til 16 MB pr. fil."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Understøtter JPG gennemsigtighed i ICO?",
+          "@type": "Question"
+
+          "name": "Understøtter JPG gennemsigtighed i ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "JPG har ingen gennemsigtighed. For gennemsigtige ikoner, konverter PNG til ICO."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Hvordan man konverterer JPG til ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Hvordan man konverterer JPG til ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik på Upload JPG og vælg dit billede."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Vent på at behandlingen er færdig."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik på Download ICO for at gemme dit ikon."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Vent på at behandlingen er færdig."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik på Download ICO for at gemme dit ikon."
+
+        }
+      ]
       "tool": [
         "JPG til ICO Konverter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,241 +1,365 @@
 {
-  "lang": "lv",
-  "lang_name": "Latviešu",
-  "title": "PNG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē | WikiHowTo.click",
-  "sub_title": "Konvertējiet PNG attēlus uz BMP tiešsaistē ar nekompresētiem, bezzaudējumu pikseļu datiem. Nav ūdenszīmju.",
-  "hint": "Augšupielādējiet savu PNG attēlu, lai sāktu konvertēšanu...",
-  "btn_download": "Konvertēt uz BMP",
-  "btn_paste": "Augšupielādēt PNG",
-  "btn_clear": "Notīrīt",
-  "ogImage": "https://wikihowto.click/images/png-to-bmp.jpg",
+  "lang": "lv"
+
+  "lang_name": "Latviešu"
+
+  "title": "PNG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
+
+  "sub_title": "Konvertējiet PNG attēlus uz BMP tiešsaistē ar nekompresētiem, bezzaudējumu pikseļu datiem. Nav ūdenszīmju."
+
+  "hint": "Augšupielādējiet savu PNG attēlu, lai sāktu konvertēšanu..."
+
+  "btn_download": "Konvertēt uz BMP"
+
+  "btn_paste": "Augšupielādēt PNG"
+
+  "btn_clear": "Notīrīt"
+
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
+
   "head": {
-    "title": "Konvertēt PNG uz BMP - Bezmaksas Tiešsaistes PNG uz BMP Konvertētājs",
-    "description": "Konvertējiet PNG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes PNG uz BMP konvertēšana ar ātru apstrādi.",
-    "keywords": "png uz bmp, konvertēt png uz bmp, bezmaksas png uz bmp, tiešsaistes bmp konvertētājs, attēlu konvertēšana",
-    "canonical": "https://wikihowto.click/lv/convert/png-to-bmp",
-    "og_title": "Konvertēt PNG uz BMP - Bezmaksas Tiešsaistes PNG uz BMP Konvertētājs",
-    "og_description": "Konvertējiet PNG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes PNG uz BMP konvertēšana ar ātru apstrādi.",
-    "og_url": "https://wikihowto.click/lv/convert/png-to-bmp",
-    "og_image": "https://wikihowto.click/images/png-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertēt PNG uz BMP - Bezmaksas Tiešsaistes PNG uz BMP Konvertētājs",
-    "twitter_description": "Konvertējiet PNG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes PNG uz BMP konvertēšana ar ātru apstrādi.",
-    "twitter_image": "https://wikihowto.click/images/png-to-bmp.jpg"
-  },
+    "title": "Konvertēt PNG uz BMP - Bezmaksas Tiešsaistes PNG uz BMP Konvertētājs"
+
+    "description": "Konvertējiet PNG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes PNG uz BMP konvertēšana ar ātru apstrādi."
+
+    "keywords": "png uz bmp, konvertēt png uz bmp, bezmaksas png uz bmp, tiešsaistes bmp konvertētājs, attēlu konvertēšana"
+
+    "canonical": "https://miconvert.com/lv/convert/png-to-bmp"
+
+    "og_title": "Konvertēt PNG uz BMP - Bezmaksas Tiešsaistes PNG uz BMP Konvertētājs"
+
+    "og_description": "Konvertējiet PNG attēlus uz BMP formātu tiešsaistē bez maksas. Augstas kvalitātes PNG uz BMP konvertēšana ar ātru apstrādi."
+
+    "og_url": "https://miconvert.com/lv/convert/png-to-bmp"
+
+    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "Konvertēt PNG uz BMP Tiešsaistē",
+    "title": "Konvertēt PNG uz BMP Tiešsaistē"
+
     "description": "Bezmaksas PNG uz BMP konvertētājs ar nekompresētiem, bezzaudējumu pikseļu datiem. Darbojas jebkurā ierīcē — nav nepieciešama reģistrācija."
-  },
+
+  }
   "converter": {
-    "type": "png-to-bmp",
-    "title": "PNG uz BMP Konvertētājs",
-    "description": "Konvertējiet PNG attēlus uz BMP ar ātru apstrādi un precīzām krāsām.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "BMP",
+    "type": "png-to-bmp"
+
+    "title": "PNG uz BMP Konvertētājs"
+
+    "description": "Konvertējiet PNG attēlus uz BMP ar ātru apstrādi un precīzām krāsām."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "Nekompresēti (bezzaudējumu) pikseļu dati",
-      "Augsta saderība ar Windows",
-      "Ātra apstrāde",
+      "Nekompresēti (bezzaudējumu) pikseļu dati"
+
+      "Augsta saderība ar Windows"
+
+      "Ātra apstrāde"
+
       "Bezmaksas tiešsaistes rīks"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG uz BMP Konvertēšana Pabeigta",
-    "back_button": "Atpakaļ uz Konvertētāju",
-    "convert_another": "Konvertēt Vēl Vienu PNG",
+    "title": "PNG uz BMP Konvertēšana Pabeigta"
+
+    "back_button": "Atpakaļ uz Konvertētāju"
+
+    "convert_another": "Konvertēt Vēl Vienu PNG"
+
     "quick_conversions": "Ātrās Konvertēšanas:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Kāpēc Konvertēt PNG uz BMP?",
+      "title": "Kāpēc Konvertēt PNG uz BMP?"
+
       "description": "<p>BMP ir vienkāršs rastra formāts, kas glabā pikseļus bez kompresijas — noderīgs noteiktos darba procesos:</p><ul><li><strong>Nav jaunu artefaktu:</strong> Saglabājiet pikseļus neskartus zemas līmeņa rediģēšanai.</li><li><strong>Vienkārša struktūra:</strong> Viegli programmām lasīt un manipulēt.</li><li><strong>Mantojuma/iebūvētas lietotnes:</strong> Daži Windows rīki dod priekšroku BMP.</li></ul>"
-    },
-    {
-      "title": "Kā Konvertēt PNG uz BMP Tiešsaistē",
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt PNG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt BMP</em>, lai saglabātu savu attēlu.</li></ol><p>Noklusējuma iestatījums ir 24 bitu BMP bez kompresijas.</p>"
-    },
-    {
-      "title": "BMP pret PNG Salīdzinājums",
-      "description": "<ul><li><strong>Faila izmērs:</strong> BMP parasti ir daudz lielāks nekā PNG.</li><li><strong>Kvalitāte:</strong> Abi ir bezzaudējumu (BMP nekompresēts; PNG bezzaudējumu kompresēts).</li><li><strong>Caurskatāmība:</strong> PNG atbalsta alfa; parastais 24 bitu BMP <em>ne</em> atbalsta.</li><li><strong>Kompresija:</strong> BMP nav; PNG bezzaudējumu DEFLATE.</li><li><strong>Izmantošanas gadījumi:</strong> BMP mantojumam/pikseļu operācijām; PNG tīmeklim un efektīvai bezzaudējumu glabāšanai.</li></ul>"
-    },
-    {
-      "title": "Atbalstītie Ierobežojumi un Formāti",
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitu dziļums:</strong> 24 bitu (nav alfa)</li></ul>"
-    },
-    {
-      "title": "Problēmu Novēršana",
-      "description": "<ul><li><strong>Ļoti liela izvade:</strong> BMP ir nekompresēts; mazākiem bezzaudējumu failiem saglabājiet PNG.</li><li><strong>Nepieciešama caurskatāmība:</strong> BMP 24 bitu nav alfa; palieciet pie PNG.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir PNG un ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kā Konvertēt PNG uz BMP Tiešsaistē"
+
+      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt PNG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt BMP</em>, lai saglabātu savu attēlu.</li></ol><p>Noklusējuma iestatījums ir 24 bitu BMP bez kompresijas.</p>"
+
+    }
+    {
+      "title": "BMP pret PNG Salīdzinājums"
+
+      "description": "<ul><li><strong>Faila izmērs:</strong> BMP parasti ir daudz lielāks nekā PNG.</li><li><strong>Kvalitāte:</strong> Abi ir bezzaudējumu (BMP nekompresēts; PNG bezzaudējumu kompresēts).</li><li><strong>Caurskatāmība:</strong> PNG atbalsta alfa; parastais 24 bitu BMP <em>ne</em> atbalsta.</li><li><strong>Kompresija:</strong> BMP nav; PNG bezzaudējumu DEFLATE.</li><li><strong>Izmantošanas gadījumi:</strong> BMP mantojumam/pikseļu operācijām; PNG tīmeklim un efektīvai bezzaudējumu glabāšanai.</li></ul>"
+
+    }
+    {
+      "title": "Atbalstītie Ierobežojumi un Formāti"
+
+      "description": "<ul><li><strong>Pieņemti ievadi:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitu dziļums:</strong> 24 bitu (nav alfa)</li></ul>"
+
+    }
+    {
+      "title": "Problēmu Novēršana"
+
+      "description": "<ul><li><strong>Ļoti liela izvade:</strong> BMP ir nekompresēts; mazākiem bezzaudējumu failiem saglabājiet PNG.</li><li><strong>Nepieciešama caurskatāmība:</strong> BMP 24 bitu nav alfa; palieciet pie PNG.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir PNG un ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Vai šis PNG uz BMP konvertētājs ir bezmaksas?",
+      "question": "Vai šis PNG uz BMP konvertētājs ir bezmaksas?"
+
       "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
-    },
-    {
-      "question": "Vai BMP darbosies visās lietotnēs?",
-      "answer": "BMP ir plaši atbalstīts Windows un atpazīts daudzās citās platformās. Mūsdienu tīmekļa darba plūsmas parasti dod priekšroku PNG/WebP izmēra efektivitātei."
-    },
-    {
-      "question": "Cik daudz lielāki ir BMP faili salīdzinājumā ar PNG?",
-      "answer": "Bieži vien vairākkārt lielāki (piemēram, 3–10× vai vairāk), jo BMP ir nekompresēts."
-    },
-    {
-      "question": "Kādi faila izmēri tiek atbalstīti?",
-      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
-    },
-    {
-      "question": "Vai mani faili ir droši?",
-      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
-    },
-    {
-      "question": "Vai es varu konvertēt vairākus PNG vienlaikus?",
-      "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
-    },
-    {
-      "question": "Vai BMP atbalsta caurskatāmību?",
-      "answer": "Standarta 24 bitu BMP nesatur alfa. Izmantojiet PNG caurskatāmībai."
+
     }
-  ],
-  "note": "BMP izvade ir apzināti liela (nekompresēta). Tīmekļa piegādei dodiet priekšroku PNG/WebP/AVIF.",
+    {
+      "question": "Vai BMP darbosies visās lietotnēs?"
+
+      "answer": "BMP ir plaši atbalstīts Windows un atpazīts daudzās citās platformās. Mūsdienu tīmekļa darba plūsmas parasti dod priekšroku PNG/WebP izmēra efektivitātei."
+
+    }
+    {
+      "question": "Cik daudz lielāki ir BMP faili salīdzinājumā ar PNG?"
+
+      "answer": "Bieži vien vairākkārt lielāki (piemēram, 3–10× vai vairāk), jo BMP ir nekompresēts."
+
+    }
+    {
+      "question": "Kādi faila izmēri tiek atbalstīti?"
+
+      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
+
+    }
+    {
+      "question": "Vai mani faili ir droši?"
+
+      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
+
+    }
+    {
+      "question": "Vai es varu konvertēt vairākus PNG vienlaikus?"
+
+      "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
+
+    }
+    {
+      "question": "Vai BMP atbalsta caurskatāmību?"
+
+      "answer": "Standarta 24 bitu BMP nesatur alfa. Izmantojiet PNG caurskatāmībai."
+
+    }
+  ]
+  "note": "BMP izvade ir apzināti liela (nekompresēta). Tīmekļa piegādei dodiet priekšroku PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Konvertēt BMP uz PNG",
+      "title": "Konvertēt BMP uz PNG"
+
       "url": "/lv/convert/bmp-to-png"
-    },
-    {
-      "title": "Konvertēt PNG uz JPG",
-      "url": "/lv/convert/png-to-jpg"
-    },
-    {
-      "title": "Konvertēt PNG uz WebP",
-      "url": "/lv/convert/png-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Visas tiesības aizsargātas.",
+    {
+      "title": "Konvertēt PNG uz JPG"
+
+      "url": "/lv/convert/png-to-jpg"
+
+    }
+    {
+      "title": "Konvertēt PNG uz WebP"
+
+      "url": "/lv/convert/png-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē",
-      "url": "https://wikihowto.click/lv/convert/png-to-bmp",
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu PNG attēlus uz BMP ar nekompresētiem, bezzaudējumu pikseļu datiem.",
-      "inLanguage": "lv",
-      "image": "https://wikihowto.click/images/png-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG uz BMP Konvertētājs - Bezmaksas un Tiešsaistē"
+
+      "url": "https://miconvert.com/lv/convert/png-to-bmp"
+
+      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu PNG attēlus uz BMP ar nekompresētiem, bezzaudējumu pikseļu datiem."
+
+      "inLanguage": "lv"
+
+      "image": "https://miconvert.com/images/png-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Sākums",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Sākums"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertēt",
-          "item": "https://wikihowto.click/lv/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertēt"
+
+          "item": "https://miconvert.com/lv/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG uz BMP",
-          "item": "https://wikihowto.click/lv/convert/png-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG uz BMP"
+
+          "item": "https://miconvert.com/lv/convert/png-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG uz BMP Konvertētājs",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/lv/convert/png-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG uz BMP Konvertētājs"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/lv/convert/png-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Nekompresēti pikseļu dati",
-        "Precīzas krāsas",
+        "Nekompresēti pikseļu dati"
+
+        "Precīzas krāsas"
+
         "Ātra apstrāde"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Vai šis PNG uz BMP konvertētājs ir bezmaksas?",
+          "@type": "Question"
+
+          "name": "Vai šis PNG uz BMP konvertētājs ir bezmaksas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kādi faila izmēri tiek atbalstīti?",
+          "@type": "Question"
+
+          "name": "Kādi faila izmēri tiek atbalstīti?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vai BMP atbalsta caurskatāmību?",
+          "@type": "Question"
+
+          "name": "Vai BMP atbalsta caurskatāmību?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standarta 24 bitu BMP nesatur alfa kanālu. Izmantojiet PNG caurskatāmībai."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kā konvertēt PNG uz BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kā konvertēt PNG uz BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Noklikšķiniet uz Augšupielādēt PNG un izvēlieties savu failu."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gaidiet, līdz apstrāde ir pabeigta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Noklikšķiniet uz Lejupielādēt BMP, lai saglabātu attēlu."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Gaidiet, līdz apstrāde ir pabeigta."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Noklikšķiniet uz Lejupielādēt BMP, lai saglabātu attēlu."
+
+        }
+      ]
       "tool": [
         "PNG uz BMP Konvertētājs"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

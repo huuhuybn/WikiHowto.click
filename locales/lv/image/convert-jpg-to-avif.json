@@ -1,251 +1,378 @@
 {
-  "lang": "lv",
-  "lang_name": "Latviešu",
-  "title": "JPG uz AVIF Konvertētājs - Bezmaksas un Tiešsaistē | WikiHowTo.click",
-  "sub_title": "Konvertējiet JPG attēlus uz AVIF tiešsaistē ar izcilu kompresiju un augstu vizuālo kvalitāti. Nav ūdenszīmju.",
-  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu...",
-  "btn_download": "Konvertēt uz AVIF",
-  "btn_paste": "Augšupielādēt JPG",
-  "btn_clear": "Notīrīt",
+  "lang": "lv"
+
+  "lang_name": "Latviešu"
+
+  "title": "JPG uz AVIF Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
+
+  "sub_title": "Konvertējiet JPG attēlus uz AVIF tiešsaistē ar izcilu kompresiju un augstu vizuālo kvalitāti. Nav ūdenszīmju."
+
+  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu..."
+
+  "btn_download": "Konvertēt uz AVIF"
+
+  "btn_paste": "Augšupielādēt JPG"
+
+  "btn_clear": "Notīrīt"
+
   "head": {
-    "title": "Konvertēt JPG uz AVIF - Bezmaksas Tiešsaistes JPG uz AVIF Konvertētājs",
-    "description": "Konvertējiet JPG attēlus uz AVIF formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz AVIF konvertēšana ar izcilu kompresiju.",
-    "keywords": "jpg uz avif, konvertēt jpg uz avif, bezmaksas jpg uz avif, tiešsaistes avif konvertētājs, attēlu konvertēšana",
-    "canonical": "https://wikihowto.click/lv/convert/jpg-to-avif",
-    "og_title": "Konvertēt JPG uz AVIF - Bezmaksas Tiešsaistes JPG uz AVIF Konvertētājs",
-    "og_description": "Konvertējiet JPG attēlus uz AVIF formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz AVIF konvertēšana ar izcilu kompresiju.",
-    "og_url": "https://wikihowto.click/lv/convert/jpg-to-avif",
-    "og_image": "https://wikihowto.click/images/jpg-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Konvertēt JPG uz AVIF - Bezmaksas Tiešsaistes JPG uz AVIF Konvertētājs",
-    "twitter_description": "Konvertējiet JPG attēlus uz AVIF formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz AVIF konvertēšana ar izcilu kompresiju.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-avif.jpg"
-  },
+    "title": "Konvertēt JPG uz AVIF - Bezmaksas Tiešsaistes JPG uz AVIF Konvertētājs"
+
+    "description": "Konvertējiet JPG attēlus uz AVIF formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz AVIF konvertēšana ar izcilu kompresiju."
+
+    "keywords": "jpg uz avif, konvertēt jpg uz avif, bezmaksas jpg uz avif, tiešsaistes avif konvertētājs, attēlu konvertēšana"
+
+    "canonical": "https://miconvert.com/lv/convert/jpg-to-avif"
+
+    "og_title": "Konvertēt JPG uz AVIF - Bezmaksas Tiešsaistes JPG uz AVIF Konvertētājs"
+
+    "og_description": "Konvertējiet JPG attēlus uz AVIF formātu tiešsaistē bez maksas. Augstas kvalitātes JPG uz AVIF konvertēšana ar izcilu kompresiju."
+
+    "og_url": "https://miconvert.com/lv/convert/jpg-to-avif"
+
+    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Konvertēt JPG uz AVIF Tiešsaistē",
+    "title": "Konvertēt JPG uz AVIF Tiešsaistē"
+
     "description": "Bezmaksas JPG uz AVIF konvertētājs ar izcilu kompresiju un kvalitāti. Darbojas jebkurā ierīcē — reģistrācija nav nepieciešama."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-avif",
-    "title": "JPG uz AVIF Konvertētājs",
-    "description": "Konvertējiet JPG attēlus uz AVIF ar mūsdienīgu kompresiju un augstu uzticamību.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "AVIF",
+    "type": "jpg-to-avif"
+
+    "title": "JPG uz AVIF Konvertētājs"
+
+    "description": "Konvertējiet JPG attēlus uz AVIF ar mūsdienīgu kompresiju un augstu uzticamību."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 80,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 80
     "features": [
-      "Augstas kvalitātes AVIF izeja",
-      "Izcila kompresija",
-      "Mūsdienīgs tīmekļa formāts",
+      "Augstas kvalitātes AVIF izeja"
+
+      "Izcila kompresija"
+
+      "Mūsdienīgs tīmekļa formāts"
+
       "Bezmaksas tiešsaistes rīks"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "quality": 80,
-        "speed": 4,
-        "subsample": "4:2:0",
+        "quality": 80
+        "speed": 4
+        "subsample": "4:2:0"
+
         "lossless": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "JPG uz AVIF Konvertēšana Pabeigta",
-    "back_button": "Atpakaļ uz Konvertētāju",
-    "convert_another": "Konvertēt Vēl Vienu JPG",
+    "title": "JPG uz AVIF Konvertēšana Pabeigta"
+
+    "back_button": "Atpakaļ uz Konvertētāju"
+
+    "convert_another": "Konvertēt Vēl Vienu JPG"
+
     "quick_conversions": "Ātrās Konvertēšanas:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Kāpēc Konvertēt JPG uz AVIF?",
+      "title": "Kāpēc Konvertēt JPG uz AVIF?"
+
       "description": "<p>AVIF (AV1 Attēlu Failu Formāts) ir nākamās paaudzes formāts, kas nodrošina mazākus failus ar līdzīgu vai labāku kvalitāti nekā JPG:</p><ul><li><strong>Augstāka kompresija:</strong> Bieži 30–50% mazāki nekā JPG pie salīdzināmas kvalitātes.</li><li><strong>Augsta uzticamība:</strong> Labāka detaļu saglabāšana un mazāk artefaktu pie zemas bitrates.</li><li><strong>Mūsdienīgas funkcijas:</strong> Atbalsta caurspīdīgumu, HDR un plašu krāsu gammu.</li><li><strong>Tīmekļa veiktspēja:</strong> Mazāki attēli = ātrākas lapas un labāki Core Web Vitals.</li></ul>"
-    },
-    {
-      "title": "Kā Konvertēt JPG uz AVIF Tiešsaistē",
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt AVIF</em>, lai saglabātu optimizēto attēlu.</li></ol><p>Konvertētājs automātiski līdzsvaro kvalitāti un izmēru tipiskai tīmekļa lietošanai.</p>"
-    },
-    {
-      "title": "AVIF pret JPG: Galvenās Atšķirības",
-      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompresija</td><td>Zaudējoša (JPEG)</td><td>Uzlabota, efektīvāka (AV1)</td></tr><tr><td>Faila Izmērs</td><td>Pamats</td><td>≈30–50% mazāks pie salīdzināmas kvalitātes</td></tr><tr><td>Caurspīdīgums</td><td>Nē</td><td>Jā</td></tr><tr><td>HDR/Plata Gamma</td><td>IERobežots</td><td>Atbalstīts</td></tr><tr><td>Pārlūkprogrammu Atbalsts</td><td>Vispārējs</td><td>Mūsdienu pārlūkprogrammas (ieteicams rezerves variants)</td></tr></tbody></table>"
-    },
-    {
-      "title": "Atbalstītie Ierobežojumi un Formāti",
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodēšana:</strong> Kvalitāte ~80, ātrums 4 (līdzsvarots)</li></ul>"
-    },
-    {
-      "title": "Problēmu Novēršana",
-      "description": "<ul><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir JPG/JPEG un ≤ 16&nbsp;MB.</li><li><strong>Krāsu maiņa:</strong> Konvertējiet attēlus uz sRGB pirms augšupielādes, lai nodrošinātu konsekventu tīmekļa krāsu.</li><li><strong>Vecākas pārlūkprogrammas:</strong> Nodrošiniet JPG/WebP rezerves variantu ar <code>&lt;picture&gt;</code>, ja AVIF netiek atbalstīts.</li></ul>"
-    },
-    {
-      "title": "Izmantošanas Gadījumi: Kad Konvertēt JPG uz AVIF",
-      "description": "<ul><li><strong>Tīmekļa optimizācija:</strong> Paātriniet lapas un uzlabojiet LCP.</li><li><strong>Mobilās lietotnes:</strong> Samaziniet joslas platumu un krātuvi.</li><li><strong>Lielas foto bibliotēkas:</strong> Ietaupiet diska vietu bez acīmredzama kvalitātes zuduma.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kā Konvertēt JPG uz AVIF Tiešsaistē"
+
+      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt AVIF</em>, lai saglabātu optimizēto attēlu.</li></ol><p>Konvertētājs automātiski līdzsvaro kvalitāti un izmēru tipiskai tīmekļa lietošanai.</p>"
+
+    }
+    {
+      "title": "AVIF pret JPG: Galvenās Atšķirības"
+
+      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompresija</td><td>Zaudējoša (JPEG)</td><td>Uzlabota, efektīvāka (AV1)</td></tr><tr><td>Faila Izmērs</td><td>Pamats</td><td>≈30–50% mazāks pie salīdzināmas kvalitātes</td></tr><tr><td>Caurspīdīgums</td><td>Nē</td><td>Jā</td></tr><tr><td>HDR/Plata Gamma</td><td>IERobežots</td><td>Atbalstīts</td></tr><tr><td>Pārlūkprogrammu Atbalsts</td><td>Vispārējs</td><td>Mūsdienu pārlūkprogrammas (ieteicams rezerves variants)</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Atbalstītie Ierobežojumi un Formāti"
+
+      "description": "<ul><li><strong>Pieņemti ievadi:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodēšana:</strong> Kvalitāte ~80, ātrums 4 (līdzsvarots)</li></ul>"
+
+    }
+    {
+      "title": "Problēmu Novēršana"
+
+      "description": "<ul><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka fails ir JPG/JPEG un ≤ 16&nbsp;MB.</li><li><strong>Krāsu maiņa:</strong> Konvertējiet attēlus uz sRGB pirms augšupielādes, lai nodrošinātu konsekventu tīmekļa krāsu.</li><li><strong>Vecākas pārlūkprogrammas:</strong> Nodrošiniet JPG/WebP rezerves variantu ar <code>&lt;picture&gt;</code>, ja AVIF netiek atbalstīts.</li></ul>"
+
+    }
+    {
+      "title": "Izmantošanas Gadījumi: Kad Konvertēt JPG uz AVIF"
+
+      "description": "<ul><li><strong>Tīmekļa optimizācija:</strong> Paātriniet lapas un uzlabojiet LCP.</li><li><strong>Mobilās lietotnes:</strong> Samaziniet joslas platumu un krātuvi.</li><li><strong>Lielas foto bibliotēkas:</strong> Ietaupiet diska vietu bez acīmredzama kvalitātes zuduma.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Vai šis JPG uz AVIF konvertētājs ir bezmaksas?",
+      "question": "Vai šis JPG uz AVIF konvertētājs ir bezmaksas?"
+
       "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
-    },
-    {
-      "question": "Vai AVIF darbosies visās pārlūkprogrammās?",
-      "answer": "AVIF atbalsta mūsdienu pārlūkprogrammas (Chrome, Firefox, Safari, Edge). Vecākām pārlūkprogrammām nodrošiniet JPG/WebP rezerves variantus."
-    },
-    {
-      "question": "Cik daudz mazāki ir AVIF faili salīdzinājumā ar JPG?",
-      "answer": "Parasti 30–50% mazāki pie līdzīgas uztveres kvalitātes, lai gan rezultāti var atšķirties atkarībā no attēla."
-    },
-    {
-      "question": "Kādi faila izmēri tiek atbalstīti?",
-      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
-    },
-    {
-      "question": "Vai mani faili ir droši?",
-      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
-    },
-    {
-      "question": "Vai es varu konvertēt vairākus JPG vienlaikus?",
-      "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
-    },
-    {
-      "question": "Vai AVIF ir labāks par JPG tīmekļa vietnēm?",
-      "answer": "Jā. AVIF parasti nodrošina mazākus failus pie salīdzināmas kvalitātes, uzlabojot ielādes ātrumu un Core Web Vitals."
+
     }
-  ],
-  "note": "AVIF var netikt attēlots dažās vecākās programmatūrās. Izmantojiet <code>&lt;picture&gt;</code> elementu ar JPG/WebP rezerves variantiem maksimālai saderībai.",
+    {
+      "question": "Vai AVIF darbosies visās pārlūkprogrammās?"
+
+      "answer": "AVIF atbalsta mūsdienu pārlūkprogrammas (Chrome, Firefox, Safari, Edge). Vecākām pārlūkprogrammām nodrošiniet JPG/WebP rezerves variantus."
+
+    }
+    {
+      "question": "Cik daudz mazāki ir AVIF faili salīdzinājumā ar JPG?"
+
+      "answer": "Parasti 30–50% mazāki pie līdzīgas uztveres kvalitātes, lai gan rezultāti var atšķirties atkarībā no attēla."
+
+    }
+    {
+      "question": "Kādi faila izmēri tiek atbalstīti?"
+
+      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
+
+    }
+    {
+      "question": "Vai mani faili ir droši?"
+
+      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
+
+    }
+    {
+      "question": "Vai es varu konvertēt vairākus JPG vienlaikus?"
+
+      "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
+
+    }
+    {
+      "question": "Vai AVIF ir labāks par JPG tīmekļa vietnēm?"
+
+      "answer": "Jā. AVIF parasti nodrošina mazākus failus pie salīdzināmas kvalitātes, uzlabojot ielādes ātrumu un Core Web Vitals."
+
+    }
+  ]
+  "note": "AVIF var netikt attēlots dažās vecākās programmatūrās. Izmantojiet <code>&lt;picture&gt;</code> elementu ar JPG/WebP rezerves variantiem maksimālai saderībai."
+
   "related_links": [
     {
-      "title": "Konvertēt AVIF uz JPG",
+      "title": "Konvertēt AVIF uz JPG"
+
       "url": "/lv/convert/avif-to-jpg"
-    },
-    {
-      "title": "Konvertēt PNG uz AVIF",
-      "url": "/lv/convert/png-to-avif"
-    },
-    {
-      "title": "Konvertēt WebP uz AVIF",
-      "url": "/lv/convert/webp-to-avif"
-    },
-    {
-      "title": "Saspiest AVIF Attēlus",
-      "url": "/lv/compress/avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Visas tiesības aizsargātas.",
+    {
+      "title": "Konvertēt PNG uz AVIF"
+
+      "url": "/lv/convert/png-to-avif"
+
+    }
+    {
+      "title": "Konvertēt WebP uz AVIF"
+
+      "url": "/lv/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Saspiest AVIF Attēlus"
+
+      "url": "/lv/compress/avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "JPG uz AVIF Konvertētājs - Bezmaksas un Tiešsaistē",
-      "url": "https://wikihowto.click/lv/convert/jpg-to-avif",
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz AVIF ar izcilu kompresiju un augstu kvalitāti.",
-      "inLanguage": "lv",
-      "image": "https://wikihowto.click/images/jpg-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG uz AVIF Konvertētājs - Bezmaksas un Tiešsaistē"
+
+      "url": "https://miconvert.com/lv/convert/jpg-to-avif"
+
+      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz AVIF ar izcilu kompresiju un augstu kvalitāti."
+
+      "inLanguage": "lv"
+
+      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Sākums",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Sākums"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konvertēt",
-          "item": "https://wikihowto.click/lv/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konvertēt"
+
+          "item": "https://miconvert.com/lv/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG uz AVIF",
-          "item": "https://wikihowto.click/lv/convert/jpg-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG uz AVIF"
+
+          "item": "https://miconvert.com/lv/convert/jpg-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "JPG uz AVIF Konvertētājs",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/lv/convert/jpg-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG uz AVIF Konvertētājs"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/lv/convert/jpg-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Izcila kompresija",
-        "Mūsdienīga AVIF izeja",
+        "Izcila kompresija"
+
+        "Mūsdienīga AVIF izeja"
+
         "Ātra apstrāde"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Vai šis JPG uz AVIF konvertētājs ir bezmaksas?",
+          "@type": "Question"
+
+          "name": "Vai šis JPG uz AVIF konvertētājs ir bezmaksas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kādi faila izmēri tiek atbalstīti?",
+          "@type": "Question"
+
+          "name": "Kādi faila izmēri tiek atbalstīti?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vai AVIF darbosies visās pārlūkprogrammās?",
+          "@type": "Question"
+
+          "name": "Vai AVIF darbosies visās pārlūkprogrammās?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF atbalsta mūsdienu pārlūkprogrammas, bet jums vajadzētu nodrošināt JPG/WebP rezerves variantus vecākām."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kā konvertēt JPG uz AVIF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kā konvertēt JPG uz AVIF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Noklikšķiniet uz Augšupielādēt JPG un izvēlieties savu failu."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gaidiet, līdz apstrāde ir pabeigta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Noklikšķiniet uz Lejupielādēt AVIF, lai saglabātu optimizēto attēlu."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Gaidiet, līdz apstrāde ir pabeigta."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Noklikšķiniet uz Lejupielādēt AVIF, lai saglabātu optimizēto attēlu."
+
+        }
+      ]
       "tool": [
         "JPG uz AVIF Konvertētājs"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

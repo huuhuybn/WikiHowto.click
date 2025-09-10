@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "hu",
+  "lang_name": "Magyar",
+  "title": "miconvert.com - Ingyenes online fájlkonverterek",
+  "sub_title": "Konvertáljon fájlokat PDF, kép, hang, videó és dokumentum formátumok között, dedikált eszközökkel minden formátumpárhoz. Gyors, biztonságos és vízjelektől mentes.",
+  "hint": "Keressen konvertereket (pl. JPG PNG-be, PDF JPG-be, MP3 WAV-ba)...",
+  "btn_download": "Konverterek keresése",
+  "btn_paste": "Összes böngészése",
+  "btn_clear": "Törlés",
+  "description": "<p><strong>Üdvözöljük a miconvert.com-on</strong> — egy speciális központ <em>párspecifikus fájlkonverterekhez</em>. Egyetlen általános eszköz helyett minden formátumpárhoz dedikált oldalt hozunk létre (pl. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), így mindig a megfelelő beállításokat, a legjobb minőséget és egyszerű munkafolyamatot kapja.</p><p>Minden itt található konverter pontos céljára van hangolva: képtisztaság vs. méret, átlátszóság kezelése, nyomdakész PDF elrendezések vagy hangminőség. Nincs regisztráció, nincs vízjelek, és alapértelmezetten privát – a feltöltések biztonságosan feldolgozódnak és a konvertálás után automatikusan törlődnek. Asztali gépen, táblagépen vagy mobilon is használható.</p><p>Fedezze fel <strong>PDF eszközeinket</strong> (PDF ↔ JPG/PNG/TIFF/WebP, egyesítés/szétválasztás), <strong>képeszközeinket</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>hangszereinket</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>videós eszközeinket</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) és <strong>dokumentumeszközeinket</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Minden eszköz gyors, pontos és célzott.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Ingyenes online fájlkonverterek - PDF, kép, hang és még több | miconvert.com",
+    "description": "Konvertáljon fájlokat online ingyenes konverterekkel. Speciális eszközök minden formátumpárhoz: PDF JPG-be, PNG PDF-be, MP3 WAV-ba és még sok más. Gyors, biztonságos, vízjelek nélkül.",
+    "keywords": "fájlkonverter, pdf konverter, képkonverter, hangkonverter, videókonverter, dokumentumkonverter, jpg png-be, pdf jpg-be, png pdf-be, mp3 wav-ba",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Ingyenes online fájlkonverterek",
+    "og_description": "Konvertáljon PDF-eket, képeket, hangokat, videókat és dokumentumokat speciális konverterekkel minden formátumpárhoz. Ingyenes, gyors és vízjelektől mentes.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Mi az a fájlkonverter?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Egy fájlkonverter átalakít egy fájlt egyik formátumból a másikba (pl. JPG PNG-be, PDF JPG-be). A jó konverterek megőrzik a lényeges tartalmat (képpontok, szöveg, hang) és metaadatokat, miközben optimalizálják a méretet és a kompatibilitást."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Megőrzik a fájljaimat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nem. A fájlokat biztonságosan feldolgozzuk és a konvertálás után automatikusan töröljük. Nem tároljuk őket véglegesen."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ingyenesek és vízjelektől mentesek a konvertálások?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Igen. Minden eszköz 100%-ban ingyenesen használható és soha nem ad hozzá vízjeleket."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Ingyenes online fájlkonverterek",
+    "description": "Egy eszköz minden formátumpárhoz. Konvertáljon PDF-eket, képeket, hangokat, videókat és dokumentumokat online – gyorsan, biztonságosan és vízjelektől mentesen."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Mi az a fájlkonverter?",
+      "description": "<p>Egy fájlkonverter megváltoztatja egy fájl formátumát a <strong>kompatibilitás</strong>, a <strong>minőség</strong> vagy a <strong>méret</strong> javítása érdekében. Gyakori példák közé tartozik a webes képek konvertálása (<em>PNG → WebP</em>), nyomdakész dokumentumok előkészítése (<em>JPG/PNG → PDF</em>) vagy a dokumentumokból képek kinyerése (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>A jó konverterek egyensúlyt teremtenek a minőség és a méret között, megőrzik az átlátszóságot, ahol alkalmazható (PNG/WebP), és megtartják a PDF-ek elrendezését (oldalméret, margók, oldalra illesztés). Eszközeink értelmes alapértelmezett beállításokat kínálnak, így a legtöbb felhasználó másodpercek alatt konvertálhat.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Veszteséges vs. veszteségmentes, raszter vs. vektor",
+      "description": "<ul><li><strong>Veszteséges vs. veszteségmentes:</strong> A JPG/WebP (veszteséges) a méret csökkentésével dob el némi adatot; a PNG/TIFF (veszteségmentes) megőrzi a teljes részletességet. Válasszon veszteséges formátumot webes megosztáshoz, veszteségmentest szerkesztéshez/archiváláshoz.</li><li><strong>Raszter vs. vektor:</strong> A JPG/PNG/WebP/TIFF raszteres (képpontok). Az SVG/AI vektoros (alakzatok, utak). A raszter megfelelő felbontást (DPI) igényel nyomtatáshoz; a vektor végtelenül méretezhető elmosódás nélkül.</li><li><strong>Szín és metaadatok:</strong> A konvertálások befolyásolhatják az ICC profilokat, az EXIF-et vagy az alfa csatornákat. Kép-PDF konverter eszközeink megfelelően megőrzik az átlátszóság viselkedését, és a képeket margós oldalra illesztéssel látják el a kiszámítható nyomtatás érdekében.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Népszerű konvertálási kategóriák",
+      "description": "<ul><li><strong>PDF eszközök:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">JPG egyesítése PDF-be</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">PNG egyesítése PDF-be</a></li><li><strong>Képeszközök:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Hangszerek:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Videós eszközök:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Dokumentumeszközök:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Hogyan működik",
+      "description": "<ol><li>Válassza ki a pontos formátumpárhoz tartozó konvertert (pl. <em>PNG → PDF</em>).</li><li>Töltse fel egy vagy több fájlt (tömeges feldolgozás sok eszközön támogatott).</li><li>Kattintson a konvertálás gombra – az alapértelmezett beállítások a minőség és a méret optimalizálására szolgálnak.</li><li>Töltse le az eredményt azonnal. Nincs regisztráció, nincs vízjelek.</li></ol><p>Tippek: Tartsa következetesen a képarányokat PDF-be történő egyesítéskor egységes elrendezés érdekében. Webhez a WebP formátumot javasoljuk a méret csökkentése érdekében kiváló minőség mellett.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Biztonság és adatvédelem",
+      "description": "<ul><li><strong>Titkosított adattovábbítás:</strong> A fájlok biztonságos kapcsolatokon keresztül mozognak.</li><li><strong>Automatikus törlés:</strong> A feldolgozott fájlokat automatikusan töröljük.</li><li><strong>Nincs végleges tárolás:</strong> A fájljait a feldolgozás után nem őrizzük meg.</li><li><strong>Nincs vízjelek:</strong> Az eredmények tiszták és azonnal használhatóak.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Mi az a fájlkonverter?",
+      "answer": "Átalakít egy fájlt egyik formátumból a másikba (pl. JPG → PNG, PDF → JPG) a kompatibilitás, a minőség vagy a méret javítása érdekében."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Melyek a legnépszerűbb konverterek?",
+      "answer": "A PDF ↔ Kép (PDF → JPG/PNG/WebP/TIFF és JPG/PNG/WebP/TIFF → PDF) és a Kép ↔ Kép (JPG ↔ PNG, PNG ↔ WebP) a leggyakrabban használt konverterek."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Tömöríti a képeket?",
+      "answer": "Igen, a veszteséges formátumok, mint a JPG/WebP, állítható minőség mellett csökkentik a méretet; a veszteségmentes formátumok, mint a PNG/TIFF, megőrzik a részletességet."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Megőrzi az átlátszóságot?",
+      "answer": "A PNG és a WebP támogatja az alfa csatornákat. PDF-be konvertáláskor az oldalakat margós, oldalra illesztett elrendezéssel látjuk el a kiszámítható kimenet érdekében."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Támogatja az OCR-t?",
+      "answer": "Az OCR alapértelmezés szerint nincs engedélyezve. Képekből/PDF-ekből szöveg kinyeréséhez használjon dedikált OCR eszközöket."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maximális fájlméret?",
+      "answer": "A legtöbb konverter konvertációnként legfeljebb 100 MB-ot támogat. Nagyobb fájlok esetén először ossza fel vagy tömörítse őket."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Tárolja a fájljaimat?",
+      "answer": "Nem. A fájlokat biztonságosan feldolgozzuk és a konvertálás után automatikusan töröljük."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Tömegesen konvertálhatok vagy egyesíthetek?",
+      "answer": "Sok eszköz támogatja a többfájlos feltöltést és az egyesítést (pl. JPG egyesítése PDF-be, PNG egyesítése PDF-be)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Megjegyzés: Minden konverter egyetlen formátumpárra van optimalizálva, biztosítva a legjobb minőséget és sebességet. A legkiegyensúlyozottabb PDF elrendezés érdekében használjon következetes képméreteket és -tájolást.",
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
 }

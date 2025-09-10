@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "nl",
+  "lang_name": "Dutch",
+  "title": "miconvert.com - Gratis Online Bestand Converters",
+  "sub_title": "Converteer bestanden tussen PDF, afbeeldingen, audio, video en documenten met speciale tools voor elk formaatpaar. Snel, veilig en zonder watermerk.",
+  "hint": "Zoek converters (bijv. JPG naar PNG, PDF naar JPG, MP3 naar WAV)...",
+  "btn_download": "Converters zoeken",
+  "btn_paste": "Alle bekijken",
+  "btn_clear": "Wissen",
+  "description": "<p><strong>Welkom bij miconvert.com</strong> — een gespecialiseerde hub van <em>paarspecifieke bestandsconverters</em>. In plaats van één generieke tool, maken we een speciale pagina voor elk formaatpaar (bijv. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), zodat u altijd de juiste opties, de beste kwaliteit en een eenvoudige workflow krijgt.</p><p>Elke converter hier is afgestemd op zijn exacte doel: beeldhelderheid versus grootte, transparantiebehandeling, printklare PDF-lay-outs of audiogetrouwheid. Geen registratie, geen watermerken en privé ontworpen — uploads worden veilig verwerkt en automatisch verwijderd na conversie. Gebruik op desktop, tablet of mobiel.</p><p>Ontdek onze **PDF-tools** (PDF ↔ JPG/PNG/TIFF/WebP, samenvoegen/splitsen), **beeldtools** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **audiotools** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **videotools** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) en **documenttools** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Elke tool is snel, precies en gericht.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Gratis Online Bestand Converters - PDF, Afbeelding, Audio & Meer | miconvert.com",
+    "description": "Converteer bestanden online met gratis converters. Gespecialiseerde tools voor elk formaatpaar: PDF naar JPG, PNG naar PDF, MP3 naar WAV en meer. Snel, veilig, geen watermerken.",
+    "keywords": "bestandsconverter, pdf converter, afbeelding converter, audio converter, video converter, document converter, jpg naar png, pdf naar jpg, png naar pdf, mp3 naar wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Gratis Online Bestand Converters",
+    "og_description": "Converteer PDF's, afbeeldingen, audio, video en documenten met gespecialiseerde converters voor elk formaatpaar. Gratis, snel en zonder watermerk.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Wat is een bestandsconverter?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Een bestandsconverter transformeert een bestand van het ene formaat naar het andere (bijv. JPG naar PNG, PDF naar JPG). Goede converters bewaren essentiële inhoud (pixels, tekst, audio) en metadata terwijl ze de grootte en compatibiliteit optimaliseren."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Bewaren jullie mijn bestanden?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nee. Bestanden worden veilig verwerkt en automatisch verwijderd na conversie. We bewaren ze niet permanent."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Zijn conversies gratis en zonder watermerk?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ja. Alle tools zijn 100% gratis te gebruiken en voegen nooit watermerken toe."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Gratis Online Bestand Converters",
+    "description": "Één tool per formaatpaar. Converteer PDF's, afbeeldingen, audio, video en documenten online — snel, veilig en zonder watermerk."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Wat is een Bestandsconverter?",
+      "description": "<p>Een bestandsconverter verandert het formaat van een bestand om de <strong>compatibiliteit</strong>, <strong>kwaliteit</strong> of <strong>grootte</strong> te verbeteren. Veelvoorkomende voorbeelden zijn het converteren van afbeeldingen voor internet (<em>PNG → WebP</em>), het voorbereiden van printklare documenten (<em>JPG/PNG → PDF</em>) of het extraheren van visuals uit documenten (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Goede converters balanceren kwaliteit en grootte, behouden transparantie waar van toepassing (PNG/WebP) en houden de lay-out voor PDF's (paginaformaat, marges, passend op pagina). Onze tools tonen verstandige standaardinstellingen, zodat de meeste gebruikers binnen enkele seconden kunnen converteren.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Lossy vs. Lossless, Raster vs. Vector",
+      "description": "<ul><li><strong>Lossy vs. Lossless:</strong> JPG/WebP (lossy) verkleinen de grootte door sommige gegevens te verwijderen; PNG/TIFF (lossless) behouden alle details. Kies lossy voor het delen op internet, lossless voor het bewerken/archiveren.</li><li><strong>Raster vs. Vector:</strong> JPG/PNG/WebP/TIFF zijn raster (pixels). SVG/AI zijn vector (vormen, paden). Raster heeft een voldoende resolutie (DPI) nodig voor print; vector schaalt oneindig zonder vervaging.</li><li><strong>Kleur & Metadata:</strong> Conversies kunnen van invloed zijn op ICC-profielen, EXIF of alfakanaal. Onze image-to-PDF-tools behouden het transparantiegedrag op de juiste manier en passen afbeeldingen aan de pagina aan met marges voor voorspelbare print.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Populaire Conversiecategorieën",
+      "description": "<ul><li><strong>PDF-tools:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">JPG's samenvoegen → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">PNG's combineren → PDF</a></li><li><strong>Beeldtools:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Audiotools:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Videotools:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Documenttools:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Hoe het werkt",
+      "description": "<ol><li>Kies de converter voor uw exacte formaatpaar (bijv. <em>PNG → PDF</em>).</li><li>Upload één of meerdere bestanden (batch ondersteund op veel tools).</li><li>Klik op converteren — standaardinstellingen zijn geoptimaliseerd voor kwaliteit en grootte.</li><li>Download uw resultaat direct. Geen aanmelding, geen watermerken.</li></ol><p>Tips: Houd de beeldverhoudingen consistent wanneer u bestanden samenvoegt in PDF voor een uniforme lay-out. Overweeg voor internet WebP om de grootte te verkleinen met uitstekende kwaliteit.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Beveiliging & Privacy",
+      "description": "<ul><li><strong>Versleutelde overdrachten:</strong> Bestanden worden via beveiligde verbindingen verplaatst.</li><li><strong>Automatisch verwijderen:</strong> Verwerkte bestanden worden automatisch verwijderd.</li><li><strong>Geen permanente opslag:</strong> We bewaren uw bestanden niet na verwerking.</li><li><strong>Geen watermerken:</strong> Resultaten zijn schoon en klaar voor gebruik.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Wat is een bestandsconverter?",
+      "answer": "Het verandert een bestand van het ene formaat naar het andere (bijv. JPG → PNG, PDF → JPG) om de compatibiliteit, kwaliteit of grootte te verbeteren."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Welke converters zijn het populairst?",
+      "answer": "PDF ↔ Afbeelding (PDF → JPG/PNG/WebP/TIFF en JPG/PNG/WebP/TIFF → PDF) en Afbeelding ↔ Afbeelding (JPG ↔ PNG, PNG ↔ WebP) worden het meest gebruikt."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Drukken jullie afbeeldingen?",
+      "answer": "Ja, lossy-formaten zoals JPG/WebP verkleinen de grootte met aanpasbare kwaliteit; lossless-formaten zoals PNG/TIFF bewaren details."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Bewaren jullie transparantie?",
+      "answer": "PNG en WebP ondersteunen alfakanaal. Bij conversie naar PDF worden pagina's met marges en passend-op-pagina-gedrag voor voorspelbare uitvoer weergegeven."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Wordt OCR ondersteund?",
+      "answer": "OCR is niet standaard ingeschakeld. Gebruik voor tekstextractie uit afbeeldingen/PDF's speciale OCR-tools."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maximale bestandsgrootte?",
+      "answer": "De meeste converters ondersteunen maximaal 100 MB per conversie. Voor grotere bestanden, eerst splitsen of comprimeren."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Worden mijn bestanden opgeslagen?",
+      "answer": "Nee. Bestanden worden veilig verwerkt en automatisch verwijderd na conversie."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Kan ik batch converteren of samenvoegen?",
+      "answer": "Veel tools ondersteunen het uploaden van meerdere bestanden en het samenvoegen (bijv. JPG's samenvoegen → PDF, PNG's combineren → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Opmerking: Elke converter is geoptimaliseerd voor één formaatpaar, wat de beste kwaliteit en snelheid garandeert. Voor de meest uniforme PDF-lay-out, gebruik consistente afbeeldingsafmetingen en -oriëntatie.",
+  "footer": "© 2019 - 2025 miconvert.com. Alle rechten voorbehouden."
 }

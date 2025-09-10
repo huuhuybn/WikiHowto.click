@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "sl",
+  "lang_name": "Slovenščina",
+  "title": "miconvert.com - Brezplačni spletni pretvorniki datotek",
+  "sub_title": "Pretvarjajte datoteke med PDF, slikami, zvokom, videoposnetki in dokumenti s specializiranimi orodji za vsak par formatov. Hitro, varno in brez vodnega žiga.",
+  "hint": "Išči pretvornike (npr., JPG v PNG, PDF v JPG, MP3 v WAV)...",
+  "btn_download": "Išči pretvornike",
+  "btn_paste": "Brskaj po vseh",
+  "btn_clear": "Počisti",
+  "description": "<p><strong>Dobrodošli na miconvert.com</strong> — specializiranem središču <em>pretvornikov datotek, specifičnih za pare</em>. Namesto enega splošnega orodja ustvarimo posebno stran za vsak par formatov (npr. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), tako da vedno dobite prave možnosti, najboljšo kakovost in preprost delovni tok.</p><p>Vsak pretvornik tukaj je prilagojen svojemu namenu: jasnost slike v primerjavi z velikostjo, obdelava prosojnosti, tiskalni postavitve PDF-jev ali zvestoba zvoka. Ni registracije, ni vodnih žigov in zasebnost je načrtovana - nalaganja se obdelujejo varno in se samodejno izbrišejo po pretvorbi. Uporabljajte na namizju, tablici ali mobilnem telefonu.</p><p>Raziščite naša orodja za <strong>PDF</strong> (PDF ↔ JPG/PNG/TIFF/WebP, združevanje/razdelitev), <strong>orodja za slike</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>orodja za zvok</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>orodja za video</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) in <strong>orodja za dokumente</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Vsako orodje je hitro, natančno in osredotočeno.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Brezplačni spletni pretvorniki datotek - PDF, slike, zvok & več | miconvert.com",
+    "description": "Pretvarjajte datoteke na spletu z brezplačnimi pretvorniki. Specializirana orodja za vsak par formatov: PDF v JPG, PNG v PDF, MP3 v WAV in več. Hitro, varno, brez vodnih žigov.",
+    "keywords": "pretvornik datotek, pdf pretvornik, pretvornik slik, pretvornik zvoka, pretvornik videoposnetkov, pretvornik dokumentov, jpg v png, pdf v jpg, png v pdf, mp3 v wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Brezplačni spletni pretvorniki datotek",
+    "og_description": "Pretvarjajte PDF-je, slike, zvok, videoposnetke in dokumente s specializiranimi pretvorniki za vsak par formatov. Brezplačno, hitro in brez vodnih žigov.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kaj je pretvornik datotek?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pretvornik datotek pretvori datoteko iz enega formata v drugega (npr. JPG v PNG, PDF v JPG). Dobri pretvorniki ohranijo bistveno vsebino (piksele, besedilo, zvok) in metapodatke, hkrati pa optimizirajo velikost in združljivost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali hranite moje datoteke?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. Datoteke se obdelujejo varno in se samodejno izbrišejo po pretvorbi. Ne hranimo jih trajno."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "So pretvorbe brezplačne in brez vodnih žigov?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Vsa orodja so 100 % brezplačna za uporabo in nikoli ne dodajajo vodnih žigov."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Brezplačni spletni pretvorniki datotek",
+    "description": "Eno orodje na par formatov. Pretvarjajte PDF-je, slike, zvok, videoposnetke in dokumente na spletu - hitro, varno in brez vodnih žigov."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Kaj je pretvornik datotek?",
+      "description": "<p>Pretvornik datotek spremeni format datoteke za izboljšanje <strong>združljivosti</strong>, <strong>kakovost</strong> ali <strong>velikosti</strong>. Pogosti primeri vključujejo pretvorbo slik za splet (<em>PNG → WebP</em>), pripravo dokumentov za tiskanje (<em>JPG/PNG → PDF</em>) ali ekstrakcijo vizualnih elementov iz dokumentov (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Dobri pretvorniki uravnovešajo kakovost in velikost, ohranijo prosojnost, kjer je to primerno (PNG/WebP), in ohranijo postavitev za PDF-je (velikost strani, robovi, prilagajanje strani). Naša orodja prikazujejo smiselne privzete nastavitve, tako da lahko večina uporabnikov pretvori v nekaj sekundah.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Izgubljajoče proti brezizgubnim, rastrske proti vektorske",
+      "description": "<ul><li><strong>Izgubljajoče proti brezizgubnim:</strong> JPG/WebP (izgubljajoče) zmanjšajo velikost z zavračanjem nekaterih podatkov; PNG/TIFF (brezizgubne) ohranijo vse podrobnosti. Izberite izgubljajoče za deljenje na spletu, brezizgubne za urejanje/arhiviranje.</li><li><strong>Rasterske proti vektorske:</strong> JPG/PNG/WebP/TIFF so rastrske (pikseli). SVG/AI so vektorske (oblike, poti). Rasterske potrebujejo ustrezno ločljivost (DPI) za tiskanje; vektorske se lahko neskončno merilo brez zameglitve.</li><li><strong>Barva & metapodatki:</strong> Pretvorbe lahko vplivajo na profile ICC, EXIF ali alfa kanale. Naša orodja za pretvorbo slik v PDF ustrezno ohranijo vedenje prosojnosti in prilagodijo slike na stran z robovi za predvidljivo tiskanje.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Priljubljene kategorije pretvorb",
+      "description": "<ul><li><strong>PDF orodja:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Združi JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Združi PNG → PDF</a></li><li><strong>Orodja za slike:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Orodja za zvok:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Orodja za video:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Orodja za dokumente:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Kako deluje",
+      "description": "<ol><li>Izberite pretvornik za vaš točen par formatov (npr. <em>PNG → PDF</em>).</li><li>Naložite eno ali več datotek (množično nalaganje je podprto v mnogih orodjih).</li><li>Kliknite pretvori — privzete nastavitve so optimizirane za kakovost in velikost.</li><li>Prenesite svoj rezultat takoj. Brez prijave, brez vodnih žigov.</li></ol><p>Namigi: Ohranite skladne razmerje stranic slik pri združevanju v PDF za enotno postavitev. Za splet razmislite o WebP za zmanjšanje velikosti z odlično kakovostjo.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Varnost in zasebnost",
+      "description": "<ul><li><strong>Šifrirani prenosi:</strong> Datoteke se premikajo prek varnih povezav.</li><li><strong>Samodejno brisanje:</strong> Obdelane datoteke se samodejno izbrišejo.</li><li><strong>Brez trajnega shranjevanja:</strong> Vaših datotek ne hranimo po obdelavi.</li><li><strong>Brez vodnih žigov:</strong> Rezultati so čisti in pripravljeni za uporabo.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Kaj je pretvornik datotek?",
+      "answer": "Spremeni datoteko iz enega formata v drugega (npr. JPG → PNG, PDF → JPG) za izboljšanje združljivosti, kakovosti ali velikosti."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Kateri pretvorniki so najbolj priljubljeni?",
+      "answer": "PDF ↔ Slika (PDF → JPG/PNG/WebP/TIFF in JPG/PNG/WebP/TIFF → PDF) in Slika ↔ Slika (JPG ↔ PNG, PNG ↔ WebP) so najbolj uporabljeni."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Ali stiskate slike?",
+      "answer": "Da, izgubljajoči formati, kot sta JPG/WebP, zmanjšajo velikost s prilagodljivo kakovostjo; brezizgubni formati, kot sta PNG/TIFF, ohranijo podrobnosti."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Ali ohranjate prosojnost?",
+      "answer": "PNG in WebP podpirata alfa kanale. Pri pretvorbi v PDF so strani postavljene z robovi in vedenjem prilagajanja strani za predvidljivo izhodno datoteko."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Ali je podprta OCR?",
+      "answer": "OCR ni omogočen privzeto. Za ekstrakcijo besedila iz slik/PDF-jev uporabite specializirana OCR orodja."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maksimalna velikost datoteke?",
+      "answer": "Večina pretvornikov podpira do 100 MB na pretvorbo. Za večje datoteke jih najprej razdelite ali stisnite."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Ali se moje datoteke shranijo?",
+      "answer": "Ne. Datoteke se obdelujejo varno in se samodejno izbrišejo po pretvorbi."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Ali lahko pretvarjam v seriji ali združujem?",
+      "answer": "Mnoga orodja podpirajo nalaganje več datotek in združevanje (npr. Združi JPG → PDF, Združi PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Opomba: Vsak pretvornik je optimiran za en sam par formatov, kar zagotavlja najboljšo kakovost in hitrost. Za najbolj enotno postavitev PDF-ja uporabite skladne dimenzije in orientacijo slik.",
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
 }

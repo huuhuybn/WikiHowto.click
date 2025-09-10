@@ -1,234 +1,350 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Conversor de TIFF a JPG - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges TIFF a format JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua.",
-  "hint": "Puja la teva imatge TIFF per començar a convertir...",
-  "btn_download": "Converteix a JPG",
-  "btn_paste": "Puja TIFF",
-  "btn_clear": "Netejar",
-  "ogImage": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Conversor de TIFF a JPG - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges TIFF a format JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge TIFF per començar a convertir..."
+
+  "btn_download": "Converteix a JPG"
+
+  "btn_paste": "Puja TIFF"
+
+  "btn_clear": "Netejar"
+
+  "ogImage": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
   "converter": {
-    "type": "tiff-to-jpg",
-    "inputFormat": "TIFF",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "tiff-to-jpg"
+
+    "inputFormat": "TIFF"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/tiff"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Converteix el teu <strong>TIFF a JPG</strong> per compartir més fàcilment i tenir fitxers més petits. Aquest conversor en línia gratuït transforma imatges TIFF professionals en JPEG universalment compatibles mantenint una gran qualitat visual. Els TIFF de diverses pàgines es planifiquen i només es converteix la <em>primera pàgina</em>. Si el teu TIFF té transparència, JPG mostrarà aquestes àrees sobre un fons sòlid (blanc per defecte).</p>",
+  }
+  "description": "<p>Converteix el teu <strong>TIFF a JPG</strong> per compartir més fàcilment i tenir fitxers més petits. Aquest conversor en línia gratuït transforma imatges TIFF professionals en JPEG universalment compatibles mantenint una gran qualitat visual. Els TIFF de diverses pàgines es planifiquen i només es converteix la <em>primera pàgina</em>. Si el teu TIFF té transparència, JPG mostrarà aquestes àrees sobre un fons sòlid (blanc per defecte).</p>"
+
   "head": {
-    "title": "Converteix TIFF a JPG en línia - Conversor gratuït de TIFF a JPG | WikiHowTo.click",
-    "description": "Converteix TIFF a JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Conversor gratuït, ràpid i segur de TIFF a JPG.",
-    "keywords": "tiff a jpg, convertir tiff a jpg, gratuït tiff a jpg, conversor tiff en línia, tiff a jpeg",
-    "canonical": "https://wikihowto.click/ca/convert/tiff-to-jpg",
-    "og_title": "Conversor de TIFF a JPG - Gratuït i en línia",
-    "og_description": "Converteix imatges TIFF a format JPG amb alta qualitat i mides de fitxer més petites. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/ca/convert/tiff-to-jpg",
-    "og_image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Conversor gratuït de TIFF a JPG en línia",
-    "twitter_description": "Converteix TIFF a JPG amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-  },
+    "title": "Converteix TIFF a JPG en línia - Conversor gratuït de TIFF a JPG | miconvert.com"
+
+    "description": "Converteix TIFF a JPG en línia amb alta qualitat, mides de fitxer més petites i sense marques d'aigua. Conversor gratuït, ràpid i segur de TIFF a JPG."
+
+    "keywords": "tiff a jpg, convertir tiff a jpg, gratuït tiff a jpg, conversor tiff en línia, tiff a jpeg"
+
+    "canonical": "https://miconvert.com/ca/convert/tiff-to-jpg"
+
+    "og_title": "Conversor de TIFF a JPG - Gratuït i en línia"
+
+    "og_description": "Converteix imatges TIFF a format JPG amb alta qualitat i mides de fitxer més petites. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/ca/convert/tiff-to-jpg"
+
+    "og_image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Converteix TIFF a JPG en línia",
+    "title": "Converteix TIFF a JPG en línia"
+
     "description": "Conversor gratuït i ràpid de TIFF a JPG amb alta qualitat i mides de fitxer més petites. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir TIFF a JPG?",
+      "title": "Per què convertir TIFF a JPG?"
+
       "description": "<p>TIFF és ideal per a l'edició i la impressió, però és pesat i menys compatible. JPG troba un equilibri pràctic:</p><ul><li><strong>Fitxers molt més petits:</strong> Sovint <em>70–90%</em> més petits que TIFF, depenent del contingut.</li><li><strong>Compatibilitat universal:</strong> JPG funciona en pràcticament tots els dispositius i aplicacions.</li><li><strong>Compartició fàcil:</strong> Perfecte per correu electrònic, missatgeria i la web.</li><li><strong>Estalvi d'emmagatzematge:</strong> Redueix l'espai sense pèrdua visual significativa.</li></ul>"
-    },
-    {
-      "title": "Com convertir TIFF a JPG en línia",
-      "description": "<ol><li>Fes clic a <em>Puja TIFF</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega JPG</em> per desar la teva imatge.</li></ol><p>Utilitzem JPEG progressiu (mozjpeg) per a un gran equilibri entre mida i qualitat.</p>"
-    },
-    {
-      "title": "Comparació entre TIFF i JPG",
-      "description": "<ul><li><strong>Compressió:</strong> TIFF pot ser sense pèrdues; JPG és amb pèrdues per a fitxers més petits.</li><li><strong>Transparència:</strong> TIFF pot incloure alfa; JPG no en té (els píxels transparents esdevenen sòlids).</li><li><strong>Color:</strong> TIFF pot ser CMYK/AdobeRGB; l'output JPG està estandarditzat a sRGB per a la web.</li><li><strong>Cas d'ús:</strong> Mantingues TIFF per a edicions/impressions mestres; utilitza JPG per a lliuraments i compartició.</li></ul>"
-    },
-    {
-      "title": "Límits i formats suportats",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Pàgines:</strong> TIFF de diverses pàgines: només es converteix la <em>primera pàgina</em></li></ul>"
-    },
-    {
-      "title": "Resolució de problemes",
-      "description": "<ul><li><strong>Els colors semblen diferents:</strong> Convertim a sRGB per a la consistència web. Realitza una prova suau en sRGB abans de pujar si és possible.</li><li><strong>Transparència perduda:</strong> JPG no suporta alfa; utilitza <a href='/ca/convert/tiff-to-png'>TIFF → PNG</a> si necessites transparència.</li><li><strong>Fitxer encara gran:</strong> Redueix la resolució o baixa la qualitat al 80–85%.</li><li><strong>La pujada falla:</strong> Assegura't que el TIFF sigui ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir TIFF a JPG en línia"
+
+      "description": "<ol><li>Fes clic a <em>Puja TIFF</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega JPG</em> per desar la teva imatge.</li></ol><p>Utilitzem JPEG progressiu (mozjpeg) per a un gran equilibri entre mida i qualitat.</p>"
+
+    }
+    {
+      "title": "Comparació entre TIFF i JPG"
+
+      "description": "<ul><li><strong>Compressió:</strong> TIFF pot ser sense pèrdues; JPG és amb pèrdues per a fitxers més petits.</li><li><strong>Transparència:</strong> TIFF pot incloure alfa; JPG no en té (els píxels transparents esdevenen sòlids).</li><li><strong>Color:</strong> TIFF pot ser CMYK/AdobeRGB; l'output JPG està estandarditzat a sRGB per a la web.</li><li><strong>Cas d'ús:</strong> Mantingues TIFF per a edicions/impressions mestres; utilitza JPG per a lliuraments i compartició.</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats suportats"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Pàgines:</strong> TIFF de diverses pàgines: només es converteix la <em>primera pàgina</em></li></ul>"
+
+    }
+    {
+      "title": "Resolució de problemes"
+
+      "description": "<ul><li><strong>Els colors semblen diferents:</strong> Convertim a sRGB per a la consistència web. Realitza una prova suau en sRGB abans de pujar si és possible.</li><li><strong>Transparència perduda:</strong> JPG no suporta alfa; utilitza <a href='/ca/convert/tiff-to-png'>TIFF → PNG</a> si necessites transparència.</li><li><strong>Fitxer encara gran:</strong> Redueix la resolució o baixa la qualitat al 80–85%.</li><li><strong>La pujada falla:</strong> Assegura't que el TIFF sigui ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest conversor de TIFF a JPG?",
+      "question": "És gratuït aquest conversor de TIFF a JPG?"
+
       "answer": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
-    },
-    {
-      "question": "Perdré qualitat en convertir TIFF a JPG?",
-      "answer": "JPG és amb pèrdues, però utilitzem configuracions d'alta qualitat (mozjpeg, progressiu) per minimitzar la pèrdua visible."
-    },
-    {
-      "question": "JPG manté la transparència?",
-      "answer": "No. JPG no té canal alfa. Les àrees transparents de la font es ompliran amb un fons sòlid (blanc per defecte)."
-    },
-    {
-      "question": "Podeu gestionar TIFF de diverses pàgines?",
-      "answer": "Sí, però només convertim la primera pàgina. Si cal, divideix les pàgines abans de pujar."
-    },
-    {
-      "question": "Quines mides de fitxer són suportades?",
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Puc convertir diversos fitxers TIFF alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repeteix el procés."
+
     }
-  ],
-  "note": "JPG és amb pèrdues i elimina la transparència. Mantingues el teu TIFF original per a edició o impressió, i exporta JPG per a compartir.",
+    {
+      "question": "Perdré qualitat en convertir TIFF a JPG?"
+
+      "answer": "JPG és amb pèrdues, però utilitzem configuracions d'alta qualitat (mozjpeg, progressiu) per minimitzar la pèrdua visible."
+
+    }
+    {
+      "question": "JPG manté la transparència?"
+
+      "answer": "No. JPG no té canal alfa. Les àrees transparents de la font es ompliran amb un fons sòlid (blanc per defecte)."
+
+    }
+    {
+      "question": "Podeu gestionar TIFF de diverses pàgines?"
+
+      "answer": "Sí, però només convertim la primera pàgina. Si cal, divideix les pàgines abans de pujar."
+
+    }
+    {
+      "question": "Quines mides de fitxer són suportades?"
+
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Puc convertir diversos fitxers TIFF alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repeteix el procés."
+
+    }
+  ]
+  "note": "JPG és amb pèrdues i elimina la transparència. Mantingues el teu TIFF original per a edició o impressió, i exporta JPG per a compartir."
+
   "related_links": [
     {
-      "title": "Converteix TIFF a PNG (manté la transparència)",
+      "title": "Converteix TIFF a PNG (manté la transparència)"
+
       "url": "/ca/convert/tiff-to-png"
-    },
-    {
-      "title": "Converteix JPG a TIFF",
-      "url": "/ca/convert/jpg-to-tiff"
-    },
-    {
-      "title": "Comprimir JPG en línia",
-      "url": "/ca/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Converteix JPG a TIFF"
+
+      "url": "/ca/convert/jpg-to-tiff"
+
+    }
+    {
+      "title": "Comprimir JPG en línia"
+
+      "url": "/ca/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Conversor de TIFF a JPG - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/tiff-to-jpg",
-      "description": "Eina en línia gratuïta per convertir imatges TIFF a JPG amb alta qualitat i mides de fitxer més petites.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/tiff-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de TIFF a JPG - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/tiff-to-jpg"
+
+      "description": "Eina en línia gratuïta per convertir imatges TIFF a JPG amb alta qualitat i mides de fitxer més petites."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "TIFF a JPG",
-          "item": "https://wikihowto.click/ca/convert/tiff-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "TIFF a JPG"
+
+          "item": "https://miconvert.com/ca/convert/tiff-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Conversor de TIFF a JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/tiff-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de TIFF a JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/tiff-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG progressiu",
-        "Conversió d'alta qualitat",
+        "JPEG progressiu"
+
+        "Conversió d'alta qualitat"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/tiff-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/tiff-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest conversor de TIFF a JPG?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest conversor de TIFF a JPG?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són suportades?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són suportades?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "JPG manté la transparència?",
+          "@type": "Question"
+
+          "name": "JPG manté la transparència?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "No. JPG no suporta un canal alfa. Els píxels transparents esdevenen sòlids."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Processen TIFF de diverses pàgines?",
+          "@type": "Question"
+
+          "name": "Processen TIFF de diverses pàgines?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Només es converteix la primera pàgina. Divideix les pàgines prèviament si cal."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir TIFF a JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir TIFF a JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Puja TIFF i selecciona el teu fitxer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament i l'optimització es completin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarrega JPG per desar el resultat."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament i l'optimització es completin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarrega JPG per desar el resultat."
+
+        }
+      ]
       "tool": [
         "Conversor de TIFF a JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

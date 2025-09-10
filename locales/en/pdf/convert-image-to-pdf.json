@@ -1,79 +1,112 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "Image to PDF Converter - Free Online Tool | WikiHowTo.click",
-  "sub_title": "Convert JPG or PNG images to PDF online with high quality, professional layout, and no watermarks.",
-  "hint": "Upload your images (JPG, PNG) to start converting...",
-  "btn_download": "Convert to PDF",
-  "btn_paste": "Upload Images",
-  "btn_clear": "Clear",
+  "lang": "en"
+
+  "lang_name": "English"
+
+  "title": "Image to PDF Converter - Free Online Tool | miconvert.com"
+
+  "sub_title": "Convert JPG or PNG images to PDF online with high quality, professional layout, and no watermarks."
+
+  "hint": "Upload your images (JPG, PNG) to start converting..."
+
+  "btn_download": "Convert to PDF"
+
+  "btn_paste": "Upload Images"
+
+  "btn_clear": "Clear"
+
   "converter": {
-    "type": "image-to-pdf",
-    "inputFormat": "Image",
-    "outputFormat": "PDF",
-    "apiEndpoint": "/image-converter/convert-multi",
-    "allowedTypes": ["image/jpeg", "image/jpg", "image/png"],
-    "maxFileSize": 104857600,
-    "outputMimeType": "application/pdf",
-    "outputExtension": ".pdf",
-    "quality": 90,
+    "type": "image-to-pdf"
+
+    "inputFormat": "Image"
+
+    "outputFormat": "PDF"
+
+    "apiEndpoint": "/image-converter/convert-multi"
+
+    "allowedTypes": ["image/jpeg", "image/jpg", "image/png"]
+    "maxFileSize": 104857600
+    "outputMimeType": "application/pdf"
+
+    "outputExtension": ".pdf"
+
+    "quality": 90
     "options": {
       "pdf": {
-        "pageSize": "A4",
-        "margin": 20,
-        "fitToPage": true,
-        "merge": true,
+        "pageSize": "A4"
+
+        "margin": 20
+        "fitToPage": true
+        "merge": true
         "order": "upload"
+
       }
     }
-  },
-  "description": "<p>Quickly transform <strong>images to PDF</strong> with our free online converter. Upload JPG or PNG images and get a professional-quality PDF in seconds. Perfect for portfolios, documents, receipts, scanned pages, and more.</p><p>No signup required, no watermarks, and secure processing. Each image becomes a page in your PDF file, ensuring consistent layout across devices. Files are automatically deleted after conversion for maximum privacy.</p>",
+  }
+  "description": "<p>Quickly transform <strong>images to PDF</strong> with our free online converter. Upload JPG or PNG images and get a professional-quality PDF in seconds. Perfect for portfolios, documents, receipts, scanned pages, and more.</p><p>No signup required, no watermarks, and secure processing. Each image becomes a page in your PDF file, ensuring consistent layout across devices. Files are automatically deleted after conversion for maximum privacy.</p>"
+
   "head": {
-    "title": "Convert Image to PDF Online - Free Image to PDF Converter | WikiHowTo.click",
-    "description": "Free Image to PDF converter online. Convert JPG and PNG images into professional PDF documents. Fast, secure, and watermark-free.",
-    "keywords": "image to pdf, convert image to pdf, jpg to pdf, png to pdf, free pdf converter, photo to pdf online",
-    "canonical": "https://wikihowto.click/en/convert/image-to-pdf",
-    "og_title": "Image to PDF Converter - Free & Online",
-    "og_description": "Convert images (JPG, PNG) to PDF format online. 100% free, fast, and secure with no watermarks.",
-    "og_url": "https://wikihowto.click/en/convert/image-to-pdf",
-    "og_image": "https://wikihowto.click/images/image-to-pdf.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Free Image to PDF Converter Online",
-    "twitter_description": "Convert JPG and PNG images to PDF online with high quality and no watermarks.",
-    "twitter_image": "https://wikihowto.click/images/image-to-pdf.jpg"
-  },
+    "title": "Convert Image to PDF Online - Free Image to PDF Converter | miconvert.com"
+
+    "description": "Free Image to PDF converter online. Convert JPG and PNG images into professional PDF documents. Fast, secure, and watermark-free."
+
+    "keywords": "image to pdf, convert image to pdf, jpg to pdf, png to pdf, free pdf converter, photo to pdf online"
+
+    "canonical": "https://miconvert.com/en/convert/image-to-pdf"
+
+    "og_title": "Image to PDF Converter - Free & Online"
+
+    "og_description": "Convert images (JPG, PNG) to PDF format online. 100% free, fast, and secure with no watermarks."
+
+    "og_url": "https://miconvert.com/en/convert/image-to-pdf"
+
+    "og_image": "https://miconvert.com/images/image-to-pdf.jpg"
+
+  }
   "h1": {
-    "title": "Convert Image to PDF Online",
+    "title": "Convert Image to PDF Online"
+
     "description": "Free and fast Image to PDF converter. Supports JPG and PNG images with professional layout, instant download, and no signup required."
-  },
+
+  }
   "h2": [
     {
-      "title": "Why Convert Images to PDF?",
+      "title": "Why Convert Images to PDF?"
+
       "description": "<ul><li><strong>Professional Layout:</strong> Create polished PDFs suitable for business, school, or personal use.</li><li><strong>Universal Compatibility:</strong> PDFs display consistently on all devices and platforms.</li><li><strong>Easy Sharing:</strong> Send PDFs via email, messaging apps, or cloud storage.</li><li><strong>Print Ready:</strong> Optimized for high-quality printing.</li><li><strong>Organized Documents:</strong> Combine multiple images into one PDF file.</li></ul>"
-    },
-    {
-      "title": "How to Convert Images to PDF",
-      "description": "<ol><li>Click <em>Upload Images</em> and select JPG/PNG files.</li><li>Arrange them in the order you want.</li><li>Click <em>Convert to PDF</em> and download instantly.</li></ol><p>Our tool automatically optimizes size and quality for professional results.</p>"
-    },
-    {
-      "title": "Perfect Use Cases",
-      "description": "<ul><li><strong>Portfolios:</strong> Photography, design, and art collections.</li><li><strong>Business Documents:</strong> Reports, receipts, scanned forms.</li><li><strong>Presentations:</strong> Create simple image-based slideshows.</li><li><strong>Archiving:</strong> Store and organize images securely in PDF format.</li><li><strong>Printing:</strong> Prepare for high-quality printouts.</li></ul>"
-    },
-    {
-      "title": "Features of Our Image to PDF Converter",
-      "description": "<ul><li>100% Free and unlimited conversions</li><li>No watermarks or hidden costs</li><li>Supports JPG and PNG images</li><li>Batch conversion & merge support</li><li>High-quality, professional PDF output</li><li>Secure processing with auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+
     }
-  ],
+    {
+      "title": "How to Convert Images to PDF"
+
+      "description": "<ol><li>Click <em>Upload Images</em> and select JPG/PNG files.</li><li>Arrange them in the order you want.</li><li>Click <em>Convert to PDF</em> and download instantly.</li></ol><p>Our tool automatically optimizes size and quality for professional results.</p>"
+
+    }
+    {
+      "title": "Perfect Use Cases"
+
+      "description": "<ul><li><strong>Portfolios:</strong> Photography, design, and art collections.</li><li><strong>Business Documents:</strong> Reports, receipts, scanned forms.</li><li><strong>Presentations:</strong> Create simple image-based slideshows.</li><li><strong>Archiving:</strong> Store and organize images securely in PDF format.</li><li><strong>Printing:</strong> Prepare for high-quality printouts.</li></ul>"
+
+    }
+    {
+      "title": "Features of Our Image to PDF Converter"
+
+      "description": "<ul><li>100% Free and unlimited conversions</li><li>No watermarks or hidden costs</li><li>Supports JPG and PNG images</li><li>Batch conversion & merge support</li><li>High-quality, professional PDF output</li><li>Secure processing with auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+
+    }
+  ]
   "faq": [
-    { "question": "Is the Image to PDF converter free?", "answer": "Yes, completely free with no watermarks or charges." },
-    { "question": "Which image formats are supported?", "answer": "We support JPG and PNG formats for best results." },
-    { "question": "Will I lose quality when converting?", "answer": "No, the converter preserves image quality and optimizes for PDF." },
-    { "question": "What is the maximum file size?", "answer": "You can upload images up to 100MB per conversion." },
-    { "question": "Are my files secure?", "answer": "Yes, all uploads are encrypted and deleted automatically after processing." },
-    { "question": "Can I merge multiple images into one PDF?", "answer": "Yes, simply upload multiple images and they will be combined into one PDF." },
-    { "question": "What page size is used?", "answer": "Default is A4 with margins, but images are fit-to-page automatically." },
+    { "question": "Is the Image to PDF converter free?", "answer": "Yes, completely free with no watermarks or charges." }
+    { "question": "Which image formats are supported?", "answer": "We support JPG and PNG formats for best results." }
+    { "question": "Will I lose quality when converting?", "answer": "No, the converter preserves image quality and optimizes for PDF." }
+    { "question": "What is the maximum file size?", "answer": "You can upload images up to 100MB per conversion." }
+    { "question": "Are my files secure?", "answer": "Yes, all uploads are encrypted and deleted automatically after processing." }
+    { "question": "Can I merge multiple images into one PDF?", "answer": "Yes, simply upload multiple images and they will be combined into one PDF." }
+    { "question": "What page size is used?", "answer": "Default is A4 with margins, but images are fit-to-page automatically." }
     { "question": "Can I edit the PDF after conversion?", "answer": "The PDF will contain your images as pages. For editing, use a PDF editor." }
-  ],
-  "note": "Note: For advanced layouts or image editing, use dedicated PDF software. This tool is optimized for quick single/multi-image to PDF conversion.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  ]
+  "note": "Note: For advanced layouts or image editing, use dedicated PDF software. This tool is optimized for quick single/multi-image to PDF conversion."
+
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
+
 }

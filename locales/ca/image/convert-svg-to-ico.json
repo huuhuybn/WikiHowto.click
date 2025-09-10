@@ -1,244 +1,363 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Conversor SVG a ICO - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges SVG al format ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i sense marques d'aigua.",
-  "hint": "Puja la teva imatge SVG per començar a convertir...",
-  "btn_download": "Convertir a ICO",
-  "btn_paste": "Pujar SVG",
-  "btn_clear": "Esborrar",
-  "ogImage": "https://wikihowto.click/images/svg-to-ico.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Conversor SVG a ICO - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges SVG al format ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge SVG per començar a convertir..."
+
+  "btn_download": "Convertir a ICO"
+
+  "btn_paste": "Pujar SVG"
+
+  "btn_clear": "Esborrar"
+
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
+
   "converter": {
-    "type": "svg-to-ico",
-    "inputFormat": "SVG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "svg-to-ico"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>Transforma el teu <strong>SVG a ICO</strong> per a favicons i icones de desktop perfectes! El nostre conversor gratuït rasteritza el teu SVG vectorial a un ICO nítid de múltiples mides que funciona a través de navegadors i escriptoris de Windows.</p><p>ICO pot agrupar diverses mides en un sol fitxer (per exemple, 16–256 px), així que la teva icona es veu nítida en pestanyes, accessos directes i pantalles de alta DPI. La transparència es conserva per a vores suaus en fons clars i foscos.</p>",
+  }
+  "description": "<p>Transforma el teu <strong>SVG a ICO</strong> per a favicons i icones de desktop perfectes! El nostre conversor gratuït rasteritza el teu SVG vectorial a un ICO nítid de múltiples mides que funciona a través de navegadors i escriptoris de Windows.</p><p>ICO pot agrupar diverses mides en un sol fitxer (per exemple, 16–256 px), així que la teva icona es veu nítida en pestanyes, accessos directes i pantalles de alta DPI. La transparència es conserva per a vores suaus en fons clars i foscos.</p>"
+
   "head": {
-    "title": "Converteix SVG a ICO en línia - Gratuït conversor SVG a ICO | WikiHowTo.click",
-    "description": "Converteix SVG a ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i segur, eina de conversió SVG a ICO.",
-    "keywords": "svg a ico, convertir svg a ico, gratuït svg a ico, conversor ico en línia, creador de favicon",
-    "canonical": "https://wikihowto.click/en/convert/svg-to-ico",
-    "og_title": "Conversor SVG a ICO - Gratuït i en línia",
-    "og_description": "Converteix imatges SVG al format ICO per a favicons i icones de desktop. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/en/convert/svg-to-ico",
-    "og_image": "https://wikihowto.click/images/svg-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratuït conversor SVG a ICO en línia",
-    "twitter_description": "Converteix SVG a ICO per a favicons i icones de desktop. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-ico.jpg"
-  },
+    "title": "Converteix SVG a ICO en línia - Gratuït conversor SVG a ICO | miconvert.com"
+
+    "description": "Converteix SVG a ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i segur, eina de conversió SVG a ICO."
+
+    "keywords": "svg a ico, convertir svg a ico, gratuït svg a ico, conversor ico en línia, creador de favicon"
+
+    "canonical": "https://miconvert.com/en/convert/svg-to-ico"
+
+    "og_title": "Conversor SVG a ICO - Gratuït i en línia"
+
+    "og_description": "Converteix imatges SVG al format ICO per a favicons i icones de desktop. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/en/convert/svg-to-ico"
+
+    "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Converteix SVG a ICO en línia",
+    "title": "Converteix SVG a ICO en línia"
+
     "description": "Conversor SVG a ICO gratuït i ràpid per a favicons i icones de desktop. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir SVG a ICO?",
+      "title": "Per què convertir SVG a ICO?"
+
       "description": "<p>SVG et proporciona formes independents de resolució; ICO et proporciona compatibilitat nativa d'icones:</p><ul><li><strong>Suport de múltiples mides:</strong> Agrupa variants de 16–256 px en un sol fitxer.</li><li><strong>Estàndard de favicon:</strong> Ampliament reconegut pels navegadors.</li><li><strong>Compatibilitat amb Windows:</strong> Format natiu per a icones de desktop/aplicacions.</li><li><strong>Transparència:</strong> Vores suaus amb alfa conservat.</li></ul>"
-    },
-    {
-      "title": "Com convertir SVG a ICO en línia",
-      "description": "<ol><li>Fes clic a <em>Pujar SVG</em> i selecciona el teu fitxer vectorial.</li><li>Espera la rasterització i l'optimització.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem mides comunes automàticament per a resultats nítids.</p>"
-    },
-    {
-      "title": "Especificacions del format ICO",
-      "description": "<ul><li><strong>Mides estàndard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profunditat de color:</strong> Fins a 32 bits RGBA</li><li><strong>Compressió:</strong> Entrades comprimides en PNG per a icones de 32 bits (Vista+)</li><li><strong>Estructura:</strong> Capçalera + múltiples entrades d'imatge en un sol fitxer</li></ul>"
-    },
-    {
-      "title": "Límits i formats suportats",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Solució de problemes",
-      "description": "<ul><li><strong>Favicon no apareix:</strong> Esborra la memòria cau i assegura't que <code>/favicon.ico</code> estigui enllaçat a través de <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filtres:</strong> Fonts no incrustades, filtres complexos o actius externs poden rasteritzar-se de manera diferent. Converteix el text a contorns i actius en línia en el SVG.</li><li><strong>Retallat:</strong> Utilitza un tauler d'art quadrat amb marge per evitar el retallat després de la rasterització.</li><li><strong>La pujada falla:</strong> Assegura't que SVG ≤ 16&nbsp;MB i és un <code>image/svg+xml</code> vàlid.</li></ul>"
-    },
-    {
-      "title": "Millors pràctiques",
-      "description": "<ul><li>Dissenya en un llenç quadrat de 512×512 o 1024×1024 per a reduccions netes.</li><li>Manten les formes atrevides; evita línies fines en mides petites.</li><li>Utilitza un alt contrast per a la llegibilitat en icones de 16–32 px.</li></ul>"
-    },
-    {
-      "title": "Característiques del nostre conversor SVG a ICO",
-      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Conversió automàtica de vector a raster</li><li>Generació d'icones de múltiples mides</li><li>Transparència conservada</li><li>Processament segur</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir SVG a ICO en línia"
+
+      "description": "<ol><li>Fes clic a <em>Pujar SVG</em> i selecciona el teu fitxer vectorial.</li><li>Espera la rasterització i l'optimització.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem mides comunes automàticament per a resultats nítids.</p>"
+
+    }
+    {
+      "title": "Especificacions del format ICO"
+
+      "description": "<ul><li><strong>Mides estàndard:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Profunditat de color:</strong> Fins a 32 bits RGBA</li><li><strong>Compressió:</strong> Entrades comprimides en PNG per a icones de 32 bits (Vista+)</li><li><strong>Estructura:</strong> Capçalera + múltiples entrades d'imatge en un sol fitxer</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats suportats"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Solució de problemes"
+
+      "description": "<ul><li><strong>Favicon no apareix:</strong> Esborra la memòria cau i assegura't que <code>/favicon.ico</code> estigui enllaçat a través de <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filtres:</strong> Fonts no incrustades, filtres complexos o actius externs poden rasteritzar-se de manera diferent. Converteix el text a contorns i actius en línia en el SVG.</li><li><strong>Retallat:</strong> Utilitza un tauler d'art quadrat amb marge per evitar el retallat després de la rasterització.</li><li><strong>La pujada falla:</strong> Assegura't que SVG ≤ 16&nbsp;MB i és un <code>image/svg+xml</code> vàlid.</li></ul>"
+
+    }
+    {
+      "title": "Millors pràctiques"
+
+      "description": "<ul><li>Dissenya en un llenç quadrat de 512×512 o 1024×1024 per a reduccions netes.</li><li>Manten les formes atrevides; evita línies fines en mides petites.</li><li>Utilitza un alt contrast per a la llegibilitat en icones de 16–32 px.</li></ul>"
+
+    }
+    {
+      "title": "Característiques del nostre conversor SVG a ICO"
+
+      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Conversió automàtica de vector a raster</li><li>Generació d'icones de múltiples mides</li><li>Transparència conservada</li><li>Processament segur</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest conversor SVG a ICO?",
+      "question": "És gratuït aquest conversor SVG a ICO?"
+
       "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Quines mides són suportades en fitxers ICO?",
-      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
-    },
-    {
-      "question": "Puc utilitzar ICO per a favicons de lloc web?",
-      "answer": "Sí. Col·loca <code>/favicon.ico</code> a l'arrel del teu lloc i fes referència a ell amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-    },
-    {
-      "question": "Quines mides de fitxer són suportades?",
-      "answer": "Pots pujar fitxers SVG de fins a 16&nbsp;MB."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "La qualitat de la icona serà bona?",
-      "answer": "Sí. Rasteritzem des del teu vector en múltiples mides per mantenir les vores nítides i la transparència intacta."
+
     }
-  ],
-  "note": "Els SVG es rasteritzen durant la conversió. Per a resultats consistents, converteix el text a contorns i incrusta els actius necessaris.",
+    {
+      "question": "Quines mides són suportades en fitxers ICO?"
+
+      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
+
+    }
+    {
+      "question": "Puc utilitzar ICO per a favicons de lloc web?"
+
+      "answer": "Sí. Col·loca <code>/favicon.ico</code> a l'arrel del teu lloc i fes referència a ell amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
+    }
+    {
+      "question": "Quines mides de fitxer són suportades?"
+
+      "answer": "Pots pujar fitxers SVG de fins a 16&nbsp;MB."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "La qualitat de la icona serà bona?"
+
+      "answer": "Sí. Rasteritzem des del teu vector en múltiples mides per mantenir les vores nítides i la transparència intacta."
+
+    }
+  ]
+  "note": "Els SVG es rasteritzen durant la conversió. Per a resultats consistents, converteix el text a contorns i incrusta els actius necessaris."
+
   "related_links": [
     {
-      "title": "Convertir PNG a ICO",
+      "title": "Convertir PNG a ICO"
+
       "url": "/en/convert/png-to-ico"
-    },
-    {
-      "title": "Convertir JPG a ICO",
-      "url": "/en/convert/jpg-to-ico"
-    },
-    {
-      "title": "Convertir ICO a PNG",
-      "url": "/en/convert/ico-to-png"
-    },
-    {
-      "title": "Convertir SVG a PNG",
-      "url": "/en/convert/svg-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Convertir JPG a ICO"
+
+      "url": "/en/convert/jpg-to-ico"
+
+    }
+    {
+      "title": "Convertir ICO a PNG"
+
+      "url": "/en/convert/ico-to-png"
+
+    }
+    {
+      "title": "Convertir SVG a PNG"
+
+      "url": "/en/convert/svg-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Conversor SVG a ICO - Gratuït i en línia",
-      "url": "https://wikihowto.click/en/convert/svg-to-ico",
-      "description": "Eina en línia gratuïta per convertir imatges SVG a ICO per a favicons i icones de desktop de Windows.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/svg-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor SVG a ICO - Gratuït i en línia"
+
+      "url": "https://miconvert.com/en/convert/svg-to-ico"
+
+      "description": "Eina en línia gratuïta per convertir imatges SVG a ICO per a favicons i icones de desktop de Windows."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/svg-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG a ICO",
-          "item": "https://wikihowto.click/en/convert/svg-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG a ICO"
+
+          "item": "https://miconvert.com/en/convert/svg-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Conversor SVG a ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/svg-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor SVG a ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/svg-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Vector a raster",
-        "Conjunt de múltiples mides",
+        "Vector a raster"
+
+        "Conjunt de múltiples mides"
+
         "Transparència conservada"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest conversor SVG a ICO?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest conversor SVG a ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són suportades?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són suportades?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar fitxers SVG de fins a 16 MB."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides són suportades en fitxers ICO?",
+          "@type": "Question"
+
+          "name": "Quines mides són suportades en fitxers ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir SVG a ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir SVG a ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Pujar SVG i selecciona el teu fitxer vectorial."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que la rasterització i l'optimització es completin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar ICO per desar el fitxer d'icona."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que la rasterització i l'optimització es completin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar ICO per desar el fitxer d'icona."
+
+        }
+      ]
       "tool": [
         "Conversor SVG a ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,230 +1,344 @@
 {
-  "lang": "es",
-  "lang_name": "Español",
-  "title": "Convertidor de PNG a JPG - Gratis y en Línea | WikiHowTo.click",
-  "sub_title": "Convierte imágenes PNG a formato JPG en línea con alta calidad, tamaños de archivo más pequeños y sin marcas de agua.",
-  "hint": "Sube tu imagen PNG para comenzar a convertir...",
-  "btn_download": "Convertir a JPG",
-  "btn_paste": "Subir PNG",
-  "btn_clear": "Limpiar",
-  "ogImage": "https://wikihowto.click/images/png-to-jpg.jpg",
+  "lang": "es"
+
+  "lang_name": "Español"
+
+  "title": "Convertidor de PNG a JPG - Gratis y en Línea | miconvert.com"
+
+  "sub_title": "Convierte imágenes PNG a formato JPG en línea con alta calidad, tamaños de archivo más pequeños y sin marcas de agua."
+
+  "hint": "Sube tu imagen PNG para comenzar a convertir..."
+
+  "btn_download": "Convertir a JPG"
+
+  "btn_paste": "Subir PNG"
+
+  "btn_clear": "Limpiar"
+
+  "ogImage": "https://miconvert.com/images/png-to-jpg.jpg"
+
   "converter": {
-    "type": "png-to-jpg",
-    "inputFormat": "PNG",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-jpg"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>¿Necesitas convertir <strong>PNG a JPG</strong> para tamaños de archivo más pequeños o mayor compatibilidad? Nuestro convertidor de PNG a JPG en línea gratuito crea JPEGs de alta calidad en segundos. Funciona en tu navegador, no requiere registro y mantiene tus archivos privados con eliminación automática después del procesamiento.</p><p>JPG es ideal para fotos e imágenes coloridas, ofreciendo una excelente compresión con buena calidad visual. PNG es sin pérdida (y a menudo más grande), por lo que cambiar a JPG ayuda a reducir el almacenamiento y acelerar la entrega web.</p>",
+  }
+  "description": "<p>¿Necesitas convertir <strong>PNG a JPG</strong> para tamaños de archivo más pequeños o mayor compatibilidad? Nuestro convertidor de PNG a JPG en línea gratuito crea JPEGs de alta calidad en segundos. Funciona en tu navegador, no requiere registro y mantiene tus archivos privados con eliminación automática después del procesamiento.</p><p>JPG es ideal para fotos e imágenes coloridas, ofreciendo una excelente compresión con buena calidad visual. PNG es sin pérdida (y a menudo más grande), por lo que cambiar a JPG ayuda a reducir el almacenamiento y acelerar la entrega web.</p>"
+
   "head": {
-    "title": "Convertir PNG a JPG en Línea - Convertidor de PNG a JPG Gratis | WikiHowTo.click",
-    "description": "Convierte PNG a JPG en línea con alta calidad, tamaños de archivo más pequeños y sin marcas de agua. Herramienta de conversión de PNG a JPG gratuita, rápida y segura.",
-    "keywords": "png a jpg, convertir png a jpg, png a jpg gratis, convertidor png en línea, compresión jpg",
-    "canonical": "https://wikihowto.click/es/convert/png-to-jpg",
-    "og_title": "Convertidor de PNG a JPG - Gratis y en Línea",
-    "og_description": "Convierte imágenes PNG a formato JPG con alta calidad y tamaños de archivo más pequeños. 100% gratis, rápido y seguro.",
-    "og_url": "https://wikihowto.click/es/convert/png-to-jpg",
-    "og_image": "https://wikihowto.click/images/png-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertidor de PNG a JPG Gratis en Línea",
-    "twitter_description": "Convierte PNG a JPG con alta calidad, tamaños de archivo más pequeños y sin marcas de agua. Funciona en todos los dispositivos.",
-    "twitter_image": "https://wikihowto.click/images/png-to-jpg.jpg"
-  },
+    "title": "Convertir PNG a JPG en Línea - Convertidor de PNG a JPG Gratis | miconvert.com"
+
+    "description": "Convierte PNG a JPG en línea con alta calidad, tamaños de archivo más pequeños y sin marcas de agua. Herramienta de conversión de PNG a JPG gratuita, rápida y segura."
+
+    "keywords": "png a jpg, convertir png a jpg, png a jpg gratis, convertidor png en línea, compresión jpg"
+
+    "canonical": "https://miconvert.com/es/convert/png-to-jpg"
+
+    "og_title": "Convertidor de PNG a JPG - Gratis y en Línea"
+
+    "og_description": "Convierte imágenes PNG a formato JPG con alta calidad y tamaños de archivo más pequeños. 100% gratis, rápido y seguro."
+
+    "og_url": "https://miconvert.com/es/convert/png-to-jpg"
+
+    "og_image": "https://miconvert.com/images/png-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Convertir PNG a JPG en Línea",
+    "title": "Convertir PNG a JPG en Línea"
+
     "description": "Convertidor de PNG a JPG gratis y rápido con alta calidad y tamaños de archivo más pequeños. Funciona instantáneamente en cualquier dispositivo — no se requiere registro."
-  },
+
+  }
   "h2": [
     {
-      "title": "¿Por qué convertir PNG a JPG?",
+      "title": "¿Por qué convertir PNG a JPG?"
+
       "description": "<p>PNG es excelente para gráficos con transparencia, pero puede ser pesado. JPG ofrece archivos más pequeños y amplia compatibilidad:</p><ul><li><strong>Tamaños de archivo más pequeños:</strong> Reduce el almacenamiento y acelera la carga de páginas.</li><li><strong>Mejor compatibilidad:</strong> JPG funciona en todas partes.</li><li><strong>Amigable para fotos:</strong> Ideal para fotos y degradados.</li><li><strong>Ahorro de ancho de banda:</strong> Imágenes más ligeras para móvil/web.</li></ul>"
-    },
-    {
-      "title": "Cómo convertir PNG a JPG en línea",
-      "description": "<ol><li>Haz clic en <em>Subir PNG</em> y elige tu archivo.</li><li>Espera a que se procese.</li><li>Haz clic en <em>Descargar JPG</em> para guardar tu imagen.</li></ol><p>La calidad se ajusta automáticamente para un fuerte equilibrio entre tamaño y fidelidad.</p>"
-    },
-    {
-      "title": "Consejos para mejores resultados",
-      "description": "<ul><li><strong>Ajuste de calidad:</strong> Usa 85–90% para imágenes importantes; 70–80% para web.</li><li><strong>Transparencia:</strong> El alfa de PNG se convierte en un fondo sólido (blanco por defecto) en JPG.</li><li><strong>Resolución:</strong> Redimensiona imágenes grandes antes de convertir para reducir aún más los archivos.</li><li><strong>Rendimiento web:</strong> Después de JPG, considera <a href='/es/convert/jpg-to-webp'>JPG → WebP</a> para ahorros adicionales.</li></ul>"
-    },
-    {
-      "title": "Límites y formatos soportados",
-      "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codificación:</strong> JPEG progresivo a través de mozjpeg</li></ul>"
-    },
-    {
-      "title": "Solución de problemas",
-      "description": "<ul><li><strong>Áreas transparentes:</strong> JPG no tiene alfa; el fondo será blanco. Si necesitas transparencia, mantén PNG.</li><li><strong>Cambio de color:</strong> Convierte a sRGB antes de subir para una visualización web consistente.</li><li><strong>Aún demasiado grande:</strong> Reduce la calidad ligeramente (80–85%) o redimensiona.</li><li><strong>Fallo en la carga:</strong> Asegúrate de que sea PNG y ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cómo convertir PNG a JPG en línea"
+
+      "description": "<ol><li>Haz clic en <em>Subir PNG</em> y elige tu archivo.</li><li>Espera a que se procese.</li><li>Haz clic en <em>Descargar JPG</em> para guardar tu imagen.</li></ol><p>La calidad se ajusta automáticamente para un fuerte equilibrio entre tamaño y fidelidad.</p>"
+
+    }
+    {
+      "title": "Consejos para mejores resultados"
+
+      "description": "<ul><li><strong>Ajuste de calidad:</strong> Usa 85–90% para imágenes importantes; 70–80% para web.</li><li><strong>Transparencia:</strong> El alfa de PNG se convierte en un fondo sólido (blanco por defecto) en JPG.</li><li><strong>Resolución:</strong> Redimensiona imágenes grandes antes de convertir para reducir aún más los archivos.</li><li><strong>Rendimiento web:</strong> Después de JPG, considera <a href='/es/convert/jpg-to-webp'>JPG → WebP</a> para ahorros adicionales.</li></ul>"
+
+    }
+    {
+      "title": "Límites y formatos soportados"
+
+      "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Codificación:</strong> JPEG progresivo a través de mozjpeg</li></ul>"
+
+    }
+    {
+      "title": "Solución de problemas"
+
+      "description": "<ul><li><strong>Áreas transparentes:</strong> JPG no tiene alfa; el fondo será blanco. Si necesitas transparencia, mantén PNG.</li><li><strong>Cambio de color:</strong> Convierte a sRGB antes de subir para una visualización web consistente.</li><li><strong>Aún demasiado grande:</strong> Reduce la calidad ligeramente (80–85%) o redimensiona.</li><li><strong>Fallo en la carga:</strong> Asegúrate de que sea PNG y ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "¿Es gratuito este convertidor de PNG a JPG?",
+      "question": "¿Es gratuito este convertidor de PNG a JPG?"
+
       "answer": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
-    },
-    {
-      "question": "¿Perderé transparencia al convertir PNG a JPG?",
-      "answer": "Sí. JPG no soporta transparencia, por lo que los píxeles transparentes se convierten en un fondo sólido (blanco por defecto)."
-    },
-    {
-      "question": "¿La imagen perderá calidad durante la conversión?",
-      "answer": "JPG utiliza compresión con pérdida. Usamos configuraciones de alta calidad para minimizar la pérdida visible."
-    },
-    {
-      "question": "¿Qué tamaños de archivo son soportados?",
-      "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
-    },
-    {
-      "question": "¿Mis archivos son seguros?",
-      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
-    },
-    {
-      "question": "¿Puedo convertir múltiples PNG a la vez?",
-      "answer": "Esta página convierte un archivo a la vez. Para necesidades masivas, repite el proceso o usa una herramienta de lote."
-    },
-    {
-      "question": "¿Puedo usar esta herramienta en mi teléfono?",
-      "answer": "Sí. El convertidor es amigable para móviles y funciona en navegadores de iOS y Android."
+
     }
-  ],
-  "note": "La conversión a JPG es con pérdida. Mantén una copia de tu PNG original si necesitas sin pérdida o transparencia más adelante.",
+    {
+      "question": "¿Perderé transparencia al convertir PNG a JPG?"
+
+      "answer": "Sí. JPG no soporta transparencia, por lo que los píxeles transparentes se convierten en un fondo sólido (blanco por defecto)."
+
+    }
+    {
+      "question": "¿La imagen perderá calidad durante la conversión?"
+
+      "answer": "JPG utiliza compresión con pérdida. Usamos configuraciones de alta calidad para minimizar la pérdida visible."
+
+    }
+    {
+      "question": "¿Qué tamaños de archivo son soportados?"
+
+      "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
+
+    }
+    {
+      "question": "¿Mis archivos son seguros?"
+
+      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
+
+    }
+    {
+      "question": "¿Puedo convertir múltiples PNG a la vez?"
+
+      "answer": "Esta página convierte un archivo a la vez. Para necesidades masivas, repite el proceso o usa una herramienta de lote."
+
+    }
+    {
+      "question": "¿Puedo usar esta herramienta en mi teléfono?"
+
+      "answer": "Sí. El convertidor es amigable para móviles y funciona en navegadores de iOS y Android."
+
+    }
+  ]
+  "note": "La conversión a JPG es con pérdida. Mantén una copia de tu PNG original si necesitas sin pérdida o transparencia más adelante."
+
   "related_links": [
     {
-      "title": "Convertir PNG a WebP",
+      "title": "Convertir PNG a WebP"
+
       "url": "/es/convert/png-to-webp"
-    },
-    {
-      "title": "Convertir JPG a PNG",
-      "url": "/es/convert/jpg-to-png"
-    },
-    {
-      "title": "Comprimir JPG en línea",
-      "url": "/es/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Todos los derechos reservados.",
+    {
+      "title": "Convertir JPG a PNG"
+
+      "url": "/es/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Comprimir JPG en línea"
+
+      "url": "/es/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Todos los derechos reservados."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a JPG - Gratis y en Línea",
-      "url": "https://wikihowto.click/es/convert/png-to-jpg",
-      "description": "Herramienta en línea gratuita para convertir imágenes PNG a JPG con alta calidad y tamaños de archivo más pequeños.",
-      "inLanguage": "es",
-      "image": "https://wikihowto.click/images/png-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a JPG - Gratis y en Línea"
+
+      "url": "https://miconvert.com/es/convert/png-to-jpg"
+
+      "description": "Herramienta en línea gratuita para convertir imágenes PNG a JPG con alta calidad y tamaños de archivo más pequeños."
+
+      "inLanguage": "es"
+
+      "image": "https://miconvert.com/images/png-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inicio",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inicio"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/es/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/es/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG a JPG",
-          "item": "https://wikihowto.click/es/convert/png-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG a JPG"
+
+          "item": "https://miconvert.com/es/convert/png-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertidor de PNG a JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/es/convert/png-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de PNG a JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/es/convert/png-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG de alta calidad",
-        "Codificación progresiva",
+        "JPEG de alta calidad"
+
+        "Codificación progresiva"
+
         "Procesamiento rápido"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "¿Es gratuito este convertidor de PNG a JPG?",
+          "@type": "Question"
+
+          "name": "¿Es gratuito este convertidor de PNG a JPG?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "¿Qué tamaños de archivo son soportados?",
+          "@type": "Question"
+
+          "name": "¿Qué tamaños de archivo son soportados?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Puedes subir imágenes de hasta 16 MB por archivo."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "¿Perderé transparencia?",
+          "@type": "Question"
+
+          "name": "¿Perderé transparencia?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí. JPG no soporta transparencia; los píxeles transparentes se convierten en un fondo sólido."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cómo convertir PNG a JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cómo convertir PNG a JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Haz clic en Subir PNG y selecciona tu archivo."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera a que se complete el procesamiento."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Haz clic en Descargar JPG para guardar el resultado."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera a que se complete el procesamiento."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Haz clic en Descargar JPG para guardar el resultado."
+
+        }
+      ]
       "tool": [
         "Convertidor de PNG a JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -42,10 +42,10 @@ const converters = {
     ]
 };
 
-// Twitter downloader pages
-const twitterPages = [
-    'video-downloader', 'to-mp3', 'to-mp4', 'image-downloader', 'gif-downloader', 'spaces-downloader'
-];
+// Twitter downloader pages - REMOVED
+// const twitterPages = [
+//     'video-downloader', 'to-mp3', 'to-mp4', 'image-downloader', 'gif-downloader', 'spaces-downloader'
+// ];
 
 // Other pages
 const otherPages = [
@@ -64,7 +64,7 @@ function generateSitemap() {
         // Homepage
         sitemap += `
   <url>
-    <loc>https://wikihowto.click/${lang}/</loc>
+    <loc>https://miconvert.com/${lang}/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>`;
@@ -72,7 +72,7 @@ function generateSitemap() {
         // Add hreflang links for all languages
         languages.forEach(hreflang => {
             sitemap += `
-    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://wikihowto.click/${hreflang}/"/>`;
+    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://miconvert.com/${hreflang}/"/>`;
         });
         
         sitemap += `
@@ -83,16 +83,16 @@ function generateSitemap() {
             converterList.forEach(converter => {
                 sitemap += `
   <url>
-    <loc>https://wikihowto.click/${lang}/${category}/convert-${converter}/</loc>
+    <loc>https://miconvert.com/${lang}/${category}/convert-${converter}/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="${lang}" href="https://wikihowto.click/${lang}/${category}/convert-${converter}/"/>`;
+    <xhtml:link rel="alternate" hreflang="${lang}" href="https://miconvert.com/${lang}/${category}/convert-${converter}/"/>`;
                 
                 // Add hreflang for other languages
                 languages.filter(l => l !== lang).forEach(hreflang => {
                     sitemap += `
-    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://wikihowto.click/${hreflang}/${category}/convert-${converter}/"/>`;
+    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://miconvert.com/${hreflang}/${category}/convert-${converter}/"/>`;
                 });
                 
                 sitemap += `
@@ -100,24 +100,24 @@ function generateSitemap() {
             });
         });
 
-        // Twitter downloader pages
-        twitterPages.forEach(page => {
-            sitemap += `
-  <url>
-    <loc>https://wikihowto.click/${lang}/twitter/${page}/</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="${lang}" href="https://wikihowto.click/${lang}/twitter/${page}/"/>`;
-            
-            languages.filter(l => l !== lang).forEach(hreflang => {
-                sitemap += `
-    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://wikihowto.click/${hreflang}/twitter/${page}/"/>`;
-            });
-            
-            sitemap += `
-  </url>`;
-        });
+        // Twitter downloader pages - REMOVED
+        // twitterPages.forEach(page => {
+        //     sitemap += `
+        //   <url>
+        //     <loc>https://miconvert.com/${lang}/twitter/${page}/</loc>
+        //     <lastmod>2025-01-21</lastmod>
+        //     <changefreq>weekly</changefreq>
+        //     <priority>0.7</priority>
+        //     <xhtml:link rel="alternate" hreflang="${lang}" href="https://miconvert.com/${lang}/twitter/${page}/"/>`;
+        //     
+        //     languages.filter(l => l !== lang).forEach(hreflang => {
+        //         sitemap += `
+        //     <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://miconvert.com/${hreflang}/twitter/${page}/"/>`;
+        //     });
+        //     
+        //     sitemap += `
+        //   </url>`;
+        // });
 
         // Other pages (privacy, terms)
         otherPages.forEach(page => {
@@ -125,15 +125,15 @@ function generateSitemap() {
             
             sitemap += `
   <url>
-    <loc>https://wikihowto.click/${lang}/${page.slug}/</loc>
+    <loc>https://miconvert.com/${lang}/${page.slug}/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="${lang}" href="https://wikihowto.click/${lang}/${page.slug}/"/>`;
+    <xhtml:link rel="alternate" hreflang="${lang}" href="https://miconvert.com/${lang}/${page.slug}/"/>`;
             
             languages.filter(l => l !== lang).forEach(hreflang => {
                 sitemap += `
-    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://wikihowto.click/${hreflang}/${page.slug}/"/>`;
+    <xhtml:link rel="alternate" hreflang="${hreflang}" href="https://miconvert.com/${hreflang}/${page.slug}/"/>`;
             });
             
             sitemap += `
@@ -152,8 +152,7 @@ const sitemapContent = generateSitemap();
 fs.writeFileSync('public/sitemap.xml', sitemapContent);
 
 console.log('✅ Sitemap generated successfully!');
-console.log(`📊 Total URLs: ${languages.length * (1 + Object.values(converters).flat().length + twitterPages.length + otherPages.length - 1)}`);
+console.log(`📊 Total URLs: ${languages.length * (1 + Object.values(converters).flat().length + otherPages.length - 1)}`);
 console.log(`🌍 Languages: ${languages.length}`);
 console.log(`🔧 Converters: ${Object.values(converters).flat().length}`);
-console.log(`🐦 Twitter pages: ${twitterPages.length}`);
 console.log(`📄 Other pages: ${otherPages.length - 1}`);

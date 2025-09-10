@@ -1,248 +1,374 @@
 {
-  "lang": "et",
-  "lang_name": "Eesti",
-  "title": "PNG AVIF Converter - Tasuta ja Veebis | WikiHowTo.click",
-  "sub_title": "Muuda PNG pilte AVIF-iks veebis suurepärase kokkusurumise ja kõrge kvaliteediga. Säilitab läbipaistvuse. Ilma veemärkideta.",
-  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist...",
-  "btn_download": "Muuda AVIF-iks",
-  "btn_paste": "Laadi üles PNG",
-  "btn_clear": "Kustuta",
-  "ogImage": "https://wikihowto.click/images/png-to-avif.jpg",
+  "lang": "et"
+
+  "lang_name": "Eesti"
+
+  "title": "PNG AVIF Converter - Tasuta ja Veebis | miconvert.com"
+
+  "sub_title": "Muuda PNG pilte AVIF-iks veebis suurepärase kokkusurumise ja kõrge kvaliteediga. Säilitab läbipaistvuse. Ilma veemärkideta."
+
+  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist..."
+
+  "btn_download": "Muuda AVIF-iks"
+
+  "btn_paste": "Laadi üles PNG"
+
+  "btn_clear": "Kustuta"
+
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
+
   "head": {
-    "title": "Muuda PNG AVIF-iks - Tasuta Veebis PNG AVIF Converter | WikiHowTo.click",
-    "description": "Muuda PNG pilte AVIF-iks veebis tasuta. Kõrge kvaliteediga PNG AVIF konverteerimine suurepärase kokkusurumise ja läbipaistvuse toega.",
-    "keywords": "png avif-iks, muuda png avif-iks, tasuta png avif-iks, veebis avif converter, pildi konverteerimine",
-    "canonical": "https://wikihowto.click/et/convert/png-to-avif",
-    "og_title": "Muuda PNG AVIF-iks - Tasuta Veebis PNG AVIF Converter",
-    "og_description": "Muuda PNG pilte AVIF-iks suurepärase kokkusurumise ja säilitatud läbipaistvusega. Tasuta, kiire ja turvaline.",
-    "og_url": "https://wikihowto.click/et/convert/png-to-avif",
-    "og_image": "https://wikihowto.click/images/png-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Tasuta PNG AVIF Converter Veebis",
-    "twitter_description": "Muuda PNG AVIF-iks suurepärase kokkusurumise ja läbipaistvuse toega. Töötab kõigil seadmetel.",
-    "twitter_image": "https://wikihowto.click/images/png-to-avif.jpg"
-  },
+    "title": "Muuda PNG AVIF-iks - Tasuta Veebis PNG AVIF Converter | miconvert.com"
+
+    "description": "Muuda PNG pilte AVIF-iks veebis tasuta. Kõrge kvaliteediga PNG AVIF konverteerimine suurepärase kokkusurumise ja läbipaistvuse toega."
+
+    "keywords": "png avif-iks, muuda png avif-iks, tasuta png avif-iks, veebis avif converter, pildi konverteerimine"
+
+    "canonical": "https://miconvert.com/et/convert/png-to-avif"
+
+    "og_title": "Muuda PNG AVIF-iks - Tasuta Veebis PNG AVIF Converter"
+
+    "og_description": "Muuda PNG pilte AVIF-iks suurepärase kokkusurumise ja säilitatud läbipaistvusega. Tasuta, kiire ja turvaline."
+
+    "og_url": "https://miconvert.com/et/convert/png-to-avif"
+
+    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Muuda PNG AVIF-iks Veebis",
+    "title": "Muuda PNG AVIF-iks Veebis"
+
     "description": "Tasuta ja kiire PNG AVIF converter suurepärase kokkusurumise ja täieliku läbipaistvuse toega. Töötab koheselt igas seadmes - registreerimist ei nõuta."
-  },
+
+  }
   "converter": {
-    "type": "png-to-avif",
-    "title": "PNG AVIF Converter",
-    "description": "Muuda PNG pilte AVIF-iks kaasaegse kokkusurumisega, säilitades alfa läbipaistvuse.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "PNG",
-    "outputFormat": "AVIF",
+    "type": "png-to-avif"
+
+    "title": "PNG AVIF Converter"
+
+    "description": "Muuda PNG pilte AVIF-iks kaasaegse kokkusurumisega, säilitades alfa läbipaistvuse."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 80,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 80
     "features": [
-      "Kõrge kvaliteediga AVIF väljund",
-      "Suurepärane kokkusurumine",
-      "Säilitab läbipaistvuse (alfa)",
+      "Kõrge kvaliteediga AVIF väljund"
+
+      "Suurepärane kokkusurumine"
+
+      "Säilitab läbipaistvuse (alfa)"
+
       "Tasuta veebitööriist"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "quality": 80,
-        "speed": 4,
-        "subsample": "4:4:4",
+        "quality": 80
+        "speed": 4
+        "subsample": "4:4:4"
+
         "lossless": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "PNG AVIF Konverteerimine Lõpetatud",
-    "back_button": "Tagasi Converterisse",
-    "convert_another": "Muuda Teine PNG",
+    "title": "PNG AVIF Konverteerimine Lõpetatud"
+
+    "back_button": "Tagasi Converterisse"
+
+    "convert_another": "Muuda Teine PNG"
+
     "quick_conversions": "Kiired Konversioonid:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miks Muuta PNG AVIF-iks?",
+      "title": "Miks Muuta PNG AVIF-iks?"
+
       "description": "<p>AVIF (AV1 Pildi Faili Formaat) on järgmise põlvkonna formaat, millel on erakordne efektiivsus:</p><ul><li><strong>Üksikasjalik kokkusurumine:</strong> Tihti 30–50% väiksem kui PNG sarnase kvaliteedi juures.</li><li><strong>Kaasaegne kodek:</strong> Põhineb AV1 standardil.</li><li><strong>Kõrge truudus:</strong> Suurepärane detailide säilitamine madalamate suuruste juures.</li><li><strong>Veebitootlikkus:</strong> Väiksemad pildid = kiiremad lehed ja paremad Core Web Vitals.</li></ul>"
-    },
-    {
-      "title": "Kuidas Muuta PNG AVIF-iks Veebis",
-      "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla AVIF</em>, et salvestada oma pilt.</li></ol><p>Converter tasakaalustab automaatselt kvaliteedi ja suuruse tavalise veebikasutuse jaoks.</p>"
-    },
-    {
-      "title": "AVIF vs PNG Võrdlus",
-      "description": "<ul><li><strong>Faili suurus:</strong> AVIF on tavaliselt 30–50% väiksem kui PNG.</li><li><strong>Kvaliteet:</strong> AVIF säilitab tugeva kvaliteedi madalamate bitikiiruste juures.</li><li><strong>Läbipaistvus:</strong> Mõlemad toetavad alfa läbipaistvust.</li><li><strong>Brauseri tugi:</strong> AVIF töötab kaasaegsetes brauserites (paku vajadusel varu).</li></ul>"
-    },
-    {
-      "title": "Toetatud Piirangud ja Formaadid",
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodeerimine:</strong> Kvaliteet ≈ 80, kiirus 4, 4:4:4 alamproovimine, et hoida servad puhtad</li></ul>"
-    },
-    {
-      "title": "Probleemide Lahendamine",
-      "description": "<ul><li><strong>Vanemad brauserid:</strong> Kasuta <code>&lt;picture&gt;</code> elementi PNG/WebP varuga.</li><li><strong>Servadel halo:</strong> 4:4:4 aitab; kui see on endiselt nähtav, alusta kõrgema resolutsiooniga PNG-st või täienda alfa.</li><li><strong>Vajalik kaotusteta:</strong> Kaalu PNG-d täpsete vajaduste jaoks või seadista AVIF kaotusteta edasistes töövoogudes.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et fail on PNG ja ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Kasutusjuhtumid: Millal Muuta PNG AVIF-iks",
-      "description": "<ul><li><strong>Veebi optimeerimine:</strong> Vähenda koormust ikoonide, kasutajaliidese ja läbipaistvusega graafika jaoks.</li><li><strong>Mobiilirakendused:</strong> Madalam ribalaius ja salvestusruumi kasutus.</li><li><strong>Suurte raamatukogude puhul:</strong> Salvesta kettaruumi ilma ilmse kvaliteedi kadumiseta.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kuidas Muuta PNG AVIF-iks Veebis"
+
+      "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla AVIF</em>, et salvestada oma pilt.</li></ol><p>Converter tasakaalustab automaatselt kvaliteedi ja suuruse tavalise veebikasutuse jaoks.</p>"
+
+    }
+    {
+      "title": "AVIF vs PNG Võrdlus"
+
+      "description": "<ul><li><strong>Faili suurus:</strong> AVIF on tavaliselt 30–50% väiksem kui PNG.</li><li><strong>Kvaliteet:</strong> AVIF säilitab tugeva kvaliteedi madalamate bitikiiruste juures.</li><li><strong>Läbipaistvus:</strong> Mõlemad toetavad alfa läbipaistvust.</li><li><strong>Brauseri tugi:</strong> AVIF töötab kaasaegsetes brauserites (paku vajadusel varu).</li></ul>"
+
+    }
+    {
+      "title": "Toetatud Piirangud ja Formaadid"
+
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodeerimine:</strong> Kvaliteet ≈ 80, kiirus 4, 4:4:4 alamproovimine, et hoida servad puhtad</li></ul>"
+
+    }
+    {
+      "title": "Probleemide Lahendamine"
+
+      "description": "<ul><li><strong>Vanemad brauserid:</strong> Kasuta <code>&lt;picture&gt;</code> elementi PNG/WebP varuga.</li><li><strong>Servadel halo:</strong> 4:4:4 aitab; kui see on endiselt nähtav, alusta kõrgema resolutsiooniga PNG-st või täienda alfa.</li><li><strong>Vajalik kaotusteta:</strong> Kaalu PNG-d täpsete vajaduste jaoks või seadista AVIF kaotusteta edasistes töövoogudes.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et fail on PNG ja ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Kasutusjuhtumid: Millal Muuta PNG AVIF-iks"
+
+      "description": "<ul><li><strong>Veebi optimeerimine:</strong> Vähenda koormust ikoonide, kasutajaliidese ja läbipaistvusega graafika jaoks.</li><li><strong>Mobiilirakendused:</strong> Madalam ribalaius ja salvestusruumi kasutus.</li><li><strong>Suurte raamatukogude puhul:</strong> Salvesta kettaruumi ilma ilmse kvaliteedi kadumiseta.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Kas see PNG AVIF converter on tasuta?",
+      "question": "Kas see PNG AVIF converter on tasuta?"
+
       "answer": "Jah, converter on täiesti tasuta, ilma varjatud tasude või tellimusteta."
-    },
-    {
-      "question": "Kas AVIF töötab kõigis brauserites?",
-      "answer": "AVIF on toetatud kaasaegsetes brauserites (Chrome, Firefox, Safari, Edge). Paku PNG/WebP varu vanematele."
-    },
-    {
-      "question": "Kui palju väiksemad on AVIF failid võrreldes PNG-ga?",
-      "answer": "Tavaliselt 30–50% väiksemad sarnase tajutava kvaliteedi juures, sõltuvalt pildist."
-    },
-    {
-      "question": "Milliseid faili suurusi toetatakse?",
-      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
-    },
-    {
-      "question": "Kas mu failid on turvalised?",
-      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
-    },
-    {
-      "question": "Kas ma saan korraga konverteerida mitut PNG-d?",
-      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
-    },
-    {
-      "question": "Kas AVIF on parem kui PNG veebisaitide jaoks?",
-      "answer": "Tihti jah väiksemate faili suuruste ja hea kvaliteedi jaoks; rangete kaotusteta või erijuhtumite jaoks võib PNG siiski olla eelistatud."
+
     }
-  ],
-  "note": "Maksimaalse ühilduvuse tagamiseks serveeri AVIF koos PNG/WebP varuga, kasutades <code>&lt;picture&gt;</code> elementi.",
+    {
+      "question": "Kas AVIF töötab kõigis brauserites?"
+
+      "answer": "AVIF on toetatud kaasaegsetes brauserites (Chrome, Firefox, Safari, Edge). Paku PNG/WebP varu vanematele."
+
+    }
+    {
+      "question": "Kui palju väiksemad on AVIF failid võrreldes PNG-ga?"
+
+      "answer": "Tavaliselt 30–50% väiksemad sarnase tajutava kvaliteedi juures, sõltuvalt pildist."
+
+    }
+    {
+      "question": "Milliseid faili suurusi toetatakse?"
+
+      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
+
+    }
+    {
+      "question": "Kas mu failid on turvalised?"
+
+      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
+
+    }
+    {
+      "question": "Kas ma saan korraga konverteerida mitut PNG-d?"
+
+      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
+
+    }
+    {
+      "question": "Kas AVIF on parem kui PNG veebisaitide jaoks?"
+
+      "answer": "Tihti jah väiksemate faili suuruste ja hea kvaliteedi jaoks; rangete kaotusteta või erijuhtumite jaoks võib PNG siiski olla eelistatud."
+
+    }
+  ]
+  "note": "Maksimaalse ühilduvuse tagamiseks serveeri AVIF koos PNG/WebP varuga, kasutades <code>&lt;picture&gt;</code> elementi."
+
   "related_links": [
     {
-      "title": "Muuda AVIF PNG-ks",
+      "title": "Muuda AVIF PNG-ks"
+
       "url": "/et/convert/avif-to-png"
-    },
-    {
-      "title": "Muuda PNG WebP-ks",
-      "url": "/et/convert/png-to-webp"
-    },
-    {
-      "title": "Muuda JPG AVIF-iks",
-      "url": "/et/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+    {
+      "title": "Muuda PNG WebP-ks"
+
+      "url": "/et/convert/png-to-webp"
+
+    }
+    {
+      "title": "Muuda JPG AVIF-iks"
+
+      "url": "/et/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG AVIF Converter - Tasuta ja Veebis",
-      "url": "https://wikihowto.click/et/convert/png-to-avif",
-      "description": "Tasuta veebitööriist PNG piltide konverteerimiseks AVIF-iks suurepärase kokkusurumise ja säilitatud läbipaistvusega.",
-      "inLanguage": "et",
-      "image": "https://wikihowto.click/images/png-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG AVIF Converter - Tasuta ja Veebis"
+
+      "url": "https://miconvert.com/et/convert/png-to-avif"
+
+      "description": "Tasuta veebitööriist PNG piltide konverteerimiseks AVIF-iks suurepärase kokkusurumise ja säilitatud läbipaistvusega."
+
+      "inLanguage": "et"
+
+      "image": "https://miconvert.com/images/png-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Avaleht",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Avaleht"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Muuda",
-          "item": "https://wikihowto.click/et/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Muuda"
+
+          "item": "https://miconvert.com/et/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG AVIF-iks",
-          "item": "https://wikihowto.click/et/convert/png-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG AVIF-iks"
+
+          "item": "https://miconvert.com/et/convert/png-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG AVIF Converter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/et/convert/png-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG AVIF Converter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/et/convert/png-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Suurepärane kokkusurumine",
-        "Säilitab läbipaistvuse",
+        "Suurepärane kokkusurumine"
+
+        "Säilitab läbipaistvuse"
+
         "Kiire töötlemine"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Kas see PNG AVIF converter on tasuta?",
+          "@type": "Question"
+
+          "name": "Kas see PNG AVIF converter on tasuta?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jah, converter on täiesti tasuta, ilma varjatud tasude või tellimusteta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Milliseid faili suurusi toetatakse?",
+          "@type": "Question"
+
+          "name": "Milliseid faili suurusi toetatakse?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kas AVIF töötab kõigis brauserites?",
+          "@type": "Question"
+
+          "name": "Kas AVIF töötab kõigis brauserites?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF on toetatud kaasaegsetes brauserites; paku PNG/WebP varu vanematele."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kuidas muuda PNG AVIF-iks",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kuidas muuda PNG AVIF-iks"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliki Laadi üles PNG ja vali oma fail."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Oota töötlemise ja optimeerimise lõpetamist."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliki Laadi alla AVIF, et salvestada tulemus."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Oota töötlemise ja optimeerimise lõpetamist."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliki Laadi alla AVIF, et salvestada tulemus."
+
+        }
+      ]
       "tool": [
         "PNG AVIF Converter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

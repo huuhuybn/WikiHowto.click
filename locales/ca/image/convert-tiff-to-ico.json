@@ -1,253 +1,379 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Conversor de TIFF a ICO - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges TIFF a format ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i sense marques d'aigua.",
-  "hint": "Puja la teva imatge TIFF per començar a convertir...",
-  "btn_download": "Convertir a ICO",
-  "btn_paste": "Pujar TIFF",
-  "btn_clear": "Esborrar",
-  "ogImage": "https://wikihowto.click/images/tiff-to-ico.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Conversor de TIFF a ICO - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges TIFF a format ICO en línia per a favicons i icones de desktop. Gratuït, ràpid i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge TIFF per començar a convertir..."
+
+  "btn_download": "Convertir a ICO"
+
+  "btn_paste": "Pujar TIFF"
+
+  "btn_clear": "Esborrar"
+
+  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg"
+
   "head": {
-    "title": "Converteix TIFF a ICO - Conversor de TIFF a ICO gratuït en línia | WikiHowTo.click",
-    "description": "Converteix imatges TIFF a format ICO en línia de manera gratuïta. Conversió de TIFF a ICO d'alta qualitat per a favicons i icones de desktop.",
-    "keywords": "tiff a ico, convertir tiff a ico, gratuït tiff a ico, conversor ico en línia, conversió d'icones, creador de favicons",
-    "canonical": "https://wikihowto.click/ca/convert/tiff-to-ico",
-    "og_title": "Conversor de TIFF a ICO - Gratuït i en línia",
-    "og_description": "Converteix imatges TIFF a format ICO per a favicons i icones de desktop. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/ca/convert/tiff-to-ico",
-    "og_image": "https://wikihowto.click/images/tiff-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Conversor gratuït de TIFF a ICO en línia",
-    "twitter_description": "Converteix TIFF a ICO per a favicons i icones de desktop. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/tiff-to-ico.jpg"
-  },
+    "title": "Converteix TIFF a ICO - Conversor de TIFF a ICO gratuït en línia | miconvert.com"
+
+    "description": "Converteix imatges TIFF a format ICO en línia de manera gratuïta. Conversió de TIFF a ICO d'alta qualitat per a favicons i icones de desktop."
+
+    "keywords": "tiff a ico, convertir tiff a ico, gratuït tiff a ico, conversor ico en línia, conversió d'icones, creador de favicons"
+
+    "canonical": "https://miconvert.com/ca/convert/tiff-to-ico"
+
+    "og_title": "Conversor de TIFF a ICO - Gratuït i en línia"
+
+    "og_description": "Converteix imatges TIFF a format ICO per a favicons i icones de desktop. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/ca/convert/tiff-to-ico"
+
+    "og_image": "https://miconvert.com/images/tiff-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Converteix TIFF a ICO en línia",
+    "title": "Converteix TIFF a ICO en línia"
+
     "description": "Conversor gratuït i ràpid de TIFF a ICO per a favicons i icones de desktop. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-  },
+
+  }
   "converter": {
-    "type": "tiff-to-ico",
-    "title": "Conversor de TIFF a ICO",
-    "description": "Converteix imatges TIFF a icones ICO de múltiples mides amb transparència preservada quan està disponible.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "TIFF",
-    "outputFormat": "ICO",
+    "type": "tiff-to-ico"
+
+    "title": "Conversor de TIFF a ICO"
+
+    "description": "Converteix imatges TIFF a icones ICO de múltiples mides amb transparència preservada quan està disponible."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "TIFF"
+
+    "outputFormat": "ICO"
+
     "allowedTypes": [
       "image/tiff"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "features": [
-      "Conversió ICO d'alta qualitat",
-      "Conjunt d'icones de múltiples mides (16–256 px)",
-      "Transparència preservada (si està present)",
+      "Conversió ICO d'alta qualitat"
+
+      "Conjunt d'icones de múltiples mides (16–256 px)"
+
+      "Transparència preservada (si està present)"
+
       "Eina en línia ràpida i gratuïta"
-    ],
+
+    ]
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Conversió de TIFF a ICO completada",
-    "back_button": "Tornar al conversor",
-    "convert_another": "Convertir un altre TIFF",
+    "title": "Conversió de TIFF a ICO completada"
+
+    "back_button": "Tornar al conversor"
+
+    "convert_another": "Convertir un altre TIFF"
+
     "quick_conversions": "Conversions ràpides:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir TIFF a ICO?",
+      "title": "Per què convertir TIFF a ICO?"
+
       "description": "<p>ICO està dissenyat específicament per a icones i favicons:</p><ul><li><strong>Múltiples mides en un fitxer:</strong> variants de 16–256 px agrupades per a una renderització nítida.</li><li><strong>Estàndard de favicon:</strong> Funciona a través dels principals navegadors.</li><li><strong>Native de Windows:</strong> Ideal per a icones d'escriptori/aplicació/accés directe.</li><li><strong>Transparència:</strong> Suport d'alpha per a vores suaus.</li></ul>"
-    },
-    {
-      "title": "Com convertir TIFF a ICO en línia",
-      "description": "<ol><li>Fes clic a <em>Pujar TIFF</em> i selecciona la teva imatge.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem automàticament les mides d'icona comunes.</p>"
-    },
-    {
-      "title": "Límits i formats suportats",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Pàgines:</strong> TIFFs de múltiples pàgines: només es converteix la <em>primera pàgina</em>.</li></ul>"
-    },
-    {
-      "title": "Millors pràctiques per a icones nítides",
-      "description": "<ul><li>Comença amb una imatge <strong>quadrada</strong> i afegeix espai per evitar el retallat.</li><li>Utilitza formes clares i alt contrast per a mides de 16–32 px.</li><li>Si necessites vores transparents, assegura't que el TIFF contingui un canal alpha o converteix un PNG amb transparència en el seu lloc.</li></ul>"
-    },
-    {
-      "title": "Solució de problemes",
-      "description": "<ul><li><strong>Favicon no actualitzat:</strong> Esborra la memòria cau del navegador i assegura't que enllaces <code>/favicon.ico</code> amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Mides petites esgrogueïdes:</strong> Pujar una font més gran i neta; l'eina reduirà a 16–32 px.</li><li><strong>La pujada falla:</strong> Confirma <code>image/tiff</code> i ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir TIFF a ICO en línia"
+
+      "description": "<ol><li>Fes clic a <em>Pujar TIFF</em> i selecciona la teva imatge.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarregar ICO</em> per desar la teva icona.</li></ol><p>Generem automàticament les mides d'icona comunes.</p>"
+
+    }
+    {
+      "title": "Límits i formats suportats"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Pàgines:</strong> TIFFs de múltiples pàgines: només es converteix la <em>primera pàgina</em>.</li></ul>"
+
+    }
+    {
+      "title": "Millors pràctiques per a icones nítides"
+
+      "description": "<ul><li>Comença amb una imatge <strong>quadrada</strong> i afegeix espai per evitar el retallat.</li><li>Utilitza formes clares i alt contrast per a mides de 16–32 px.</li><li>Si necessites vores transparents, assegura't que el TIFF contingui un canal alpha o converteix un PNG amb transparència en el seu lloc.</li></ul>"
+
+    }
+    {
+      "title": "Solució de problemes"
+
+      "description": "<ul><li><strong>Favicon no actualitzat:</strong> Esborra la memòria cau del navegador i assegura't que enllaces <code>/favicon.ico</code> amb <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Mides petites esgrogueïdes:</strong> Pujar una font més gran i neta; l'eina reduirà a 16–32 px.</li><li><strong>La pujada falla:</strong> Confirma <code>image/tiff</code> i ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "És gratuït aquest conversor de TIFF a ICO?",
+      "question": "És gratuït aquest conversor de TIFF a ICO?"
+
       "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Funcionaran els ICO en tots els sistemes operatius?",
-      "answer": "ICO és suportat de manera nativa a Windows i reconegut pels principals navegadors. Les eines de macOS/Linux també poden veure/edit ICO."
-    },
-    {
-      "question": "Quines mides són suportades per als fitxers ICO?",
-      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
-    },
-    {
-      "question": "Quines mides de fitxer són suportades?",
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-    },
-    {
-      "question": "Són segurs els meus fitxers?",
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-    },
-    {
-      "question": "Puc convertir múltiples TIFF alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
-    },
-    {
-      "question": "El conversor manté la transparència?",
-      "answer": "Si el teu TIFF inclou un canal alpha, la transparència es conservarà en el ICO."
+
     }
-  ],
-  "note": "TIFFs de múltiples pàgines: només es converteix la primera pàgina. Per obtenir els millors resultats, utilitza una imatge quadrada amb espai i, si cal, una font que inclogui transparència.",
+    {
+      "question": "Funcionaran els ICO en tots els sistemes operatius?"
+
+      "answer": "ICO és suportat de manera nativa a Windows i reconegut pels principals navegadors. Les eines de macOS/Linux també poden veure/edit ICO."
+
+    }
+    {
+      "question": "Quines mides són suportades per als fitxers ICO?"
+
+      "answer": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
+
+    }
+    {
+      "question": "Quines mides de fitxer són suportades?"
+
+      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
+
+    }
+    {
+      "question": "Són segurs els meus fitxers?"
+
+      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
+
+    }
+    {
+      "question": "Puc convertir múltiples TIFF alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
+
+    }
+    {
+      "question": "El conversor manté la transparència?"
+
+      "answer": "Si el teu TIFF inclou un canal alpha, la transparència es conservarà en el ICO."
+
+    }
+  ]
+  "note": "TIFFs de múltiples pàgines: només es converteix la primera pàgina. Per obtenir els millors resultats, utilitza una imatge quadrada amb espai i, si cal, una font que inclogui transparència."
+
   "related_links": [
     {
-      "title": "Convertir PNG a ICO",
+      "title": "Convertir PNG a ICO"
+
       "url": "/ca/convert/png-to-ico"
-    },
-    {
-      "title": "Convertir JPG a ICO",
-      "url": "/ca/convert/jpg-to-ico"
-    },
-    {
-      "title": "Convertir ICO a PNG",
-      "url": "/ca/convert/ico-to-png"
-    },
-    {
-      "title": "Convertir TIFF a PNG",
-      "url": "/ca/convert/tiff-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Convertir JPG a ICO"
+
+      "url": "/ca/convert/jpg-to-ico"
+
+    }
+    {
+      "title": "Convertir ICO a PNG"
+
+      "url": "/ca/convert/ico-to-png"
+
+    }
+    {
+      "title": "Convertir TIFF a PNG"
+
+      "url": "/ca/convert/tiff-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Conversor de TIFF a ICO - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/tiff-to-ico",
-      "description": "Eina gratuïta en línia per convertir imatges TIFF a ICO per a favicons i icones de desktop de Windows.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/tiff-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de TIFF a ICO - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/tiff-to-ico"
+
+      "description": "Eina gratuïta en línia per convertir imatges TIFF a ICO per a favicons i icones de desktop de Windows."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/tiff-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "TIFF a ICO",
-          "item": "https://wikihowto.click/ca/convert/tiff-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "TIFF a ICO"
+
+          "item": "https://miconvert.com/ca/convert/tiff-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Conversor de TIFF a ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/tiff-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Conversor de TIFF a ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/tiff-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Conjunt d'icones de múltiples mides",
-        "Transparència preservada",
+        "Conjunt d'icones de múltiples mides"
+
+        "Transparència preservada"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/tiff-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/tiff-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "És gratuït aquest conversor de TIFF a ICO?",
+          "@type": "Question"
+
+          "name": "És gratuït aquest conversor de TIFF a ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són suportades?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són suportades?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides són suportades en fitxers ICO?",
+          "@type": "Question"
+
+          "name": "Quines mides són suportades en fitxers ICO?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Les mides comunes inclouen 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir TIFF a ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir TIFF a ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Pujar TIFF i selecciona la teva imatge."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament i l'optimització es completin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar ICO per desar la teva icona."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament i l'optimització es completin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar ICO per desar la teva icona."
+
+        }
+      ]
       "tool": [
         "Conversor de TIFF a ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "no",
+  "lang_name": "Norsk",
+  "title": "miconvert.com - Gratis nettbaserte filomformere",
+  "sub_title": "Konverter filer mellom PDF, bilder, lyd, video og dokumenter med dedikerte verktøy for hvert formatpar. Raskt, sikkert og uten vannmerker.",
+  "hint": "Søk etter omformere (f.eks., JPG til PNG, PDF til JPG, MP3 til WAV)...",
+  "btn_download": "Søk etter omformere",
+  "btn_paste": "Se alle",
+  "btn_clear": "Tøm",
+  "description": "<p><strong>Velkommen til miconvert.com</strong> — en spesialisert hub for <em>parspesifikke filomformere</em>. I stedet for ett generisk verktøy, lager vi en dedikert side for hvert formatpar (f.eks., <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), slik at du alltid får de riktige alternativene, beste kvalitet og en enkel arbeidsflyt.</p><p>Hver omformer her er finjustert for sitt eksakte formål: bildeklarhet vs. størrelse, håndtering av gjennomsiktighet, utskriftsklare PDF-oppsett eller lydkvalitet. Ingen registrering, ingen vannmerker, og privat ved design — opplastinger behandles sikkert og slettes automatisk etter konvertering. Bruk på stasjonær PC, nettbrett eller mobil.</p><p>Utforsk våre **PDF-verktøy** (PDF ↔ JPG/PNG/TIFF/WebP, slå sammen/del), **bildeverktøy** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **lydverktøy** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **videoverktøy** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) og **dokumentverktøy** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Hvert verktøy er raskt, presist og fokusert.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Gratis nettbaserte filomformere - PDF, bilde, lyd og mer | miconvert.com",
+    "description": "Konverter filer online med gratis omformere. Spesialiserte verktøy for hvert formatpar: PDF til JPG, PNG til PDF, MP3 til WAV, og mer. Raskt, sikkert, ingen vannmerker.",
+    "keywords": "filomformer, pdf-omformer, bildeomformer, lydomformer, videoomformer, dokumentomformer, jpg til png, pdf til jpg, png til pdf, mp3 til wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Gratis nettbaserte filomformere",
+    "og_description": "Konverter PDF-filer, bilder, lyd, video og dokumenter med spesialiserte omformere for hvert formatpar. Gratis, raskt og uten vannmerker.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Hva er en filomformer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "En filomformer omformer en fil fra ett format til et annet (f.eks., JPG til PNG, PDF til JPG). Gode omformere bevarer viktig innhold (piksler, tekst, lyd) og metadata samtidig som de optimaliserer størrelse og kompatibilitet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Lagrer dere filene mine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nei. Filer behandles sikkert og slettes automatisk etter konvertering. Vi beholder dem ikke permanent."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Er konverteringene gratis og uten vannmerker?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ja. Alle verktøyene er 100 % gratis å bruke og legger aldri til vannmerker."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Gratis nettbaserte filomformere",
+    "description": "Ett verktøy per formatpar. Konverter PDF-filer, bilder, lyd, video og dokumenter online — raskt, sikkert og uten vannmerker."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Hva er en filomformer?",
+      "description": "<p>En filomformer endrer filens format for å forbedre <strong>kompatibilitet</strong>, <strong>kvalitet</strong> eller <strong>størrelse</strong>. Vanlige eksempler inkluderer konvertering av bilder for nettet (<em>PNG → WebP</em>), forberedelse av utskriftsklare dokumenter (<em>JPG/PNG → PDF</em>) eller ekstrahering av bilder fra dokumenter (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Gode omformere balanserer kvalitet og størrelse, bevarer gjennomsiktighet der det er aktuelt (PNG/WebP) og beholder oppsett for PDF-filer (sidestrørrelse, marginer, tilpasning til side). Våre verktøy viser fornuftige standardinnstillinger slik at de fleste brukere kan konvertere på sekunder.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Tapsrik vs. tapsløs, raster vs. vektor",
+      "description": "<ul><li><strong>Tapsrik vs. tapsløs:</strong> JPG/WebP (tapsrik) reduserer størrelsen ved å forkaste noen data; PNG/TIFF (tapsløs) beholder full detalj. Velg tapsrik for deling på nettet, tapsløs for redigering/arkivering.</li><li><strong>Raster vs. vektor:</strong> JPG/PNG/WebP/TIFF er raster (piksler). SVG/AI er vektor (former, baner). Raster trenger tilstrekkelig oppløsning (DPI) for utskrift; vektor skalerer uendelig uten uskarphet.</li><li><strong>Farge og metadata:</strong> Konverteringer kan påvirke ICC-profiler, EXIF eller alfakanaler. Våre bilde-til-PDF-verktøy bevarer gjennomsiktighetsatferd på riktig måte og tilpasser bilder til siden med marginer for forutsigbar utskrift.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Populære konverteringskategorier",
+      "description": "<ul><li><strong>PDF-verktøy:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Slå sammen JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Kombiner PNG → PDF</a></li><li><strong>Bildeverktøy:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Lydverktøy:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Videoverktøy:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Dokumentverktøy:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Slik fungerer det",
+      "description": "<ol><li>Velg omformeren for det eksakte formatparet (f.eks., <em>PNG → PDF</em>).</li><li>Last opp én eller flere filer (batch støttes på mange verktøy).</li><li>Klikk konverter — standardinnstillinger er optimalisert for kvalitet og størrelse.</li><li>Last ned resultatet umiddelbart. Ingen registrering, ingen vannmerker.</li></ol><p>Tips: Behold bilder med konsistente sideforhold når du slår sammen til PDF for et ensartet oppsett. For nett, bør du vurdere WebP for å redusere størrelsen med utmerket kvalitet.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Sikkerhet og personvern",
+      "description": "<ul><li><strong>Krypterte overføringer:</strong> Filer flyttes over sikre tilkoblinger.</li><li><strong>Automatisk sletting:</strong> Behandlede filer slettes automatisk.</li><li><strong>Ingen permanent lagring:</strong> Vi beholder ikke filene dine etter behandling.</li><li><strong>Ingen vannmerker:</strong> Resultatene er rene og klare til bruk.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Hva er en filomformer?",
+      "answer": "Den endrer en fil fra ett format til et annet (f.eks., JPG → PNG, PDF → JPG) for å forbedre kompatibilitet, kvalitet eller størrelse."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Hvilke omformere er mest populære?",
+      "answer": "PDF ↔ Bilde (PDF → JPG/PNG/WebP/TIFF og JPG/PNG/WebP/TIFF → PDF) og Bilde ↔ Bilde (JPG ↔ PNG, PNG ↔ WebP) er de mest brukte."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Komprimerer dere bilder?",
+      "answer": "Ja, tapsrike formater som JPG/WebP reduserer størrelsen med justerbar kvalitet; tapsløse formater som PNG/TIFF bevarer detaljer."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Bevarer dere gjennomsiktighet?",
+      "answer": "PNG og WebP støtter alfakanaler. Når du konverterer til PDF, er sidene utformet med marginer og tilpasningsatferd for forutsigbar utdata."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Støttes OCR?",
+      "answer": "OCR er ikke aktivert som standard. For tekstekstraksjon fra bilder/PDF-er, bruk dedikerte OCR-verktøy."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maksimal filstørrelse?",
+      "answer": "De fleste omformere støtter opptil 100 MB per konvertering. For større filer, del eller komprimer først."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Lagres filene mine?",
+      "answer": "Nei. Filer behandles sikkert og slettes automatisk etter konvertering."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Kan jeg konvertere i batch eller slå sammen?",
+      "answer": "Mange verktøy støtter opplasting av flere filer og sammenslåing (f.eks., Slå sammen JPG → PDF, Kombiner PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Merk: Hver omformer er optimalisert for ett enkelt formatpar, noe som sikrer best mulig kvalitet og hastighet. For det mest ensartede PDF-oppsettet, bruk konsistente bildemål og retning.",
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheter reservert."
 }

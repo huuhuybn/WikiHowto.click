@@ -1,242 +1,362 @@
 {
-  "lang": "ca",
-  "lang_name": "Català",
-  "title": "Convertidor de WebP a JPG - Gratuït i en línia | WikiHowTo.click",
-  "sub_title": "Converteix imatges WebP a format JPG en línia amb alta qualitat, millor compatibilitat i sense marques d'aigua.",
-  "hint": "Puja la teva imatge WebP per començar a convertir...",
-  "btn_download": "Convertir a JPG",
-  "btn_paste": "Pujar WebP",
-  "btn_clear": "Esborrar",
-  "ogImage": "https://wikihowto.click/images/webp-to-jpg.jpg",
+  "lang": "ca"
+
+  "lang_name": "Català"
+
+  "title": "Convertidor de WebP a JPG - Gratuït i en línia | miconvert.com"
+
+  "sub_title": "Converteix imatges WebP a format JPG en línia amb alta qualitat, millor compatibilitat i sense marques d'aigua."
+
+  "hint": "Puja la teva imatge WebP per començar a convertir..."
+
+  "btn_download": "Convertir a JPG"
+
+  "btn_paste": "Pujar WebP"
+
+  "btn_clear": "Esborrar"
+
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
+
   "converter": {
-    "type": "webp-to-jpg",
-    "inputFormat": "WebP",
-    "outputFormat": "JPG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-jpg"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "JPG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/jpeg",
-    "outputExtension": ".jpg",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/jpeg"
+
+    "outputExtension": ".jpg"
+
+    "quality": 90
     "options": {
       "jpeg": {
-        "quality": 90,
-        "progressive": true,
+        "quality": 90
+        "progressive": true
         "mozjpeg": true
       }
     }
-  },
-  "description": "<p>Necessites convertir <strong>WebP a JPG</strong> per a una millor compatibilitat? Aquest convertidor en línia gratuït transforma imatges WebP modernes en JPEGs universalment suportats mantenint una forta qualitat visual. <em>Nota:</em> JPG no suporta transparència—les àrees transparents es ompliran amb un fons sòlid (blanc per defecte). Els fitxers WebP animats es converteixen com una imatge estàtica utilitzant el <strong>primer fotograma</strong>.</p>",
+  }
+  "description": "<p>Necessites convertir <strong>WebP a JPG</strong> per a una millor compatibilitat? Aquest convertidor en línia gratuït transforma imatges WebP modernes en JPEGs universalment suportats mantenint una forta qualitat visual. <em>Nota:</em> JPG no suporta transparència—les àrees transparents es ompliran amb un fons sòlid (blanc per defecte). Els fitxers WebP animats es converteixen com una imatge estàtica utilitzant el <strong>primer fotograma</strong>.</p>"
+
   "head": {
-    "title": "Converteix WebP a JPG en línia - Convertidor gratuït de WebP a JPG | WikiHowTo.click",
-    "description": "Converteix WebP a JPG en línia amb alta qualitat, millor compatibilitat i sense marques d'aigua. Eina de conversió gratuïta, ràpida i segura de WebP a JPG.",
-    "keywords": "webp a jpg, convertir webp a jpg, webp a jpg gratuït, convertidor webp en línia, compatibilitat d'imatges",
-    "canonical": "https://wikihowto.click/ca/convert/webp-to-jpg",
-    "og_title": "Convertidor de WebP a JPG - Gratuït i en línia",
-    "og_description": "Converteix imatges WebP a format JPG amb alta qualitat i millor compatibilitat. 100% gratuït, ràpid i segur.",
-    "og_url": "https://wikihowto.click/ca/convert/webp-to-jpg",
-    "og_image": "https://wikihowto.click/images/webp-to-jpg.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertidor gratuït de WebP a JPG en línia",
-    "twitter_description": "Converteix WebP a JPG amb alta qualitat, millor compatibilitat i sense marques d'aigua. Funciona en tots els dispositius.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-jpg.jpg"
-  },
+    "title": "Converteix WebP a JPG en línia - Convertidor gratuït de WebP a JPG | miconvert.com"
+
+    "description": "Converteix WebP a JPG en línia amb alta qualitat, millor compatibilitat i sense marques d'aigua. Eina de conversió gratuïta, ràpida i segura de WebP a JPG."
+
+    "keywords": "webp a jpg, convertir webp a jpg, webp a jpg gratuït, convertidor webp en línia, compatibilitat d'imatges"
+
+    "canonical": "https://miconvert.com/ca/convert/webp-to-jpg"
+
+    "og_title": "Convertidor de WebP a JPG - Gratuït i en línia"
+
+    "og_description": "Converteix imatges WebP a format JPG amb alta qualitat i millor compatibilitat. 100% gratuït, ràpid i segur."
+
+    "og_url": "https://miconvert.com/ca/convert/webp-to-jpg"
+
+    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+  }
   "h1": {
-    "title": "Converteix WebP a JPG en línia",
+    "title": "Converteix WebP a JPG en línia"
+
     "description": "Convertidor gratuït i ràpid de WebP a JPG amb alta qualitat i millor compatibilitat. Funciona instantàniament en qualsevol dispositiu, sense necessitat de registre."
-  },
+
+  }
   "h2": [
     {
-      "title": "Per què convertir WebP a JPG?",
+      "title": "Per què convertir WebP a JPG?"
+
       "description": "<p>Tot i que WebP ofereix una compressió superior, JPG proporciona compatibilitat universal:</p><ul><li><strong>Funciona a tot arreu:</strong> JPG és suportat per pràcticament tots els dispositius i aplicacions.</li><li><strong>Requisits de plataforma:</strong> Alguns serveis encara requereixen pujades JPG.</li><li><strong>Suport llegat:</strong> Navegadors i eines més antigues poden no suportar WebP.</li><li><strong>Compartició fàcil:</strong> JPG s'obre de manera fiable a través de plataformes.</li></ul>"
-    },
-    {
-      "title": "Com convertir WebP a JPG en línia",
-      "description": "<ol><li>Fes clic a <em>Pujar WebP</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarregar JPG</em> per obtenir el teu fitxer compatible.</li></ol><p>Utilitzem JPEG progressiu (mozjpeg) per a un gran equilibri entre mida i qualitat.</p>"
-    },
-    {
-      "title": "Comparació entre WebP i JPG",
-      "description": "<ul><li><strong>Mida del fitxer:</strong> WebP és típicament un 25–35% més petit que JPG a qualitat similar.</li><li><strong>Compatibilitat:</strong> JPG té suport universal.</li><li><strong>Transparència:</strong> WebP suporta alfa; JPG no.</li><li><strong>Animació:</strong> WebP pot ser animat; JPG és sempre estàtic.</li></ul>"
-    },
-    {
-      "title": "Característiques del nostre convertidor de WebP a JPG",
-      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Conversió d'alta qualitat (JPEG progressiu)</li><li>Pujades segures i xifrades</li><li>Eliminació automàtica del fitxer després de la conversió</li><li>Funciona en Windows, Mac, iOS i Android</li></ul>"
-    },
-    {
-      "title": "Límits i formats suportats",
-      "description": "<ul><li><strong>Entrada acceptada:</strong> WebP (<code>image/webp</code>)</li><li><strong>Mida màxima del fitxer:</strong> 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animació:</strong> Només el primer fotograma</li></ul>"
-    },
-    {
-      "title": "Resolució de problemes",
-      "description": "<ul><li><strong>Transparència perduda:</strong> JPG no pot emmagatzemar alfa. Utilitza <a href='/ca/convert/webp-to-png'>WebP → PNG</a> si necessites transparència.</li><li><strong>Colors que semblen diferents:</strong> La sortida es converteix a sRGB per a la consistència web.</li><li><strong>Fitxer encara gran:</strong> Prova a reduir la qualitat al 80–85% o redimensiona la imatge abans de convertir.</li><li><strong>Pujada fallida:</strong> Assegura't que el fitxer és <code>image/webp</code> i ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Com convertir WebP a JPG en línia"
+
+      "description": "<ol><li>Fes clic a <em>Pujar WebP</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarregar JPG</em> per obtenir el teu fitxer compatible.</li></ol><p>Utilitzem JPEG progressiu (mozjpeg) per a un gran equilibri entre mida i qualitat.</p>"
+
+    }
+    {
+      "title": "Comparació entre WebP i JPG"
+
+      "description": "<ul><li><strong>Mida del fitxer:</strong> WebP és típicament un 25–35% més petit que JPG a qualitat similar.</li><li><strong>Compatibilitat:</strong> JPG té suport universal.</li><li><strong>Transparència:</strong> WebP suporta alfa; JPG no.</li><li><strong>Animació:</strong> WebP pot ser animat; JPG és sempre estàtic.</li></ul>"
+
+    }
+    {
+      "title": "Característiques del nostre convertidor de WebP a JPG"
+
+      "description": "<ul><li>100% gratuït sense marques d'aigua</li><li>Conversió d'alta qualitat (JPEG progressiu)</li><li>Pujades segures i xifrades</li><li>Eliminació automàtica del fitxer després de la conversió</li><li>Funciona en Windows, Mac, iOS i Android</li></ul>"
+
+    }
+    {
+      "title": "Límits i formats suportats"
+
+      "description": "<ul><li><strong>Entrada acceptada:</strong> WebP (<code>image/webp</code>)</li><li><strong>Mida màxima del fitxer:</strong> 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animació:</strong> Només el primer fotograma</li></ul>"
+
+    }
+    {
+      "title": "Resolució de problemes"
+
+      "description": "<ul><li><strong>Transparència perduda:</strong> JPG no pot emmagatzemar alfa. Utilitza <a href='/ca/convert/webp-to-png'>WebP → PNG</a> si necessites transparència.</li><li><strong>Colors que semblen diferents:</strong> La sortida es converteix a sRGB per a la consistència web.</li><li><strong>Fitxer encara gran:</strong> Prova a reduir la qualitat al 80–85% o redimensiona la imatge abans de convertir.</li><li><strong>Pujada fallida:</strong> Assegura't que el fitxer és <code>image/webp</code> i ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Aquest convertidor de WebP a JPG és gratuït?",
+      "question": "Aquest convertidor de WebP a JPG és gratuït?"
+
       "answer": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
-    },
-    {
-      "question": "Perdré qualitat al convertir WebP a JPG?",
-      "answer": "JPG utilitza compressió amb pèrdua, però utilitzem configuracions d'alta qualitat (mozjpeg, progressiu) per minimitzar la pèrdua visible."
-    },
-    {
-      "question": "Perdré transparència?",
-      "answer": "Sí. JPG no suporta transparència—els píxels transparents es convertiran en sòlids (blanc per defecte)."
-    },
-    {
-      "question": "Suporteu WebP animat?",
-      "answer": "El WebP animat es converteix com una imatge estàtica utilitzant el primer fotograma."
-    },
-    {
-      "question": "Quines mides de fitxer són suportades?",
-      "answer": "Pots pujar imatges de fins a 16 MB per fitxer."
-    },
-    {
-      "question": "Puc convertir múltiples fitxers alhora?",
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Repeteix el procés per a múltiples imatges."
+
     }
-  ],
-  "note": "JPG és amb pèrdua i elimina la transparència. Mantingues el teu WebP original per a arxivar o quan es requereixi transparència/animació.",
+    {
+      "question": "Perdré qualitat al convertir WebP a JPG?"
+
+      "answer": "JPG utilitza compressió amb pèrdua, però utilitzem configuracions d'alta qualitat (mozjpeg, progressiu) per minimitzar la pèrdua visible."
+
+    }
+    {
+      "question": "Perdré transparència?"
+
+      "answer": "Sí. JPG no suporta transparència—els píxels transparents es convertiran en sòlids (blanc per defecte)."
+
+    }
+    {
+      "question": "Suporteu WebP animat?"
+
+      "answer": "El WebP animat es converteix com una imatge estàtica utilitzant el primer fotograma."
+
+    }
+    {
+      "question": "Quines mides de fitxer són suportades?"
+
+      "answer": "Pots pujar imatges de fins a 16 MB per fitxer."
+
+    }
+    {
+      "question": "Puc convertir múltiples fitxers alhora?"
+
+      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Repeteix el procés per a múltiples imatges."
+
+    }
+  ]
+  "note": "JPG és amb pèrdua i elimina la transparència. Mantingues el teu WebP original per a arxivar o quan es requereixi transparència/animació."
+
   "related_links": [
     {
-      "title": "Convertir WebP a PNG (manté la transparència)",
+      "title": "Convertir WebP a PNG (manté la transparència)"
+
       "url": "/ca/convert/webp-to-png"
-    },
-    {
-      "title": "Convertir JPG a WebP",
-      "url": "/ca/convert/jpg-to-webp"
-    },
-    {
-      "title": "Convertir WebP a AVIF",
-      "url": "/ca/convert/webp-to-avif"
-    },
-    {
-      "title": "Comprimir JPG en línia",
-      "url": "/ca/compress/jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tots els drets reservats.",
+    {
+      "title": "Convertir JPG a WebP"
+
+      "url": "/ca/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "Convertir WebP a AVIF"
+
+      "url": "/ca/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Comprimir JPG en línia"
+
+      "url": "/ca/compress/jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Convertidor de WebP a JPG - Gratuït i en línia",
-      "url": "https://wikihowto.click/ca/convert/webp-to-jpg",
-      "description": "Eina en línia gratuïta per convertir imatges WebP a JPG per a la màxima compatibilitat.",
-      "inLanguage": "ca",
-      "image": "https://wikihowto.click/images/webp-to-jpg.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de WebP a JPG - Gratuït i en línia"
+
+      "url": "https://miconvert.com/ca/convert/webp-to-jpg"
+
+      "description": "Eina en línia gratuïta per convertir imatges WebP a JPG per a la màxima compatibilitat."
+
+      "inLanguage": "ca"
+
+      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inici",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Inici"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertir",
-          "item": "https://wikihowto.click/ca/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertir"
+
+          "item": "https://miconvert.com/ca/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP a JPG",
-          "item": "https://wikihowto.click/ca/convert/webp-to-jpg"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP a JPG"
+
+          "item": "https://miconvert.com/ca/convert/webp-to-jpg"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Convertidor de WebP a JPG",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ca/convert/webp-to-jpg",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Convertidor de WebP a JPG"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ca/convert/webp-to-jpg"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "JPEG progressiu",
-        "Conversió d'alta qualitat",
+        "JPEG progressiu"
+
+        "Conversió d'alta qualitat"
+
         "Processament ràpid"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-jpg.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Aquest convertidor de WebP a JPG és gratuït?",
+          "@type": "Question"
+
+          "name": "Aquest convertidor de WebP a JPG és gratuït?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Quines mides de fitxer són suportades?",
+          "@type": "Question"
+
+          "name": "Quines mides de fitxer són suportades?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Suporteu WebP animat?",
+          "@type": "Question"
+
+          "name": "Suporteu WebP animat?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "El WebP animat es converteix com una imatge estàtica utilitzant el primer fotograma."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Perdré transparència?",
+          "@type": "Question"
+
+          "name": "Perdré transparència?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sí. JPG no suporta transparència—els píxels transparents es convertiran en un color sòlid (blanc per defecte)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Com convertir WebP a JPG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Com convertir WebP a JPG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Fes clic a Pujar WebP i selecciona el teu fitxer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Espera que el processament i l'optimització es completin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fes clic a Descarregar JPG per desar la teva imatge."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Espera que el processament i l'optimització es completin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Fes clic a Descarregar JPG per desar la teva imatge."
+
+        }
+      ]
       "tool": [
         "Convertidor de WebP a JPG"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

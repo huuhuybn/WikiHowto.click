@@ -1,238 +1,359 @@
 {
-  "lang": "fi",
-  "lang_name": "Suomi",
-  "title": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu | WikiHowTo.click",
-  "sub_title": "Muuta SVG-vektorigrafiikka PNG:ksi verkossa terävällä rasteroinnilla, läpinäkyvyydellä ja ilman vesileimoja.",
-  "hint": "Lataa SVG-tiedostosi aloittaaksesi muuntamisen...",
-  "btn_download": "Muuta PNG:ksi",
-  "btn_paste": "Lataa SVG",
-  "btn_clear": "Tyhjennä",
-  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "lang": "fi"
+
+  "lang_name": "Suomi"
+
+  "title": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu | miconvert.com"
+
+  "sub_title": "Muuta SVG-vektorigrafiikka PNG:ksi verkossa terävällä rasteroinnilla, läpinäkyvyydellä ja ilman vesileimoja."
+
+  "hint": "Lataa SVG-tiedostosi aloittaaksesi muuntamisen..."
+
+  "btn_download": "Muuta PNG:ksi"
+
+  "btn_paste": "Lataa SVG"
+
+  "btn_clear": "Tyhjennä"
+
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
+
   "head": {
-    "title": "Muuta SVG PNG:ksi - Ilmainen Verkkopalvelu SVG:stä PNG:ksi | WikiHowTo.click",
-    "description": "Muuta SVG-vektorigrafiikka PNG:ksi verkossa ilmaiseksi. Korkealaatuinen SVG→PNG-rasterointi nopealla käsittelyllä ja läpinäkyvyyden tuella.",
-    "keywords": "svg png:ksi, muunna svg png:ksi, vektori rasteriksi, ilmainen svg-muunnin, verkkopng-muunnin",
-    "canonical": "https://wikihowto.click/fi/convert/svg-to-png",
-    "og_title": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu",
-    "og_description": "Muuta SVG PNG:ksi terävällä rasteroinnilla ja läpinäkyvyydellä. 100% ilmainen, nopea ja turvallinen.",
-    "og_url": "https://wikihowto.click/fi/convert/svg-to-png",
-    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Ilmainen SVG to PNG -muunnin verkossa",
-    "twitter_description": "Muuta SVG PNG:ksi läpinäkyvyyden tuella ja korkealla laadulla. Toimii kaikilla laitteilla.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
-  },
+    "title": "Muuta SVG PNG:ksi - Ilmainen Verkkopalvelu SVG:stä PNG:ksi | miconvert.com"
+
+    "description": "Muuta SVG-vektorigrafiikka PNG:ksi verkossa ilmaiseksi. Korkealaatuinen SVG→PNG-rasterointi nopealla käsittelyllä ja läpinäkyvyyden tuella."
+
+    "keywords": "svg png:ksi, muunna svg png:ksi, vektori rasteriksi, ilmainen svg-muunnin, verkkopng-muunnin"
+
+    "canonical": "https://miconvert.com/fi/convert/svg-to-png"
+
+    "og_title": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu"
+
+    "og_description": "Muuta SVG PNG:ksi terävällä rasteroinnilla ja läpinäkyvyydellä. 100% ilmainen, nopea ja turvallinen."
+
+    "og_url": "https://miconvert.com/fi/convert/svg-to-png"
+
+    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Muuta SVG PNG:ksi verkossa",
+    "title": "Muuta SVG PNG:ksi verkossa"
+
     "description": "Ilmainen ja nopea SVG to PNG -muunnin terävällä rasteroinnilla ja läpinäkyvyyden tuella. Toimii heti kaikilla laitteilla - ei rekisteröitymistä vaadita."
-  },
-  "description": "<p>Muunna <strong>SVG PNG:ksi</strong> sekunneissa. Tämä ilmainen verkkomuunnin rasteroi vektorigrafiikkasi korkealaatuisiksi PNG-kuviksi säilyttäen läpinäkyvyyden puhtaille reunoille kaikilla taustoilla.</p><p>Erinomainen faviconien, sovellusten resurssien, sosiaalisten kuvien ja verkkografiikan luomiseen. Optimoimme tuloksen vahvaksi tasapainoksi selkeyden ja tiedostokoon välillä.</p>",
+
+  }
+  "description": "<p>Muunna <strong>SVG PNG:ksi</strong> sekunneissa. Tämä ilmainen verkkomuunnin rasteroi vektorigrafiikkasi korkealaatuisiksi PNG-kuviksi säilyttäen läpinäkyvyyden puhtaille reunoille kaikilla taustoilla.</p><p>Erinomainen faviconien, sovellusten resurssien, sosiaalisten kuvien ja verkkografiikan luomiseen. Optimoimme tuloksen vahvaksi tasapainoksi selkeyden ja tiedostokoon välillä.</p>"
+
   "converter": {
-    "type": "svg-to-png",
-    "title": "SVG to PNG -muunnin",
-    "description": "Muuta SVG-vektorigrafiikka PNG-rasterimuotoon korkealla laadulla ja nopealla käsittelyllä.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "SVG",
-    "outputFormat": "PNG",
+    "type": "svg-to-png"
+
+    "title": "SVG to PNG -muunnin"
+
+    "description": "Muuta SVG-vektorigrafiikka PNG-rasterimuotoon korkealla laadulla ja nopealla käsittelyllä."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "PNG"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
     "features": [
-      "Korkealaatuinen rasterointi",
-      "Läpinäkyvyys säilytetään",
-      "Nopea käsittely",
+      "Korkealaatuinen rasterointi"
+
+      "Läpinäkyvyys säilytetään"
+
+      "Nopea käsittely"
+
       "Ilmainen verkkotyökalu"
-    ],
+
+    ]
     "options": {
       "png": {
-        "compressionLevel": 6,
-        "progressive": false,
-        "background": "läpinäkyvä",
-        "width": null,
-        "height": null,
+        "compressionLevel": 6
+        "progressive": false
+        "background": "läpinäkyvä"
+
+        "width": null
+        "height": null
         "scale": 1
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "SVG to PNG -muunnos valmis",
-    "back_button": "Takaisin muuntimeen",
-    "convert_another": "Muuta toinen SVG",
+    "title": "SVG to PNG -muunnos valmis"
+
+    "back_button": "Takaisin muuntimeen"
+
+    "convert_another": "Muuta toinen SVG"
+
     "quick_conversions": "Nopeat muunnokset:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miksi muuntaa SVG PNG:ksi?",
+      "title": "Miksi muuntaa SVG PNG:ksi?"
+
       "description": "<ul><li><strong>Yhteensopivuus:</strong> PNG näkyy kaikkialla, ei SVG-tukea vaadita.</li><li><strong>Läpinäkyvyys:</strong> Säilytä alfa päällekkäisyyksille ja käyttöliittymäelementeille.</li><li><strong>Suorituskyky:</strong> Pienemmät, välimuistissa olevat bittikartat tuotantoa varten.</li></ul>"
-    },
-    {
-      "title": "Kuinka muuntaa SVG PNG:ksi verkossa",
-      "description": "<ol><li>Napsauta <em>Lataa SVG</em> ja valitse tiedostosi.</li><li>Odota rasterointia ja optimointia.</li><li>Napsauta <em>Lataa PNG</em> tallentaaksesi kuvasi.</li></ol><p>Oletusasetukset säilyttävät läpinäkyvyyden ja tasapainoisen pakkaamisen.</p>"
-    },
-    {
-      "title": "Tuetut rajat ja muodot",
-      "description": "<ul><li><strong>Hyväksytty syöte:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Max tiedostokoko:</strong> 16&nbsp;MB</li><li><strong>Tulos:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Parhaat käytännöt terävän tuloksen saavuttamiseksi",
-      "description": "<ul><li>Käytä neliömäistä taustalevyä, jossa on reunat, jotta reunat eivät leikkaudu.</li><li>Muunna teksti ääriviivoiksi; upota fontit ja kuvat.</li><li>Vältä liian ohuita viivoja pienille ikoneille (≥1px kohdekoolla).</li><li>Vie suurempana (esim. 512–1024 px), jos aiot pienentää myöhemmin.</li></ul>"
-    },
-    {
-      "title": "Vianetsintä",
-      "description": "<ul><li><strong>Puuttuvat fontit/suodattimet:</strong> Inline-resurssit ja muunna teksti ääriviivoiksi.</li><li><strong>Epätasaiset reunat:</strong> Lisää kohdekokoa tai <code>scale</code>, sitten pienennä.</li><li><strong>Kiinteä tausta:</strong> Varmista, että <code>background</code> on asetettu <em>läpinäkyväksi</em> asetuksissa.</li><li><strong>Lataus epäonnistuu:</strong> Varmista, että SVG on voimassa ja ≤16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kuinka muuntaa SVG PNG:ksi verkossa"
+
+      "description": "<ol><li>Napsauta <em>Lataa SVG</em> ja valitse tiedostosi.</li><li>Odota rasterointia ja optimointia.</li><li>Napsauta <em>Lataa PNG</em> tallentaaksesi kuvasi.</li></ol><p>Oletusasetukset säilyttävät läpinäkyvyyden ja tasapainoisen pakkaamisen.</p>"
+
+    }
+    {
+      "title": "Tuetut rajat ja muodot"
+
+      "description": "<ul><li><strong>Hyväksytty syöte:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Max tiedostokoko:</strong> 16&nbsp;MB</li><li><strong>Tulos:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Parhaat käytännöt terävän tuloksen saavuttamiseksi"
+
+      "description": "<ul><li>Käytä neliömäistä taustalevyä, jossa on reunat, jotta reunat eivät leikkaudu.</li><li>Muunna teksti ääriviivoiksi; upota fontit ja kuvat.</li><li>Vältä liian ohuita viivoja pienille ikoneille (≥1px kohdekoolla).</li><li>Vie suurempana (esim. 512–1024 px), jos aiot pienentää myöhemmin.</li></ul>"
+
+    }
+    {
+      "title": "Vianetsintä"
+
+      "description": "<ul><li><strong>Puuttuvat fontit/suodattimet:</strong> Inline-resurssit ja muunna teksti ääriviivoiksi.</li><li><strong>Epätasaiset reunat:</strong> Lisää kohdekokoa tai <code>scale</code>, sitten pienennä.</li><li><strong>Kiinteä tausta:</strong> Varmista, että <code>background</code> on asetettu <em>läpinäkyväksi</em> asetuksissa.</li><li><strong>Lataus epäonnistuu:</strong> Varmista, että SVG on voimassa ja ≤16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Onko tämä SVG to PNG -muunnin ilmainen?",
+      "question": "Onko tämä SVG to PNG -muunnin ilmainen?"
+
       "answer": "Kyllä, se on täysin ilmainen ilman vesileimoja tai piilotettuja maksuja."
-    },
-    {
-      "question": "Säilyttääkö PNG läpinäkyvyyden?",
-      "answer": "Kyllä. PNG tukee alfa-läpinäkyvyyttä ja säilytämme sen oletuksena."
-    },
-    {
-      "question": "Voinko valita tulosteen koon?",
-      "answer": "Oletuksena käytämme SVG:n viewBoxia. Voit asettaa leveyden/korkeuden tai skaalaustekijän lisäasetuksissa, jos tuetaan."
-    },
-    {
-      "question": "Mitä tiedostokokorajoja sovelletaan?",
-      "answer": "Voit ladata SVG-tiedostoja, joiden koko on enintään 16 MB."
-    },
-    {
-      "question": "Miksi PNG:ni näyttää erilaiselta kuin SVG?",
-      "answer": "Ulkoiset fontit, suodattimet tai linkitetyt resurssit voivat renderöityä eri tavalla rasteroinnin yhteydessä. Muunna teksti ääriviivoiksi ja inline-resurssit johdonmukaisempien tulosten saavuttamiseksi."
+
     }
-  ],
-  "note": "SVG:t rasteroidaan muunnoksen aikana. Ennakoitavien tulosten saavuttamiseksi muunna teksti ääriviivoiksi ja upota kaikki ulkoiset resurssit.",
+    {
+      "question": "Säilyttääkö PNG läpinäkyvyyden?"
+
+      "answer": "Kyllä. PNG tukee alfa-läpinäkyvyyttä ja säilytämme sen oletuksena."
+
+    }
+    {
+      "question": "Voinko valita tulosteen koon?"
+
+      "answer": "Oletuksena käytämme SVG:n viewBoxia. Voit asettaa leveyden/korkeuden tai skaalaustekijän lisäasetuksissa, jos tuetaan."
+
+    }
+    {
+      "question": "Mitä tiedostokokorajoja sovelletaan?"
+
+      "answer": "Voit ladata SVG-tiedostoja, joiden koko on enintään 16 MB."
+
+    }
+    {
+      "question": "Miksi PNG:ni näyttää erilaiselta kuin SVG?"
+
+      "answer": "Ulkoiset fontit, suodattimet tai linkitetyt resurssit voivat renderöityä eri tavalla rasteroinnin yhteydessä. Muunna teksti ääriviivoiksi ja inline-resurssit johdonmukaisempien tulosten saavuttamiseksi."
+
+    }
+  ]
+  "note": "SVG:t rasteroidaan muunnoksen aikana. Ennakoitavien tulosten saavuttamiseksi muunna teksti ääriviivoiksi ja upota kaikki ulkoiset resurssit."
+
   "related_links": [
     {
-      "title": "Muuta SVG ICO:ksi",
+      "title": "Muuta SVG ICO:ksi"
+
       "url": "/fi/convert/svg-to-ico"
-    },
-    {
-      "title": "Muuta PNG SVG:ksi",
-      "url": "/fi/convert/png-to-svg"
-    },
-    {
-      "title": "Pakkaa PNG verkossa",
-      "url": "/fi/compress/png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kaikki oikeudet pidätetään.",
+    {
+      "title": "Muuta PNG SVG:ksi"
+
+      "url": "/fi/convert/png-to-svg"
+
+    }
+    {
+      "title": "Pakkaa PNG verkossa"
+
+      "url": "/fi/compress/png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu",
-      "url": "https://wikihowto.click/fi/convert/svg-to-png",
-      "description": "Ilmainen verkkotyökalu SVG-vektorigrafiikan muuntamiseen PNG:ksi läpinäkyvyyden kanssa.",
-      "inLanguage": "fi",
-      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG to PNG -muunnin - Ilmainen & Verkkopalvelu"
+
+      "url": "https://miconvert.com/fi/convert/svg-to-png"
+
+      "description": "Ilmainen verkkotyökalu SVG-vektorigrafiikan muuntamiseen PNG:ksi läpinäkyvyyden kanssa."
+
+      "inLanguage": "fi"
+
+      "image": "https://miconvert.com/images/svg-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Etusivu",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Etusivu"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Muunna",
-          "item": "https://wikihowto.click/fi/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Muunna"
+
+          "item": "https://miconvert.com/fi/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG to PNG",
-          "item": "https://wikihowto.click/fi/convert/svg-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG to PNG"
+
+          "item": "https://miconvert.com/fi/convert/svg-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "SVG to PNG -muunnin",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/fi/convert/svg-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG to PNG -muunnin"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/fi/convert/svg-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Terävä rasterointi",
-        "Läpinäkyvyys säilytetään",
+        "Terävä rasterointi"
+
+        "Läpinäkyvyys säilytetään"
+
         "Nopea käsittely"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Onko tämä SVG to PNG -muunnin ilmainen?",
+          "@type": "Question"
+
+          "name": "Onko tämä SVG to PNG -muunnin ilmainen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Kyllä, se on täysin ilmainen ilman vesileimoja tai piilotettuja maksuja."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Säilyttääkö PNG läpinäkyvyyden?",
+          "@type": "Question"
+
+          "name": "Säilyttääkö PNG läpinäkyvyyden?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Kyllä, alfa-läpinäkyvyys säilytetään oletuksena."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Mitä tiedostokokorajoja sovelletaan?",
+          "@type": "Question"
+
+          "name": "Mitä tiedostokokorajoja sovelletaan?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Voit ladata SVG-tiedostoja, joiden koko on enintään 16 MB."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kuinka muuntaa SVG PNG:ksi",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kuinka muuntaa SVG PNG:ksi"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Napsauta Lataa SVG ja valitse tiedostosi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Odota rasterointia ja optimointia."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Napsauta Lataa PNG tallentaaksesi kuvasi."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Odota rasterointia ja optimointia."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Napsauta Lataa PNG tallentaaksesi kuvasi."
+
+        }
+      ]
       "tool": [
         "SVG to PNG -muunnin"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

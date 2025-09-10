@@ -1,244 +1,365 @@
 {
-  "lang": "jv",
-  "lang_name": "Jawa",
-  "title": "GIF menyang PNG Converter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konversi gambar GIF menyang format PNG online kanthi dhukungan transparansi, kualitas dhuwur, lan tanpa watermark.",
-  "hint": "Unggah gambar GIF sampeyan kanggo miwiti konversi...",
-  "btn_download": "Konversi menyang PNG",
-  "btn_paste": "Unggah GIF",
-  "btn_clear": "Resiki",
+  "lang": "jv"
+
+  "lang_name": "Jawa"
+
+  "title": "GIF menyang PNG Converter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konversi gambar GIF menyang format PNG online kanthi dhukungan transparansi, kualitas dhuwur, lan tanpa watermark."
+
+  "hint": "Unggah gambar GIF sampeyan kanggo miwiti konversi..."
+
+  "btn_download": "Konversi menyang PNG"
+
+  "btn_paste": "Unggah GIF"
+
+  "btn_clear": "Resiki"
+
   "converter": {
-    "type": "gif-to-png",
-    "inputFormat": "GIF",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "gif-to-png"
+
+    "inputFormat": "GIF"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/gif"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Konversi <strong>GIF sampeyan menyang PNG</strong> kanggo fidelitas luwih dhuwur lan dhukungan transparansi lengkap. Converter online gratis kita ngowahi GIF animasi utawa statis dadi gambar PNG berkualitas tinggi. Nalika GIF apik kanggo animasi sederhana, PNG nawakake kedalaman warna sing luwih apik, transparansi sing luwih apik, lan kompresi tanpa rugi kanggo grafik statis sing cetha.</p><p><strong>Cathetan:</strong> GIF animasi dikonversi dadi <em>siji gambar statis</em> (bingkai pertama). Kanggo output animasi, coba <a href='/en/convert/gif-to-webp'>GIF menyang WebP</a>.</p>",
+  }
+  "description": "<p>Konversi <strong>GIF sampeyan menyang PNG</strong> kanggo fidelitas luwih dhuwur lan dhukungan transparansi lengkap. Converter online gratis kita ngowahi GIF animasi utawa statis dadi gambar PNG berkualitas tinggi. Nalika GIF apik kanggo animasi sederhana, PNG nawakake kedalaman warna sing luwih apik, transparansi sing luwih apik, lan kompresi tanpa rugi kanggo grafik statis sing cetha.</p><p><strong>Cathetan:</strong> GIF animasi dikonversi dadi <em>siji gambar statis</em> (bingkai pertama). Kanggo output animasi, coba <a href='/en/convert/gif-to-webp'>GIF menyang WebP</a>.</p>"
+
   "head": {
-    "title": "Konversi GIF menyang PNG Online - Gratis GIF menyang PNG Converter | WikiHowTo.click",
-    "description": "Konversi GIF menyang PNG online kanthi dhukungan transparansi, kualitas dhuwur, lan tanpa watermark. Gratis, cepet, lan aman alat konverter GIF menyang PNG.",
-    "keywords": "gif menyang png, konversi gif menyang png, gratis gif menyang png, konverter gif online, gambar transparan",
-    "canonical": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_title": "GIF menyang PNG Converter - Gratis & Online",
-    "og_description": "Konversi gambar GIF menyang format PNG kanthi dhukungan transparansi lan kualitas dhuwur. 100% gratis, cepet, lan aman.",
-    "og_url": "https://wikihowto.click/en/convert/gif-to-png",
-    "og_image": "https://wikihowto.click/images/gif-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis GIF menyang PNG Converter Online",
-    "twitter_description": "Konversi GIF menyang PNG kanthi dhukungan transparansi, kualitas dhuwur, lan tanpa watermark. Bisa digunakake ing kabeh piranti.",
-    "twitter_image": "https://wikihowto.click/images/gif-to-png.jpg"
-  },
+    "title": "Konversi GIF menyang PNG Online - Gratis GIF menyang PNG Converter | miconvert.com"
+
+    "description": "Konversi GIF menyang PNG online kanthi dhukungan transparansi, kualitas dhuwur, lan tanpa watermark. Gratis, cepet, lan aman alat konverter GIF menyang PNG."
+
+    "keywords": "gif menyang png, konversi gif menyang png, gratis gif menyang png, konverter gif online, gambar transparan"
+
+    "canonical": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_title": "GIF menyang PNG Converter - Gratis & Online"
+
+    "og_description": "Konversi gambar GIF menyang format PNG kanthi dhukungan transparansi lan kualitas dhuwur. 100% gratis, cepet, lan aman."
+
+    "og_url": "https://miconvert.com/en/convert/gif-to-png"
+
+    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konversi GIF menyang PNG Online",
+    "title": "Konversi GIF menyang PNG Online"
+
     "description": "Gratis lan cepet GIF menyang PNG converter kanthi dhukungan transparansi lan kualitas dhuwur. Bisa digunakake langsung ing piranti apa wae, tanpa registrasi."
-  },
+
+  }
   "h2": [
     {
-      "title": "Kenapa Konversi GIF menyang PNG?",
+      "title": "Kenapa Konversi GIF menyang PNG?"
+
       "description": "<p>GIF winates kanggo 256 warna lan cocog kanggo animasi sederhana. PNG cocog kanggo gambar statis berkualitas tinggi:</p><ul><li><strong>Kualitas Luwih Dhuwur:</strong> Truecolor (24-bit) + alpha vs palet 8-bit GIF.</li><li><strong>Transparansi:</strong> PNG ndhukung transparansi alpha lengkap kanggo pinggiran alus.</li><li><strong>Kompresi Tanpa Rugi:</strong> PNG njaga rincian tanpa kehilangan kualitas.</li><li><strong>Kompatibilitas Universal:</strong> Didhukung sacara luas ing aplikasi lan platform.</li></ul>"
-    },
-    {
-      "title": "Cara Konversi GIF menyang PNG Online",
-      "description": "<ol><li>Klik <em>Unggah GIF</em> lan pilih file sampeyan.</li><li>Enteni proses rampung.</li><li>Klik <em>Download PNG</em> kanggo nyimpen asil.</li></ol><p>GIF animasi: mung bingkai pertama sing diekspor minangka PNG.</p>"
-    },
-    {
-      "title": "GIF vs PNG: Bedane Kunci",
-      "description": "<table class='table-compare'><thead><tr><th>Fitur</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Kedalaman warna</td><td>8-bit (256 warna)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparansi</td><td>1-bit mask (nyala/mati)</td><td>Transparansi alpha lengkap</td></tr><tr><td>Kompresi</td><td>Tanpa rugi (LZW)</td><td>Tanpa rugi (DEFLATE)</td></tr><tr><td>Animasi</td><td>Didukung</td><td>Ora didukung (statis)</td></tr><tr><td>Apik kanggo</td><td>Animasi sederhana, stiker</td><td>Logo, UI, screenshot, grafik statis</td></tr></tbody></table>"
-    },
-    {
-      "title": "Batas & Format Sing Didukung",
-      "description": "<ul><li><strong>Input sing ditampa:</strong> GIF (<code>image/gif</code>)</li><li><strong>Ukuran file maksimum:</strong> nganti 16&nbsp;MB saben file</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Fitur Converter GIF menyang PNG Kita",
-      "description": "<ul><li>100% gratis, tanpa watermark</li><li>Njaga transparansi ing ngendi ana</li><li>Output PNG tanpa rugi</li><li>Antarmuka ramah seluler</li></ul>"
-    },
-    {
-      "title": "Apa iku GIF?",
-      "description": "<p>GIF (Graphics Interchange Format) ndhukung animasi dasar lan nggunakake kompresi tanpa rugi LZW, nanging winates kanggo palet 256 warna.</p>"
-    },
-    {
-      "title": "Apa iku PNG?",
-      "description": "<p>PNG (Portable Network Graphics) yaiku format tanpa rugi sing ndhukung truecolor lan transparansi alpha — cocog kanggo gambar statis berkualitas tinggi.</p>"
-    },
-    {
-      "title": "Ngatasi Masalah",
-      "description": "<ul><li><strong>Unggah gagal:</strong> Priksa manawa file kasebut GIF lan ≤ 16&nbsp;MB.</li><li><strong>Pinggiran transparansi kasar:</strong> Transparansi 1-bit GIF bisa katon kasar; perhalus nganggo <a href='/en/effect/remove-background'>Penghapus Latar Belakang</a>.</li><li><strong>Perlu animasi:</strong> Gunakake <a href='/en/convert/gif-to-webp'>GIF menyang WebP</a> kanggo njaga gerakan.</li></ul>"
-    },
-    {
-      "title": "Kasus Penggunaan: Nalika Ngonversi GIF menyang PNG",
-      "description": "<ul><li><strong>Logo & ikon</strong> sing butuh transparansi alus.</li><li><strong>Screenshots/UI</strong> sing butuh teks lan garis sing cetha.</li><li><strong>Arsip</strong> bingkai statis kanthi kualitas luwih dhuwur.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cara Konversi GIF menyang PNG Online"
+
+      "description": "<ol><li>Klik <em>Unggah GIF</em> lan pilih file sampeyan.</li><li>Enteni proses rampung.</li><li>Klik <em>Download PNG</em> kanggo nyimpen asil.</li></ol><p>GIF animasi: mung bingkai pertama sing diekspor minangka PNG.</p>"
+
+    }
+    {
+      "title": "GIF vs PNG: Bedane Kunci"
+
+      "description": "<table class='table-compare'><thead><tr><th>Fitur</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Kedalaman warna</td><td>8-bit (256 warna)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparansi</td><td>1-bit mask (nyala/mati)</td><td>Transparansi alpha lengkap</td></tr><tr><td>Kompresi</td><td>Tanpa rugi (LZW)</td><td>Tanpa rugi (DEFLATE)</td></tr><tr><td>Animasi</td><td>Didukung</td><td>Ora didukung (statis)</td></tr><tr><td>Apik kanggo</td><td>Animasi sederhana, stiker</td><td>Logo, UI, screenshot, grafik statis</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Batas & Format Sing Didukung"
+
+      "description": "<ul><li><strong>Input sing ditampa:</strong> GIF (<code>image/gif</code>)</li><li><strong>Ukuran file maksimum:</strong> nganti 16&nbsp;MB saben file</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Fitur Converter GIF menyang PNG Kita"
+
+      "description": "<ul><li>100% gratis, tanpa watermark</li><li>Njaga transparansi ing ngendi ana</li><li>Output PNG tanpa rugi</li><li>Antarmuka ramah seluler</li></ul>"
+
+    }
+    {
+      "title": "Apa iku GIF?"
+
+      "description": "<p>GIF (Graphics Interchange Format) ndhukung animasi dasar lan nggunakake kompresi tanpa rugi LZW, nanging winates kanggo palet 256 warna.</p>"
+
+    }
+    {
+      "title": "Apa iku PNG?"
+
+      "description": "<p>PNG (Portable Network Graphics) yaiku format tanpa rugi sing ndhukung truecolor lan transparansi alpha — cocog kanggo gambar statis berkualitas tinggi.</p>"
+
+    }
+    {
+      "title": "Ngatasi Masalah"
+
+      "description": "<ul><li><strong>Unggah gagal:</strong> Priksa manawa file kasebut GIF lan ≤ 16&nbsp;MB.</li><li><strong>Pinggiran transparansi kasar:</strong> Transparansi 1-bit GIF bisa katon kasar; perhalus nganggo <a href='/en/effect/remove-background'>Penghapus Latar Belakang</a>.</li><li><strong>Perlu animasi:</strong> Gunakake <a href='/en/convert/gif-to-webp'>GIF menyang WebP</a> kanggo njaga gerakan.</li></ul>"
+
+    }
+    {
+      "title": "Kasus Penggunaan: Nalika Ngonversi GIF menyang PNG"
+
+      "description": "<ul><li><strong>Logo & ikon</strong> sing butuh transparansi alus.</li><li><strong>Screenshots/UI</strong> sing butuh teks lan garis sing cetha.</li><li><strong>Arsip</strong> bingkai statis kanthi kualitas luwih dhuwur.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Apa converter GIF menyang PNG iki gratis?",
+      "question": "Apa converter GIF menyang PNG iki gratis?"
+
       "answer": "Ya, converter iki sepenu gratis tanpa biaya utawa langganan sing didhelikake."
-    },
-    {
-      "question": "Apa PNG bakal njaga transparansi saka GIF?",
-      "answer": "Ya. Area transparan 1-bit GIF tetep transparan ing PNG; kanggo pinggiran sing luwih alus, sunting saluran alpha sawise konversi."
-    },
-    {
-      "question": "Apa sing kedadeyan karo GIF animasi?",
-      "answer": "Mung bingkai pertama sing dikonversi dadi gambar PNG statis. Kanggo njaga animasi, gunakake GIF menyang WebP."
-    },
-    {
-      "question": "Apa aku bakal kelangan kualitas nalika ngowahi GIF menyang PNG?",
-      "answer": "Ora. PNG nggunakake kompresi tanpa rugi lan ndhukung warna lengkap, asring nambah fidelitas visual tinimbang GIF 256 warna."
-    },
-    {
-      "question": "Ukuran file apa sing didhukung?",
-      "answer": "Sampeyan bisa ngunggah gambar nganti 16 MB saben file."
-    },
-    {
-      "question": "Apa fileku aman?",
-      "answer": "File diproses kanthi otomatis lan ora disimpen luwih suwe tinimbang sing dibutuhake kanggo konversi."
-    },
-    {
-      "question": "Apa aku bisa ngowahi sawetara file GIF sekaligus?",
-      "answer": "Kaca iki ngowahi siji file saben wektu. Kanggo kabutuhan massal, ulangi proses utawa gunakake alat batch."
+
     }
-  ],
-  "note": "GIF animasi dadi PNG statis (bingkai pertama). Kanggo output animasi, konversi GIF menyang WebP.",
+    {
+      "question": "Apa PNG bakal njaga transparansi saka GIF?"
+
+      "answer": "Ya. Area transparan 1-bit GIF tetep transparan ing PNG; kanggo pinggiran sing luwih alus, sunting saluran alpha sawise konversi."
+
+    }
+    {
+      "question": "Apa sing kedadeyan karo GIF animasi?"
+
+      "answer": "Mung bingkai pertama sing dikonversi dadi gambar PNG statis. Kanggo njaga animasi, gunakake GIF menyang WebP."
+
+    }
+    {
+      "question": "Apa aku bakal kelangan kualitas nalika ngowahi GIF menyang PNG?"
+
+      "answer": "Ora. PNG nggunakake kompresi tanpa rugi lan ndhukung warna lengkap, asring nambah fidelitas visual tinimbang GIF 256 warna."
+
+    }
+    {
+      "question": "Ukuran file apa sing didhukung?"
+
+      "answer": "Sampeyan bisa ngunggah gambar nganti 16 MB saben file."
+
+    }
+    {
+      "question": "Apa fileku aman?"
+
+      "answer": "File diproses kanthi otomatis lan ora disimpen luwih suwe tinimbang sing dibutuhake kanggo konversi."
+
+    }
+    {
+      "question": "Apa aku bisa ngowahi sawetara file GIF sekaligus?"
+
+      "answer": "Kaca iki ngowahi siji file saben wektu. Kanggo kabutuhan massal, ulangi proses utawa gunakake alat batch."
+
+    }
+  ]
+  "note": "GIF animasi dadi PNG statis (bingkai pertama). Kanggo output animasi, konversi GIF menyang WebP."
+
   "related_links": [
     {
-      "title": "Konversi GIF menyang JPG",
+      "title": "Konversi GIF menyang JPG"
+
       "url": "/en/convert/gif-to-jpg"
-    },
-    {
-      "title": "Konversi PNG menyang GIF",
-      "url": "/en/convert/png-to-gif"
-    },
-    {
-      "title": "Konversi GIF menyang WebP",
-      "url": "/en/convert/gif-to-webp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kabeh hak dilindhungi.",
+    {
+      "title": "Konversi PNG menyang GIF"
+
+      "url": "/en/convert/png-to-gif"
+
+    }
+    {
+      "title": "Konversi GIF menyang WebP"
+
+      "url": "/en/convert/gif-to-webp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kabeh hak dilindhungi."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "GIF menyang PNG Converter - Gratis & Online",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
-      "description": "Alat online gratis kanggo ngowahi gambar GIF menyang PNG kanthi kompresi tanpa rugi lan dhukungan transparansi.",
-      "inLanguage": "jv",
-      "image": "https://wikihowto.click/images/gif-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF menyang PNG Converter - Gratis & Online"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
+      "description": "Alat online gratis kanggo ngowahi gambar GIF menyang PNG kanthi kompresi tanpa rugi lan dhukungan transparansi."
+
+      "inLanguage": "jv"
+
+      "image": "https://miconvert.com/images/gif-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Beranda",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Beranda"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konversi",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konversi"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "GIF menyang PNG",
-          "item": "https://wikihowto.click/en/convert/gif-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "GIF menyang PNG"
+
+          "item": "https://miconvert.com/en/convert/gif-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "GIF menyang PNG Converter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/gif-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "GIF menyang PNG Converter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/gif-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Output PNG tanpa rugi",
-        "Dhukungan transparansi",
+        "Output PNG tanpa rugi"
+
+        "Dhukungan transparansi"
+
         "Proses cepet"
-      ],
-      "screenshot": "https://wikihowto.click/images/gif-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Apa converter GIF menyang PNG iki gratis?",
+          "@type": "Question"
+
+          "name": "Apa converter GIF menyang PNG iki gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ya, converter iki sepenu gratis tanpa biaya utawa langganan sing didhelikake."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Apa sing kedadeyan karo GIF animasi?",
+          "@type": "Question"
+
+          "name": "Apa sing kedadeyan karo GIF animasi?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Mung bingkai pertama sing dikonversi dadi gambar PNG statis. Kanggo njaga animasi, gunakake GIF menyang WebP."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ukuran file apa sing didhukung?",
+          "@type": "Question"
+
+          "name": "Ukuran file apa sing didhukung?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sampeyan bisa ngunggah gambar nganti 16 MB saben file."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cara ngowahi GIF menyang PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cara ngowahi GIF menyang PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik Unggah GIF lan pilih file sampeyan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Enteni proses rampung."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik Download PNG kanggo nyimpen asil."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Enteni proses rampung."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik Download PNG kanggo nyimpen asil."
+
+        }
+      ]
       "tool": [
         "GIF menyang PNG Converter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

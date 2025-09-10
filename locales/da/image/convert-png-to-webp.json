@@ -1,226 +1,338 @@
 {
-  "lang": "da",
-  "lang_name": "Dansk",
-  "title": "PNG til WebP Konverter - Gratis & Online | WikiHowTo.click",
-  "sub_title": "Konverter PNG-billeder til WebP-format online med understøttelse af gennemsigtighed, overlegen kompression og ingen vandmærker.",
-  "hint": "Upload dit PNG-billede for at starte konverteringen...",
-  "btn_download": "Konverter til WebP",
-  "btn_paste": "Upload PNG",
-  "btn_clear": "Ryd",
-  "ogImage": "https://wikihowto.click/images/png-to-webp.jpg",
+  "lang": "da"
+
+  "lang_name": "Dansk"
+
+  "title": "PNG til WebP Konverter - Gratis & Online | miconvert.com"
+
+  "sub_title": "Konverter PNG-billeder til WebP-format online med understøttelse af gennemsigtighed, overlegen kompression og ingen vandmærker."
+
+  "hint": "Upload dit PNG-billede for at starte konverteringen..."
+
+  "btn_download": "Konverter til WebP"
+
+  "btn_paste": "Upload PNG"
+
+  "btn_clear": "Ryd"
+
+  "ogImage": "https://miconvert.com/images/png-to-webp.jpg"
+
   "converter": {
-    "type": "png-to-webp",
-    "inputFormat": "PNG",
-    "outputFormat": "WebP",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-webp"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "WebP"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/webp",
-    "outputExtension": ".webp",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/webp"
+
+    "outputExtension": ".webp"
+
+    "quality": 90
     "options": {
       "webp": {
-        "quality": 90,
-        "lossless": false,
+        "quality": 90
+        "lossless": false
         "nearLossless": false
       }
     }
-  },
-  "description": "<p>Optimer dit <strong>PNG til WebP</strong> til den moderne web! Vores gratis konverter bevarer gennemsigtighed, mens den leverer meget mindre filer. WebP kombinerer PNG-stil alfa med moderne kompression, hvilket gør det ideelt til logoer, UI-grafik og billeder, der har brug for skarpe kanter.</p><p>I mange tilfælde er WebP <strong>30–50% mindre</strong> end PNG ved lignende visuel kvalitet og understøttes af alle større browsere. Vi auto-tuner indstillingerne for at balancere troværdighed og størrelse for hurtigere sider og lavere båndbredde.</p>",
+  }
+  "description": "<p>Optimer dit <strong>PNG til WebP</strong> til den moderne web! Vores gratis konverter bevarer gennemsigtighed, mens den leverer meget mindre filer. WebP kombinerer PNG-stil alfa med moderne kompression, hvilket gør det ideelt til logoer, UI-grafik og billeder, der har brug for skarpe kanter.</p><p>I mange tilfælde er WebP <strong>30–50% mindre</strong> end PNG ved lignende visuel kvalitet og understøttes af alle større browsere. Vi auto-tuner indstillingerne for at balancere troværdighed og størrelse for hurtigere sider og lavere båndbredde.</p>"
+
   "head": {
-    "title": "Konverter PNG til WebP Online - Gratis PNG til WebP Konverter | WikiHowTo.click",
-    "description": "Konverter PNG til WebP online med understøttelse af gennemsigtighed, overlegen kompression og ingen vandmærker. Gratis, hurtig og sikker PNG til WebP konverteringsværktøj.",
-    "keywords": "png til webp, konverter png til webp, gratis png til webp, online webp konverter, gennemsigtige billeder",
-    "canonical": "https://wikihowto.click/da/convert/png-to-webp",
-    "og_title": "PNG til WebP Konverter - Gratis & Online",
-    "og_description": "Konverter PNG-billeder til WebP med gennemsigtighed og overlegen kompression. 100% gratis, hurtig og sikker.",
-    "og_url": "https://wikihowto.click/da/convert/png-to-webp",
-    "og_image": "https://wikihowto.click/images/png-to-webp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Gratis PNG til WebP Konverter Online",
-    "twitter_description": "Konverter PNG til WebP med understøttelse af gennemsigtighed og overlegen kompression. Fungerer på alle enheder.",
-    "twitter_image": "https://wikihowto.click/images/png-to-webp.jpg"
-  },
+    "title": "Konverter PNG til WebP Online - Gratis PNG til WebP Konverter | miconvert.com"
+
+    "description": "Konverter PNG til WebP online med understøttelse af gennemsigtighed, overlegen kompression og ingen vandmærker. Gratis, hurtig og sikker PNG til WebP konverteringsværktøj."
+
+    "keywords": "png til webp, konverter png til webp, gratis png til webp, online webp konverter, gennemsigtige billeder"
+
+    "canonical": "https://miconvert.com/da/convert/png-to-webp"
+
+    "og_title": "PNG til WebP Konverter - Gratis & Online"
+
+    "og_description": "Konverter PNG-billeder til WebP med gennemsigtighed og overlegen kompression. 100% gratis, hurtig og sikker."
+
+    "og_url": "https://miconvert.com/da/convert/png-to-webp"
+
+    "og_image": "https://miconvert.com/images/png-to-webp.jpg"
+
+  }
   "h1": {
-    "title": "Konverter PNG til WebP Online",
+    "title": "Konverter PNG til WebP Online"
+
     "description": "Gratis og hurtig PNG til WebP konverter med understøttelse af gennemsigtighed og overlegen kompression. Fungerer straks på enhver enhed — ingen tilmelding kræves."
-  },
+
+  }
   "h2": [
     {
-      "title": "Hvorfor konvertere PNG til WebP?",
+      "title": "Hvorfor konvertere PNG til WebP?"
+
       "description": "<p>WebP er en moderne erstatning for tunge PNG-aktiver:</p><ul><li><strong>Mindre filer:</strong> Almindeligvis 30–50% mindre end PNG.</li><li><strong>Gennemsigtighed:</strong> Bevarer alfa-kanal ligesom PNG.</li><li><strong>Ydelse:</strong> Hurtigere sideindlæsninger og lavere båndbredde.</li><li><strong>Kompatibilitet:</strong> Understøttes af alle større browsere.</li></ul>"
-    },
-    {
-      "title": "Sådan konverteres PNG til WebP Online",
-      "description": "<ol><li>Klik på <em>Upload PNG</em> og vælg din fil.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download WebP</em> for at gemme resultatet.</li></ol><p>Standarder målretter webvenlig størrelse/kvalitet, mens kanterne holdes rene.</p>"
-    },
-    {
-      "title": "WebP vs PNG Sammenligning",
-      "description": "<ul><li><strong>Filstørrelse:</strong> WebP er typisk 30–50% mindre.</li><li><strong>Gennemsigtighed:</strong> Begge understøtter alfa.</li><li><strong>Kvalitet:</strong> Lignende opfattet kvalitet ved lavere bytes for WebP.</li><li><strong>Kompression:</strong> WebP bruger mere effektive codecs.</li></ul>"
-    },
-    {
-      "title": "Understøttede grænser & formater",
-      "description": "<ul><li><strong>Acceptabel input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Encoding:</strong> Tabsgivende WebP, kvalitet ≈ 90; gennemsigtighed bevaret</li></ul>"
-    },
-    {
-      "title": "Fejlfinding",
-      "description": "<ul><li><strong>Ældre browsere:</strong> Server WebP med en PNG-fallback ved hjælp af <code>&lt;picture&gt;</code> elementet.</li><li><strong>Halos på kanter:</strong> Start fra højere opløsnings PNG eller forfin alfa; WebP bevarer gennemsigtighed, men jaggies kan komme fra kilden.</li><li><strong>Fortsat for stor:</strong> Lettere lavere kvalitet (80–85%) eller ændre størrelse før konvertering.</li><li><strong>Upload mislykkes:</strong> Sørg for PNG og ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Sådan konverteres PNG til WebP Online"
+
+      "description": "<ol><li>Klik på <em>Upload PNG</em> og vælg din fil.</li><li>Vent på behandling og optimering.</li><li>Klik på <em>Download WebP</em> for at gemme resultatet.</li></ol><p>Standarder målretter webvenlig størrelse/kvalitet, mens kanterne holdes rene.</p>"
+
+    }
+    {
+      "title": "WebP vs PNG Sammenligning"
+
+      "description": "<ul><li><strong>Filstørrelse:</strong> WebP er typisk 30–50% mindre.</li><li><strong>Gennemsigtighed:</strong> Begge understøtter alfa.</li><li><strong>Kvalitet:</strong> Lignende opfattet kvalitet ved lavere bytes for WebP.</li><li><strong>Kompression:</strong> WebP bruger mere effektive codecs.</li></ul>"
+
+    }
+    {
+      "title": "Understøttede grænser & formater"
+
+      "description": "<ul><li><strong>Acceptabel input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Encoding:</strong> Tabsgivende WebP, kvalitet ≈ 90; gennemsigtighed bevaret</li></ul>"
+
+    }
+    {
+      "title": "Fejlfinding"
+
+      "description": "<ul><li><strong>Ældre browsere:</strong> Server WebP med en PNG-fallback ved hjælp af <code>&lt;picture&gt;</code> elementet.</li><li><strong>Halos på kanter:</strong> Start fra højere opløsnings PNG eller forfin alfa; WebP bevarer gennemsigtighed, men jaggies kan komme fra kilden.</li><li><strong>Fortsat for stor:</strong> Lettere lavere kvalitet (80–85%) eller ændre størrelse før konvertering.</li><li><strong>Upload mislykkes:</strong> Sørg for PNG og ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Er denne PNG til WebP konverter gratis?",
+      "question": "Er denne PNG til WebP konverter gratis?"
+
       "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
-    },
-    {
-      "question": "Vil WebP bevare gennemsigtighed fra PNG?",
-      "answer": "Ja. WebP understøtter fuldt ud alfa og bevarer gennemsigtighed fra dit PNG."
-    },
-    {
-      "question": "Hvor meget mindre er WebP-filer sammenlignet med PNG?",
-      "answer": "Ofte 30–50% mindre ved sammenlignelig visuel kvalitet, afhængigt af billedet."
-    },
-    {
-      "question": "Vil WebP fungere på alle browsere?",
-      "answer": "WebP understøttes af alle moderne browsere (Chrome, Firefox, Safari, Edge). Giv PNG-fallback for meget gamle browsere."
-    },
-    {
-      "question": "Hvilke filstørrelser understøttes?",
-      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
-    },
-    {
-      "question": "Kan jeg konvertere flere PNG'er ad gangen?",
-      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
+
     }
-  ],
-  "note": "For maksimal kompatibilitet, server WebP med en PNG-fallback ved hjælp af <code>&lt;picture&gt;</code>.",
+    {
+      "question": "Vil WebP bevare gennemsigtighed fra PNG?"
+
+      "answer": "Ja. WebP understøtter fuldt ud alfa og bevarer gennemsigtighed fra dit PNG."
+
+    }
+    {
+      "question": "Hvor meget mindre er WebP-filer sammenlignet med PNG?"
+
+      "answer": "Ofte 30–50% mindre ved sammenlignelig visuel kvalitet, afhængigt af billedet."
+
+    }
+    {
+      "question": "Vil WebP fungere på alle browsere?"
+
+      "answer": "WebP understøttes af alle moderne browsere (Chrome, Firefox, Safari, Edge). Giv PNG-fallback for meget gamle browsere."
+
+    }
+    {
+      "question": "Hvilke filstørrelser understøttes?"
+
+      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
+
+    }
+    {
+      "question": "Kan jeg konvertere flere PNG'er ad gangen?"
+
+      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
+
+    }
+  ]
+  "note": "For maksimal kompatibilitet, server WebP med en PNG-fallback ved hjælp af <code>&lt;picture&gt;</code>."
+
   "related_links": [
     {
-      "title": "Konverter WebP til PNG",
+      "title": "Konverter WebP til PNG"
+
       "url": "/da/convert/webp-to-png"
-    },
-    {
-      "title": "Konverter PNG til AVIF",
-      "url": "/da/convert/png-to-avif"
-    },
-    {
-      "title": "Konverter PNG til JPG",
-      "url": "/da/convert/png-to-jpg"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Alle rettigheder forbeholdes.",
+    {
+      "title": "Konverter PNG til AVIF"
+
+      "url": "/da/convert/png-to-avif"
+
+    }
+    {
+      "title": "Konverter PNG til JPG"
+
+      "url": "/da/convert/png-to-jpg"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "PNG til WebP Konverter - Gratis & Online",
-      "url": "https://wikihowto.click/da/convert/png-to-webp",
-      "description": "Gratis online værktøj til at konvertere PNG-billeder til WebP med understøttelse af gennemsigtighed og overlegen kompression.",
-      "inLanguage": "da",
-      "image": "https://wikihowto.click/images/png-to-webp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG til WebP Konverter - Gratis & Online"
+
+      "url": "https://miconvert.com/da/convert/png-to-webp"
+
+      "description": "Gratis online værktøj til at konvertere PNG-billeder til WebP med understøttelse af gennemsigtighed og overlegen kompression."
+
+      "inLanguage": "da"
+
+      "image": "https://miconvert.com/images/png-to-webp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Hjem",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Hjem"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverter",
-          "item": "https://wikihowto.click/da/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverter"
+
+          "item": "https://miconvert.com/da/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG til WebP",
-          "item": "https://wikihowto.click/da/convert/png-to-webp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG til WebP"
+
+          "item": "https://miconvert.com/da/convert/png-to-webp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "PNG til WebP Konverter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/da/convert/png-to-webp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "PNG til WebP Konverter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/da/convert/png-to-webp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "DKK"
-      },
+
+      }
       "featureList": [
-        "Gennemsigtighed bevaret",
-        "Overlegen kompression",
+        "Gennemsigtighed bevaret"
+
+        "Overlegen kompression"
+
         "Hurtig behandling"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-webp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-webp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Er denne PNG til WebP konverter gratis?",
+          "@type": "Question"
+
+          "name": "Er denne PNG til WebP konverter gratis?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hvilke filstørrelser understøttes?",
+          "@type": "Question"
+
+          "name": "Hvilke filstørrelser understøttes?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Du kan uploade billeder op til 16 MB pr. fil."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Vil WebP bevare gennemsigtighed fra PNG?",
+          "@type": "Question"
+
+          "name": "Vil WebP bevare gennemsigtighed fra PNG?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ja. WebP understøtter en alfa-kanal og bevarer gennemsigtighed."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Sådan konverteres PNG til WebP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Sådan konverteres PNG til WebP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klik på Upload PNG og vælg din fil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Vent på behandling og optimering."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klik på Download WebP for at gemme resultatet."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Vent på behandling og optimering."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klik på Download WebP for at gemme resultatet."
+
+        }
+      ]
       "tool": [
         "PNG til WebP Konverter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

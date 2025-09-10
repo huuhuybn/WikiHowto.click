@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "lt",
+  "lang_name": "Lietuvių",
+  "title": "miconvert.com - Nemokami internetiniai failų konverteriai",
+  "sub_title": "Konvertuokite failus tarp PDF, vaizdų, garso, vaizdo ir dokumentų, naudodami specializuotas kiekvienos formato poros priemones. Greita, saugu ir be vandens ženklų.",
+  "hint": "Ieškoti konverterių (pvz., JPG į PNG, PDF į JPG, MP3 į WAV)...",
+  "btn_download": "Ieškoti konverterių",
+  "btn_paste": "Peržiūrėti visus",
+  "btn_clear": "Išvalyti",
+  "description": "<p><strong>Sveiki atvykę į miconvert.com</strong> — specializuotas <em>poroms skirtų failų konverterių</em> centras. Vietoj vienos bendros priemonės, mes kuriame specialų puslapį kiekvienai formato porai (pvz., <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), kad visada gautumėte tinkamas parinktis, geriausią kokybę ir paprastą darbo eigą.</p><p>Kiekvienas čia esantis konverteris yra pritaikytas tiksliam jo tikslui: vaizdo aiškumas ir dydis, skaidrumo valdymas, spausdinimui paruošti PDF maketų arba garso kokybė. Neregistruojama, nėra vandens ženklų ir privatu pagal dizainą – įkeliami failai apdorojami saugiai ir automatiškai ištrinami po konvertavimo. Naudokite darbalaukyje, planšetėje ar mobiliajame įrenginyje.</p><p>Naršykite mūsų <strong>PDF įrankius</strong> (PDF ↔ JPG/PNG/TIFF/WebP, sujungti/padalinti), <strong>vaizdų įrankius</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>garso įrankius</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>vaizdo įrankius</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) ir <strong>dokumentų įrankius</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Kiekvienas įrankis yra greitas, tikslus ir orientuotas.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Nemokami internetiniai failų konverteriai - PDF, vaizdai, garsas ir daugiau | miconvert.com",
+    "description": "Konvertuokite failus internetu naudodami nemokamus konverterius. Specializuoti įrankiai kiekvienai formato porai: PDF į JPG, PNG į PDF, MP3 į WAV ir daugiau. Greita, saugu, be vandens ženklų.",
+    "keywords": "failų konverteris, pdf konverteris, vaizdų konverteris, garso konverteris, vaizdo konverteris, dokumentų konverteris, jpg į png, pdf į jpg, png į pdf, mp3 į wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Nemokami internetiniai failų konverteriai",
+    "og_description": "Konvertuokite PDF, vaizdus, garsą, vaizdo įrašus ir dokumentus naudodami specializuotus konverterius kiekvienai formato porai. Nemokamai, greitai ir be vandens ženklų.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kas yra failų konverteris?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Failų konverteris transformuoja failą iš vieno formato į kitą (pvz., JPG į PNG, PDF į JPG). Geri konverteriai išsaugo pagrindinį turinį (pikselius, tekstą, garsą) ir metaduomenis, optimizuodami dydį ir suderinamumą."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ar jūs saugote mano failus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. Failai apdorojami saugiai ir automatiškai ištrinami po konvertavimo. Mes jų nesaugome nuolat."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ar konvertavimas yra nemokamas ir be vandens ženklų?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Taip. Visi įrankiai yra 100% nemokami naudoti ir niekada neprideda vandens ženklų."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Nemokami internetiniai failų konverteriai",
+    "description": "Vienas įrankis kiekvienai formato porai. Konvertuokite PDF, vaizdus, garsą, vaizdo įrašus ir dokumentus internetu – greitai, saugiai ir be vandens ženklų."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Kas yra failų konverteris?",
+      "description": "<p>Failų konverteris keičia failo formatą, kad pagerintų <strong>suderinamumą</strong>, <strong>kokybę</strong> arba <strong>dydį</strong>. Dažniausi pavyzdžiai – vaizdų konvertavimas internetui (<em>PNG → WebP</em>), spausdinimui paruoštų dokumentų rengimas (<em>JPG/PNG → PDF</em>) arba vaizdų ištraukimas iš dokumentų (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Geri konverteriai subalansuoja kokybę ir dydį, išsaugo skaidrumą, kai taikoma (PNG/WebP), ir išlaiko išdėstymą PDF failams (puslapio dydis, paraštės, tinkamumas puslapiui). Mūsų įrankiai pateikia pagrįstas numatytas vertes, todėl dauguma vartotojų gali konvertuoti per kelias sekundes.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Sugadinantis ir nesugadinantis, rastrinis ir vektorinis",
+      "description": "<ul><li><strong>Sugadinantis ir nesugadinantis:</strong> JPG/WebP (sugadinantis) sumažina dydį, atmesdami kai kuriuos duomenis; PNG/TIFF (nesugadinantis) išlaiko visas detales. Pasirinkite sugadinantį formatą bendrinimui internete, nesugadinantį – redagavimui/archyvavimui.</li><li><strong>Rastrinis ir vektorinis:</strong> JPG/PNG/WebP/TIFF yra rastriniai (pikseliai). SVG/AI yra vektoriniai (formos, kontūrai). Rastriniam formatui reikia tinkamos rezoliucijos (DPI) spausdinimui; vektorinis mastelis keičiamas be ribos be neryškumo.</li><li><strong>Spalva ir metaduomenys:</strong> Konvertavimas gali paveikti ICC profilius, EXIF arba alfa kanalus. Mūsų vaizdų į PDF konvertavimo įrankiai tinkamai išsaugo skaidrumo elgseną ir pritaiko vaizdus prie puslapio su paraštėmis, užtikrindami nuspėjamą spausdinimą.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Populiarios konvertavimo kategorijos",
+      "description": "<ul><li><strong>PDF įrankiai:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Sujungti JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Sujungti PNG → PDF</a></li><li><strong>Vaizdų įrankiai:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Garso įrankiai:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Vaizdo įrankiai:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Dokumentų įrankiai:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Kaip tai veikia",
+      "description": "<ol><li>Pasirinkite konverterį tiksliai jūsų formato porai (pvz., <em>PNG → PDF</em>).</li><li>Įkelkite vieną ar kelis failus (daugelio failų palaikymas daugelyje įrankių).</li><li>Spustelėkite konvertuoti – numatytosios reikšmės yra optimizuotos kokybei ir dydžiui.</li><li>Atsisiųskite rezultatą iš karto. Nereikia registruotis, nėra vandens ženklų.</li></ol><p>Patarimai: išlaikykite nuoseklų vaizdų proporcijas, kai sujungiate į PDF, kad gautumėte vienodą išdėstymą. Internetui, apsvarstykite WebP formatą, kad sumažintumėte dydį, išlaikant puikią kokybę.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Sauga ir privatumas",
+      "description": "<ul><li><strong>Šifruotas perdavimas:</strong> Failai perduodami per saugius ryšius.</li><li><strong>Automatinis ištrynimas:</strong> Apdoroti failai automatiškai ištrinami.</li><li><strong>Nuolatinio saugojimo nėra:</strong> Mes nesaugome jūsų failų po apdorojimo.</li><li><strong>Nėra vandens ženklų:</strong> Rezultatai yra švarūs ir paruošti naudoti.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Kas yra failų konverteris?",
+      "answer": "Jis keičia failą iš vieno formato į kitą (pvz., JPG → PNG, PDF → JPG), kad pagerintų suderinamumą, kokybę arba dydį."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Kokie konverteriai yra populiariausi?",
+      "answer": "PDF ↔ Vaizdas (PDF → JPG/PNG/WebP/TIFF ir JPG/PNG/WebP/TIFF → PDF) ir Vaizdas ↔ Vaizdas (JPG ↔ PNG, PNG ↔ WebP) yra dažniausiai naudojami."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Ar jūs suspaudžiate vaizdus?",
+      "answer": "Taip, sugadinantys formatai, kaip JPG/WebP, sumažina dydį su reguliuojama kokybe; nesugadinantys formatai, kaip PNG/TIFF, išsaugo detales."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Ar jūs išsaugote skaidrumą?",
+      "answer": "PNG ir WebP palaiko alfa kanalus. Konvertuojant į PDF, puslapiai yra išdėstomi su paraštėmis ir tinkamumo puslapiui elgsena, kad būtų nuspėjamas rezultatas."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Ar palaikoma OCR?",
+      "answer": "OCR nėra įjungta pagal nutylėjimą. Teksto ištraukimui iš vaizdų/PDF naudokite specializuotus OCR įrankius."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Didžiausias failo dydis?",
+      "answer": "Dauguma konverterių palaiko iki 100 MB vienam konvertavimui. Didesniems failams pirmiausia padalinkite arba suspauskite."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Ar mano failai yra saugomi?",
+      "answer": "Ne. Failai apdorojami saugiai ir automatiškai ištrinami po konvertavimo."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Ar galiu konvertuoti partijose arba sujungti?",
+      "answer": "Daugelis įrankių palaiko daugelio failų įkėlimą ir sujungimą (pvz., Sujungti JPG → PDF, Sujungti PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Pastaba: Kiekvienas konverteris yra optimizuotas vienai formato porai, užtikrinant geriausią kokybę ir greitį. Vieningiausiam PDF išdėstymui naudokite nuoseklius vaizdų matmenis ir orientaciją.",
+  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos."
 }

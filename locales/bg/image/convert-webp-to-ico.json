@@ -1,254 +1,381 @@
 {
-  "lang": "bg",
-  "lang_name": "Български",
-  "title": "WEBP към ICO Конвертор - Безплатно и Онлайн | WikiHowTo.click",
-  "sub_title": "Конвертирайте WebP изображения в ICO формат онлайн за фавикони и икони на работния плот. Безплатно, бързо и без водни знаци.",
-  "hint": "Качете вашето WebP изображение, за да започнете конвертирането...",
-  "btn_download": "Конвертиране в ICO",
-  "btn_paste": "Качете WebP",
-  "btn_clear": "Изчисти",
-  "ogImage": "https://wikihowto.click/images/webp-to-ico.jpg",
+  "lang": "bg"
+
+  "lang_name": "Български"
+
+  "title": "WEBP към ICO Конвертор - Безплатно и Онлайн | miconvert.com"
+
+  "sub_title": "Конвертирайте WebP изображения в ICO формат онлайн за фавикони и икони на работния плот. Безплатно, бързо и без водни знаци."
+
+  "hint": "Качете вашето WebP изображение, за да започнете конвертирането..."
+
+  "btn_download": "Конвертиране в ICO"
+
+  "btn_paste": "Качете WebP"
+
+  "btn_clear": "Изчисти"
+
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
+
   "head": {
-    "title": "Конвертиране на WebP в ICO Онлайн - Безплатен WebP към ICO Конвертор | WikiHowTo.click",
-    "description": "Конвертирайте WebP изображения в ICO формат онлайн безплатно. Висококачествено WebP → ICO конвертиране за фавикони и икони на работния плот.",
-    "keywords": "webp към ico, конвертиране webp в ico, безплатен webp към ico, онлайн ico конвертор, създател на фавикони",
-    "canonical": "https://wikihowto.click/bg/convert/webp-to-ico",
-    "og_title": "WebP към ICO Конвертор - Безплатно и Онлайн",
-    "og_description": "Конвертирайте WebP изображения в ICO формат за фавикони и икони на работния плот. 100% безплатно, бързо и сигурно.",
-    "og_url": "https://wikihowto.click/bg/convert/webp-to-ico",
-    "og_image": "https://wikihowto.click/images/webp-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Безплатен WebP към ICO Конвертор Онлайн",
-    "twitter_description": "Конвертирайте WebP в ICO за фавикони и икони на работния плот. Работи на всички устройства.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-ico.jpg"
-  },
+    "title": "Конвертиране на WebP в ICO Онлайн - Безплатен WebP към ICO Конвертор | miconvert.com"
+
+    "description": "Конвертирайте WebP изображения в ICO формат онлайн безплатно. Висококачествено WebP → ICO конвертиране за фавикони и икони на работния плот."
+
+    "keywords": "webp към ico, конвертиране webp в ico, безплатен webp към ico, онлайн ico конвертор, създател на фавикони"
+
+    "canonical": "https://miconvert.com/bg/convert/webp-to-ico"
+
+    "og_title": "WebP към ICO Конвертор - Безплатно и Онлайн"
+
+    "og_description": "Конвертирайте WebP изображения в ICO формат за фавикони и икони на работния плот. 100% безплатно, бързо и сигурно."
+
+    "og_url": "https://miconvert.com/bg/convert/webp-to-ico"
+
+    "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Конвертиране на WebP в ICO Онлайн",
+    "title": "Конвертиране на WebP в ICO Онлайн"
+
     "description": "Безплатен и бърз WebP към ICO конвертор за фавикони и икони на работния плот. Работи мигновено на всяко устройство — не е необходима регистрация."
-  },
-  "description": "<p>Преобразувайте вашето <strong>WebP в ICO</strong> за секунди. ICO е родният формат на иконите за Windows и де факто стандарт за уеб фавикони. Запазваме прозрачността (алфа) и генерираме множество размери, така че вашата икона да остане ясна на раздели, преки пътища и екрани с висока разделителна способност.</p><p><em>Забележка:</em> Анимираните WebP файлове се конвертират като статична икона, използвайки <strong>първия кадър</strong>.</p>",
+
+  }
+  "description": "<p>Преобразувайте вашето <strong>WebP в ICO</strong> за секунди. ICO е родният формат на иконите за Windows и де факто стандарт за уеб фавикони. Запазваме прозрачността (алфа) и генерираме множество размери, така че вашата икона да остане ясна на раздели, преки пътища и екрани с висока разделителна способност.</p><p><em>Забележка:</em> Анимираните WebP файлове се конвертират като статична икона, използвайки <strong>първия кадър</strong>.</p>"
+
   "converter": {
-    "type": "webp-to-ico",
-    "title": "WebP към ICO Конвертор",
-    "description": "Конвертирайте WebP изображения в многоразмерни ICO икони с запазена прозрачност.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "WebP",
-    "outputFormat": "ICO",
+    "type": "webp-to-ico"
+
+    "title": "WebP към ICO Конвертор"
+
+    "description": "Конвертирайте WebP изображения в многоразмерни ICO икони с запазена прозрачност."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "ICO"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "features": [
-      "Висококачествено ICO конвертиране",
-      "Многоразмерен комплект икони (16–256 px)",
-      "Запазена прозрачност",
+      "Висококачествено ICO конвертиране"
+
+      "Многоразмерен комплект икони (16–256 px)"
+
+      "Запазена прозрачност"
+
       "Бърз и безплатен онлайн инструмент"
-    ],
+
+    ]
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Конвертирането на WebP в ICO е завършено",
-    "back_button": "Назад към Конвертора",
-    "convert_another": "Конвертирайте Друг WebP",
+    "title": "Конвертирането на WebP в ICO е завършено"
+
+    "back_button": "Назад към Конвертора"
+
+    "convert_another": "Конвертирайте Друг WebP"
+
     "quick_conversions": "Бързи Конверсии:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Защо да конвертирате WebP в ICO?",
+      "title": "Защо да конвертирате WebP в ICO?"
+
       "description": "<p>ICO е специално проектиран за икони и фавикони:</p><ul><li><strong>Многоразмерен в един файл:</strong> Сглобете 16–256 px варианти за ясна визуализация навсякъде.</li><li><strong>Стандарт за фавикони:</strong> Признава се от всички основни браузъри.</li><li><strong>Роден за Windows:</strong> Идеален за икони на работния плот/приложения/преки пътища.</li><li><strong>Прозрачност:</strong> Пълна поддръжка на алфа за плавни ръбове.</li></ul>"
-    },
-    {
-      "title": "Как да конвертирате WebP в ICO Онлайн",
-      "description": "<ol><li>Щракнете <em>Качете WebP</em> и изберете изображението си.</li><li>Изчакайте обработката и оптимизацията.</li><li>Щракнете <em>Изтеглете ICO</em>, за да запазите иконата си.</li></ol><p>Автоматично генерираме общи размери за ясни резултати.</p>"
-    },
-    {
-      "title": "ICO срещу WebP Сравнение",
-      "description": "<ul><li><strong>Случай на употреба:</strong> ICO за икони/фавикони; WebP за общи уеб изображения.</li><li><strong>Прозрачност:</strong> И двата поддържат алфа; ICO запазва ръбовете чисти при малки размери.</li><li><strong>Анимация:</strong> ICO е статичен; анимираното WebP става статична икона (първи кадър).</li></ul>"
-    },
-    {
-      "title": "Поддържани ограничения и формати",
-      "description": "<ul><li><strong>Приети входни данни:</strong> WebP (<code>image/webp</code>)</li><li><strong>Максимален размер на файла:</strong> 16&nbsp;MB на файл</li><li><strong>Изход:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Най-добри практики за ясни икони",
-      "description": "<ul><li>Започнете с <strong>квадратен</strong> източник и добавете отстъп, за да избегнете изрязване.</li><li>Използвайте смели форми и висок контраст за размери 16–32 px.</li><li>Ако вашето WebP има натоварен фон, опростете го за по-добра яснота при малки размери.</li></ul>"
-    },
-    {
-      "title": "Отстраняване на проблеми",
-      "description": "<ul><li><strong>Фавиконът не се обновява:</strong> Изчистете кеша и свържете <code>/favicon.ico</code> чрез <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Изглежда назъбен при 16 px:</strong> Качете по-голям, чист източник; намаляването подобрява остротата.</li><li><strong>Качването не успява:</strong> Уверете се, че е <code>image/webp</code> и ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Как да конвертирате WebP в ICO Онлайн"
+
+      "description": "<ol><li>Щракнете <em>Качете WebP</em> и изберете изображението си.</li><li>Изчакайте обработката и оптимизацията.</li><li>Щракнете <em>Изтеглете ICO</em>, за да запазите иконата си.</li></ol><p>Автоматично генерираме общи размери за ясни резултати.</p>"
+
+    }
+    {
+      "title": "ICO срещу WebP Сравнение"
+
+      "description": "<ul><li><strong>Случай на употреба:</strong> ICO за икони/фавикони; WebP за общи уеб изображения.</li><li><strong>Прозрачност:</strong> И двата поддържат алфа; ICO запазва ръбовете чисти при малки размери.</li><li><strong>Анимация:</strong> ICO е статичен; анимираното WebP става статична икона (първи кадър).</li></ul>"
+
+    }
+    {
+      "title": "Поддържани ограничения и формати"
+
+      "description": "<ul><li><strong>Приети входни данни:</strong> WebP (<code>image/webp</code>)</li><li><strong>Максимален размер на файла:</strong> 16&nbsp;MB на файл</li><li><strong>Изход:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Най-добри практики за ясни икони"
+
+      "description": "<ul><li>Започнете с <strong>квадратен</strong> източник и добавете отстъп, за да избегнете изрязване.</li><li>Използвайте смели форми и висок контраст за размери 16–32 px.</li><li>Ако вашето WebP има натоварен фон, опростете го за по-добра яснота при малки размери.</li></ul>"
+
+    }
+    {
+      "title": "Отстраняване на проблеми"
+
+      "description": "<ul><li><strong>Фавиконът не се обновява:</strong> Изчистете кеша и свържете <code>/favicon.ico</code> чрез <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Изглежда назъбен при 16 px:</strong> Качете по-голям, чист източник; намаляването подобрява остротата.</li><li><strong>Качването не успява:</strong> Уверете се, че е <code>image/webp</code> и ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Безплатен ли е този WebP към ICO конвертор?",
+      "question": "Безплатен ли е този WebP към ICO конвертор?"
+
       "answer": "Да, напълно е безплатен, без водни знаци или скрити такси."
-    },
-    {
-      "question": "Какви размери се поддържат за ICO файлове?",
-      "answer": "Общите размери включват 16×16, 32×32, 48×48, 64×64, 128×128 и 256×256 px."
-    },
-    {
-      "question": "Запазва ли прозрачността?",
-      "answer": "Да. Ако вашето WebP включва алфа канал, ICO го запазва (32-битови RGBA записи)."
-    },
-    {
-      "question": "Поддържате ли анимирано WebP?",
-      "answer": "Анимираното WebP се конвертира като статична икона, използвайки първия кадър."
-    },
-    {
-      "question": "Мога ли да конвертирам множество WebP файлове наведнъж?",
-      "answer": "Тази страница конвертира един файл наведнъж. Повторете процеса за множество файлове."
-    },
-    {
-      "question": "Какви размери на файловете се поддържат?",
-      "answer": "Можете да качвате изображения до 16&nbsp;MB на файл."
+
     }
-  ],
-  "note": "ICO файловете са оптимизирани за малки размери на дисплея. За най-добри резултати, използвайте квадратен, висококонтрастен източник и включете малко отстъп.",
+    {
+      "question": "Какви размери се поддържат за ICO файлове?"
+
+      "answer": "Общите размери включват 16×16, 32×32, 48×48, 64×64, 128×128 и 256×256 px."
+
+    }
+    {
+      "question": "Запазва ли прозрачността?"
+
+      "answer": "Да. Ако вашето WebP включва алфа канал, ICO го запазва (32-битови RGBA записи)."
+
+    }
+    {
+      "question": "Поддържате ли анимирано WebP?"
+
+      "answer": "Анимираното WebP се конвертира като статична икона, използвайки първия кадър."
+
+    }
+    {
+      "question": "Мога ли да конвертирам множество WebP файлове наведнъж?"
+
+      "answer": "Тази страница конвертира един файл наведнъж. Повторете процеса за множество файлове."
+
+    }
+    {
+      "question": "Какви размери на файловете се поддържат?"
+
+      "answer": "Можете да качвате изображения до 16&nbsp;MB на файл."
+
+    }
+  ]
+  "note": "ICO файловете са оптимизирани за малки размери на дисплея. За най-добри резултати, използвайте квадратен, висококонтрастен източник и включете малко отстъп."
+
   "related_links": [
     {
-      "title": "Конвертиране на PNG в ICO",
+      "title": "Конвертиране на PNG в ICO"
+
       "url": "/bg/convert/png-to-ico"
-    },
-    {
-      "title": "Конвертиране на JPG в ICO",
-      "url": "/bg/convert/jpg-to-ico"
-    },
-    {
-      "title": "Конвертиране на ICO в PNG",
-      "url": "/bg/convert/ico-to-png"
-    },
-    {
-      "title": "Конвертиране на WebP в PNG",
-      "url": "/bg/convert/webp-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Всички права запазени.",
+    {
+      "title": "Конвертиране на JPG в ICO"
+
+      "url": "/bg/convert/jpg-to-ico"
+
+    }
+    {
+      "title": "Конвертиране на ICO в PNG"
+
+      "url": "/bg/convert/ico-to-png"
+
+    }
+    {
+      "title": "Конвертиране на WebP в PNG"
+
+      "url": "/bg/convert/webp-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Всички права запазени."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP към ICO Конвертор - Безплатно и Онлайн",
-      "url": "https://wikihowto.click/bg/convert/webp-to-ico",
-      "description": "Безплатен онлайн инструмент за конвертиране на WebP изображения в ICO за фавикони и икони на работния плот на Windows.",
-      "inLanguage": "bg",
-      "image": "https://wikihowto.click/images/webp-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP към ICO Конвертор - Безплатно и Онлайн"
+
+      "url": "https://miconvert.com/bg/convert/webp-to-ico"
+
+      "description": "Безплатен онлайн инструмент за конвертиране на WebP изображения в ICO за фавикони и икони на работния плот на Windows."
+
+      "inLanguage": "bg"
+
+      "image": "https://miconvert.com/images/webp-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Начало",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Начало"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Конвертиране",
-          "item": "https://wikihowto.click/bg/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Конвертиране"
+
+          "item": "https://miconvert.com/bg/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP към ICO",
-          "item": "https://wikihowto.click/bg/convert/webp-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP към ICO"
+
+          "item": "https://miconvert.com/bg/convert/webp-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP към ICO Конвертор",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/bg/convert/webp-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP към ICO Конвертор"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/bg/convert/webp-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "BGN"
-      },
+
+      }
       "featureList": [
-        "Многоразмерен комплект икони",
-        "Запазена прозрачност",
+        "Многоразмерен комплект икони"
+
+        "Запазена прозрачност"
+
         "Бърза обработка"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Безплатен ли е този WebP към ICO конвертор?",
+          "@type": "Question"
+
+          "name": "Безплатен ли е този WebP към ICO конвертор?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Да, напълно е безплатен, без водни знаци или скрити такси."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Какви размери на файловете се поддържат?",
+          "@type": "Question"
+
+          "name": "Какви размери на файловете се поддържат?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Можете да качвате изображения до 16 MB на файл."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Запазва ли прозрачността?",
+          "@type": "Question"
+
+          "name": "Запазва ли прозрачността?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Да. Ако вашето WebP включва алфа канал, ICO го запазва (32-битови RGBA записи)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Как да конвертирате WebP в ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Как да конвертирате WebP в ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Щракнете Качете WebP и изберете изображението си."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Изчакайте обработката и оптимизацията да завършат."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Щракнете Изтеглете ICO, за да запазите иконата си."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Изчакайте обработката и оптимизацията да завършат."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Щракнете Изтеглете ICO, за да запазите иконата си."
+
+        }
+      ]
       "tool": [
         "WebP към ICO Конвертор"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

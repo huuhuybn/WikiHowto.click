@@ -37,8 +37,7 @@ function createJsonTemplate(conversion) {
     "og_title": `${title} - Free Online Converter`,
     "og_description": description,
     "og_image": `/images/${conversion.group}-converter.jpg`,
-    "twitter_title": `${title} - Free Online Converter`,
-    "twitter_description": description,
+    // Twitter meta tags removed
     "canonical_url": `/en/${conversion.group}/convert-${conversion.type}`,
     "schema": {
       "@context": "https://schema.org",

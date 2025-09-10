@@ -108,7 +108,7 @@ curl -X POST \
 ## 📁 Cấu trúc file
 
 ```
-WikiHowTo/
+MiConvert/
 ├── routes/
 │   └── image-converter.js    # Route chính cho image converter
 ├── uploads/                  # Thư mục lưu file tạm

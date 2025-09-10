@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "tr",
+  "lang_name": "Türkçe",
+  "title": "miconvert.com - Ücretsiz Çevrimiçi Dosya Dönüştürücüler",
+  "sub_title": "PDF, resim, ses, video ve belgeler arasında, her format çifti için özel araçlarla dosya dönüştürün. Hızlı, güvenli ve filigransız.",
+  "hint": "Dönüştürücüleri arayın (örneğin, JPG'den PNG'ye, PDF'den JPG'ye, MP3'ten WAV'ye)...",
+  "btn_download": "Dönüştürücüleri Ara",
+  "btn_paste": "Tümünü Gözat",
+  "btn_clear": "Temizle",
+  "description": "<p><strong>miconvert.com'a hoş geldiniz</strong> — <em>çift özel dosya dönüştürücülerinin</em> özel bir merkezi. Tek bir genel araç yerine, her format çifti için özel bir sayfa oluşturuyoruz (örneğin, <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), böylece her zaman doğru seçenekleri, en iyi kaliteyi ve basit bir iş akışını elde edersiniz.</p><p>Buradaki her dönüştürücü, amacına göre ayarlanmıştır: resim netliği/boyutu, şeffaflık işleme, baskıya hazır PDF düzenleri veya ses kalitesi. Kayıt gerekmez, filigran yok ve tasarım gereği özel — yüklemeler güvenli bir şekilde işlenir ve dönüştürmeden sonra otomatik olarak silinir. Masaüstü, tablet veya mobil cihazda kullanın.</p><p>**PDF araçlarımızı** (PDF ↔ JPG/PNG/TIFF/WebP, birleştir/ayır), **resim araçlarımızı** (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), **ses araçlarımızı** (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), **video araçlarımızı** (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) ve **belge araçlarımızı** (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC) keşfedin. Her araç hızlı, hassas ve odaklanmıştır.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Ücretsiz Çevrimiçi Dosya Dönüştürücüler - PDF, Resim, Ses ve Daha Fazlası | miconvert.com",
+    "description": "Ücretsiz dönüştürücülerle dosyaları çevrimiçi dönüştürün. Her format çifti için özel araçlar: PDF'den JPG'ye, PNG'den PDF'ye, MP3'ten WAV'ye ve daha fazlası. Hızlı, güvenli, filigran yok.",
+    "keywords": "dosya dönüştürücü, pdf dönüştürücü, resim dönüştürücü, ses dönüştürücü, video dönüştürücü, belge dönüştürücü, jpg png, pdf jpg, png pdf, mp3 wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Ücretsiz Çevrimiçi Dosya Dönüştürücüler",
+    "og_description": "PDF'leri, resimleri, sesi, videoyu ve belgeleri her format çifti için özel dönüştürücülerle dönüştürün. Ücretsiz, hızlı ve filigransız.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Dosya dönüştürücü nedir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bir dosya dönüştürücü, bir dosyayı bir formattan diğerine dönüştürür (örneğin, JPG'den PNG'ye, PDF'den JPG'ye). İyi dönüştürücüler, boyut ve uyumluluğu optimize ederken temel içeriği (pikseller, metin, ses) ve meta verileri korur."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Dosyalarımı saklıyor musunuz?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hayır. Dosyalar güvenli bir şekilde işlenir ve dönüştürmeden sonra otomatik olarak silinir. Kalıcı olarak saklamayız."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Dönüştürmeler ücretsiz ve filigransız mı?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Evet. Tüm araçlar %100 ücretsizdir ve asla filigran eklemez."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Ücretsiz Çevrimiçi Dosya Dönüştürücüler",
+    "description": "Format çifti başına bir araç. PDF'leri, resimleri, sesi, videoyu ve belgeleri çevrimiçi dönüştürün — hızlı, güvenli ve filigransız."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Dosya Dönüştürücü Nedir?",
+      "description": "<p>Bir dosya dönüştürücü, bir dosyanın formatını <strong>uyumluluğu</strong>, <strong>kaliteyi</strong> veya <strong>boyutu</strong> iyileştirmek için değiştirir. Yaygın örnekler arasında web için resim dönüştürme (<em>PNG → WebP</em>), baskıya hazır belgeler hazırlama (<em>JPG/PNG → PDF</em>) veya belgelerden görseller çıkarma (<em>PDF → JPG/PNG/TIFF/WebP</em>) bulunur.</p><p>İyi dönüştürücüler kalite ve boyut dengesini sağlar, geçerli olduğunda şeffaflığı korur (PNG/WebP) ve tahmin edilebilir baskı için PDF'ler için düzeni (sayfa boyutu, kenar boşlukları, sayfaya sığdır) korur. Araçlarımız mantıklı varsayılan değerler sunar, böylece çoğu kullanıcı saniyeler içinde dönüştürme yapabilir.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Kayıplı vs. Kayıpsız, Raster vs. Vektör",
+      "description": "<ul><li><strong>Kayıplı vs. Kayıpsız:</strong> JPG/WebP (kayıplı) bazı verileri atarak boyutu küçültür; PNG/TIFF (kayıpsız) tüm ayrıntıları korur. Web paylaşımı için kayıplı, düzenleme/arşivleme için kayıpsız seçin.</li><li><strong>Raster vs. Vektör:</strong> JPG/PNG/WebP/TIFF raster'dır (pikseller). SVG/AI vektördür (şekiller, yollar). Raster, baskı için yeterli çözünürlük (DPI) gerektirir; vektör bulanıklaşma olmadan sonsuza kadar ölçeklenir.</li><li><strong>Renk ve Meta Veriler:</strong> Dönüştürmeler, ICC profillerini, EXIF'i veya alfa kanallarını etkileyebilir. Resimden PDF araçlarımız, şeffaflık davranışını uygun şekilde korur ve tahmin edilebilir baskı için resimleri kenar boşluklarıyla sayfaya sığdırır.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Popüler Dönüştürme Kategorileri",
+      "description": "<ul><li><strong>PDF Araçları:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">JPG Birleştir → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">PNG Birleştir → PDF</a></li><li><strong>Resim Araçları:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Ses Araçları:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Video Araçları:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Belge Araçları:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Nasıl Çalışır",
+      "description": "<ol><li>Tam format çiftiniz için dönüştürücüyü seçin (örneğin, <em>PNG → PDF</em>).</li><li>Bir veya birden çok dosya yükleyin (çoğu araçta toplu işlem desteklenir).</li><li>Dönüştür'e tıklayın — varsayılanlar kalite ve boyut için optimize edilmiştir.</li><li>Sonucunuzu anında indirin. Kayıt yok, filigran yok.</li></ol><p>İpuçları: Düzgün bir düzen için PDF'ye birleştirme sırasında resim en boy oranlarını tutarlı tutun. Web için, mükemmel kalitede boyutu küçültmek için WebP'yi göz önünde bulundurun.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Güvenlik ve Gizlilik",
+      "description": "<ul><li><strong>Şifreli Aktarımlar:</strong> Dosyalar güvenli bağlantılar üzerinden aktarılır.</li><li><strong>Otomatik Silme:</strong> İşlenen dosyalar otomatik olarak silinir.</li><li><strong>Kalıcı Depolama Yok:</strong> İşlemeden sonra dosyalarınızı saklamayız.</li><li><strong>Filigran Yok:</strong> Sonuçlar temiz ve kullanıma hazırdır.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Dosya dönüştürücü nedir?",
+      "answer": "Uyumluluğu, kalitesi veya boyutunu iyileştirmek için bir dosyayı bir formattan diğerine (örneğin, JPG → PNG, PDF → JPG) değiştirir."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Hangi dönüştürücüler en popüler?",
+      "answer": "PDF ↔ Resim (PDF → JPG/PNG/WebP/TIFF ve JPG/PNG/WebP/TIFF → PDF) ve Resim ↔ Resim (JPG ↔ PNG, PNG ↔ WebP) en çok kullanılanlardır."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Resimleri sıkıştırıyor musunuz?",
+      "answer": "Evet, JPG/WebP gibi kayıplı formatlar, ayarlanabilir kaliteyle boyutu küçültür; PNG/TIFF gibi kayıpsız formatlar ayrıntıları korur."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Şeffaflığı koruyor musunuz?",
+      "answer": "PNG ve WebP alfa kanallarını destekler. PDF'ye dönüştürürken, sayfalar tahmin edilebilir çıktı için kenar boşlukları ve sayfaya sığdır davranışı ile düzenlenir."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "OCR destekleniyor mu?",
+      "answer": "OCR varsayılan olarak etkinleştirilmemiştir. Resimlerden/PDF'lerden metin çıkarmak için özel OCR araçlarını kullanın."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maksimum dosya boyutu?",
+      "answer": "Çoğu dönüştürücü, dönüştürme başına en fazla 100 MB destekler. Daha büyük dosyalar için önce bölün veya sıkıştırın."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Dosyalarım depolanıyor mu?",
+      "answer": "Hayır. Dosyalar güvenli bir şekilde işlenir ve dönüştürmeden sonra otomatik olarak silinir."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Toplu dönüştürme veya birleştirme yapabilir miyim?",
+      "answer": "Birçok araç çoklu dosya yüklemeyi ve birleştirmeyi destekler (örneğin, JPG Birleştir → PDF, PNG Birleştir → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Not: Her dönüştürücü, en iyi kalite ve hızı sağlamak için tek bir format çifti için optimize edilmiştir. En düzgün PDF düzeni için tutarlı resim boyutları ve yönlendirme kullanın.",
+  "footer": "© 2019 - 2025 miconvert.com. Tüm hakları saklıdır."
 }

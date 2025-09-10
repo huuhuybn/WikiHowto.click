@@ -1,239 +1,355 @@
 {
-  "lang": "sl",
-  "lang_name": "Slovenščina",
-  "title": "Pretvornik PNG v ICO - Brezplačno in Spletno | WikiHowTo.click",
-  "sub_title": "Pretvorite PNG slike v ICO format spletno za favicon in namizne ikone. Brezplačno, hitro in brez vodnih žigov.",
-  "hint": "Naložite svojo PNG sliko, da začnete s pretvorbo...",
-  "btn_download": "Pretvori v ICO",
-  "btn_paste": "Naloži PNG",
-  "btn_clear": "Počisti",
+  "lang": "sl"
+
+  "lang_name": "Slovenščina"
+
+  "title": "Pretvornik PNG v ICO - Brezplačno in Spletno | miconvert.com"
+
+  "sub_title": "Pretvorite PNG slike v ICO format spletno za favicon in namizne ikone. Brezplačno, hitro in brez vodnih žigov."
+
+  "hint": "Naložite svojo PNG sliko, da začnete s pretvorbo..."
+
+  "btn_download": "Pretvori v ICO"
+
+  "btn_paste": "Naloži PNG"
+
+  "btn_clear": "Počisti"
+
   "converter": {
-    "type": "png-to-ico",
-    "inputFormat": "PNG",
-    "outputFormat": "ICO",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "png-to-ico"
+
+    "inputFormat": "PNG"
+
+    "outputFormat": "ICO"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/png"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/x-icon",
-    "outputExtension": ".ico",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/x-icon"
+
+    "outputExtension": ".ico"
+
+    "quality": 90
     "options": {
       "ico": {
         "sizes": [
-          16,
-          32,
-          48,
-          64,
-          128,
+          16
+          32
+          48
+          64
+          128
           256
-        ],
+        ]
         "format": "png"
+
       }
     }
-  },
-  "description": "<p>Transformirajte svoj <strong>PNG v ICO</strong> za popolne favicon in namizne ikone! Naš brezplačni pretvornik PNG v ICO ustvarja profesionalne ikone več velikosti, ki izgledajo ostro v vseh brskalnikih in na Windows namizjih.</p><p>ICO datoteke lahko združujejo več velikosti v eni datoteki (npr. 16–256 px), kar je idealno za favicon in ikone aplikacij/kratkih povezav. Prosojnost iz PNG je ohranjena za gladke robove na temnih/svetlih ozadjih.</p>",
+  }
+  "description": "<p>Transformirajte svoj <strong>PNG v ICO</strong> za popolne favicon in namizne ikone! Naš brezplačni pretvornik PNG v ICO ustvarja profesionalne ikone več velikosti, ki izgledajo ostro v vseh brskalnikih in na Windows namizjih.</p><p>ICO datoteke lahko združujejo več velikosti v eni datoteki (npr. 16–256 px), kar je idealno za favicon in ikone aplikacij/kratkih povezav. Prosojnost iz PNG je ohranjena za gladke robove na temnih/svetlih ozadjih.</p>"
+
   "head": {
-    "title": "Pretvori PNG v ICO Spletno - Brezplačni PNG v ICO Pretvornik | WikiHowTo.click",
-    "description": "Pretvorite PNG v ICO spletno za favicon in namizne ikone. Brezplačno, hitro in varno orodje za pretvorbo PNG v ICO.",
-    "keywords": "png v ico, pretvori png v ico, brezplačni png v ico, spletni ico pretvornik, ustvarjalec favicon",
-    "canonical": "https://wikihowto.click/sl/convert/png-to-ico",
-    "og_title": "Pretvornik PNG v ICO - Brezplačno in Spletno",
-    "og_description": "Pretvorite PNG slike v ICO format za favicon in namizne ikone. 100% brezplačno, hitro in varno.",
-    "og_url": "https://wikihowto.click/sl/convert/png-to-ico",
-    "og_image": "https://wikihowto.click/images/png-to-ico.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Brezplačni PNG v ICO Pretvornik Spletno",
-    "twitter_description": "Pretvorite PNG v ICO za favicon in namizne ikone. Deluje na vseh napravah.",
-    "twitter_image": "https://wikihowto.click/images/png-to-ico.jpg"
-  },
+    "title": "Pretvori PNG v ICO Spletno - Brezplačni PNG v ICO Pretvornik | miconvert.com"
+
+    "description": "Pretvorite PNG v ICO spletno za favicon in namizne ikone. Brezplačno, hitro in varno orodje za pretvorbo PNG v ICO."
+
+    "keywords": "png v ico, pretvori png v ico, brezplačni png v ico, spletni ico pretvornik, ustvarjalec favicon"
+
+    "canonical": "https://miconvert.com/sl/convert/png-to-ico"
+
+    "og_title": "Pretvornik PNG v ICO - Brezplačno in Spletno"
+
+    "og_description": "Pretvorite PNG slike v ICO format za favicon in namizne ikone. 100% brezplačno, hitro in varno."
+
+    "og_url": "https://miconvert.com/sl/convert/png-to-ico"
+
+    "og_image": "https://miconvert.com/images/png-to-ico.jpg"
+
+  }
   "h1": {
-    "title": "Pretvori PNG v ICO Spletno",
+    "title": "Pretvori PNG v ICO Spletno"
+
     "description": "Brezplačni in hitri PNG v ICO pretvornik za favicon in namizne ikone. Deluje takoj na kateri koli napravi, brez registracije."
-  },
+
+  }
   "h2": [
     {
-      "title": "Zakaj pretvoriti PNG v ICO?",
+      "title": "Zakaj pretvoriti PNG v ICO?"
+
       "description": "<p>ICO je zasnovan za ikone:</p><ul><li><strong>Podpora za več velikosti:</strong> Združite 16–256 px različice v eno datoteko.</li><li><strong>Standard za favicon:</strong> Prepoznan s strani glavnih brskalnikov.</li><li><strong>Združljivost z Windows:</strong> Naravni format ikone za namizje/aplikacije.</li><li><strong>Prosojnost:</strong> Gladki robovi z ohranjeno PNG alfa.</li></ul>"
-    },
-    {
-      "title": "Kako pretvoriti PNG v ICO Spletno",
-      "description": "<ol><li>Kliknite <em>Naloži PNG</em> in izberite svojo sliko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi ICO</em>, da shranite svojo ikono.</li></ol><p>Samodejno generiramo običajne velikosti ikon.</p>"
-    },
-    {
-      "title": "Specifikacije formata ICO",
-      "description": "<ul><li><strong>Standardne velikosti:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Globina barv:</strong> Do 32-bit RGBA</li><li><strong>Prosojnost:</strong> Poln alfa kanal</li><li><strong>Struktura:</strong> Glava + več vnosov slik</li><li><strong>Stiskanje:</strong> PNG-stisnjeni vnosi za 32-bitne ikone (Vista+)</li></ul>"
-    },
-    {
-      "title": "Podprte omejitve in formati",
-      "description": "<ul><li><strong> Sprejeti vhod:</strong> PNG (<code>image/png</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-    },
-    {
-      "title": "Odpravljanje težav",
-      "description": "<ul><li><strong>Favicon se ne prikazuje:</strong> Počistite predpomnilnik in zagotovite <code>/favicon.ico</code> na korenu strani z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Neenakomerni robovi:</strong> Začnite z večjim, visoko kontrastnim PNG; zmanjšajte čisto.</li><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je PNG ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Značilnosti našega PNG v ICO pretvornika",
-      "description": "<ul><li>100% Brezplačno brez vodnih žigov</li><li>Samodejna optimizacija velikosti</li><li>Ohranjanje prosojnosti</li><li>Varna obdelava</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kako pretvoriti PNG v ICO Spletno"
+
+      "description": "<ol><li>Kliknite <em>Naloži PNG</em> in izberite svojo sliko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi ICO</em>, da shranite svojo ikono.</li></ol><p>Samodejno generiramo običajne velikosti ikon.</p>"
+
+    }
+    {
+      "title": "Specifikacije formata ICO"
+
+      "description": "<ul><li><strong>Standardne velikosti:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Globina barv:</strong> Do 32-bit RGBA</li><li><strong>Prosojnost:</strong> Poln alfa kanal</li><li><strong>Struktura:</strong> Glava + več vnosov slik</li><li><strong>Stiskanje:</strong> PNG-stisnjeni vnosi za 32-bitne ikone (Vista+)</li></ul>"
+
+    }
+    {
+      "title": "Podprte omejitve in formati"
+
+      "description": "<ul><li><strong> Sprejeti vhod:</strong> PNG (<code>image/png</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+
+    }
+    {
+      "title": "Odpravljanje težav"
+
+      "description": "<ul><li><strong>Favicon se ne prikazuje:</strong> Počistite predpomnilnik in zagotovite <code>/favicon.ico</code> na korenu strani z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Neenakomerni robovi:</strong> Začnite z večjim, visoko kontrastnim PNG; zmanjšajte čisto.</li><li><strong>Nalaganje ne uspe:</strong> Prepričajte se, da je PNG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Značilnosti našega PNG v ICO pretvornika"
+
+      "description": "<ul><li>100% Brezplačno brez vodnih žigov</li><li>Samodejna optimizacija velikosti</li><li>Ohranjanje prosojnosti</li><li>Varna obdelava</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ali je ta PNG v ICO pretvornik brezplačen?",
+      "question": "Ali je ta PNG v ICO pretvornik brezplačen?"
+
       "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
-    },
-    {
-      "question": "Katere velikosti so podprte v ICO datotekah?",
-      "answer": "Običajne velikosti vključujejo 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 slikovnih pik."
-    },
-    {
-      "question": "Ali lahko uporabim ICO datoteke za favicon spletnih strani?",
-      "answer": "Da. <code>favicon.ico</code> je široko podprt s strani glavnih brskalnikov."
-    },
-    {
-      "question": "Katere velikosti datotek so podprte?",
-      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
-    },
-    {
-      "question": "Ali so moje datoteke varne?",
-      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
-    },
-    {
-      "question": "Ali bo kakovost ikone dobra?",
-      "answer": "Ohranjamo prosojnost PNG in generiramo več velikosti za ostro upodabljanje pri majhnih dimenzijah."
+
     }
-  ],
-  "note": "Za najboljše rezultate uporabite jasno, visoko kontrastno PNG. Postavite <code>/favicon.ico</code> na koren vaše strani in ga navedite z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
+    {
+      "question": "Katere velikosti so podprte v ICO datotekah?"
+
+      "answer": "Običajne velikosti vključujejo 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 slikovnih pik."
+
+    }
+    {
+      "question": "Ali lahko uporabim ICO datoteke za favicon spletnih strani?"
+
+      "answer": "Da. <code>favicon.ico</code> je široko podprt s strani glavnih brskalnikov."
+
+    }
+    {
+      "question": "Katere velikosti datotek so podprte?"
+
+      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+
+    }
+    {
+      "question": "Ali so moje datoteke varne?"
+
+      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
+
+    }
+    {
+      "question": "Ali bo kakovost ikone dobra?"
+
+      "answer": "Ohranjamo prosojnost PNG in generiramo več velikosti za ostro upodabljanje pri majhnih dimenzijah."
+
+    }
+  ]
+  "note": "Za najboljše rezultate uporabite jasno, visoko kontrastno PNG. Postavite <code>/favicon.ico</code> na koren vaše strani in ga navedite z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+
   "related_links": [
     {
-      "title": "Pretvori JPG v ICO",
+      "title": "Pretvori JPG v ICO"
+
       "url": "/sl/convert/jpg-to-ico"
-    },
-    {
-      "title": "Pretvori BMP v ICO",
-      "url": "/sl/convert/bmp-to-ico"
-    },
-    {
-      "title": "Pretvori SVG v ICO",
-      "url": "/sl/convert/svg-to-ico"
-    },
-    {
-      "title": "Pretvori ICO v PNG",
-      "url": "/sl/convert/ico-to-png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+    {
+      "title": "Pretvori BMP v ICO"
+
+      "url": "/sl/convert/bmp-to-ico"
+
+    }
+    {
+      "title": "Pretvori SVG v ICO"
+
+      "url": "/sl/convert/svg-to-ico"
+
+    }
+    {
+      "title": "Pretvori ICO v PNG"
+
+      "url": "/sl/convert/ico-to-png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Pretvornik PNG v ICO - Brezplačno in Spletno",
-      "url": "https://wikihowto.click/sl/convert/png-to-ico",
-      "description": "Brezplačno spletno orodje za pretvorbo PNG slik v ICO za favicon in Windows namizne ikone.",
-      "inLanguage": "sl",
-      "image": "https://wikihowto.click/images/png-to-ico.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik PNG v ICO - Brezplačno in Spletno"
+
+      "url": "https://miconvert.com/sl/convert/png-to-ico"
+
+      "description": "Brezplačno spletno orodje za pretvorbo PNG slik v ICO za favicon in Windows namizne ikone."
+
+      "inLanguage": "sl"
+
+      "image": "https://miconvert.com/images/png-to-ico.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Pretvori",
-          "item": "https://wikihowto.click/sl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Pretvori"
+
+          "item": "https://miconvert.com/sl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "PNG v ICO",
-          "item": "https://wikihowto.click/sl/convert/png-to-ico"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "PNG v ICO"
+
+          "item": "https://miconvert.com/sl/convert/png-to-ico"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Pretvornik PNG v ICO",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sl/convert/png-to-ico",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik PNG v ICO"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sl/convert/png-to-ico"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Komplet ikon več velikosti",
-        "Ohranjena prosojnost",
+        "Komplet ikon več velikosti"
+
+        "Ohranjena prosojnost"
+
         "Hitro obdelovanje"
-      ],
-      "screenshot": "https://wikihowto.click/images/png-to-ico.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ali je ta PNG v ICO pretvornik brezplačen?",
+          "@type": "Question"
+
+          "name": "Ali je ta PNG v ICO pretvornik brezplačen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Katere velikosti datotek so podprte?",
+          "@type": "Question"
+
+          "name": "Katere velikosti datotek so podprte?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Lahko naložite slike do 16 MB na datoteko."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Katere velikosti so podprte v ICO datotekah?",
+          "@type": "Question"
+
+          "name": "Katere velikosti so podprte v ICO datotekah?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Običajne velikosti vključujejo 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 slikovnih pik."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kako pretvoriti PNG v ICO",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kako pretvoriti PNG v ICO"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite Naloži PNG in izberite svojo sliko."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počakajte, da se obdelava zaključi."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite Prenesi ICO, da shranite svojo ikono."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počakajte, da se obdelava zaključi."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite Prenesi ICO, da shranite svojo ikono."
+
+        }
+      ]
       "tool": [
         "Pretvornik PNG v ICO"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

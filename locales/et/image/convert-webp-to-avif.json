@@ -1,242 +1,365 @@
 {
-  "lang": "et",
-  "lang_name": "Eesti",
-  "title": "WEBP to AVIF Converter - Tasuta ja Veebis | WikiHowTo.click",
-  "sub_title": "Muuda WebP pilte AVIF-iks veebis suurepärase kokkusurumise, kõrge kvaliteedi ja ilma veemärkideta.",
-  "hint": "Laadi oma WebP pilt üles, et alustada konverteerimist...",
-  "btn_download": "Muuda AVIF-iks",
-  "btn_paste": "Laadi üles WebP",
-  "btn_clear": "Kustuta",
-  "ogImage": "https://wikihowto.click/images/webp-to-avif.jpg",
+  "lang": "et"
+
+  "lang_name": "Eesti"
+
+  "title": "WEBP to AVIF Converter - Tasuta ja Veebis | miconvert.com"
+
+  "sub_title": "Muuda WebP pilte AVIF-iks veebis suurepärase kokkusurumise, kõrge kvaliteedi ja ilma veemärkideta."
+
+  "hint": "Laadi oma WebP pilt üles, et alustada konverteerimist..."
+
+  "btn_download": "Muuda AVIF-iks"
+
+  "btn_paste": "Laadi üles WebP"
+
+  "btn_clear": "Kustuta"
+
+  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg"
+
   "head": {
-    "title": "Muuda WebP AVIF-iks Veebis - Tasuta WebP AVIF Converter | WikiHowTo.click",
-    "description": "Muuda WebP AVIF-iks veebis suurepärase kokkusurumise ja kõrge kvaliteediga. Tasuta, kiire ja turvaline WebP AVIF konverter.",
-    "keywords": "webp avif-iks, muuda webp avif-iks, tasuta webp avif-iks, veebis avif konverter, pildi konverteerimine",
-    "canonical": "https://wikihowto.click/et/convert/webp-to-avif",
-    "og_title": "WebP to AVIF Converter - Tasuta ja Veebis",
-    "og_description": "Muuda WebP pilte AVIF formaati suurepärase kokkusurumise ja kvaliteediga. 100% tasuta, kiire ja turvaline.",
-    "og_url": "https://wikihowto.click/et/convert/webp-to-avif",
-    "og_image": "https://wikihowto.click/images/webp-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Tasuta WebP AVIF Converter Veebis",
-    "twitter_description": "Muuda WebP AVIF-iks suurepärase kokkusurumise ja kõrge kvaliteediga. Töötab kõigil seadmetel.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-avif.jpg"
-  },
+    "title": "Muuda WebP AVIF-iks Veebis - Tasuta WebP AVIF Converter | miconvert.com"
+
+    "description": "Muuda WebP AVIF-iks veebis suurepärase kokkusurumise ja kõrge kvaliteediga. Tasuta, kiire ja turvaline WebP AVIF konverter."
+
+    "keywords": "webp avif-iks, muuda webp avif-iks, tasuta webp avif-iks, veebis avif konverter, pildi konverteerimine"
+
+    "canonical": "https://miconvert.com/et/convert/webp-to-avif"
+
+    "og_title": "WebP to AVIF Converter - Tasuta ja Veebis"
+
+    "og_description": "Muuda WebP pilte AVIF formaati suurepärase kokkusurumise ja kvaliteediga. 100% tasuta, kiire ja turvaline."
+
+    "og_url": "https://miconvert.com/et/convert/webp-to-avif"
+
+    "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Muuda WebP AVIF-iks Veebis",
+    "title": "Muuda WebP AVIF-iks Veebis"
+
     "description": "Tasuta ja kiire WebP AVIF konverter suurepärase kokkusurumise ja kvaliteediga. Töötab koheselt igas seadmes - registreerimist ei nõuta."
-  },
-  "description": "<p>Uuenda oma pilte, muutes <strong>WebP AVIF-iks</strong>. AVIF (AV1 Image File Format) on järgmise põlvkonna formaat, mis sageli toodab väiksemaid faile sarnase visuaalse kvaliteediga. Meie tööriist säilitab läbipaistvuse ja muundab värvi sRGB-ks veebikooskõla tagamiseks.</p><p><em>Märkus:</em> Kui sinu WebP on animeeritud, muudetakse ainult esimene raam staatiliseks AVIF pildiks.</p>",
+
+  }
+  "description": "<p>Uuenda oma pilte, muutes <strong>WebP AVIF-iks</strong>. AVIF (AV1 Image File Format) on järgmise põlvkonna formaat, mis sageli toodab väiksemaid faile sarnase visuaalse kvaliteediga. Meie tööriist säilitab läbipaistvuse ja muundab värvi sRGB-ks veebikooskõla tagamiseks.</p><p><em>Märkus:</em> Kui sinu WebP on animeeritud, muudetakse ainult esimene raam staatiliseks AVIF pildiks.</p>"
+
   "converter": {
-    "type": "webp-to-avif",
-    "title": "WebP to AVIF Converter",
-    "description": "Muuda WebP pilte AVIF-iks kõrge kvaliteedi ja suurepärase kokkusurumisega.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "WebP",
-    "outputFormat": "AVIF",
+    "type": "webp-to-avif"
+
+    "title": "WebP to AVIF Converter"
+
+    "description": "Muuda WebP pilte AVIF-iks kõrge kvaliteedi ja suurepärase kokkusurumisega."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 60,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 60
     "features": [
-      "Kõrge kvaliteediga AVIF konverteerimine",
-      "Suurepärane kokkusurumine",
-      "Läbipaistvuse säilitamine",
+      "Kõrge kvaliteediga AVIF konverteerimine"
+
+      "Suurepärane kokkusurumine"
+
+      "Läbipaistvuse säilitamine"
+
       "Tasuta veebitööriist"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "cqLevel": 30,
-        "speed": 6,
-        "subsample": "4:2:0",
-        "lossless": false,
+        "cqLevel": 30
+        "speed": 6
+        "subsample": "4:2:0"
+
+        "lossless": false
         "alphaQuality": 100
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "WebP AVIF-iks Muundamine Lõpetatud",
-    "back_button": "Tagasi Konverterisse",
-    "convert_another": "Muuda Teine WebP",
+    "title": "WebP AVIF-iks Muundamine Lõpetatud"
+
+    "back_button": "Tagasi Konverterisse"
+
+    "convert_another": "Muuda Teine WebP"
+
     "quick_conversions": "Kiired Muundamised:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miks Muuta WebP AVIF-iks?",
+      "title": "Miks Muuta WebP AVIF-iks?"
+
       "description": "<p>AVIF põhineb AV1 koodekil ja sihib ülimat efektiivsust:</p><ul><li><strong>Väiksemad Failid:</strong> Tihti 15–30% väiksemad kui sarnased WebP samas kvaliteedis.</li><li><strong>Kõrge Kvaliteet:</strong> Parema detaili säilitamine madalamate bitikiirusel.</li><li><strong>Kaasaegne ja Tulevikukindel:</strong> Lai ja kasvav brauseri tugi.</li><li><strong>Läbipaistvus:</strong> Täielik alfa kanalite tugi nagu WebP.</li></ul>"
-    },
-    {
-      "title": "Kuidas Muuta WebP AVIF-iks Veebis",
-      "description": "<ol><li>Kliki <em>Laadi üles WebP</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla AVIF</em>, et salvestada tulemus.</li></ol><p>Vaikeseaded tasakaalustavad truudust ja suurust kaasaegses veebis.</p>"
-    },
-    {
-      "title": "AVIF vs WebP Võrdlus",
-      "description": "<ul><li><strong>Kokkusurumine:</strong> AVIF saavutab üldiselt väiksemaid faile sarnase kvaliteediga.</li><li><strong>Läbipaistvus:</strong> Mõlemad toetavad alfa kanaleid.</li><li><strong>Animeerimine:</strong> See tööriist genereerib <em>staatilise</em> AVIF (ainult esimene raam).</li><li><strong>Brauseri Tugi:</strong> AVIF on toetatud praegustes versioonides peamistest brauseritest.</li></ul>"
-    },
-    {
-      "title": "Toetatud Piirangud ja Formaadid",
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimaalne faili suurus:</strong> 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animeerimine:</strong> Ainult esimene raam</li></ul>"
-    },
-    {
-      "title": "Tõrkeotsing",
-      "description": "<ul><li><strong>Värvid näevad erinevad välja:</strong> Väljund muudetakse sRGB-ks veebikooskõla tagamiseks.</li><li><strong>Fail on endiselt suur:</strong> Proovi kõrgemat <em>cqLevel</em> (nt 34–36) või vähenda suurust enne konverteerimist.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et <code>image/webp</code> ja ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kuidas Muuta WebP AVIF-iks Veebis"
+
+      "description": "<ol><li>Kliki <em>Laadi üles WebP</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi alla AVIF</em>, et salvestada tulemus.</li></ol><p>Vaikeseaded tasakaalustavad truudust ja suurust kaasaegses veebis.</p>"
+
+    }
+    {
+      "title": "AVIF vs WebP Võrdlus"
+
+      "description": "<ul><li><strong>Kokkusurumine:</strong> AVIF saavutab üldiselt väiksemaid faile sarnase kvaliteediga.</li><li><strong>Läbipaistvus:</strong> Mõlemad toetavad alfa kanaleid.</li><li><strong>Animeerimine:</strong> See tööriist genereerib <em>staatilise</em> AVIF (ainult esimene raam).</li><li><strong>Brauseri Tugi:</strong> AVIF on toetatud praegustes versioonides peamistest brauseritest.</li></ul>"
+
+    }
+    {
+      "title": "Toetatud Piirangud ja Formaadid"
+
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimaalne faili suurus:</strong> 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animeerimine:</strong> Ainult esimene raam</li></ul>"
+
+    }
+    {
+      "title": "Tõrkeotsing"
+
+      "description": "<ul><li><strong>Värvid näevad erinevad välja:</strong> Väljund muudetakse sRGB-ks veebikooskõla tagamiseks.</li><li><strong>Fail on endiselt suur:</strong> Proovi kõrgemat <em>cqLevel</em> (nt 34–36) või vähenda suurust enne konverteerimist.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et <code>image/webp</code> ja ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Kas see WebP AVIF konverter on tasuta?",
+      "question": "Kas see WebP AVIF konverter on tasuta?"
+
       "answer": "Jah, see on täiesti tasuta, ilma veemärkide või peidetud tasudeta."
-    },
-    {
-      "question": "Kas AVIF töötab kõigis brauserites?",
-      "answer": "AVIF on toetatud kaasaegsetes brauserites (Chrome, Firefox, Safari, Edge). Paku WebP või JPG varukoopiaid vanemate versioonide jaoks."
-    },
-    {
-      "question": "Kui palju väiksemad on AVIF failid võrreldes WebP-ga?",
-      "answer": "Tulemused varieeruvad pildi järgi, kuid AVIF on sageli 15–30% väiksem sarnase visuaalse kvaliteediga."
-    },
-    {
-      "question": "Kas see säilitab läbipaistvuse?",
-      "answer": "Jah. Kui sinu WebP-l on alfa kanal, säilitab AVIF väljund selle."
-    },
-    {
-      "question": "Kas toetate animeeritud WebP-d?",
-      "answer": "Animeeritud WebP muudetakse staatiliseks pildiks, kasutades esimest raami."
-    },
-    {
-      "question": "Milliseid faili suurusi toetatakse?",
-      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
+
     }
-  ],
-  "note": "AVIF on väga efektiivne, kuid võib väga vanadel seadmetel töötada veidi aeglasemalt. Maksimaalse ühilduvuse tagamiseks hoia oma originaal WebP varukoopiana.",
+    {
+      "question": "Kas AVIF töötab kõigis brauserites?"
+
+      "answer": "AVIF on toetatud kaasaegsetes brauserites (Chrome, Firefox, Safari, Edge). Paku WebP või JPG varukoopiaid vanemate versioonide jaoks."
+
+    }
+    {
+      "question": "Kui palju väiksemad on AVIF failid võrreldes WebP-ga?"
+
+      "answer": "Tulemused varieeruvad pildi järgi, kuid AVIF on sageli 15–30% väiksem sarnase visuaalse kvaliteediga."
+
+    }
+    {
+      "question": "Kas see säilitab läbipaistvuse?"
+
+      "answer": "Jah. Kui sinu WebP-l on alfa kanal, säilitab AVIF väljund selle."
+
+    }
+    {
+      "question": "Kas toetate animeeritud WebP-d?"
+
+      "answer": "Animeeritud WebP muudetakse staatiliseks pildiks, kasutades esimest raami."
+
+    }
+    {
+      "question": "Milliseid faili suurusi toetatakse?"
+
+      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
+
+    }
+  ]
+  "note": "AVIF on väga efektiivne, kuid võib väga vanadel seadmetel töötada veidi aeglasemalt. Maksimaalse ühilduvuse tagamiseks hoia oma originaal WebP varukoopiana."
+
   "related_links": [
     {
-      "title": "Muuda AVIF WebP-ks",
+      "title": "Muuda AVIF WebP-ks"
+
       "url": "/et/convert/avif-to-webp"
-    },
-    {
-      "title": "Muuda PNG AVIF-iks",
-      "url": "/et/convert/png-to-avif"
-    },
-    {
-      "title": "Muuda JPG AVIF-iks",
-      "url": "/et/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+    {
+      "title": "Muuda PNG AVIF-iks"
+
+      "url": "/et/convert/png-to-avif"
+
+    }
+    {
+      "title": "Muuda JPG AVIF-iks"
+
+      "url": "/et/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP to AVIF Converter - Tasuta ja Veebis",
-      "url": "https://wikihowto.click/et/convert/webp-to-avif",
-      "description": "Tasuta veebitööriist WebP piltide konverteerimiseks AVIF-iks suurepärase kokkusurumise ja kõrge kvaliteediga.",
-      "inLanguage": "et",
-      "image": "https://wikihowto.click/images/webp-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to AVIF Converter - Tasuta ja Veebis"
+
+      "url": "https://miconvert.com/et/convert/webp-to-avif"
+
+      "description": "Tasuta veebitööriist WebP piltide konverteerimiseks AVIF-iks suurepärase kokkusurumise ja kõrge kvaliteediga."
+
+      "inLanguage": "et"
+
+      "image": "https://miconvert.com/images/webp-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Avaleht",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Avaleht"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Muuda",
-          "item": "https://wikihowto.click/et/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Muuda"
+
+          "item": "https://miconvert.com/et/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP AVIF-iks",
-          "item": "https://wikihowto.click/et/convert/webp-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP AVIF-iks"
+
+          "item": "https://miconvert.com/et/convert/webp-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP to AVIF Converter",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/et/convert/webp-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP to AVIF Converter"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/et/convert/webp-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Läbipaistvuse säilitamine",
-        "Suurepärane kokkusurumine",
+        "Läbipaistvuse säilitamine"
+
+        "Suurepärane kokkusurumine"
+
         "Kiire töötlemine"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Kas see WebP AVIF konverter on tasuta?",
+          "@type": "Question"
+
+          "name": "Kas see WebP AVIF konverter on tasuta?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jah, see on täiesti tasuta, ilma veemärkide või peidetud tasudeta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kui palju väiksemad on AVIF failid võrreldes WebP-ga?",
+          "@type": "Question"
+
+          "name": "Kui palju väiksemad on AVIF failid võrreldes WebP-ga?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF on sageli 15–30% väiksem sarnase kvaliteediga WebP-st, kuid see sõltub pildist."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kas toetate animeeritud WebP-d?",
+          "@type": "Question"
+
+          "name": "Kas toetate animeeritud WebP-d?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animeeritud WebP muudetakse staatiliseks pildiks (ainult esimene raam)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kuidas muuda WebP AVIF-iks",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kuidas muuda WebP AVIF-iks"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliki Laadi üles WebP ja vali oma fail."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Oota töötlemise ja optimeerimise lõpetamist."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliki Laadi alla AVIF, et salvestada oma pilt."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Oota töötlemise ja optimeerimise lõpetamist."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliki Laadi alla AVIF, et salvestada oma pilt."
+
+        }
+      ]
       "tool": [
         "WebP to AVIF Converter"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

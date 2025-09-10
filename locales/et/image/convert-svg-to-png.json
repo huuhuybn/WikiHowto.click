@@ -1,238 +1,359 @@
 {
-  "lang": "et",
-  "lang_name": "Eesti",
-  "title": "SVG PNG-ks Muundur - Tasuta ja Veebis | WikiHowTo.click",
-  "sub_title": "Muuda SVG vektorgraafika PNG-ks veebis terava rasteriseerimise, läbipaistvuse ja ilma veemärkideta.",
-  "hint": "Laadi oma SVG-fail üles, et alustada konverteerimist...",
-  "btn_download": "Muuda PNG-ks",
-  "btn_paste": "Laadi üles SVG",
-  "btn_clear": "Kustuta",
-  "ogImage": "https://wikihowto.click/images/svg-to-png.jpg",
+  "lang": "et"
+
+  "lang_name": "Eesti"
+
+  "title": "SVG PNG-ks Muundur - Tasuta ja Veebis | miconvert.com"
+
+  "sub_title": "Muuda SVG vektorgraafika PNG-ks veebis terava rasteriseerimise, läbipaistvuse ja ilma veemärkideta."
+
+  "hint": "Laadi oma SVG-fail üles, et alustada konverteerimist..."
+
+  "btn_download": "Muuda PNG-ks"
+
+  "btn_paste": "Laadi üles SVG"
+
+  "btn_clear": "Kustuta"
+
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
+
   "head": {
-    "title": "Muuda SVG PNG-ks - Tasuta Veebis SVG PNG Muundur | WikiHowTo.click",
-    "description": "Muuda SVG vektorgraafika PNG-ks veebis tasuta. Kvaliteetne SVG→PNG rasteriseerimine kiire töötlemise ja läbipaistvuse toega.",
-    "keywords": "svg png-ks, muuda svg png-ks, vektor rasteriks, tasuta svg muundur, veebipõhine png muundur",
-    "canonical": "https://wikihowto.click/et/convert/svg-to-png",
-    "og_title": "SVG PNG-ks Muundur - Tasuta ja Veebis",
-    "og_description": "Muuda SVG PNG-ks terava rasteriseerimise ja läbipaistvusega. 100% tasuta, kiire ja turvaline.",
-    "og_url": "https://wikihowto.click/et/convert/svg-to-png",
-    "og_image": "https://wikihowto.click/images/svg-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Tasuta SVG PNG-ks Muundur Veebis",
-    "twitter_description": "Muuda SVG PNG-ks läbipaistvuse toega ja kõrge kvaliteediga. Töötab kõigil seadmetel.",
-    "twitter_image": "https://wikihowto.click/images/svg-to-png.jpg"
-  },
+    "title": "Muuda SVG PNG-ks - Tasuta Veebis SVG PNG Muundur | miconvert.com"
+
+    "description": "Muuda SVG vektorgraafika PNG-ks veebis tasuta. Kvaliteetne SVG→PNG rasteriseerimine kiire töötlemise ja läbipaistvuse toega."
+
+    "keywords": "svg png-ks, muuda svg png-ks, vektor rasteriks, tasuta svg muundur, veebipõhine png muundur"
+
+    "canonical": "https://miconvert.com/et/convert/svg-to-png"
+
+    "og_title": "SVG PNG-ks Muundur - Tasuta ja Veebis"
+
+    "og_description": "Muuda SVG PNG-ks terava rasteriseerimise ja läbipaistvusega. 100% tasuta, kiire ja turvaline."
+
+    "og_url": "https://miconvert.com/et/convert/svg-to-png"
+
+    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Muuda SVG PNG-ks Veebis",
+    "title": "Muuda SVG PNG-ks Veebis"
+
     "description": "Tasuta ja kiire SVG PNG-ks muundur terava rasteriseerimise ja läbipaistvuse toega. Töötab koheselt igas seadmes - registreerimist ei nõuta."
-  },
-  "description": "<p>Muuda oma <strong>SVG PNG-ks</strong> sekunditega. See tasuta veebipõhine muundur rasteriseerib sinu vektorgraafika kõrge kvaliteediga PNG-piltideks, säilitades läbipaistvuse puhaste servade jaoks igas taustas.</p><p>Ideaalne faviconide, rakenduse varade, sotsiaalsete piltide ja veebigraafika jaoks. Optimeerime väljundi tugeva tasakaalu saavutamiseks selguse ja faili suuruse vahel.</p>",
+
+  }
+  "description": "<p>Muuda oma <strong>SVG PNG-ks</strong> sekunditega. See tasuta veebipõhine muundur rasteriseerib sinu vektorgraafika kõrge kvaliteediga PNG-piltideks, säilitades läbipaistvuse puhaste servade jaoks igas taustas.</p><p>Ideaalne faviconide, rakenduse varade, sotsiaalsete piltide ja veebigraafika jaoks. Optimeerime väljundi tugeva tasakaalu saavutamiseks selguse ja faili suuruse vahel.</p>"
+
   "converter": {
-    "type": "svg-to-png",
-    "title": "SVG PNG-ks Muundur",
-    "description": "Muuda SVG vektorgraafika PNG rastervorminguks kõrge kvaliteedi ja kiire töötlemisega.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "SVG",
-    "outputFormat": "PNG",
+    "type": "svg-to-png"
+
+    "title": "SVG PNG-ks Muundur"
+
+    "description": "Muuda SVG vektorgraafika PNG rastervorminguks kõrge kvaliteedi ja kiire töötlemisega."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "SVG"
+
+    "outputFormat": "PNG"
+
     "allowedTypes": [
       "image/svg+xml"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
     "features": [
-      "Kvaliteetne rasteriseerimine",
-      "Läbipaistvus säilitatud",
-      "Kiire töötlemine",
+      "Kvaliteetne rasteriseerimine"
+
+      "Läbipaistvus säilitatud"
+
+      "Kiire töötlemine"
+
       "Tasuta veebitööriist"
-    ],
+
+    ]
     "options": {
       "png": {
-        "compressionLevel": 6,
-        "progressive": false,
-        "background": "läbipaistev",
-        "width": null,
-        "height": null,
+        "compressionLevel": 6
+        "progressive": false
+        "background": "läbipaistev"
+
+        "width": null
+        "height": null
         "scale": 1
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "SVG PNG-ks Muundamine Lõpetatud",
-    "back_button": "Tagasi Muunduri juurde",
-    "convert_another": "Muuda Teine SVG",
+    "title": "SVG PNG-ks Muundamine Lõpetatud"
+
+    "back_button": "Tagasi Muunduri juurde"
+
+    "convert_another": "Muuda Teine SVG"
+
     "quick_conversions": "Kiired Muundamised:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miks Muuta SVG PNG-ks?",
+      "title": "Miks Muuta SVG PNG-ks?"
+
       "description": "<ul><li><strong>Üksikasjalik ühilduvus:</strong> PNG-d kuvatakse igal pool, SVG tuge ei nõuta.</li><li><strong>Läbipaistvus:</strong> Säilita alfa ülekanneteks ja kasutajaliidese elementideks.</li><li><strong>Toime:</strong> Väiksemad, vahemälutatavad bitmapid tootmiseks.</li></ul>"
-    },
-    {
-      "title": "Kuidas Muuta SVG PNG-ks Veebis",
-      "description": "<ol><li>Kliki <em>Laadi üles SVG</em> ja vali oma fail.</li><li>Oota rasteriseerimist ja optimeerimist.</li><li>Kliki <em>Laadi alla PNG</em>, et salvestada oma pilt.</li></ol><p>Vaikeseaded säilitavad läbipaistvuse ja tasakaalustatud kompressiooni.</p>"
-    },
-    {
-      "title": "Toetatud Piirangud ja Formaadid",
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Max faili suurus:</strong> 16&nbsp;MB</li><li><strong>Väljund:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-    },
-    {
-      "title": "Parimad Tavad Terava Väljundi Saamiseks",
-      "description": "<ul><li>Kasutage ruudukujulist kunstipinda, et vältida servade lõikamist.</li><li>Muuda tekst kontuurideks; sisesta fondid ja pildid.</li><li>Väldi liiga õhukesi jooni väikeste ikoonide jaoks (≥1px sihtmõõdus).</li><li>Ekspordi suurem (nt 512–1024 px), kui kavatsete hiljem vähendada.</li></ul>"
-    },
-    {
-      "title": "Tõrkeotsing",
-      "description": "<ul><li><strong>Puuduvad fondid/filtrid:</strong> Inline varad ja muuda tekst kontuurideks.</li><li><strong>Hammaste servad:</strong> Suurenda sihtmõõtu või <code>scale</code>, seejärel vähenda.</li><li><strong>Ühtlane taust:</strong> Veendu, et <code>background</code> on seadistatud <em>läbipaistvaks</em> valikutes.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et SVG on kehtiv ja ≤16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kuidas Muuta SVG PNG-ks Veebis"
+
+      "description": "<ol><li>Kliki <em>Laadi üles SVG</em> ja vali oma fail.</li><li>Oota rasteriseerimist ja optimeerimist.</li><li>Kliki <em>Laadi alla PNG</em>, et salvestada oma pilt.</li></ol><p>Vaikeseaded säilitavad läbipaistvuse ja tasakaalustatud kompressiooni.</p>"
+
+    }
+    {
+      "title": "Toetatud Piirangud ja Formaadid"
+
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Max faili suurus:</strong> 16&nbsp;MB</li><li><strong>Väljund:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
+
+    }
+    {
+      "title": "Parimad Tavad Terava Väljundi Saamiseks"
+
+      "description": "<ul><li>Kasutage ruudukujulist kunstipinda, et vältida servade lõikamist.</li><li>Muuda tekst kontuurideks; sisesta fondid ja pildid.</li><li>Väldi liiga õhukesi jooni väikeste ikoonide jaoks (≥1px sihtmõõdus).</li><li>Ekspordi suurem (nt 512–1024 px), kui kavatsete hiljem vähendada.</li></ul>"
+
+    }
+    {
+      "title": "Tõrkeotsing"
+
+      "description": "<ul><li><strong>Puuduvad fondid/filtrid:</strong> Inline varad ja muuda tekst kontuurideks.</li><li><strong>Hammaste servad:</strong> Suurenda sihtmõõtu või <code>scale</code>, seejärel vähenda.</li><li><strong>Ühtlane taust:</strong> Veendu, et <code>background</code> on seadistatud <em>läbipaistvaks</em> valikutes.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et SVG on kehtiv ja ≤16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Kas see SVG PNG-ks muundur on tasuta?",
+      "question": "Kas see SVG PNG-ks muundur on tasuta?"
+
       "answer": "Jah, see on täiesti tasuta, ilma veemärkide või peidetud tasudeta."
-    },
-    {
-      "question": "Kas PNG säilitab läbipaistvuse?",
-      "answer": "Jah. PNG toetab alfa läbipaistvust ja me säilitame selle vaikimisi."
-    },
-    {
-      "question": "Kas ma saan valida väljundi suuruse?",
-      "answer": "Vaikimisi kasutame SVG viewBox'i. Sa saad seadistada laius/kõrgus või skaalafaktori täiendavates valikutes, kui see on toetatud."
-    },
-    {
-      "question": "Millised faili suuruse piirangud kehtivad?",
-      "answer": "Sa saad üles laadida SVG-faile kuni 16 MB."
-    },
-    {
-      "question": "Miks näeb minu PNG erinev välja kui SVG?",
-      "answer": "Välistest fondidest, filtritest või lingitud varadest võib rasteriseerimisel erinevalt renderdada. Muuda tekst kontuurideks ja inline varad, et saavutada ühtlased tulemused."
+
     }
-  ],
-  "note": "SVG-d rasteriseeritakse konverteerimise käigus. Et saada ennustatavaid tulemusi, muuda tekst kontuurideks ja sisesta kõik välist varad.",
+    {
+      "question": "Kas PNG säilitab läbipaistvuse?"
+
+      "answer": "Jah. PNG toetab alfa läbipaistvust ja me säilitame selle vaikimisi."
+
+    }
+    {
+      "question": "Kas ma saan valida väljundi suuruse?"
+
+      "answer": "Vaikimisi kasutame SVG viewBox'i. Sa saad seadistada laius/kõrgus või skaalafaktori täiendavates valikutes, kui see on toetatud."
+
+    }
+    {
+      "question": "Millised faili suuruse piirangud kehtivad?"
+
+      "answer": "Sa saad üles laadida SVG-faile kuni 16 MB."
+
+    }
+    {
+      "question": "Miks näeb minu PNG erinev välja kui SVG?"
+
+      "answer": "Välistest fondidest, filtritest või lingitud varadest võib rasteriseerimisel erinevalt renderdada. Muuda tekst kontuurideks ja inline varad, et saavutada ühtlased tulemused."
+
+    }
+  ]
+  "note": "SVG-d rasteriseeritakse konverteerimise käigus. Et saada ennustatavaid tulemusi, muuda tekst kontuurideks ja sisesta kõik välist varad."
+
   "related_links": [
     {
-      "title": "Muuda SVG ICO-ks",
+      "title": "Muuda SVG ICO-ks"
+
       "url": "/et/convert/svg-to-ico"
-    },
-    {
-      "title": "Muuda PNG SVG-ks",
-      "url": "/et/convert/png-to-svg"
-    },
-    {
-      "title": "Kompresseeri PNG Veebis",
-      "url": "/et/compress/png"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+    {
+      "title": "Muuda PNG SVG-ks"
+
+      "url": "/et/convert/png-to-svg"
+
+    }
+    {
+      "title": "Kompresseeri PNG Veebis"
+
+      "url": "/et/compress/png"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "SVG PNG-ks Muundur - Tasuta ja Veebis",
-      "url": "https://wikihowto.click/et/convert/svg-to-png",
-      "description": "Tasuta veebitööriist SVG vektorgraafika muundamiseks PNG-ks läbipaistvusega.",
-      "inLanguage": "et",
-      "image": "https://wikihowto.click/images/svg-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG PNG-ks Muundur - Tasuta ja Veebis"
+
+      "url": "https://miconvert.com/et/convert/svg-to-png"
+
+      "description": "Tasuta veebitööriist SVG vektorgraafika muundamiseks PNG-ks läbipaistvusega."
+
+      "inLanguage": "et"
+
+      "image": "https://miconvert.com/images/svg-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Avaleht",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Avaleht"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Muuda",
-          "item": "https://wikihowto.click/et/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Muuda"
+
+          "item": "https://miconvert.com/et/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "SVG PNG-ks",
-          "item": "https://wikihowto.click/et/convert/svg-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "SVG PNG-ks"
+
+          "item": "https://miconvert.com/et/convert/svg-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "SVG PNG-ks Muundur",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/et/convert/svg-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "SVG PNG-ks Muundur"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/et/convert/svg-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Terav rasteriseerimine",
-        "Läbipaistvus säilitatud",
+        "Terav rasteriseerimine"
+
+        "Läbipaistvus säilitatud"
+
         "Kiire töötlemine"
-      ],
-      "screenshot": "https://wikihowto.click/images/svg-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Kas see SVG PNG-ks muundur on tasuta?",
+          "@type": "Question"
+
+          "name": "Kas see SVG PNG-ks muundur on tasuta?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jah, see on täiesti tasuta, ilma veemärkide või peidetud tasudeta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kas PNG säilitab läbipaistvuse?",
+          "@type": "Question"
+
+          "name": "Kas PNG säilitab läbipaistvuse?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jah, alfa läbipaistvus säilitatakse vaikimisi."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Millised faili suuruse piirangud kehtivad?",
+          "@type": "Question"
+
+          "name": "Millised faili suuruse piirangud kehtivad?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sa saad üles laadida SVG-faile kuni 16 MB."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kuidas muuda SVG PNG-ks",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kuidas muuda SVG PNG-ks"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliki Laadi üles SVG ja vali oma fail."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Oota rasteriseerimise ja optimeerimise lõpetamist."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliki Laadi alla PNG, et salvestada oma pilt."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Oota rasteriseerimise ja optimeerimise lõpetamist."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliki Laadi alla PNG, et salvestada oma pilt."
+
+        }
+      ]
       "tool": [
         "SVG PNG-ks Muundur"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

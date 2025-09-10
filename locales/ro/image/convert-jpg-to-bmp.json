@@ -1,253 +1,383 @@
 {
-  "lang": "ro",
-  "lang_name": "Română",
-  "title": "Converter JPG în BMP - Gratuit & Online | WikiHowTo.click",
-  "sub_title": "Converteți imagini JPG în BMP online cu date pixel fără compresie, fără pierderi. Fără mărci de apă.",
-  "hint": "Încărcați imaginea dvs. JPG pentru a începe conversia...",
-  "btn_download": "Convertește în BMP",
-  "btn_paste": "Încărcați JPG",
-  "btn_clear": "Șterge",
-  "ogImage": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+  "lang": "ro"
+
+  "lang_name": "Română"
+
+  "title": "Converter JPG în BMP - Gratuit & Online | miconvert.com"
+
+  "sub_title": "Converteți imagini JPG în BMP online cu date pixel fără compresie, fără pierderi. Fără mărci de apă."
+
+  "hint": "Încărcați imaginea dvs. JPG pentru a începe conversia..."
+
+  "btn_download": "Convertește în BMP"
+
+  "btn_paste": "Încărcați JPG"
+
+  "btn_clear": "Șterge"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
   "head": {
-    "title": "Convertește JPG în BMP - Converter JPG în BMP Gratuit Online",
-    "description": "Converteți imagini JPG în format BMP online gratuit. Conversie JPG în BMP de înaltă calitate cu procesare rapidă.",
-    "keywords": "jpg în bmp, convertește jpg în bmp, jpg în bmp gratuit, converter bmp online, conversie imagine",
-    "canonical": "https://wikihowto.click/ro/convert/jpg-to-bmp",
-    "og_title": "Convertește JPG în BMP - Converter JPG în BMP Gratuit Online",
-    "og_description": "Converteți imagini JPG în format BMP online gratuit. Conversie JPG în BMP de înaltă calitate cu procesare rapidă.",
-    "og_url": "https://wikihowto.click/ro/convert/jpg-to-bmp",
-    "og_image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Convertește JPG în BMP - Converter JPG în BMP Gratuit Online",
-    "twitter_description": "Converteți imagini JPG în format BMP online gratuit. Conversie JPG în BMP de înaltă calitate cu procesare rapidă.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-bmp.jpg"
-  },
+    "title": "Convertește JPG în BMP - Converter JPG în BMP Gratuit Online"
+
+    "description": "Converteți imagini JPG în format BMP online gratuit. Conversie JPG în BMP de înaltă calitate cu procesare rapidă."
+
+    "keywords": "jpg în bmp, convertește jpg în bmp, jpg în bmp gratuit, converter bmp online, conversie imagine"
+
+    "canonical": "https://miconvert.com/ro/convert/jpg-to-bmp"
+
+    "og_title": "Convertește JPG în BMP - Converter JPG în BMP Gratuit Online"
+
+    "og_description": "Converteți imagini JPG în format BMP online gratuit. Conversie JPG în BMP de înaltă calitate cu procesare rapidă."
+
+    "og_url": "https://miconvert.com/ro/convert/jpg-to-bmp"
+
+    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
+  }
   "h1": {
-    "title": "Convertește JPG în BMP Online",
+    "title": "Convertește JPG în BMP Online"
+
     "description": "Converter JPG în BMP gratuit cu date pixel fără compresie, fără pierderi. Funcționează pe orice dispozitiv — fără înregistrare necesară."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-bmp",
-    "title": "Converter JPG în BMP",
-    "description": "Converteți imagini JPG în BMP cu procesare rapidă și culori precise.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "BMP",
+    "type": "jpg-to-bmp"
+
+    "title": "Converter JPG în BMP"
+
+    "description": "Converteți imagini JPG în BMP cu procesare rapidă și culori precise."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "BMP"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/bmp",
-    "outputExtension": ".bmp",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/bmp"
+
+    "outputExtension": ".bmp"
+
     "features": [
-      "Date pixel fără compresie (fără pierderi)",
-      "Compatibilitate ridicată pe Windows",
-      "Procesare rapidă",
+      "Date pixel fără compresie (fără pierderi)"
+
+      "Compatibilitate ridicată pe Windows"
+
+      "Procesare rapidă"
+
       "Instrument online gratuit"
-    ],
+
+    ]
     "options": {
       "bmp": {
-        "bitDepth": 24,
+        "bitDepth": 24
         "compression": "BI_RGB"
+
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Conversia JPG în BMP Completă",
-    "back_button": "Înapoi la Converter",
-    "convert_another": "Convertește Alt JPG",
+    "title": "Conversia JPG în BMP Completă"
+
+    "back_button": "Înapoi la Converter"
+
+    "convert_another": "Convertește Alt JPG"
+
     "quick_conversions": "Conversii Rapide:"
-  },
+
+  }
   "h2": [
     {
-      "title": "De ce să convertești JPG în BMP?",
+      "title": "De ce să convertești JPG în BMP?"
+
       "description": "<p>BMP este un format raster simplu care stochează pixeli fără compresie — util pentru anumite fluxuri de lucru:</p><ul><li><strong>Fără artefacte JPEG:</strong> Evitați re-encodările pierdute repetate în timpul editării.</li><li><strong>Structură simplă:</strong> Ușor pentru manipularea pixelilor la nivel de bază.</li><li><strong>Aplicații moștenite/încorporate:</strong> Unele instrumente Windows preferă BMP.</li></ul>"
-    },
-    {
-      "title": "Cum să convertești JPG în BMP Online",
-      "description": "<ol><li>Faceți clic pe <em>Încărcați JPG</em> și selectați fișierul dvs.</li><li>Așteptați finalizarea procesării.</li><li>Faceți clic pe <em>Descarcă BMP</em> pentru a salva imaginea dvs.</li></ol><p>Se setează implicit la BMP de 24 de biți fără compresie.</p>"
-    },
-    {
-      "title": "BMP vs JPG: Diferențe Cheie",
-      "description": "<table class='table-compare'><thead><tr><th>Caracteristică</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Compresie</td><td>Pierdută (JPEG)</td><td>De obicei, necompresată (fără pierderi)</td></tr><tr><td>Dimensiunea fișierului</td><td>Mic</td><td> mare</td></tr><tr><td>Transparență</td><td>Nu</td><td>Nu (BMP comun de 24 de biți)</td></tr><tr><td>Cel mai bun pentru</td><td>Fotografii, utilizare web</td><td>Fluxuri de lucru de editare, aplicații moștenite, operații pe pixeli</td></tr></tbody></table>"
-    },
-    {
-      "title": "Limite & Formate Acceptate",
-      "description": "<ul><li><strong>Input acceptat:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Output:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Adâncimea de biți:</strong> 24 de biți (fără alfa)</li></ul>"
-    },
-    {
-      "title": "Depanare",
-      "description": "<ul><li><strong>Output foarte mare:</strong> BMP este necompresat prin design; luați în considerare <a href='/ro/convert/jpg-to-png'>JPG în PNG</a> pentru fișiere mai mici fără pierderi.</li><li><strong>Transparență necesară:</strong> BMP (24 de biți) nu are alfa; folosiți <a href='/ro/convert/jpg-to-png'>JPG în PNG</a>.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că fișierul este JPG/JPEG și ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Ce este JPG?",
-      "description": "<p>JPG (JPEG) folosește compresie pierdută pentru a menține fișierele mici, ideal pentru fotografii și web, dar salvarea repetată poate introduce artefacte.</p>"
-    },
-    {
-      "title": "Ce este BMP?",
-      "description": "<p>BMP este un format bitmap simplu care de obicei stochează pixeli brut fără compresie. Este mare ca dimensiune, dar ușor de citit și manipulat de programe.</p>"
-    },
-    {
-      "title": "Cazuri de utilizare: Când să convertești JPG în BMP",
-      "description": "<ul><li><strong>Buclă de editare:</strong> Evitați artefactele cumulative JPEG.</li><li><strong>Software moștenit:</strong> Instrumente Windows mai vechi care necesită BMP.</li><li><strong>Dezvoltare:</strong> Acces direct la pixeli în procesare la nivel de bază.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Cum să convertești JPG în BMP Online"
+
+      "description": "<ol><li>Faceți clic pe <em>Încărcați JPG</em> și selectați fișierul dvs.</li><li>Așteptați finalizarea procesării.</li><li>Faceți clic pe <em>Descarcă BMP</em> pentru a salva imaginea dvs.</li></ol><p>Se setează implicit la BMP de 24 de biți fără compresie.</p>"
+
+    }
+    {
+      "title": "BMP vs JPG: Diferențe Cheie"
+
+      "description": "<table class='table-compare'><thead><tr><th>Caracteristică</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Compresie</td><td>Pierdută (JPEG)</td><td>De obicei, necompresată (fără pierderi)</td></tr><tr><td>Dimensiunea fișierului</td><td>Mic</td><td> mare</td></tr><tr><td>Transparență</td><td>Nu</td><td>Nu (BMP comun de 24 de biți)</td></tr><tr><td>Cel mai bun pentru</td><td>Fotografii, utilizare web</td><td>Fluxuri de lucru de editare, aplicații moștenite, operații pe pixeli</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Limite & Formate Acceptate"
+
+      "description": "<ul><li><strong>Input acceptat:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB pe fișier</li><li><strong>Output:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Adâncimea de biți:</strong> 24 de biți (fără alfa)</li></ul>"
+
+    }
+    {
+      "title": "Depanare"
+
+      "description": "<ul><li><strong>Output foarte mare:</strong> BMP este necompresat prin design; luați în considerare <a href='/ro/convert/jpg-to-png'>JPG în PNG</a> pentru fișiere mai mici fără pierderi.</li><li><strong>Transparență necesară:</strong> BMP (24 de biți) nu are alfa; folosiți <a href='/ro/convert/jpg-to-png'>JPG în PNG</a>.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că fișierul este JPG/JPEG și ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Ce este JPG?"
+
+      "description": "<p>JPG (JPEG) folosește compresie pierdută pentru a menține fișierele mici, ideal pentru fotografii și web, dar salvarea repetată poate introduce artefacte.</p>"
+
+    }
+    {
+      "title": "Ce este BMP?"
+
+      "description": "<p>BMP este un format bitmap simplu care de obicei stochează pixeli brut fără compresie. Este mare ca dimensiune, dar ușor de citit și manipulat de programe.</p>"
+
+    }
+    {
+      "title": "Cazuri de utilizare: Când să convertești JPG în BMP"
+
+      "description": "<ul><li><strong>Buclă de editare:</strong> Evitați artefactele cumulative JPEG.</li><li><strong>Software moștenit:</strong> Instrumente Windows mai vechi care necesită BMP.</li><li><strong>Dezvoltare:</strong> Acces direct la pixeli în procesare la nivel de bază.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Este acest converter JPG în BMP gratuit?",
+      "question": "Este acest converter JPG în BMP gratuit?"
+
       "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
-    },
-    {
-      "question": "Va funcționa BMP pe toate aplicațiile?",
-      "answer": "BMP este larg acceptat pe Windows și recunoscut de multe alte platforme. Unele fluxuri de lucru moderne preferă PNG/WebP pentru eficiența dimensiunii."
-    },
-    {
-      "question": "Cât de mult mai mari sunt fișierele BMP decât JPG?",
-      "answer": "Adesea de câteva ori mai mari (de exemplu, 5–20×), deoarece BMP este de obicei necompresat."
-    },
-    {
-      "question": "Ce dimensiuni de fișiere sunt acceptate?",
-      "answer": "Puteți încărca imagini de până la 16&nbsp;MB pe fișier."
-    },
-    {
-      "question": "Sunt fișierele mele în siguranță?",
-      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
-    },
-    {
-      "question": "Pot să convertești mai multe JPG-uri deodată?",
-      "answer": "Această pagină convertește un fișier pe rând. Pentru nevoi de volum, repetați procesul sau folosiți un instrument de lot."
-    },
-    {
-      "question": "Suportă BMP transparența?",
-      "answer": "BMP comun de 24 de biți nu include un canal alfa. Pentru transparență, convertește în PNG."
+
     }
-  ],
-  "note": "Output BMP este intenționat mare (necompresat). Pentru web, preferați PNG/WebP/AVIF.",
+    {
+      "question": "Va funcționa BMP pe toate aplicațiile?"
+
+      "answer": "BMP este larg acceptat pe Windows și recunoscut de multe alte platforme. Unele fluxuri de lucru moderne preferă PNG/WebP pentru eficiența dimensiunii."
+
+    }
+    {
+      "question": "Cât de mult mai mari sunt fișierele BMP decât JPG?"
+
+      "answer": "Adesea de câteva ori mai mari (de exemplu, 5–20×), deoarece BMP este de obicei necompresat."
+
+    }
+    {
+      "question": "Ce dimensiuni de fișiere sunt acceptate?"
+
+      "answer": "Puteți încărca imagini de până la 16&nbsp;MB pe fișier."
+
+    }
+    {
+      "question": "Sunt fișierele mele în siguranță?"
+
+      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
+
+    }
+    {
+      "question": "Pot să convertești mai multe JPG-uri deodată?"
+
+      "answer": "Această pagină convertește un fișier pe rând. Pentru nevoi de volum, repetați procesul sau folosiți un instrument de lot."
+
+    }
+    {
+      "question": "Suportă BMP transparența?"
+
+      "answer": "BMP comun de 24 de biți nu include un canal alfa. Pentru transparență, convertește în PNG."
+
+    }
+  ]
+  "note": "Output BMP este intenționat mare (necompresat). Pentru web, preferați PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Convertește BMP în JPG",
+      "title": "Convertește BMP în JPG"
+
       "url": "/ro/convert/bmp-to-jpg"
-    },
-    {
-      "title": "Convertește JPG în PNG",
-      "url": "/ro/convert/jpg-to-png"
-    },
-    {
-      "title": "Convertește PNG în BMP",
-      "url": "/ro/convert/png-to-bmp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Toate drepturile rezervate.",
+    {
+      "title": "Convertește JPG în PNG"
+
+      "url": "/ro/convert/jpg-to-png"
+
+    }
+    {
+      "title": "Convertește PNG în BMP"
+
+      "url": "/ro/convert/png-to-bmp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Converter JPG în BMP - Gratuit & Online",
-      "url": "https://wikihowto.click/ro/convert/jpg-to-bmp",
-      "description": "Instrument online gratuit pentru a converti imagini JPG în BMP cu date pixel fără compresie, fără pierderi.",
-      "inLanguage": "ro",
-      "image": "https://wikihowto.click/images/jpg-to-bmp.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Converter JPG în BMP - Gratuit & Online"
+
+      "url": "https://miconvert.com/ro/convert/jpg-to-bmp"
+
+      "description": "Instrument online gratuit pentru a converti imagini JPG în BMP cu date pixel fără compresie, fără pierderi."
+
+      "inLanguage": "ro"
+
+      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Acasă",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Acasă"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Convertește",
-          "item": "https://wikihowto.click/ro/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Convertește"
+
+          "item": "https://miconvert.com/ro/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG în BMP",
-          "item": "https://wikihowto.click/ro/convert/jpg-to-bmp"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG în BMP"
+
+          "item": "https://miconvert.com/ro/convert/jpg-to-bmp"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Converter JPG în BMP",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/ro/convert/jpg-to-bmp",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Converter JPG în BMP"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/ro/convert/jpg-to-bmp"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "RON"
-      },
+
+      }
       "featureList": [
-        "Date pixel necompresate",
-        "Culori precise",
+        "Date pixel necompresate"
+
+        "Culori precise"
+
         "Procesare rapidă"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-bmp.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Este acest converter JPG în BMP gratuit?",
+          "@type": "Question"
+
+          "name": "Este acest converter JPG în BMP gratuit?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ce dimensiuni de fișiere sunt acceptate?",
+          "@type": "Question"
+
+          "name": "Ce dimensiuni de fișiere sunt acceptate?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Puteți încărca imagini de până la 16 MB pe fișier."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Suportă BMP transparența?",
+          "@type": "Question"
+
+          "name": "Suportă BMP transparența?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "BMP standard de 24 de biți nu include transparență. Folosiți PNG pentru alfa."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Cum să convertești JPG în BMP",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Cum să convertești JPG în BMP"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Faceți clic pe Încărcați JPG și selectați fișierul dvs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Așteptați finalizarea procesării."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Faceți clic pe Descarcă BMP pentru a salva imaginea."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Așteptați finalizarea procesării."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Faceți clic pe Descarcă BMP pentru a salva imaginea."
+
+        }
+      ]
       "tool": [
         "Converter JPG în BMP"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

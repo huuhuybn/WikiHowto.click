@@ -1,242 +1,365 @@
 {
-  "lang": "lt",
-  "lang_name": "Lietuvių",
-  "title": "WEBP į AVIF konverteris - Nemokamai ir internetu | WikiHowTo.click",
-  "sub_title": "Paverskite WebP vaizdus į AVIF internetu su puikia kompresija, aukšta kokybe ir be vandens ženklų.",
-  "hint": "Įkelkite savo WebP vaizdą, kad pradėtumėte konvertuoti...",
-  "btn_download": "Paversti į AVIF",
-  "btn_paste": "Įkelti WebP",
-  "btn_clear": "Išvalyti",
-  "ogImage": "https://wikihowto.click/images/webp-to-avif.jpg",
+  "lang": "lt"
+
+  "lang_name": "Lietuvių"
+
+  "title": "WEBP į AVIF konverteris - Nemokamai ir internetu | miconvert.com"
+
+  "sub_title": "Paverskite WebP vaizdus į AVIF internetu su puikia kompresija, aukšta kokybe ir be vandens ženklų."
+
+  "hint": "Įkelkite savo WebP vaizdą, kad pradėtumėte konvertuoti..."
+
+  "btn_download": "Paversti į AVIF"
+
+  "btn_paste": "Įkelti WebP"
+
+  "btn_clear": "Išvalyti"
+
+  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg"
+
   "head": {
-    "title": "Paversti WebP į AVIF internetu - Nemokamas WebP į AVIF konverteris | WikiHowTo.click",
-    "description": "Paverskite WebP į AVIF internetu su puikia kompresija ir aukšta kokybe. Nemokamas, greitas ir saugus WebP į AVIF konverterio įrankis.",
-    "keywords": "webp į avif, paversti webp į avif, nemokamas webp į avif, internetinis avif konverteris, vaizdų konvertavimas",
-    "canonical": "https://wikihowto.click/lt/convert/webp-to-avif",
-    "og_title": "WebP į AVIF konverteris - Nemokamai ir internetu",
-    "og_description": "Paverskite WebP vaizdus į AVIF formatą su puikia kompresija ir kokybe. 100% nemokamai, greitai ir saugiai.",
-    "og_url": "https://wikihowto.click/lt/convert/webp-to-avif",
-    "og_image": "https://wikihowto.click/images/webp-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Nemokamas WebP į AVIF konverteris internetu",
-    "twitter_description": "Paverskite WebP į AVIF su puikia kompresija ir aukšta kokybe. Veikia visose įrenginiuose.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-avif.jpg"
-  },
+    "title": "Paversti WebP į AVIF internetu - Nemokamas WebP į AVIF konverteris | miconvert.com"
+
+    "description": "Paverskite WebP į AVIF internetu su puikia kompresija ir aukšta kokybe. Nemokamas, greitas ir saugus WebP į AVIF konverterio įrankis."
+
+    "keywords": "webp į avif, paversti webp į avif, nemokamas webp į avif, internetinis avif konverteris, vaizdų konvertavimas"
+
+    "canonical": "https://miconvert.com/lt/convert/webp-to-avif"
+
+    "og_title": "WebP į AVIF konverteris - Nemokamai ir internetu"
+
+    "og_description": "Paverskite WebP vaizdus į AVIF formatą su puikia kompresija ir kokybe. 100% nemokamai, greitai ir saugiai."
+
+    "og_url": "https://miconvert.com/lt/convert/webp-to-avif"
+
+    "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Paversti WebP į AVIF internetu",
+    "title": "Paversti WebP į AVIF internetu"
+
     "description": "Nemokamas ir greitas WebP į AVIF konverteris su puikia kompresija ir kokybe. Veikia iš karto bet kuriame įrenginyje — registracija nereikalinga."
-  },
-  "description": "<p>Pagerinkite savo vaizdus paversdami <strong>WebP į AVIF</strong>. AVIF (AV1 vaizdo failo formatas) yra naujos kartos formatas, kuris dažnai sukuria mažesnius failus panašios vizualinės kokybės. Mūsų įrankis išlaiko skaidrumą ir konvertuoja spalvas į sRGB, kad būtų užtikrintas nuoseklumas internete.</p><p><em>Pastaba:</em> Jei jūsų WebP yra animuotas, tik pirmasis kadras konvertuojamas į statinį AVIF vaizdą.</p>",
+
+  }
+  "description": "<p>Pagerinkite savo vaizdus paversdami <strong>WebP į AVIF</strong>. AVIF (AV1 vaizdo failo formatas) yra naujos kartos formatas, kuris dažnai sukuria mažesnius failus panašios vizualinės kokybės. Mūsų įrankis išlaiko skaidrumą ir konvertuoja spalvas į sRGB, kad būtų užtikrintas nuoseklumas internete.</p><p><em>Pastaba:</em> Jei jūsų WebP yra animuotas, tik pirmasis kadras konvertuojamas į statinį AVIF vaizdą.</p>"
+
   "converter": {
-    "type": "webp-to-avif",
-    "title": "WebP į AVIF konverteris",
-    "description": "Paverskite WebP vaizdus į AVIF su aukšta kokybe ir puikia kompresija.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "WebP",
-    "outputFormat": "AVIF",
+    "type": "webp-to-avif"
+
+    "title": "WebP į AVIF konverteris"
+
+    "description": "Paverskite WebP vaizdus į AVIF su aukšta kokybe ir puikia kompresija."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 60,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 60
     "features": [
-      "Aukštos kokybės AVIF konvertavimas",
-      "Puiki kompresija",
-      "Išlaikomas skaidrumas",
+      "Aukštos kokybės AVIF konvertavimas"
+
+      "Puiki kompresija"
+
+      "Išlaikomas skaidrumas"
+
       "Nemokamas internetinis įrankis"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "cqLevel": 30,
-        "speed": 6,
-        "subsample": "4:2:0",
-        "lossless": false,
+        "cqLevel": 30
+        "speed": 6
+        "subsample": "4:2:0"
+
+        "lossless": false
         "alphaQuality": 100
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "WebP į AVIF konvertavimas baigtas",
-    "back_button": "Grįžti į konverterį",
-    "convert_another": "Paversti kitą WebP",
+    "title": "WebP į AVIF konvertavimas baigtas"
+
+    "back_button": "Grįžti į konverterį"
+
+    "convert_another": "Paversti kitą WebP"
+
     "quick_conversions": "Greiti konvertavimai:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Kodėl paversti WebP į AVIF?",
+      "title": "Kodėl paversti WebP į AVIF?"
+
       "description": "<p>AVIF yra sukurtas ant AV1 kodeko ir siekia aukštesnio efektyvumo:</p><ul><li><strong>Mažesni failai:</strong> Dažnai 15–30% mažesni nei panašūs WebP su panašia kokybe.</li><li><strong>Aukšta kokybė:</strong> Geresnis detalių išlaikymas esant mažesniems bitų greičiams.</li><li><strong>Modernus ir ateities įrodymas:</strong> Plati ir auganti naršyklių parama.</li><li><strong>Skaidrumas:</strong> Pilnas alfa kanalo palaikymas kaip WebP.</li></ul>"
-    },
-    {
-      "title": "Kaip paversti WebP į AVIF internetu",
-      "description": "<ol><li>Paspauskite <em>Įkelti WebP</em> ir pasirinkite savo failą.</li><li>Palaukite apdorojimo ir optimizavimo.</li><li>Paspauskite <em>Parsisiųsti AVIF</em>, kad išsaugotumėte rezultatą.</li></ol><p>Numatyti nustatymai subalansuoja ištikimybę ir dydį moderniam internetui.</p>"
-    },
-    {
-      "title": "AVIF ir WebP palyginimas",
-      "description": "<ul><li><strong>Kompresija:</strong> AVIF paprastai pasiekia mažesnius failus su panašia kokybe.</li><li><strong>Skaidrumas:</strong> Abu palaiko alfa kanalus.</li><li><strong>Animacija:</strong> Šis įrankis išveda <em>statinį</em> AVIF (tik pirmas kadras).</li><li><strong>Naršyklių palaikymas:</strong> AVIF palaiko dabartinės versijos pagrindinės naršyklės.</li></ul>"
-    },
-    {
-      "title": "Palaikomi limitai ir formatai",
-      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimalus failo dydis:</strong> 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animacija:</strong> Tik pirmas kadras</li></ul>"
-    },
-    {
-      "title": "Problemos sprendimas",
-      "description": "<ul><li><strong>Spalvos atrodo kitaip:</strong> Išvestis konvertuojama į sRGB, kad būtų užtikrintas nuoseklumas internete.</li><li><strong>Failas vis dar didelis:</strong> Išbandykite didesnį <em>cqLevel</em> (pvz., 34–36) arba sumažinkite dydį prieš konvertuodami.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad <code>image/webp</code> ir ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kaip paversti WebP į AVIF internetu"
+
+      "description": "<ol><li>Paspauskite <em>Įkelti WebP</em> ir pasirinkite savo failą.</li><li>Palaukite apdorojimo ir optimizavimo.</li><li>Paspauskite <em>Parsisiųsti AVIF</em>, kad išsaugotumėte rezultatą.</li></ol><p>Numatyti nustatymai subalansuoja ištikimybę ir dydį moderniam internetui.</p>"
+
+    }
+    {
+      "title": "AVIF ir WebP palyginimas"
+
+      "description": "<ul><li><strong>Kompresija:</strong> AVIF paprastai pasiekia mažesnius failus su panašia kokybe.</li><li><strong>Skaidrumas:</strong> Abu palaiko alfa kanalus.</li><li><strong>Animacija:</strong> Šis įrankis išveda <em>statinį</em> AVIF (tik pirmas kadras).</li><li><strong>Naršyklių palaikymas:</strong> AVIF palaiko dabartinės versijos pagrindinės naršyklės.</li></ul>"
+
+    }
+    {
+      "title": "Palaikomi limitai ir formatai"
+
+      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimalus failo dydis:</strong> 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animacija:</strong> Tik pirmas kadras</li></ul>"
+
+    }
+    {
+      "title": "Problemos sprendimas"
+
+      "description": "<ul><li><strong>Spalvos atrodo kitaip:</strong> Išvestis konvertuojama į sRGB, kad būtų užtikrintas nuoseklumas internete.</li><li><strong>Failas vis dar didelis:</strong> Išbandykite didesnį <em>cqLevel</em> (pvz., 34–36) arba sumažinkite dydį prieš konvertuodami.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad <code>image/webp</code> ir ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ar šis WebP į AVIF konverteris nemokamas?",
+      "question": "Ar šis WebP į AVIF konverteris nemokamas?"
+
       "answer": "Taip, jis visiškai nemokamas, be vandens ženklų ar paslėptų mokesčių."
-    },
-    {
-      "question": "Ar AVIF veiks visose naršyklėse?",
-      "answer": "AVIF palaiko modernios naršyklės (Chrome, Firefox, Safari, Edge). Pateikite WebP arba JPG atsargines versijas senesnėms versijoms."
-    },
-    {
-      "question": "Kiek mažesni yra AVIF failai palyginti su WebP?",
-      "answer": "Rezultatai skiriasi priklausomai nuo vaizdo, tačiau AVIF dažnai yra 15–30% mažesni su panašia vizualine kokybe."
-    },
-    {
-      "question": "Ar jis išlaiko skaidrumą?",
-      "answer": "Taip. Jei jūsų WebP turi alfa kanalą, AVIF išvestis jį išlaiko."
-    },
-    {
-      "question": "Ar palaikote animuotą WebP?",
-      "answer": "Animuotas WebP konvertuojamas kaip statinis vaizdas naudojant pirmąjį kadra."
-    },
-    {
-      "question": "Kokie failų dydžiai yra palaikomi?",
-      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
+
     }
-  ],
-  "note": "AVIF yra labai efektyvus, tačiau gali šiek tiek lėčiau veikti labai senose įrenginiuose. Maksimaliam suderinamumui, laikykite savo originalų WebP kaip atsarginę versiją.",
+    {
+      "question": "Ar AVIF veiks visose naršyklėse?"
+
+      "answer": "AVIF palaiko modernios naršyklės (Chrome, Firefox, Safari, Edge). Pateikite WebP arba JPG atsargines versijas senesnėms versijoms."
+
+    }
+    {
+      "question": "Kiek mažesni yra AVIF failai palyginti su WebP?"
+
+      "answer": "Rezultatai skiriasi priklausomai nuo vaizdo, tačiau AVIF dažnai yra 15–30% mažesni su panašia vizualine kokybe."
+
+    }
+    {
+      "question": "Ar jis išlaiko skaidrumą?"
+
+      "answer": "Taip. Jei jūsų WebP turi alfa kanalą, AVIF išvestis jį išlaiko."
+
+    }
+    {
+      "question": "Ar palaikote animuotą WebP?"
+
+      "answer": "Animuotas WebP konvertuojamas kaip statinis vaizdas naudojant pirmąjį kadra."
+
+    }
+    {
+      "question": "Kokie failų dydžiai yra palaikomi?"
+
+      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
+
+    }
+  ]
+  "note": "AVIF yra labai efektyvus, tačiau gali šiek tiek lėčiau veikti labai senose įrenginiuose. Maksimaliam suderinamumui, laikykite savo originalų WebP kaip atsarginę versiją."
+
   "related_links": [
     {
-      "title": "Paversti AVIF į WebP",
+      "title": "Paversti AVIF į WebP"
+
       "url": "/lt/convert/avif-to-webp"
-    },
-    {
-      "title": "Paversti PNG į AVIF",
-      "url": "/lt/convert/png-to-avif"
-    },
-    {
-      "title": "Paversti JPG į AVIF",
-      "url": "/lt/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Visos teisės saugomos.",
+    {
+      "title": "Paversti PNG į AVIF"
+
+      "url": "/lt/convert/png-to-avif"
+
+    }
+    {
+      "title": "Paversti JPG į AVIF"
+
+      "url": "/lt/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP į AVIF konverteris - Nemokamai ir internetu",
-      "url": "https://wikihowto.click/lt/convert/webp-to-avif",
-      "description": "Nemokamas internetinis įrankis, skirtas paversti WebP vaizdus į AVIF su puikia kompresija ir aukšta kokybe.",
-      "inLanguage": "lt",
-      "image": "https://wikihowto.click/images/webp-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP į AVIF konverteris - Nemokamai ir internetu"
+
+      "url": "https://miconvert.com/lt/convert/webp-to-avif"
+
+      "description": "Nemokamas internetinis įrankis, skirtas paversti WebP vaizdus į AVIF su puikia kompresija ir aukšta kokybe."
+
+      "inLanguage": "lt"
+
+      "image": "https://miconvert.com/images/webp-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Pradžia",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Pradžia"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Paversti",
-          "item": "https://wikihowto.click/lt/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Paversti"
+
+          "item": "https://miconvert.com/lt/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP į AVIF",
-          "item": "https://wikihowto.click/lt/convert/webp-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP į AVIF"
+
+          "item": "https://miconvert.com/lt/convert/webp-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP į AVIF konverteris",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/lt/convert/webp-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP į AVIF konverteris"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/lt/convert/webp-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Išlaikomas skaidrumas",
-        "Puiki kompresija",
+        "Išlaikomas skaidrumas"
+
+        "Puiki kompresija"
+
         "Greitas apdorojimas"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ar šis WebP į AVIF konverteris nemokamas?",
+          "@type": "Question"
+
+          "name": "Ar šis WebP į AVIF konverteris nemokamas?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Taip, jis visiškai nemokamas, be vandens ženklų ar paslėptų mokesčių."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kiek mažesni yra AVIF failai palyginti su WebP?",
+          "@type": "Question"
+
+          "name": "Kiek mažesni yra AVIF failai palyginti su WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF dažnai yra 15–30% mažesni nei panašūs WebP su panašia kokybe, tačiau tai priklauso nuo vaizdo."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ar palaikote animuotą WebP?",
+          "@type": "Question"
+
+          "name": "Ar palaikote animuotą WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animuotas WebP konvertuojamas kaip statinis vaizdas (tik pirmas kadras)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kaip paversti WebP į AVIF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kaip paversti WebP į AVIF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Paspauskite Įkelti WebP ir pasirinkite savo failą."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Palaukite, kol apdorojimas ir optimizavimas bus baigti."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Paspauskite Parsisiųsti AVIF, kad išsaugotumėte savo vaizdą."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Palaukite, kol apdorojimas ir optimizavimas bus baigti."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Paspauskite Parsisiųsti AVIF, kad išsaugotumėte savo vaizdą."
+
+        }
+      ]
       "tool": [
         "WebP į AVIF konverteris"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

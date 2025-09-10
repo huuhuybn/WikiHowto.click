@@ -1,103 +1,127 @@
 {
-  "lang": "en",
-  "lang_name": "English",
-  "title": "WikiHowTo.click - Free Online PDF, Image & Utility Tools",
-  "sub_title": "Convert, compress, resize, and manage your files with free online PDF, image, and utility tools. Fast, secure, and no registration required.",
-  "hint": "Search for tools and services...",
-  "btn_download": "Search Tools",
-  "btn_paste": "Browse All",
-  "btn_clear": "Clear",
-  "description": "<p><strong>Welcome to WikiHowTo.click</strong> – your trusted online toolbox for everyday digital tasks. From image and PDF conversion to weather updates and cryptocurrency tracking, we provide free, secure, and fast tools to help you work smarter.</p><p>No registration required, no watermarks, and works perfectly on all devices. Whether you're a student, professional, or casual user, our tools are designed to save you time and make your digital life easier.</p>",
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "miconvert.com - Ilmaiset online-tiedostomuuntimet",
+  "sub_title": "Muunna tiedostoja PDF-, kuva-, ääni-, video- ja dokumenttimuotojen välillä kullekin muotoparille tarkoitetuilla työkaluilla. Nopea, turvallinen ja vesileimattomasti.",
+  "hint": "Etsi muuntimia (esim. JPG to PNG, PDF to JPG, MP3 to WAV)...",
+  "btn_download": "Etsi muuntimia",
+  "btn_paste": "Selaa kaikkia",
+  "btn_clear": "Tyhjennä",
+  "description": "<p><strong>Tervetuloa miconvert.com-sivustolle</strong> — erikoistunut keskus <em>parikohtaisia tiedostomuuntimia</em> varten. Yhden yleiskäyttöisen työkalun sijaan luomme erillisen sivun kullekin muotoparille (esim. <strong>JPG → PNG</strong>, <strong>PDF → JPG</strong>, <strong>PNG → WebP</strong>, <strong>MP3 → WAV</strong>), jotta saat aina oikeat vaihtoehdot, parhaan laadun ja yksinkertaisen työnkulun.</p><p>Jokainen täällä oleva muuntin on viritetty tarkoitukseensa: kuvan selkeys vs. koko, läpinäkyvyyden käsittely, tulostusvalmiit PDF-asettelut tai äänenlaatu. Ei rekisteröitymistä, ei vesileimoja ja yksityisyyden suojaa suunnittelusta — lataukset käsitellään turvallisesti ja poistetaan automaattisesti konversion jälkeen. Käytä työpöytä-, tabletti- tai mobiililaitteella.</p><p>Tutustu <strong>PDF-työkaluihimme</strong> (PDF ↔ JPG/PNG/TIFF/WebP, yhdistä/jaa), <strong>kuvatyökaluihimme</strong> (JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG), <strong>ääni-työkaluihimme</strong> (MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC), <strong>videotyökaluihimme</strong> (MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4) ja <strong>dokumenttityökaluihimme</strong> (DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC). Jokainen työkalu on nopea, tarkka ja kohdennettu.</p>",
   "head": {
-    "title": "Free Online PDF, Image & Utility Tools - WikiHowTo.click",
-    "description": "Convert, compress, and manage PDFs, images, and more. Free online tools for documents, media, and information lookup. No signup needed.",
-    "keywords": "pdf converter, image converter, pdf tools, online tools, document converter, weather lookup, crypto tracker",
-    "canonical": "https://wikihowto.click/",
-    "og_title": "WikiHowTo.click - Free Online Tools",
-    "og_description": "All-in-one free online tools for PDF, image, and everyday tasks. Fast, secure, and easy to use.",
-    "og_url": "https://wikihowto.click/",
-    "og_image": "https://wikihowto.click/images/tools-hub.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "WikiHowTo.click - Free Online Tools Hub",
-    "twitter_description": "Convert, compress, and manage your files with free online PDF, image, and utility tools.",
-    "twitter_image": "https://wikihowto.click/images/tools-hub.jpg"
+    "title": "Ilmaiset online-tiedostomuuntimet - PDF, kuva, ääni ja paljon muuta | miconvert.com",
+    "description": "Muunna tiedostoja online-muuntimilla. Erikoistyökalut kullekin muotoparille: PDF to JPG, PNG to PDF, MP3 to WAV ja paljon muuta. Nopea, turvallinen, ei vesileimoja.",
+    "keywords": "tiedostomuunnin, pdf-muunnin, kuvamuunnin, äänitiedostomuunnin, videomuunnin, dokumenttimuunnin, jpg to png, pdf to jpg, png to pdf, mp3 to wav",
+    "canonical": "https://miconvert.com/",
+    "og_title": "miconvert.com - Ilmaiset online-tiedostomuuntimet",
+    "og_description": "Muunna PDF-, kuva-, ääni-, video- ja dokumenttitiedostoja kullekin muotoparille tarkoitetuilla erikoistyökaluilla. Ilmainen, nopea ja vesileimattomasti.",
+    "og_url": "https://miconvert.com/",
+    "og_image": "https://miconvert.com/images/converter-hub.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "miconvert.com",
+          "url": "https://miconvert.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miconvert.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Mitä tiedostomuunnin on?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tiedostomuunnin muuntaa tiedoston yhdestä muodosta toiseen (esim. JPG to PNG, PDF to JPG). Hyvät muuntimet säilyttävät tärkeän sisällön (pikselit, teksti, ääni) ja metatiedot optimoiden samalla kokoa ja yhteensopivuutta."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Säilytätteko tiedostojani?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ei. Tiedostot käsitellään turvallisesti ja poistetaan automaattisesti muunnoksen jälkeen. Emme säilytä niitä pysyvästi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ovatko muunnokset ilmaisia ja vesileimattomia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kyllä. Kaikkia työkaluja voi käyttää 100 % ilmaiseksi eikä ne koskaan lisää vesileimoja."
+              }
+            }
+          ]
+        }
+      ]
+    }
   },
   "h1": {
-    "title": "WikiHowTo.click - Free Online Tools for Everyday Use",
-    "description": "Discover free tools for PDF conversion, image editing, file compression, and more. Fast, private, and easy to use on any device."
+    "title": "Ilmaiset online-tiedostomuuntimet",
+    "description": "Yksi työkalu kutakin muotoparia kohden. Muunna PDF-, kuva-, ääni-, video- ja dokumenttitiedostoja online – nopeasti, turvallisesti ja vesileimattomasti."
   },
   "h2": [
     {
-      "title": "Popular Tools & Services",
-      "description": "<p>Explore our most popular tools designed to make your digital tasks faster and easier.</p>"
+      "title": "Mitä tiedostomuunnin on?",
+      "description": "<p>Tiedostomuunnin muuttaa tiedoston muotoa parantamaan <strong>yhteensopivuutta</strong>, <strong>laatua</strong> tai <strong>kokoa</strong>. Yleisiä esimerkkejä ovat kuvien muuntaminen verkkoon (<em>PNG → WebP</em>), tulostusvalmiiden dokumenttien valmistelu (<em>JPG/PNG → PDF</em>) tai kuvien poimiminen dokumenteista (<em>PDF → JPG/PNG/TIFF/WebP</em>).</p><p>Hyvät muuntimet tasapainottavat laatua ja kokoa, säilyttävät läpinäkyvyyden, kun se on mahdollista (PNG/WebP), ja säilyttävät PDF-tiedostojen asettelun (sivukoko, marginaalit, sivulle sovitus). Työkalumme käyttävät järkeviä oletusasetuksia, joten useimmat käyttäjät voivat suorittaa muunnoksen sekunneissa.</p>"
     },
     {
-      "title": "Image & Media Tools",
-      "description": "<ul><li><strong>Image Converter:</strong> Convert between JPG, PNG, GIF, WebP, and more formats</li><li><strong>Image Compressor:</strong> Reduce file size while maintaining quality</li><li><strong>Image Resizer:</strong> Resize images to specific dimensions</li><li><strong>Background Remover:</strong> Remove backgrounds from images automatically</li><li><strong>Video Converter:</strong> Convert videos between different formats</li><li><strong>Audio Converter:</strong> Convert audio files like MP3, WAV, and FLAC</li></ul>"
+      "title": "Häviöllinen vs. häviötön, rasterikuva vs. vektori",
+      "description": "<ul><li><strong>Häviöllinen vs. häviötön:</strong> JPG/WebP (häviöllinen) pienentävät kokoa hylkäämällä joitakin tietoja; PNG/TIFF (häviötön) säilyttävät täydellisen yksityiskohdan. Valitse häviöllinen verkkoon jakamiseen, häviötön muokkaamiseen/arkistointiin.</li><li><strong>Rasterikuva vs. vektori:</strong> JPG/PNG/WebP/TIFF ovat rasterikuvia (pikseleitä). SVG/AI ovat vektoreita (muotoja, polkuja). Rasterikuva tarvitsee riittävän resoluution (DPI) tulostukseen; vektori skaalautuu äärettömästi ilman sumenemista.</li><li><strong>Väri & metatiedot:</strong> Muunnokset voivat vaikuttaa ICC-profiileihin, EXIF-tietoihin tai alfa-kanaviin. Kuva-PDF-työkalumme säilyttävät läpinäkyvyyden toiminnan asianmukaisesti ja sovittavat kuvat sivulle marginaaleilla ennustettavan tulostuksen saavuttamiseksi.</li></ul>"
     },
     {
-      "title": "Document & PDF Tools",
-      "description": "<ul><li><strong>PDF to Word:</strong> Convert PDF documents to editable Word files</li><li><strong>PDF to JPG:</strong> Convert PDF pages to images</li><li><strong>PDF Compressor:</strong> Reduce PDF file size</li><li><strong>PDF Merger:</strong> Combine multiple PDF files into one</li><li><strong>PDF Splitter:</strong> Split PDF into separate files</li><li><strong>Word to PDF:</strong> Convert Word documents to PDF</li></ul>"
+      "title": "Suositut muunnoskategorioita",
+      "description": "<ul><li><strong>PDF-työkalut:</strong> <a href=\"/en/pdf/convert-pdf-to-jpg/\">PDF → JPG</a>, <a href=\"/en/pdf/convert-pdf-to-png/\">PDF → PNG</a>, <a href=\"/en/pdf/convert-pdf-to-webp/\">PDF → WebP</a>, <a href=\"/en/pdf/convert-pdf-to-tiff/\">PDF → TIFF</a>, <a href=\"/en/pdf/convert-jpg-to-pdf/\">JPG → PDF</a>, <a href=\"/en/pdf/convert-png-to-pdf/\">PNG → PDF</a>, <a href=\"/en/pdf/convert-webp-to-pdf/\">WebP → PDF</a>, <a href=\"/en/pdf/convert-tiff-to-pdf/\">TIFF → PDF</a>, <a href=\"/en/pdf/merge-jpg-to-pdf/\">Yhdistä JPG → PDF</a>, <a href=\"/en/pdf/combine-png-to-pdf/\">Yhdistä PNG → PDF</a></li><li><strong>Kuvatyökalut:</strong> JPG ↔ PNG, PNG ↔ WebP, GIF ↔ PNG, TIFF ↔ JPG</li><li><strong>Ääni-työkalut:</strong> MP3 ↔ WAV, FLAC ↔ MP3, OGG ↔ AAC</li><li><strong>Videotyökalut:</strong> MP4 ↔ AVI, MOV ↔ WMV, MKV ↔ MP4</li><li><strong>Dokumenttityökalut:</strong> DOCX ↔ PDF, TXT ↔ RTF, ODT ↔ DOC</li></ul>"
     },
     {
-      "title": "Information & Research Tools",
-      "description": "<ul><li><strong>Weather Lookup:</strong> Get current weather and forecasts for any location</li><li><strong>Currency Converter:</strong> Convert between different currencies with live rates</li><li><strong>Cryptocurrency Tracker:</strong> Track Bitcoin, Ethereum, and other crypto prices</li><li><strong>Unit Converter:</strong> Convert between different units of measurement</li><li><strong>QR Code Generator:</strong> Create QR codes for URLs, text, or contact info</li></ul>"
+      "title": "Näin se toimii",
+      "description": "<ol><li>Valitse muuntin tarkalle muotoparillesi (esim. <em>PNG → PDF</em>).</li><li>Lataa yksi tai useampi tiedosto (erätoiminto tuettu monissa työkaluissa).</li><li>Napsauta muunna – oletusasetukset on optimoitu laadun ja koon suhteen.</li><li>Lataa tulos välittömästi. Ei rekisteröitymistä, ei vesileimoja.</li></ol><p>Vihjeitä: Pidä kuvasuhteet johdonmukaisina, kun yhdistät PDF-muotoon yhdenmukaisen asettelun saavuttamiseksi. Verkkoon tarkoitettuna harkitse WebP-muotoa koon pienentämiseksi erinomaisella laadulla.</p>"
     },
     {
-      "title": "Why Choose WikiHowTo.click?",
-      "description": "<ul><li><strong>100% Free:</strong> All tools are completely free to use with no hidden costs</li><li><strong>No Registration:</strong> Use tools instantly without creating accounts</li><li><strong>No Watermarks:</strong> Get clean results without branding</li><li><strong>Privacy Focused:</strong> Your files are processed securely and deleted automatically</li><li><strong>Mobile Friendly:</strong> Works perfectly on all devices</li><li><strong>Fast Processing:</strong> Optimized for speed and efficiency</li></ul>"
-    },
-    {
-      "title": "How to Use Our Tools",
-      "description": "<ol><li><strong>Choose a Tool:</strong> Browse our categories or use the search function</li><li><strong>Upload or Input:</strong> Upload your files or enter the required info</li><li><strong>Process:</strong> Click the button and wait for completion</li><li><strong>Download:</strong> Get your results instantly</li></ol><p>Most tools support drag-and-drop for easier file handling.</p>"
-    },
-    {
-      "title": "Security & Privacy",
-      "description": "<p>We take your privacy seriously. Files uploaded to our tools are:</p><ul><li>Processed securely on our servers</li><li>Deleted automatically after processing</li><li>Never stored permanently or shared with third parties</li><li>Transmitted using encrypted connections</li></ul><p>No personal data collection. No tracking of your usage patterns.</p>"
-    },
-    {
-      "title": "Supported Formats & Features",
-      "description": "<p><strong>Image Formats:</strong> JPG, PNG, GIF, WebP, BMP, TIFF, SVG</p><p><strong>Document Formats:</strong> PDF, DOC, DOCX, TXT, RTF</p><p><strong>Video Formats:</strong> MP4, AVI, MOV, WMV, FLV, MKV</p><p><strong>Audio Formats:</strong> MP3, WAV, FLAC, AAC, OGG</p><p>All tools support batch processing and high-resolution outputs.</p>"
-    },
-    {
-      "title": "Need Help?",
-      "description": "<p>If you encounter any issues or have questions:</p><ul><li>Check our FAQ section</li><li>Ensure your files meet size and format requirements</li><li>Refresh the page if a tool isn’t working</li><li>Contact our support team for assistance</li></ul>"
+      "title": "Turvallisuus ja tietosuoja",
+      "description": "<ul><li><strong>Salatut siirrot:</strong> Tiedostot siirtyvät suojattujen yhteyksien kautta.</li><li><strong>Automaattinen poisto:</strong> Käsittelyssä olevat tiedostot poistetaan automaattisesti.</li><li><strong>Ei pysyvää tallennusta:</strong> Emme säilytä tiedostojasi käsittelyn jälkeen.</li><li><strong>Ei vesileimoja:</strong> Tulokset ovat puhtaita ja käyttövalmiita.</li></ul>"
     }
   ],
   "faq": [
     {
-      "question": "Are all tools free to use?",
-      "answer": "Yes, all tools on WikiHowTo.click are 100% free. There are no hidden costs, premium features, or watermarks."
+      "question": "Mitä tiedostomuunnin on?",
+      "answer": "Se muuttaa tiedoston yhdestä muodosta toiseen (esim. JPG → PNG, PDF → JPG) parantamaan yhteensopivuutta, laatua tai kokoa."
     },
     {
-      "question": "Do I need to create an account?",
-      "answer": "No account or registration is required. You can use all tools instantly without providing personal information."
+      "question": "Mitkä muuntimet ovat suosituimpia?",
+      "answer": "PDF ↔ Kuva (PDF → JPG/PNG/WebP/TIFF ja JPG/PNG/WebP/TIFF → PDF) ja Kuva ↔ Kuva (JPG ↔ PNG, PNG ↔ WebP) ovat eniten käytettyjä."
     },
     {
-      "question": "What file sizes are supported?",
-      "answer": "Most tools support files up to 100MB. For larger files, use our compression tools to reduce size first."
+      "question": "Puristatteko kuvia?",
+      "answer": "Kyllä, häviölliset muodot kuten JPG/WebP pienentävät kokoa säädettävällä laadulla; häviöttömät muodot kuten PNG/TIFF säilyttävät yksityiskohdat."
     },
     {
-      "question": "How long are my files stored?",
-      "answer": "Files are automatically deleted immediately after processing. We don’t keep them permanently."
+      "question": "Säilyttekö läpinäkyvyyden?",
+      "answer": "PNG ja WebP tukevat alfakanavia. Muunnettaessa PDF-muotoon sivut asetetaan marginaaleilla ja sivulle sovitus toiminnolla ennustettavan tuloksen saavuttamiseksi."
     },
     {
-      "question": "Are the tools safe?",
-      "answer": "Yes, all tools use encrypted connections and secure servers. Files are processed safely and deleted automatically."
+      "question": "Onko OCR tuettu?",
+      "answer": "OCR ei ole oletusarvoisesti käytössä. Tekstiä kuvista/PDF-tiedostoista poimimiseksi käytä erillisiä OCR-työkaluja."
     },
     {
-      "question": "Do you support mobile devices?",
-      "answer": "Yes! All tools are fully optimized for smartphones and tablets."
+      "question": "Maksimi tiedostokoko?",
+      "answer": "Useimmat muuntimet tukevat jopa 100 MB:n tiedostokokoa kunkin muunnoksen osalta. Suurempia tiedostoja varten jaa tai pakkaa ensin."
     },
     {
-      "question": "Can I use the tools for commercial purposes?",
-      "answer": "Yes, you can use our tools for both personal and commercial purposes without restrictions."
+      "question": "Säilytetäänkö tiedostojani?",
+      "answer": "Ei. Tiedostot käsitellään turvallisesti ja poistetaan automaattisesti muunnoksen jälkeen."
     },
     {
-      "question": "What if a tool isn’t working?",
-      "answer": "Refresh the page, check your connection, and ensure file format/size is correct. Contact support if needed."
+      "question": "Voinko tehdä erämuunnoksen tai yhdistää tiedostoja?",
+      "answer": "Monet työkalut tukevat usean tiedoston latausta ja yhdistämistä (esim. Yhdistä JPG → PDF, Yhdistä PNG → PDF)."
     }
   ],
-  "note": "Disclaimer: While we strive for accuracy, results may vary. Please double-check outputs for important use cases. WikiHowTo.click is not responsible for data loss or misuse.",
-  "footer": "© 2019 - 2025 WikiHowTo.click. All rights reserved."
+  "note": "Huomaa: Jokainen muuntin on optimoitu yhdelle muotoparille, mikä takaa parhaan laadun ja nopeuden. Yhtenäisimmän PDF-asettelun saavuttamiseksi käytä johdonmukaisia kuvamittoja ja -suuntauksia.",
+  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään."
 }

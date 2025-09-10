@@ -1,244 +1,368 @@
 {
-  "lang": "et",
-  "lang_name": "Eesti",
-  "title": "JPG TIFF-iks Muundur - Tasuta ja Veebis | WikiHowTo.click",
-  "sub_title": "Muuda JPG pilte TIFF-iks veebis, kasutades kaotusteta kokkusurumise valikuid ja printimiseks valmis kvaliteeti. Ilma veemärkideta.",
-  "hint": "Laadi üles oma JPG pilt, et alustada konverteerimist...",
-  "btn_download": "Muuda TIFF-iks",
-  "btn_paste": "Laadi üles JPG",
-  "btn_clear": "Kustuta",
-  "ogImage": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+  "lang": "et"
+
+  "lang_name": "Eesti"
+
+  "title": "JPG TIFF-iks Muundur - Tasuta ja Veebis | miconvert.com"
+
+  "sub_title": "Muuda JPG pilte TIFF-iks veebis, kasutades kaotusteta kokkusurumise valikuid ja printimiseks valmis kvaliteeti. Ilma veemärkideta."
+
+  "hint": "Laadi üles oma JPG pilt, et alustada konverteerimist..."
+
+  "btn_download": "Muuda TIFF-iks"
+
+  "btn_paste": "Laadi üles JPG"
+
+  "btn_clear": "Kustuta"
+
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
   "head": {
-    "title": "Muuda JPG TIFF-iks - Tasuta Veebipõhine JPG TIFF Muundur",
-    "description": "Muuda JPG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga JPG TIFF konverteerimine kiire töötlemisega.",
-    "keywords": "jpg tiff-iks, muuda jpg tiff-iks, tasuta jpg tiff-iks, veebipõhine tiff muundur, pildi konverteerimine",
-    "canonical": "https://wikihowto.click/et/convert/jpg-to-tiff",
-    "og_title": "Muuda JPG TIFF-iks - Tasuta Veebipõhine JPG TIFF Muundur",
-    "og_description": "Muuda JPG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga JPG TIFF konverteerimine kiire töötlemisega.",
-    "og_url": "https://wikihowto.click/et/convert/jpg-to-tiff",
-    "og_image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Muuda JPG TIFF-iks - Tasuta Veebipõhine JPG TIFF Muundur",
-    "twitter_description": "Muuda JPG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga JPG TIFF konverteerimine kiire töötlemisega.",
-    "twitter_image": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-  },
+    "title": "Muuda JPG TIFF-iks - Tasuta Veebipõhine JPG TIFF Muundur"
+
+    "description": "Muuda JPG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga JPG TIFF konverteerimine kiire töötlemisega."
+
+    "keywords": "jpg tiff-iks, muuda jpg tiff-iks, tasuta jpg tiff-iks, veebipõhine tiff muundur, pildi konverteerimine"
+
+    "canonical": "https://miconvert.com/et/convert/jpg-to-tiff"
+
+    "og_title": "Muuda JPG TIFF-iks - Tasuta Veebipõhine JPG TIFF Muundur"
+
+    "og_description": "Muuda JPG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga JPG TIFF konverteerimine kiire töötlemisega."
+
+    "og_url": "https://miconvert.com/et/convert/jpg-to-tiff"
+
+    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+  }
   "h1": {
-    "title": "Muuda JPG TIFF-iks Veebis",
+    "title": "Muuda JPG TIFF-iks Veebis"
+
     "description": "Tasuta JPG TIFF muundur kaotusteta kokkusurumise valikute ja printimiseks valmis väljundiga. Töötab igas seadmes - registreerimist ei nõuta."
-  },
+
+  }
   "converter": {
-    "type": "jpg-to-tiff",
-    "title": "JPG TIFF Muundur",
-    "description": "Muuda JPG pilte TIFF-iks LZW/ZIP kaotusteta kokkusurumise ja täpsete värvidega.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "JPG",
-    "outputFormat": "TIFF",
+    "type": "jpg-to-tiff"
+
+    "title": "JPG TIFF Muundur"
+
+    "description": "Muuda JPG pilte TIFF-iks LZW/ZIP kaotusteta kokkusurumise ja täpsete värvidega."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "JPG"
+
+    "outputFormat": "TIFF"
+
     "allowedTypes": [
       "image/jpeg"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/tiff",
-    "outputExtension": ".tiff",
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/tiff"
+
+    "outputExtension": ".tiff"
+
     "features": [
-      "Kaotusteta TIFF (LZW/ZIP) valik",
-      "Printimiseks valmis kvaliteet",
-      "Täpsed värvid",
+      "Kaotusteta TIFF (LZW/ZIP) valik"
+
+      "Printimiseks valmis kvaliteet"
+
+      "Täpsed värvid"
+
       "Tasuta veebitööriist"
-    ],
+
+    ]
     "options": {
       "tiff": {
-        "compression": "lzw",
-        "predictor": 2,
-        "bitDepth": 24,
-        "dpi": 300,
+        "compression": "lzw"
+
+        "predictor": 2
+        "bitDepth": 24
+        "dpi": 300
         "alpha": false
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "JPG TIFF-iks Muundamine Lõpetatud",
-    "back_button": "Tagasi Muunduri juurde",
-    "convert_another": "Muuda Teine JPG",
+    "title": "JPG TIFF-iks Muundamine Lõpetatud"
+
+    "back_button": "Tagasi Muunduri juurde"
+
+    "convert_another": "Muuda Teine JPG"
+
     "quick_conversions": "Kiired Muundamised:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Miks Muuta JPG TIFF-iks?",
+      "title": "Miks Muuta JPG TIFF-iks?"
+
       "description": "<p>TIFF on professionaalne, arhiivikvaliteediga formaat, mida kasutatakse pildistamisel ja printimisel:</p><ul><li><strong>Kaotusteta valikud:</strong> Salvesta puhas master ilma uute JPEG artefaktideta.</li><li><strong>Printimiseks valmis:</strong> Säilitab detailid kõrge eraldusvõimega väljundiks.</li><li><strong>Paindlik:</strong> Toetab alfa kanalit ja mitmeid värviruume (lugemise sõltuv).</li><li><strong>Töövoo sõbralik:</strong> Stabiilne korduvate redigeerimiste ja edastamiste jaoks.</li></ul><p><em>Märkus:</em> JPG-st (kaotusega) konverteerimine ei taasta maagiliselt kadunud detaile - kuid aitab vältida edasist halvenemist järgmistel salvestustel.</p>"
-    },
-    {
-      "title": "Kuidas Muuta JPG TIFF-iks Veebis",
-      "description": "<ol><li>Kliki <em>Laadi üles JPG</em> ja vali oma foto.</li><li>Oota töötlemise lõpetamist.</li><li>Kliki <em>Laadi alla TIFF</em>, et salvestada fail.</li></ol><p>Vaikimisi: 24-bitine RGB, LZW kaotusteta, 300&nbsp;DPI.</p>"
-    },
-    {
-      "title": "TIFF vs JPG: Peamised Erinevused",
-      "description": "<table class='table-compare'><thead><tr><th>Omadus</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kokkutõmbumine</td><td>Kaotusega (JPEG)</td><td>Kaotusteta (LZW/ZIP) või JPEG/ilma</td></tr><tr><td>Faili suurus</td><td>Väike</td><td>Suurem (sõltub kokkusurumisest)</td></tr><tr><td>Transparentsus</td><td>Ei</td><td>Valikuline alfa (lugemise sõltuv)</td></tr><tr><td>Parim</td><td>Veeb/foorumite jagamine</td><td>Redigeerimine, printimine, arhiveerimine</td></tr></tbody></table>"
-    },
-    {
-      "title": "Toetatud Piirangud ja Formaadid",
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Vaikimisi:</strong> 24-bitine RGB, LZW kokkusurumine, 300&nbsp;DPI</li></ul>"
-    },
-    {
-      "title": "Probleemide Lahendamine",
-      "description": "<ul><li><strong>Fail liiga suur:</strong> TIFF on disaini tõttu raskem. Väiksemate kaotusteta jaoks proovi <a href='/et/convert/jpg-to-png'>JPG PNG-ks</a>.</li><li><strong>Vajalik transparentsus:</strong> Allikas JPG-l puudub alfa; muuda ja redigeeri alfa redigeerijas või alusta PNG-st.</li><li><strong>Värvi nihke:</strong> Muuda sRGB-ks enne üleslaadimist veebikonsistentsuse jaoks.</li><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kuidas Muuta JPG TIFF-iks Veebis"
+
+      "description": "<ol><li>Kliki <em>Laadi üles JPG</em> ja vali oma foto.</li><li>Oota töötlemise lõpetamist.</li><li>Kliki <em>Laadi alla TIFF</em>, et salvestada fail.</li></ol><p>Vaikimisi: 24-bitine RGB, LZW kaotusteta, 300&nbsp;DPI.</p>"
+
+    }
+    {
+      "title": "TIFF vs JPG: Peamised Erinevused"
+
+      "description": "<table class='table-compare'><thead><tr><th>Omadus</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kokkutõmbumine</td><td>Kaotusega (JPEG)</td><td>Kaotusteta (LZW/ZIP) või JPEG/ilma</td></tr><tr><td>Faili suurus</td><td>Väike</td><td>Suurem (sõltub kokkusurumisest)</td></tr><tr><td>Transparentsus</td><td>Ei</td><td>Valikuline alfa (lugemise sõltuv)</td></tr><tr><td>Parim</td><td>Veeb/foorumite jagamine</td><td>Redigeerimine, printimine, arhiveerimine</td></tr></tbody></table>"
+
+    }
+    {
+      "title": "Toetatud Piirangud ja Formaadid"
+
+      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Vaikimisi:</strong> 24-bitine RGB, LZW kokkusurumine, 300&nbsp;DPI</li></ul>"
+
+    }
+    {
+      "title": "Probleemide Lahendamine"
+
+      "description": "<ul><li><strong>Fail liiga suur:</strong> TIFF on disaini tõttu raskem. Väiksemate kaotusteta jaoks proovi <a href='/et/convert/jpg-to-png'>JPG PNG-ks</a>.</li><li><strong>Vajalik transparentsus:</strong> Allikas JPG-l puudub alfa; muuda ja redigeeri alfa redigeerijas või alusta PNG-st.</li><li><strong>Värvi nihke:</strong> Muuda sRGB-ks enne üleslaadimist veebikonsistentsuse jaoks.</li><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Kas see JPG TIFF muundur on tasuta?",
+      "question": "Kas see JPG TIFF muundur on tasuta?"
+
       "answer": "Jah, muundur on täiesti tasuta, ilma peidetud tasude või tellimusteta."
-    },
-    {
-      "question": "Kas TIFF töötab kõigis rakendustes?",
-      "answer": "TIFF on laialdaselt toetatud professionaalsetes rakendustes (Photoshop, Affinity, paljud RIP/printimisriistad). Mõned lihtsad vaatamisprogrammid ei pruugi toetada kõiki kokkusurumise valikuid."
-    },
-    {
-      "question": "Kui palju suuremad on TIFF failid võrreldes JPG-ga?",
-      "answer": "Tavaliselt 3–10× suuremad kui sama mõõtmetega JPG (sõltub sisust ja kokkusurumisest)."
-    },
-    {
-      "question": "Milliseid faili suurusi toetatakse?",
-      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
-    },
-    {
-      "question": "Kas mu failid on turvalised?",
-      "answer": "Failid töödeldakse automaatselt ja neid ei hoita kauem, kui on vajalik konverteerimiseks."
-    },
-    {
-      "question": "Kas ma saan korraga konverteerida mitut JPG-d?",
-      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste jaoks korda protsessi või kasuta partii tööriista."
-    },
-    {
-      "question": "Kas TIFF toetab kihte?",
-      "answer": "Standardne TIFF on lame pilt; mõned rakendused salvestavad 'kihilise TIFF' eraldi. See tööriist genereerib lameda TIFF-i."
+
     }
-  ],
-  "note": "TIFF sobib arhiveerimiseks/printimiseks, kuid on suurem. Veebi jaoks kaalu PNG/WebP/AVIF.",
+    {
+      "question": "Kas TIFF töötab kõigis rakendustes?"
+
+      "answer": "TIFF on laialdaselt toetatud professionaalsetes rakendustes (Photoshop, Affinity, paljud RIP/printimisriistad). Mõned lihtsad vaatamisprogrammid ei pruugi toetada kõiki kokkusurumise valikuid."
+
+    }
+    {
+      "question": "Kui palju suuremad on TIFF failid võrreldes JPG-ga?"
+
+      "answer": "Tavaliselt 3–10× suuremad kui sama mõõtmetega JPG (sõltub sisust ja kokkusurumisest)."
+
+    }
+    {
+      "question": "Milliseid faili suurusi toetatakse?"
+
+      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
+
+    }
+    {
+      "question": "Kas mu failid on turvalised?"
+
+      "answer": "Failid töödeldakse automaatselt ja neid ei hoita kauem, kui on vajalik konverteerimiseks."
+
+    }
+    {
+      "question": "Kas ma saan korraga konverteerida mitut JPG-d?"
+
+      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste jaoks korda protsessi või kasuta partii tööriista."
+
+    }
+    {
+      "question": "Kas TIFF toetab kihte?"
+
+      "answer": "Standardne TIFF on lame pilt; mõned rakendused salvestavad 'kihilise TIFF' eraldi. See tööriist genereerib lameda TIFF-i."
+
+    }
+  ]
+  "note": "TIFF sobib arhiveerimiseks/printimiseks, kuid on suurem. Veebi jaoks kaalu PNG/WebP/AVIF."
+
   "related_links": [
     {
-      "title": "Muuda JPG PNG-ks",
+      "title": "Muuda JPG PNG-ks"
+
       "url": "/et/convert/jpg-to-png"
-    },
-    {
-      "title": "Muuda JPG WebP-ks",
-      "url": "/et/convert/jpg-to-webp"
-    },
-    {
-      "title": "Muuda PNG TIFF-iks",
-      "url": "/et/convert/png-to-tiff"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Kõik õigused kaitstud.",
+    {
+      "title": "Muuda JPG WebP-ks"
+
+      "url": "/et/convert/jpg-to-webp"
+
+    }
+    {
+      "title": "Muuda PNG TIFF-iks"
+
+      "url": "/et/convert/png-to-tiff"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "JPG TIFF Muundur - Tasuta ja Veebis",
-      "url": "https://wikihowto.click/et/convert/jpg-to-tiff",
-      "description": "Tasuta veebitööriist JPG piltide TIFF-iks konverteerimiseks kaotusteta kokkusurumise ja printimiseks valmis väljundiga.",
-      "inLanguage": "et",
-      "image": "https://wikihowto.click/images/jpg-to-tiff.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG TIFF Muundur - Tasuta ja Veebis"
+
+      "url": "https://miconvert.com/et/convert/jpg-to-tiff"
+
+      "description": "Tasuta veebitööriist JPG piltide TIFF-iks konverteerimiseks kaotusteta kokkusurumise ja printimiseks valmis väljundiga."
+
+      "inLanguage": "et"
+
+      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Avaleht",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Avaleht"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Muuda",
-          "item": "https://wikihowto.click/et/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Muuda"
+
+          "item": "https://miconvert.com/et/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JPG TIFF-iks",
-          "item": "https://wikihowto.click/et/convert/jpg-to-tiff"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "JPG TIFF-iks"
+
+          "item": "https://miconvert.com/et/convert/jpg-to-tiff"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "JPG TIFF Muundur",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/et/convert/jpg-to-tiff",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "JPG TIFF Muundur"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/et/convert/jpg-to-tiff"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Kaotusteta LZW valik",
-        "Printimiseks valmis 300 DPI",
+        "Kaotusteta LZW valik"
+
+        "Printimiseks valmis 300 DPI"
+
         "Täpsed värvid"
-      ],
-      "screenshot": "https://wikihowto.click/images/jpg-to-tiff.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Kas see JPG TIFF muundur on tasuta?",
+          "@type": "Question"
+
+          "name": "Kas see JPG TIFF muundur on tasuta?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Jah, muundur on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Milliseid faili suurusi toetatakse?",
+          "@type": "Question"
+
+          "name": "Milliseid faili suurusi toetatakse?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kas TIFF toetab kihte?",
+          "@type": "Question"
+
+          "name": "Kas TIFF toetab kihte?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Standardne TIFF on lame. Mõned rakendused salvestavad privaatset kihiteavet; see tööriist genereerib lameda TIFF-i."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kuidas muuda JPG TIFF-iks",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kuidas muuda JPG TIFF-iks"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliki Laadi üles JPG ja vali oma foto."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Oota töötlemise lõpetamist."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliki Laadi alla TIFF, et salvestada fail."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Oota töötlemise lõpetamist."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliki Laadi alla TIFF, et salvestada fail."
+
+        }
+      ]
       "tool": [
         "JPG TIFF Muundur"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

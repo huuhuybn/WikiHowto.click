@@ -1,242 +1,365 @@
 {
-  "lang": "sl",
-  "lang_name": "Slovenščina",
-  "title": "Pretvornik WEBP v AVIF - Brezplačno in Spletno | WikiHowTo.click",
-  "sub_title": "Pretvorite WebP slike v AVIF spletu z odličnim stiskanjem, visoko kakovostjo in brez vodnih znakov.",
-  "hint": "Naložite svojo sliko WebP, da začnete s pretvorbo...",
-  "btn_download": "Pretvori v AVIF",
-  "btn_paste": "Naloži WebP",
-  "btn_clear": "Počisti",
-  "ogImage": "https://wikihowto.click/images/webp-to-avif.jpg",
+  "lang": "sl"
+
+  "lang_name": "Slovenščina"
+
+  "title": "Pretvornik WEBP v AVIF - Brezplačno in Spletno | miconvert.com"
+
+  "sub_title": "Pretvorite WebP slike v AVIF spletu z odličnim stiskanjem, visoko kakovostjo in brez vodnih znakov."
+
+  "hint": "Naložite svojo sliko WebP, da začnete s pretvorbo..."
+
+  "btn_download": "Pretvori v AVIF"
+
+  "btn_paste": "Naloži WebP"
+
+  "btn_clear": "Počisti"
+
+  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg"
+
   "head": {
-    "title": "Pretvorite WebP v AVIF Spletno - Brezplačni pretvornik WebP v AVIF | WikiHowTo.click",
-    "description": "Pretvorite WebP v AVIF spletu z odličnim stiskanjem in visoko kakovostjo. Brezplačno, hitro in varno orodje za pretvorbo WebP v AVIF.",
-    "keywords": "webp v avif, pretvori webp v avif, brezplačni webp v avif, spletni avif pretvornik, pretvorba slik",
-    "canonical": "https://wikihowto.click/sl/convert/webp-to-avif",
-    "og_title": "Pretvornik WebP v AVIF - Brezplačno in Spletno",
-    "og_description": "Pretvorite WebP slike v AVIF format z odličnim stiskanjem in kakovostjo. 100% brezplačno, hitro in varno.",
-    "og_url": "https://wikihowto.click/sl/convert/webp-to-avif",
-    "og_image": "https://wikihowto.click/images/webp-to-avif.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Brezplačni spletni pretvornik WebP v AVIF",
-    "twitter_description": "Pretvorite WebP v AVIF z odličnim stiskanjem in visoko kakovostjo. Deluje na vseh napravah.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-avif.jpg"
-  },
+    "title": "Pretvorite WebP v AVIF Spletno - Brezplačni pretvornik WebP v AVIF | miconvert.com"
+
+    "description": "Pretvorite WebP v AVIF spletu z odličnim stiskanjem in visoko kakovostjo. Brezplačno, hitro in varno orodje za pretvorbo WebP v AVIF."
+
+    "keywords": "webp v avif, pretvori webp v avif, brezplačni webp v avif, spletni avif pretvornik, pretvorba slik"
+
+    "canonical": "https://miconvert.com/sl/convert/webp-to-avif"
+
+    "og_title": "Pretvornik WebP v AVIF - Brezplačno in Spletno"
+
+    "og_description": "Pretvorite WebP slike v AVIF format z odličnim stiskanjem in kakovostjo. 100% brezplačno, hitro in varno."
+
+    "og_url": "https://miconvert.com/sl/convert/webp-to-avif"
+
+    "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
+
+  }
   "h1": {
-    "title": "Pretvorite WebP v AVIF Spletno",
+    "title": "Pretvorite WebP v AVIF Spletno"
+
     "description": "Brezplačni in hitri pretvornik WebP v AVIF z odličnim stiskanjem in kakovostjo. Deluje takoj na kateri koli napravi — brez registracije."
-  },
-  "description": "<p>Izboljšajte svoje slike z pretvorbo <strong>WebP v AVIF</strong>. AVIF (AV1 Image File Format) je format nove generacije, ki pogosto proizvaja manjše datoteke pri podobni vizualni kakovosti. Naše orodje ohranja prosojnost in pretvarja barve v sRGB za spletno doslednost.</p><p><em>Opomba:</em> Če je vaš WebP animiran, se pretvori le prvi okvir v statično sliko AVIF.</p>",
+
+  }
+  "description": "<p>Izboljšajte svoje slike z pretvorbo <strong>WebP v AVIF</strong>. AVIF (AV1 Image File Format) je format nove generacije, ki pogosto proizvaja manjše datoteke pri podobni vizualni kakovosti. Naše orodje ohranja prosojnost in pretvarja barve v sRGB za spletno doslednost.</p><p><em>Opomba:</em> Če je vaš WebP animiran, se pretvori le prvi okvir v statično sliko AVIF.</p>"
+
   "converter": {
-    "type": "webp-to-avif",
-    "title": "Pretvornik WebP v AVIF",
-    "description": "Pretvorite WebP slike v AVIF z visoko kakovostjo in odličnim stiskanjem.",
-    "apiEndpoint": "/image-converter/convert-single",
-    "inputFormat": "WebP",
-    "outputFormat": "AVIF",
+    "type": "webp-to-avif"
+
+    "title": "Pretvornik WebP v AVIF"
+
+    "description": "Pretvorite WebP slike v AVIF z visoko kakovostjo in odličnim stiskanjem."
+
+    "apiEndpoint": "/image-converter/convert-single"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "AVIF"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/avif",
-    "outputExtension": ".avif",
-    "quality": 60,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/avif"
+
+    "outputExtension": ".avif"
+
+    "quality": 60
     "features": [
-      "Visokokakovostna AVIF pretvorba",
-      "Odlično stiskanje",
-      "Ohranjena prosojnost",
+      "Visokokakovostna AVIF pretvorba"
+
+      "Odlično stiskanje"
+
+      "Ohranjena prosojnost"
+
       "Brezplačno spletno orodje"
-    ],
+
+    ]
     "options": {
       "avif": {
-        "cqLevel": 30,
-        "speed": 6,
-        "subsample": "4:2:0",
-        "lossless": false,
+        "cqLevel": 30
+        "speed": 6
+        "subsample": "4:2:0"
+
+        "lossless": false
         "alphaQuality": 100
       }
     }
-  },
+  }
   "result_actions": {
-    "title": "Pretvorba WebP v AVIF je končana",
-    "back_button": "Nazaj na pretvornik",
-    "convert_another": "Pretvori drugo WebP",
+    "title": "Pretvorba WebP v AVIF je končana"
+
+    "back_button": "Nazaj na pretvornik"
+
+    "convert_another": "Pretvori drugo WebP"
+
     "quick_conversions": "Hitre pretvorbe:"
-  },
+
+  }
   "h2": [
     {
-      "title": "Zakaj pretvoriti WebP v AVIF?",
+      "title": "Zakaj pretvoriti WebP v AVIF?"
+
       "description": "<p>AVIF je zgrajen na AV1 kodeku in cilja na vrhunsko učinkovitost:</p><ul><li><strong>Manjše datoteke:</strong> Pogosto 15–30% manjše od primerljivih WebP pri podobni kakovosti.</li><li><strong>Visoka kakovost:</strong> Boljša ohranitev podrobnosti pri nižjih bitnih hitrostih.</li><li><strong>Sodobno in prihodnost dokazano:</strong> Široka in rastoča podpora brskalnikov.</li><li><strong>Prosojnost:</strong> Polna podpora za alfa kanal kot WebP.</li></ul>"
-    },
-    {
-      "title": "Kako pretvoriti WebP v AVIF spletu",
-      "description": "<ol><li>Kliknite <em>Naloži WebP</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi AVIF</em>, da shranite rezultat.</li></ol><p>Privzete nastavitve uravnavajo zvestobo in velikost za sodobni splet.</p>"
-    },
-    {
-      "title": "Primerjava AVIF in WebP",
-      "description": "<ul><li><strong>Stiskanje:</strong> AVIF običajno doseže manjše datoteke pri podobni kakovosti.</li><li><strong>Prosojnost:</strong> Obe podpirata alfa kanale.</li><li><strong>Animacija:</strong> To orodje izhodne <em>statične</em> AVIF (le prvi okvir).</li><li><strong>Podpora brskalnikov:</strong> AVIF podpirajo trenutne različice glavnih brskalnikov.</li></ul>"
-    },
-    {
-      "title": "Podprte omejitve in formati",
-      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> WebP (<code>image/webp</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong> Animacija:</strong> Le prvi okvir</li></ul>"
-    },
-    {
-      "title": "Odpravljanje težav",
-      "description": "<ul><li><strong>Barve izgledajo drugače:</strong> Izhod je pretvorjen v sRGB za spletno doslednost.</li><li><strong>Datoteka je še vedno velika:</strong> Poskusite višji <em>cqLevel</em> (npr. 34–36) ali zmanjšajte pred pretvorbo.</li><li><strong>Nalaganje ne uspe:</strong> Preverite <code>image/webp</code> in ≤ 16&nbsp;MB.</li></ul>"
+
     }
-  ],
+    {
+      "title": "Kako pretvoriti WebP v AVIF spletu"
+
+      "description": "<ol><li>Kliknite <em>Naloži WebP</em> in izberite svojo datoteko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi AVIF</em>, da shranite rezultat.</li></ol><p>Privzete nastavitve uravnavajo zvestobo in velikost za sodobni splet.</p>"
+
+    }
+    {
+      "title": "Primerjava AVIF in WebP"
+
+      "description": "<ul><li><strong>Stiskanje:</strong> AVIF običajno doseže manjše datoteke pri podobni kakovosti.</li><li><strong>Prosojnost:</strong> Obe podpirata alfa kanale.</li><li><strong>Animacija:</strong> To orodje izhodne <em>statične</em> AVIF (le prvi okvir).</li><li><strong>Podpora brskalnikov:</strong> AVIF podpirajo trenutne različice glavnih brskalnikov.</li></ul>"
+
+    }
+    {
+      "title": "Podprte omejitve in formati"
+
+      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> WebP (<code>image/webp</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong> Animacija:</strong> Le prvi okvir</li></ul>"
+
+    }
+    {
+      "title": "Odpravljanje težav"
+
+      "description": "<ul><li><strong>Barve izgledajo drugače:</strong> Izhod je pretvorjen v sRGB za spletno doslednost.</li><li><strong>Datoteka je še vedno velika:</strong> Poskusite višji <em>cqLevel</em> (npr. 34–36) ali zmanjšajte pred pretvorbo.</li><li><strong>Nalaganje ne uspe:</strong> Preverite <code>image/webp</code> in ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Ali je ta pretvornik WebP v AVIF brezplačen?",
+      "question": "Ali je ta pretvornik WebP v AVIF brezplačen?"
+
       "answer": "Da, je popolnoma brezplačen brez vodnih znakov ali skritih stroškov."
-    },
-    {
-      "question": "Ali bo AVIF deloval na vseh brskalnikih?",
-      "answer": "AVIF podpirajo sodobni brskalniki (Chrome, Firefox, Safari, Edge). Za starejše različice zagotovite WebP ali JPG nadomestke."
-    },
-    {
-      "question": "Kako veliko so AVIF datoteke v primerjavi z WebP?",
-      "answer": "Rezultati se razlikujejo glede na sliko, vendar je AVIF pogosto 15–30% manjši pri podobni vizualni kakovosti."
-    },
-    {
-      "question": "Ali ohranja prosojnost?",
-      "answer": "Da. Če ima vaš WebP alfa kanal, ga izhod AVIF ohranja."
-    },
-    {
-      "question": "Ali podpirate animirani WebP?",
-      "answer": "Animirani WebP se pretvori v statično sliko z uporabo prvega okvirja."
-    },
-    {
-      "question": "Katere velikosti datotek so podprte?",
-      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+
     }
-  ],
-  "note": "AVIF je zelo učinkovit, vendar se lahko na zelo starih napravah nekoliko počasneje prikazuje. Za največjo združljivost obdržite svoj izvirni WebP kot nadomestek.",
+    {
+      "question": "Ali bo AVIF deloval na vseh brskalnikih?"
+
+      "answer": "AVIF podpirajo sodobni brskalniki (Chrome, Firefox, Safari, Edge). Za starejše različice zagotovite WebP ali JPG nadomestke."
+
+    }
+    {
+      "question": "Kako veliko so AVIF datoteke v primerjavi z WebP?"
+
+      "answer": "Rezultati se razlikujejo glede na sliko, vendar je AVIF pogosto 15–30% manjši pri podobni vizualni kakovosti."
+
+    }
+    {
+      "question": "Ali ohranja prosojnost?"
+
+      "answer": "Da. Če ima vaš WebP alfa kanal, ga izhod AVIF ohranja."
+
+    }
+    {
+      "question": "Ali podpirate animirani WebP?"
+
+      "answer": "Animirani WebP se pretvori v statično sliko z uporabo prvega okvirja."
+
+    }
+    {
+      "question": "Katere velikosti datotek so podprte?"
+
+      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
+
+    }
+  ]
+  "note": "AVIF je zelo učinkovit, vendar se lahko na zelo starih napravah nekoliko počasneje prikazuje. Za največjo združljivost obdržite svoj izvirni WebP kot nadomestek."
+
   "related_links": [
     {
-      "title": "Pretvori AVIF v WebP",
+      "title": "Pretvori AVIF v WebP"
+
       "url": "/sl/convert/avif-to-webp"
-    },
-    {
-      "title": "Pretvori PNG v AVIF",
-      "url": "/sl/convert/png-to-avif"
-    },
-    {
-      "title": "Pretvori JPG v AVIF",
-      "url": "/sl/convert/jpg-to-avif"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Vse pravice pridržane.",
+    {
+      "title": "Pretvori PNG v AVIF"
+
+      "url": "/sl/convert/png-to-avif"
+
+    }
+    {
+      "title": "Pretvori JPG v AVIF"
+
+      "url": "/sl/convert/jpg-to-avif"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "Pretvornik WebP v AVIF - Brezplačno in Spletno",
-      "url": "https://wikihowto.click/sl/convert/webp-to-avif",
-      "description": "Brezplačno spletno orodje za pretvorbo WebP slik v AVIF z odličnim stiskanjem in visoko kakovostjo.",
-      "inLanguage": "sl",
-      "image": "https://wikihowto.click/images/webp-to-avif.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik WebP v AVIF - Brezplačno in Spletno"
+
+      "url": "https://miconvert.com/sl/convert/webp-to-avif"
+
+      "description": "Brezplačno spletno orodje za pretvorbo WebP slik v AVIF z odličnim stiskanjem in visoko kakovostjo."
+
+      "inLanguage": "sl"
+
+      "image": "https://miconvert.com/images/webp-to-avif.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Pretvori",
-          "item": "https://wikihowto.click/sl/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Pretvori"
+
+          "item": "https://miconvert.com/sl/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP v AVIF",
-          "item": "https://wikihowto.click/sl/convert/webp-to-avif"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP v AVIF"
+
+          "item": "https://miconvert.com/sl/convert/webp-to-avif"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "Pretvornik WebP v AVIF",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/sl/convert/webp-to-avif",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "Pretvornik WebP v AVIF"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/sl/convert/webp-to-avif"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Ohranjena prosojnost",
-        "Odlično stiskanje",
+        "Ohranjena prosojnost"
+
+        "Odlično stiskanje"
+
         "Hitro obdelovanje"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-avif.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Ali je ta pretvornik WebP v AVIF brezplačen?",
+          "@type": "Question"
+
+          "name": "Ali je ta pretvornik WebP v AVIF brezplačen?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Da, je popolnoma brezplačen brez vodnih znakov ali skritih stroškov."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Kako veliko so AVIF datoteke v primerjavi z WebP?",
+          "@type": "Question"
+
+          "name": "Kako veliko so AVIF datoteke v primerjavi z WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "AVIF je pogosto 15–30% manjši od primerljivih WebP pri podobni kakovosti, vendar je odvisno od slike."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Ali podpirate animirani WebP?",
+          "@type": "Question"
+
+          "name": "Ali podpirate animirani WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animirani WebP se pretvori v statično sliko (le prvi okvir)."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Kako pretvoriti WebP v AVIF",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Kako pretvoriti WebP v AVIF"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Kliknite Naloži WebP in izberite svojo datoteko."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počakajte, da se obdelava in optimizacija končata."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Kliknite Prenesi AVIF, da shranite svojo sliko."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počakajte, da se obdelava in optimizacija končata."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Kliknite Prenesi AVIF, da shranite svojo sliko."
+
+        }
+      ]
       "tool": [
         "Pretvornik WebP v AVIF"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -5,86 +5,96 @@
   "og_title": "Convert ZIP to TAR.BZ2 - Free Online Converter",
   "og_description": "Convert ZIP files to TAR.BZ2 format online for free.",
   "og_image": "/images/archive-converter.jpg",
-  "twitter_title": "Convert ZIP to TAR.BZ2 - Free Online Converter",
-  "twitter_description": "Convert ZIP files to TAR.BZ2 format online for free.",
   "canonical_url": "/en/archive/convert-zip-to-tar-bz2",
   "schema": {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "Convert ZIP to TAR.BZ2",
-    "description": "Convert ZIP files to TAR.BZ2 format online for free.",
-    "image": "/images/archive-converter.jpg",
-    "totalTime": "PT2M",
-    "estimatedCost": {
+  "@type": "HowTo",
+  "name": "Convert ZIP to TAR.BZ2",
+  "description": "Convert ZIP files to TAR.BZ2 format online for free.",
+  "image": "/images/archive-converter.jpg",
+  "totalTime": "PT2M",
+  "estimatedCost": {
       "@type": "MonetaryAmount",
-      "currency": "USD",
-      "value": "0"
+  "currency": "USD",
+  "value": "0"
+
     },
-    "step": [
+  "step": [
       {
         "@type": "HowToStep",
-        "name": "Upload ZIP file",
-        "text": "Click the upload area or drag and drop your ZIP file",
-        "image": "/images/upload-step.jpg"
+  "name": "Upload ZIP file",
+  "text": "Click the upload area or drag and drop your ZIP file",
+  "image": "/images/upload-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Convert to TAR.BZ2",
-        "text": "Click the convert button to start the conversion process",
-        "image": "/images/convert-step.jpg"
+  "name": "Convert to TAR.BZ2",
+  "text": "Click the convert button to start the conversion process",
+  "image": "/images/convert-step.jpg"
+
       },
-      {
+  {
         "@type": "HowToStep",
-        "name": "Download TAR.BZ2 file",
-        "text": "Download your converted TAR.BZ2 file when ready",
-        "image": "/images/download-step.jpg"
+  "name": "Download TAR.BZ2 file",
+  "text": "Download your converted TAR.BZ2 file when ready",
+  "image": "/images/download-step.jpg"
+
       }
-    ]
+  ]
   },
   "breadcrumb": [
     {
       "name": "Home",
-      "url": "/en/"
+  "url": "/en/"
+
     },
-    {
+  {
       "name": "Archive Converter",
-      "url": "/en/archive/converter"
+  "url": "/en/archive/converter"
+
     },
-    {
+  {
       "name": "ZIP to TAR.BZ2",
-      "url": "/en/archive/convert-zip-to-tar-bz2"
+  "url": "/en/archive/convert-zip-to-tar-bz2"
+
     }
   ],
   "converter": {
     "title": "Convert ZIP to TAR.BZ2",
-    "subtitle": "Convert ZIP files to TAR.BZ2 format",
-    "description": "Upload your ZIP file and convert it to TAR.BZ2 format quickly and securely.",
-    "supported_formats": {
+  "subtitle": "Convert ZIP files to TAR.BZ2 format",
+  "description": "Upload your ZIP file and convert it to TAR.BZ2 format quickly and securely.",
+  "supported_formats": {
       "input": [
         "zip"
+
       ],
-      "output": [
+  "output": [
         "tar.bz2"
+
       ]
     },
-    "features": [
+  "features": [
       "Free online conversion",
-      "No registration required",
-      "Secure file processing",
-      "Fast conversion speed",
-      "Works on all devices"
+  "No registration required",
+  "Secure file processing",
+  "Fast conversion speed",
+  "Works on all devices"
+
     ],
-    "instructions": [
+  "instructions": [
       "Click the upload area or drag and drop your ZIP file",
-      "Wait for the file to upload and process",
-      "Click 'Convert to TAR.BZ2' to start conversion",
-      "Download your TAR.BZ2 file when ready"
+  "Wait for the file to upload and process",
+  "Click 'Convert to TAR.BZ2' to start conversion",
+  "Download your TAR.BZ2 file when ready"
+
     ],
-    "tips": [
+  "tips": [
       "Maximum file size: 100MB",
-      "Supported ZIP formats",
-      "High quality TAR.BZ2 output",
-      "Fast and secure conversion"
+  "Supported ZIP formats",
+  "High quality TAR.BZ2 output",
+  "Fast and secure conversion"
+
     ]
   }
 }

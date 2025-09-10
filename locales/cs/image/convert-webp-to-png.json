@@ -1,237 +1,355 @@
 {
-  "lang": "cs",
-  "lang_name": "Čeština",
-  "title": "WebP na PNG Konvertor - Zdarma & Online | WikiHowTo.click",
-  "sub_title": "Převádějte WebP obrázky do PNG formátu online s podporou průhlednosti, bezztrátovou kvalitou a bez vodoznaků.",
-  "hint": "Nahrajte svůj WebP obrázek, abyste začali převádět...",
-  "btn_download": "Převést na PNG",
-  "btn_paste": "Nahrát WebP",
-  "btn_clear": "Vymazat",
-  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "lang": "cs"
+
+  "lang_name": "Čeština"
+
+  "title": "WebP na PNG Konvertor - Zdarma & Online | miconvert.com"
+
+  "sub_title": "Převádějte WebP obrázky do PNG formátu online s podporou průhlednosti, bezztrátovou kvalitou a bez vodoznaků."
+
+  "hint": "Nahrajte svůj WebP obrázek, abyste začali převádět..."
+
+  "btn_download": "Převést na PNG"
+
+  "btn_paste": "Nahrát WebP"
+
+  "btn_clear": "Vymazat"
+
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
+
   "converter": {
-    "type": "webp-to-png",
-    "inputFormat": "WebP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-png"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Potřebujete <strong>převést WebP na PNG</strong>? Tento bezplatný online nástroj převádí moderní WebP soubory na vysoce kvalitní PNG, přičemž zachovává <strong>průhlednost (alpha)</strong>. PNG používá bezztrátovou kompresi a je široce podporováno napříč aplikacemi a platformami—ideální pro loga, UI prvky a dokumenty.</p><p><em>Poznámky:</em> JPG nepodporuje průhlednost (PNG ano). Pokud je váš WebP animovaný, pouze <strong>první snímek</strong> bude převeden na statické PNG. Barvy jsou převedeny na sRGB pro konzistentnost na webu.</p>",
+  }
+  "description": "<p>Potřebujete <strong>převést WebP na PNG</strong>? Tento bezplatný online nástroj převádí moderní WebP soubory na vysoce kvalitní PNG, přičemž zachovává <strong>průhlednost (alpha)</strong>. PNG používá bezztrátovou kompresi a je široce podporováno napříč aplikacemi a platformami—ideální pro loga, UI prvky a dokumenty.</p><p><em>Poznámky:</em> JPG nepodporuje průhlednost (PNG ano). Pokud je váš WebP animovaný, pouze <strong>první snímek</strong> bude převeden na statické PNG. Barvy jsou převedeny na sRGB pro konzistentnost na webu.</p>"
+
   "head": {
-    "title": "Převést WebP na PNG Online - Zdarma WebP na PNG Konvertor | WikiHowTo.click",
-    "description": "Převádějte WebP na PNG online s podporou průhlednosti, bezztrátovou kvalitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro převod WebP na PNG.",
-    "keywords": "webp na png, převést webp na png, zdarma webp na png, online webp konvertor, změnit webp na png, webp obrázek na png",
-    "canonical": "https://wikihowto.click/cs/convert/webp-to-png",
-    "og_title": "WebP na PNG Konvertor - Zdarma & Online",
-    "og_description": "Převádějte WebP obrázky do PNG formátu s podporou průhlednosti a bezztrátovou kvalitou. 100% zdarma, rychlé a bezpečné.",
-    "og_url": "https://wikihowto.click/cs/convert/webp-to-png",
-    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Bezplatný WebP na PNG Konvertor Online",
-    "twitter_description": "Převádějte WebP na PNG s podporou průhlednosti, bezztrátovou kvalitou a bez vodoznaků. Funguje na všech zařízeních.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
-  },
+    "title": "Převést WebP na PNG Online - Zdarma WebP na PNG Konvertor | miconvert.com"
+
+    "description": "Převádějte WebP na PNG online s podporou průhlednosti, bezztrátovou kvalitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro převod WebP na PNG."
+
+    "keywords": "webp na png, převést webp na png, zdarma webp na png, online webp konvertor, změnit webp na png, webp obrázek na png"
+
+    "canonical": "https://miconvert.com/cs/convert/webp-to-png"
+
+    "og_title": "WebP na PNG Konvertor - Zdarma & Online"
+
+    "og_description": "Převádějte WebP obrázky do PNG formátu s podporou průhlednosti a bezztrátovou kvalitou. 100% zdarma, rychlé a bezpečné."
+
+    "og_url": "https://miconvert.com/cs/convert/webp-to-png"
+
+    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Převést WebP na PNG Online",
+    "title": "Převést WebP na PNG Online"
+
     "description": "Bezplatný a rychlý WebP na PNG konvertor s podporou průhlednosti a bezztrátovou kvalitou. Funguje okamžitě na jakémkoli zařízení, není potřeba registrace."
-  },
+
+  }
   "h2": [
     {
-      "title": "Proč převádět WebP na PNG?",
+      "title": "Proč převádět WebP na PNG?"
+
       "description": "<p>WebP je efektivní pro web, ale PNG nabízí maximální kompatibilitu a bezztrátový výstup:</p><ul><li><strong>Univerzální kompatibilita:</strong> Funguje na Windows, macOS, Linux, iOS a Android.</li><li><strong>Průhlednost:</strong> Ideální pro loga, ikony a grafiku UI.</li><li><strong>Úpravy & Design:</strong> Preferováno Photoshopem, Illustratorem, Figmou a dalšími.</li><li><strong>Dokumenty:</strong> Vložte PNG do Wordu, PowerPointu a PDF bez překvapení.</li></ul>"
-    },
-    {
-      "title": "Jak převést WebP na PNG online",
-      "description": "<ol><li>Klikněte na <em>Nahrát WebP</em> a vyberte svůj soubor.</li><li>Chvíli počkejte, zatímco to bezpečně zpracujeme.</li><li>Klikněte na <em>Stáhnout PNG</em>, abyste uložili svůj obrázek.</li></ol><p>Tato stránka převádí <strong>jeden soubor najednou</strong>, aby zajistila spolehlivost a rychlost.</p>"
-    },
-    {
-      "title": "Srovnání WebP a PNG",
-      "description": "<ul><li><strong>Velikost souboru:</strong> WebP je obvykle o 30–50% menší; PNG je větší, ale bezztrátový.</li><li><strong>Průhlednost:</strong> Oba podporují alpha; PNG je profesionální standard.</li><li><strong>Úpravy:</strong> PNG se hladce integruje s většinou designových nástrojů.</li><li><strong>Použití:</strong> WebP pro webové stránky; PNG pro aplikace, dokumenty a designové pracovní postupy.</li></ul>"
-    },
-    {
-      "title": "Podporované limity a formáty",
-      "description": "<ul><li><strong>Přijatý vstup:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximální velikost souboru:</strong> 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animace:</strong> Pouze první snímek</li></ul>"
-    },
-    {
-      "title": "Řešení problémů",
-      "description": "<ul><li><strong>Stále příliš velké?</strong> Použijte <a href='/cs/edit/compress-image'>PNG Kompresor</a> nebo změňte velikost před převodem.</li><li><strong>Barvy vypadají špatně:</strong> Výstup je převeden na sRGB pro konzistentní zobrazení.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je <code>image/webp</code> a ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Související nástroje, které byste mohli potřebovat",
-      "description": "<ul><li><a href='/cs/convert/png-to-webp'>PNG na WebP Konvertor</a> – zmenšete velikost souboru pro rychlejší stránky</li><li><a href='/cs/edit/compress-image'>PNG Kompresor</a> – zmenšete velikost PNG s kontrolou kvality</li><li><a href='/cs/effect/remove-background'>Odstranit pozadí</a> – rychle udělejte PNG průhledným</li><li><a href='/cs/convert/jpg-to-png'>JPG na PNG Konvertor</a> – přepněte jiné formáty na PNG</li></ul>"
+
     }
-  ],
+    {
+      "title": "Jak převést WebP na PNG online"
+
+      "description": "<ol><li>Klikněte na <em>Nahrát WebP</em> a vyberte svůj soubor.</li><li>Chvíli počkejte, zatímco to bezpečně zpracujeme.</li><li>Klikněte na <em>Stáhnout PNG</em>, abyste uložili svůj obrázek.</li></ol><p>Tato stránka převádí <strong>jeden soubor najednou</strong>, aby zajistila spolehlivost a rychlost.</p>"
+
+    }
+    {
+      "title": "Srovnání WebP a PNG"
+
+      "description": "<ul><li><strong>Velikost souboru:</strong> WebP je obvykle o 30–50% menší; PNG je větší, ale bezztrátový.</li><li><strong>Průhlednost:</strong> Oba podporují alpha; PNG je profesionální standard.</li><li><strong>Úpravy:</strong> PNG se hladce integruje s většinou designových nástrojů.</li><li><strong>Použití:</strong> WebP pro webové stránky; PNG pro aplikace, dokumenty a designové pracovní postupy.</li></ul>"
+
+    }
+    {
+      "title": "Podporované limity a formáty"
+
+      "description": "<ul><li><strong>Přijatý vstup:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximální velikost souboru:</strong> 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animace:</strong> Pouze první snímek</li></ul>"
+
+    }
+    {
+      "title": "Řešení problémů"
+
+      "description": "<ul><li><strong>Stále příliš velké?</strong> Použijte <a href='/cs/edit/compress-image'>PNG Kompresor</a> nebo změňte velikost před převodem.</li><li><strong>Barvy vypadají špatně:</strong> Výstup je převeden na sRGB pro konzistentní zobrazení.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je <code>image/webp</code> a ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Související nástroje, které byste mohli potřebovat"
+
+      "description": "<ul><li><a href='/cs/convert/png-to-webp'>PNG na WebP Konvertor</a> – zmenšete velikost souboru pro rychlejší stránky</li><li><a href='/cs/edit/compress-image'>PNG Kompresor</a> – zmenšete velikost PNG s kontrolou kvality</li><li><a href='/cs/effect/remove-background'>Odstranit pozadí</a> – rychle udělejte PNG průhledným</li><li><a href='/cs/convert/jpg-to-png'>JPG na PNG Konvertor</a> – přepněte jiné formáty na PNG</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Je tento WebP na PNG konvertor zdarma?",
+      "question": "Je tento WebP na PNG konvertor zdarma?"
+
       "answer": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
-    },
-    {
-      "question": "Bude průhlednost zachována?",
-      "answer": "Ano. PNG plně podporuje alpha průhlednost a my ji zachováváme."
-    },
-    {
-      "question": "Snižuje převod kvalitu?",
-      "answer": "Ne. PNG používá bezztrátovou kompresi, takže si zachováváte původní vizuální detaily."
-    },
-    {
-      "question": "Podporujete animovaný WebP?",
-      "answer": "Animovaný WebP je převeden na statické PNG pomocí prvního snímku."
-    },
-    {
-      "question": "Jaká je maximální velikost souboru?",
-      "answer": "Až 16 MB na soubor."
-    },
-    {
-      "question": "Mohu převést více souborů najednou?",
-      "answer": "Tato stránka převádí jeden soubor najednou pro stabilitu. Opakujte proces pro další obrázky."
-    },
-    {
-      "question": "Jsou mé soubory bezpečné?",
-      "answer": "Ano. Nahrání jsou šifrována, zpracovávána na bezpečných serverech a automaticky mazána po převodu."
+
     }
-  ],
-  "note": "PNG soubory mohou být větší než WebP kvůli bezztrátové kompresi—je to normální a zachovává maximální kvalitu.",
+    {
+      "question": "Bude průhlednost zachována?"
+
+      "answer": "Ano. PNG plně podporuje alpha průhlednost a my ji zachováváme."
+
+    }
+    {
+      "question": "Snižuje převod kvalitu?"
+
+      "answer": "Ne. PNG používá bezztrátovou kompresi, takže si zachováváte původní vizuální detaily."
+
+    }
+    {
+      "question": "Podporujete animovaný WebP?"
+
+      "answer": "Animovaný WebP je převeden na statické PNG pomocí prvního snímku."
+
+    }
+    {
+      "question": "Jaká je maximální velikost souboru?"
+
+      "answer": "Až 16 MB na soubor."
+
+    }
+    {
+      "question": "Mohu převést více souborů najednou?"
+
+      "answer": "Tato stránka převádí jeden soubor najednou pro stabilitu. Opakujte proces pro další obrázky."
+
+    }
+    {
+      "question": "Jsou mé soubory bezpečné?"
+
+      "answer": "Ano. Nahrání jsou šifrována, zpracovávána na bezpečných serverech a automaticky mazána po převodu."
+
+    }
+  ]
+  "note": "PNG soubory mohou být větší než WebP kvůli bezztrátové kompresi—je to normální a zachovává maximální kvalitu."
+
   "related_links": [
     {
-      "title": "Převést WebP na JPG",
+      "title": "Převést WebP na JPG"
+
       "url": "/cs/convert/webp-to-jpg"
-    },
-    {
-      "title": "Převést WebP na AVIF",
-      "url": "/cs/convert/webp-to-avif"
-    },
-    {
-      "title": "Převést PNG na WebP",
-      "url": "/cs/convert/png-to-webp"
-    },
-    {
-      "title": "Kompresovat PNG Online",
-      "url": "/cs/edit/compress-image"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Všechna práva vyhrazena.",
+    {
+      "title": "Převést WebP na AVIF"
+
+      "url": "/cs/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Převést PNG na WebP"
+
+      "url": "/cs/convert/png-to-webp"
+
+    }
+    {
+      "title": "Kompresovat PNG Online"
+
+      "url": "/cs/edit/compress-image"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP na PNG Konvertor - Zdarma & Online",
-      "url": "https://wikihowto.click/cs/convert/webp-to-png",
-      "description": "Bezplatný online nástroj pro převod WebP obrázků na PNG s zachovanou průhledností.",
-      "inLanguage": "cs",
-      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP na PNG Konvertor - Zdarma & Online"
+
+      "url": "https://miconvert.com/cs/convert/webp-to-png"
+
+      "description": "Bezplatný online nástroj pro převod WebP obrázků na PNG s zachovanou průhledností."
+
+      "inLanguage": "cs"
+
+      "image": "https://miconvert.com/images/webp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Domov",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Domov"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Převést",
-          "item": "https://wikihowto.click/cs/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Převést"
+
+          "item": "https://miconvert.com/cs/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP na PNG",
-          "item": "https://wikihowto.click/cs/convert/webp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP na PNG"
+
+          "item": "https://miconvert.com/cs/convert/webp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP na PNG Konvertor",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/cs/convert/webp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP na PNG Konvertor"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/cs/convert/webp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Průhlednost zachována",
-        "Bezztrátový výstup",
+        "Průhlednost zachována"
+
+        "Bezztrátový výstup"
+
         "Rychlé zpracování"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Bude průhlednost zachována?",
+          "@type": "Question"
+
+          "name": "Bude průhlednost zachována?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Ano, PNG plně podporuje alpha průhlednost a konvertor ji zachovává."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Podporujete animovaný WebP?",
+          "@type": "Question"
+
+          "name": "Podporujete animovaný WebP?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Animovaný WebP je převeden jako statické PNG pomocí prvního snímku."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Jaká je maximální velikost souboru?",
+          "@type": "Question"
+
+          "name": "Jaká je maximální velikost souboru?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Až 16 MB na soubor."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Jak převést WebP na PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Jak převést WebP na PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikněte na Nahrát WebP a vyberte svůj soubor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Počkejte, až se bezpečné zpracování dokončí."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikněte na Stáhnout PNG, abyste uložili svůj obrázek."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Počkejte, až se bezpečné zpracování dokončí."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikněte na Stáhnout PNG, abyste uložili svůj obrázek."
+
+        }
+      ]
       "tool": [
         "WebP na PNG Konvertor"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

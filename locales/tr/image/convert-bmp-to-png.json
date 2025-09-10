@@ -1,244 +1,365 @@
 {
-  "lang": "tr",
-  "lang_name": "Türkçe",
-  "title": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi | WikiHowTo.click",
-  "sub_title": "BMP görüntülerini çevrimiçi olarak şeffaflık desteği, daha iyi sıkıştırma ve su işareti olmadan PNG formatına dönüştürün.",
-  "hint": "Dönüştürmeye başlamak için BMP görüntünüzü yükleyin...",
-  "btn_download": "PNG'ye Dönüştür",
-  "btn_paste": "BMP Yükle",
-  "btn_clear": "Temizle",
+  "lang": "tr"
+
+  "lang_name": "Türkçe"
+
+  "title": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi | miconvert.com"
+
+  "sub_title": "BMP görüntülerini çevrimiçi olarak şeffaflık desteği, daha iyi sıkıştırma ve su işareti olmadan PNG formatına dönüştürün."
+
+  "hint": "Dönüştürmeye başlamak için BMP görüntünüzü yükleyin..."
+
+  "btn_download": "PNG'ye Dönüştür"
+
+  "btn_paste": "BMP Yükle"
+
+  "btn_clear": "Temizle"
+
   "converter": {
-    "type": "bmp-to-png",
-    "inputFormat": "BMP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "bmp-to-png"
+
+    "inputFormat": "BMP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/bmp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p><strong>BMP'yi PNG'ye</strong> dönüştürerek daha iyi sıkıştırma ve web uyumluluğu elde edin! Ücretsiz çevrimiçi BMP'den PNG'ye dönüştürücümüz, büyük BMP dosyalarınızı optimize edilmiş PNG formatına dönüştürmenize yardımcı olur. BMP (Bitmap) dosyaları genellikle sıkıştırılmamış olup çok büyük olabilir, bu da onları web kullanımı veya paylaşım için uygun hale getirmez. PNG, kaliteyi korurken mükemmel sıkıştırma sunar, modern uygulamalar ve web siteleri için idealdir.</p><p>PNG kayıpsız sıkıştırma, şeffaflık desteği ve tüm platformlarda evrensel uyumluluk sağlar. Dönüştürücümüz, görsel detayları korurken BMP görüntülerinizi optimize eder. Ekran görüntüleri, grafikler veya web için görüntülerle çalışıyorsanız, bu araç dosya boyutunu kalite kaybı olmadan azaltır.</p>",
+  }
+  "description": "<p><strong>BMP'yi PNG'ye</strong> dönüştürerek daha iyi sıkıştırma ve web uyumluluğu elde edin! Ücretsiz çevrimiçi BMP'den PNG'ye dönüştürücümüz, büyük BMP dosyalarınızı optimize edilmiş PNG formatına dönüştürmenize yardımcı olur. BMP (Bitmap) dosyaları genellikle sıkıştırılmamış olup çok büyük olabilir, bu da onları web kullanımı veya paylaşım için uygun hale getirmez. PNG, kaliteyi korurken mükemmel sıkıştırma sunar, modern uygulamalar ve web siteleri için idealdir.</p><p>PNG kayıpsız sıkıştırma, şeffaflık desteği ve tüm platformlarda evrensel uyumluluk sağlar. Dönüştürücümüz, görsel detayları korurken BMP görüntülerinizi optimize eder. Ekran görüntüleri, grafikler veya web için görüntülerle çalışıyorsanız, bu araç dosya boyutunu kalite kaybı olmadan azaltır.</p>"
+
   "head": {
-    "title": "BMP'yi PNG'ye Çevrimiçi Dönüştür - Ücretsiz BMP'den PNG'ye Dönüştürücü | WikiHowTo.click",
-    "description": "BMP'yi PNG'ye çevrimiçi olarak daha iyi sıkıştırma, şeffaflık desteği ve su işareti olmadan dönüştürün. Ücretsiz, hızlı ve güvenli BMP'den PNG'ye dönüştürücü aracı.",
-    "keywords": "bmp'den png'ye, bmp'yi png'ye dönüştür, ücretsiz bmp'den png'ye, çevrimiçi bmp dönüştürücü, bitmap'ten png'ye",
-    "canonical": "https://wikihowto.click/tr/convert/bmp-to-png",
-    "og_title": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
-    "og_description": "BMP görüntülerini daha iyi sıkıştırma ve şeffaflık desteği ile PNG formatına dönüştürün. %100 ücretsiz, hızlı ve güvenli.",
-    "og_url": "https://wikihowto.click/tr/convert/bmp-to-png",
-    "og_image": "https://wikihowto.click/images/bmp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Ücretsiz BMP'den PNG'ye Dönüştürücü Çevrimiçi",
-    "twitter_description": "BMP'yi daha iyi sıkıştırma, şeffaflık desteği ve su işareti olmadan PNG'ye dönüştürün. Tüm cihazlarda çalışır.",
-    "twitter_image": "https://wikihowto.click/images/bmp-to-png.jpg"
-  },
+    "title": "BMP'yi PNG'ye Çevrimiçi Dönüştür - Ücretsiz BMP'den PNG'ye Dönüştürücü | miconvert.com"
+
+    "description": "BMP'yi PNG'ye çevrimiçi olarak daha iyi sıkıştırma, şeffaflık desteği ve su işareti olmadan dönüştürün. Ücretsiz, hızlı ve güvenli BMP'den PNG'ye dönüştürücü aracı."
+
+    "keywords": "bmp'den png'ye, bmp'yi png'ye dönüştür, ücretsiz bmp'den png'ye, çevrimiçi bmp dönüştürücü, bitmap'ten png'ye"
+
+    "canonical": "https://miconvert.com/tr/convert/bmp-to-png"
+
+    "og_title": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi"
+
+    "og_description": "BMP görüntülerini daha iyi sıkıştırma ve şeffaflık desteği ile PNG formatına dönüştürün. %100 ücretsiz, hızlı ve güvenli."
+
+    "og_url": "https://miconvert.com/tr/convert/bmp-to-png"
+
+    "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "BMP'yi PNG'ye Çevrimiçi Dönüştür",
+    "title": "BMP'yi PNG'ye Çevrimiçi Dönüştür"
+
     "description": "Daha iyi sıkıştırma ve şeffaflık desteği ile ücretsiz ve hızlı BMP'den PNG'ye dönüştürücü. Herhangi bir cihazda anında çalışır, kayıt gerektirmez."
-  },
+
+  }
   "h2": [
     {
-      "title": "Neden BMP'yi PNG'ye Dönüştürmeliyim?",
+      "title": "Neden BMP'yi PNG'ye Dönüştürmeliyim?"
+
       "description": "<p>BMP dosyaları genellikle sıkıştırılmamış ve son derece büyükken, PNG modern özellikler ve verimli boyut sunar. BMP'yi PNG'ye dönüştürmenin avantajları:</p><ul><li><strong>Daha İyi Sıkıştırma:</strong> PNG dosyaları genellikle BMP'den %50–90 daha küçüktür.</li><li><strong>Şeffaflık Desteği:</strong> PNG, temiz kenarlar için alfa şeffaflığını destekler.</li><li><strong>Web Uyumluluğu:</strong> Web siteleri ve çevrimiçi paylaşım için idealdir.</li><li><strong>Evrensel Destek:</strong> Tüm modern cihazlar ve uygulamalarla çalışır.</li><li><strong>Kalite Koruma:</strong> Kayıpsız sıkıştırma detayları korur.</li></ul>"
-    },
-    {
-      "title": "BMP'yi PNG'ye Çevrimiçi Nasıl Dönüştürülür",
-      "description": "<p>Yalnızca birkaç adım:</p><ol><li><em>BMP Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlem ve optimizasyon için bekleyin.</li><li>Optimize edilmiş dosyanızı kaydetmek için <em>PNG İndir</em> butonuna tıklayın.</li></ol><p>Teknik beceri gerektirmez — sıkıştırma otomatik olarak ayarlanır.</p>"
-    },
-    {
-      "title": "BMP ile PNG Karşılaştırması",
-      "description": "<ul><li><strong>Dosya Boyutu:</strong> PNG genellikle BMP'den %50–90 daha küçüktür.</li><li><strong>Sıkıştırma:</strong> PNG kayıpsızdır; BMP genellikle sıkıştırılmamıştır.</li><li><strong>Şeffaflık:</strong> PNG şeffaflığı destekler; BMP genellikle desteklemez.</li><li><strong>Web Kullanımı:</strong> PNG web dostudur; BMP önerilmez.</li><li><strong>Kalite:</strong> Her ikisi de yüksek kaliteli olabilir; PNG daha küçük boyutla bunu başarır.</li></ul>"
-    },
-    {
-      "title": "Desteklenen Sınırlar ve Formatlar",
-      "description": "<ul><li><strong>Kabul edilen giriş:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16 MB'a kadar</li><li><strong>Çıktı:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Sıkıştırma seviyesi:</strong> 0–9 (varsayılan 6)</li></ul>"
-    },
-    {
-      "title": "BMP'den PNG'ye Dönüştürücümüzün Özellikleri",
-      "description": "<ul><li>%100 ücretsiz, su işareti yok</li><li>Otomatik sıkıştırma optimizasyonu</li><li>Kalite korunur (kayıpsız PNG)</li><li>Güvenli, tarayıcı tabanlı iş akışı</li><li>Mobil uyumlu (iOS, Android)</li></ul>"
-    },
-    {
-      "title": "BMP Nedir?",
-      "description": "<p>BMP (Bitmap), genellikle sıkıştırılmamış olan basit bir raster görüntü formatıdır — bu da çok büyük dosyalarla sonuçlanır. Uyumlu ancak web için verimsizdir.</p>"
-    },
-    {
-      "title": "PNG Nedir?",
-      "description": "<p>PNG (Taşınabilir Ağ Grafikleri), şeffaflık desteği olan kayıpsız bir raster formattır ve UI, grafikler, ekran görüntüleri ve web için yaygın olarak kullanılır.</p>"
-    },
-    {
-      "title": "Sorun Giderme",
-      "description": "<ul><li><strong>Yükleme başarısız oldu:</strong> Dosyanın BMP olduğundan ve ≤ 16 MB olduğundan emin olun.</li><li><strong>PNG hala büyük:</strong> Daha düşük bir sıkıştırma seviyesi deneyin veya <a href='/tr/edit/compress-image'>Görüntü Sıkıştırıcımızı</a> kullanın.</li><li><strong>Şeffaflık gerekli:</strong> PNG şeffaflığı destekler, ancak BMP'niz katı bir arka plana sahipse, önce <a href='/tr/effect/remove-background'>Arka Plan Kaldırıcıyı</a> kullanarak kaldırın.</li></ul>"
-    },
-    {
-      "title": "Kullanım Durumları: BMP'yi PNG'ye Ne Zaman Dönüştürmeliyim",
-      "description": "<ul><li><strong>Web yüklemeleri</strong> için daha küçük boyut.</li><li><strong>Şeffaf arka plana ihtiyaç duyan grafikler ve logolar.</li><li><strong>Kalite kaybı olmadan depolama optimizasyonu.</li><li><strong>Çapraz platform paylaşımı</strong> ve arşivleme.</li></ul>"
+
     }
-  ],
+    {
+      "title": "BMP'yi PNG'ye Çevrimiçi Nasıl Dönüştürülür"
+
+      "description": "<p>Yalnızca birkaç adım:</p><ol><li><em>BMP Yükle</em> butonuna tıklayın ve dosyanızı seçin.</li><li>İşlem ve optimizasyon için bekleyin.</li><li>Optimize edilmiş dosyanızı kaydetmek için <em>PNG İndir</em> butonuna tıklayın.</li></ol><p>Teknik beceri gerektirmez — sıkıştırma otomatik olarak ayarlanır.</p>"
+
+    }
+    {
+      "title": "BMP ile PNG Karşılaştırması"
+
+      "description": "<ul><li><strong>Dosya Boyutu:</strong> PNG genellikle BMP'den %50–90 daha küçüktür.</li><li><strong>Sıkıştırma:</strong> PNG kayıpsızdır; BMP genellikle sıkıştırılmamıştır.</li><li><strong>Şeffaflık:</strong> PNG şeffaflığı destekler; BMP genellikle desteklemez.</li><li><strong>Web Kullanımı:</strong> PNG web dostudur; BMP önerilmez.</li><li><strong>Kalite:</strong> Her ikisi de yüksek kaliteli olabilir; PNG daha küçük boyutla bunu başarır.</li></ul>"
+
+    }
+    {
+      "title": "Desteklenen Sınırlar ve Formatlar"
+
+      "description": "<ul><li><strong>Kabul edilen giriş:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16 MB'a kadar</li><li><strong>Çıktı:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Sıkıştırma seviyesi:</strong> 0–9 (varsayılan 6)</li></ul>"
+
+    }
+    {
+      "title": "BMP'den PNG'ye Dönüştürücümüzün Özellikleri"
+
+      "description": "<ul><li>%100 ücretsiz, su işareti yok</li><li>Otomatik sıkıştırma optimizasyonu</li><li>Kalite korunur (kayıpsız PNG)</li><li>Güvenli, tarayıcı tabanlı iş akışı</li><li>Mobil uyumlu (iOS, Android)</li></ul>"
+
+    }
+    {
+      "title": "BMP Nedir?"
+
+      "description": "<p>BMP (Bitmap), genellikle sıkıştırılmamış olan basit bir raster görüntü formatıdır — bu da çok büyük dosyalarla sonuçlanır. Uyumlu ancak web için verimsizdir.</p>"
+
+    }
+    {
+      "title": "PNG Nedir?"
+
+      "description": "<p>PNG (Taşınabilir Ağ Grafikleri), şeffaflık desteği olan kayıpsız bir raster formattır ve UI, grafikler, ekran görüntüleri ve web için yaygın olarak kullanılır.</p>"
+
+    }
+    {
+      "title": "Sorun Giderme"
+
+      "description": "<ul><li><strong>Yükleme başarısız oldu:</strong> Dosyanın BMP olduğundan ve ≤ 16 MB olduğundan emin olun.</li><li><strong>PNG hala büyük:</strong> Daha düşük bir sıkıştırma seviyesi deneyin veya <a href='/tr/edit/compress-image'>Görüntü Sıkıştırıcımızı</a> kullanın.</li><li><strong>Şeffaflık gerekli:</strong> PNG şeffaflığı destekler, ancak BMP'niz katı bir arka plana sahipse, önce <a href='/tr/effect/remove-background'>Arka Plan Kaldırıcıyı</a> kullanarak kaldırın.</li></ul>"
+
+    }
+    {
+      "title": "Kullanım Durumları: BMP'yi PNG'ye Ne Zaman Dönüştürmeliyim"
+
+      "description": "<ul><li><strong>Web yüklemeleri</strong> için daha küçük boyut.</li><li><strong>Şeffaf arka plana ihtiyaç duyan grafikler ve logolar.</li><li><strong>Kalite kaybı olmadan depolama optimizasyonu.</li><li><strong>Çapraz platform paylaşımı</strong> ve arşivleme.</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "Bu BMP'den PNG'ye dönüştürücü ücretsiz mi?",
+      "question": "Bu BMP'den PNG'ye dönüştürücü ücretsiz mi?"
+
       "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
-    },
-    {
-      "question": "BMP'yi PNG'ye dönüştürürken kalite kaybı yaşar mıyım?",
-      "answer": "Hayır. PNG kayıpsız sıkıştırma kullanır, bu nedenle dönüştürme sırasında kalite kaybı yaşamazsınız."
-    },
-    {
-      "question": "Dosyam ne kadar daha küçük olacak?",
-      "answer": "PNG dosyaları genellikle BMP'den %50–90 daha küçüktür ve aynı görsel kaliteyi korur."
-    },
-    {
-      "question": "Hangi dosya boyutları destekleniyor?",
-      "answer": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
-    },
-    {
-      "question": "Dosyalarım güvende mi?",
-      "answer": "Dosyalar otomatik olarak işlenir ve dönüştürme için gerekli olandan daha uzun süre saklanmaz."
-    },
-    {
-      "question": "Birden fazla BMP dosyasını aynı anda dönüştürebilir miyim?",
-      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
-    },
-    {
-      "question": "PNG'yi BMP yerine ne zaman kullanmalıyım?",
-      "answer": "Web kullanımı, daha küçük dosya boyutları ve şeffaflık gerektiğinde PNG kullanın. BMP, genellikle sıkıştırılmamış görüntüler gerektiren iş akışları içindir."
+
     }
-  ],
-  "note": "PNG dönüşümü, kaliteyi korurken dosya boyutunu önemli ölçüde azaltacaktır — web ve paylaşım için idealdir.",
+    {
+      "question": "BMP'yi PNG'ye dönüştürürken kalite kaybı yaşar mıyım?"
+
+      "answer": "Hayır. PNG kayıpsız sıkıştırma kullanır, bu nedenle dönüştürme sırasında kalite kaybı yaşamazsınız."
+
+    }
+    {
+      "question": "Dosyam ne kadar daha küçük olacak?"
+
+      "answer": "PNG dosyaları genellikle BMP'den %50–90 daha küçüktür ve aynı görsel kaliteyi korur."
+
+    }
+    {
+      "question": "Hangi dosya boyutları destekleniyor?"
+
+      "answer": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+
+    }
+    {
+      "question": "Dosyalarım güvende mi?"
+
+      "answer": "Dosyalar otomatik olarak işlenir ve dönüştürme için gerekli olandan daha uzun süre saklanmaz."
+
+    }
+    {
+      "question": "Birden fazla BMP dosyasını aynı anda dönüştürebilir miyim?"
+
+      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
+
+    }
+    {
+      "question": "PNG'yi BMP yerine ne zaman kullanmalıyım?"
+
+      "answer": "Web kullanımı, daha küçük dosya boyutları ve şeffaflık gerektiğinde PNG kullanın. BMP, genellikle sıkıştırılmamış görüntüler gerektiren iş akışları içindir."
+
+    }
+  ]
+  "note": "PNG dönüşümü, kaliteyi korurken dosya boyutunu önemli ölçüde azaltacaktır — web ve paylaşım için idealdir."
+
   "related_links": [
     {
-      "title": "BMP'yi JPG'ye Dönüştür",
+      "title": "BMP'yi JPG'ye Dönüştür"
+
       "url": "/tr/convert/bmp-to-jpg"
-    },
-    {
-      "title": "JPG'yi PNG'ye Dönüştür",
-      "url": "/tr/convert/jpg-to-png"
-    },
-    {
-      "title": "PNG'yi BMP'ye Dönüştür",
-      "url": "/tr/convert/png-to-bmp"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Tüm hakları saklıdır.",
+    {
+      "title": "JPG'yi PNG'ye Dönüştür"
+
+      "url": "/tr/convert/jpg-to-png"
+
+    }
+    {
+      "title": "PNG'yi BMP'ye Dönüştür"
+
+      "url": "/tr/convert/png-to-bmp"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Tüm hakları saklıdır."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi",
-      "url": "https://wikihowto.click/tr/convert/bmp-to-png",
-      "description": "BMP görüntülerini kayıpsız sıkıştırma ve şeffaflık desteği ile PNG'ye dönüştürmek için ücretsiz çevrimiçi araç.",
-      "inLanguage": "tr",
-      "image": "https://wikihowto.click/images/bmp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "BMP'den PNG'ye Dönüştürücü - Ücretsiz & Çevrimiçi"
+
+      "url": "https://miconvert.com/tr/convert/bmp-to-png"
+
+      "description": "BMP görüntülerini kayıpsız sıkıştırma ve şeffaflık desteği ile PNG'ye dönüştürmek için ücretsiz çevrimiçi araç."
+
+      "inLanguage": "tr"
+
+      "image": "https://miconvert.com/images/bmp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Ana Sayfa",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Ana Sayfa"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Dönüştür",
-          "item": "https://wikihowto.click/tr/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Dönüştür"
+
+          "item": "https://miconvert.com/tr/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "BMP'den PNG'ye",
-          "item": "https://wikihowto.click/tr/convert/bmp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "BMP'den PNG'ye"
+
+          "item": "https://miconvert.com/tr/convert/bmp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "BMP'den PNG'ye Dönüştürücü",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/tr/convert/bmp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "BMP'den PNG'ye Dönüştürücü"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/tr/convert/bmp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Kayıpsız PNG çıktısı",
-        "Şeffaflık desteği",
+        "Kayıpsız PNG çıktısı"
+
+        "Şeffaflık desteği"
+
         "Hızlı tarayıcı işleme"
-      ],
-      "screenshot": "https://wikihowto.click/images/bmp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "Bu BMP'den PNG'ye dönüştürücü ücretsiz mi?",
+          "@type": "Question"
+
+          "name": "Bu BMP'den PNG'ye dönüştürücü ücretsiz mi?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Dosyam ne kadar daha küçük olacak?",
+          "@type": "Question"
+
+          "name": "Dosyam ne kadar daha küçük olacak?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "PNG dosyaları genellikle BMP'den %50–90 daha küçüktür ve aynı görsel kaliteyi korur."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Hangi dosya boyutları destekleniyor?",
+          "@type": "Question"
+
+          "name": "Hangi dosya boyutları destekleniyor?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "BMP'yi PNG'ye nasıl dönüştürülür",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "BMP'yi PNG'ye nasıl dönüştürülür"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "BMP Yükle butonuna tıklayın ve dosyanızı seçin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "İşlem ve optimizasyonun tamamlanmasını bekleyin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sonucu kaydetmek için PNG İndir butonuna tıklayın."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "İşlem ve optimizasyonun tamamlanmasını bekleyin."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Sonucu kaydetmek için PNG İndir butonuna tıklayın."
+
+        }
+      ]
       "tool": [
         "BMP'den PNG'ye Dönüştürücü"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }

@@ -1,237 +1,355 @@
 {
-  "lang": "sq",
-  "lang_name": "Shqip",
-  "title": "WebP në PNG Konvertues - Falas & Online | WikiHowTo.click",
-  "sub_title": "Konvertoni imazhet WebP në formatin PNG online me mbështetje për transparencën, cilësi pa humbje dhe pa marka uji.",
-  "hint": "Ngarko imazhin tuaj WebP për të filluar konvertimin...",
-  "btn_download": "Konverto në PNG",
-  "btn_paste": "Ngarko WebP",
-  "btn_clear": "Pastro",
-  "ogImage": "https://wikihowto.click/images/webp-to-png.jpg",
+  "lang": "sq"
+
+  "lang_name": "Shqip"
+
+  "title": "WebP në PNG Konvertues - Falas & Online | miconvert.com"
+
+  "sub_title": "Konvertoni imazhet WebP në formatin PNG online me mbështetje për transparencën, cilësi pa humbje dhe pa marka uji."
+
+  "hint": "Ngarko imazhin tuaj WebP për të filluar konvertimin..."
+
+  "btn_download": "Konverto në PNG"
+
+  "btn_paste": "Ngarko WebP"
+
+  "btn_clear": "Pastro"
+
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
+
   "converter": {
-    "type": "webp-to-png",
-    "inputFormat": "WebP",
-    "outputFormat": "PNG",
-    "apiEndpoint": "/image-converter/convert-single",
+    "type": "webp-to-png"
+
+    "inputFormat": "WebP"
+
+    "outputFormat": "PNG"
+
+    "apiEndpoint": "/image-converter/convert-single"
+
     "allowedTypes": [
       "image/webp"
-    ],
-    "maxFileSize": 16777216,
-    "outputMimeType": "image/png",
-    "outputExtension": ".png",
-    "quality": 90,
+
+    ]
+    "maxFileSize": 16777216
+    "outputMimeType": "image/png"
+
+    "outputExtension": ".png"
+
+    "quality": 90
     "options": {
       "png": {
-        "compressionLevel": 6,
+        "compressionLevel": 6
         "progressive": false
       }
     }
-  },
-  "description": "<p>Keni nevojë të <strong>konvertoni WebP në PNG</strong>? Ky mjet falas online kthen skedarët modernë WebP në PNG me cilësi të lartë duke ruajtur <strong>transparencën (alpha)</strong>. PNG përdor kompresim pa humbje dhe mbështetet gjerësisht në aplikacione dhe platforma—ideal për logot, asetet UI dhe dokumentet.</p><p><em>Shënime:</em> JPG nuk mbështet transparencën (PNG e mbështet). Nëse WebP juaj është animuar, vetëm <strong>korniza e parë</strong> do të konvertohet në një PNG statik. Ngjyrat konvertohen në sRGB për konsistencën në web.</p>",
+  }
+  "description": "<p>Keni nevojë të <strong>konvertoni WebP në PNG</strong>? Ky mjet falas online kthen skedarët modernë WebP në PNG me cilësi të lartë duke ruajtur <strong>transparencën (alpha)</strong>. PNG përdor kompresim pa humbje dhe mbështetet gjerësisht në aplikacione dhe platforma—ideal për logot, asetet UI dhe dokumentet.</p><p><em>Shënime:</em> JPG nuk mbështet transparencën (PNG e mbështet). Nëse WebP juaj është animuar, vetëm <strong>korniza e parë</strong> do të konvertohet në një PNG statik. Ngjyrat konvertohen në sRGB për konsistencën në web.</p>"
+
   "head": {
-    "title": "Konverto WebP në PNG Online - Falas WebP në PNG Konvertues | WikiHowTo.click",
-    "description": "Konvertoni WebP në PNG online me mbështetje për transparencën, cilësi pa humbje dhe pa marka uji. Mjet falas, i shpejtë dhe i sigurt për konvertimin nga WebP në PNG.",
-    "keywords": "webp në png, konverto webp në png, falas webp në png, konvertues online webp, ndrysho webp në png, imazh webp në png",
-    "canonical": "https://wikihowto.click/en/convert/webp-to-png",
-    "og_title": "WebP në PNG Konvertues - Falas & Online",
-    "og_description": "Konvertoni imazhet WebP në formatin PNG me mbështetje për transparencën dhe cilësi pa humbje. 100% falas, i shpejtë dhe i sigurt.",
-    "og_url": "https://wikihowto.click/en/convert/webp-to-png",
-    "og_image": "https://wikihowto.click/images/webp-to-png.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_title": "Falas WebP në PNG Konvertues Online",
-    "twitter_description": "Konvertoni WebP në PNG me mbështetje për transparencën, cilësi pa humbje dhe pa marka uji. Punon në të gjitha pajisjet.",
-    "twitter_image": "https://wikihowto.click/images/webp-to-png.jpg"
-  },
+    "title": "Konverto WebP në PNG Online - Falas WebP në PNG Konvertues | miconvert.com"
+
+    "description": "Konvertoni WebP në PNG online me mbështetje për transparencën, cilësi pa humbje dhe pa marka uji. Mjet falas, i shpejtë dhe i sigurt për konvertimin nga WebP në PNG."
+
+    "keywords": "webp në png, konverto webp në png, falas webp në png, konvertues online webp, ndrysho webp në png, imazh webp në png"
+
+    "canonical": "https://miconvert.com/en/convert/webp-to-png"
+
+    "og_title": "WebP në PNG Konvertues - Falas & Online"
+
+    "og_description": "Konvertoni imazhet WebP në formatin PNG me mbështetje për transparencën dhe cilësi pa humbje. 100% falas, i shpejtë dhe i sigurt."
+
+    "og_url": "https://miconvert.com/en/convert/webp-to-png"
+
+    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
+
+  }
   "h1": {
-    "title": "Konverto WebP në PNG Online",
+    "title": "Konverto WebP në PNG Online"
+
     "description": "Falas dhe i shpejtë WebP në PNG konvertues me mbështetje për transparencën dhe cilësi pa humbje. Punon menjëherë në çdo pajisje, pa nevojë për regjistrim."
-  },
+
+  }
   "h2": [
     {
-      "title": "Pse të Konvertoni WebP në PNG?",
+      "title": "Pse të Konvertoni WebP në PNG?"
+
       "description": "<p>WebP është efikas për web-in, por PNG ofron maksimumin e kompatibilitetit dhe daljen pa humbje:</p><ul><li><strong>Kompatibilitet Universal:</strong> Punon në Windows, macOS, Linux, iOS dhe Android.</li><li><strong>Transparenca:</strong> Ideale për logot, ikonat dhe grafikët UI.</li><li><strong>Redaktimi & Dizajni:</strong> Preferohet nga Photoshop, Illustrator, Figma dhe më shumë.</li><li><strong>Dokumentet:</strong> Futni PNG në Word, PowerPoint dhe PDF pa surpriza.</li></ul>"
-    },
-    {
-      "title": "Si të Konvertoni WebP në PNG Online",
-      "description": "<ol><li>Klikoni <em>Ngarko WebP</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni pak ndërsa ne e përpunojmë atë në mënyrë të sigurt.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur imazhin tuaj.</li></ol><p>Kjo faqe konverton <strong>një skedar në një kohë</strong> për të siguruar besueshmëri dhe shpejtësi.</p>"
-    },
-    {
-      "title": "Krahasimi WebP vs PNG",
-      "description": "<ul><li><strong>Shkalla e Skedarit:</strong> WebP është zakonisht 30–50% më i vogël; PNG është më i madh por pa humbje.</li><li><strong>Transparenca:</strong> Të dy mbështesin alpha; PNG është standardi profesional.</li><li><strong>Redaktimi:</strong> PNG integron pastër me shumicën e mjeteve të dizajnit.</li><li><strong>Rasti i Përdorimit:</strong> WebP për faqet e internetit; PNG për aplikacione, dokumente dhe flukse dizajni.</li></ul>"
-    },
-    {
-      "title": "Kufijtë & Format e Mbështetur",
-      "description": "<ul><li><strong>Input i Pranuar:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimumi i madhësisë së skedarit:</strong> 16&nbsp;MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animacioni:</strong> Vetëm korniza e parë</li></ul>"
-    },
-    {
-      "title": "Zgjidhja e Problemeve",
-      "description": "<ul><li><strong>Akoma shumë e madhe?</strong> Përdorni <a href='/en/edit/compress-image'>Kompresorin PNG</a> ose rregulloni madhësinë para se të konvertoni.</li><li><strong>Ngjyrat duken të çuditshme:</strong> Dalja konvertohet në sRGB për shfaqje të qëndrueshme.</li><li><strong>Ngarkimi dështoi:</strong> Sigurohuni që skedari është <code>image/webp</code> dhe ≤ 16&nbsp;MB.</li></ul>"
-    },
-    {
-      "title": "Mjetet e Lidhuara që Mund t'Ju Nevojiten",
-      "description": "<ul><li><a href='/en/convert/png-to-webp'>Konvertues PNG në WebP</a> – zvogëloni madhësinë e skedarit për faqe më të shpejta</li><li><a href='/en/edit/compress-image'>Kompresori PNG</a> – reduktoni madhësinë e PNG me kontrollin e cilësisë</li><li><a href='/en/effect/remove-background'>Hiqni Sfondin</a> – bëni PNG transparent shpejt</li><li><a href='/en/convert/jpg-to-png'>Konvertues JPG në PNG</a> – kaloni formate të tjera në PNG</li></ul>"
+
     }
-  ],
+    {
+      "title": "Si të Konvertoni WebP në PNG Online"
+
+      "description": "<ol><li>Klikoni <em>Ngarko WebP</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni pak ndërsa ne e përpunojmë atë në mënyrë të sigurt.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur imazhin tuaj.</li></ol><p>Kjo faqe konverton <strong>një skedar në një kohë</strong> për të siguruar besueshmëri dhe shpejtësi.</p>"
+
+    }
+    {
+      "title": "Krahasimi WebP vs PNG"
+
+      "description": "<ul><li><strong>Shkalla e Skedarit:</strong> WebP është zakonisht 30–50% më i vogël; PNG është më i madh por pa humbje.</li><li><strong>Transparenca:</strong> Të dy mbështesin alpha; PNG është standardi profesional.</li><li><strong>Redaktimi:</strong> PNG integron pastër me shumicën e mjeteve të dizajnit.</li><li><strong>Rasti i Përdorimit:</strong> WebP për faqet e internetit; PNG për aplikacione, dokumente dhe flukse dizajni.</li></ul>"
+
+    }
+    {
+      "title": "Kufijtë & Format e Mbështetur"
+
+      "description": "<ul><li><strong>Input i Pranuar:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimumi i madhësisë së skedarit:</strong> 16&nbsp;MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animacioni:</strong> Vetëm korniza e parë</li></ul>"
+
+    }
+    {
+      "title": "Zgjidhja e Problemeve"
+
+      "description": "<ul><li><strong>Akoma shumë e madhe?</strong> Përdorni <a href='/en/edit/compress-image'>Kompresorin PNG</a> ose rregulloni madhësinë para se të konvertoni.</li><li><strong>Ngjyrat duken të çuditshme:</strong> Dalja konvertohet në sRGB për shfaqje të qëndrueshme.</li><li><strong>Ngarkimi dështoi:</strong> Sigurohuni që skedari është <code>image/webp</code> dhe ≤ 16&nbsp;MB.</li></ul>"
+
+    }
+    {
+      "title": "Mjetet e Lidhuara që Mund t'Ju Nevojiten"
+
+      "description": "<ul><li><a href='/en/convert/png-to-webp'>Konvertues PNG në WebP</a> – zvogëloni madhësinë e skedarit për faqe më të shpejta</li><li><a href='/en/edit/compress-image'>Kompresori PNG</a> – reduktoni madhësinë e PNG me kontrollin e cilësisë</li><li><a href='/en/effect/remove-background'>Hiqni Sfondin</a> – bëni PNG transparent shpejt</li><li><a href='/en/convert/jpg-to-png'>Konvertues JPG në PNG</a> – kaloni formate të tjera në PNG</li></ul>"
+
+    }
+  ]
   "faq": [
     {
-      "question": "A është ky konvertues WebP në PNG falas?",
+      "question": "A është ky konvertues WebP në PNG falas?"
+
       "answer": "Po, është krejtësisht falas pa marka uji ose tarifa të fshehura."
-    },
-    {
-      "question": "A do të ruhet transparenca?",
-      "answer": "Po. PNG mbështet plotësisht transparencën alpha dhe ne e ruajmë atë të paprekur."
-    },
-    {
-      "question": "A redukton konvertimi cilësinë?",
-      "answer": "Jo. PNG përdor kompresim pa humbje, kështu që ju ruani detajet vizuale origjinale."
-    },
-    {
-      "question": "A mbështesni WebP të animuar?",
-      "answer": "WebP i animuar konvertohet në një PNG statik duke përdorur kornizën e parë."
-    },
-    {
-      "question": "Cila është madhësia maksimale e skedarit?",
-      "answer": "Derisa në 16 MB për skedar."
-    },
-    {
-      "question": "A mund të konvertoj disa skedarë njëherësh?",
-      "answer": "Kjo faqe konverton një skedar në një kohë për stabilitet. Përsëritni procesin për imazhe shtesë."
-    },
-    {
-      "question": "A janë skedarët e mi të sigurt?",
-      "answer": "Po. Ngarkimet janë të enkriptuara, të përpunuara në servera të sigurt dhe fshihen automatikisht pas konvertimit."
+
     }
-  ],
-  "note": "Skedarët PNG mund të jenë më të mëdhenj se WebP për shkak të kompresimit pa humbje—kjo është normale dhe ruan cilësinë maksimale.",
+    {
+      "question": "A do të ruhet transparenca?"
+
+      "answer": "Po. PNG mbështet plotësisht transparencën alpha dhe ne e ruajmë atë të paprekur."
+
+    }
+    {
+      "question": "A redukton konvertimi cilësinë?"
+
+      "answer": "Jo. PNG përdor kompresim pa humbje, kështu që ju ruani detajet vizuale origjinale."
+
+    }
+    {
+      "question": "A mbështesni WebP të animuar?"
+
+      "answer": "WebP i animuar konvertohet në një PNG statik duke përdorur kornizën e parë."
+
+    }
+    {
+      "question": "Cila është madhësia maksimale e skedarit?"
+
+      "answer": "Derisa në 16 MB për skedar."
+
+    }
+    {
+      "question": "A mund të konvertoj disa skedarë njëherësh?"
+
+      "answer": "Kjo faqe konverton një skedar në një kohë për stabilitet. Përsëritni procesin për imazhe shtesë."
+
+    }
+    {
+      "question": "A janë skedarët e mi të sigurt?"
+
+      "answer": "Po. Ngarkimet janë të enkriptuara, të përpunuara në servera të sigurt dhe fshihen automatikisht pas konvertimit."
+
+    }
+  ]
+  "note": "Skedarët PNG mund të jenë më të mëdhenj se WebP për shkak të kompresimit pa humbje—kjo është normale dhe ruan cilësinë maksimale."
+
   "related_links": [
     {
-      "title": "Konverto WebP në JPG",
+      "title": "Konverto WebP në JPG"
+
       "url": "/en/convert/webp-to-jpg"
-    },
-    {
-      "title": "Konverto WebP në AVIF",
-      "url": "/en/convert/webp-to-avif"
-    },
-    {
-      "title": "Konverto PNG në WebP",
-      "url": "/en/convert/png-to-webp"
-    },
-    {
-      "title": "Kompresoni PNG Online",
-      "url": "/en/edit/compress-image"
+
     }
-  ],
-  "footer": "© 2019 - 2025 WikiHowTo.click. Të gjitha të drejtat e rezervuara.",
+    {
+      "title": "Konverto WebP në AVIF"
+
+      "url": "/en/convert/webp-to-avif"
+
+    }
+    {
+      "title": "Konverto PNG në WebP"
+
+      "url": "/en/convert/png-to-webp"
+
+    }
+    {
+      "title": "Kompresoni PNG Online"
+
+      "url": "/en/edit/compress-image"
+
+    }
+  ]
+  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
+
   "rich_results": [
     {
-      "@type": "WebPage",
-      "@context": "https://schema.org",
-      "name": "WebP në PNG Konvertues - Falas & Online",
-      "url": "https://wikihowto.click/en/convert/webp-to-png",
-      "description": "Mjet falas online për të konvertuar imazhet WebP në PNG me transparencën e ruajtur.",
-      "inLanguage": "sq",
-      "image": "https://wikihowto.click/images/webp-to-png.jpg",
+      "@type": "WebPage"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP në PNG Konvertues - Falas & Online"
+
+      "url": "https://miconvert.com/en/convert/webp-to-png"
+
+      "description": "Mjet falas online për të konvertuar imazhet WebP në PNG me transparencën e ruajtur."
+
+      "inLanguage": "sq"
+
+      "image": "https://miconvert.com/images/webp-to-png.jpg"
+
       "isPartOf": {
-        "@type": "WebSite",
-        "name": "WikiHowTo.click",
-        "url": "https://wikihowto.click/"
+        "@type": "WebSite"
+
+        "name": "miconvert.com"
+
+        "url": "https://miconvert.com/"
+
       }
-    },
+    }
     {
-      "@type": "BreadcrumbList",
-      "@context": "https://schema.org",
+      "@type": "BreadcrumbList"
+
+      "@context": "https://schema.org"
+
       "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Kryefaqja",
-          "item": "https://wikihowto.click/"
-        },
+          "@type": "ListItem"
+
+          "position": 1
+          "name": "Kryefaqja"
+
+          "item": "https://miconvert.com/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Konverto",
-          "item": "https://wikihowto.click/en/convert/"
-        },
+          "@type": "ListItem"
+
+          "position": 2
+          "name": "Konverto"
+
+          "item": "https://miconvert.com/en/convert/"
+
+        }
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "WebP në PNG",
-          "item": "https://wikihowto.click/en/convert/webp-to-png"
+          "@type": "ListItem"
+
+          "position": 3
+          "name": "WebP në PNG"
+
+          "item": "https://miconvert.com/en/convert/webp-to-png"
+
         }
       ]
-    },
+    }
     {
-      "@type": "SoftwareApplication",
-      "@context": "https://schema.org",
-      "name": "WebP në PNG Konvertues",
-      "applicationCategory": "MultimediaApplication",
-      "operatingSystem": "Web",
-      "url": "https://wikihowto.click/en/convert/webp-to-png",
+      "@type": "SoftwareApplication"
+
+      "@context": "https://schema.org"
+
+      "name": "WebP në PNG Konvertues"
+
+      "applicationCategory": "MultimediaApplication"
+
+      "operatingSystem": "Web"
+
+      "url": "https://miconvert.com/en/convert/webp-to-png"
+
       "offers": {
-        "@type": "Offer",
-        "price": "0",
+        "@type": "Offer"
+
+        "price": "0"
+
         "priceCurrency": "USD"
-      },
+
+      }
       "featureList": [
-        "Transparenca e ruajtur",
-        "Dalje pa humbje",
+        "Transparenca e ruajtur"
+
+        "Dalje pa humbje"
+
         "Përpunim i shpejtë"
-      ],
-      "screenshot": "https://wikihowto.click/images/webp-to-png.jpg"
-    },
+
+      ]
+      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
+
+    }
     {
-      "@type": "FAQPage",
-      "@context": "https://schema.org",
+      "@type": "FAQPage"
+
+      "@context": "https://schema.org"
+
       "mainEntity": [
         {
-          "@type": "Question",
-          "name": "A do të ruhet transparenca?",
+          "@type": "Question"
+
+          "name": "A do të ruhet transparenca?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Po, PNG mbështet plotësisht transparencën alpha dhe konvertuesi e ruan atë të paprekur."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "A mbështesni WebP të animuar?",
+          "@type": "Question"
+
+          "name": "A mbështesni WebP të animuar?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "WebP i animuar konvertohet si një PNG statik duke përdorur kornizën e parë."
+
           }
-        },
+        }
         {
-          "@type": "Question",
-          "name": "Cila është madhësia maksimale e skedarit?",
+          "@type": "Question"
+
+          "name": "Cila është madhësia maksimale e skedarit?"
+
           "acceptedAnswer": {
-            "@type": "Answer",
+            "@type": "Answer"
+
             "text": "Derisa në 16 MB për skedar."
+
           }
         }
       ]
-    },
+    }
     {
-      "@type": "HowTo",
-      "@context": "https://schema.org",
-      "name": "Si të konvertoni WebP në PNG",
+      "@type": "HowTo"
+
+      "@context": "https://schema.org"
+
+      "name": "Si të konvertoni WebP në PNG"
+
       "step": [
         {
-          "@type": "HowToStep",
+          "@type": "HowToStep"
+
           "text": "Klikoni Ngarko WebP dhe zgjidhni skedarin tuaj."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Prisni për përpunimin e sigurt të përfundojë."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Klikoni Shkarko PNG për të ruajtur imazhin tuaj."
+
         }
-      ],
+        {
+          "@type": "HowToStep"
+
+          "text": "Prisni për përpunimin e sigurt të përfundojë."
+
+        }
+        {
+          "@type": "HowToStep"
+
+          "text": "Klikoni Shkarko PNG për të ruajtur imazhin tuaj."
+
+        }
+      ]
       "tool": [
         "WebP në PNG Konvertues"
-      ],
+
+      ]
       "totalTime": "PT10S"
+
     }
   ]
 }
