@@ -35,7 +35,7 @@ router.get('/:lang/', function (req, res, next) {
             description: content.metaDescription,
             ogImage: content.ogImage
         });
-        res.render('index', {content, meta});
+        res.render('index', { lang, content, meta });
     } catch (error) {
         console.log(`Error loading content for ${lang}:`, error.message);
         return res.redirect('/en/');
