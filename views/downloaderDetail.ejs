@@ -27,7 +27,7 @@ for (var i = 0; i < result.data.length; i++) {
                     <i class="icon icon-down"></i><%= buttonText %>
                 </a>
             <% } %>
-            <a href="/en" class="button is-black mt-3">Download other video</a>
+            <a href="/<%= typeof lang !== 'undefined' ? lang : 'en' %>/" class="button is-black mt-3">Download other video</a>
         </div>
     </div>
 </div>

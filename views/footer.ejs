@@ -1,8 +1,9 @@
+<% var langSafe = typeof lang !== "undefined" ? lang : "en"; %>
 <footer class="footer bg-primary" style="height: auto !important;">
     <div class="container" style="height: auto !important;">
         <div class="copyright-text" style="border-top: 1px solid #555; padding-top: 20px;">
-            &copy; 2019 - 2025 <a href="/" title="miconvert.com" style="color: #000;">miconvert.com</a>
-            2025 . All rights reserved. |  <a href="/privacy" rel="nofollow noopener" style="color: #000;">Privacy</a>
-            | <a href="/terms" rel="nofollow noopener" style="color: #000;">Policy</a></div>
+            &copy; 2019 - 2025 <a href="/<%= langSafe %>/" title="miconvert.com" style="color: #000;">miconvert.com</a>
+            2025 . All rights reserved. |  <a href="/<%= langSafe %>/privacy" rel="nofollow noopener" style="color: #000;">Privacy</a>
+            | <a href="/<%= langSafe %>/terms" rel="nofollow noopener" style="color: #000;">Policy</a></div>
     </div>
 </footer>
