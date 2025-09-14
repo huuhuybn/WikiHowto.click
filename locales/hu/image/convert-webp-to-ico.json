@@ -1,381 +1,250 @@
 {
-  "lang": "hu"
-
-  "lang_name": "Magyar"
-
-  "title": "WEBP to ICO Átalakító - Ingyenes és Online | miconvert.com"
-
-  "sub_title": "WebP képek átalakítása ICO formátumba online, faviconokhoz és asztali ikonokhoz. Ingyenes, gyors és vízjel nélküli."
-
-  "hint": "Töltsd fel a WebP képed az átalakítás megkezdéséhez..."
-
-  "btn_download": "Átalakítás ICO-ra"
-
-  "btn_paste": "WebP feltöltése"
-
-  "btn_clear": "Törlés"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "hu",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "WebP átalakítása ICO-ra Online - Ingyenes WebP to ICO Átalakító | miconvert.com"
-
-    "description": "WebP képek átalakítása ICO formátumba ingyenesen. Magas minőségű WebP → ICO átalakítás faviconokhoz és asztali ikonokhoz."
-
-    "keywords": "webp to ico, webp átalakítása ico-ra, ingyenes webp to ico, online ico átalakító, favicon készítő"
-
-    "canonical": "https://miconvert.com/hu/convert/webp-to-ico"
-
-    "og_title": "WebP to ICO Átalakító - Ingyenes és Online"
-
-    "og_description": "WebP képek átalakítása ICO formátumba faviconokhoz és asztali ikonokhoz. 100% ingyenes, gyors és biztonságos."
-
-    "og_url": "https://miconvert.com/hu/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "WebP átalakítása ICO-ra Online"
-
-    "description": "Ingyenes és gyors WebP to ICO átalakító faviconokhoz és asztali ikonokhoz. Azonnal működik bármilyen eszközön - regisztráció nem szükséges."
-
-  }
-  "description": "<p>Átalakítsd a <strong>WebP-t ICO-ra</strong> másodpercek alatt. Az ICO a Windows natív ikonformátuma és a de-facto szabvány a webes faviconokhoz. Megőrizzük az átlátszóságot (alpha) és több méretet generálunk, így az ikonod éles marad a füleken, parancsikonokon és nagy DPI-s képernyőkön.</p><p><em>Megjegyzés:</em> Az animált WebP fájlokat statikus ikonként alakítjuk át az <strong>első képkocka</strong> felhasználásával.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP to ICO Átalakító"
-
-    "description": "WebP képek átalakítása több méretű ICO ikonokká, megőrizve az átlátszóságot."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Magas minőségű ICO átalakítás"
-
-      "Több méretű ikon készlet (16–256 px)"
-
-      "Átlátszóság megőrzése"
-
-      "Gyors és ingyenes online eszköz"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP to ICO Átalakítás Befejezve"
-
-    "back_button": "Vissza az Átalakítóhoz"
-
-    "convert_another": "Átalakítás Másik WebP-re"
-
-    "quick_conversions": "Gyors Átalakítások:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Miért alakítsuk át a WebP-t ICO-ra?"
-
-      "description": "<p>Az ICO kifejezetten ikonok és faviconok számára készült:</p><ul><li><strong>Több méret egy fájlban:</strong> Csomagolj 16–256 px változatokat, hogy mindenhol éles legyen a megjelenítés.</li><li><strong>Favicon szabvány:</strong> Minden nagyobb böngésző által elismert.</li><li><strong>Windows natív:</strong> Ideális asztali/alkalmazás/parancsikon ikonokhoz.</li><li><strong>Átlátszóság:</strong> Teljes alpha támogatás a sima élekért.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Hogyan alakítsuk át a WebP-t ICO-ra Online"
-
-      "description": "<ol><li>Kattints a <em>WebP feltöltése</em> gombra és válaszd ki a képed.</li><li>Várj a feldolgozásra és optimalizálásra.</li><li>Kattints a <em>ICO letöltése</em> gombra az ikonod mentéséhez.</li></ol><p>Automatikusan generálunk közönséges méreteket az éles eredményekért.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO vs WebP Összehasonlítás"
-
-      "description": "<ul><li><strong>Felhasználási eset:</strong> ICO ikonok/faviconokhoz; WebP általános webes képekhez.</li><li><strong>Átlátszóság:</strong> Mindkettő támogatja az alpha-t; az ICO tiszta éleket tart meg kis méretekben.</li><li><strong>Animáció:</strong> Az ICO statikus; az animált WebP statikus ikonná válik (első képkocka).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Támogatott Határok és Formátumok"
-
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximális fájlméret:</strong> 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Legjobb Gyakorlatok az Éles Ikonokhoz"
-
-      "description": "<ul><li>Kezdj egy <strong>négyzetes</strong> forrással és adj hozzá párnázást a vágás elkerüléséhez.</li><li>Használj vastag formákat és nagy kontrasztot a 16–32 px méretekhez.</li><li>Ha a WebP-d zsúfolt háttérrel rendelkezik, egyszerűsítsd azt a jobb kis méretű tisztaság érdekében.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Hibaelhárítás"
-
-      "description": "<ul><li><strong>Favicon nem frissül:</strong> Töröld a gyorsítótárat és linkeld a <code>/favicon.ico</code> fájlt a <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> segítségével.</li><li><strong>Élesnek tűnik 16 px-en:</strong> Tölts fel egy nagyobb, tiszta forrást; a kicsinyítés javítja az élességet.</li><li><strong>A feltöltés meghiúsul:</strong> Győződj meg róla, hogy <code>image/webp</code> és ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ez a WebP to ICO átalakító ingyenes?"
-
-      "answer": "Igen, teljesen ingyenes, vízjelek vagy rejtett díjak nélkül."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Milyen méretek támogatottak az ICO fájlokhoz?"
-
-      "answer": "A közönséges méretek közé tartozik a 16×16, 32×32, 48×48, 64×64, 128×128 és 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Megőrzi az átlátszóságot?"
-
-      "answer": "Igen. Ha a WebP-d alpha csatornát tartalmaz, az ICO megőrzi azt (32-bites RGBA bejegyzések)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "Támogatjátok az animált WebP-t?"
-
-      "answer": "Az animált WebP statikus ikonná alakul az első képkocka felhasználásával."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Több WebP-t is átalakíthatok egyszerre?"
-
-      "answer": "Ez az oldal egyszerre egy fájlt alakít át. Ismételd meg a folyamatot több fájlhoz."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Milyen fájlméretek támogatottak?"
-
-      "answer": "Képeket tölthetsz fel legfeljebb 16&nbsp;MB fájlonként."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "Az ICO fájlok optimalizálva vannak a kis megjelenítési méretekhez. A legjobb eredmények érdekében használj négyzetes, nagy kontrasztú forrást, és adj hozzá némi párnázást."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "PNG átalakítása ICO-ra"
-
-      "url": "/hu/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "JPG átalakítása ICO-ra"
-
-      "url": "/hu/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "ICO átalakítása PNG-ra"
-
-      "url": "/hu/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "WebP átalakítása PNG-ra"
-
-      "url": "/hu/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP to ICO Átalakító - Ingyenes és Online"
-
-      "url": "https://miconvert.com/hu/convert/webp-to-ico"
-
-      "description": "Ingyenes online eszköz WebP képek ICO-ra való átalakításához faviconokhoz és Windows asztali ikonokhoz."
-
-      "inLanguage": "hu"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Főoldal"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Átalakítás"
-
-          "item": "https://miconvert.com/hu/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP to ICO"
-
-          "item": "https://miconvert.com/hu/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP to ICO Átalakító"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hu/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Több méretű ikon készlet"
-
-        "Átlátszóság megőrzése"
-
-        "Gyors feldolgozás"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ez a WebP to ICO átalakító ingyenes?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen, teljesen ingyenes, vízjelek vagy rejtett díjak nélkül."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Milyen fájlméretek támogatottak?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Képeket tölthetsz fel legfeljebb 16 MB fájlonként."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Megőrzi az átlátszóságot?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen. Ha a WebP-d alpha csatornát tartalmaz, az ICO megőrzi azt (32-bites RGBA bejegyzések)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hogyan alakítsuk át a WebP-t ICO-ra"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kattints a WebP feltöltése gombra és válaszd ki a képed."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Várj a feldolgozásra és optimalizálásra."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kattints a ICO letöltése gombra az ikonod mentéséhez."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP to ICO Átalakító"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

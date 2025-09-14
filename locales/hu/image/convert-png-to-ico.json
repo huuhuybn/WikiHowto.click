@@ -1,355 +1,235 @@
 {
-  "lang": "hu"
-
-  "lang_name": "Magyar"
-
-  "title": "PNG-ból ICO átalakító - Ingyenes és Online | miconvert.com"
-
-  "sub_title": "Konvertálja a PNG képeket ICO formátumba online a faviconokhoz és az asztali ikonokhoz. Ingyenes, gyors és vízjel nélküli."
-
-  "hint": "Töltse fel a PNG képét az átalakítás megkezdéséhez..."
-
-  "btn_download": "Konvertálás ICO-ra"
-
-  "btn_paste": "PNG feltöltése"
-
-  "btn_clear": "Törlés"
-
+  "lang": "hu",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Alakítsa át a <strong>PNG-t ICO-ra</strong> a tökéletes faviconok és asztali ikonok érdekében! Ingyenes PNG-ból ICO átalakítónk professzionális, több méretű ikont készít, amelyek élesek a böngészők és a Windows asztalok között.</p><p>Az ICO fájlok több méretet is tartalmazhatnak egyetlen fájlban (pl. 16–256 px), ideális a faviconokhoz és az alkalmazás/ikon parancsikonokhoz. A PNG-ból származó átlátszóság megmarad a sima élek érdekében sötét/világos háttéren.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "Konvertálja a PNG-t ICO-ra Online - Ingyenes PNG-ból ICO átalakító | miconvert.com"
-
-    "description": "Konvertálja a PNG-t ICO-ra online a faviconokhoz és az asztali ikonokhoz. Ingyenes, gyors és biztonságos PNG-ból ICO átalakító eszköz."
-
-    "keywords": "png to ico, konvertálja a png-t ico-ra, ingyenes png to ico, online ico átalakító, favicon készítő"
-
-    "canonical": "https://miconvert.com/hu/convert/png-to-ico"
-
-    "og_title": "PNG-ból ICO átalakító - Ingyenes és Online"
-
-    "og_description": "Konvertálja a PNG képeket ICO formátumba a faviconokhoz és az asztali ikonokhoz. 100% ingyenes, gyors és biztonságos."
-
-    "og_url": "https://miconvert.com/hu/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertálja a PNG-t ICO-ra Online"
-
-    "description": "Ingyenes és gyors PNG-ból ICO átalakító a faviconokhoz és az asztali ikonokhoz. Azonnal működik bármely eszközön, regisztráció nem szükséges."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "Miért konvertálja a PNG-t ICO-ra?"
-
-      "description": "<p>Az ICO ikonokhoz készült:</p><ul><li><strong>Multi-size támogatás:</strong> Csomagolja a 16–256 px variánsokat egy fájlba.</li><li><strong>Favicon szabvány:</strong> A főbb böngészők által elismert.</li><li><strong>Windows kompatibilitás:</strong> Natív asztali/alkalmazás ikon formátum.</li><li><strong>Átlátszóság:</strong> Simább élek a PNG alfa megőrzésével.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "Hogyan konvertálja a PNG-t ICO-ra Online"
-
-      "description": "<ol><li>Kattintson az <em>Upload PNG</em> gombra, és válassza ki a képét.</li><li>Várjon a feldolgozásra és az optimalizálásra.</li><li>Kattintson a <em>Download ICO</em> gombra az ikon mentéséhez.</li></ol><p>Automatikusan generáljuk a közönséges ikon méreteket.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "ICO formátum specifikációk"
-
-      "description": "<ul><li><strong>Szabványos méretek:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Színmélység:</strong> Akár 32-bites RGBA</li><li><strong>Átlátszóság:</strong> Teljes alfa csatorna</li><li><strong>Struktúra:</strong> Fejléc + több képkénti bejegyzés</li><li><strong>Kompresszió:</strong> PNG-kompresszált bejegyzések 32-bites ikonokhoz (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Támogatott korlátok és formátumok"
-
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Hibaelhárítás"
-
-      "description": "<ul><li><strong>Favicon nem jelenik meg:</strong> Törölje a gyorsítótárat, és győződjön meg arról, hogy <code>/favicon.ico</code> a webhely gyökerében található <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Éles élek:</strong> Kezdjen egy nagyobb, nagy kontrasztú PNG-ból; tisztán kicsinyítse.</li><li><strong>Feltöltés sikertelen:</strong> Győződjön meg arról, hogy a PNG ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "A PNG-ból ICO átalakítónk jellemzői"
-
-      "description": "<ul><li>100% ingyenes vízjelek nélkül</li><li>Automatikus méretoptimalizálás</li><li>Átlátszóság megőrzése</li><li>Biztonságos feldolgozás</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ez a PNG-ból ICO átalakító ingyenes?"
-
-      "answer": "Igen, az átalakító teljesen ingyenes, rejtett díjak vagy előfizetések nélkül."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Milyen méretek támogatottak az ICO fájlokban?"
-
-      "answer": "A közönséges méretek közé tartozik a 16×16, 32×32, 48×48, 64×64, 128×128 és 256×256 pixel."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Használhatok ICO fájlokat weboldal faviconokhoz?"
-
-      "answer": "Igen. A <code>favicon.ico</code> széles körben támogatott a főbb böngészők által."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "Milyen fájlméretek támogatottak?"
-
-      "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthet fel fájlonként."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Biztonságban vannak a fájljaim?"
-
-      "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél az átalakításhoz."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Jó lesz az ikon minősége?"
-
-      "answer": "Megőrizzük a PNG átlátszóságát, és több méretet generálunk a tiszta megjelenítés érdekében kis méretekben."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "A legjobb eredmények érdekében használjon tiszta, nagy kontrasztú PNG-t. Helyezze a <code>/favicon.ico</code> fájlt a webhely gyökerébe, és hivatkozzon rá a <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> segítségével."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "JPG-ból ICO átalakítása"
-
-      "url": "/hu/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "BMP-ból ICO átalakítása"
-
-      "url": "/hu/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "SVG-ból ICO átalakítása"
-
-      "url": "/hu/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "ICO-ból PNG átalakítása"
-
-      "url": "/hu/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG-ból ICO átalakító - Ingyenes és Online"
-
-      "url": "https://miconvert.com/hu/convert/png-to-ico"
-
-      "description": "Ingyenes online eszköz a PNG képek ICO-ra konvertálásához a faviconokhoz és a Windows asztali ikonokhoz."
-
-      "inLanguage": "hu"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Kezdőlap"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertálás"
-
-          "item": "https://miconvert.com/hu/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG-ból ICO"
-
-          "item": "https://miconvert.com/hu/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG-ból ICO átalakító"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hu/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Több méretű ikon készlet"
-
-        "Átlátszóság megőrzése"
-
-        "Gyors feldolgozás"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ez a PNG-ból ICO átalakító ingyenes?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen, az átalakító teljesen ingyenes, rejtett díjak vagy előfizetések nélkül."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Milyen fájlméretek támogatottak?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Legfeljebb 16 MB méretű képeket tölthet fel fájlonként."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Milyen méretek támogatottak az ICO fájlokban?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "A közönséges méretek közé tartozik a 16×16, 32×32, 48×48, 64×64, 128×128 és 256×256 pixel."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hogyan konvertálja a PNG-t ICO-ra"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kattintson a PNG feltöltése gombra, és válassza ki a képét."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Várjon a feldolgozás befejezésére."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kattintson a Download ICO gombra az ikon mentéséhez."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "PNG-ból ICO átalakító"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

@@ -1,363 +1,240 @@
 {
-  "lang": "lv"
-
-  "lang_name": "Latviešu"
-
-  "title": "SVG uz ICO Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
-
-  "sub_title": "Konvertējiet SVG attēlus ICO formātā tiešsaistē favicon un darbvirsmas ikonām. Bezmaksas, ātri un bez ūdenszīmēm."
-
-  "hint": "Augšupielādējiet savu SVG attēlu, lai sāktu konvertēšanu..."
-
-  "btn_download": "Konvertēt uz ICO"
-
-  "btn_paste": "Augšupielādēt SVG"
-
-  "btn_clear": "Notīrīt"
-
-  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
-
+  "lang": "lv",
+  "lang_name": "English",
+  "title": "SVG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert SVG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your SVG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload SVG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg",
   "converter": {
-    "type": "svg-to-ico"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/svg+xml"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Pārvērtiet savu <strong>SVG uz ICO</strong> ideālām favicon un darbvirsmas ikonām! Mūsu bezmaksas konvertētājs rasterizē jūsu vektora SVG uz skaidru daudzizmēru ICO, kas darbojas visos pārlūkos un Windows darbvirsmās.</p><p>ICO var apvienot vairākus izmērus vienā failā (piemēram, 16–256 px), tāpēc jūsu ikona izskatās asā uz cilnēm, saīsēm un augstas izšķirtspējas displejiem. Caurspīdīgums tiek saglabāts, lai nodrošinātu gludas malas uz gaišiem un tumšiem foniem.</p>"
-
+  },
+  "description": "<p>Transform your <strong>SVG to ICO</strong> for perfect favicons and desktop icons! Our free converter rasterizes your vector SVG to crisp multi-size ICO that works across browsers and Windows desktops.</p><p>ICO can bundle several sizes in one file (e.g., 16–256 px), so your icon looks sharp on tabs, shortcuts, and high-DPI displays. Transparency is preserved for smooth edges on light and dark backgrounds.</p>",
   "head": {
-    "title": "Konvertēt SVG uz ICO Tiešsaistē - Bezmaksas SVG uz ICO Konvertētājs | miconvert.com"
-
-    "description": "Konvertējiet SVG uz ICO tiešsaistē favicon un darbvirsmas ikonām. Bezmaksas, ātri un droši SVG uz ICO konvertēšanas rīks."
-
-    "keywords": "svg uz ico, konvertēt svg uz ico, bezmaksas svg uz ico, tiešsaistes ico konvertētājs, favicon veidotājs"
-
-    "canonical": "https://miconvert.com/lv/convert/svg-to-ico"
-
-    "og_title": "SVG uz ICO Konvertētājs - Bezmaksas un Tiešsaistē"
-
-    "og_description": "Konvertējiet SVG attēlus ICO formātā favicon un darbvirsmas ikonām. 100% bezmaksas, ātri un droši."
-
-    "og_url": "https://miconvert.com/lv/convert/svg-to-ico"
-
+    "title": "Convert SVG to ICO Online - Free SVG to ICO Converter | miconvert.com",
+    "description": "Convert SVG to ICO online for favicons and desktop icons. Free, fast, and secure SVG to ICO converter tool.",
+    "keywords": "svg to ico, convert svg to ico, free svg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/svg-to-ico",
+    "og_title": "SVG to ICO Converter - Free & Online",
+    "og_description": "Convert SVG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/svg-to-ico",
     "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertēt SVG uz ICO Tiešsaistē"
-
-    "description": "Bezmaksas un ātrs SVG uz ICO konvertētājs favicon un darbvirsmas ikonām. Darbojas nekavējoties jebkurā ierīcē — nav nepieciešama reģistrācija."
-
-  }
+    "title": "Convert SVG to ICO Online",
+    "description": "Free and fast SVG to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "h2": [
     {
-      "title": "Kāpēc konvertēt SVG uz ICO?"
-
-      "description": "<p>SVG nodrošina izšķirtspējai neatkarīgas formas; ICO nodrošina vietējo ikonu saderību:</p><ul><li><strong>Daudzizmēru atbalsts:</strong> Apvienojiet 16–256 px variantus vienā failā.</li><li><strong>Favicon standarts:</strong> Plaši atzīts pārlūkos.</li><li><strong>Windows saderība:</strong> Vietējais formāts darbvirsmas / lietotņu ikonām.</li><li><strong>Caurspīdīgums:</strong> Gludas malas ar saglabātu alfa.</li></ul>"
-
-    }
+      "title": "Why Convert SVG to ICO?",
+      "description": "<p>SVG gives you resolution-independent shapes; ICO gives you native icon compatibility:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Widely recognized by browsers.</li><li><strong>Windows compatibility:</strong> Native format for desktop/app icons.</li><li><strong>Transparency:</strong> Smooth edges with alpha preserved.</li></ul>"
+    },
     {
-      "title": "Kā konvertēt SVG uz ICO Tiešsaistē"
-
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt SVG</em> un izvēlieties savu vektora failu.</li><li>Gaidiet rasterizāciju un optimizāciju.</li><li>Noklikšķiniet uz <em>Lejupielādēt ICO</em>, lai saglabātu savu ikonu.</li></ol><p>Mēs automātiski ģenerējam kopējus izmērus asiem rezultātiem.</p>"
-
-    }
+      "title": "How to Convert SVG to ICO Online",
+      "description": "<ol><li>Click <em>Upload SVG</em> and select your vector file.</li><li>Wait for rasterization and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common sizes automatically for sharp results.</p>"
+    },
     {
-      "title": "ICO Formāta Specifikācijas"
-
-      "description": "<ul><li><strong>Standarta izmēri:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Krāsu dziļums:</strong> Līdz 32-bit RGBA</li><li><strong>Komprese:</strong> PNG kompresēti ieraksti 32-bit ikonām (Vista+)</li><li><strong>Struktūra:</strong> Galvene + vairāki attēlu ieraksti vienā failā</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li><li><strong>Structure:</strong> Header + multiple image entries in one file</li></ul>"
+    },
     {
-      "title": "Atbalstītie Ierobežojumi un Formāti"
-
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Problēmu novēršana"
-
-      "description": "<ul><li><strong>Favicon nerādās:</strong> Notīriet kešatmiņu un pārliecinieties, ka <code>/favicon.ico</code> ir saistīts caur <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonti/filtri:</strong> Neiekļauti fonti, sarežģīti filtri vai ārējie resursi var rasterizēties atšķirīgi. Pārvērtiet tekstu kontūrās un iekļautajos resursos SVG.</li><li><strong>Izgriešana:</strong> Izmantojiet kvadrātveida mākslas dēli ar apmalēm, lai izvairītos no sagriešanas pēc rasterizācijas.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka SVG ≤ 16&nbsp;MB un derīgs <code>image/svg+xml</code>.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is linked via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filters:</strong> Non-embedded fonts, complex filters, or external assets may rasterize differently. Convert text to outlines and inline assets in the SVG.</li><li><strong>Cropping:</strong> Use a square artboard with padding to avoid clipping after rasterization.</li><li><strong>Upload fails:</strong> Ensure SVG ≤ 16&nbsp;MB and valid <code>image/svg+xml</code>.</li></ul>"
+    },
     {
-      "title": "Labākās Prakses"
-
-      "description": "<ul><li>Projektējiet uz 512×512 vai 1024×1024 kvadrātveida audekla, lai nodrošinātu tīrus samazinājumus.</li><li>Uzturiet formas izteiksmīgas; izvairieties no plānām līnijām mazos izmēros.</li><li>Izmantojiet augstu kontrastu, lai nodrošinātu lasāmību 16–32 px ikonās.</li></ul>"
-
-    }
+      "title": "Best Practices",
+      "description": "<ul><li>Design on a 512×512 or 1024×1024 square canvas for clean downscales.</li><li>Keep shapes bold; avoid thin hairlines at small sizes.</li><li>Use high contrast for readability in 16–32 px icons.</li></ul>"
+    },
     {
-      "title": "Mūsu SVG uz ICO Konvertētāja Iespējas"
-
-      "description": "<ul><li>100% Bezmaksas bez ūdenszīmēm</li><li>Automātiska vektora→rasterizācija</li><li>Daudzizmēru ikonu ģenerēšana</li><li>Caurspīdīgums saglabāts</li><li>Droša apstrāde</li></ul>"
-
+      "title": "Features of Our SVG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic vector→raster conversion</li><li>Multi-size icon generation</li><li>Transparency preserved</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Vai šis SVG uz ICO konvertētājs ir bezmaksas?"
-
-      "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
-
-    }
+      "question": "Is this SVG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Kādi izmēri ir atbalstīti ICO failos?"
-
-      "answer": "Parastie izmēri ir 16×16, 32×32, 48×48, 64×64, 128×128 un 256×256 px."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Vai es varu izmantot ICO vietņu favicon?"
-
-      "answer": "Jā. Novietojiet <code>/favicon.ico</code> savā vietnes saknē un atsaucieties uz to ar <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
-    }
+      "question": "Can I use ICO for website favicons?",
+      "answer": "Yes. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
     {
-      "question": "Kādi faila izmēri ir atbalstīti?"
-
-      "answer": "Jūs varat augšupielādēt SVG failus līdz 16&nbsp;MB."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload SVG files up to 16&nbsp;MB."
+    },
     {
-      "question": "Vai mani faili ir droši?"
-
-      "answer": "Faili tiek apstrādāti automātiski un netiek saglabāti ilgāk par nepieciešamo konvertēšanai."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Vai ikonas kvalitāte būs laba?"
-
-      "answer": "Jā. Mēs rasterizējam no jūsu vektora vairākos izmēros, lai saglabātu malas asas un caurspīdīgumu neskartu."
-
+      "question": "Will the icon quality be good?",
+      "answer": "Yes. We rasterize from your vector at multiple sizes to keep edges crisp and transparency intact."
     }
-  ]
-  "note": "SVG tiek rasterizēti konvertēšanas laikā. Lai nodrošinātu konsekventus rezultātus, pārvērtiet tekstu kontūrās un iekļaujiet nepieciešamos resursus."
-
+  ],
+  "note": "SVGs are rasterized during conversion. For consistent results, convert text to outlines and embed required assets.",
   "related_links": [
     {
-      "title": "Konvertēt PNG uz ICO"
-
-      "url": "/lv/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konvertēt JPG uz ICO"
-
-      "url": "/lv/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konvertēt ICO uz PNG"
-
-      "url": "/lv/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konvertēt SVG uz PNG"
-
-      "url": "/lv/convert/svg-to-png"
-
+      "title": "Convert SVG to PNG",
+      "url": "/en/convert/svg-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG uz ICO Konvertētājs - Bezmaksas un Tiešsaistē"
-
-      "url": "https://miconvert.com/lv/convert/svg-to-ico"
-
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu SVG attēlus uz ICO favicon un Windows darbvirsmas ikonām."
-
-      "inLanguage": "lv"
-
-      "image": "https://miconvert.com/images/svg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
+      "description": "Free online tool to convert SVG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/svg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Sākums"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertēt"
-
-          "item": "https://miconvert.com/lv/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG uz ICO"
-
-          "item": "https://miconvert.com/lv/convert/svg-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG to ICO",
+          "item": "https://miconvert.com/en/convert/svg-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG uz ICO Konvertētājs"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lv/convert/svg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Vektors uz rasteru"
-
-        "Daudzizmēru komplekts"
-
-        "Caurspīdīgums saglabāts"
-
-      ]
+        "Vector to raster",
+        "Multi-size set",
+        "Transparency preserved"
+      ],
       "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Vai šis SVG uz ICO konvertētājs ir bezmaksas?"
-
+          "@type": "Question",
+          "name": "Is this SVG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Kādi faila izmēri ir atbalstīti?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jūs varat augšupielādēt SVG failus līdz 16 MB."
-
+            "@type": "Answer",
+            "text": "You can upload SVG files up to 16 MB."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Kādi izmēri ir atbalstīti ICO failos?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Parastie izmēri ir 16×16, 32×32, 48×48, 64×64, 128×128 un 256×256 px."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kā konvertēt SVG uz ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert SVG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Noklikšķiniet uz Augšupielādēt SVG un izvēlieties savu vektora failu."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload SVG and select your vector file."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Gaidiet, līdz rasterizācija un optimizācija ir pabeigta."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for rasterization and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Noklikšķiniet uz Lejupielādēt ICO, lai saglabātu ikonas failu."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save the icon file."
         }
-      ]
+      ],
       "tool": [
-        "SVG uz ICO Konvertētājs"
-
-      ]
+        "SVG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

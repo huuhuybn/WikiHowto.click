@@ -1,355 +1,235 @@
 {
-  "lang": "cs"
-
-  "lang_name": "Čeština"
-
-  "title": "Převod PNG na ICO - Zdarma a Online | miconvert.com"
-
-  "sub_title": "Převádějte PNG obrázky do formátu ICO online pro favikony a desktopové ikony. Zdarma, rychle a bez vodoznaků."
-
-  "hint": "Nahrajte svůj PNG obrázek, abyste začali převádět..."
-
-  "btn_download": "Převést na ICO"
-
-  "btn_paste": "Nahrát PNG"
-
-  "btn_clear": "Vymazat"
-
+  "lang": "cs",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Přetvořte svůj <strong>PNG na ICO</strong> pro dokonalé favikony a desktopové ikony! Náš bezplatný převodník PNG na ICO vytváří profesionální ikony různých velikostí, které vypadají ostře napříč prohlížeči a Windows desktopy.</p><p>ICO soubory mohou obsahovat několik velikostí v jednom souboru (např. 16–256 px), ideální pro favikony a ikony aplikací/zkratek. Průhlednost z PNG je zachována pro hladké okraje na tmavých/světlých pozadích.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "Převod PNG na ICO Online - Bezplatný převodník PNG na ICO | miconvert.com"
-
-    "description": "Převádějte PNG na ICO online pro favikony a desktopové ikony. Bezpečný, rychlý a bezplatný nástroj pro převod PNG na ICO."
-
-    "keywords": "png na ico, převést png na ico, bezplatný png na ico, online ico převodník, výrobce favikonů"
-
-    "canonical": "https://miconvert.com/cs/convert/png-to-ico"
-
-    "og_title": "Převodník PNG na ICO - Zdarma a Online"
-
-    "og_description": "Převádějte PNG obrázky do formátu ICO pro favikony a desktopové ikony. 100% zdarma, rychle a bezpečně."
-
-    "og_url": "https://miconvert.com/cs/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Převod PNG na ICO Online"
-
-    "description": "Bezplatný a rychlý převodník PNG na ICO pro favikony a desktopové ikony. Funguje okamžitě na jakémkoli zařízení, není potřeba registrace."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "Proč převádět PNG na ICO?"
-
-      "description": "<p>ICO je určeno pro ikony:</p><ul><li><strong>Podpora více velikostí:</strong> Sbalte varianty 16–256 px do jednoho souboru.</li><li><strong>Standard favikonu:</strong> Rozpoznáno hlavními prohlížeči.</li><li><strong>Kompatibilita s Windows:</strong> Nativní formát ikon pro desktop/aplikace.</li><li><strong>Průhlednost:</strong> Hladké okraje s zachovanou PNG alfou.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "Jak převést PNG na ICO online"
-
-      "description": "<ol><li>Klikněte na <em>Nahrát PNG</em> a vyberte svůj obrázek.</li><li>Počkejte na zpracování a optimalizaci.</li><li>Klikněte na <em>Stáhnout ICO</em>, abyste uložili svou ikonu.</li></ol><p>Automaticky generujeme běžné velikosti ikon.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Specifikace formátu ICO"
-
-      "description": "<ul><li><strong>Standardní velikosti:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Hloubka barev:</strong> Až 32-bit RGBA</li><li><strong>Průhlednost:</strong> Plný alfa kanál</li><li><strong>Struktura:</strong> Hlavička + více obrazových záznamů</li><li><strong>Komprese:</strong> PNG-komprimované záznamy pro 32-bit ikony (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Podporované limity a formáty"
-
-      "description": "<ul><li><strong>Přijatý vstup:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Odstraňování problémů"
-
-      "description": "<ul><li><strong>Favikon se nezobrazuje:</strong> Vymažte mezipaměť a ujistěte se, že <code>/favicon.ico</code> je na kořenovém adresáři webu s <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Drsné okraje:</strong> Začněte s větším, vysoce kontrastním PNG; zmenšujte čistě.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že PNG ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "Funkce našeho převodníku PNG na ICO"
-
-      "description": "<ul><li>100% zdarma bez vodoznaků</li><li>Automatická optimalizace velikosti</li><li>Zachování průhlednosti</li><li>Bezpečné zpracování</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je tento převodník PNG na ICO zdarma?"
-
-      "answer": "Ano, převodník je zcela zdarma, bez skrytých poplatků nebo předplatného."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Jaké velikosti jsou podporovány v ICO souborech?"
-
-      "answer": "Běžné velikosti zahrnují 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 pixelů."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Mohu používat ICO soubory pro favikony webových stránek?"
-
-      "answer": "Ano. <code>favicon.ico</code> je široce podporováno hlavními prohlížeči."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "Jaké velikosti souborů jsou podporovány?"
-
-      "answer": "Můžete nahrávat obrázky až do 16&nbsp;MB na soubor."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Jsou mé soubory bezpečné?"
-
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nezbytné pro převod."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Bude kvalita ikony dobrá?"
-
-      "answer": "Zachováváme průhlednost PNG a generujeme více velikostí pro ostré zobrazení při malých rozměrech."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "Pro nejlepší výsledky použijte jasné, vysoce kontrastní PNG. Umístěte <code>/favicon.ico</code> na kořen vašeho webu a odkazujte na něj pomocí <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "Převod JPG na ICO"
-
-      "url": "/cs/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Převod BMP na ICO"
-
-      "url": "/cs/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "Převod SVG na ICO"
-
-      "url": "/cs/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "Převod ICO na PNG"
-
-      "url": "/cs/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Převodník PNG na ICO - Zdarma a Online"
-
-      "url": "https://miconvert.com/cs/convert/png-to-ico"
-
-      "description": "Bezplatný online nástroj pro převod PNG obrázků na ICO pro favikony a desktopové ikony Windows."
-
-      "inLanguage": "cs"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Domů"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Převod"
-
-          "item": "https://miconvert.com/cs/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG na ICO"
-
-          "item": "https://miconvert.com/cs/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Převodník PNG na ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/cs/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Sada ikon více velikostí"
-
-        "Zachovaná průhlednost"
-
-        "Rychlé zpracování"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je tento převodník PNG na ICO zdarma?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, převodník je zcela zdarma, bez skrytých poplatků nebo předplatného."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Jaké velikosti souborů jsou podporovány?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Můžete nahrávat obrázky až do 16 MB na soubor."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Jaké velikosti jsou podporovány v ICO souborech?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Běžné velikosti zahrnují 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 pixelů."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak převést PNG na ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Nahrát PNG a vyberte svůj obrázek."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Počkejte na dokončení zpracování."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Stáhnout ICO, abyste uložili svou ikonu."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Převodník PNG na ICO"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

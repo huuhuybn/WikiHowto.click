@@ -1,355 +1,235 @@
 {
-  "lang": "uk"
-
-  "lang_name": "Українська"
-
-  "title": "Конвертер PNG в ICO - Безкоштовно та Онлайн | miconvert.com"
-
-  "sub_title": "Конвертуйте зображення PNG в формат ICO онлайн для фавіконів та значків на робочому столі. Безкоштовно, швидко та без водяних знаків."
-
-  "hint": "Завантажте своє зображення PNG, щоб почати конвертацію..."
-
-  "btn_download": "Конвертувати в ICO"
-
-  "btn_paste": "Завантажити PNG"
-
-  "btn_clear": "Очистити"
-
+  "lang": "uk",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Перетворіть свій <strong>PNG в ICO</strong> для ідеальних фавіконів та значків на робочому столі! Наш безкоштовний конвертер PNG в ICO створює професійні значки різних розмірів, які виглядають чітко в усіх браузерах та на робочих столах Windows.</p><p>Файли ICO можуть об'єднувати кілька розмірів в одному файлі (наприклад, 16–256 пікселів), що ідеально підходить для фавіконів та значків додатків/ярликів. Прозорість з PNG зберігається для плавних країв на темних/світлих фонах.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "Конвертуйте PNG в ICO Онлайн - Безкоштовний конвертер PNG в ICO | miconvert.com"
-
-    "description": "Конвертуйте PNG в ICO онлайн для фавіконів та значків на робочому столі. Безкоштовний, швидкий та безпечний інструмент конвертації PNG в ICO."
-
-    "keywords": "png в ico, конвертувати png в ico, безкоштовний png в ico, онлайн конвертер ico, створювач фавіконів"
-
-    "canonical": "https://miconvert.com/uk/convert/png-to-ico"
-
-    "og_title": "Конвертер PNG в ICO - Безкоштовно та Онлайн"
-
-    "og_description": "Конвертуйте зображення PNG в формат ICO для фавіконів та значків на робочому столі. 100% безкоштовно, швидко та безпечно."
-
-    "og_url": "https://miconvert.com/uk/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертуйте PNG в ICO Онлайн"
-
-    "description": "Безкоштовний та швидкий конвертер PNG в ICO для фавіконів та значків на робочому столі. Працює миттєво на будь-якому пристрої, реєстрація не потрібна."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "Чому конвертувати PNG в ICO?"
-
-      "description": "<p>ICO створено для значків:</p><ul><li><strong>Підтримка кількох розмірів:</strong> Об'єднуйте варіанти 16–256 пікселів в одному файлі.</li><li><strong>Стандарт фавіконів:</strong> Визнано основними браузерами.</li><li><strong>Сумісність з Windows:</strong> Рідний формат значків для робочого столу/додатків.</li><li><strong>Прозорість:</strong> Плавні краї з збереженою альфа-прозорістю PNG.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "Як конвертувати PNG в ICO онлайн"
-
-      "description": "<ol><li>Натисніть <em>Завантажити PNG</em> та виберіть своє зображення.</li><li>Зачекайте на обробку та оптимізацію.</li><li>Натисніть <em>Завантажити ICO</em>, щоб зберегти свій значок.</li></ol><p>Ми автоматично генеруємо загальні розміри значків.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Специфікації формату ICO"
-
-      "description": "<ul><li><strong>Стандартні розміри:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 пікселів</li><li><strong>Глибина кольору:</strong> До 32-бітного RGBA</li><li><strong>Прозорість:</strong> Повний альфа-канал</li><li><strong>Структура:</strong> Заголовок + кілька записів зображень</li><li><strong>Стиснення:</strong> Записи з стисненням PNG для 32-бітних значків (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Підтримувані обмеження та формати"
-
-      "description": "<ul><li><strong>Прийняті вхідні дані:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальний розмір файлу:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вихід:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Усунення неполадок"
-
-      "description": "<ul><li><strong>Фавікон не відображається:</strong> Очистіть кеш і переконайтеся, що <code>/favicon.ico</code> знаходиться в корені сайту з <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Зубчасті краї:</strong> Почніть з більшого, висококонтрастного PNG; зменшуйте розмір акуратно.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що PNG ≤ 16&nbsp;МБ.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "Особливості нашого конвертера PNG в ICO"
-
-      "description": "<ul><li>100% безкоштовно без водяних знаків</li><li>Автоматична оптимізація розміру</li><li>Збереження прозорості</li><li>Безпечна обробка</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Цей конвертер PNG в ICO безкоштовний?"
-
-      "answer": "Так, конвертер абсолютно безкоштовний, без прихованих платежів або підписок."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Які розміри підтримуються у файлах ICO?"
-
-      "answer": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Чи можу я використовувати файли ICO для фавіконів вебсайту?"
-
-      "answer": "Так. <code>favicon.ico</code> широко підтримується основними браузерами."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "Які розміри файлів підтримуються?"
-
-      "answer": "Ви можете завантажувати зображення до 16&nbsp;МБ на файл."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Чи безпечні мої файли?"
-
-      "answer": "Файли обробляються автоматично і не зберігаються довше, ніж необхідно для конвертації."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Чи буде якість значка хорошою?"
-
-      "answer": "Ми зберігаємо прозорість PNG і генеруємо кілька розмірів для чіткого відображення на малих розмірах."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "Для найкращих результатів використовуйте чіткий, висококонтрастний PNG. Розмістіть <code>/favicon.ico</code> в корені вашого сайту та посилайтеся на нього з <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "Конвертувати JPG в ICO"
-
-      "url": "/uk/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Конвертувати BMP в ICO"
-
-      "url": "/uk/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "Конвертувати SVG в ICO"
-
-      "url": "/uk/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "Конвертувати ICO в PNG"
-
-      "url": "/uk/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер PNG в ICO - Безкоштовно та Онлайн"
-
-      "url": "https://miconvert.com/uk/convert/png-to-ico"
-
-      "description": "Безкоштовний онлайн інструмент для конвертації зображень PNG в ICO для фавіконів та значків на робочому столі Windows."
-
-      "inLanguage": "uk"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Головна"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертувати"
-
-          "item": "https://miconvert.com/uk/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG в ICO"
-
-          "item": "https://miconvert.com/uk/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер PNG в ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/uk/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Набір значків різних розмірів"
-
-        "Збереження прозорості"
-
-        "Швидка обробка"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Цей конвертер PNG в ICO безкоштовний?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Так, конвертер абсолютно безкоштовний, без прихованих платежів або підписок."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Які розміри файлів підтримуються?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ви можете завантажувати зображення до 16 МБ на файл."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Які розміри підтримуються у файлах ICO?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Як конвертувати PNG в ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити PNG та виберіть своє зображення."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Зачекайте, поки обробка завершиться."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити ICO, щоб зберегти свій значок."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Конвертер PNG в ICO"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

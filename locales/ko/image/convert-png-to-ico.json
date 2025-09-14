@@ -1,355 +1,235 @@
 {
-  "lang": "ko"
-
-  "lang_name": "한국어"
-
-  "title": "PNG를 ICO로 변환기 - 무료 및 온라인 | miconvert.com"
-
-  "sub_title": "PNG 이미지를 온라인으로 ICO 형식으로 변환하여 파비콘 및 바탕 화면 아이콘을 만드세요. 무료, 빠르며 워터마크가 없습니다."
-
-  "hint": "변환을 시작하려면 PNG 이미지를 업로드하세요..."
-
-  "btn_download": "ICO로 변환"
-
-  "btn_paste": "PNG 업로드"
-
-  "btn_clear": "지우기"
-
+  "lang": "ko",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>완벽한 파비콘과 바탕 화면 아이콘을 위해 <strong>PNG를 ICO로 변환</strong>하세요! 우리의 무료 PNG에서 ICO 변환기는 브라우저와 Windows 바탕 화면에서 선명하게 보이는 전문적인 다중 크기 아이콘을 생성합니다.</p><p>ICO 파일은 여러 크기를 하나의 파일에 묶을 수 있으며(예: 16–256 px), 파비콘 및 앱/바로가기 아이콘에 적합합니다. PNG의 투명성은 어두운/밝은 배경에서 부드러운 가장자리를 위해 유지됩니다.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "온라인에서 PNG를 ICO로 변환 - 무료 PNG에서 ICO 변환기 | miconvert.com"
-
-    "description": "파비콘 및 바탕 화면 아이콘을 위해 온라인에서 PNG를 ICO로 변환하세요. 무료, 빠르며 안전한 PNG에서 ICO 변환기 도구입니다."
-
-    "keywords": "png to ico, png를 ico로 변환, 무료 png to ico, 온라인 ico 변환기, 파비콘 제작기"
-
-    "canonical": "https://miconvert.com/ko/convert/png-to-ico"
-
-    "og_title": "PNG를 ICO로 변환기 - 무료 및 온라인"
-
-    "og_description": "PNG 이미지를 ICO 형식으로 변환하여 파비콘 및 바탕 화면 아이콘을 만드세요. 100% 무료, 빠르며 안전합니다."
-
-    "og_url": "https://miconvert.com/ko/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "온라인에서 PNG를 ICO로 변환"
-
-    "description": "파비콘 및 바탕 화면 아이콘을 위한 무료 및 빠른 PNG에서 ICO 변환기. 모든 장치에서 즉시 작동하며, 가입이 필요하지 않습니다."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "왜 PNG를 ICO로 변환해야 하나요?"
-
-      "description": "<p>ICO는 아이콘을 위해 만들어졌습니다:</p><ul><li><strong>다중 크기 지원:</strong> 16–256 px 변형을 하나의 파일에 묶을 수 있습니다.</li><li><strong>파비콘 표준:</strong> 주요 브라우저에서 인식됩니다.</li><li><strong>Windows 호환성:</strong> 기본 바탕 화면/앱 아이콘 형식입니다.</li><li><strong>투명성:</strong> PNG 알파가 유지되어 부드러운 가장자리를 제공합니다.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "온라인에서 PNG를 ICO로 변환하는 방법"
-
-      "description": "<ol><li><em>PNG 업로드</em>를 클릭하고 이미지를 선택하세요.</li><li>처리 및 최적화를 기다리세요.</li><li><em>ICO 다운로드</em>를 클릭하여 아이콘을 저장하세요.</li></ol><p>우리는 일반 아이콘 크기를 자동으로 생성합니다.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "ICO 형식 사양"
-
-      "description": "<ul><li><strong>표준 크기:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>색 깊이:</strong> 최대 32비트 RGBA</li><li><strong>투명성:</strong> 전체 알파 채널</li><li><strong>구조:</strong> 헤더 + 여러 이미지 항목</li><li><strong>압축:</strong> 32비트 아이콘을 위한 PNG 압축 항목 (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "지원되는 제한 및 형식"
-
-      "description": "<ul><li><strong>허용된 입력:</strong> PNG (<code>image/png</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16&nbsp;MB</li><li><strong>출력:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "문제 해결"
-
-      "description": "<ul><li><strong>파비콘이 표시되지 않음:</strong> 캐시를 지우고 <code>/favicon.ico</code>가 사이트 루트에 있으며 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>로 참조되는지 확인하세요.</li><li><strong>거친 가장자리:</strong> 더 크고 고대비 PNG에서 시작하여 깨끗하게 축소하세요.</li><li><strong>업로드 실패:</strong> PNG가 ≤ 16&nbsp;MB인지 확인하세요.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "우리의 PNG에서 ICO 변환기의 기능"
-
-      "description": "<ul><li>100% 무료, 워터마크 없음</li><li>자동 크기 최적화</li><li>투명성 유지</li><li>안전한 처리</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "이 PNG에서 ICO 변환기는 무료인가요?"
-
-      "answer": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "ICO 파일에서 지원되는 크기는 무엇인가요?"
-
-      "answer": "일반적인 크기는 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 픽셀입니다."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "ICO 파일을 웹사이트 파비콘으로 사용할 수 있나요?"
-
-      "answer": "네. <code>favicon.ico</code>는 주요 브라우저에서 널리 지원됩니다."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "지원되는 파일 크기는 무엇인가요?"
-
-      "answer": "파일당 최대 16&nbsp;MB의 이미지를 업로드할 수 있습니다."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "내 파일은 안전한가요?"
-
-      "answer": "파일은 자동으로 처리되며 변환에 필요한 시간 이상으로 보관되지 않습니다."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "아이콘 품질이 좋을까요?"
-
-      "answer": "우리는 PNG 투명성을 유지하고 작은 크기에서 선명하게 렌더링하기 위해 여러 크기를 생성합니다."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "최상의 결과를 위해 선명하고 고대비의 PNG를 사용하세요. <code>/favicon.ico</code>를 사이트 루트에 두고 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>로 참조하세요."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "JPG를 ICO로 변환"
-
-      "url": "/ko/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "BMP를 ICO로 변환"
-
-      "url": "/ko/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "SVG를 ICO로 변환"
-
-      "url": "/ko/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "ICO를 PNG로 변환"
-
-      "url": "/ko/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG를 ICO로 변환기 - 무료 및 온라인"
-
-      "url": "https://miconvert.com/ko/convert/png-to-ico"
-
-      "description": "파비콘 및 Windows 바탕 화면 아이콘을 위해 PNG 이미지를 ICO로 변환하는 무료 온라인 도구입니다."
-
-      "inLanguage": "ko"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "홈"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "변환"
-
-          "item": "https://miconvert.com/ko/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG를 ICO로"
-
-          "item": "https://miconvert.com/ko/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG에서 ICO 변환기"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ko/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "다중 크기 아이콘 세트"
-
-        "투명성 유지"
-
-        "빠른 처리"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "이 PNG에서 ICO 변환기는 무료인가요?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "지원되는 파일 크기는 무엇인가요?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "파일당 최대 16 MB의 이미지를 업로드할 수 있습니다."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "ICO 파일에서 지원되는 크기는 무엇인가요?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "일반적인 크기는 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 픽셀입니다."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG를 ICO로 변환하는 방법"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "PNG 업로드를 클릭하고 이미지를 선택하세요."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "처리가 완료될 때까지 기다리세요."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "ICO 다운로드를 클릭하여 아이콘을 저장하세요."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "PNG에서 ICO 변환기"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

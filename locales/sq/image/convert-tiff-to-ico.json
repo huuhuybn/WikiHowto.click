@@ -1,379 +1,249 @@
 {
-  "lang": "sq"
-
-  "lang_name": "Shqip"
-
-  "title": "Konvertues TIFF në ICO - Falas & Online | miconvert.com"
-
-  "sub_title": "Konvertoni imazhet TIFF në formatin ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe pa ujëra."
-
-  "hint": "Ngarko imazhin tuaj TIFF për të filluar konvertimin..."
-
-  "btn_download": "Konverto në ICO"
-
-  "btn_paste": "Ngarko TIFF"
-
-  "btn_clear": "Pastro"
-
-  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+  "lang": "sq",
+  "lang_name": "English",
+  "title": "TIFF to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert TIFF images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your TIFF image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload TIFF",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg",
   "head": {
-    "title": "Konvertoni TIFF në ICO - Konvertuesi Falas Online TIFF në ICO | miconvert.com"
-
-    "description": "Konvertoni imazhet TIFF në formatin ICO online falas. Konvertim me cilësi të lartë TIFF në ICO për favicon dhe ikona desktopi."
-
-    "keywords": "tiff në ico, konverto tiff në ico, falas tiff në ico, konvertues online ico, konvertimi i ikonave, krijuesi i favicon"
-
-    "canonical": "https://miconvert.com/sq/convert/tiff-to-ico"
-
-    "og_title": "Konvertues TIFF në ICO - Falas & Online"
-
-    "og_description": "Konvertoni imazhet TIFF në formatin ICO për favicon dhe ikona desktopi. 100% falas, shpejt, dhe të sigurta."
-
-    "og_url": "https://miconvert.com/sq/convert/tiff-to-ico"
-
+    "title": "Convert TIFF to ICO - Free Online TIFF to ICO Converter | miconvert.com",
+    "description": "Convert TIFF images to ICO format online for free. High-quality TIFF to ICO conversion for favicons and desktop icons.",
+    "keywords": "tiff to ico, convert tiff to ico, free tiff to ico, online ico converter, icon conversion, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/tiff-to-ico",
+    "og_title": "TIFF to ICO Converter - Free & Online",
+    "og_description": "Convert TIFF images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/tiff-to-ico",
     "og_image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertoni TIFF në ICO Online"
-
-    "description": "Konvertuesi falas dhe i shpejtë TIFF në ICO për favicon dhe ikona desktopi. Funksionon menjëherë në çdo pajisje — nuk kërkohet regjistrim."
-
-  }
+    "title": "Convert TIFF to ICO Online",
+    "description": "Free and fast TIFF to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "converter": {
-    "type": "tiff-to-ico"
-
-    "title": "Konvertues TIFF në ICO"
-
-    "description": "Konvertoni imazhet TIFF në ikona ICO me shumë madhësi me transparencën e ruajtur kur është e disponueshme."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "TIFF"
-
-    "outputFormat": "ICO"
-
+    "type": "tiff-to-ico",
+    "title": "TIFF to ICO Converter",
+    "description": "Convert TIFF images to multi-size ICO icons with transparency preserved when available.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "TIFF",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/tiff"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Konvertim ICO me cilësi të lartë"
-
-      "Set ikone me shumë madhësi (16–256 px)"
-
-      "Transparenca e ruajtur (nëse është e pranishme)"
-
-      "Mjet online i shpejtë dhe falas"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved (if present)",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konvertimi TIFF në ICO përfundoi"
-
-    "back_button": "Kthehu te Konvertuesi"
-
-    "convert_another": "Konverto një TIFF tjetër"
-
-    "quick_conversions": "Konvertime të shpejta:"
-
-  }
+    "title": "TIFF to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another TIFF",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Pse të konvertoni TIFF në ICO?"
-
-      "description": "<p>ICO është ndërtuar për ikona dhe favicon:</p><ul><li><strong>Multi-madhësi në një skedar:</strong> Varianta 16–256 px të paketuar për renderim të qartë.</li><li><strong>Standardi i favicon:</strong> Funksionon në të gjitha shfletuesit kryesorë.</li><li><strong>Native në Windows:</strong> Ideale për ikona desktopi/aplikacionesh/shkurtesh.</li><li><strong>Transparenca:</strong> Mbështetje alfa për skaj të butë.</li></ul>"
-
-    }
+      "title": "Why Convert TIFF to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> 16–256 px variants bundled for crisp rendering.</li><li><strong>Favicon standard:</strong> Works across major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Si të konvertoni TIFF në ICO Online"
-
-      "description": "<ol><li>Klikoni <em>Ngarko TIFF</em> dhe zgjidhni imazhin tuaj.</li><li>Prisni për përpunim dhe optimizim.</li><li>Klikoni <em>Shkarko ICO</em> për të ruajtur ikonën tuaj.</li></ol><p>Ne gjenerojmë automatikisht madhësitë e zakonshme të ikonave.</p>"
-
-    }
+      "title": "How to Convert TIFF to ICO Online",
+      "description": "<ol><li>Click <em>Upload TIFF</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Kufijtë & Formatet e Mbështetura"
-
-      "description": "<ul><li><strong>Input i pranuar:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Dalja:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Faqet:</strong> TIFF me shumë faqe: vetëm <em>faqja e parë</em> konvertohet.</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Pages:</strong> Multi-page TIFFs: only the <em>first page</em> is converted.</li></ul>"
+    },
     {
-      "title": "Praktikat më të Mira për Ikona të Qarta"
-
-      "description": "<ul><li>Filloni me një imazh <strong>katror</strong> dhe shtoni padding për të shmangur prerjen.</li><li>Përdorni forma të qarta dhe kontrast të lartë për madhësitë 16–32 px.</li><li>Nëse keni nevojë për skaj transparent, sigurohuni që TIFF të përmbajë një kanal alfa ose konvertoni një PNG me transparencë në vend.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> image and add padding to avoid clipping.</li><li>Use clear shapes and high contrast for 16–32 px sizes.</li><li>If you need transparent edges, ensure the TIFF contains an alpha channel or convert a PNG with transparency instead.</li></ul>"
+    },
     {
-      "title": "Zgjidhja e Problemeve"
-
-      "description": "<ul><li><strong>Favicon nuk po përditësohet:</strong> Pastroni cache-n e shfletuesit dhe sigurohuni që lidhni <code>/favicon.ico</code> me <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Madhësi të vogla të thyer:</strong> Ngarko një burim më të madh dhe të pastër; mjeti do ta zvogëlojë në 16–32 px.</li><li><strong>Ngarkimi dështon:</strong> Konfirmoni <code>image/tiff</code> dhe ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear browser cache and ensure you link <code>/favicon.ico</code> with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged small sizes:</strong> Upload a larger, clean source; the tool will downscale to 16–32 px.</li><li><strong>Upload fails:</strong> Confirm <code>image/tiff</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "A është ky konvertues TIFF në ICO falas?"
-
-      "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
-
-    }
+      "question": "Is this TIFF to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "A do të funksionojë ICO në të gjitha sistemet operative?"
-
-      "answer": "ICO mbështetet natyrshëm në Windows dhe njihet nga shfletuesit kryesorë. Mjetet macOS/Linux gjithashtu mund të shohin/redaktojnë ICO."
-
-    }
+      "question": "Will ICO work on all operating systems?",
+      "answer": "ICO is natively supported on Windows and recognized by major browsers. macOS/Linux tools can view/edit ICO as well."
+    },
     {
-      "question": "Cilat madhësi mbështeten për skedarët ICO?"
-
-      "answer": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Cilat madhësi skedarësh mbështeten?"
-
-      "answer": "Mund të ngarkoni imazhe deri në 16&nbsp;MB për skedar."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "A janë skedarët e mi të sigurt?"
-
-      "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "A mund të konvertoj disa TIFF njëherësh?"
-
-      "answer": "Kjo faqe konverton një skedar në një kohë. Për nevoja në masë, përsëritni procesin ose përdorni një mjet grupi."
-
-    }
+      "question": "Can I convert multiple TIFFs at once?",
+      "answer": "This page converts one file at a time. For bulk needs, repeat the process or use a batch tool."
+    },
     {
-      "question": "A ruan konvertuesi transparencën?"
-
-      "answer": "Nëse TIFF juaj përmban një kanal alfa, transparenca do të ruhet në ICO."
-
+      "question": "Does the converter keep transparency?",
+      "answer": "If your TIFF includes an alpha channel, transparency will be preserved in the ICO."
     }
-  ]
-  "note": "TIFF me shumë faqe: vetëm faqja e parë konvertohet. Për rezultate më të mira, përdorni një imazh katror me padding dhe, nëse është e nevojshme, një burim që përmban transparencë."
-
+  ],
+  "note": "Multi-page TIFFs: only the first page is converted. For best results, use a square image with padding and, if needed, a source that includes transparency.",
   "related_links": [
     {
-      "title": "Konverto PNG në ICO"
-
-      "url": "/sq/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konverto JPG në ICO"
-
-      "url": "/sq/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konverto ICO në PNG"
-
-      "url": "/sq/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konverto TIFF në PNG"
-
-      "url": "/sq/convert/tiff-to-png"
-
+      "title": "Convert TIFF to PNG",
+      "url": "/en/convert/tiff-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues TIFF në ICO - Falas & Online"
-
-      "url": "https://miconvert.com/sq/convert/tiff-to-ico"
-
-      "description": "Mjet online falas për të konvertuar imazhet TIFF në ICO për favicon dhe ikona desktopi Windows."
-
-      "inLanguage": "sq"
-
-      "image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
+      "description": "Free online tool to convert TIFF images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/tiff-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Kryefaqja"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverto"
-
-          "item": "https://miconvert.com/sq/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "TIFF në ICO"
-
-          "item": "https://miconvert.com/sq/convert/tiff-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF to ICO",
+          "item": "https://miconvert.com/en/convert/tiff-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues TIFF në ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sq/convert/tiff-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Set ikone me shumë madhësi"
-
-        "Transparenca e ruajtur"
-
-        "Përpunim i shpejtë"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "A është ky konvertues TIFF në ICO falas?"
-
+          "@type": "Question",
+          "name": "Is this TIFF to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Cilat madhësi skedarësh mbështeten?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Cilat madhësi mbështeten në skedarët ICO?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Si të konvertoni TIFF në ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert TIFF to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Ngarko TIFF dhe zgjidhni imazhin tuaj."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload TIFF and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Prisni për përpunimin dhe optimizimin për të përfunduar."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Shkarko ICO për të ruajtur ikonën tuaj."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Konvertues TIFF në ICO"
-
-      ]
+        "TIFF to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

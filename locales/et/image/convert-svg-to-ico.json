@@ -1,363 +1,240 @@
 {
-  "lang": "et"
-
-  "lang_name": "Eesti"
-
-  "title": "SVG ICO konverter - Tasuta ja veebis | miconvert.com"
-
-  "sub_title": "Muuda SVG pilte ICO formaati veebis faviconide ja töölaua ikoonide jaoks. Tasuta, kiire ja ilma veemärkideta."
-
-  "hint": "Laadi üles oma SVG pilt, et alustada konverteerimist..."
-
-  "btn_download": "Muuda ICO-ks"
-
-  "btn_paste": "Laadi üles SVG"
-
-  "btn_clear": "Kustuta"
-
-  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
-
+  "lang": "et",
+  "lang_name": "English",
+  "title": "SVG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert SVG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your SVG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload SVG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg",
   "converter": {
-    "type": "svg-to-ico"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/svg+xml"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Muuda oma <strong>SVG ICO-ks</strong> ideaalse faviconide ja töölaua ikoonide jaoks! Meie tasuta konverter rasteriseerib sinu vektori SVG teravaks mitme suurusega ICO-ks, mis töötab erinevates brauserites ja Windowsi töölaual.</p><p>ICO võib ühes failis sisaldada mitmeid suurusi (nt 16–256 px), nii et sinu ikoon näeb vahekaartidel, otseteedel ja kõrge DPI ekraanidel terav välja. Läbipaistvus säilib sujuvate servade jaoks heledatel ja tumedatel taustadel.</p>"
-
+  },
+  "description": "<p>Transform your <strong>SVG to ICO</strong> for perfect favicons and desktop icons! Our free converter rasterizes your vector SVG to crisp multi-size ICO that works across browsers and Windows desktops.</p><p>ICO can bundle several sizes in one file (e.g., 16–256 px), so your icon looks sharp on tabs, shortcuts, and high-DPI displays. Transparency is preserved for smooth edges on light and dark backgrounds.</p>",
   "head": {
-    "title": "Muuda SVG ICO-ks veebis - Tasuta SVG ICO konverter | miconvert.com"
-
-    "description": "Muuda SVG ICO-ks veebis faviconide ja töölaua ikoonide jaoks. Tasuta, kiire ja turvaline SVG ICO konverter."
-
-    "keywords": "svg ico-ks, muuda svg ico-ks, tasuta svg ico-ks, veebis ico konverter, faviconi looja"
-
-    "canonical": "https://miconvert.com/en/convert/svg-to-ico"
-
-    "og_title": "SVG ICO konverter - Tasuta ja veebis"
-
-    "og_description": "Muuda SVG pilte ICO formaati faviconide ja töölaua ikoonide jaoks. 100% tasuta, kiire ja turvaline."
-
-    "og_url": "https://miconvert.com/en/convert/svg-to-ico"
-
+    "title": "Convert SVG to ICO Online - Free SVG to ICO Converter | miconvert.com",
+    "description": "Convert SVG to ICO online for favicons and desktop icons. Free, fast, and secure SVG to ICO converter tool.",
+    "keywords": "svg to ico, convert svg to ico, free svg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/svg-to-ico",
+    "og_title": "SVG to ICO Converter - Free & Online",
+    "og_description": "Convert SVG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/svg-to-ico",
     "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuda SVG ICO-ks veebis"
-
-    "description": "Tasuta ja kiire SVG ICO konverter faviconide ja töölaua ikoonide jaoks. Töötab koheselt igas seadmes - registreerimist ei nõuta."
-
-  }
+    "title": "Convert SVG to ICO Online",
+    "description": "Free and fast SVG to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "h2": [
     {
-      "title": "Miks muuda SVG ICO-ks?"
-
-      "description": "<p>SVG annab sulle resolutsioonist sõltumatud kujundid; ICO annab sulle natiivse ikooni ühilduvuse:</p><ul><li><strong>Mitme suuruse tugi:</strong> Kogu 16–256 px variandid ühte faili.</li><li><strong>Faviconi standard:</strong> Laias laastus tunnustatud brauserites.</li><li><strong>Windowsi ühilduvus:</strong> Natiivne formaat töölaua/rakenduse ikoonide jaoks.</li><li><strong>Läbipaistvus:</strong> Sujuvad servad alfa säilitamisega.</li></ul>"
-
-    }
+      "title": "Why Convert SVG to ICO?",
+      "description": "<p>SVG gives you resolution-independent shapes; ICO gives you native icon compatibility:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Widely recognized by browsers.</li><li><strong>Windows compatibility:</strong> Native format for desktop/app icons.</li><li><strong>Transparency:</strong> Smooth edges with alpha preserved.</li></ul>"
+    },
     {
-      "title": "Kuidas muuda SVG ICO-ks veebis"
-
-      "description": "<ol><li>Kliki <em>Laadi üles SVG</em> ja vali oma vektorfail.</li><li>Oota rasteriseerimist ja optimeerimist.</li><li>Kliki <em>Laadi alla ICO</em>, et salvestada oma ikoon.</li></ol><p>Me genereerime automaatselt tavalised suurused teravate tulemuste saavutamiseks.</p>"
-
-    }
+      "title": "How to Convert SVG to ICO Online",
+      "description": "<ol><li>Click <em>Upload SVG</em> and select your vector file.</li><li>Wait for rasterization and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common sizes automatically for sharp results.</p>"
+    },
     {
-      "title": "ICO formaadi spetsifikatsioonid"
-
-      "description": "<ul><li><strong>Standard suurused:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Värvisügavus:</strong> Kuni 32-bitine RGBA</li><li><strong>Kompresseerimine:</strong> PNG-kompressiooniga kirjed 32-bitiste ikoonide jaoks (Vista+)</li><li><strong>Struktuur:</strong> Pealkiri + mitu pildikirjet ühes failis</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li><li><strong>Structure:</strong> Header + multiple image entries in one file</li></ul>"
+    },
     {
-      "title": "Toetatud piirangud ja formaadid"
-
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksimaalne failisuurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Probleemide lahendamine"
-
-      "description": "<ul><li><strong>Favicon ei näita:</strong> Kustuta vahemälu ja veendu, et <code>/favicon.ico</code> on lingitud <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> kaudu.</li><li><strong>Fondid/filtrid:</strong> Mitte-embeditud fondid, keerulised filtrid või välised varad võivad rasteriseerida erinevalt. Muuda tekst kontuurideks ja inline varad SVG-s.</li><li><strong>Kärpimine:</strong> Kasuta ruudukujulist kunstipinda koos padjandiga, et vältida kärpimist pärast rasteriseerimist.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et SVG ≤ 16&nbsp;MB ja kehtiv <code>image/svg+xml</code>.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is linked via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filters:</strong> Non-embedded fonts, complex filters, or external assets may rasterize differently. Convert text to outlines and inline assets in the SVG.</li><li><strong>Cropping:</strong> Use a square artboard with padding to avoid clipping after rasterization.</li><li><strong>Upload fails:</strong> Ensure SVG ≤ 16&nbsp;MB and valid <code>image/svg+xml</code>.</li></ul>"
+    },
     {
-      "title": "Parimad tavad"
-
-      "description": "<ul><li>Disaini 512×512 või 1024×1024 ruudukujulisel lõuendil puhaste allahindluste jaoks.</li><li>Hoia kujundeid julgetena; väldi õhukesi jooni väikestes suurustes.</li><li>Kasutage kõrget kontrasti loetavuse tagamiseks 16–32 px ikoonides.</li></ul>"
-
-    }
+      "title": "Best Practices",
+      "description": "<ul><li>Design on a 512×512 or 1024×1024 square canvas for clean downscales.</li><li>Keep shapes bold; avoid thin hairlines at small sizes.</li><li>Use high contrast for readability in 16–32 px icons.</li></ul>"
+    },
     {
-      "title": "Meie SVG ICO konverteri omadused"
-
-      "description": "<ul><li>100% tasuta ilma veemärkideta</li><li>Automaatne vektor→raster konverteerimine</li><li>Mitme suurusega ikoonide genereerimine</li><li>Läbipaistvus säilitamine</li><li>Turvaline töötlemine</li></ul>"
-
+      "title": "Features of Our SVG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic vector→raster conversion</li><li>Multi-size icon generation</li><li>Transparency preserved</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Kas see SVG ICO konverter on tasuta?"
-
-      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
-
-    }
+      "question": "Is this SVG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Milliseid suurusi toetatakse ICO failides?"
-
-      "answer": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Kas ma saan ICO-d kasutada veebisaidi faviconide jaoks?"
-
-      "answer": "Jah. Aseta <code>/favicon.ico</code> oma saidi juure ja viita sellele <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> kaudu."
-
-    }
+      "question": "Can I use ICO for website favicons?",
+      "answer": "Yes. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
     {
-      "question": "Milliseid failisuurusi toetatakse?"
-
-      "answer": "Sa saad üles laadida SVG faile kuni 16&nbsp;MB."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload SVG files up to 16&nbsp;MB."
+    },
     {
-      "question": "Kas mu failid on turvalised?"
-
-      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Kas ikooni kvaliteet on hea?"
-
-      "answer": "Jah. Me rasteriseerime sinu vektorist mitmes suuruses, et hoida servad teravad ja läbipaistvus puutumatuna."
-
+      "question": "Will the icon quality be good?",
+      "answer": "Yes. We rasterize from your vector at multiple sizes to keep edges crisp and transparency intact."
     }
-  ]
-  "note": "SVG-d rasteriseeritakse konverteerimise ajal. Ühtsete tulemuste saavutamiseks muuda tekst kontuurideks ja embedige vajalikud varad."
-
+  ],
+  "note": "SVGs are rasterized during conversion. For consistent results, convert text to outlines and embed required assets.",
   "related_links": [
     {
-      "title": "Muuda PNG ICO-ks"
-
+      "title": "Convert PNG to ICO",
       "url": "/en/convert/png-to-ico"
-
-    }
+    },
     {
-      "title": "Muuda JPG ICO-ks"
-
+      "title": "Convert JPG to ICO",
       "url": "/en/convert/jpg-to-ico"
-
-    }
+    },
     {
-      "title": "Muuda ICO PNG-ks"
-
+      "title": "Convert ICO to PNG",
       "url": "/en/convert/ico-to-png"
-
-    }
+    },
     {
-      "title": "Muuda SVG PNG-ks"
-
+      "title": "Convert SVG to PNG",
       "url": "/en/convert/svg-to-png"
-
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG ICO konverter - Tasuta ja veebis"
-
-      "url": "https://miconvert.com/en/convert/svg-to-ico"
-
-      "description": "Tasuta veebitööriist SVG piltide konverteerimiseks ICO-ks faviconide ja Windowsi töölaua ikoonide jaoks."
-
-      "inLanguage": "et"
-
-      "image": "https://miconvert.com/images/svg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
+      "description": "Free online tool to convert SVG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/svg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Avaleht"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muuda"
-
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
           "item": "https://miconvert.com/en/convert/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG ICO-ks"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG to ICO",
           "item": "https://miconvert.com/en/convert/svg-to-ico"
-
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG ICO konverter"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/svg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Vektor rasteriks"
-
-        "Mitme suuruse komplekt"
-
-        "Läbipaistvus säilitamine"
-
-      ]
+        "Vector to raster",
+        "Multi-size set",
+        "Transparency preserved"
+      ],
       "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Kas see SVG ICO konverter on tasuta?"
-
+          "@type": "Question",
+          "name": "Is this SVG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Milliseid failisuurusi toetatakse?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sa saad üles laadida SVG faile kuni 16 MB."
-
+            "@type": "Answer",
+            "text": "You can upload SVG files up to 16 MB."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Milliseid suurusi toetatakse ICO failides?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tavalised suurused on 16×16, 32×32, 48×48, 64×64, 128×128 ja 256×256 px."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuidas muuda SVG ICO-ks"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert SVG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kliki Laadi üles SVG ja vali oma vektorfail."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload SVG and select your vector file."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Oota rasteriseerimist ja optimeerimist."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for rasterization and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kliki Laadi alla ICO, et salvestada ikoonifail."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save the icon file."
         }
-      ]
+      ],
       "tool": [
-        "SVG ICO konverter"
-
-      ]
+        "SVG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

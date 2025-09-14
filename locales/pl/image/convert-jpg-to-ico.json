@@ -1,402 +1,264 @@
 {
-  "lang": "pl"
-
-  "lang_name": "Polski"
-
-  "title": "Konwerter JPG na ICO - Darmowy i Online | miconvert.com"
-
-  "sub_title": "Konwertuj obrazy JPG na ICO online dla faviconów i ikon pulpitu Windows. Bez znaków wodnych."
-
-  "hint": "Prześlij swój obraz JPG, aby rozpocząć konwersję..."
-
-  "btn_download": "Konwertuj na ICO"
-
-  "btn_paste": "Prześlij JPG"
-
-  "btn_clear": "Wyczyść"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-ico.jpg"
-
+  "lang": "pl",
+  "lang_name": "English",
+  "title": "JPG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert JPG images to ICO online for favicons and Windows desktop icons. No watermarks.",
+  "hint": "Upload your JPG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload JPG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/jpg-to-ico.jpg",
   "head": {
-    "title": "Konwertuj JPG na ICO - Darmowy Online Konwerter JPG na ICO"
-
-    "description": "Konwertuj obrazy JPG na format ICO online dla faviconów i ikon pulpitu. Darmowe, szybkie i bez znaków wodnych."
-
-    "keywords": "jpg na ico, konwertuj jpg na ico, darmowy jpg na ico, online konwerter ico, twórca faviconów"
-
-    "canonical": "https://miconvert.com/pl/convert/jpg-to-ico"
-
-    "og_title": "Konwerter JPG na ICO - Darmowy i Online"
-
-    "og_description": "Konwertuj obrazy JPG na format ICO dla faviconów i ikon pulpitu. 100% darmowe, szybkie i bezpieczne."
-
-    "og_url": "https://miconvert.com/pl/convert/jpg-to-ico"
-
+    "title": "Convert JPG to ICO - Free Online JPG to ICO Converter",
+    "description": "Convert JPG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+    "keywords": "jpg to ico, convert jpg to ico, free jpg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/jpg-to-ico",
+    "og_title": "JPG to ICO Converter - Free & Online",
+    "og_description": "Convert JPG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/jpg-to-ico",
     "og_image": "https://miconvert.com/images/jpg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konwertuj JPG na ICO Online"
-
-    "description": "Darmowy i szybki konwerter JPG na ICO zoptymalizowany dla faviconów i ikon pulpitu Windows. Działa natychmiast — nie wymaga rejestracji."
-
-  }
+    "title": "Convert JPG to ICO Online",
+    "description": "Free and fast JPG to ICO converter optimized for favicons and Windows desktop icons. Works instantly — no signup required."
+  },
   "converter": {
-    "type": "jpg-to-ico"
-
-    "title": "Konwerter JPG na ICO"
-
-    "description": "Konwertuj obrazy JPG na ICO dla stron internetowych i aplikacji Windows."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "ICO"
-
+    "type": "jpg-to-ico",
+    "title": "JPG to ICO Converter",
+    "description": "Convert JPG images to ICO for websites and Windows apps.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/jpeg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
     "features": [
-      "Wyjście ikony w wielu rozmiarach"
-
-      "Zoptymalizowane dla małych rozmiarów"
-
-      "Szybkie przetwarzanie"
-
-      "Darmowe narzędzie online"
-
-    ]
+      "Multi-size icon output",
+      "Optimized for small sizes",
+      "Fast processing",
+      "Free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konwersja JPG na ICO Zakończona"
-
-    "back_button": "Powrót do Konwertera"
-
-    "convert_another": "Konwertuj Inny JPG"
-
-    "quick_conversions": "Szybkie Konwersje:"
-
-  }
+    "title": "JPG to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another JPG",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Dlaczego Konwertować JPG na ICO?"
-
-      "description": "<p>ICO to standardowy format dla ikon Windows i faviconów:</p><ul><li><strong>Kontener wielkości:</strong> Zawiera kilka rozdzielczości w jednym pliku.</li><li><strong>Standard faviconów:</strong> Działa w głównych przeglądarkach.</li><li><strong>Kompatybilność z Windows:</strong> Natywne wsparcie dla ikon pulpitu/aplikacji.</li><li><strong>Wyraźne w małych rozmiarach:</strong> Zoptymalizowane dla wyświetlaczy 16–256 px.</li></ul><p><em>Uwaga:</em> JPG nie ma przezroczystości. Aby uzyskać przezroczyste ikony, zacznij od PNG.</p>"
-
-    }
+      "title": "Why Convert JPG to ICO?",
+      "description": "<p>ICO is the standard format for Windows icons and favicons:</p><ul><li><strong>Multi-size container:</strong> Include several resolutions in one file.</li><li><strong>Favicon standard:</strong> Works across major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon support.</li><li><strong>Crisp at small sizes:</strong> Optimized for 16–256 px displays.</li></ul><p><em>Note:</em> JPG doesn't have transparency. For transparent icons, start from PNG.</p>"
+    },
     {
-      "title": "Jak Konwertować JPG na ICO Online"
-
-      "description": "<ol><li>Kliknij <em>Prześlij JPG</em> i wybierz swój obraz.</li><li>Poczekaj na przetwarzanie i optymalizację.</li><li>Kliknij <em>Pobierz ICO</em>, aby uzyskać swoją ikonę.</li></ol><p>Automatycznie generujemy wspólne rozmiary ikon.</p>"
-
-    }
+      "title": "How to Convert JPG to ICO Online",
+      "description": "<ol><li>Click <em>Upload JPG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to get your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Specyfikacje Formatu ICO"
-
-      "description": "<ul><li><strong>Standardowe rozmiary:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Głębokość koloru:</strong> Do 32-bit RGBA (alpha)</li><li><strong>Przezroczystość:</strong> Pełne wsparcie kanału alfa</li><li><strong>Struktura:</strong> Nagłówek + wiele wpisów obrazów</li><li><strong>Kompresja:</strong> Wpisy skompresowane PNG dla ikon 32-bitowych (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA (alpha)</li><li><strong>Transparency:</strong> Full alpha channel supported</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Obsługiwane Limity i Format"
-
-      "description": "<ul><li><strong>Akceptowane wejście:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16&nbsp;MB na plik</li><li><strong>Wyjście:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Max file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Rozwiązywanie Problemów"
-
-      "description": "<ul><li><strong>Postrzępione krawędzie:</strong> Zacznij od źródła o wyższej rozdzielczości; ostre krawędzie lepiej skalują się w dół.</li><li><strong>Potrzebna przezroczystość:</strong> Konwertuj <a href='/pl/convert/png-to-ico'>PNG na ICO</a>, aby zachować alfa.</li><li><strong>Favicon się nie wyświetla:</strong> Wyczyść pamięć podręczną i upewnij się, że <code>/favicon.ico</code> znajduje się w katalogu głównym witryny i jest powiązane z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że plik to JPG/JPEG i ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Jagged edges:</strong> Start from a higher-resolution source; sharp edges downscale better.</li><li><strong>Need transparency:</strong> Convert <a href='/en/convert/png-to-ico'>PNG to ICO</a> so alpha is preserved.</li><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is at the site root and linked with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Upload fails:</strong> Make sure the file is JPG/JPEG and ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "Czym jest JPG?"
-
-      "description": "<p>JPG (JPEG) używa kompresji stratnej dla małych rozmiarów plików — idealne dla zdjęć i użycia w sieci, ale nie obsługuje przezroczystości.</p>"
-
-    }
+      "title": "What is JPG?",
+      "description": "<p>JPG (JPEG) uses lossy compression for small file sizes — ideal for photos and web use, but it does not support transparency.</p>"
+    },
     {
-      "title": "Czym jest ICO?"
-
-      "description": "<p>ICO to format ikon Windows i faviconów, który może łączyć wiele rozmiarów i głębokości kolorów w jednym pliku, wspierając przezroczystość alfa.</p>"
-
-    }
+      "title": "What is ICO?",
+      "description": "<p>ICO is the Windows and favicon icon format that can bundle multiple sizes and color depths into a single file, supporting alpha transparency.</p>"
+    },
     {
-      "title": "Przykłady użycia: Kiedy Konwertować JPG na ICO"
-
-      "description": "<ul><li><strong>Tworzenie faviconów:</strong> Generuj pojedynczy <code>favicon.ico</code> z wieloma rozmiarami.</li><li><strong>Aplikacje/skrót Windows:</strong> Zamień logotypy na ikony pulpitu/aplikacji.</li><li><strong>Spójność marki:</strong> Zapewnij wyraźne, spójne ikony w różnych rozdzielczościach.</li></ul>"
-
+      "title": "Use Cases: When to Convert JPG to ICO",
+      "description": "<ul><li><strong>Favicon creation:</strong> Generate a single <code>favicon.ico</code> with multiple sizes.</li><li><strong>Windows apps/shortcuts:</strong> Turn logos into desktop/app icons.</li><li><strong>Brand consistency:</strong> Ensure crisp, consistent icons across resolutions.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Czy ten konwerter JPG na ICO jest darmowy?"
-
-      "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
-
-    }
+      "question": "Is this JPG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Jakie rozmiary są obsługiwane w plikach ICO?"
-
-      "answer": "Wspólne rozmiary to 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 pikseli."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Czy mogę używać plików ICO jako faviconów na stronie internetowej?"
-
-      "answer": "Tak. <code>favicon.ico</code> jest szeroko wspierane w głównych przeglądarkach."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported across major browsers."
+    },
     {
-      "question": "Jakie rozmiary plików są obsługiwane?"
-
-      "answer": "Możesz przesyłać obrazy do 16&nbsp;MB na plik."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Czy moje pliki są bezpieczne?"
-
-      "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Czy jakość ikony będzie dobra?"
-
-      "answer": "Optymalizujemy dla wspólnych rozmiarów ikon i używamy wpisów skompresowanych PNG dla ostrych wyników."
-
-    }
+      "question": "Will the icon quality be good?",
+      "answer": "We optimize for common icon sizes and use PNG-compressed entries for sharp results."
+    },
     {
-      "question": "Czy mogę używać tego narzędzia na telefonie?"
-
-      "answer": "Tak. Konwerter jest przyjazny dla urządzeń mobilnych i działa w przeglądarkach iOS i Android."
-
-    }
+      "question": "Can I use this tool on my phone?",
+      "answer": "Yes. The converter is mobile-friendly and works on iOS and Android browsers."
+    },
     {
-      "question": "Czy JPG obsługuje przezroczystość w ICO?"
-
-      "answer": "JPG nie ma przezroczystości. Jeśli potrzebujesz przezroczystych ikon, konwertuj PNG na ICO."
-
+      "question": "Does JPG support transparency in ICO?",
+      "answer": "JPG has no transparency. If you need transparent icons, convert PNG to ICO instead."
     }
-  ]
-  "note": "Aby uzyskać przezroczyste ikony, zacznij od wejścia PNG. Umieść <code>/favicon.ico</code> w katalogu głównym swojej witryny i odwołaj się do niego za pomocą <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For transparent icons, start with PNG input. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "Konwertuj PNG na ICO"
-
-      "url": "/pl/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konwertuj BMP na ICO"
-
-      "url": "/pl/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "Konwertuj SVG na ICO"
-
-      "url": "/pl/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "Konwertuj ICO na PNG"
-
-      "url": "/pl/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konwerter JPG na ICO - Darmowy i Online"
-
-      "url": "https://miconvert.com/pl/convert/jpg-to-ico"
-
-      "description": "Darmowe narzędzie online do konwersji obrazów JPG na ICO dla faviconów i ikon pulpitu Windows."
-
-      "inLanguage": "pl"
-
-      "image": "https://miconvert.com/images/jpg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/jpg-to-ico",
+      "description": "Free online tool to convert JPG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/jpg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Strona główna"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konwertuj"
-
-          "item": "https://miconvert.com/pl/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG na ICO"
-
-          "item": "https://miconvert.com/pl/convert/jpg-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG to ICO",
+          "item": "https://miconvert.com/en/convert/jpg-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Konwerter JPG na ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/pl/convert/jpg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/jpg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Zestaw ikon w wielu rozmiarach"
-
-        "Wpisy skompresowane PNG"
-
-        "Szybkie przetwarzanie"
-
-      ]
+        "Multi-size icon set",
+        "PNG-compressed entries",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/jpg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Czy ten konwerter JPG na ICO jest darmowy?"
-
+          "@type": "Question",
+          "name": "Is this JPG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Jakie rozmiary plików są obsługiwane?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Możesz przesyłać obrazy do 16 MB na plik."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Czy JPG obsługuje przezroczystość w ICO?"
-
+          "@type": "Question",
+          "name": "Does JPG support transparency in ICO?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG nie ma przezroczystości. Aby uzyskać przezroczyste ikony, konwertuj PNG na ICO."
-
+            "@type": "Answer",
+            "text": "JPG has no transparency. For transparent icons, convert PNG to ICO."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak konwertować JPG na ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert JPG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknij Prześlij JPG i wybierz swój obraz."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload JPG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Poczekaj na zakończenie przetwarzania."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknij Pobierz ICO, aby zapisać swoją ikonę."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Konwerter JPG na ICO"
-
-      ]
+        "JPG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

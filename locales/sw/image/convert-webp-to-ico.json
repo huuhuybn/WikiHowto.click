@@ -1,381 +1,250 @@
 {
-  "lang": "sw"
-
-  "lang_name": "Kiswahili"
-
-  "title": "Mbadala wa WEBP hadi ICO - Bure na Mtandaoni | miconvert.com"
-
-  "sub_title": "Badilisha picha za WebP kuwa muundo wa ICO mtandaoni kwa ajili ya favicons na alama za desktop. Bure, haraka, na hakuna alama za maji."
-
-  "hint": "Pakia picha yako ya WebP ili kuanza kubadilisha..."
-
-  "btn_download": "Badilisha kuwa ICO"
-
-  "btn_paste": "Pakia WebP"
-
-  "btn_clear": "Futa"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "sw",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "Badilisha WebP kuwa ICO Mtandaoni - Mbadala wa Bure wa WebP hadi ICO | miconvert.com"
-
-    "description": "Badilisha picha za WebP kuwa muundo wa ICO mtandaoni bure. Mbadala wa WebP → ICO wa ubora wa juu kwa favicons na alama za desktop."
-
-    "keywords": "webp hadi ico, badilisha webp hadi ico, bure webp hadi ico, mbadala wa ico mtandaoni, mtengenezaji wa favicon"
-
-    "canonical": "https://miconvert.com/sw/convert/webp-to-ico"
-
-    "og_title": "Mbadala wa WebP hadi ICO - Bure na Mtandaoni"
-
-    "og_description": "Badilisha picha za WebP kuwa muundo wa ICO kwa favicons na alama za desktop. Bure kabisa, haraka, na salama."
-
-    "og_url": "https://miconvert.com/sw/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Badilisha WebP kuwa ICO Mtandaoni"
-
-    "description": "Mbadala wa bure na haraka wa WebP hadi ICO kwa favicons na alama za desktop. Inafanya kazi mara moja kwenye kifaa chochote - hakuna usajili unahitajika."
-
-  }
-  "description": "<p>Badilisha yako <strong>WebP hadi ICO</strong> kwa sekunde. ICO ni muundo wa ikoni wa asili kwa Windows na kiwango cha kawaida kwa favicons za wavuti. Tunahifadhi uwazi (alpha) na kuunda saizi nyingi ili ikoni yako ibaki wazi kwenye tabo, njia fupi, na skrini zenye DPI ya juu.</p><p><em>Kumbuka:</em> Faili za WebP zenye uhuishaji zinabadilishwa kuwa ikoni isiyo na mabadiliko kwa kutumia <strong>picha ya kwanza</strong>.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "Mbadala wa WebP hadi ICO"
-
-    "description": "Badilisha picha za WebP kuwa alama za ICO za saizi nyingi huku uwazi ukihifadhiwa."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Mbadala wa ICO wa ubora wa juu"
-
-      "Seti ya alama za saizi nyingi (16–256 px)"
-
-      "Uwazi umehifadhiwa"
-
-      "Zana ya mtandaoni haraka na bure"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Mabadiliko ya WebP hadi ICO Yamekamilika"
-
-    "back_button": "Rudi kwa Mbadala"
-
-    "convert_another": "Badilisha WebP Nyingine"
-
-    "quick_conversions": "Mabadiliko ya Haraka:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Kwa Nini Kubadilisha WebP kuwa ICO?"
-
-      "description": "<p>ICO imejengwa mahsusi kwa ajili ya alama na favicons:</p><ul><li><strong>Saizi nyingi katika faili moja:</strong> Panga tofauti za 16–256 px kwa uwasilishaji mzuri kila mahali.</li><li><strong>Kiwango cha Favicon:</strong> Kinatambuliwa na vivinjari vyote vikuu.</li><li><strong>Asili ya Windows:</strong> Inafaa kwa alama za desktop/app/njia fupi.</li><li><strong>Uwazi:</strong> Msaada kamili wa alpha kwa mipaka laini.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Jinsi ya Kubadilisha WebP kuwa ICO Mtandaoni"
-
-      "description": "<ol><li>Bonyeza <em>Pakia WebP</em> na uchague picha yako.</li><li>Subiri kwa ajili ya usindikaji na uboreshaji.</li><li>Bonyeza <em>Pakua ICO</em> ili kuhifadhi ikoni yako.</li></ol><p>Tunajitengenezea saizi za kawaida kwa matokeo mazuri.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "Ulinganisho wa ICO na WebP"
-
-      "description": "<ul><li><strong>Matumizi:</strong> ICO kwa alama/favicons; WebP kwa picha za wavuti kwa ujumla.</li><li><strong>Uwazi:</strong> Zote zinasaidia alpha; ICO inahifadhi mipaka safi kwenye saizi ndogo.</li><li><strong>Uhuishaji:</strong> ICO ni isiyo na mabadiliko; WebP yenye uhuishaji inakuwa ikoni isiyo na mabadiliko (picha ya kwanza).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Mipaka na Muundo Unaounga Mkono"
-
-      "description": "<ul><li><strong>Inayokubaliwa:</strong> WebP (<code>image/webp</code>)</li><li><strong>Saizi ya faili kubwa zaidi:</strong> 16&nbsp;MB kwa faili moja</li><li><strong>Matokeo:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Mbinu Bora za Alama Zenye Uwazi"
-
-      "description": "<ul><li>Anza na chanzo <strong>cha mraba</strong> na ongeza padding ili kuepuka kukatwa.</li><li>Tumia sura za ujasiri na tofauti kubwa kwa saizi za 16–32 px.</li><li>Kama WebP yako ina mandhariko yenye shughuli nyingi, rahisisha ili kuboresha uwazi wa saizi ndogo.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Kutatua Matatizo"
-
-      "description": "<ul><li><strong>Favicon haijasasishwa:</strong> Futa cache na uunganishe <code>/favicon.ico</code> kupitia <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Inaonekana kuwa na mipasuko kwenye 16 px:</strong> Pakia chanzo kikubwa, safi; kupunguza ukubwa kunaboresha uwazi.</li><li><strong>Pakia inashindwa:</strong> Hakikisha <code>image/webp</code> na ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je, mbadala huu wa WebP hadi ICO ni bure?"
-
-      "answer": "Ndio, ni bure kabisa bila alama za maji au ada zilizofichwa."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Ni saizi gani zinazoungwa mkono kwa faili za ICO?"
-
-      "answer": "Saizi za kawaida ni pamoja na 16×16, 32×32, 48×48, 64×64, 128×128, na 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Je, inahifadhi uwazi?"
-
-      "answer": "Ndio. Ikiwa WebP yako ina channel ya alpha, ICO inahifadhi hiyo (kanda za 32-bit RGBA)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "Je, mnaunga mkono WebP yenye uhuishaji?"
-
-      "answer": "WebP yenye uhuishaji inabadilishwa kuwa ikoni isiyo na mabadiliko kwa kutumia picha ya kwanza."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Je, naweza kubadilisha WebP nyingi kwa wakati mmoja?"
-
-      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Rudia mchakato kwa faili nyingi."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Ni saizi gani za faili zinazoungwa mkono?"
-
-      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili moja."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "Faili za ICO zimeboreshwa kwa saizi ndogo za kuonyesha. Kwa matokeo bora, tumia chanzo cha mraba, chenye tofauti kubwa na ongeza padding kidogo."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "Badilisha PNG hadi ICO"
-
-      "url": "/sw/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Badilisha JPG hadi ICO"
-
-      "url": "/sw/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Badilisha ICO hadi PNG"
-
-      "url": "/sw/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Badilisha WebP hadi PNG"
-
-      "url": "/sw/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Mbadala wa WebP hadi ICO - Bure na Mtandaoni"
-
-      "url": "https://miconvert.com/sw/convert/webp-to-ico"
-
-      "description": "Zana ya bure mtandaoni kubadilisha picha za WebP kuwa ICO kwa favicons na alama za desktop za Windows."
-
-      "inLanguage": "sw"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Nyumbani"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Badilisha"
-
-          "item": "https://miconvert.com/sw/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP hadi ICO"
-
-          "item": "https://miconvert.com/sw/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Mbadala wa WebP hadi ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sw/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Seti ya alama za saizi nyingi"
-
-        "Uwazi umehifadhiwa"
-
-        "Usindikaji wa haraka"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je, mbadala huu wa WebP hadi ICO ni bure?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ndio, ni bure kabisa bila alama za maji au ada zilizofichwa."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Ni saizi gani za faili zinazoungwa mkono?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Unaweza kupakia picha hadi 16 MB kwa faili moja."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Je, inahifadhi uwazi?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ndio. Ikiwa WebP yako ina channel ya alpha, ICO inahifadhi hiyo (kanda za 32-bit RGBA)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jinsi ya kubadilisha WebP kuwa ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Bonyeza Pakia WebP na uchague picha yako."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Subiri kwa ajili ya usindikaji na uboreshaji kukamilika."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Bonyeza Pakua ICO ili kuhifadhi ikoni yako."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Mbadala wa WebP hadi ICO"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

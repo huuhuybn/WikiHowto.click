@@ -1,363 +1,240 @@
 {
-  "lang": "sr"
-
-  "lang_name": "Srpski"
-
-  "title": "SVG u ICO Konverter - Besplatno i Online | miconvert.com"
-
-  "sub_title": "Konvertujte SVG slike u ICO format online za favicon-e i desktop ikone. Besplatno, brzo i bez vodenih žigova."
-
-  "hint": "Otpremite svoju SVG sliku da biste započeli konverziju..."
-
-  "btn_download": "Konvertuj u ICO"
-
-  "btn_paste": "Otpremi SVG"
-
-  "btn_clear": "Obriši"
-
-  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
-
+  "lang": "sr",
+  "lang_name": "English",
+  "title": "SVG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert SVG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your SVG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload SVG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg",
   "converter": {
-    "type": "svg-to-ico"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/svg+xml"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Transformišite svoj <strong>SVG u ICO</strong> za savršene favicon-e i desktop ikone! Naš besplatni konverter rasterizuje vaš vektorski SVG u oštre ICO ikone više veličina koje rade na svim pretraživačima i Windows desktop-ima.</p><p>ICO može sadržati više veličina u jednoj datoteci (npr. 16–256 px), tako da vaša ikona izgleda oštro na karticama, prečicama i ekranima visoke gustine. Transparentnost se čuva za glatke ivice na svetlim i tamnim pozadinama.</p>"
-
+  },
+  "description": "<p>Transform your <strong>SVG to ICO</strong> for perfect favicons and desktop icons! Our free converter rasterizes your vector SVG to crisp multi-size ICO that works across browsers and Windows desktops.</p><p>ICO can bundle several sizes in one file (e.g., 16–256 px), so your icon looks sharp on tabs, shortcuts, and high-DPI displays. Transparency is preserved for smooth edges on light and dark backgrounds.</p>",
   "head": {
-    "title": "Konvertujte SVG u ICO Online - Besplatni SVG u ICO Konverter | miconvert.com"
-
-    "description": "Konvertujte SVG u ICO online za favicon-e i desktop ikone. Besplatni, brzi i sigurni SVG u ICO konverter alat."
-
-    "keywords": "svg u ico, konvertuj svg u ico, besplatni svg u ico, online ico konverter, pravljenje favicon-a"
-
-    "canonical": "https://miconvert.com/sr/convert/svg-to-ico"
-
-    "og_title": "SVG u ICO Konverter - Besplatno i Online"
-
-    "og_description": "Konvertujte SVG slike u ICO format za favicon-e i desktop ikone. 100% besplatno, brzo i sigurno."
-
-    "og_url": "https://miconvert.com/sr/convert/svg-to-ico"
-
+    "title": "Convert SVG to ICO Online - Free SVG to ICO Converter | miconvert.com",
+    "description": "Convert SVG to ICO online for favicons and desktop icons. Free, fast, and secure SVG to ICO converter tool.",
+    "keywords": "svg to ico, convert svg to ico, free svg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/svg-to-ico",
+    "og_title": "SVG to ICO Converter - Free & Online",
+    "og_description": "Convert SVG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/svg-to-ico",
     "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertujte SVG u ICO Online"
-
-    "description": "Besplatni i brzi SVG u ICO konverter za favicon-e i desktop ikone. Radi odmah na bilo kojem uređaju — bez registracije."
-
-  }
+    "title": "Convert SVG to ICO Online",
+    "description": "Free and fast SVG to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "h2": [
     {
-      "title": "Zašto konvertovati SVG u ICO?"
-
-      "description": "<p>SVG vam daje oblike nezavisne od rezolucije; ICO vam daje nativnu kompatibilnost ikona:</p><ul><li><strong>Podrška za više veličina:</strong> Kombinujte 16–256 px varijante u jednoj datoteci.</li><li><strong>Favicon standard:</strong> Široko prepoznat od strane pretraživača.</li><li><strong>Windows kompatibilnost:</strong> Nativni format za desktop/aplikacione ikone.</li><li><strong>Transparentnost:</strong> Glatke ivice sa očuvanom alfom.</li></ul>"
-
-    }
+      "title": "Why Convert SVG to ICO?",
+      "description": "<p>SVG gives you resolution-independent shapes; ICO gives you native icon compatibility:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Widely recognized by browsers.</li><li><strong>Windows compatibility:</strong> Native format for desktop/app icons.</li><li><strong>Transparency:</strong> Smooth edges with alpha preserved.</li></ul>"
+    },
     {
-      "title": "Kako konvertovati SVG u ICO Online"
-
-      "description": "<ol><li>Kliknite <em>Otpremi SVG</em> i izaberite svoju vektorsku datoteku.</li><li>Sačekajte da se izvrši rasterizacija i optimizacija.</li><li>Kliknite <em>Preuzmi ICO</em> da sačuvate svoju ikonu.</li></ol><p>Automatski generišemo uobičajene veličine za oštre rezultate.</p>"
-
-    }
+      "title": "How to Convert SVG to ICO Online",
+      "description": "<ol><li>Click <em>Upload SVG</em> and select your vector file.</li><li>Wait for rasterization and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common sizes automatically for sharp results.</p>"
+    },
     {
-      "title": "ICO Format Specifikacije"
-
-      "description": "<ul><li><strong>Standardne veličine:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Dubina boje:</strong> Do 32-bit RGBA</li><li><strong>Kompresija:</strong> PNG-kompresovane stavke za 32-bitne ikone (Vista+)</li><li><strong>Struktura:</strong> Header + više slika u jednoj datoteci</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li><li><strong>Structure:</strong> Header + multiple image entries in one file</li></ul>"
+    },
     {
-      "title": "Podržani Limiti i Formati"
-
-      "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Rešavanje Problema"
-
-      "description": "<ul><li><strong>Favicon se ne prikazuje:</strong> Očistite keš i osigurajte da je <code>/favicon.ico</code> povezan putem <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fontovi/filteri:</strong> Ne-ugrađeni fontovi, složeni filteri ili spoljašnji resursi mogu se rasterizovati drugačije. Konvertujte tekst u konture i inline resurse u SVG-u.</li><li><strong>Obrezivanje:</strong> Koristite kvadratnu radnu površinu sa padding-om da izbegnete obrezivanje nakon rasterizacije.</li><li><strong>Otpremanje ne uspeva:</strong> Osigurajte da je SVG ≤ 16&nbsp;MB i validan <code>image/svg+xml</code>.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is linked via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filters:</strong> Non-embedded fonts, complex filters, or external assets may rasterize differently. Convert text to outlines and inline assets in the SVG.</li><li><strong>Cropping:</strong> Use a square artboard with padding to avoid clipping after rasterization.</li><li><strong>Upload fails:</strong> Ensure SVG ≤ 16&nbsp;MB and valid <code>image/svg+xml</code>.</li></ul>"
+    },
     {
-      "title": "Najbolje Prakse"
-
-      "description": "<ul><li>Dizajnirajte na kvadratnom platnu 512×512 ili 1024×1024 za čiste smanjenja.</li><li>Držite oblike podebljanim; izbegavajte tanke linije na malim veličinama.</li><li>Koristite visok kontrast za čitljivost u ikonama od 16–32 px.</li></ul>"
-
-    }
+      "title": "Best Practices",
+      "description": "<ul><li>Design on a 512×512 or 1024×1024 square canvas for clean downscales.</li><li>Keep shapes bold; avoid thin hairlines at small sizes.</li><li>Use high contrast for readability in 16–32 px icons.</li></ul>"
+    },
     {
-      "title": "Karakteristike našeg SVG u ICO Konvertera"
-
-      "description": "<ul><li>100% Besplatno bez vodenih žigova</li><li>Automatska konverzija vektora→raster</li><li>Generisanje ikona više veličina</li><li>Transparentnost očuvana</li><li>Sigurna obrada</li></ul>"
-
+      "title": "Features of Our SVG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic vector→raster conversion</li><li>Multi-size icon generation</li><li>Transparency preserved</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Da li je ovaj SVG u ICO konverter besplatan?"
-
-      "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
-
-    }
+      "question": "Is this SVG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Koje veličine su podržane u ICO datotekama?"
-
-      "answer": "Uobičajene veličine uključuju 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Mogu li koristiti ICO za favicon-e na veb sajtu?"
-
-      "answer": "Da. Postavite <code>/favicon.ico</code> u koren vašeg sajta i povežite ga sa <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
-    }
+      "question": "Can I use ICO for website favicons?",
+      "answer": "Yes. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
     {
-      "question": "Koje veličine datoteka su podržane?"
-
-      "answer": "Možete otpremiti SVG datoteke do 16&nbsp;MB."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload SVG files up to 16&nbsp;MB."
+    },
     {
-      "question": "Da li su moji fajlovi sigurni?"
-
-      "answer": "Fajlovi se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Da li će kvalitet ikone biti dobar?"
-
-      "answer": "Da. Rasterizujemo iz vašeg vektora u više veličina kako bismo zadržali oštre ivice i očuvali transparentnost."
-
+      "question": "Will the icon quality be good?",
+      "answer": "Yes. We rasterize from your vector at multiple sizes to keep edges crisp and transparency intact."
     }
-  ]
-  "note": "SVG-ovi se rasterizuju tokom konverzije. Za dosledne rezultate, konvertujte tekst u konture i ugradite potrebne resurse."
-
+  ],
+  "note": "SVGs are rasterized during conversion. For consistent results, convert text to outlines and embed required assets.",
   "related_links": [
     {
-      "title": "Konvertuj PNG u ICO"
-
-      "url": "/sr/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konvertuj JPG u ICO"
-
-      "url": "/sr/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konvertuj ICO u PNG"
-
-      "url": "/sr/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konvertuj SVG u PNG"
-
-      "url": "/sr/convert/svg-to-png"
-
+      "title": "Convert SVG to PNG",
+      "url": "/en/convert/svg-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Sva prava zadržana."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG u ICO Konverter - Besplatno i Online"
-
-      "url": "https://miconvert.com/sr/convert/svg-to-ico"
-
-      "description": "Besplatan online alat za konvertovanje SVG slika u ICO za favicon-e i Windows desktop ikone."
-
-      "inLanguage": "sr"
-
-      "image": "https://miconvert.com/images/svg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
+      "description": "Free online tool to convert SVG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/svg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Početna"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertuj"
-
-          "item": "https://miconvert.com/sr/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG u ICO"
-
-          "item": "https://miconvert.com/sr/convert/svg-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG to ICO",
+          "item": "https://miconvert.com/en/convert/svg-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "SVG u ICO Konverter"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sr/convert/svg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Vektor u raster"
-
-        "Set više veličina"
-
-        "Transparentnost očuvana"
-
-      ]
+        "Vector to raster",
+        "Multi-size set",
+        "Transparency preserved"
+      ],
       "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Da li je ovaj SVG u ICO konverter besplatan?"
-
+          "@type": "Question",
+          "name": "Is this SVG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Koje veličine datoteka su podržane?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Možete otpremiti SVG datoteke do 16 MB."
-
+            "@type": "Answer",
+            "text": "You can upload SVG files up to 16 MB."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Koje veličine su podržane u ICO datotekama?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Uobičajene veličine uključuju 16×16, 32×32, 48×48, 64×64, 128×128 i 256×256 px."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako konvertovati SVG u ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert SVG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Otpremi SVG i izaberite svoju vektorsku datoteku."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload SVG and select your vector file."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Sačekajte da se izvrši rasterizacija i optimizacija."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for rasterization and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Preuzmi ICO da sačuvate datoteku ikone."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save the icon file."
         }
-      ]
+      ],
       "tool": [
-        "SVG u ICO Konverter"
-
-      ]
+        "SVG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

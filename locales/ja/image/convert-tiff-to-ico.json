@@ -1,379 +1,249 @@
 {
-  "lang": "ja"
-
-  "lang_name": "日本語"
-
-  "title": "TIFFからICOへの変換 - 無料＆オンライン | miconvert.com"
-
-  "sub_title": "TIFF画像をオンラインでICO形式に変換して、ファビコンやデスクトップアイコンを作成します。無料で、迅速で、透かしはありません。"
-
-  "hint": "変換を開始するには、TIFF画像をアップロードしてください..."
-
-  "btn_download": "ICOに変換"
-
-  "btn_paste": "TIFFをアップロード"
-
-  "btn_clear": "クリア"
-
-  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+  "lang": "ja",
+  "lang_name": "English",
+  "title": "TIFF to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert TIFF images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your TIFF image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload TIFF",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg",
   "head": {
-    "title": "TIFFからICOへの変換 - 無料オンラインTIFFからICO変換ツール | miconvert.com"
-
-    "description": "TIFF画像をICO形式に無料でオンライン変換します。ファビコンやデスクトップアイコン用の高品質なTIFFからICOへの変換。"
-
-    "keywords": "tiff to ico, tiffをicoに変換, 無料tiff to ico, オンラインico変換ツール, アイコン変換, ファビコンメーカー"
-
-    "canonical": "https://miconvert.com/ja/convert/tiff-to-ico"
-
-    "og_title": "TIFFからICOへの変換 - 無料＆オンライン"
-
-    "og_description": "TIFF画像をICO形式に変換して、ファビコンやデスクトップアイコンを作成します。100％無料で、迅速かつ安全です。"
-
-    "og_url": "https://miconvert.com/ja/convert/tiff-to-ico"
-
+    "title": "Convert TIFF to ICO - Free Online TIFF to ICO Converter | miconvert.com",
+    "description": "Convert TIFF images to ICO format online for free. High-quality TIFF to ICO conversion for favicons and desktop icons.",
+    "keywords": "tiff to ico, convert tiff to ico, free tiff to ico, online ico converter, icon conversion, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/tiff-to-ico",
+    "og_title": "TIFF to ICO Converter - Free & Online",
+    "og_description": "Convert TIFF images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/tiff-to-ico",
     "og_image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "TIFFをICOにオンラインで変換"
-
-    "description": "ファビコンやデスクトップアイコン用の無料で迅速なTIFFからICO変換ツール。すべてのデバイスで即座に動作します - サインアップは不要です。"
-
-  }
+    "title": "Convert TIFF to ICO Online",
+    "description": "Free and fast TIFF to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "converter": {
-    "type": "tiff-to-ico"
-
-    "title": "TIFFからICOへの変換ツール"
-
-    "description": "TIFF画像をマルチサイズのICOアイコンに変換し、可能な場合は透明度を保持します。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "TIFF"
-
-    "outputFormat": "ICO"
-
+    "type": "tiff-to-ico",
+    "title": "TIFF to ICO Converter",
+    "description": "Convert TIFF images to multi-size ICO icons with transparency preserved when available.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "TIFF",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/tiff"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "高品質なICO変換"
-
-      "マルチサイズアイコンセット（16〜256 px）"
-
-      "透明度保持（存在する場合）"
-
-      "迅速で無料のオンラインツール"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved (if present)",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "TIFFからICOへの変換が完了しました"
-
-    "back_button": "変換ツールに戻る"
-
-    "convert_another": "別のTIFFを変換"
-
-    "quick_conversions": "クイック変換:"
-
-  }
+    "title": "TIFF to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another TIFF",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "なぜTIFFをICOに変換するのか？"
-
-      "description": "<p>ICOはアイコンとファビコンのために特別に設計されています：</p><ul><li><strong>1つのファイルにマルチサイズ：</strong> 16〜256 pxのバリアントが束ねられ、鮮明なレンダリングを実現。</li><li><strong>ファビコン標準：</strong> 主要なブラウザで動作します。</li><li><strong>Windowsネイティブ：</strong> デスクトップ/アプリ/ショートカットアイコンに最適。</li><li><strong>透明度：</strong> スムーズなエッジのためのアルファサポート。</li></ul>"
-
-    }
+      "title": "Why Convert TIFF to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> 16–256 px variants bundled for crisp rendering.</li><li><strong>Favicon standard:</strong> Works across major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "オンラインでTIFFをICOに変換する方法"
-
-      "description": "<ol><li><em>TIFFをアップロード</em>をクリックして、画像を選択します。</li><li>処理と最適化を待ちます。</li><li><em>ICOをダウンロード</em>をクリックして、アイコンを保存します。</li></ol><p>一般的なアイコンサイズは自動的に生成されます。</p>"
-
-    }
+      "title": "How to Convert TIFF to ICO Online",
+      "description": "<ol><li>Click <em>Upload TIFF</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "サポートされている制限と形式"
-
-      "description": "<ul><li><strong>受け入れられる入力：</strong> TIFF (<code>image/tiff</code>)</li><li><strong>最大ファイルサイズ：</strong> 1ファイルあたり最大16&nbsp;MB</li><li><strong>出力：</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>ページ：</strong> マルチページTIFF：<em>最初のページ</em>のみが変換されます。</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Pages:</strong> Multi-page TIFFs: only the <em>first page</em> is converted.</li></ul>"
+    },
     {
-      "title": "シャープなアイコンのためのベストプラクティス"
-
-      "description": "<ul><li><strong>正方形</strong>の画像から始め、クリッピングを避けるためにパディングを追加します。</li><li>16〜32 pxサイズには、明確な形状と高コントラストを使用します。</li><li>透明なエッジが必要な場合は、TIFFにアルファチャンネルが含まれていることを確認するか、透明度のあるPNGを変換してください。</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> image and add padding to avoid clipping.</li><li>Use clear shapes and high contrast for 16–32 px sizes.</li><li>If you need transparent edges, ensure the TIFF contains an alpha channel or convert a PNG with transparency instead.</li></ul>"
+    },
     {
-      "title": "トラブルシューティング"
-
-      "description": "<ul><li><strong>ファビコンが更新されない：</strong> ブラウザのキャッシュをクリアし、<code>/favicon.ico</code>を<code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>でリンクしていることを確認してください。</li><li><strong>小さいサイズがギザギザ：</strong> より大きく、クリーンなソースをアップロードしてください。ツールは16〜32 pxにダウンサイジングします。</li><li><strong>アップロード失敗：</strong> <code>image/tiff</code>と≤ 16&nbsp;MBを確認してください。</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear browser cache and ensure you link <code>/favicon.ico</code> with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged small sizes:</strong> Upload a larger, clean source; the tool will downscale to 16–32 px.</li><li><strong>Upload fails:</strong> Confirm <code>image/tiff</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "このTIFFからICO変換ツールは無料ですか？"
-
-      "answer": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
-
-    }
+      "question": "Is this TIFF to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "ICOはすべてのオペレーティングシステムで動作しますか？"
-
-      "answer": "ICOはWindowsでネイティブにサポートされており、主要なブラウザでも認識されています。macOS/LinuxツールでもICOを表示/編集できます。"
-
-    }
+      "question": "Will ICO work on all operating systems?",
+      "answer": "ICO is natively supported on Windows and recognized by major browsers. macOS/Linux tools can view/edit ICO as well."
+    },
     {
-      "question": "ICOファイルにサポートされているサイズは何ですか？"
-
-      "answer": "一般的なサイズには16×16、32×32、48×48、64×64、128×128、256×256 pxが含まれます。"
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "サポートされているファイルサイズは何ですか？"
-
-      "answer": "1ファイルあたり最大16&nbsp;MBの画像をアップロードできます。"
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "私のファイルは安全ですか？"
-
-      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "複数のTIFFを一度に変換できますか？"
-
-      "answer": "このページでは1ファイルずつ変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
-
-    }
+      "question": "Can I convert multiple TIFFs at once?",
+      "answer": "This page converts one file at a time. For bulk needs, repeat the process or use a batch tool."
+    },
     {
-      "question": "変換ツールは透明度を保持しますか？"
-
-      "answer": "TIFFにアルファチャンネルが含まれている場合、ICOで透明度が保持されます。"
-
+      "question": "Does the converter keep transparency?",
+      "answer": "If your TIFF includes an alpha channel, transparency will be preserved in the ICO."
     }
-  ]
-  "note": "マルチページTIFF：最初のページのみが変換されます。最良の結果を得るには、パディングを持つ正方形の画像を使用し、必要に応じて透明度を含むソースを使用してください。"
-
+  ],
+  "note": "Multi-page TIFFs: only the first page is converted. For best results, use a square image with padding and, if needed, a source that includes transparency.",
   "related_links": [
     {
-      "title": "PNGをICOに変換"
-
-      "url": "/ja/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "JPGをICOに変換"
-
-      "url": "/ja/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "ICOをPNGに変換"
-
-      "url": "/ja/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "TIFFをPNGに変換"
-
-      "url": "/ja/convert/tiff-to-png"
-
+      "title": "Convert TIFF to PNG",
+      "url": "/en/convert/tiff-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 全著作権所有。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "TIFFからICOへの変換 - 無料＆オンライン"
-
-      "url": "https://miconvert.com/ja/convert/tiff-to-ico"
-
-      "description": "TIFF画像をファビコンやWindowsデスクトップアイコン用にICOに変換するための無料オンラインツール。"
-
-      "inLanguage": "ja"
-
-      "image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
+      "description": "Free online tool to convert TIFF images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/tiff-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "ホーム"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "変換"
-
-          "item": "https://miconvert.com/ja/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "TIFFからICO"
-
-          "item": "https://miconvert.com/ja/convert/tiff-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF to ICO",
+          "item": "https://miconvert.com/en/convert/tiff-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "TIFFからICOへの変換ツール"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ja/convert/tiff-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "マルチサイズアイコンセット"
-
-        "透明度保持"
-
-        "迅速な処理"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "このTIFFからICO変換ツールは無料ですか？"
-
+          "@type": "Question",
+          "name": "Is this TIFF to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "サポートされているファイルサイズは何ですか？"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "1ファイルあたり最大16 MBの画像をアップロードできます。"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "ICOファイルにサポートされているサイズは何ですか？"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "一般的なサイズには16×16、32×32、48×48、64×64、128×128、256×256 pxが含まれます。"
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "TIFFをICOに変換する方法"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert TIFF to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "TIFFをアップロードをクリックして、画像を選択します。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload TIFF and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "処理と最適化が完了するまで待ちます。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "ICOをダウンロードをクリックして、アイコンを保存します。"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "TIFFからICOへの変換ツール"
-
-      ]
+        "TIFF to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

@@ -1,355 +1,235 @@
 {
-  "lang": "he"
-
-  "lang_name": "עברית"
-
-  "title": "ממיר PNG ל-ICO - חינם ובאינטרנט | miconvert.com"
-
-  "sub_title": "המיר תמונות PNG לפורמט ICO באינטרנט עבור פאביקונים ואייקונים בשולחן העבודה. חינם, מהיר וללא סימני מים."
-
-  "hint": "העלה את תמונת ה-PNG שלך כדי להתחיל להמיר..."
-
-  "btn_download": "המר ל-ICO"
-
-  "btn_paste": "העלה PNG"
-
-  "btn_clear": "נקה"
-
+  "lang": "he",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>המיר את ה-<strong>PNG שלך ל-ICO</strong> עבור פאביקונים ואייקונים מושלמים בשולחן העבודה! הממיר החינמי שלנו מייצר אייקונים מקצועיים במגוון גדלים שנראים חדים בכל הדפדפנים ובשולחנות העבודה של Windows.</p><p>קבצי ICO יכולים לאגד מספר גדלים בקובץ אחד (למשל, 16–256 פיקסלים), אידיאלי לפאביקונים ואייקונים של אפליקציות/קיצורי דרך. שקיפות מ-PNG נשמרת לקצוות חלקים על רקעים כהים/בהירים.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "המר PNG ל-ICO באינטרנט - ממיר PNG ל-ICO חינם | miconvert.com"
-
-    "description": "המר PNG ל-ICO באינטרנט עבור פאביקונים ואייקונים בשולחן העבודה. ממיר PNG ל-ICO חינם, מהיר ובטוח."
-
-    "keywords": "png ל-ico, המרת png ל-ico, png ל-ico חינם, ממיר ico באינטרנט, יצרן פאביקון"
-
-    "canonical": "https://miconvert.com/he/convert/png-to-ico"
-
-    "og_title": "ממיר PNG ל-ICO - חינם ובאינטרנט"
-
-    "og_description": "המר תמונות PNG לפורמט ICO עבור פאביקונים ואייקונים בשולחן העבודה. 100% חינם, מהיר ובטוח."
-
-    "og_url": "https://miconvert.com/he/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "המר PNG ל-ICO באינטרנט"
-
-    "description": "ממיר PNG ל-ICO חינם ומהיר עבור פאביקונים ואייקונים בשולחן העבודה. עובד מיד על כל מכשיר, ללא צורך בהרשמה."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "למה להמיר PNG ל-ICO?"
-
-      "description": "<p>ICO נבנה עבור אייקונים:</p><ul><li><strong>תמיכה במגוון גדלים:</strong> אגד 16–256 פיקסלים בקובץ אחד.</li><li><strong>סטנדרט פאביקון:</strong> מוכר על ידי דפדפנים מרכזיים.</li><li><strong>תאימות ל-Windows:</strong> פורמט אייקון מקורי לשולחן עבודה/אפליקציה.</li><li><strong>שקיפות:</strong> קצוות חלקים עם שקיפות PNG נשמרת.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "איך להמיר PNG ל-ICO באינטרנט"
-
-      "description": "<ol><li>לחץ על <em>העלה PNG</em> ובחר את התמונה שלך.</li><li>חכה לעיבוד ואופטימיזציה.</li><li>לחץ על <em>הורד ICO</em> כדי לשמור את האייקון שלך.</li></ol><p>אנחנו מייצרים אוטומטית גדלים נפוצים של אייקונים.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "מפרטי פורמט ICO"
-
-      "description": "<ul><li><strong>גדלים סטנדרטיים:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 פיקסלים</li><li><strong>עומק צבע:</strong> עד 32-bit RGBA</li><li><strong>שקיפות:</strong> ערוץ אלפא מלא</li><li><strong>מבנה:</strong> כותרת + מספר כניסות תמונה</li><li><strong>דחיסה:</strong> כניסות דחוסות PNG עבור אייקונים של 32-bit (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "מגבלות ופורמטים נתמכים"
-
-      "description": "<ul><li><strong>קלט מתקבל:</strong> PNG (<code>image/png</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "פתרון בעיות"
-
-      "description": "<ul><li><strong>פאביקון לא מוצג:</strong> נקה את המטמון וודא שיש <code>/favicon.ico</code> בשורש האתר עם <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>קצוות משוננים:</strong> התחל מתמונה גדולה, עם ניגודיות גבוהה; הקטן בצורה נקייה.</li><li><strong>העלאה נכשלת:</strong> ודא ש-PNG ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "תכונות של ממיר PNG ל-ICO שלנו"
-
-      "description": "<ul><li>100% חינם ללא סימני מים</li><li>אופטימיזציה אוטומטית של גודל</li><li>שימור שקיפות</li><li>עיבוד בטוח</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "האם הממיר PNG ל-ICO הזה חינם?"
-
-      "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נוספות או מנויים."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "אילו גדלים נתמכים בקבצי ICO?"
-
-      "answer": "גדלים נפוצים כוללים 16×16, 32×32, 48×48, 64×64, 128×128, ו-256×256 פיקסלים."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "האם אני יכול להשתמש בקבצי ICO לפאביקונים של אתרים?"
-
-      "answer": "כן. <code>favicon.ico</code> נתמך באופן נרחב על ידי דפדפנים מרכזיים."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "אילו גדלי קבצים נתמכים?"
-
-      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "האם הקבצים שלי בטוחים?"
-
-      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "האם איכות האייקון תהיה טובה?"
-
-      "answer": "אנחנו שומרים על שקיפות PNG ומייצרים מספר גדלים להנפשה חדה בממדים קטנים."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "להשגת התוצאות הטובות ביותר, השתמש ב-PNG ברור עם ניגודיות גבוהה. הנח <code>/favicon.ico</code> בשורש האתר שלך והפנה אליו עם <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "המר JPG ל-ICO"
-
-      "url": "/he/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "המר BMP ל-ICO"
-
-      "url": "/he/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "המר SVG ל-ICO"
-
-      "url": "/he/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "המר ICO ל-PNG"
-
-      "url": "/he/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "ממיר PNG ל-ICO - חינם ובאינטרנט"
-
-      "url": "https://miconvert.com/he/convert/png-to-ico"
-
-      "description": "כלי חינם באינטרנט להמיר תמונות PNG ל-ICO עבור פאביקונים ואייקונים בשולחן העבודה של Windows."
-
-      "inLanguage": "he"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "בית"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "המרה"
-
-          "item": "https://miconvert.com/he/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG ל-ICO"
-
-          "item": "https://miconvert.com/he/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "ממיר PNG ל-ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/he/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "סט אייקונים במגוון גדלים"
-
-        "שקיפות נשמרת"
-
-        "עיבוד מהיר"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "האם הממיר PNG ל-ICO הזה חינם?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נוספות או מנויים."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "אילו גדלי קבצים נתמכים?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "אתה יכול להעלות תמונות עד 16 MB לקובץ."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "אילו גדלים נתמכים בקבצי ICO?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "גדלים נפוצים כוללים 16×16, 32×32, 48×48, 64×64, 128×128, ו-256×256 פיקסלים."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "איך להמיר PNG ל-ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "לחץ על העלה PNG ובחר את התמונה שלך."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "חכה שהעיבוד יושלם."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "לחץ על הורד ICO כדי לשמור את האייקון שלך."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "ממיר PNG ל-ICO"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

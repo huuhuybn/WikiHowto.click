@@ -1,381 +1,250 @@
 {
-  "lang": "cs"
-
-  "lang_name": "Čeština"
-
-  "title": "WEBP na ICO Konvertor - Zdarma a Online | miconvert.com"
-
-  "sub_title": "Převeďte WebP obrázky do ICO formátu online pro favikony a desktopové ikony. Zdarma, rychle a bez vodoznaků."
-
-  "hint": "Nahrajte svůj WebP obrázek, abyste začali konvertovat..."
-
-  "btn_download": "Převést na ICO"
-
-  "btn_paste": "Nahrát WebP"
-
-  "btn_clear": "Vymazat"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "cs",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "Převeďte WebP na ICO Online - Zdarma WebP na ICO Konvertor | miconvert.com"
-
-    "description": "Převeďte WebP obrázky do ICO formátu online zdarma. Vysoce kvalitní WebP → ICO konverze pro favikony a desktopové ikony."
-
-    "keywords": "webp na ico, převést webp na ico, zdarma webp na ico, online ico konvertor, výrobce favikonů"
-
-    "canonical": "https://miconvert.com/cs/convert/webp-to-ico"
-
-    "og_title": "WebP na ICO Konvertor - Zdarma a Online"
-
-    "og_description": "Převeďte WebP obrázky do ICO formátu pro favikony a desktopové ikony. 100% zdarma, rychle a bezpečně."
-
-    "og_url": "https://miconvert.com/cs/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Převeďte WebP na ICO Online"
-
-    "description": "Zdarma a rychlý WebP na ICO konvertor pro favikony a desktopové ikony. Funguje okamžitě na jakémkoli zařízení — není potřeba registrace."
-
-  }
-  "description": "<p>Převeďte svůj <strong>WebP na ICO</strong> během několika sekund. ICO je nativní formát ikon pro Windows a de-facto standard pro webové favikony. Zachováváme průhlednost (alfa) a generujeme více velikostí, takže vaše ikona zůstává ostrá na záložkách, zástupcích a obrazovkách s vysokým DPI.</p><p><em>Poznámka:</em> Animované WebP soubory jsou převedeny jako statická ikona pomocí <strong>prvního snímku</strong>.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP na ICO Konvertor"
-
-    "description": "Převeďte WebP obrázky na ICO ikony s více velikostmi a zachovanou průhledností."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Vysoce kvalitní ICO konverze"
-
-      "Sada ikon s více velikostmi (16–256 px)"
-
-      "Zachovaná průhlednost"
-
-      "Rychlý a zdarma online nástroj"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Převod WebP na ICO Dokončen"
-
-    "back_button": "Zpět na Konvertor"
-
-    "convert_another": "Převést Další WebP"
-
-    "quick_conversions": "Rychlé Převody:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Proč převádět WebP na ICO?"
-
-      "description": "<p>ICO je navrženo speciálně pro ikony a favikony:</p><ul><li><strong>Více velikostí v jednom souboru:</strong> Sbalte varianty 16–256 px pro ostré zobrazení všude.</li><li><strong>Favicon standard:</strong> Rozpoznáno všemi hlavními prohlížeči.</li><li><strong>Windows nativní:</strong> Ideální pro desktopové/aplikace/zástupce ikony.</li><li><strong>Průhlednost:</strong> Plná podpora alfa pro hladké okraje.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Jak převést WebP na ICO Online"
-
-      "description": "<ol><li>Klikněte na <em>Nahrát WebP</em> a vyberte svůj obrázek.</li><li>Počkejte na zpracování a optimalizaci.</li><li>Klikněte na <em>Stáhnout ICO</em> pro uložení vaší ikony.</li></ol><p>Automaticky generujeme běžné velikosti pro ostré výsledky.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO vs WebP Srovnání"
-
-      "description": "<ul><li><strong>Použití:</strong> ICO pro ikony/favikony; WebP pro obecné webové obrázky.</li><li><strong>Průhlednost:</strong> Oba podporují alfu; ICO udržuje okraje čisté při malých velikostech.</li><li><strong>Animace:</strong> ICO je statické; animované WebP se stává statickou ikonou (první snímek).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Podporované Limity a Formáty"
-
-      "description": "<ul><li><strong>Přijatý vstup:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximální velikost souboru:</strong> 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Nejlepší Praktiky pro Ostré Ikony"
-
-      "description": "<ul><li>Začněte s <strong>čtvercovým</strong> zdrojem a přidejte okraje, abyste se vyhnuli oříznutí.</li><li>Používejte silné tvary a vysoký kontrast pro velikosti 16–32 px.</li><li>Pokud má vaše WebP rušivé pozadí, zjednodušte ho pro lepší jasnost při malých velikostech.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Odstraňování Problémů"
-
-      "description": "<ul><li><strong>Favicon se neaktualizuje:</strong> Vymažte mezipaměť a odkaz <code>/favicon.ico</code> pomocí <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Vypadá zubatě při 16 px:</strong> Nahrajte větší, čistý zdroj; zmenšení zlepšuje ostrost.</li><li><strong>Nahrání selhalo:</strong> Zajistěte <code>image/webp</code> a ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je tento WebP na ICO konvertor zdarma?"
-
-      "answer": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Jaké velikosti jsou podporovány pro ICO soubory?"
-
-      "answer": "Běžné velikosti zahrnují 16×16, 32×32, 48×48, 64×64, 128×128 a 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Zachovává průhlednost?"
-
-      "answer": "Ano. Pokud vaše WebP obsahuje alfa kanál, ICO ho zachovává (32-bit RGBA položky)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "Podporujete animované WebP?"
-
-      "answer": "Animované WebP je převedeno jako statická ikona pomocí prvního snímku."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Mohu převést více WebP najednou?"
-
-      "answer": "Tato stránka převádí jeden soubor najednou. Opakujte proces pro více souborů."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Jaké velikosti souborů jsou podporovány?"
-
-      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICO soubory jsou optimalizovány pro malé velikosti zobrazení. Pro nejlepší výsledky použijte čtvercový, vysoce kontrastní zdroj a zahrňte nějaké okraje."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "Převést PNG na ICO"
-
-      "url": "/cs/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Převést JPG na ICO"
-
-      "url": "/cs/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Převést ICO na PNG"
-
-      "url": "/cs/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Převést WebP na PNG"
-
-      "url": "/cs/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP na ICO Konvertor - Zdarma a Online"
-
-      "url": "https://miconvert.com/cs/convert/webp-to-ico"
-
-      "description": "Zdarma online nástroj pro převod WebP obrázků na ICO pro favikony a desktopové ikony Windows."
-
-      "inLanguage": "cs"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Domů"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Převést"
-
-          "item": "https://miconvert.com/cs/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP na ICO"
-
-          "item": "https://miconvert.com/cs/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP na ICO Konvertor"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/cs/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Sada ikon s více velikostmi"
-
-        "Zachovaná průhlednost"
-
-        "Rychlé zpracování"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je tento WebP na ICO konvertor zdarma?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Jaké velikosti souborů jsou podporovány?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Můžete nahrát obrázky až do 16 MB na soubor."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Zachovává průhlednost?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano. Pokud vaše WebP obsahuje alfa kanál, ICO ho zachovává (32-bit RGBA položky)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak převést WebP na ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Nahrát WebP a vyberte svůj obrázek."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Počkejte na zpracování a optimalizaci."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Stáhnout ICO pro uložení vaší ikony."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP na ICO Konvertor"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

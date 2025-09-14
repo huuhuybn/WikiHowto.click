@@ -1,381 +1,250 @@
 {
-  "lang": "lv"
-
-  "lang_name": "Latviešu"
-
-  "title": "WEBP uz ICO Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
-
-  "sub_title": "Konvertējiet WebP attēlus uz ICO formātu tiešsaistē favicon un darbvirsmas ikonām. Bezmaksas, ātri un bez ūdenszīmēm."
-
-  "hint": "Augšupielādējiet savu WebP attēlu, lai sāktu konvertēšanu..."
-
-  "btn_download": "Konvertēt uz ICO"
-
-  "btn_paste": "Augšupielādēt WebP"
-
-  "btn_clear": "Notīrīt"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "lv",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "Konvertēt WebP uz ICO Tiešsaistē - Bezmaksas WebP uz ICO Konvertētājs | miconvert.com"
-
-    "description": "Konvertējiet WebP attēlus uz ICO formātu tiešsaistē bez maksas. Augstas kvalitātes WebP → ICO konvertēšana favicon un darbvirsmas ikonām."
-
-    "keywords": "webp uz ico, konvertēt webp uz ico, bezmaksas webp uz ico, tiešsaistes ico konvertētājs, favicon veidotājs"
-
-    "canonical": "https://miconvert.com/lv/convert/webp-to-ico"
-
-    "og_title": "WebP uz ICO Konvertētājs - Bezmaksas un Tiešsaistē"
-
-    "og_description": "Konvertējiet WebP attēlus ICO formātā favicon un darbvirsmas ikonām. 100% bezmaksas, ātri un droši."
-
-    "og_url": "https://miconvert.com/lv/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertēt WebP uz ICO Tiešsaistē"
-
-    "description": "Bezmaksas un ātrs WebP uz ICO konvertētājs favicon un darbvirsmas ikonām. Darbojas nekavējoties jebkurā ierīcē — reģistrācija nav nepieciešama."
-
-  }
-  "description": "<p>Pārvērtiet savu <strong>WebP uz ICO</strong> sekundēs. ICO ir vietējais ikonu formāts Windows un de-facto standarts tīmekļa favicon. Mēs saglabājam caurspīdīgumu (alfa) un ģenerējam vairākus izmērus, lai jūsu ikona paliktu asā uz cilnēm, saīsēm un augstas izšķirtspējas ekrāniem.</p><p><em>Piezīme:</em> Animētie WebP faili tiek konvertēti kā statiska ikona, izmantojot <strong>pirmo kadru</strong>.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP uz ICO Konvertētājs"
-
-    "description": "Konvertējiet WebP attēlus uz daudzizmēru ICO ikonām, saglabājot caurspīdīgumu."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Augstas kvalitātes ICO konvertēšana"
-
-      "Daudzizmēru ikonu komplekts (16–256 px)"
-
-      "Caurspīdīgums saglabāts"
-
-      "Ātrs un bezmaksas tiešsaistes rīks"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP uz ICO Konvertēšana Pabeigta"
-
-    "back_button": "Atpakaļ uz Konvertētāju"
-
-    "convert_another": "Konvertēt Vēl Vienu WebP"
-
-    "quick_conversions": "Ātrās Konvertēšanas:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Kāpēc Konvertēt WebP uz ICO?"
-
-      "description": "<p>ICO ir speciāli izstrādāts ikonām un favicon:</p><ul><li><strong>Daudzizmēru vienā failā:</strong> Apvienojiet 16–256 px variantus, lai nodrošinātu skaidru attēlojumu visur.</li><li><strong>Favicon standarts:</strong> Atzīts visās lielākajās pārlūkprogrammās.</li><li><strong>Windows vietējais:</strong> Ideāli piemērots darbvirsmas / lietotņu / saīsņu ikonām.</li><li><strong>Caurspīdīgums:</strong> Pilna alfa atbalsts gludām malām.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Kā Konvertēt WebP uz ICO Tiešsaistē"
-
-      "description": "<ol><li>Noklikšķiniet uz <em>Augšupielādēt WebP</em> un izvēlieties savu attēlu.</li><li>Gaidiet apstrādi un optimizāciju.</li><li>Noklikšķiniet uz <em>Lejupielādēt ICO</em>, lai saglabātu savu ikonu.</li></ol><p>Mēs automātiski ģenerējam kopējos izmērus skaidriem rezultātiem.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO pret WebP Salīdzinājums"
-
-      "description": "<ul><li><strong>Izmantošanas gadījums:</strong> ICO ikonām / favicon; WebP vispārējiem tīmekļa attēliem.</li><li><strong>Caurspīdīgums:</strong> Abi atbalsta alfa; ICO saglabā malas tīras mazos izmēros.</li><li><strong>Animācija:</strong> ICO ir statisks; animētais WebP kļūst par statisku ikonu (pirmais kadrs).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Atbalstītie Ierobežojumi un Formāti"
-
-      "description": "<ul><li><strong>Pieņemti ievadi:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maksimālais faila izmērs:</strong> 16&nbsp;MB uz failu</li><li><strong>Izvade:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Labākās Prakses Asām Ikonām"
-
-      "description": "<ul><li>Sāciet ar <strong>kvadrātu</strong> avotu un pievienojiet apmali, lai izvairītos no sagriešanas.</li><li>Izmantojiet treknas formas un augstu kontrastu 16–32 px izmēriem.</li><li>Ja jūsu WebP ir aizņemta fona, vienkāršojiet to, lai uzlabotu skaidrību mazos izmēros.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Problēmu Novēršana"
-
-      "description": "<ul><li><strong>Favicon netiek atjaunināts:</strong> Notīriet kešatmiņu un saistiet <code>/favicon.ico</code> caur <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Izskatās saplēsts 16 px:</strong> Augšupielādējiet lielāku, tīru avotu; samazināšana uzlabo asumu.</li><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka <code>image/webp</code> un ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Vai šis WebP uz ICO konvertētājs ir bezmaksas?"
-
-      "answer": "Jā, tas ir pilnīgi bezmaksas, bez ūdenszīmēm vai slēptām maksām."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Kādi izmēri ir atbalstīti ICO failiem?"
-
-      "answer": "Parastie izmēri ietver 16×16, 32×32, 48×48, 64×64, 128×128 un 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Vai tas saglabā caurspīdīgumu?"
-
-      "answer": "Jā. Ja jūsu WebP ietver alfa kanālu, ICO to saglabā (32 bitu RGBA ieraksti)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "Vai jūs atbalstāt animētu WebP?"
-
-      "answer": "Animētais WebP tiek konvertēts kā statiska ikona, izmantojot pirmo kadru."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Vai es varu konvertēt vairākus WebP vienlaikus?"
-
-      "answer": "Šī lapa konvertē vienu failu vienlaikus. Atkārtojiet procesu vairākiem failiem."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Kādi faila izmēri ir atbalstīti?"
-
-      "answer": "Jūs varat augšupielādēt attēlus līdz 16&nbsp;MB uz failu."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICO faili ir optimizēti maziem displeja izmēriem. Lai iegūtu labākos rezultātus, izmantojiet kvadrātveida, augsta kontrasta avotu un iekļaujiet kādu apmali."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "Konvertēt PNG uz ICO"
-
-      "url": "/lv/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konvertēt JPG uz ICO"
-
-      "url": "/lv/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konvertēt ICO uz PNG"
-
-      "url": "/lv/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konvertēt WebP uz PNG"
-
-      "url": "/lv/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP uz ICO Konvertētājs - Bezmaksas un Tiešsaistē"
-
-      "url": "https://miconvert.com/lv/convert/webp-to-ico"
-
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu WebP attēlus uz ICO favicon un Windows darbvirsmas ikonām."
-
-      "inLanguage": "lv"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Sākums"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertēt"
-
-          "item": "https://miconvert.com/lv/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP uz ICO"
-
-          "item": "https://miconvert.com/lv/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP uz ICO Konvertētājs"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lv/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Daudzizmēru ikonu komplekts"
-
-        "Caurspīdīgums saglabāts"
-
-        "Ātra apstrāde"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Vai šis WebP uz ICO konvertētājs ir bezmaksas?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jā, tas ir pilnīgi bezmaksas, bez ūdenszīmēm vai slēptām maksām."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Kādi faila izmēri ir atbalstīti?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Vai tas saglabā caurspīdīgumu?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jā. Ja jūsu WebP ietver alfa kanālu, ICO to saglabā (32 bitu RGBA ieraksti)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kā konvertēt WebP uz ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Noklikšķiniet uz Augšupielādēt WebP un izvēlieties savu attēlu."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Gaidiet, kamēr apstrāde un optimizācija tiks pabeigta."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Noklikšķiniet uz Lejupielādēt ICO, lai saglabātu savu ikonu."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP uz ICO Konvertētājs"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

@@ -1,381 +1,250 @@
 {
-  "lang": "ja"
-
-  "lang_name": "日本語"
-
-  "title": "WEBPからICOへの変換 - 無料＆オンライン | miconvert.com"
-
-  "sub_title": "WebP画像をオンラインでICO形式に変換して、ファビコンやデスクトップアイコンを作成します。無料で、迅速で、透かしはありません。"
-
-  "hint": "変換を開始するにはWebP画像をアップロードしてください..."
-
-  "btn_download": "ICOに変換"
-
-  "btn_paste": "WebPをアップロード"
-
-  "btn_clear": "クリア"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "ja",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "WebPからICOへのオンライン変換 - 無料WebPからICO変換ツール | miconvert.com"
-
-    "description": "WebP画像を無料でICO形式にオンラインで変換します。ファビコンやデスクトップアイコン用の高品質なWebP→ICO変換。"
-
-    "keywords": "webp to ico, webpをicoに変換, 無料webp to ico, オンラインico変換ツール, ファビコン作成"
-
-    "canonical": "https://miconvert.com/ja/convert/webp-to-ico"
-
-    "og_title": "WebPからICOへの変換ツール - 無料＆オンライン"
-
-    "og_description": "WebP画像をICO形式に変換して、ファビコンやデスクトップアイコンを作成します。100％無料、迅速、安全。"
-
-    "og_url": "https://miconvert.com/ja/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "WebPからICOへのオンライン変換"
-
-    "description": "ファビコンやデスクトップアイコン用の無料で迅速なWebPからICOへの変換ツール。すべてのデバイスで即座に動作します - サインアップは不要です。"
-
-  }
-  "description": "<p><strong>WebPをICO</strong>に数秒で変換します。ICOはWindowsのネイティブアイコン形式であり、ウェブファビコンの事実上の標準です。透明度（アルファ）を保持し、複数のサイズを生成するため、タブ、ショートカット、高DPIスクリーンでアイコンがシャープに保たれます。</p><p><em>注意：</em>アニメーションWebPファイルは、<strong>最初のフレーム</strong>を使用して静的アイコンに変換されます。</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebPからICOへの変換ツール"
-
-    "description": "透明度を保持したままWebP画像をマルチサイズのICOアイコンに変換します。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "高品質なICO変換"
-
-      "マルチサイズアイコンセット（16〜256 px）"
-
-      "透明度保持"
-
-      "迅速で無料のオンラインツール"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebPからICOへの変換が完了しました"
-
-    "back_button": "変換ツールに戻る"
-
-    "convert_another": "別のWebPを変換"
-
-    "quick_conversions": "クイック変換:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "なぜWebPをICOに変換するのか？"
-
-      "description": "<p>ICOはアイコンとファビコンのために特別に設計されています：</p><ul><li><strong>1つのファイルにマルチサイズ：</strong>すべての場所で鮮明に表示される16〜256 pxのバリアントをバンドルします。</li><li><strong>ファビコン標準：</strong>すべての主要ブラウザに認識されています。</li><li><strong>Windowsネイティブ：</strong>デスクトップ/アプリ/ショートカットアイコンに最適です。</li><li><strong>透明度：</strong>滑らかなエッジのための完全なアルファサポート。</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "WebPをICOにオンラインで変換する方法"
-
-      "description": "<ol><li><em>WebPをアップロード</em>をクリックし、画像を選択します。</li><li>処理と最適化を待ちます。</li><li><em>ICOをダウンロード</em>をクリックしてアイコンを保存します。</li></ol><p>シャープな結果のために一般的なサイズを自動生成します。</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICOとWebPの比較"
-
-      "description": "<ul><li><strong>使用ケース：</strong>アイコン/ファビコンにはICOを、一般的なウェブ画像にはWebPを使用します。</li><li><strong>透明度：</strong>両方ともアルファをサポートしますが、ICOは小さいサイズでエッジをきれいに保ちます。</li><li><strong>アニメーション：</strong>ICOは静的で、アニメーションWebPは静的アイコン（最初のフレーム）になります。</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "サポートされる制限と形式"
-
-      "description": "<ul><li><strong>受け入れられる入力：</strong>WebP (<code>image/webp</code>)</li><li><strong>最大ファイルサイズ：</strong>ファイルあたり16&nbsp;MB</li><li><strong>出力：</strong>ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "シャープなアイコンのためのベストプラクティス"
-
-      "description": "<ul><li><strong>正方形</strong>のソースから始め、クリッピングを避けるためにパディングを追加します。</li><li>16〜32 pxサイズには太い形状と高コントラストを使用します。</li><li>WebPに忙しい背景がある場合は、小さいサイズの明瞭さを向上させるためにそれを簡素化します。</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "トラブルシューティング"
-
-      "description": "<ul><li><strong>ファビコンが更新されない：</strong>キャッシュをクリアし、<code>/favicon.ico</code>を<code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>でリンクします。</li><li><strong>16 pxでギザギザに見える：</strong>より大きく、クリーンなソースをアップロードしてください。ダウンサイジングはシャープさを改善します。</li><li><strong>アップロードに失敗：</strong><code>image/webp</code>および≤ 16&nbsp;MBであることを確認してください。</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "このWebPからICOへの変換ツールは無料ですか？"
-
-      "answer": "はい、透かしや隠れた料金なしで完全に無料です。"
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "ICOファイルにサポートされているサイズは何ですか？"
-
-      "answer": "一般的なサイズには16×16、32×32、48×48、64×64、128×128、256×256 pxが含まれます。"
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "透明度は保持されますか？"
-
-      "answer": "はい。WebPにアルファチャンネルが含まれている場合、ICOはそれを保持します（32ビットRGBAエントリ）。"
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "アニメーションWebPはサポートしていますか？"
-
-      "answer": "アニメーションWebPは最初のフレームを使用して静的アイコンに変換されます。"
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "複数のWebPを一度に変換できますか？"
-
-      "answer": "このページでは1つのファイルを一度に変換します。複数のファイルについてはプロセスを繰り返してください。"
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "サポートされているファイルサイズは何ですか？"
-
-      "answer": "ファイルあたり最大16&nbsp;MBの画像をアップロードできます。"
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICOファイルは小さな表示サイズに最適化されています。最良の結果を得るには、正方形で高コントラストのソースを使用し、いくつかのパディングを含めてください。"
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "PNGをICOに変換"
-
-      "url": "/ja/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "JPGをICOに変換"
-
-      "url": "/ja/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "ICOをPNGに変換"
-
-      "url": "/ja/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "WebPをPNGに変換"
-
-      "url": "/ja/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 無断転載禁止。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebPからICOへの変換ツール - 無料＆オンライン"
-
-      "url": "https://miconvert.com/ja/convert/webp-to-ico"
-
-      "description": "ファビコンやWindowsデスクトップアイコン用にWebP画像をICOに変換するための無料オンラインツール。"
-
-      "inLanguage": "ja"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "ホーム"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "変換"
-
-          "item": "https://miconvert.com/ja/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebPからICO"
-
-          "item": "https://miconvert.com/ja/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebPからICOへの変換ツール"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ja/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "マルチサイズアイコンセット"
-
-        "透明度保持"
-
-        "迅速な処理"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "このWebPからICOへの変換ツールは無料ですか？"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい、透かしや隠れた料金なしで完全に無料です。"
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "サポートされているファイルサイズは何ですか？"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ファイルあたり最大16 MBの画像をアップロードできます。"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "透明度は保持されますか？"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい。WebPにアルファチャンネルが含まれている場合、ICOはそれを保持します（32ビットRGBAエントリ）。"
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "WebPをICOに変換する方法"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "WebPをアップロードをクリックし、画像を選択します。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "処理と最適化が完了するのを待ちます。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "ICOをダウンロードをクリックしてアイコンを保存します。"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebPからICOへの変換ツール"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

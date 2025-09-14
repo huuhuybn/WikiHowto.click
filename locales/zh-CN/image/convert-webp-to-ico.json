@@ -1,381 +1,250 @@
 {
-  "lang": "zh"
-
-  "lang_name": "中文"
-
-  "title": "WEBP 转 ICO 转换器 - 免费在线 | miconvert.com"
-
-  "sub_title": "在线将 WebP 图像转换为 ICO 格式，用于网站图标和桌面图标。免费、快速，无水印。"
-
-  "hint": "上传您的 WebP 图像以开始转换..."
-
-  "btn_download": "转换为 ICO"
-
-  "btn_paste": "上传 WebP"
-
-  "btn_clear": "清除"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "zh-CN",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "在线转换 WebP 为 ICO - 免费 WebP 转 ICO 转换器 | miconvert.com"
-
-    "description": "在线免费将 WebP 图像转换为 ICO 格式。高质量的 WebP → ICO 转换，用于网站图标和桌面图标。"
-
-    "keywords": "webp 转 ico, 转换 webp 为 ico, 免费 webp 转 ico, 在线 ico 转换器, 网站图标制作"
-
-    "canonical": "https://miconvert.com/zh/convert/webp-to-ico"
-
-    "og_title": "WebP 转 ICO 转换器 - 免费在线"
-
-    "og_description": "将 WebP 图像转换为 ICO 格式，用于网站图标和桌面图标。100% 免费、快速、安全。"
-
-    "og_url": "https://miconvert.com/zh/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在线转换 WebP 为 ICO"
-
-    "description": "免费的快速 WebP 转 ICO 转换器，用于网站图标和桌面图标。任何设备上即时工作，无需注册。"
-
-  }
-  "description": "<p>在几秒钟内将您的 <strong>WebP 转换为 ICO</strong>。ICO 是 Windows 的原生图标格式，也是网站图标的事实标准。我们保留透明度（alpha），并生成多种尺寸，以便您的图标在标签、快捷方式和高 DPI 屏幕上保持清晰。</p><p><em>注意：</em> 动画 WebP 文件将作为静态图标使用 <strong>第一帧</strong> 进行转换。</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP 转 ICO 转换器"
-
-    "description": "将 WebP 图像转换为多尺寸的 ICO 图标，保留透明度。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "高质量 ICO 转换"
-
-      "多尺寸图标集（16–256 px）"
-
-      "保留透明度"
-
-      "快速且免费的在线工具"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP 转 ICO 转换完成"
-
-    "back_button": "返回转换器"
-
-    "convert_another": "转换另一个 WebP"
-
-    "quick_conversions": "快速转换："
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "为什么要将 WebP 转换为 ICO？"
-
-      "description": "<p>ICO 是专为图标和网站图标而设计的：</p><ul><li><strong>一个文件中的多尺寸：</strong> 打包 16–256 px 变体，以便在任何地方都能清晰呈现。</li><li><strong>网站图标标准：</strong> 所有主要浏览器均可识别。</li><li><strong>Windows 原生：</strong> 适用于桌面/应用程序/快捷方式图标。</li><li><strong>透明度：</strong> 完全支持 alpha，边缘平滑。</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "如何在线将 WebP 转换为 ICO"
-
-      "description": "<ol><li>点击 <em>上传 WebP</em> 并选择您的图像。</li><li>等待处理和优化。</li><li>点击 <em>下载 ICO</em> 保存您的图标。</li></ol><p>我们会自动生成常见尺寸，以获得清晰的结果。</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO 与 WebP 比较"
-
-      "description": "<ul><li><strong>使用案例：</strong> ICO 用于图标/网站图标；WebP 用于一般网页图像。</li><li><strong>透明度：</strong> 两者均支持 alpha；ICO 在小尺寸下保持边缘清晰。</li><li><strong>动画：</strong> ICO 是静态的；动画 WebP 转换为静态图标（第一帧）。</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "支持的限制和格式"
-
-      "description": "<ul><li><strong>接受的输入：</strong> WebP (<code>image/webp</code>)</li><li><strong>最大文件大小：</strong> 每个文件 16&nbsp;MB</li><li><strong>输出：</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "锐利图标的最佳实践"
-
-      "description": "<ul><li>从 <strong>正方形</strong> 源开始，并添加填充以避免裁剪。</li><li>对于 16–32 px 尺寸，使用大胆的形状和高对比度。</li><li>如果您的 WebP 有繁忙的背景，请简化它以获得更好的小尺寸清晰度。</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>网站图标未更新：</strong> 清除缓存并通过 <code>/favicon.ico</code> 链接 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>。</li><li><strong>在 16 px 时看起来锯齿状：</strong> 上传更大、更干净的源；缩小尺寸可提高清晰度。</li><li><strong>上传失败：</strong> 确保 <code>image/webp</code> 且 ≤ 16&nbsp;MB。</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "这个 WebP 转 ICO 转换器是免费的吗？"
-
-      "answer": "是的，它完全免费，没有水印或隐藏费用。"
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "ICO 文件支持哪些尺寸？"
-
-      "answer": "常见尺寸包括 16×16、32×32、48×48、64×64、128×128 和 256×256 px。"
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "它保留透明度吗？"
-
-      "answer": "是的。如果您的 WebP 包含 alpha 通道，ICO 会保留它（32 位 RGBA 条目）。"
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "你们支持动画 WebP 吗？"
-
-      "answer": "动画 WebP 将作为静态图标使用第一帧进行转换。"
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "我可以一次转换多个 WebP 吗？"
-
-      "answer": "此页面一次转换一个文件。对于多个文件，请重复该过程。"
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "支持哪些文件大小？"
-
-      "answer": "您可以上传每个文件最大为 16&nbsp;MB 的图像。"
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICO 文件经过优化以适应小显示尺寸。为了获得最佳效果，请使用正方形、高对比度的源并添加一些填充。"
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "将 PNG 转换为 ICO"
-
-      "url": "/zh/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "将 JPG 转换为 ICO"
-
-      "url": "/zh/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "将 ICO 转换为 PNG"
-
-      "url": "/zh/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "将 WebP 转换为 PNG"
-
-      "url": "/zh/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 保留所有权利。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP 转 ICO 转换器 - 免费在线"
-
-      "url": "https://miconvert.com/zh/convert/webp-to-ico"
-
-      "description": "免费的在线工具，将 WebP 图像转换为 ICO，用于网站图标和 Windows 桌面图标。"
-
-      "inLanguage": "zh"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "首页"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "转换"
-
-          "item": "https://miconvert.com/zh/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP 转 ICO"
-
-          "item": "https://miconvert.com/zh/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP 转 ICO 转换器"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/zh/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "多尺寸图标集"
-
-        "保留透明度"
-
-        "快速处理"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "这个 WebP 转 ICO 转换器是免费的吗？"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，它完全免费，没有水印或隐藏费用。"
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "支持哪些文件大小？"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上传每个文件最大为 16 MB 的图像。"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "它保留透明度吗？"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的。如果您的 WebP 包含 alpha 通道，ICO 会保留它（32 位 RGBA 条目）。"
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何将 WebP 转换为 ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "点击上传 WebP 并选择您的图像。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "等待处理和优化完成。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "点击下载 ICO 保存您的图标。"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP 转 ICO 转换器"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

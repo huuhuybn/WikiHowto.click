@@ -1,355 +1,235 @@
 {
-  "lang": "sq"
-
-  "lang_name": "Shqip"
-
-  "title": "Konvertues PNG në ICO - Falas & Online | miconvert.com"
-
-  "sub_title": "Konvertoni imazhet PNG në formatin ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe pa ujëra."
-
-  "hint": "Ngarko imazhin tuaj PNG për të filluar konvertimin..."
-
-  "btn_download": "Konverto në ICO"
-
-  "btn_paste": "Ngarko PNG"
-
-  "btn_clear": "Pastro"
-
+  "lang": "sq",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Transformoni <strong>PNG në ICO</strong> për favicon dhe ikona desktopi perfekte! Konvertuesi ynë falas PNG në ICO krijon ikona profesionale me shumë madhësi që duken të qarta në të gjitha shfletuesit dhe desktopet Windows.</p><p>Skedarët ICO mund të përmbajnë disa madhësi në një skedar të vetëm (p.sh., 16–256 px), ideal për favicon dhe ikona aplikacionesh/shkurtesh. Transparenca nga PNG ruhet për skaj të butë në sfondet e errëta/ndriçuara.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "Konvertoni PNG në ICO Online - Konvertuesi Falas PNG në ICO | miconvert.com"
-
-    "description": "Konvertoni PNG në ICO online për favicon dhe ikona desktopi. Konvertuesi falas, i shpejtë dhe i sigurt PNG në ICO."
-
-    "keywords": "png në ico, konverto png në ico, png falas në ico, konvertues online ico, krijues favicon"
-
-    "canonical": "https://miconvert.com/sq/convert/png-to-ico"
-
-    "og_title": "Konvertues PNG në ICO - Falas & Online"
-
-    "og_description": "Konvertoni imazhet PNG në formatin ICO për favicon dhe ikona desktopi. 100% falas, shpejt, dhe i sigurt."
-
-    "og_url": "https://miconvert.com/sq/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertoni PNG në ICO Online"
-
-    "description": "Konvertuesi falas dhe i shpejtë PNG në ICO për favicon dhe ikona desktopi. Funksionon menjëherë në çdo pajisje, pa nevojë për regjistrim."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "Pse të Konvertoni PNG në ICO?"
-
-      "description": "<p>ICO është ndërtuar për ikona:</p><ul><li><strong>Mbështetje për shumë madhësi:</strong> Bashkoni varianta 16–256 px në një skedar.</li><li><strong>Standardi i favicon:</strong> I njohur nga shfletuesit kryesorë.</li><li><strong>Kompatibiliteti me Windows:</strong> Formati natyror i ikonave desktop/aplikacioneve.</li><li><strong>Transparenca:</strong> Skaj të butë me ruajtjen e alfas PNG.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "Si të Konvertoni PNG në ICO Online"
-
-      "description": "<ol><li>Klikoni <em>Ngarko PNG</em> dhe zgjidhni imazhin tuaj.</li><li>Prisni për përpunim dhe optimizim.</li><li>Klikoni <em>Shkarko ICO</em> për të ruajtur ikonën tuaj.</li></ol><p>Ne gjenerojmë automatikisht madhësi të zakonshme ikonash.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Specifikimet e Formatit ICO"
-
-      "description": "<ul><li><strong>Madhësitë standarde:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Thellësia e ngjyrës:</strong> Deri në 32-bit RGBA</li><li><strong>Transparenca:</strong> Kanali i plotë alfa</li><li><strong>Struktura:</strong> Header + shumë hyrje imazhi</li><li><strong>Kompressimi:</strong> Hyrje të kompresuara PNG për ikona 32-bit (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Kufijtë & Formatet e Mbështetura"
-
-      "description": "<ul><li><strong>Input i pranuar:</strong> PNG (<code>image/png</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Zgjidhja e Problemeve"
-
-      "description": "<ul><li><strong>Favicon nuk po shfaqet:</strong> Pastroni cache-n dhe sigurohuni që <code>/favicon.ico</code> të jetë në rrënjën e faqes me <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Skaj të thyer:</strong> Filloni nga një PNG më i madh, me kontrast të lartë; zvogëloni pastër.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që PNG ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "Karakteristikat e Konvertuesit Tonë PNG në ICO"
-
-      "description": "<ul><li>100% Falas pa ujëra</li><li>Optimizimi automatik i madhësisë</li><li>Ruajtja e transparencës</li><li>Përpunim i sigurt</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "A është ky konvertues PNG në ICO falas?"
-
-      "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Cilat madhësi mbështeten në skedarët ICO?"
-
-      "answer": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 piksel."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Mund të përdor skedarë ICO për favicon të faqes së internetit?"
-
-      "answer": "Po. <code>favicon.ico</code> mbështetet gjerësisht nga shfletuesit kryesorë."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "Cilat madhësi skedari mbështeten?"
-
-      "answer": "Mund të ngarkoni imazhe deri në 16&nbsp;MB për skedar."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "A janë skedarët e mi të sigurt?"
-
-      "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "A do të jetë cilësia e ikonës e mirë?"
-
-      "answer": "Ne ruajmë transparencën e PNG dhe gjenerojmë shumë madhësi për një renderim të qartë në dimensione të vogla."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "Për rezultate më të mira, përdorni një PNG të qartë, me kontrast të lartë. Vendosni <code>/favicon.ico</code> në rrënjën e faqes tuaj dhe referojeni atë me <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "Konvertoni JPG në ICO"
-
-      "url": "/sq/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konvertoni BMP në ICO"
-
-      "url": "/sq/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "Konvertoni SVG në ICO"
-
-      "url": "/sq/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "Konvertoni ICO në PNG"
-
-      "url": "/sq/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues PNG në ICO - Falas & Online"
-
-      "url": "https://miconvert.com/sq/convert/png-to-ico"
-
-      "description": "Mjet falas online për të konvertuar imazhet PNG në ICO për favicon dhe ikona desktopi Windows."
-
-      "inLanguage": "sq"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Kryefaqja"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverto"
-
-          "item": "https://miconvert.com/sq/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG në ICO"
-
-          "item": "https://miconvert.com/sq/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues PNG në ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sq/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Set ikone me shumë madhësi"
-
-        "Transparenca e ruajtur"
-
-        "Përpunim i shpejtë"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "A është ky konvertues PNG në ICO falas?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Cilat madhësi skedarësh mbështeten?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Cilat madhësi mbështeten në skedarët ICO?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 piksel."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Si të konvertoni PNG në ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Ngarko PNG dhe zgjidhni imazhin tuaj."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Prisni që përpunimi të përfundojë."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Shkarko ICO për të ruajtur ikonën tuaj."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Konvertues PNG në ICO"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

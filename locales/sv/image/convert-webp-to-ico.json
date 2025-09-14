@@ -1,381 +1,250 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "WEBP till ICO Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera WebP-bilder till ICO-format online för faviconer och skrivbordsikoner. Gratis, snabbt och utan vattenstämplar."
-
-  "hint": "Ladda upp din WebP-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till ICO"
-
-  "btn_paste": "Ladda upp WebP"
-
-  "btn_clear": "Rensa"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "sv",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "Konvertera WebP till ICO Online - Gratis WebP till ICO Konverterare | miconvert.com"
-
-    "description": "Konvertera WebP-bilder till ICO-format online gratis. Högkvalitativ WebP → ICO-konvertering för faviconer och skrivbordsikoner."
-
-    "keywords": "webp till ico, konvertera webp till ico, gratis webp till ico, online ico konverterare, favicon skapare"
-
-    "canonical": "https://miconvert.com/sv/convert/webp-to-ico"
-
-    "og_title": "WebP till ICO Konverterare - Gratis & Online"
-
-    "og_description": "Konvertera WebP-bilder till ICO-format för faviconer och skrivbordsikoner. 100% gratis, snabbt och säkert."
-
-    "og_url": "https://miconvert.com/sv/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera WebP till ICO Online"
-
-    "description": "Gratis och snabb WebP till ICO-konverterare för faviconer och skrivbordsikoner. Fungerar omedelbart på alla enheter — ingen registrering krävs."
-
-  }
-  "description": "<p>Transformera din <strong>WebP till ICO</strong> på några sekunder. ICO är det inhemska ikonformatet för Windows och den de facto standarden för webbfaviconer. Vi bevarar transparens (alpha) och genererar flera storlekar så att din ikon förblir skarp på flikar, genvägar och hög-DPI-skärmar.</p><p><em>Observera:</em> Animerade WebP-filer konverteras som en statisk ikon med <strong>första bilden</strong>.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP till ICO Konverterare"
-
-    "description": "Konvertera WebP-bilder till flerstorleks ICO-ikoner med bevarad transparens."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Högkvalitativ ICO-konvertering"
-
-      "Flerstorleks ikonset (16–256 px)"
-
-      "Transparens bevarad"
-
-      "Snabb och gratis onlineverktyg"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP till ICO Konvertering Klar"
-
-    "back_button": "Tillbaka till Konverteraren"
-
-    "convert_another": "Konvertera en annan WebP"
-
-    "quick_conversions": "Snabba Konverteringar:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Varför Konvertera WebP till ICO?"
-
-      "description": "<p>ICO är speciellt utformat för ikoner och faviconer:</p><ul><li><strong>Flerstorlekar i en fil:</strong> Samla 16–256 px varianter för skarp rendering överallt.</li><li><strong>Faviconstandard:</strong> Känns igen av alla större webbläsare.</li><li><strong>Windows inhemsk:</strong> Idealisk för skrivbord/app/shortcut-ikoner.</li><li><strong>Transparens:</strong> Full alpha-stöd för mjuka kanter.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Hur man Konverterar WebP till ICO Online"
-
-      "description": "<ol><li>Klicka på <em>Ladda upp WebP</em> och välj din bild.</li><li>Vänta på bearbetning och optimering.</li><li>Klicka på <em>Ladda ner ICO</em> för att spara din ikon.</li></ol><p>Vi auto-genererar vanliga storlekar för skarpa resultat.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO vs WebP Jämförelse"
-
-      "description": "<ul><li><strong>Användningsfall:</strong> ICO för ikoner/faviconer; WebP för allmänna webbbilder.</li><li><strong>Transparens:</strong> Båda stöder alpha; ICO håller kanterna rena vid små storlekar.</li><li><strong>Animering:</strong> ICO är statisk; animerad WebP blir en statisk ikon (första bilden).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Stödda Gränser & Format"
-
-      "description": "<ul><li><strong>Accepterad indata:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximal filstorlek:</strong> 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Bästa Praxis för Skarpa Ikoner"
-
-      "description": "<ul><li>Börja med en <strong>kvadratisk</strong> källa och lägg till padding för att undvika klippning.</li><li>Använd djärva former och hög kontrast för 16–32 px storlekar.</li><li>Om din WebP har en rörig bakgrund, förenkla den för bättre klarhet i små storlekar.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Favicon uppdateras inte:</strong> Rensa cache och länka <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Ser kantig ut vid 16 px:</strong> Ladda upp en större, ren källa; nedskalning förbättrar skärpan.</li><li><strong>Uppladdning misslyckas:</strong> Se till att <code>image/webp</code> och ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna WebP till ICO konverterare gratis?"
-
-      "answer": "Ja, den är helt gratis utan vattenstämplar eller dolda avgifter."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Vilka storlekar stöds för ICO-filer?"
-
-      "answer": "Vanliga storlekar inkluderar 16×16, 32×32, 48×48, 64×64, 128×128 och 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Bevarar den transparens?"
-
-      "answer": "Ja. Om din WebP inkluderar en alpha-kanal, bevarar ICO den (32-bit RGBA-poster)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "Stöder ni animerad WebP?"
-
-      "answer": "Animerad WebP konverteras som en statisk ikon med första bilden."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Kan jag konvertera flera WebP samtidigt?"
-
-      "answer": "Denna sida konverterar en fil i taget. Upprepa processen för flera filer."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICO-filer är optimerade för små visningsstorlekar. För bästa resultat, använd en kvadratisk, högkontrastkälla och inkludera lite padding."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "Konvertera PNG till ICO"
-
-      "url": "/sv/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konvertera JPG till ICO"
-
-      "url": "/sv/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konvertera ICO till PNG"
-
-      "url": "/sv/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konvertera WebP till PNG"
-
-      "url": "/sv/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP till ICO Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/webp-to-ico"
-
-      "description": "Gratis onlineverktyg för att konvertera WebP-bilder till ICO för faviconer och Windows-skrivbordsikoner."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Hem"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP till ICO"
-
-          "item": "https://miconvert.com/sv/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP till ICO Konverterare"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Flerstorleks ikonset"
-
-        "Transparens bevarad"
-
-        "Snabb bearbetning"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna WebP till ICO konverterare gratis?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, den är helt gratis utan vattenstämplar eller dolda avgifter."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Bevarar den transparens?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja. Om din WebP inkluderar en alpha-kanal, bevarar ICO den (32-bit RGBA-poster)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar WebP till ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda upp WebP och välj din bild."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetning och optimering ska slutföras."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner ICO för att spara din ikon."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP till ICO Konverterare"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

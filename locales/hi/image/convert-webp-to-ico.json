@@ -1,381 +1,250 @@
 {
-  "lang": "hi"
-
-  "lang_name": "हिंदी"
-
-  "title": "WEBP से ICO कनवर्टर - मुफ्त और ऑनलाइन | miconvert.com"
-
-  "sub_title": "फेविकॉन और डेस्कटॉप आइकनों के लिए ऑनलाइन WebP छवियों को ICO प्रारूप में परिवर्तित करें। मुफ्त, तेज, और बिना वॉटरमार्क के।"
-
-  "hint": "परिवर्तन शुरू करने के लिए अपनी WebP छवि अपलोड करें..."
-
-  "btn_download": "ICO में परिवर्तित करें"
-
-  "btn_paste": "WebP अपलोड करें"
-
-  "btn_clear": "स्पष्ट करें"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "hi",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "ऑनलाइन WebP को ICO में परिवर्तित करें - मुफ्त WebP से ICO कनवर्टर | miconvert.com"
-
-    "description": "मुफ्त में ऑनलाइन WebP छवियों को ICO प्रारूप में परिवर्तित करें। फेविकॉन और डेस्कटॉप आइकनों के लिए उच्च गुणवत्ता वाला WebP → ICO रूपांतरण।"
-
-    "keywords": "webp से ico, webp को ico में परिवर्तित करें, मुफ्त webp से ico, ऑनलाइन ico कनवर्टर, फेविकॉन निर्माता"
-
-    "canonical": "https://miconvert.com/en/convert/webp-to-ico"
-
-    "og_title": "WebP से ICO कनवर्टर - मुफ्त और ऑनलाइन"
-
-    "og_description": "फेविकॉन और डेस्कटॉप आइकनों के लिए WebP छवियों को ICO प्रारूप में परिवर्तित करें। 100% मुफ्त, तेज, और सुरक्षित।"
-
-    "og_url": "https://miconvert.com/en/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "ऑनलाइन WebP को ICO में परिवर्तित करें"
-
-    "description": "फेविकॉन और डेस्कटॉप आइकनों के लिए मुफ्त और तेज WebP से ICO कनवर्टर। किसी भी उपकरण पर तुरंत काम करता है - कोई साइनअप आवश्यक नहीं।"
-
-  }
-  "description": "<p>अपने <strong>WebP को ICO</strong> में सेकंडों में परिवर्तित करें। ICO विंडोज के लिए मूल आइकन प्रारूप है और वेब फेविकॉन के लिए डि-फैक्टो मानक है। हम पारदर्शिता (अल्फा) को बनाए रखते हैं और कई आकार उत्पन्न करते हैं ताकि आपका आइकन टैब, शॉर्टकट और उच्च-DPI स्क्रीन पर तेज दिखे।</p><p><em>नोट:</em> एनिमेटेड WebP फ़ाइलों को <strong>पहले फ्रेम</strong> का उपयोग करके एक स्थिर आइकन के रूप में परिवर्तित किया जाता है।</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP से ICO कनवर्टर"
-
-    "description": "पारदर्शिता को बनाए रखते हुए WebP छवियों को मल्टी-साइज ICO आइकनों में परिवर्तित करें।"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "उच्च गुणवत्ता वाला ICO रूपांतरण"
-
-      "मल्टी-साइज आइकन सेट (16–256 px)"
-
-      "पारदर्शिता को बनाए रखा गया"
-
-      "तेज़ और मुफ्त ऑनलाइन उपकरण"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP से ICO रूपांतरण पूरा"
-
-    "back_button": "कनवर्टर पर वापस जाएं"
-
-    "convert_another": "एक और WebP परिवर्तित करें"
-
-    "quick_conversions": "त्वरित रूपांतरण:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "WebP को ICO में परिवर्तित करने का कारण?"
-
-      "description": "<p>ICO आइकनों और फेविकॉन के लिए विशेष रूप से बनाया गया है:</p><ul><li><strong>एक फ़ाइल में मल्टी-साइज:</strong> हर जगह स्पष्ट रेंडरिंग के लिए 16–256 px वैरिएंट को बंडल करें।</li><li><strong>फेविकॉन मानक:</strong> सभी प्रमुख ब्राउज़रों द्वारा मान्यता प्राप्त।</li><li><strong>विंडोज का मूल:</strong> डेस्कटॉप/ऐप/शॉर्टकट आइकनों के लिए आदर्श।</li><li><strong>पारदर्शिता:</strong> चिकनी किनारों के लिए पूर्ण अल्फा समर्थन।</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "ऑनलाइन WebP को ICO में कैसे परिवर्तित करें"
-
-      "description": "<ol><li><em>WebP अपलोड करें</em> पर क्लिक करें और अपनी छवि चुनें।</li><li>प्रसंस्करण और अनुकूलन के लिए प्रतीक्षा करें।</li><li><em>ICO डाउनलोड करें</em> पर क्लिक करें ताकि आपका आइकन सहेज सकें।</li></ol><p>हम तेज परिणामों के लिए सामान्य आकार स्वचालित रूप से उत्पन्न करते हैं।</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "ICO बनाम WebP तुलना"
-
-      "description": "<ul><li><strong>उपयोग का मामला:</strong> ICO आइकनों/फेविकॉन के लिए; WebP सामान्य वेब छवियों के लिए।</li><li><strong>पारदर्शिता:</strong> दोनों अल्फा का समर्थन करते हैं; ICO छोटे आकारों में किनारों को साफ रखता है।</li><li><strong>एनिमेशन:</strong> ICO स्थिर है; एनिमेटेड WebP एक स्थिर आइकन (पहला फ्रेम) बन जाता है।</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "समर्थित सीमाएँ और प्रारूप"
-
-      "description": "<ul><li><strong>स्वीकृत इनपुट:</strong> WebP (<code>image/webp</code>)</li><li><strong>अधिकतम फ़ाइल आकार:</strong> प्रति फ़ाइल 16&nbsp;MB</li><li><strong>आउटपुट:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "तेज आइकनों के लिए सर्वोत्तम प्रथाएँ"
-
-      "description": "<ul><li>एक <strong>वर्ग</strong> स्रोत से शुरू करें और क्लिपिंग से बचने के लिए पैडिंग जोड़ें।</li><li>16–32 px आकार के लिए बोल्ड आकार और उच्च विपरीत का उपयोग करें।</li><li>यदि आपकी WebP में व्यस्त पृष्ठभूमि है, तो बेहतर छोटे आकार की स्पष्टता के लिए इसे सरल बनाएं।</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "समस्या निवारण"
-
-      "description": "<ul><li><strong>फेविकॉन अपडेट नहीं हो रहा है:</strong> कैश साफ़ करें और <code>/favicon.ico</code> को <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> के माध्यम से लिंक करें।</li><li><strong>16 px पर जटिल दिखता है:</strong> एक बड़ा, साफ स्रोत अपलोड करें; डाउनस्केलिंग से तेज़ी में सुधार होता है।</li><li><strong>अपलोड विफल:</strong> सुनिश्चित करें कि <code>image/webp</code> और ≤ 16&nbsp;MB है।</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "क्या यह WebP से ICO कनवर्टर मुफ्त है?"
-
-      "answer": "हाँ, यह पूरी तरह से मुफ्त है, बिना वॉटरमार्क या छिपे हुए शुल्क के।"
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "ICO फ़ाइलों के लिए कौन से आकार समर्थित हैं?"
-
-      "answer": "सामान्य आकारों में 16×16, 32×32, 48×48, 64×64, 128×128, और 256×256 px शामिल हैं।"
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "क्या यह पारदर्शिता बनाए रखता है?"
-
-      "answer": "हाँ। यदि आपकी WebP में एक अल्फा चैनल है, तो ICO इसे बनाए रखता है (32-बिट RGBA प्रविष्टियाँ)।"
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "क्या आप एनिमेटेड WebP का समर्थन करते हैं?"
-
-      "answer": "एनिमेटेड WebP को पहले फ्रेम का उपयोग करके एक स्थिर आइकन के रूप में परिवर्तित किया जाता है।"
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "क्या मैं एक साथ कई WebP को परिवर्तित कर सकता हूँ?"
-
-      "answer": "यह पृष्ठ एक समय में एक फ़ाइल को परिवर्तित करता है। कई फ़ाइलों के लिए प्रक्रिया को दोहराएँ।"
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "कौन से फ़ाइल आकार समर्थित हैं?"
-
-      "answer": "आप प्रति फ़ाइल 16&nbsp;MB तक की छवियाँ अपलोड कर सकते हैं।"
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "ICO फ़ाइलें छोटे डिस्प्ले आकारों के लिए अनुकूलित होती हैं। सर्वोत्तम परिणामों के लिए, एक वर्ग, उच्च-विपरीत स्रोत का उपयोग करें और कुछ पैडिंग शामिल करें।"
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "PNG को ICO में परिवर्तित करें"
-
+      "title": "Convert PNG to ICO",
       "url": "/en/convert/png-to-ico"
-
-    }
+    },
     {
-      "title": "JPG को ICO में परिवर्तित करें"
-
+      "title": "Convert JPG to ICO",
       "url": "/en/convert/jpg-to-ico"
-
-    }
+    },
     {
-      "title": "ICO को PNG में परिवर्तित करें"
-
+      "title": "Convert ICO to PNG",
       "url": "/en/convert/ico-to-png"
-
-    }
+    },
     {
-      "title": "WebP को PNG में परिवर्तित करें"
-
+      "title": "Convert WebP to PNG",
       "url": "/en/convert/webp-to-png"
-
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. सभी अधिकार सुरक्षित।"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP से ICO कनवर्टर - मुफ्त और ऑनलाइन"
-
-      "url": "https://miconvert.com/en/convert/webp-to-ico"
-
-      "description": "फेविकॉन और विंडोज डेस्कटॉप आइकनों के लिए WebP छवियों को ICO में परिवर्तित करने के लिए मुफ्त ऑनलाइन उपकरण।"
-
-      "inLanguage": "hi"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "होम"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "परिवर्तित करें"
-
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
           "item": "https://miconvert.com/en/convert/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP से ICO"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
           "item": "https://miconvert.com/en/convert/webp-to-ico"
-
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP से ICO कनवर्टर"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "मल्टी-साइज आइकन सेट"
-
-        "पारदर्शिता को बनाए रखा गया"
-
-        "तेज़ प्रसंस्करण"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "क्या यह WebP से ICO कनवर्टर मुफ्त है?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "हाँ, यह पूरी तरह से मुफ्त है, बिना वॉटरमार्क या छिपे हुए शुल्क के।"
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "कौन से फ़ाइल आकार समर्थित हैं?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "आप प्रति फ़ाइल 16 MB तक की छवियाँ अपलोड कर सकते हैं।"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "क्या यह पारदर्शिता बनाए रखता है?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "हाँ। यदि आपकी WebP में एक अल्फा चैनल है, तो ICO इसे बनाए रखता है (32-बिट RGBA प्रविष्टियाँ)।"
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP को ICO में कैसे परिवर्तित करें"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "WebP अपलोड करें पर क्लिक करें और अपनी छवि चुनें।"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "प्रसंस्करण और अनुकूलन पूरा होने की प्रतीक्षा करें।"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "ICO डाउनलोड करें पर क्लिक करें ताकि आपका आइकन सहेज सकें।"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP से ICO कनवर्टर"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

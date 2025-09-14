@@ -1,363 +1,240 @@
 {
-  "lang": "uk"
-
-  "lang_name": "Українська"
-
-  "title": "Конвертер SVG в ICO - Безкоштовно та Онлайн | miconvert.com"
-
-  "sub_title": "Конвертуйте зображення SVG в формат ICO онлайн для фавіконів та значків на робочому столі. Безкоштовно, швидко та без водяних знаків."
-
-  "hint": "Завантажте своє зображення SVG, щоб почати конвертацію..."
-
-  "btn_download": "Конвертувати в ICO"
-
-  "btn_paste": "Завантажити SVG"
-
-  "btn_clear": "Очистити"
-
-  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg"
-
+  "lang": "uk",
+  "lang_name": "English",
+  "title": "SVG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert SVG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your SVG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload SVG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/svg-to-ico.jpg",
   "converter": {
-    "type": "svg-to-ico"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "svg-to-ico",
+    "inputFormat": "SVG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/svg+xml"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Перетворіть свій <strong>SVG в ICO</strong> для ідеальних фавіконів та значків на робочому столі! Наш безкоштовний конвертер растеризує ваш векторний SVG в чіткий багатоформатний ICO, який працює в усіх браузерах та на робочих столах Windows.</p><p>ICO може об'єднувати кілька розмірів в одному файлі (наприклад, 16–256 пікселів), тому ваш значок виглядає чітко на вкладках, ярликах та дисплеях з високою роздільною здатністю. Прозорість зберігається для плавних країв на світлому та темному фоні.</p>"
-
+  },
+  "description": "<p>Transform your <strong>SVG to ICO</strong> for perfect favicons and desktop icons! Our free converter rasterizes your vector SVG to crisp multi-size ICO that works across browsers and Windows desktops.</p><p>ICO can bundle several sizes in one file (e.g., 16–256 px), so your icon looks sharp on tabs, shortcuts, and high-DPI displays. Transparency is preserved for smooth edges on light and dark backgrounds.</p>",
   "head": {
-    "title": "Конвертуйте SVG в ICO Онлайн - Безкоштовний конвертер SVG в ICO | miconvert.com"
-
-    "description": "Конвертуйте SVG в ICO онлайн для фавіконів та значків на робочому столі. Безкоштовний, швидкий та безпечний інструмент конвертації SVG в ICO."
-
-    "keywords": "svg в ico, конвертувати svg в ico, безкоштовний svg в ico, онлайн конвертер ico, генератор фавіконів"
-
-    "canonical": "https://miconvert.com/uk/convert/svg-to-ico"
-
-    "og_title": "Конвертер SVG в ICO - Безкоштовно та Онлайн"
-
-    "og_description": "Конвертуйте зображення SVG в формат ICO для фавіконів та значків на робочому столі. 100% безкоштовно, швидко та безпечно."
-
-    "og_url": "https://miconvert.com/uk/convert/svg-to-ico"
-
+    "title": "Convert SVG to ICO Online - Free SVG to ICO Converter | miconvert.com",
+    "description": "Convert SVG to ICO online for favicons and desktop icons. Free, fast, and secure SVG to ICO converter tool.",
+    "keywords": "svg to ico, convert svg to ico, free svg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/svg-to-ico",
+    "og_title": "SVG to ICO Converter - Free & Online",
+    "og_description": "Convert SVG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/svg-to-ico",
     "og_image": "https://miconvert.com/images/svg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертуйте SVG в ICO Онлайн"
-
-    "description": "Безкоштовний та швидкий конвертер SVG в ICO для фавіконів та значків на робочому столі. Працює миттєво на будь-якому пристрої — реєстрація не потрібна."
-
-  }
+    "title": "Convert SVG to ICO Online",
+    "description": "Free and fast SVG to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "h2": [
     {
-      "title": "Чому конвертувати SVG в ICO?"
-
-      "description": "<p>SVG надає вам незалежні від роздільної здатності форми; ICO забезпечує нативну сумісність значків:</p><ul><li><strong>Підтримка кількох розмірів:</strong> Об'єднайте варіанти 16–256 пікселів в одному файлі.</li><li><strong>Стандарт фавіконів:</strong> Широко визнаний браузерами.</li><li><strong>Сумісність з Windows:</strong> Нативний формат для значків на робочому столі/додатках.</li><li><strong>Прозорість:</strong> Плавні краї з збереженою альфа-каналом.</li></ul>"
-
-    }
+      "title": "Why Convert SVG to ICO?",
+      "description": "<p>SVG gives you resolution-independent shapes; ICO gives you native icon compatibility:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Widely recognized by browsers.</li><li><strong>Windows compatibility:</strong> Native format for desktop/app icons.</li><li><strong>Transparency:</strong> Smooth edges with alpha preserved.</li></ul>"
+    },
     {
-      "title": "Як конвертувати SVG в ICO онлайн"
-
-      "description": "<ol><li>Натисніть <em>Завантажити SVG</em> та виберіть свій векторний файл.</li><li>Зачекайте на растеризацію та оптимізацію.</li><li>Натисніть <em>Завантажити ICO</em>, щоб зберегти свій значок.</li></ol><p>Ми автоматично генеруємо загальні розміри для чітких результатів.</p>"
-
-    }
+      "title": "How to Convert SVG to ICO Online",
+      "description": "<ol><li>Click <em>Upload SVG</em> and select your vector file.</li><li>Wait for rasterization and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common sizes automatically for sharp results.</p>"
+    },
     {
-      "title": "Специфікації формату ICO"
-
-      "description": "<ul><li><strong>Стандартні розміри:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 пікселів</li><li><strong>Глибина кольору:</strong> До 32-бітного RGBA</li><li><strong>Стиснення:</strong> Записи з PNG-стисненням для 32-бітних значків (Vista+)</li><li><strong>Структура:</strong> Заголовок + кілька записів зображень в одному файлі</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li><li><strong>Structure:</strong> Header + multiple image entries in one file</li></ul>"
+    },
     {
-      "title": "Підтримувані обмеження та формати"
-
-      "description": "<ul><li><strong>Прийняті вхідні дані:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Максимальний розмір файлу:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вихід:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Усунення неполадок"
-
-      "description": "<ul><li><strong>Фавікон не відображається:</strong> Очистіть кеш і переконайтеся, що <code>/favicon.ico</code> пов'язаний через <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Шрифти/фільтри:</strong> Не вбудовані шрифти, складні фільтри або зовнішні ресурси можуть растеризуватися по-різному. Перетворіть текст на контури та вбудовані ресурси в SVG.</li><li><strong>Обрізка:</strong> Використовуйте квадратну аркуш з відступами, щоб уникнути обрізання після растеризації.</li><li><strong>Завантаження не вдалося:</strong> Переконайтеся, що SVG ≤ 16&nbsp;МБ і дійсний <code>image/svg+xml</code>.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is linked via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Fonts/filters:</strong> Non-embedded fonts, complex filters, or external assets may rasterize differently. Convert text to outlines and inline assets in the SVG.</li><li><strong>Cropping:</strong> Use a square artboard with padding to avoid clipping after rasterization.</li><li><strong>Upload fails:</strong> Ensure SVG ≤ 16&nbsp;MB and valid <code>image/svg+xml</code>.</li></ul>"
+    },
     {
-      "title": "Найкращі практики"
-
-      "description": "<ul><li>Проектуйте на квадратному полотні 512×512 або 1024×1024 для чистих зменшень.</li><li>Зберігайте форми чіткими; уникайте тонких ліній на малих розмірах.</li><li>Використовуйте високий контраст для читабельності в значках 16–32 пікселі.</li></ul>"
-
-    }
+      "title": "Best Practices",
+      "description": "<ul><li>Design on a 512×512 or 1024×1024 square canvas for clean downscales.</li><li>Keep shapes bold; avoid thin hairlines at small sizes.</li><li>Use high contrast for readability in 16–32 px icons.</li></ul>"
+    },
     {
-      "title": "Особливості нашого конвертера SVG в ICO"
-
-      "description": "<ul><li>100% безкоштовно без водяних знаків</li><li>Автоматичне перетворення векторів у растри</li><li>Генерація значків кількох розмірів</li><li>Прозорість зберігається</li><li>Безпечна обробка</li></ul>"
-
+      "title": "Features of Our SVG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic vector→raster conversion</li><li>Multi-size icon generation</li><li>Transparency preserved</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Цей конвертер SVG в ICO безкоштовний?"
-
-      "answer": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
-
-    }
+      "question": "Is this SVG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Які розміри підтримуються у файлах ICO?"
-
-      "answer": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Чи можу я використовувати ICO для фавіконів веб-сайту?"
-
-      "answer": "Так. Розмістіть <code>/favicon.ico</code> у корені вашого сайту та посилайтеся на нього за допомогою <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
-    }
+      "question": "Can I use ICO for website favicons?",
+      "answer": "Yes. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
+    },
     {
-      "question": "Які розміри файлів підтримуються?"
-
-      "answer": "Ви можете завантажувати SVG файли до 16&nbsp;МБ."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload SVG files up to 16&nbsp;MB."
+    },
     {
-      "question": "Чи безпечні мої файли?"
-
-      "answer": "Файли обробляються автоматично і не зберігаються довше, ніж необхідно для конвертації."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Чи буде якість значка хорошою?"
-
-      "answer": "Так. Ми растеризуємо з вашого вектора в кількох розмірах, щоб зберегти чіткість країв і прозорість."
-
+      "question": "Will the icon quality be good?",
+      "answer": "Yes. We rasterize from your vector at multiple sizes to keep edges crisp and transparency intact."
     }
-  ]
-  "note": "SVG растеризуються під час конвертації. Для стабільних результатів перетворіть текст на контури та вбудуйте необхідні ресурси."
-
+  ],
+  "note": "SVGs are rasterized during conversion. For consistent results, convert text to outlines and embed required assets.",
   "related_links": [
     {
-      "title": "Конвертувати PNG в ICO"
-
-      "url": "/uk/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Конвертувати JPG в ICO"
-
-      "url": "/uk/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Конвертувати ICO в PNG"
-
-      "url": "/uk/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Конвертувати SVG в PNG"
-
-      "url": "/uk/convert/svg-to-png"
-
+      "title": "Convert SVG to PNG",
+      "url": "/en/convert/svg-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер SVG в ICO - Безкоштовно та Онлайн"
-
-      "url": "https://miconvert.com/uk/convert/svg-to-ico"
-
-      "description": "Безкоштовний онлайн інструмент для конвертації зображень SVG в ICO для фавіконів та значків на робочому столі Windows."
-
-      "inLanguage": "uk"
-
-      "image": "https://miconvert.com/images/svg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
+      "description": "Free online tool to convert SVG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/svg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Головна"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертувати"
-
-          "item": "https://miconvert.com/uk/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG в ICO"
-
-          "item": "https://miconvert.com/uk/convert/svg-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SVG to ICO",
+          "item": "https://miconvert.com/en/convert/svg-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер SVG в ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/uk/convert/svg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "SVG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/svg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Вектор в растр"
-
-        "Набір кількох розмірів"
-
-        "Прозорість зберігається"
-
-      ]
+        "Vector to raster",
+        "Multi-size set",
+        "Transparency preserved"
+      ],
       "screenshot": "https://miconvert.com/images/svg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Цей конвертер SVG в ICO безкоштовний?"
-
+          "@type": "Question",
+          "name": "Is this SVG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Які розміри файлів підтримуються?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ви можете завантажувати SVG файли до 16 МБ."
-
+            "@type": "Answer",
+            "text": "You can upload SVG files up to 16 MB."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Які розміри підтримуються у файлах ICO?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Звичайні розміри включають 16×16, 32×32, 48×48, 64×64, 128×128 та 256×256 пікселів."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Як конвертувати SVG в ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert SVG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити SVG та виберіть свій векторний файл."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload SVG and select your vector file."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Зачекайте, поки завершиться растеризація та оптимізація."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for rasterization and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити ICO, щоб зберегти файл значка."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save the icon file."
         }
-      ]
+      ],
       "tool": [
-        "Конвертер SVG в ICO"
-
-      ]
+        "SVG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

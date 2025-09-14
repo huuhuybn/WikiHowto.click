@@ -1,355 +1,235 @@
 {
-  "lang": "zh"
-
-  "lang_name": "中文"
-
-  "title": "PNG 转 ICO 转换器 - 免费在线 | miconvert.com"
-
-  "sub_title": "在线将 PNG 图像转换为 ICO 格式，用于网站图标和桌面图标。免费、快速，无水印。"
-
-  "hint": "上传您的 PNG 图像以开始转换..."
-
-  "btn_download": "转换为 ICO"
-
-  "btn_paste": "上传 PNG"
-
-  "btn_clear": "清除"
-
+  "lang": "zh-CN",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>将您的 <strong>PNG 转换为 ICO</strong>，以获得完美的网站图标和桌面图标！我们的免费 PNG 转 ICO 转换器创建专业的多尺寸图标，在浏览器和 Windows 桌面上看起来清晰。</p><p>ICO 文件可以在一个文件中捆绑多个尺寸（例如，16–256 像素），非常适合网站图标和应用程序/快捷方式图标。PNG 的透明度得以保留，使得在深色/浅色背景上边缘平滑。</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "在线转换 PNG 为 ICO - 免费 PNG 转 ICO 转换器 | miconvert.com"
-
-    "description": "在线将 PNG 转换为 ICO，用于网站图标和桌面图标。免费、快速、安全的 PNG 转 ICO 转换工具。"
-
-    "keywords": "png 转 ico, 转换 png 为 ico, 免费 png 转 ico, 在线 ico 转换器, 网站图标制作"
-
-    "canonical": "https://miconvert.com/zh/convert/png-to-ico"
-
-    "og_title": "PNG 转 ICO 转换器 - 免费在线"
-
-    "og_description": "将 PNG 图像转换为 ICO 格式，用于网站图标和桌面图标。100% 免费、快速、安全。"
-
-    "og_url": "https://miconvert.com/zh/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在线转换 PNG 为 ICO"
-
-    "description": "免费的快速 PNG 转 ICO 转换器，用于网站图标和桌面图标。任何设备上即时工作，无需注册。"
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "为什么要将 PNG 转换为 ICO？"
-
-      "description": "<p>ICO 是为图标而设计的：</p><ul><li><strong>多尺寸支持：</strong>在一个文件中捆绑 16–256 像素的变体。</li><li><strong>网站图标标准：</strong>被主要浏览器识别。</li><li><strong>Windows 兼容性：</strong>本地桌面/应用程序图标格式。</li><li><strong>透明度：</strong>保留 PNG alpha 的平滑边缘。</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "如何在线将 PNG 转换为 ICO"
-
-      "description": "<ol><li>点击 <em>上传 PNG</em> 并选择您的图像。</li><li>等待处理和优化。</li><li>点击 <em>下载 ICO</em> 保存您的图标。</li></ol><p>我们会自动生成常见的图标尺寸。</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "ICO 格式规格"
-
-      "description": "<ul><li><strong>标准尺寸：</strong>16×16、32×32、48×48、64×64、128×128、256×256 像素</li><li><strong>颜色深度：</strong>最高 32 位 RGBA</li><li><strong>透明度：</strong>完整 alpha 通道</li><li><strong>结构：</strong>头部 + 多个图像条目</li><li><strong>压缩：</strong>32 位图标（Vista+）的 PNG 压缩条目</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "支持的限制和格式"
-
-      "description": "<ul><li><strong>接受的输入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每个文件最大 16&nbsp;MB</li><li><strong>输出：</strong>ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>网站图标未显示：</strong>清除缓存并确保 <code>/favicon.ico</code> 在网站根目录，并用 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> 引用它。</li><li><strong>边缘锯齿：</strong>从更大、高对比度的 PNG 开始；干净缩小。</li><li><strong>上传失败：</strong>确保 PNG ≤ 16&nbsp;MB。</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "我们的 PNG 转 ICO 转换器的特点"
-
-      "description": "<ul><li>100% 免费，无水印</li><li>自动尺寸优化</li><li>透明度保留</li><li>安全处理</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "这个 PNG 转 ICO 转换器是免费的吗？"
-
-      "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "ICO 文件支持哪些尺寸？"
-
-      "answer": "常见尺寸包括 16×16、32×32、48×48、64×64、128×128 和 256×256 像素。"
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "我可以将 ICO 文件用于网站图标吗？"
-
-      "answer": "可以。<code>favicon.ico</code> 被主要浏览器广泛支持。"
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "支持哪些文件大小？"
-
-      "answer": "您可以上传每个文件最大 16&nbsp;MB 的图像。"
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "我的文件安全吗？"
-
-      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "图标质量会好吗？"
-
-      "answer": "我们保留 PNG 透明度，并生成多个尺寸，以便在小尺寸下清晰呈现。"
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "为了获得最佳效果，请使用清晰、高对比度的 PNG。将 <code>/favicon.ico</code> 放在您的网站根目录，并用 <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code> 引用它。"
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "将 JPG 转换为 ICO"
-
-      "url": "/zh/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "将 BMP 转换为 ICO"
-
-      "url": "/zh/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "将 SVG 转换为 ICO"
-
-      "url": "/zh/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "将 ICO 转换为 PNG"
-
-      "url": "/zh/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 版权所有。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG 转 ICO 转换器 - 免费在线"
-
-      "url": "https://miconvert.com/zh/convert/png-to-ico"
-
-      "description": "免费的在线工具，将 PNG 图像转换为 ICO，用于网站图标和 Windows 桌面图标。"
-
-      "inLanguage": "zh"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "首页"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "转换"
-
-          "item": "https://miconvert.com/zh/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG 转 ICO"
-
-          "item": "https://miconvert.com/zh/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG 转 ICO 转换器"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/zh/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "多尺寸图标集"
-
-        "透明度保留"
-
-        "快速处理"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "这个 PNG 转 ICO 转换器是免费的吗？"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "支持哪些文件大小？"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上传每个文件最大 16 MB 的图像。"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "ICO 文件支持哪些尺寸？"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "常见尺寸包括 16×16、32×32、48×48、64×64、128×128 和 256×256 像素。"
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何将 PNG 转换为 ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "点击上传 PNG 并选择您的图像。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "等待处理完成。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "点击下载 ICO 保存您的图标。"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "PNG 转 ICO 转换器"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

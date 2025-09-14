@@ -1,381 +1,250 @@
 {
-  "lang": "sq"
-
-  "lang_name": "Shqip"
-
-  "title": "WEBP në ICO Konvertues - Falas & Online | miconvert.com"
-
-  "sub_title": "Konvertoni imazhet WebP në formatin ICO online për favicon dhe ikona desktopi. Falas, shpejt, dhe pa ujëra."
-
-  "hint": "Ngarko imazhin tuaj WebP për të filluar konvertimin..."
-
-  "btn_download": "Konverto në ICO"
-
-  "btn_paste": "Ngarko WebP"
-
-  "btn_clear": "Pastro"
-
-  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg"
-
+  "lang": "sq",
+  "lang_name": "English",
+  "title": "WEBP to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-ico.jpg",
   "head": {
-    "title": "Konverto WebP në ICO Online - Falas WebP në ICO Konvertues | miconvert.com"
-
-    "description": "Konvertoni imazhet WebP në formatin ICO online falas. Konvertim WebP → ICO me cilësi të lartë për favicon dhe ikona desktopi."
-
-    "keywords": "webp në ico, konverto webp në ico, falas webp në ico, online ico konvertues, krijues favicon"
-
-    "canonical": "https://miconvert.com/sq/convert/webp-to-ico"
-
-    "og_title": "WebP në ICO Konvertues - Falas & Online"
-
-    "og_description": "Konvertoni imazhet WebP në formatin ICO për favicon dhe ikona desktopi. 100% falas, shpejt, dhe të sigurta."
-
-    "og_url": "https://miconvert.com/sq/convert/webp-to-ico"
-
+    "title": "Convert WebP to ICO Online - Free WebP to ICO Converter | miconvert.com",
+    "description": "Convert WebP images to ICO format online for free. High-quality WebP → ICO conversion for favicons and desktop icons.",
+    "keywords": "webp to ico, convert webp to ico, free webp to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/webp-to-ico",
+    "og_title": "WebP to ICO Converter - Free & Online",
+    "og_description": "Convert WebP images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/webp-to-ico",
     "og_image": "https://miconvert.com/images/webp-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konverto WebP në ICO Online"
-
-    "description": "Falas dhe shpejt WebP në ICO konvertues për favicon dhe ikona desktopi. Funksionon menjëherë në çdo pajisje — nuk kërkohet regjistrim."
-
-  }
-  "description": "<p>Transformoni <strong>WebP në ICO</strong> në sekonda. ICO është formati natyror i ikonave për Windows dhe standardi de-facto për faviconet në web. Ne ruajmë transparencën (alpha) dhe gjenerojmë disa madhësi në mënyrë që ikona juaj të mbetet e qartë në skedat, shkurtesat dhe ekranet me DPI të lartë.</p><p><em>Shënim:</em> Skedarët e animuar WebP konvertohen si një ikonë statike duke përdorur <strong>kadrin e parë</strong>.</p>"
-
+    "title": "Convert WebP to ICO Online",
+    "description": "Free and fast WebP to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
+  "description": "<p>Transform your <strong>WebP to ICO</strong> in seconds. ICO is the native icon format for Windows and the de-facto standard for web favicons. We preserve transparency (alpha) and generate multiple sizes so your icon stays sharp on tabs, shortcuts, and high-DPI screens.</p><p><em>Note:</em> Animated WebP files are converted as a static icon using the <strong>first frame</strong>.</p>",
   "converter": {
-    "type": "webp-to-ico"
-
-    "title": "WebP në ICO Konvertues"
-
-    "description": "Konvertoni imazhet WebP në ikona ICO me shumë madhësi me transparencë të ruajtur."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "ICO"
-
+    "type": "webp-to-ico",
+    "title": "WebP to ICO Converter",
+    "description": "Convert WebP images to multi-size ICO icons with transparency preserved.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "WebP",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/webp"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Konvertim ICO me cilësi të lartë"
-
-      "Set ikone me shumë madhësi (16–256 px)"
-
-      "Transparenca e ruajtur"
-
-      "Mjet online i shpejtë dhe falas"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konvertimi WebP në ICO përfundoi"
-
-    "back_button": "Kthehu te Konvertuesi"
-
-    "convert_another": "Konverto një tjetër WebP"
-
-    "quick_conversions": "Konvertime të shpejta:"
-
-  }
+    "title": "WebP to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another WebP",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Pse të Konvertoni WebP në ICO?"
-
-      "description": "<p>ICO është ndërtuar për ikona dhe favicon:</p><ul><li><strong>Multi-madhësi në një skedar:</strong> Bashkoni variacione 16–256 px për renderim të qartë kudo.</li><li><strong>Standarti i favicon:</strong> I njohur nga të gjitha shfletuesit kryesorë.</li><li><strong>Nativ për Windows:</strong> Ideal për ikona desktopi/aplikacionesh/shkurtesh.</li><li><strong>Transparenca:</strong> Mbështetje e plotë alpha për skaj të butë.</li></ul>"
-
-    }
+      "title": "Why Convert WebP to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> Bundle 16–256 px variants for crisp rendering everywhere.</li><li><strong>Favicon standard:</strong> Recognized by all major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Full alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Si të Konvertoni WebP në ICO Online"
-
-      "description": "<ol><li>Klikoni <em>Ngarko WebP</em> dhe zgjidhni imazhin tuaj.</li><li>Prisni për përpunim dhe optimizim.</li><li>Klikoni <em>Shkarko ICO</em> për të ruajtur ikonën tuaj.</li></ol><p>Ne gjenerojmë automatikisht madhësi të zakonshme për rezultate të qarta.</p>"
-
-    }
+      "title": "How to Convert WebP to ICO Online",
+      "description": "<ol><li>Click <em>Upload WebP</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We auto-generate common sizes for sharp results.</p>"
+    },
     {
-      "title": "Krahasimi ICO vs WebP"
-
-      "description": "<ul><li><strong>Rasti i përdorimit:</strong> ICO për ikona/favicons; WebP për imazhe të zakonshme në web.</li><li><strong>Transparenca:</strong> Të dy mbështesin alpha; ICO mban skajet të pastra në madhësi të vogla.</li><li><strong>Animacioni:</strong> ICO është statik; WebP i animuar bëhet një ikonë statike (kadrin e parë).</li></ul>"
-
-    }
+      "title": "ICO vs WebP Comparison",
+      "description": "<ul><li><strong>Use case:</strong> ICO for icons/favicons; WebP for general web images.</li><li><strong>Transparency:</strong> Both support alpha; ICO keeps edges clean at small sizes.</li><li><strong>Animation:</strong> ICO is static; animated WebP becomes a static icon (first frame).</li></ul>"
+    },
     {
-      "title": "Kufijtë & Formatet e Mbështetura"
-
-      "description": "<ul><li><strong>Input i pranuar:</strong> WebP (<code>image/webp</code>)</li><li><strong>Madhësia maksimale e skedarit:</strong> 16&nbsp;MB për skedar</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Praktikat më të Mira për Ikona të Qarta"
-
-      "description": "<ul><li>Filloni me një burim <strong>katror</strong> dhe shtoni padding për të shmangur prerjen.</li><li>Përdorni forma të guximshme dhe kontrast të lartë për madhësi 16–32 px.</li><li>Nëse WebP juaj ka një sfond të ngarkuar, thjeshtojeni për qartësi më të mirë në madhësi të vogla.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> source and add padding to avoid clipping.</li><li>Use bold shapes and high contrast for 16–32 px sizes.</li><li>If your WebP has a busy background, simplify it for better small-size clarity.</li></ul>"
+    },
     {
-      "title": "Zgjidhja e Problemeve"
-
-      "description": "<ul><li><strong>Favicon nuk po përditësohet:</strong> Pastroni cache-n dhe lidhni <code>/favicon.ico</code> përmes <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Duket e thyer në 16 px:</strong> Ngarko një burim më të madh, të pastër; zvogëlimi përmirëson qartësinë.</li><li><strong>Ngarkimi dështon:</strong> Sigurohuni që <code>image/webp</code> dhe ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear cache and link <code>/favicon.ico</code> via <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Looks jagged at 16 px:</strong> Upload a larger, clean source; downscaling improves sharpness.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "A është ky konvertues WebP në ICO falas?"
-
-      "answer": "Po, është plotësisht falas pa ujëra ose tarifa të fshehura."
-
-    }
+      "question": "Is this WebP to ICO converter free?",
+      "answer": "Yes, it’s completely free with no watermarks or hidden charges."
+    },
     {
-      "question": "Cilat madhësi mbështeten për skedarët ICO?"
-
-      "answer": "Madhësitë e zakonshme përfshijnë 16×16, 32×32, 48×48, 64×64, 128×128, dhe 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "A ruan transparencën?"
-
-      "answer": "Po. Nëse WebP juaj përfshin një kanal alpha, ICO e ruan atë (hyrje 32-bit RGBA)."
-
-    }
+      "question": "Does it keep transparency?",
+      "answer": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
+    },
     {
-      "question": "A mbështesni WebP të animuar?"
-
-      "answer": "WebP i animuar konvertohet si një ikonë statike duke përdorur kadrin e parë."
-
-    }
+      "question": "Do you support animated WebP?",
+      "answer": "Animated WebP is converted as a static icon using the first frame."
+    },
     {
-      "question": "Mund të konvertoj disa WebP njëherësh?"
-
-      "answer": "Kjo faqe konverton një skedar në një kohë. Përsëritni procesin për skedarë të shumtë."
-
-    }
+      "question": "Can I convert multiple WebPs at once?",
+      "answer": "This page converts one file at a time. Repeat the process for multiple files."
+    },
     {
-      "question": "Cilat madhësi skedari mbështeten?"
-
-      "answer": "Mund të ngarkoni imazhe deri në 16&nbsp;MB për skedar."
-
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
     }
-  ]
-  "note": "Skedarët ICO janë optimizuar për madhësi të vogla të ekranit. Për rezultate më të mira, përdorni një burim katror me kontrast të lartë dhe përfshini disa padding."
-
+  ],
+  "note": "ICO files are optimized for small display sizes. For best results, use a square, high-contrast source and include some padding.",
   "related_links": [
     {
-      "title": "Konverto PNG në ICO"
-
-      "url": "/sq/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Konverto JPG në ICO"
-
-      "url": "/sq/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Konverto ICO në PNG"
-
-      "url": "/sq/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Konverto WebP në PNG"
-
-      "url": "/sq/convert/webp-to-png"
-
+      "title": "Convert WebP to PNG",
+      "url": "/en/convert/webp-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP në ICO Konvertues - Falas & Online"
-
-      "url": "https://miconvert.com/sq/convert/webp-to-ico"
-
-      "description": "Mjet falas online për të konvertuar imazhet WebP në ICO për favicon dhe ikona desktopi Windows."
-
-      "inLanguage": "sq"
-
-      "image": "https://miconvert.com/images/webp-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
+      "description": "Free online tool to convert WebP images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/webp-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Kryefaqja"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverto"
-
-          "item": "https://miconvert.com/sq/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP në ICO"
-
-          "item": "https://miconvert.com/sq/convert/webp-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "WebP to ICO",
+          "item": "https://miconvert.com/en/convert/webp-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP në ICO Konvertues"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sq/convert/webp-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "WebP to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/webp-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Set ikone me shumë madhësi"
-
-        "Transparenca e ruajtur"
-
-        "Përpunim i shpejtë"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/webp-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "A është ky konvertues WebP në ICO falas?"
-
+          "@type": "Question",
+          "name": "Is this WebP to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, është plotësisht falas pa ujëra ose tarifa të fshehura."
-
+            "@type": "Answer",
+            "text": "Yes, it’s completely free with no watermarks or hidden charges."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Cilat madhësi skedari mbështeten?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "A ruan transparencën?"
-
+          "@type": "Question",
+          "name": "Does it keep transparency?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po. Nëse WebP juaj përfshin një kanal alpha, ICO e ruan atë (hyrje 32-bit RGBA)."
-
+            "@type": "Answer",
+            "text": "Yes. If your WebP includes an alpha channel, the ICO preserves it (32-bit RGBA entries)."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Si të konvertoni WebP në ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert WebP to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Ngarko WebP dhe zgjidhni imazhin tuaj."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload WebP and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Prisni për përpunimin dhe optimizimin për të përfunduar."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Shkarko ICO për të ruajtur ikonën tuaj."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "WebP në ICO Konvertues"
-
-      ]
+        "WebP to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

@@ -1,355 +1,235 @@
 {
-  "lang": "lt"
-
-  "lang_name": "Lietuvių"
-
-  "title": "PNG į ICO konverteris - Nemokamai ir internetu | miconvert.com"
-
-  "sub_title": "Paverskite PNG vaizdus į ICO formatą internetu, skirtą favicon'ams ir darbalaukio ikonoms. Nemokamai, greitai ir be vandens ženklų."
-
-  "hint": "Įkelkite savo PNG vaizdą, kad pradėtumėte konvertuoti..."
-
-  "btn_download": "Paversti į ICO"
-
-  "btn_paste": "Įkelti PNG"
-
-  "btn_clear": "Išvalyti"
-
+  "lang": "lt",
+  "lang_name": "English",
+  "title": "PNG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert PNG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your PNG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload PNG",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "png-to-ico"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "ICO"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
+    "type": "png-to-ico",
+    "inputFormat": "PNG",
+    "outputFormat": "ICO",
+    "apiEndpoint": "/image-converter/convert-single",
     "allowedTypes": [
       "image/png"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
-  "description": "<p>Paverskite savo <strong>PNG į ICO</strong> tobuloms favicon'ams ir darbalaukio ikonoms! Mūsų nemokamas PNG į ICO konverteris sukuria profesionalias daugiaformačius ikonų, kurie atrodo aštrūs visose naršyklėse ir Windows darbalaukiuose.</p><p>ICO failai gali sujungti kelis dydžius viename faile (pvz., 16–256 px), idealiai tinka favicon'ams ir programų/nuorodų ikonoms. PNG skaidrumas išlaikomas, kad būtų sklandūs kraštai tamsiuose/šviesiuose fonuose.</p>"
-
+  },
+  "description": "<p>Transform your <strong>PNG to ICO</strong> for perfect favicons and desktop icons! Our free PNG to ICO converter creates professional multi-size icons that look crisp across browsers and Windows desktops.</p><p>ICO files can bundle several sizes in a single file (e.g., 16–256 px), ideal for favicons and app/shortcut icons. Transparency from PNG is preserved for smooth edges on dark/light backgrounds.</p>",
   "head": {
-    "title": "Paverskite PNG į ICO internetu - Nemokamas PNG į ICO konverteris | miconvert.com"
-
-    "description": "Paverskite PNG į ICO internetu, skirtą favicon'ams ir darbalaukio ikonoms. Nemokamas, greitas ir saugus PNG į ICO konverterio įrankis."
-
-    "keywords": "png į ico, paversti png į ico, nemokamas png į ico, internetinis ico konverteris, favicon kūrėjas"
-
-    "canonical": "https://miconvert.com/lt/convert/png-to-ico"
-
-    "og_title": "PNG į ICO konverteris - Nemokamai ir internetu"
-
-    "og_description": "Paverskite PNG vaizdus į ICO formatą, skirtą favicon'ams ir darbalaukio ikonoms. 100% nemokamai, greitai ir saugiai."
-
-    "og_url": "https://miconvert.com/lt/convert/png-to-ico"
-
+    "title": "Convert PNG to ICO Online - Free PNG to ICO Converter | miconvert.com",
+    "description": "Convert PNG to ICO online for favicons and desktop icons. Free, fast, and secure PNG to ICO converter tool.",
+    "keywords": "png to ico, convert png to ico, free png to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/png-to-ico",
+    "og_title": "PNG to ICO Converter - Free & Online",
+    "og_description": "Convert PNG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/png-to-ico",
     "og_image": "https://miconvert.com/images/png-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Paverskite PNG į ICO internetu"
-
-    "description": "Nemokamas ir greitas PNG į ICO konverteris, skirtas favicon'ams ir darbalaukio ikonoms. Veikia iš karto bet kuriame įrenginyje, registracija nereikalinga."
-
-  }
+    "title": "Convert PNG to ICO Online",
+    "description": "Free and fast PNG to ICO converter for favicons and desktop icons. Works instantly on any device, no signup required."
+  },
   "h2": [
     {
-      "title": "Kodėl paversti PNG į ICO?"
-
-      "description": "<p>ICO sukurtas ikonoms:</p><ul><li><strong>Daugiadydžių palaikymas:</strong> Sujunkite 16–256 px variantus viename faile.</li><li><strong>Favicon standartas:</strong> Atpažįstamas didžiųjų naršyklių.</li><li><strong>Windows suderinamumas:</strong> Nativus darbalaukio/programų ikonų formatas.</li><li><strong>Skaidrumas:</strong> Sklandūs kraštai su išsaugotu PNG alfa.</li></ul>"
-
-    }
+      "title": "Why Convert PNG to ICO?",
+      "description": "<p>ICO is built for icons:</p><ul><li><strong>Multi-size support:</strong> Bundle 16–256 px variants in one file.</li><li><strong>Favicon standard:</strong> Recognized by major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon format.</li><li><strong>Transparency:</strong> Smooth edges with PNG alpha preserved.</li></ul>"
+    },
     {
-      "title": "Kaip paversti PNG į ICO internetu"
-
-      "description": "<ol><li>Paspauskite <em>Įkelti PNG</em> ir pasirinkite savo vaizdą.</li><li>Palaukite apdorojimo ir optimizavimo.</li><li>Paspauskite <em>Parsisiųsti ICO</em>, kad išsaugotumėte savo ikoną.</li></ol><p>Mes automatiškai generuojame bendrus ikonų dydžius.</p>"
-
-    }
+      "title": "How to Convert PNG to ICO Online",
+      "description": "<ol><li>Click <em>Upload PNG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "ICO formato specifikacijos"
-
-      "description": "<ul><li><strong>Standartiniai dydžiai:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Spalvų gylis:</strong> Iki 32-bit RGBA</li><li><strong>Skaidrumas:</strong> Pilnas alfa kanalas</li><li><strong>Struktūra:</strong> Antraštė + kelių vaizdų įrašai</li><li><strong>Suspaudimas:</strong> PNG suspausti įrašai 32-bit ikonoms (Vista+)</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA</li><li><strong>Transparency:</strong> Full alpha channel</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "Palaikomi limitai ir formatai"
-
-      "description": "<ul><li><strong>Priimami įvesties tipai:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "Problemos sprendimas"
-
-      "description": "<ul><li><strong>Favicon nerodomas:</strong> Išvalykite talpyklą ir įsitikinkite, kad <code>/favicon.ico</code> yra svetainės šaknyje su <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Neaiškūs kraštai:</strong> Pradėkite nuo didesnio, didelio kontrasto PNG; sumažinkite švariai.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad PNG ≤ 16&nbsp;MB.</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> at site root with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged edges:</strong> Start from a larger, high-contrast PNG; downscale cleanly.</li><li><strong>Upload fails:</strong> Make sure PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "Mūsų PNG į ICO konverterio funkcijos"
-
-      "description": "<ul><li>100% nemokamai be vandens ženklų</li><li>Automatinė dydžio optimizacija</li><li>Skaidrumo išsaugojimas</li><li>Saugus apdorojimas</li></ul>"
-
+      "title": "Features of Our PNG to ICO Converter",
+      "description": "<ul><li>100% Free with no watermarks</li><li>Automatic size optimization</li><li>Transparency preservation</li><li>Secure processing</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ar šis PNG į ICO konverteris nemokamas?"
-
-      "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
-
-    }
+      "question": "Is this PNG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Kokie dydžiai palaikomi ICO failuose?"
-
-      "answer": "Bendri dydžiai apima 16×16, 32×32, 48×48, 64×64, 128×128 ir 256×256 pikselių."
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "Ar galiu naudoti ICO failus svetainės favicon'ams?"
-
-      "answer": "Taip. <code>favicon.ico</code> plačiai palaikomas didžiųjų naršyklių."
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported by major browsers."
+    },
     {
-      "question": "Kokie failų dydžiai palaikomi?"
-
-      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Ar mano failai saugūs?"
-
-      "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konvertavimui."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Ar ikonų kokybė bus gera?"
-
-      "answer": "Mes išsaugome PNG skaidrumą ir generuojame kelis dydžius, kad būtų aštrus vaizdavimas mažose dimensijose."
-
+      "question": "Will the icon quality be good?",
+      "answer": "We preserve PNG transparency and generate multiple sizes for crisp rendering at small dimensions."
     }
-  ]
-  "note": "Geriausiems rezultatams naudokite aiškų, didelio kontrasto PNG. Įdėkite <code>/favicon.ico</code> į savo svetainės šaknį ir nurodykite jį su <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>."
-
+  ],
+  "note": "For best results, use a clear, high-contrast PNG. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "Paverskite JPG į ICO"
-
-      "url": "/lt/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Paverskite BMP į ICO"
-
-      "url": "/lt/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "Paverskite SVG į ICO"
-
-      "url": "/lt/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "Paverskite ICO į PNG"
-
-      "url": "/lt/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG į ICO konverteris - Nemokamai ir internetu"
-
-      "url": "https://miconvert.com/lt/convert/png-to-ico"
-
-      "description": "Nemokamas internetinis įrankis, skirtas paversti PNG vaizdus į ICO, skirtus favicon'ams ir Windows darbalaukio ikonoms."
-
-      "inLanguage": "lt"
-
-      "image": "https://miconvert.com/images/png-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
+      "description": "Free online tool to convert PNG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/png-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Pradžia"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertuoti"
-
-          "item": "https://miconvert.com/lt/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG į ICO"
-
-          "item": "https://miconvert.com/lt/convert/png-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to ICO",
+          "item": "https://miconvert.com/en/convert/png-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG į ICO konverteris"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lt/convert/png-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "PNG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/png-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Daugiadydžių ikonų rinkinys"
-
-        "Išsaugotas skaidrumas"
-
-        "Greitas apdorojimas"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/png-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ar šis PNG į ICO konverteris nemokamas?"
-
+          "@type": "Question",
+          "name": "Is this PNG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Kokie failų dydžiai palaikomi?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Kokie dydžiai palaikomi ICO failuose?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Bendri dydžiai apima 16×16, 32×32, 48×48, 64×64, 128×128 ir 256×256 pikselių."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kaip paversti PNG į ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert PNG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Paspauskite Įkelti PNG ir pasirinkite savo vaizdą."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload PNG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Palaukite, kol apdorojimas bus baigtas."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Paspauskite Parsisiųsti ICO, kad išsaugotumėte savo ikoną."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "PNG į ICO konverteris"
-
-      ]
+        "PNG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

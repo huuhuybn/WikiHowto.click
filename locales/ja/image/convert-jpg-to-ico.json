@@ -1,402 +1,264 @@
 {
-  "lang": "ja"
-
-  "lang_name": "日本語"
-
-  "title": "JPGからICOへの変換 - 無料＆オンライン | miconvert.com"
-
-  "sub_title": "JPG画像をオンラインでICOに変換して、ファビコンやWindowsデスクトップアイコンを作成します。透かしはありません。"
-
-  "hint": "変換を開始するにはJPG画像をアップロードしてください..."
-
-  "btn_download": "ICOに変換"
-
-  "btn_paste": "JPGをアップロード"
-
-  "btn_clear": "クリア"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-ico.jpg"
-
+  "lang": "ja",
+  "lang_name": "English",
+  "title": "JPG to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert JPG images to ICO online for favicons and Windows desktop icons. No watermarks.",
+  "hint": "Upload your JPG image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload JPG",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/jpg-to-ico.jpg",
   "head": {
-    "title": "JPGをICOに変換 - 無料オンラインJPGからICOへの変換ツール"
-
-    "description": "JPG画像をオンラインでICO形式に変換して、ファビコンやデスクトップアイコンを作成します。無料で、迅速で、透かしはありません。"
-
-    "keywords": "jpg to ico, jpgをicoに変換, 無料jpg to ico, オンラインico変換ツール, ファビコンメーカー"
-
-    "canonical": "https://miconvert.com/ja/convert/jpg-to-ico"
-
-    "og_title": "JPGからICOへの変換 - 無料＆オンライン"
-
-    "og_description": "JPG画像をICO形式に変換して、ファビコンやデスクトップアイコンを作成します。100％無料で、迅速かつ安全です。"
-
-    "og_url": "https://miconvert.com/ja/convert/jpg-to-ico"
-
+    "title": "Convert JPG to ICO - Free Online JPG to ICO Converter",
+    "description": "Convert JPG images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+    "keywords": "jpg to ico, convert jpg to ico, free jpg to ico, online ico converter, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/jpg-to-ico",
+    "og_title": "JPG to ICO Converter - Free & Online",
+    "og_description": "Convert JPG images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/jpg-to-ico",
     "og_image": "https://miconvert.com/images/jpg-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "JPGをICOにオンラインで変換"
-
-    "description": "ファビコンやWindowsデスクトップアイコンに最適化された無料で迅速なJPGからICOへの変換ツール。即座に動作します - サインアップは不要です。"
-
-  }
+    "title": "Convert JPG to ICO Online",
+    "description": "Free and fast JPG to ICO converter optimized for favicons and Windows desktop icons. Works instantly — no signup required."
+  },
   "converter": {
-    "type": "jpg-to-ico"
-
-    "title": "JPGからICOへの変換ツール"
-
-    "description": "JPG画像をウェブサイトやWindowsアプリ用のICOに変換します。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "ICO"
-
+    "type": "jpg-to-ico",
+    "title": "JPG to ICO Converter",
+    "description": "Convert JPG images to ICO for websites and Windows apps.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "JPG",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/jpeg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
     "features": [
-      "マルチサイズアイコン出力"
-
-      "小さいサイズに最適化"
-
-      "迅速な処理"
-
-      "無料のオンラインツール"
-
-    ]
+      "Multi-size icon output",
+      "Optimized for small sizes",
+      "Fast processing",
+      "Free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPGからICOへの変換が完了しました"
-
-    "back_button": "変換ツールに戻る"
-
-    "convert_another": "別のJPGを変換"
-
-    "quick_conversions": "クイック変換:"
-
-  }
+    "title": "JPG to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another JPG",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "なぜJPGをICOに変換するのか？"
-
-      "description": "<p>ICOはWindowsアイコンとファビコンの標準形式です：</p><ul><li><strong>マルチサイズコンテナ：</strong>1つのファイルに複数の解像度を含めることができます。</li><li><strong>ファビコン標準：</strong>主要なブラウザで動作します。</li><li><strong>Windows互換性：</strong>ネイティブデスクトップ/アプリアイコンのサポート。</li><li><strong>小さいサイズでも鮮明：</strong>16〜256pxのディスプレイに最適化されています。</li></ul><p><em>注意：</em>JPGは透過性を持っていません。透過アイコンが必要な場合は、PNGから始めてください。</p>"
-
-    }
+      "title": "Why Convert JPG to ICO?",
+      "description": "<p>ICO is the standard format for Windows icons and favicons:</p><ul><li><strong>Multi-size container:</strong> Include several resolutions in one file.</li><li><strong>Favicon standard:</strong> Works across major browsers.</li><li><strong>Windows compatibility:</strong> Native desktop/app icon support.</li><li><strong>Crisp at small sizes:</strong> Optimized for 16–256 px displays.</li></ul><p><em>Note:</em> JPG doesn't have transparency. For transparent icons, start from PNG.</p>"
+    },
     {
-      "title": "JPGをICOにオンラインで変換する方法"
-
-      "description": "<ol><li><em>JPGをアップロード</em>をクリックして画像を選択します。</li><li>処理と最適化を待ちます。</li><li><em>ICOをダウンロード</em>をクリックしてアイコンを取得します。</li></ol><p>一般的なアイコンサイズは自動的に生成されます。</p>"
-
-    }
+      "title": "How to Convert JPG to ICO Online",
+      "description": "<ol><li>Click <em>Upload JPG</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to get your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "ICO形式の仕様"
-
-      "description": "<ul><li><strong>標準サイズ：</strong>16×16、32×32、48×48、64×64、128×128、256×256 px</li><li><strong>色深度：</strong>最大32ビットRGBA（アルファ）</li><li><strong>透過性：</strong>完全なアルファチャンネルがサポートされています</li><li><strong>構造：</strong>ヘッダー + 複数の画像エントリ</li><li><strong>圧縮：</strong>32ビットアイコン（Vista+）用のPNG圧縮エントリ</li></ul>"
-
-    }
+      "title": "ICO Format Specifications",
+      "description": "<ul><li><strong>Standard sizes:</strong> 16×16, 32×32, 48×48, 64×64, 128×128, 256×256 px</li><li><strong>Color depth:</strong> Up to 32-bit RGBA (alpha)</li><li><strong>Transparency:</strong> Full alpha channel supported</li><li><strong>Structure:</strong> Header + multiple image entries</li><li><strong>Compression:</strong> PNG-compressed entries for 32-bit icons (Vista+)</li></ul>"
+    },
     {
-      "title": "サポートされる制限と形式"
-
-      "description": "<ul><li><strong>受け入れられる入力：</strong>JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Max file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li></ul>"
+    },
     {
-      "title": "トラブルシューティング"
-
-      "description": "<ul><li><strong>ギザギザのエッジ：</strong>高解像度のソースから始めてください。シャープなエッジはダウンスケールが得意です。</li><li><strong>透過性が必要：</strong><a href='/ja/convert/png-to-ico'>PNGをICOに変換</a>してアルファを保持します。</li><li><strong>ファビコンが表示されない：</strong>キャッシュをクリアし、<code>/favicon.ico</code>がサイトのルートにあり、<code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>でリンクされていることを確認してください。</li><li><strong>アップロード失敗：</strong>ファイルがJPG/JPEGであり、≤ 16&nbsp;MBであることを確認してください。</li></ul>"
-
-    }
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Jagged edges:</strong> Start from a higher-resolution source; sharp edges downscale better.</li><li><strong>Need transparency:</strong> Convert <a href='/en/convert/png-to-ico'>PNG to ICO</a> so alpha is preserved.</li><li><strong>Favicon not showing:</strong> Clear cache and ensure <code>/favicon.ico</code> is at the site root and linked with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Upload fails:</strong> Make sure the file is JPG/JPEG and ≤ 16&nbsp;MB.</li></ul>"
+    },
     {
-      "title": "JPGとは何ですか？"
-
-      "description": "<p>JPG（JPEG）は、ファイルサイズを小さくするためにロスのある圧縮を使用します - 写真やウェブ用に理想的ですが、透過性はサポートしていません。</p>"
-
-    }
+      "title": "What is JPG?",
+      "description": "<p>JPG (JPEG) uses lossy compression for small file sizes — ideal for photos and web use, but it does not support transparency.</p>"
+    },
     {
-      "title": "ICOとは何ですか？"
-
-      "description": "<p>ICOはWindowsおよびファビコンアイコン形式で、複数のサイズと色深度を1つのファイルにまとめることができ、アルファ透過性をサポートします。</p>"
-
-    }
+      "title": "What is ICO?",
+      "description": "<p>ICO is the Windows and favicon icon format that can bundle multiple sizes and color depths into a single file, supporting alpha transparency.</p>"
+    },
     {
-      "title": "使用例：JPGをICOに変換するタイミング"
-
-      "description": "<ul><li><strong>ファビコン作成：</strong>複数のサイズを持つ単一の<code>favicon.ico</code>を生成します。</li><li><strong>Windowsアプリ/ショートカット：</strong>ロゴをデスクトップ/アプリアイコンに変換します。</li><li><strong>ブランドの一貫性：</strong>解像度に関係なく鮮明で一貫したアイコンを確保します。</li></ul>"
-
+      "title": "Use Cases: When to Convert JPG to ICO",
+      "description": "<ul><li><strong>Favicon creation:</strong> Generate a single <code>favicon.ico</code> with multiple sizes.</li><li><strong>Windows apps/shortcuts:</strong> Turn logos into desktop/app icons.</li><li><strong>Brand consistency:</strong> Ensure crisp, consistent icons across resolutions.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "このJPGからICOへの変換ツールは無料ですか？"
-
-      "answer": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
-
-    }
+      "question": "Is this JPG to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "ICOファイルでサポートされているサイズは何ですか？"
-
-      "answer": "一般的なサイズには16×16、32×32、48×48、64×64、128×128、256×256ピクセルが含まれます。"
-
-    }
+      "question": "What sizes are supported in ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 pixels."
+    },
     {
-      "question": "ICOファイルをウェブサイトのファビコンに使用できますか？"
-
-      "answer": "はい。<code>favicon.ico</code>は主要なブラウザで広くサポートされています。"
-
-    }
+      "question": "Can I use ICO files for website favicons?",
+      "answer": "Yes. <code>favicon.ico</code> is widely supported across major browsers."
+    },
     {
-      "question": "サポートされているファイルサイズは何ですか？"
-
-      "answer": "ファイルごとに最大16&nbsp;MBの画像をアップロードできます。"
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "私のファイルは安全ですか？"
-
-      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "アイコンの品質は良いですか？"
-
-      "answer": "一般的なアイコンサイズに最適化し、鮮明な結果を得るためにPNG圧縮エントリを使用します。"
-
-    }
+      "question": "Will the icon quality be good?",
+      "answer": "We optimize for common icon sizes and use PNG-compressed entries for sharp results."
+    },
     {
-      "question": "このツールを携帯電話で使用できますか？"
-
-      "answer": "はい。変換ツールはモバイルフレンドリーで、iOSおよびAndroidブラウザで動作します。"
-
-    }
+      "question": "Can I use this tool on my phone?",
+      "answer": "Yes. The converter is mobile-friendly and works on iOS and Android browsers."
+    },
     {
-      "question": "JPGはICOで透過性をサポートしていますか？"
-
-      "answer": "JPGには透過性がありません。透過アイコンが必要な場合は、PNGをICOに変換してください。"
-
+      "question": "Does JPG support transparency in ICO?",
+      "answer": "JPG has no transparency. If you need transparent icons, convert PNG to ICO instead."
     }
-  ]
-  "note": "透過アイコンが必要な場合は、PNG入力から始めてください。<code>/favicon.ico</code>をサイトのルートに配置し、<code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>で参照してください。"
-
+  ],
+  "note": "For transparent icons, start with PNG input. Place <code>/favicon.ico</code> at your site root and reference it with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.",
   "related_links": [
     {
-      "title": "PNGをICOに変換"
-
-      "url": "/ja/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "BMPをICOに変換"
-
-      "url": "/ja/convert/bmp-to-ico"
-
-    }
+      "title": "Convert BMP to ICO",
+      "url": "/en/convert/bmp-to-ico"
+    },
     {
-      "title": "SVGをICOに変換"
-
-      "url": "/ja/convert/svg-to-ico"
-
-    }
+      "title": "Convert SVG to ICO",
+      "url": "/en/convert/svg-to-ico"
+    },
     {
-      "title": "ICOをPNGに変換"
-
-      "url": "/ja/convert/ico-to-png"
-
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 無断転載を禁じます。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPGからICOへの変換 - 無料＆オンライン"
-
-      "url": "https://miconvert.com/ja/convert/jpg-to-ico"
-
-      "description": "JPG画像をICOに変換するための無料のオンラインツール、ファビコンやWindowsデスクトップアイコン用。"
-
-      "inLanguage": "ja"
-
-      "image": "https://miconvert.com/images/jpg-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "JPG to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/jpg-to-ico",
+      "description": "Free online tool to convert JPG images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/jpg-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "ホーム"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "変換"
-
-          "item": "https://miconvert.com/ja/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPGからICO"
-
-          "item": "https://miconvert.com/ja/convert/jpg-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JPG to ICO",
+          "item": "https://miconvert.com/en/convert/jpg-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "JPGからICOへの変換ツール"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ja/convert/jpg-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "JPG to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/jpg-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "マルチサイズアイコンセット"
-
-        "PNG圧縮エントリ"
-
-        "迅速な処理"
-
-      ]
+        "Multi-size icon set",
+        "PNG-compressed entries",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/jpg-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "このJPGからICOへの変換ツールは無料ですか？"
-
+          "@type": "Question",
+          "name": "Is this JPG to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "サポートされているファイルサイズは何ですか？"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "JPGはICOで透過性をサポートしていますか？"
-
+          "@type": "Question",
+          "name": "Does JPG support transparency in ICO?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPGには透過性がありません。透過アイコンが必要な場合は、PNGをICOに変換してください。"
-
+            "@type": "Answer",
+            "text": "JPG has no transparency. For transparent icons, convert PNG to ICO."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "JPGをICOに変換する方法"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert JPG to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "JPGをアップロードをクリックして画像を選択します。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload JPG and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "処理が完了するまで待ちます。"
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "ICOをダウンロードをクリックしてアイコンを保存します。"
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "JPGからICOへの変換ツール"
-
-      ]
+        "JPG to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }

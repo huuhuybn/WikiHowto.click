@@ -1,379 +1,249 @@
 {
-  "lang": "sl"
-
-  "lang_name": "Slovenščina"
-
-  "title": "Pretvornik TIFF v ICO - Brezplačno in Spletno | miconvert.com"
-
-  "sub_title": "Pretvorite TIFF slike v ICO format spletno za favicon in namizne ikone. Brezplačno, hitro in brez vodnih znakov."
-
-  "hint": "Naložite svojo TIFF sliko, da začnete s pretvorbo..."
-
-  "btn_download": "Pretvori v ICO"
-
-  "btn_paste": "Naloži TIFF"
-
-  "btn_clear": "Počisti"
-
-  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+  "lang": "sl",
+  "lang_name": "English",
+  "title": "TIFF to ICO Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert TIFF images to ICO format online for favicons and desktop icons. Free, fast, and no watermarks.",
+  "hint": "Upload your TIFF image to start converting...",
+  "btn_download": "Convert to ICO",
+  "btn_paste": "Upload TIFF",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/tiff-to-ico.jpg",
   "head": {
-    "title": "Pretvori TIFF v ICO - Brezplačen Spletni Pretvornik TIFF v ICO | miconvert.com"
-
-    "description": "Pretvorite TIFF slike v ICO format spletno brezplačno. Visokokakovostna pretvorba TIFF v ICO za favicon in namizne ikone."
-
-    "keywords": "tiff v ico, pretvori tiff v ico, brezplačen tiff v ico, spletni ico pretvornik, pretvorba ikon, ustvarjalec favicon"
-
-    "canonical": "https://miconvert.com/sl/convert/tiff-to-ico"
-
-    "og_title": "Pretvornik TIFF v ICO - Brezplačno in Spletno"
-
-    "og_description": "Pretvorite TIFF slike v ICO format za favicon in namizne ikone. 100% brezplačno, hitro in varno."
-
-    "og_url": "https://miconvert.com/sl/convert/tiff-to-ico"
-
+    "title": "Convert TIFF to ICO - Free Online TIFF to ICO Converter | miconvert.com",
+    "description": "Convert TIFF images to ICO format online for free. High-quality TIFF to ICO conversion for favicons and desktop icons.",
+    "keywords": "tiff to ico, convert tiff to ico, free tiff to ico, online ico converter, icon conversion, favicon maker",
+    "canonical": "https://miconvert.com/en/convert/tiff-to-ico",
+    "og_title": "TIFF to ICO Converter - Free & Online",
+    "og_description": "Convert TIFF images into ICO format for favicons and desktop icons. 100% free, fast, and secure.",
+    "og_url": "https://miconvert.com/en/convert/tiff-to-ico",
     "og_image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Pretvorite TIFF v ICO Spletno"
-
-    "description": "Brezplačen in hiter TIFF v ICO pretvornik za favicon in namizne ikone. Deluje takoj na kateri koli napravi — brez registracije."
-
-  }
+    "title": "Convert TIFF to ICO Online",
+    "description": "Free and fast TIFF to ICO converter for favicons and desktop icons. Works instantly on any device — no signup required."
+  },
   "converter": {
-    "type": "tiff-to-ico"
-
-    "title": "Pretvornik TIFF v ICO"
-
-    "description": "Pretvorite TIFF slike v ICO ikone več velikosti z ohranjeno prosojnostjo, kadar je na voljo."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "TIFF"
-
-    "outputFormat": "ICO"
-
+    "type": "tiff-to-ico",
+    "title": "TIFF to ICO Converter",
+    "description": "Convert TIFF images to multi-size ICO icons with transparency preserved when available.",
+    "apiEndpoint": "/image-converter/convert-single",
+    "inputFormat": "TIFF",
+    "outputFormat": "ICO",
     "allowedTypes": [
       "image/tiff"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/x-icon"
-
-    "outputExtension": ".ico"
-
-    "quality": 90
+    ],
+    "maxFileSize": 16777216,
+    "outputMimeType": "image/x-icon",
+    "outputExtension": ".ico",
+    "quality": 90,
     "features": [
-      "Visokokakovostna ICO pretvorba"
-
-      "Ikonski set več velikosti (16–256 px)"
-
-      "Ohranjena prosojnost (če je prisotna)"
-
-      "Hiter in brezplačen spletni pripomoček"
-
-    ]
+      "High-quality ICO conversion",
+      "Multi-size icon set (16–256 px)",
+      "Transparency preserved (if present)",
+      "Fast and free online tool"
+    ],
     "options": {
       "ico": {
         "sizes": [
-          16
-          32
-          48
-          64
-          128
+          16,
+          32,
+          48,
+          64,
+          128,
           256
-        ]
+        ],
         "format": "png"
-
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Pretvorba TIFF v ICO Zaključena"
-
-    "back_button": "Nazaj na Pretvornik"
-
-    "convert_another": "Pretvori Drugi TIFF"
-
-    "quick_conversions": "Hitre Pretvorbe:"
-
-  }
+    "title": "TIFF to ICO Conversion Complete",
+    "back_button": "Back to Converter",
+    "convert_another": "Convert Another TIFF",
+    "quick_conversions": "Quick Conversions:"
+  },
   "h2": [
     {
-      "title": "Zakaj Pretvoriti TIFF v ICO?"
-
-      "description": "<p>ICO je zasnovan posebej za ikone in favicon:</p><ul><li><strong>Več velikosti v eni datoteki:</strong> 16–256 px različice združene za oster prikaz.</li><li><strong>Standard favicon:</strong> Deluje v glavnih brskalnikih.</li><li><strong>Nativno za Windows:</strong> Idealno za namizne/aplikacijske/kratice ikone.</li><li><strong>Prosojnost:</strong> Podpora za alfa kanale za gladke robove.</li></ul>"
-
-    }
+      "title": "Why Convert TIFF to ICO?",
+      "description": "<p>ICO is purpose-built for icons and favicons:</p><ul><li><strong>Multi-size in one file:</strong> 16–256 px variants bundled for crisp rendering.</li><li><strong>Favicon standard:</strong> Works across major browsers.</li><li><strong>Windows native:</strong> Ideal for desktop/app/shortcut icons.</li><li><strong>Transparency:</strong> Alpha support for smooth edges.</li></ul>"
+    },
     {
-      "title": "Kako Pretvoriti TIFF v ICO Spletno"
-
-      "description": "<ol><li>Kliknite <em>Naloži TIFF</em> in izberite svojo sliko.</li><li>Počakajte na obdelavo in optimizacijo.</li><li>Kliknite <em>Prenesi ICO</em>, da shranite svojo ikono.</li></ol><p>Samodejno generiramo običajne velikosti ikon.</p>"
-
-    }
+      "title": "How to Convert TIFF to ICO Online",
+      "description": "<ol><li>Click <em>Upload TIFF</em> and select your image.</li><li>Wait for processing and optimization.</li><li>Click <em>Download ICO</em> to save your icon.</li></ol><p>We generate common icon sizes automatically.</p>"
+    },
     {
-      "title": "Podprte Omejitve in Formati"
-
-      "description": "<ul><li><strong> Sprejete vhodne datoteke:</strong> TIFF (<code>image/tiff</code>)</li><li><strong> Maksimalna velikost datoteke:</strong> do 16&nbsp;MB na datoteko</li><li><strong> Izhod:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong> Strani:</strong> Večstranske TIFF: samo <em>prva stran</em> se pretvori.</li></ul>"
-
-    }
+      "title": "Supported Limits & Formats",
+      "description": "<ul><li><strong>Accepted input:</strong> TIFF (<code>image/tiff</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> ICO (<code>.ico</code>, MIME <code>image/x-icon</code>)</li><li><strong>Pages:</strong> Multi-page TIFFs: only the <em>first page</em> is converted.</li></ul>"
+    },
     {
-      "title": "Najboljše Prakse za Ostre Ikone"
-
-      "description": "<ul><li>Začnite s <strong>kvadratno</strong> sliko in dodajte obrobe, da se izognete obrezovanju.</li><li>Uporabite jasne oblike in visoko kontrastne barve za velikosti 16–32 px.</li><li>Če potrebujete prosojne robove, se prepričajte, da TIFF vsebuje alfa kanal ali pretvorite PNG s prosojnostjo namesto tega.</li></ul>"
-
-    }
+      "title": "Best Practices for Sharp Icons",
+      "description": "<ul><li>Start with a <strong>square</strong> image and add padding to avoid clipping.</li><li>Use clear shapes and high contrast for 16–32 px sizes.</li><li>If you need transparent edges, ensure the TIFF contains an alpha channel or convert a PNG with transparency instead.</li></ul>"
+    },
     {
-      "title": "Odpravljanje Težav"
-
-      "description": "<ul><li><strong>Favicon se ne posodablja:</strong> Počistite predpomnilnik brskalnika in se prepričajte, da povežete <code>/favicon.ico</code> z <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Neenakomerne majhne velikosti:</strong> Naložite večjo, čisto izvorno sliko; orodje bo zmanjšalo na 16–32 px.</li><li><strong>Nalaganje ne uspe:</strong> Potrdite <code>image/tiff</code> in ≤ 16&nbsp;MB.</li></ul>"
-
+      "title": "Troubleshooting",
+      "description": "<ul><li><strong>Favicon not updating:</strong> Clear browser cache and ensure you link <code>/favicon.ico</code> with <code>&lt;link rel=\"icon\" href=\"/favicon.ico\"&gt;</code>.</li><li><strong>Jagged small sizes:</strong> Upload a larger, clean source; the tool will downscale to 16–32 px.</li><li><strong>Upload fails:</strong> Confirm <code>image/tiff</code> and ≤ 16&nbsp;MB.</li></ul>"
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ali je ta TIFF v ICO pretvornik brezplačen?"
-
-      "answer": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
-
-    }
+      "question": "Is this TIFF to ICO converter free?",
+      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
     {
-      "question": "Ali bo ICO deloval na vseh operacijskih sistemih?"
-
-      "answer": "ICO je nativno podprt na Windows in ga prepoznavajo glavni brskalniki. Orodja za macOS/Linux lahko prav tako ogledajo/uredijo ICO."
-
-    }
+      "question": "Will ICO work on all operating systems?",
+      "answer": "ICO is natively supported on Windows and recognized by major browsers. macOS/Linux tools can view/edit ICO as well."
+    },
     {
-      "question": "Katere velikosti so podprte za ICO datoteke?"
-
-      "answer": "Običajne velikosti vključujejo 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 px."
-
-    }
+      "question": "What sizes are supported for ICO files?",
+      "answer": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
+    },
     {
-      "question": "Katere velikosti datotek so podprte?"
-
-      "answer": "Lahko naložite slike do 16&nbsp;MB na datoteko."
-
-    }
+      "question": "What file sizes are supported?",
+      "answer": "You can upload images up to 16&nbsp;MB per file."
+    },
     {
-      "question": "Ali so moje datoteke varne?"
-
-      "answer": "Datoteke se obdelujejo samodejno in se ne hranijo dlje, kot je potrebno za pretvorbo."
-
-    }
+      "question": "Are my files safe?",
+      "answer": "Files are processed automatically and not retained longer than necessary for conversion."
+    },
     {
-      "question": "Ali lahko hkrati pretvorim več TIFF-ov?"
-
-      "answer": "Ta stran pretvori eno datoteko naenkrat. Za množične potrebe ponovite postopek ali uporabite orodje za serijsko obdelavo."
-
-    }
+      "question": "Can I convert multiple TIFFs at once?",
+      "answer": "This page converts one file at a time. For bulk needs, repeat the process or use a batch tool."
+    },
     {
-      "question": "Ali pretvornik ohranja prosojnost?"
-
-      "answer": "Če vaš TIFF vključuje alfa kanal, bo prosojnost ohranjena v ICO."
-
+      "question": "Does the converter keep transparency?",
+      "answer": "If your TIFF includes an alpha channel, transparency will be preserved in the ICO."
     }
-  ]
-  "note": "Večstranski TIFF: samo prva stran se pretvori. Za najboljše rezultate uporabite kvadratno sliko z obrobami in, če je potrebno, izvor, ki vključuje prosojnost."
-
+  ],
+  "note": "Multi-page TIFFs: only the first page is converted. For best results, use a square image with padding and, if needed, a source that includes transparency.",
   "related_links": [
     {
-      "title": "Pretvori PNG v ICO"
-
-      "url": "/sl/convert/png-to-ico"
-
-    }
+      "title": "Convert PNG to ICO",
+      "url": "/en/convert/png-to-ico"
+    },
     {
-      "title": "Pretvori JPG v ICO"
-
-      "url": "/sl/convert/jpg-to-ico"
-
-    }
+      "title": "Convert JPG to ICO",
+      "url": "/en/convert/jpg-to-ico"
+    },
     {
-      "title": "Pretvori ICO v PNG"
-
-      "url": "/sl/convert/ico-to-png"
-
-    }
+      "title": "Convert ICO to PNG",
+      "url": "/en/convert/ico-to-png"
+    },
     {
-      "title": "Pretvori TIFF v PNG"
-
-      "url": "/sl/convert/tiff-to-png"
-
+      "title": "Convert TIFF to PNG",
+      "url": "/en/convert/tiff-to-png"
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Pretvornik TIFF v ICO - Brezplačno in Spletno"
-
-      "url": "https://miconvert.com/sl/convert/tiff-to-ico"
-
-      "description": "Brezplačno spletno orodje za pretvorbo TIFF slik v ICO za favicon in Windows namizne ikone."
-
-      "inLanguage": "sl"
-
-      "image": "https://miconvert.com/images/tiff-to-ico.jpg"
-
+      "@type": "WebPage",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter - Free & Online",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
+      "description": "Free online tool to convert TIFF images to ICO for favicons and Windows desktop icons.",
+      "inLanguage": "en",
+      "image": "https://miconvert.com/images/tiff-to-ico.jpg",
       "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
+        "@type": "WebSite",
+        "name": "miconvert.com",
         "url": "https://miconvert.com/"
-
       }
-    }
+    },
     {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
+      "@type": "BreadcrumbList",
+      "@context": "https://schema.org",
       "itemListElement": [
         {
-          "@type": "ListItem"
-
-          "position": 1
-          "name": "Domov"
-
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
           "item": "https://miconvert.com/"
-
-        }
+        },
         {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Pretvori"
-
-          "item": "https://miconvert.com/sl/convert/"
-
-        }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert",
+          "item": "https://miconvert.com/en/convert/"
+        },
         {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "TIFF v ICO"
-
-          "item": "https://miconvert.com/sl/convert/tiff-to-ico"
-
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TIFF to ICO",
+          "item": "https://miconvert.com/en/convert/tiff-to-ico"
         }
       ]
-    }
+    },
     {
-      "@type": "SoftwareApplication"
-
-      "@context": "https://schema.org"
-
-      "name": "Pretvornik TIFF v ICO"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sl/convert/tiff-to-ico"
-
+      "@type": "SoftwareApplication",
+      "@context": "https://schema.org",
+      "name": "TIFF to ICO Converter",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "url": "https://miconvert.com/en/convert/tiff-to-ico",
       "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
+        "@type": "Offer",
+        "price": "0",
         "priceCurrency": "USD"
-
-      }
+      },
       "featureList": [
-        "Ikonski set več velikosti"
-
-        "Ohranjena prosojnost"
-
-        "Hitro obdelovanje"
-
-      ]
+        "Multi-size icon set",
+        "Transparency preserved",
+        "Fast processing"
+      ],
       "screenshot": "https://miconvert.com/images/tiff-to-ico.jpg"
-
-    }
+    },
     {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
       "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ali je ta TIFF v ICO pretvornik brezplačen?"
-
+          "@type": "Question",
+          "name": "Is this TIFF to ICO converter free?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, pretvornik je popolnoma brezplačen, brez skritih stroškov ali naročnin."
-
+            "@type": "Answer",
+            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Katere velikosti datotek so podprte?"
-
+          "@type": "Question",
+          "name": "What file sizes are supported?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Lahko naložite slike do 16 MB na datoteko."
-
+            "@type": "Answer",
+            "text": "You can upload images up to 16 MB per file."
           }
-        }
+        },
         {
-          "@type": "Question"
-
-          "name": "Katere velikosti so podprte v ICO datotekah?"
-
+          "@type": "Question",
+          "name": "What sizes are supported in ICO files?",
           "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Običajne velikosti vključujejo 16×16, 32×32, 48×48, 64×64, 128×128 in 256×256 px."
-
+            "@type": "Answer",
+            "text": "Common sizes include 16×16, 32×32, 48×48, 64×64, 128×128, and 256×256 px."
           }
         }
       ]
-    }
+    },
     {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako pretvoriti TIFF v ICO"
-
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "name": "How to convert TIFF to ICO",
       "step": [
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Naloži TIFF in izberite svojo sliko."
-
-        }
+          "@type": "HowToStep",
+          "text": "Click Upload TIFF and select your image."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Počakajte, da se obdelava in optimizacija končata."
-
-        }
+          "@type": "HowToStep",
+          "text": "Wait for processing and optimization to complete."
+        },
         {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Prenesi ICO, da shranite svojo ikono."
-
+          "@type": "HowToStep",
+          "text": "Click Download ICO to save your icon."
         }
-      ]
+      ],
       "tool": [
-        "Pretvornik TIFF v ICO"
-
-      ]
+        "TIFF to ICO Converter"
+      ],
       "totalTime": "PT10S"
-
     }
   ]
 }
