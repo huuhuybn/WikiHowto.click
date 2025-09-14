@@ -1,373 +1,283 @@
 {
-  "lang": "sw"
-
-  "lang_name": "Kiswahili"
-
-  "title": "HEIC hadi JPG Converter - Bure na Mtandaoni | miconvert.com"
-
-  "sub_title": "Badilisha picha za HEIC kuwa muundo wa JPG mtandaoni kwa ubora wa juu, ulinganifu bora, na bila alama za maji."
-
-  "hint": "Pakia picha yako ya HEIC ili kuanza kubadilisha..."
-
-  "btn_download": "Badilisha hadi JPG"
-
-  "btn_paste": "Pakia HEIC"
-
-  "btn_clear": "Futa"
-
+  "lang": "sw",
+  "lang_name": "Kiswahili",
+  "title": "HEIC hadi JPG Converter - Bure na Mtandaoni | miconvert.com",
+  "sub_title": "Badilisha picha za HEIC kuwa muundo wa JPG mtandaoni kwa ubora wa juu, ulinganifu bora, na bila alama za maji.",
+  "hint": "Pakia picha yako ya HEIC ili kuanza kubadilisha...",
+  "btn_download": "Badilisha hadi JPG",
+  "btn_paste": "Pakia HEIC",
+  "btn_clear": "Futa",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>Badilisha <strong>HEIC hadi JPG</strong> kwa ulinganifu wa ulimwengu! Converter yetu ya bure mtandaoni inageuza picha zako za iPhone/iPad kuwa JPG inayoungwa mkono kwa wingi. HEIC (inategemea kiwango cha HEIF) inatoa usindikaji mzuri, lakini programu nyingi na majukwaa bado yanatarajia JPG. Iwe unahitaji kushiriki na watumiaji wa Android/Windows, kupakia kwenye mitandao ya kijamii, au kuhakikisha ulinganifu na programu za zamani, chombo hiki kinafanya iwe rahisi.</p><p>JPG inasaidiwa karibu kila mahali. Badiliko linafanyika haraka na linaifadhi ubora wa picha kwa mipangilio ya JPEG iliyopangwa - bora kwa wapiga picha, wabunifu, na yeyote anaye hitaji ulinganifu wa juu.</p>"
-
+  },
+  "description": "<p>Badilisha <strong>HEIC hadi JPG</strong> kwa ulinganifu wa ulimwengu! Converter yetu ya bure mtandaoni inageuza picha zako za iPhone/iPad kuwa JPG inayoungwa mkono kwa wingi. HEIC (inategemea kiwango cha HEIF) inatoa usindikaji mzuri, lakini programu nyingi na majukwaa bado yanatarajia JPG. Iwe unahitaji kushiriki na watumiaji wa Android/Windows, kupakia kwenye mitandao ya kijamii, au kuhakikisha ulinganifu na programu za zamani, chombo hiki kinafanya iwe rahisi.</p><p>JPG inasaidiwa karibu kila mahali. Badiliko linafanyika haraka na linaifadhi ubora wa picha kwa mipangilio ya JPEG iliyopangwa - bora kwa wapiga picha, wabunifu, na yeyote anaye hitaji ulinganifu wa juu.</p>",
   "head": {
-    "title": "Badilisha HEIC hadi JPG Mtandaoni - Bure HEIC hadi JPG Converter | miconvert.com"
+    "title": "Badilisha HEIC hadi JPG Mtandaoni - Bure HEIC hadi JPG Converter | miconvert.com",
+  "description": "Badilisha HEIC hadi JPG mtandaoni kwa ubora wa juu, ulinganifu bora, na bila alama za maji. Bure, haraka, na salama chombo cha kubadilisha HEIC hadi JPG.",
+  "keywords": "heic hadi jpg, badilisha heic hadi jpg, bure heic hadi jpg, mtandaoni heic converter, picha za iphone",
+  "canonical": "https://miconvert.com/sw/convert/heic-to-jpg",
+  "og_title": "HEIC hadi JPG Converter - Bure na Mtandaoni",
+  "og_description": "Badilisha picha za HEIC kuwa muundo wa JPG kwa ubora wa juu na ulinganifu bora. 100% bure, haraka, na salama.",
+  "og_url": "https://miconvert.com/sw/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "Badilisha HEIC hadi JPG mtandaoni kwa ubora wa juu, ulinganifu bora, na bila alama za maji. Bure, haraka, na salama chombo cha kubadilisha HEIC hadi JPG."
-
-    "keywords": "heic hadi jpg, badilisha heic hadi jpg, bure heic hadi jpg, mtandaoni heic converter, picha za iphone"
-
-    "canonical": "https://miconvert.com/sw/convert/heic-to-jpg"
-
-    "og_title": "HEIC hadi JPG Converter - Bure na Mtandaoni"
-
-    "og_description": "Badilisha picha za HEIC kuwa muundo wa JPG kwa ubora wa juu na ulinganifu bora. 100% bure, haraka, na salama."
-
-    "og_url": "https://miconvert.com/sw/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Badilisha HEIC hadi JPG Mtandaoni"
+    "title": "Badilisha HEIC hadi JPG Mtandaoni",
+  "description": "Bure na haraka HEIC hadi JPG converter yenye ubora wa juu na ulinganifu wa ulimwengu. Inafanya kazi mara moja kwenye kifaa chochote, hakuna usajili unahitajika."
 
-    "description": "Bure na haraka HEIC hadi JPG converter yenye ubora wa juu na ulinganifu wa ulimwengu. Inafanya kazi mara moja kwenye kifaa chochote, hakuna usajili unahitajika."
-
-  }
+  },
   "h2": [
     {
-      "title": "Kwa Nini Kubadilisha HEIC hadi JPG?"
+      "title": "Kwa Nini Kubadilisha HEIC hadi JPG?",
+  "description": "<p>HEIC ni bora, lakini JPG inakubaliwa ulimwenguni kote. Badilisha unapohitaji:</p><ul><li><strong>Ulinganifu wa ulimwengu:</strong> JPG inafanya kazi kwenye vifaa, programu, na majukwaa mbalimbali.</li><li><strong>Kushiriki kati ya majukwaa:</strong> Tuma picha kwa watumiaji wa Android/Windows bila matatizo.</li><li><strong>Pakia kwenye mitandao ya kijamii:</strong> Majukwaa mengi yanapendelea au yanahitaji JPG.</li><li><strong>Usaidizi wa urithi:</strong> Programu za zamani hazisome HEIC kwa uaminifu.</li></ul>"
 
-      "description": "<p>HEIC ni bora, lakini JPG inakubaliwa ulimwenguni kote. Badilisha unapohitaji:</p><ul><li><strong>Ulinganifu wa ulimwengu:</strong> JPG inafanya kazi kwenye vifaa, programu, na majukwaa mbalimbali.</li><li><strong>Kushiriki kati ya majukwaa:</strong> Tuma picha kwa watumiaji wa Android/Windows bila matatizo.</li><li><strong>Pakia kwenye mitandao ya kijamii:</strong> Majukwaa mengi yanapendelea au yanahitaji JPG.</li><li><strong>Usaidizi wa urithi:</strong> Programu za zamani hazisome HEIC kwa uaminifu.</li></ul>"
+    },
+  {
+      "title": "Jinsi ya Kubadilisha HEIC hadi JPG Mtandaoni",
+  "description": "<ol><li>Bonyeza <em>Pakia HEIC</em> na uchague faili yako.</li><li>Subiri kwa usindikaji.</li><li>Bonyeza <em>Pakua JPG</em> kuhifadhi matokeo.</li></ol><p>Hakuna hatua za kiufundi - ubora unaboreshwa kiotomatiki.</p>"
 
-    }
-    {
-      "title": "Jinsi ya Kubadilisha HEIC hadi JPG Mtandaoni"
+    },
+  {
+      "title": "HEIC dhidi ya JPG: Tofauti Kuu",
+  "description": "<ul><li><strong>Ukubwa wa faili:</strong> HEIC kwa kawaida ni ndogo kuliko JPG kwa ubora sawa.</li><li><strong>Ulinganifu:</strong> JPG ina msaada wa karibu wa ulimwengu.</li><li><strong>Ubora:</strong> Zote zinaweza kuonekana nzuri; JPG inatumia usindikaji wa kupoteza.</li><li><strong>Ekosistimu:</strong> HEIC ni ya kawaida kwenye Apple; JPG iko kila mahali.</li></ul>"
 
-      "description": "<ol><li>Bonyeza <em>Pakia HEIC</em> na uchague faili yako.</li><li>Subiri kwa usindikaji.</li><li>Bonyeza <em>Pakua JPG</em> kuhifadhi matokeo.</li></ol><p>Hakuna hatua za kiufundi - ubora unaboreshwa kiotomatiki.</p>"
+    },
+  {
+      "title": "Mipaka na Mifumo Inayosaidiwa",
+  "description": "<ul><li><strong>Input inayokubaliwa:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Mipangilio ya JPEG:</strong> Ubora 90 (progressive, mozjpeg)</li></ul>"
 
-    }
-    {
-      "title": "HEIC dhidi ya JPG: Tofauti Kuu"
+    },
+  {
+      "title": "Vipengele vya Converter Yetu ya HEIC hadi JPG",
+  "description": "<ul><li>100% bure, hakuna alama za maji</li><li>Matokeo ya JPEG ya ubora wa juu</li><li>UI inayofaa kwa simu</li><li>Mtiririko rahisi, wa haraka</li></ul>"
 
-      "description": "<ul><li><strong>Ukubwa wa faili:</strong> HEIC kwa kawaida ni ndogo kuliko JPG kwa ubora sawa.</li><li><strong>Ulinganifu:</strong> JPG ina msaada wa karibu wa ulimwengu.</li><li><strong>Ubora:</strong> Zote zinaweza kuonekana nzuri; JPG inatumia usindikaji wa kupoteza.</li><li><strong>Ekosistimu:</strong> HEIC ni ya kawaida kwenye Apple; JPG iko kila mahali.</li></ul>"
+    },
+  {
+      "title": "HEIC ni Nini?",
+  "description": "<p>HEIC ni kiambishi cha faili kwa picha zilizohifadhiwa kwa kutumia kiwango cha HEIF (Muundo wa Faili ya Picha ya Ufanisi wa Juu) - mara nyingi imeandikwa kwa HEVC (H.265). Inatoa usindikaji mzuri kwa ubora mzuri lakini haikubaliwi kila mahali.</p>"
 
-    }
-    {
-      "title": "Mipaka na Mifumo Inayosaidiwa"
+    },
+  {
+      "title": "JPG ni Nini?",
+  "description": "<p>JPG (JPEG) ni muundo wa picha unaoungwa mkono zaidi. Inatumia usindikaji wa kupoteza ili kulinganisha ubora na ukubwa, ambayo inafanya iwe bora kwa kushiriki na matumizi ya wavuti.</p>"
 
-      "description": "<ul><li><strong>Input inayokubaliwa:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>Mipangilio ya JPEG:</strong> Ubora 90 (progressive, mozjpeg)</li></ul>"
+    },
+  {
+      "title": "Kutatua Matatizo",
+  "description": "<ul><li><strong>Pakia inashindwa:</strong> Hakikisha faili ni HEIC/HEIF na ≤ 16&nbsp;MB.</li><li><strong>Picha iliyogeuzwa:</strong> Waonyeshaji wengine huacha mwelekeo wa EXIF - geuza baada ya kupakua ikiwa inahitajika.</li><li><strong>Badiliko la rangi:</strong> Picha zenye rangi pana zinaweza kuonekana tofauti; badilisha na sRGB ikiwa inahitajika.</li><li><strong>Picha za Moja kwa Moja:</strong> Ni HEIC ya bado pekee inayobadilishwa; video iliyoambatanishwa (MOV) haijajumuishwa.</li></ul>"
 
-    }
-    {
-      "title": "Vipengele vya Converter Yetu ya HEIC hadi JPG"
-
-      "description": "<ul><li>100% bure, hakuna alama za maji</li><li>Matokeo ya JPEG ya ubora wa juu</li><li>UI inayofaa kwa simu</li><li>Mtiririko rahisi, wa haraka</li></ul>"
-
-    }
-    {
-      "title": "HEIC ni Nini?"
-
-      "description": "<p>HEIC ni kiambishi cha faili kwa picha zilizohifadhiwa kwa kutumia kiwango cha HEIF (Muundo wa Faili ya Picha ya Ufanisi wa Juu) - mara nyingi imeandikwa kwa HEVC (H.265). Inatoa usindikaji mzuri kwa ubora mzuri lakini haikubaliwi kila mahali.</p>"
-
-    }
-    {
-      "title": "JPG ni Nini?"
-
-      "description": "<p>JPG (JPEG) ni muundo wa picha unaoungwa mkono zaidi. Inatumia usindikaji wa kupoteza ili kulinganisha ubora na ukubwa, ambayo inafanya iwe bora kwa kushiriki na matumizi ya wavuti.</p>"
-
-    }
-    {
-      "title": "Kutatua Matatizo"
-
-      "description": "<ul><li><strong>Pakia inashindwa:</strong> Hakikisha faili ni HEIC/HEIF na ≤ 16&nbsp;MB.</li><li><strong>Picha iliyogeuzwa:</strong> Waonyeshaji wengine huacha mwelekeo wa EXIF - geuza baada ya kupakua ikiwa inahitajika.</li><li><strong>Badiliko la rangi:</strong> Picha zenye rangi pana zinaweza kuonekana tofauti; badilisha na sRGB ikiwa inahitajika.</li><li><strong>Picha za Moja kwa Moja:</strong> Ni HEIC ya bado pekee inayobadilishwa; video iliyoambatanishwa (MOV) haijajumuishwa.</li></ul>"
+    },
+  {
+      "title": "Matumizi",
+  "description": "<ul><li><strong>Shiriki na watumiaji wasiokuwa na Apple</strong> bila matatizo ya ulinganifu.</li><li><strong>Pakia kwenye CMS/mitandao ya kijamii</strong> inayotarajia JPG.</li><li><strong>Chapisha na hariri</strong> kwenye programu ambazo hazisome HEIC.</li></ul>"
 
     }
-    {
-      "title": "Matumizi"
-
-      "description": "<ul><li><strong>Shiriki na watumiaji wasiokuwa na Apple</strong> bila matatizo ya ulinganifu.</li><li><strong>Pakia kwenye CMS/mitandao ya kijamii</strong> inayotarajia JPG.</li><li><strong>Chapisha na hariri</strong> kwenye programu ambazo hazisome HEIC.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je, converter hii ya HEIC hadi JPG ni bure?"
+      "question": "Je, converter hii ya HEIC hadi JPG ni bure?",
+  "answer": "Ndio, converter ni bure kabisa bila ada za siri au usajili."
 
-      "answer": "Ndio, converter ni bure kabisa bila ada za siri au usajili."
+    },
+  {
+      "question": "Je, nitapoteza ubora ninapobadilisha HEIC hadi JPG?",
+  "answer": "JPG inatumia usindikaji wa kupoteza, hivyo kupoteza kidogo kwa ubora kunaweza kutokea. Tunatumia mipangilio iliyopangwa (ubora ~90, progressive) ili kuweka kuwa kidogo."
 
-    }
-    {
-      "question": "Je, nitapoteza ubora ninapobadilisha HEIC hadi JPG?"
+    },
+  {
+      "question": "Ni vifaa gani vinavyosaidia HEIC?",
+  "answer": "HEIC/HEIF ni ya kawaida kwenye vifaa vya Apple. Majukwaa mengine mengi bado yanapendelea JPG kama chaguo la msingi."
 
-      "answer": "JPG inatumia usindikaji wa kupoteza, hivyo kupoteza kidogo kwa ubora kunaweza kutokea. Tunatumia mipangilio iliyopangwa (ubora ~90, progressive) ili kuweka kuwa kidogo."
+    },
+  {
+      "question": "Ni ukubwa gani wa faili unavyosaidiwa?",
+  "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
 
-    }
-    {
-      "question": "Ni vifaa gani vinavyosaidia HEIC?"
+    },
+  {
+      "question": "Je, faili zangu ziko salama?",
+  "answer": "Faili zinashughulikiwa kiotomatiki na hazishikiliwi kwa muda mrefu zaidi ya inavyohitajika kwa kubadilisha."
 
-      "answer": "HEIC/HEIF ni ya kawaida kwenye vifaa vya Apple. Majukwaa mengine mengi bado yanapendelea JPG kama chaguo la msingi."
+    },
+  {
+      "question": "Je, naweza kubadilisha faili nyingi za HEIC kwa wakati mmoja?",
+  "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia chombo cha kundi."
 
-    }
-    {
-      "question": "Ni ukubwa gani wa faili unavyosaidiwa?"
-
-      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
-
-    }
-    {
-      "question": "Je, faili zangu ziko salama?"
-
-      "answer": "Faili zinashughulikiwa kiotomatiki na hazishikiliwi kwa muda mrefu zaidi ya inavyohitajika kwa kubadilisha."
-
-    }
-    {
-      "question": "Je, naweza kubadilisha faili nyingi za HEIC kwa wakati mmoja?"
-
-      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia chombo cha kundi."
-
-    }
-    {
-      "question": "Ni lini ni lazima nitumie JPG badala ya HEIC?"
-
-      "answer": "Tumia JPG kwa ulinganifu wa juu, kupakia kwenye majukwaa ambayo hayasaidii HEIC, au unaposhiriki na vifaa visivyo vya Apple."
+    },
+  {
+      "question": "Ni lini ni lazima nitumie JPG badala ya HEIC?",
+  "answer": "Tumia JPG kwa ulinganifu wa juu, kupakia kwenye majukwaa ambayo hayasaidii HEIC, au unaposhiriki na vifaa visivyo vya Apple."
 
     }
-  ]
-  "note": "JPG inatumia usindikaji wa kupoteza; tofauti ndogo za ukubwa/ubora ni za kawaida. Kwa mahitaji ya uwazi, badilisha HEIC hadi PNG badala yake."
-
+  ],
+  "note": "JPG inatumia usindikaji wa kupoteza; tofauti ndogo za ukubwa/ubora ni za kawaida. Kwa mahitaji ya uwazi, badilisha HEIC hadi PNG badala yake.",
   "related_links": [
     {
-      "title": "Badilisha HEIC hadi PNG"
+      "title": "Badilisha HEIC hadi PNG",
+  "url": "/sw/convert/heic-to-png"
 
-      "url": "/sw/convert/heic-to-png"
+    },
+  {
+      "title": "Badilisha JPG hadi HEIC",
+  "url": "/sw/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "Badilisha JPG hadi HEIC"
+    },
+  {
+      "title": "Badilisha HEIC hadi WebP",
+  "url": "/sw/convert/heic-to-webp"
 
-      "url": "/sw/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "Badilisha HEIC hadi WebP"
-
-      "url": "/sw/convert/heic-to-webp"
-
-    }
-    {
-      "title": "Punguza JPG Mtandaoni"
-
-      "url": "/sw/compress/jpg"
+    },
+  {
+      "title": "Punguza JPG Mtandaoni",
+  "url": "/sw/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC hadi JPG Converter - Bure na Mtandaoni"
-
-      "url": "https://miconvert.com/sw/convert/heic-to-jpg"
-
-      "description": "Chombo cha bure mtandaoni kubadilisha picha za HEIC kuwa JPG kwa ubora wa juu na ulinganifu wa ulimwengu."
-
-      "inLanguage": "sw"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEIC hadi JPG Converter - Bure na Mtandaoni",
+  "url": "https://miconvert.com/sw/convert/heic-to-jpg",
+  "description": "Chombo cha bure mtandaoni kubadilisha picha za HEIC kuwa JPG kwa ubora wa juu na ulinganifu wa ulimwengu.",
+  "inLanguage": "sw",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Nyumbani",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Nyumbani"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Badilisha",
+  "item": "https://miconvert.com/sw/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Badilisha"
-
-          "item": "https://miconvert.com/sw/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC hadi JPG"
-
-          "item": "https://miconvert.com/sw/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC hadi JPG",
+  "item": "https://miconvert.com/sw/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEIC hadi JPG Converter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sw/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Matokeo ya JPEG ya ubora wa juu",
+  "Usindikaji wa maendeleo",
+  "Usindikaji wa haraka"
 
-      "name": "HEIC hadi JPG Converter"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sw/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Matokeo ya JPEG ya ubora wa juu"
-
-        "Usindikaji wa maendeleo"
-
-        "Usindikaji wa haraka"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je, converter hii ya HEIC hadi JPG ni bure?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ndio, converter ni bure kabisa bila ada za siri au usajili."
+          "@type": "Question",
+  "name": "Je, converter hii ya HEIC hadi JPG ni bure?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ndio, converter ni bure kabisa bila ada za siri au usajili."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ni ukubwa gani wa faili unavyosaidiwa?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
+        },
+  {
+          "@type": "Question",
+  "name": "Ni ukubwa gani wa faili unavyosaidiwa?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Je, nitapoteza ubora ninapobadilisha HEIC hadi JPG?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG inatumia usindikaji wa kupoteza, lakini tunatumia mipangilio iliyopangwa ili kupunguza kupoteza kwa wazi."
+        },
+  {
+          "@type": "Question",
+  "name": "Je, nitapoteza ubora ninapobadilisha HEIC hadi JPG?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPG inatumia usindikaji wa kupoteza, lakini tunatumia mipangilio iliyopangwa ili kupunguza kupoteza kwa wazi."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jinsi ya kubadilisha HEIC hadi JPG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jinsi ya kubadilisha HEIC hadi JPG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Bonyeza Pakia HEIC na uchague faili yako."
 
-          "text": "Bonyeza Pakia HEIC na uchague faili yako."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Subiri usindikaji kukamilika."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Bonyeza Pakua JPG kuhifadhi matokeo."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Subiri usindikaji kukamilika."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Bonyeza Pakua JPG kuhifadhi matokeo."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEIC hadi JPG Converter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

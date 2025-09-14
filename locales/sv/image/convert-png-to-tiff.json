@@ -1,367 +1,274 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "PNG till TIFF Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera PNG-bilder till TIFF online med förlustfria alternativ, tryckklara kvaliteter och bevarad transparens. Inga vattenstämplar."
-
-  "hint": "Ladda upp din PNG-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till TIFF"
-
-  "btn_paste": "Ladda upp PNG"
-
-  "btn_clear": "Rensa"
-
-  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "PNG till TIFF Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera PNG-bilder till TIFF online med förlustfria alternativ, tryckklara kvaliteter och bevarad transparens. Inga vattenstämplar.",
+  "hint": "Ladda upp din PNG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till TIFF",
+  "btn_paste": "Ladda upp PNG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg",
   "head": {
-    "title": "Konvertera PNG till TIFF - Gratis Online PNG till TIFF Konverterare | miconvert.com"
+    "title": "Konvertera PNG till TIFF - Gratis Online PNG till TIFF Konverterare | miconvert.com",
+  "description": "Konvertera PNG-bilder till TIFF-format online gratis. Högkvalitativ PNG till TIFF-konvertering med förlustfria alternativ och snabb bearbetning.",
+  "keywords": "png till tiff, konvertera png till tiff, gratis png till tiff, online tiff konverterare, bildkonvertering",
+  "canonical": "https://miconvert.com/sv/convert/png-to-tiff",
+  "og_title": "Konvertera PNG till TIFF - Gratis Online PNG till TIFF Konverterare",
+  "og_description": "Konvertera PNG-bilder till TIFF med förlustfria kompressionsalternativ och bevarad transparens. Gratis, snabbt och säkert.",
+  "og_url": "https://miconvert.com/sv/convert/png-to-tiff",
+  "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
 
-    "description": "Konvertera PNG-bilder till TIFF-format online gratis. Högkvalitativ PNG till TIFF-konvertering med förlustfria alternativ och snabb bearbetning."
-
-    "keywords": "png till tiff, konvertera png till tiff, gratis png till tiff, online tiff konverterare, bildkonvertering"
-
-    "canonical": "https://miconvert.com/sv/convert/png-to-tiff"
-
-    "og_title": "Konvertera PNG till TIFF - Gratis Online PNG till TIFF Konverterare"
-
-    "og_description": "Konvertera PNG-bilder till TIFF med förlustfria kompressionsalternativ och bevarad transparens. Gratis, snabbt och säkert."
-
-    "og_url": "https://miconvert.com/sv/convert/png-to-tiff"
-
-    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera PNG till TIFF Online"
+    "title": "Konvertera PNG till TIFF Online",
+  "description": "Gratis PNG till TIFF-konverterare med förlustfria kompressionsalternativ och tryckklara resultat. Fungerar på alla enheter — ingen registrering krävs."
 
-    "description": "Gratis PNG till TIFF-konverterare med förlustfria kompressionsalternativ och tryckklara resultat. Fungerar på alla enheter — ingen registrering krävs."
-
-  }
+  },
   "converter": {
-    "type": "png-to-tiff"
-
-    "title": "PNG till TIFF Konverterare"
-
-    "description": "Konvertera PNG-bilder till TIFF med LZW/ZIP förlustfri kompression samtidigt som alfa-transparens bevaras."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "png-to-tiff",
+  "title": "PNG till TIFF Konverterare",
+  "description": "Konvertera PNG-bilder till TIFF med LZW/ZIP förlustfri kompression samtidigt som alfa-transparens bevaras.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Förlustfri TIFF (LZW/ZIP) alternativ",
+  "Bevarar transparens (alfa)",
+  "Tryckklar kvalitet",
+  "Gratis online verktyg"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Förlustfri TIFF (LZW/ZIP) alternativ"
-
-      "Bevarar transparens (alfa)"
-
-      "Tryckklar kvalitet"
-
-      "Gratis online verktyg"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 32
-        "alpha": true
-        "dpi": 300
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 32,
+  "alpha": true,
+  "dpi": 300
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG till TIFF Konvertering Klar"
+    "title": "PNG till TIFF Konvertering Klar",
+  "back_button": "Tillbaka till Konverteraren",
+  "convert_another": "Konvertera En Annan PNG",
+  "quick_conversions": "Snabba Konverteringar:"
 
-    "back_button": "Tillbaka till Konverteraren"
-
-    "convert_another": "Konvertera En Annan PNG"
-
-    "quick_conversions": "Snabba Konverteringar:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför Konvertera PNG till TIFF?"
+      "title": "Varför Konvertera PNG till TIFF?",
+  "description": "<p>TIFF är ett professionellt, arkivklassat format som används inom bildbehandling och tryck:</p><ul><li><strong>Förlustfria alternativ:</strong> Behåll en ren master utan att introducera nya artefakter.</li><li><strong>Tryckklar:</strong> Utmärkt för högupplöst utdata och prepress-arbetsflöden.</li><li><strong>Alfa-stöd:</strong> Kan bevara transparens (beroende på läsare).</li><li><strong>Redigeringsvänlig:</strong> Stabil för upprepade sparningar och överlämningar.</li></ul>"
 
-      "description": "<p>TIFF är ett professionellt, arkivklassat format som används inom bildbehandling och tryck:</p><ul><li><strong>Förlustfria alternativ:</strong> Behåll en ren master utan att introducera nya artefakter.</li><li><strong>Tryckklar:</strong> Utmärkt för högupplöst utdata och prepress-arbetsflöden.</li><li><strong>Alfa-stöd:</strong> Kan bevara transparens (beroende på läsare).</li><li><strong>Redigeringsvänlig:</strong> Stabil för upprepade sparningar och överlämningar.</li></ul>"
+    },
+  {
+      "title": "Hur man Konverterar PNG till TIFF Online",
+  "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på bearbetning.</li><li>Klicka på <em>Ladda ner TIFF</em> för att spara resultatet.</li></ol><p>Standardutdata: 32-bitars RGBA, LZW förlustfri, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Hur man Konverterar PNG till TIFF Online"
+    },
+  {
+      "title": "TIFF vs PNG: Viktiga Skillnader",
+  "description": "<ul><li><strong>Kompression:</strong> PNG använder förlustfri DEFLATE; TIFF stöder LZW/ZIP (förlustfri) eller andra.</li><li><strong>Filstorlek:</strong> Beror på bildinnehåll; TIFF kan vara större eller liknande PNG.</li><li><strong>Transparens:</strong> Båda kan inkludera alfa (visarstöd kan variera för TIFF).</li><li><strong>Bäst för:</strong> PNG för webbleverans; TIFF för redigering, tryck och arkivering.</li></ul>"
 
-      "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på bearbetning.</li><li>Klicka på <em>Ladda ner TIFF</em> för att spara resultatet.</li></ol><p>Standardutdata: 32-bitars RGBA, LZW förlustfri, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Stödda Gränser & Format",
+  "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Standard:</strong> 32-bitars RGBA, LZW kompression, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs PNG: Viktiga Skillnader"
-
-      "description": "<ul><li><strong>Kompression:</strong> PNG använder förlustfri DEFLATE; TIFF stöder LZW/ZIP (förlustfri) eller andra.</li><li><strong>Filstorlek:</strong> Beror på bildinnehåll; TIFF kan vara större eller liknande PNG.</li><li><strong>Transparens:</strong> Båda kan inkludera alfa (visarstöd kan variera för TIFF).</li><li><strong>Bäst för:</strong> PNG för webbleverans; TIFF för redigering, tryck och arkivering.</li></ul>"
-
-    }
-    {
-      "title": "Stödda Gränser & Format"
-
-      "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Standard:</strong> 32-bitars RGBA, LZW kompression, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Fil för stor:</strong> TIFF är tyngre för vissa innehåll — behåll PNG för webb eller överväg WebP/AVIF.</li><li><strong>Alfa inte synlig:</strong> Vissa visare ignorerar TIFF alfa; verifiera i en professionell redigerare.</li><li><strong>Färgskift:</strong> Konvertera till sRGB innan uppladdning för konsekvent färg på skärmen.</li><li><strong>Uppladdning misslyckas:</strong> Se till att PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Fil för stor:</strong> TIFF är tyngre för vissa innehåll — behåll PNG för webb eller överväg WebP/AVIF.</li><li><strong>Alfa inte synlig:</strong> Vissa visare ignorerar TIFF alfa; verifiera i en professionell redigerare.</li><li><strong>Färgskift:</strong> Konvertera till sRGB innan uppladdning för konsekvent färg på skärmen.</li><li><strong>Uppladdning misslyckas:</strong> Se till att PNG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna PNG till TIFF konverterare gratis?"
+      "question": "Är denna PNG till TIFF konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Fungerar TIFF i alla applikationer?",
+  "answer": "TIFF stöds i stor utsträckning i professionella appar (Photoshop, Affinity, många RIP/tryckverktyg). Vissa enkla visare kanske inte visar alfa eller vissa komprimeringsmetoder."
 
-    }
-    {
-      "question": "Fungerar TIFF i alla applikationer?"
+    },
+  {
+      "question": "Hur stora är TIFF-filer jämfört med PNG?",
+  "answer": "Det varierar beroende på bilden. Med LZW/ZIP kan TIFF vara liknande eller större än PNG beroende på innehållet."
 
-      "answer": "TIFF stöds i stor utsträckning i professionella appar (Photoshop, Affinity, många RIP/tryckverktyg). Vissa enkla visare kanske inte visar alfa eller vissa komprimeringsmetoder."
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
 
-    }
-    {
-      "question": "Hur stora är TIFF-filer jämfört med PNG?"
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
 
-      "answer": "Det varierar beroende på bilden. Med LZW/ZIP kan TIFF vara liknande eller större än PNG beroende på innehållet."
+    },
+  {
+      "question": "Kan jag konvertera flera PNG:er samtidigt?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera PNG:er samtidigt?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-
-    }
-    {
-      "question": "Stöder TIFF lager?"
-
-      "answer": "Standard TIFF är platt. Vissa appar bäddar in privata lagerdata, men detta verktyg ger en platt TIFF."
+    },
+  {
+      "question": "Stöder TIFF lager?",
+  "answer": "Standard TIFF är platt. Vissa appar bäddar in privata lagerdata, men detta verktyg ger en platt TIFF."
 
     }
-  ]
-  "note": "TIFF är lämpligt för lagring/tryck men kan vara tungt. För webb, överväg PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF är lämpligt för lagring/tryck men kan vara tungt. För webb, överväg PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konvertera PNG till JPG"
+      "title": "Konvertera PNG till JPG",
+  "url": "/sv/convert/png-to-jpg"
 
-      "url": "/sv/convert/png-to-jpg"
+    },
+  {
+      "title": "Konvertera PNG till WebP",
+  "url": "/sv/convert/png-to-webp"
 
-    }
-    {
-      "title": "Konvertera PNG till WebP"
-
-      "url": "/sv/convert/png-to-webp"
-
-    }
-    {
-      "title": "Konvertera JPG till TIFF"
-
-      "url": "/sv/convert/jpg-to-tiff"
+    },
+  {
+      "title": "Konvertera JPG till TIFF",
+  "url": "/sv/convert/jpg-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG till TIFF Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/png-to-tiff"
-
-      "description": "Gratis online verktyg för att konvertera PNG-bilder till TIFF med förlustfria alternativ och bevarad transparens."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG till TIFF Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/png-to-tiff",
+  "description": "Gratis online verktyg för att konvertera PNG-bilder till TIFF med förlustfria alternativ och bevarad transparens.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/png-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG till TIFF"
-
-          "item": "https://miconvert.com/sv/convert/png-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG till TIFF",
+  "item": "https://miconvert.com/sv/convert/png-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG till TIFF Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/png-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Förlustfri LZW-alternativ",
+  "Bevarar alfa",
+  "Tryckklar 300 DPI"
 
-      "name": "PNG till TIFF Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/png-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Förlustfri LZW-alternativ"
-
-        "Bevarar alfa"
-
-        "Tryckklar 300 DPI"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna PNG till TIFF konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna PNG till TIFF konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Stöder TIFF lager?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standard TIFF är en platt bild; vissa appar bäddar in privata lagerdata. Detta verktyg ger en platt TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Stöder TIFF lager?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standard TIFF är en platt bild; vissa appar bäddar in privata lagerdata. Detta verktyg ger en platt TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar PNG till TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar PNG till TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp PNG och välj din fil."
 
-          "text": "Klicka på Ladda upp PNG och välj din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att bearbetningen ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner TIFF för att spara resultatet."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetningen ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner TIFF för att spara resultatet."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG till TIFF Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

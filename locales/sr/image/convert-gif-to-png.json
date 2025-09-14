@@ -1,364 +1,276 @@
 {
-  "lang": "sr"
-
-  "lang_name": "Srpski"
-
-  "title": "GIF u PNG Konverter - Besplatno i Online | miconvert.com"
-
-  "sub_title": "Konvertujte GIF slike u PNG format online uz podršku za transparentnost, visoki kvalitet i bez vodenih žigova."
-
-  "hint": "Otpremite svoju GIF sliku da biste započeli konverziju..."
-
-  "btn_download": "Konvertuj u PNG"
-
-  "btn_paste": "Otpremi GIF"
-
-  "btn_clear": "Obriši"
-
+  "lang": "sr",
+  "lang_name": "Srpski",
+  "title": "GIF u PNG Konverter - Besplatno i Online | miconvert.com",
+  "sub_title": "Konvertujte GIF slike u PNG format online uz podršku za transparentnost, visoki kvalitet i bez vodenih žigova.",
+  "hint": "Otpremite svoju GIF sliku da biste započeli konverziju...",
+  "btn_download": "Konvertuj u PNG",
+  "btn_paste": "Otpremi GIF",
+  "btn_clear": "Obriši",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Konvertujte svoj <strong>GIF u PNG</strong> za veću vernost i punu podršku za transparentnost. Naš besplatni online konverter pretvara animirane ili statične GIF-ove u slike visoke kvalitete PNG. Dok je GIF odličan za jednostavne animacije, PNG nudi superiornu dubinu boje, bolju transparentnost i bezgubitnu kompresiju za oštre statične grafike.</p><p><strong>Napomena:</strong> Animirani GIF-ovi se konvertuju u <em>jednu statičnu sliku</em> (prvi okvir). Za animirani izlaz, pokušajte <a href='/en/convert/gif-to-webp'>GIF u WebP</a>.</p>"
-
+  },
+  "description": "<p>Konvertujte svoj <strong>GIF u PNG</strong> za veću vernost i punu podršku za transparentnost. Naš besplatni online konverter pretvara animirane ili statične GIF-ove u slike visoke kvalitete PNG. Dok je GIF odličan za jednostavne animacije, PNG nudi superiornu dubinu boje, bolju transparentnost i bezgubitnu kompresiju za oštre statične grafike.</p><p><strong>Napomena:</strong> Animirani GIF-ovi se konvertuju u <em>jednu statičnu sliku</em> (prvi okvir). Za animirani izlaz, pokušajte <a href='/en/convert/gif-to-webp'>GIF u WebP</a>.</p>",
   "head": {
-    "title": "Konvertujte GIF u PNG Online - Besplatni GIF u PNG Konverter | miconvert.com"
+    "title": "Konvertujte GIF u PNG Online - Besplatni GIF u PNG Konverter | miconvert.com",
+  "description": "Konvertujte GIF u PNG online uz podršku za transparentnost, visoki kvalitet i bez vodenih žigova. Besplatan, brz i siguran alat za konverziju GIF u PNG.",
+  "keywords": "gif u png, konvertuj gif u png, besplatni gif u png, online gif konverter, transparentne slike",
+  "canonical": "https://miconvert.com/en/convert/gif-to-png",
+  "og_title": "GIF u PNG Konverter - Besplatno i Online",
+  "og_description": "Konvertujte GIF slike u PNG format uz podršku za transparentnost i visoki kvalitet. 100% besplatno, brzo i sigurno.",
+  "og_url": "https://miconvert.com/en/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Konvertujte GIF u PNG online uz podršku za transparentnost, visoki kvalitet i bez vodenih žigova. Besplatan, brz i siguran alat za konverziju GIF u PNG."
-
-    "keywords": "gif u png, konvertuj gif u png, besplatni gif u png, online gif konverter, transparentne slike"
-
-    "canonical": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_title": "GIF u PNG Konverter - Besplatno i Online"
-
-    "og_description": "Konvertujte GIF slike u PNG format uz podršku za transparentnost i visoki kvalitet. 100% besplatno, brzo i sigurno."
-
-    "og_url": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertujte GIF u PNG Online"
+    "title": "Konvertujte GIF u PNG Online",
+  "description": "Besplatan i brz GIF u PNG konverter sa podrškom za transparentnost i visoki kvalitet. Radi odmah na bilo kojem uređaju, bez registracije."
 
-    "description": "Besplatan i brz GIF u PNG konverter sa podrškom za transparentnost i visoki kvalitet. Radi odmah na bilo kojem uređaju, bez registracije."
-
-  }
+  },
   "h2": [
     {
-      "title": "Zašto konvertovati GIF u PNG?"
+      "title": "Zašto konvertovati GIF u PNG?",
+  "description": "<p>GIF je ograničen na 256 boja i pogodan je za jednostavne animacije. PNG je idealan za slike visoke kvalitete:</p><ul><li><strong>Veći kvalitet:</strong> Prava boja (24-bit) + alfa naspram GIF-ove 8-bit palete.</li><li><strong>Transparentnost:</strong> PNG podržava punu alfa transparentnost za glatke ivice.</li><li><strong>Bezgubitna kompresija:</strong> PNG čuva detalje bez gubitka kvaliteta.</li><li><strong>Univerzalna kompatibilnost:</strong> Široko podržan na aplikacijama i platformama.</li></ul>"
 
-      "description": "<p>GIF je ograničen na 256 boja i pogodan je za jednostavne animacije. PNG je idealan za slike visoke kvalitete:</p><ul><li><strong>Veći kvalitet:</strong> Prava boja (24-bit) + alfa naspram GIF-ove 8-bit palete.</li><li><strong>Transparentnost:</strong> PNG podržava punu alfa transparentnost za glatke ivice.</li><li><strong>Bezgubitna kompresija:</strong> PNG čuva detalje bez gubitka kvaliteta.</li><li><strong>Univerzalna kompatibilnost:</strong> Široko podržan na aplikacijama i platformama.</li></ul>"
+    },
+  {
+      "title": "Kako konvertovati GIF u PNG Online",
+  "description": "<ol><li>Kliknite <em>Otpremi GIF</em> i izaberite svoju datoteku.</li><li>Sačekajte da se obrada završi.</li><li>Kliknite <em>Preuzmi PNG</em> da sačuvate rezultat.</li></ol><p>Animirani GIF-ovi: samo prvi okvir se izvozi kao PNG.</p>"
 
-    }
-    {
-      "title": "Kako konvertovati GIF u PNG Online"
+    },
+  {
+      "title": "GIF vs PNG: Ključne razlike",
+  "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Dubina boje</td><td>8-bit (256 boja)</td><td>Prava boja (24-bit) + alfa</td></tr><tr><td>Transparentnost</td><td>1-bit maska (uključeno/isključeno)</td><td>Puna alfa transparentnost</td></tr><tr><td>Kompresija</td><td>Bez gubitaka (LZW)</td><td>Bez gubitaka (DEFLATE)</td></tr><tr><td>Animacija</td><td>Podržano</td><td>Ne podržano (statično)</td></tr><tr><td>Najbolje za</td><td>Jednostavne animacije, stikeri</td><td>Logotipi, UI, snimci ekrana, statične grafike</td></tr></tbody></table>"
 
-      "description": "<ol><li>Kliknite <em>Otpremi GIF</em> i izaberite svoju datoteku.</li><li>Sačekajte da se obrada završi.</li><li>Kliknite <em>Preuzmi PNG</em> da sačuvate rezultat.</li></ol><p>Animirani GIF-ovi: samo prvi okvir se izvozi kao PNG.</p>"
+    },
+  {
+      "title": "Podržani limiti i formati",
+  "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG: Ključne razlike"
+    },
+  {
+      "title": "Karakteristike našeg GIF u PNG konvertera",
+  "description": "<ul><li>100% besplatno, bez vodenih žigova</li><li>Održava transparentnost gde je prisutna</li><li>Bezgubitni PNG izlaz</li><li>Interfejs prilagođen mobilnim uređajima</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Dubina boje</td><td>8-bit (256 boja)</td><td>Prava boja (24-bit) + alfa</td></tr><tr><td>Transparentnost</td><td>1-bit maska (uključeno/isključeno)</td><td>Puna alfa transparentnost</td></tr><tr><td>Kompresija</td><td>Bez gubitaka (LZW)</td><td>Bez gubitaka (DEFLATE)</td></tr><tr><td>Animacija</td><td>Podržano</td><td>Ne podržano (statično)</td></tr><tr><td>Najbolje za</td><td>Jednostavne animacije, stikeri</td><td>Logotipi, UI, snimci ekrana, statične grafike</td></tr></tbody></table>"
+    },
+  {
+      "title": "Šta je GIF?",
+  "description": "<p>GIF (Graphics Interchange Format) podržava osnovnu animaciju i koristi bezgubitnu LZW kompresiju, ali je ograničen na paletu od 256 boja.</p>"
 
-    }
-    {
-      "title": "Podržani limiti i formati"
+    },
+  {
+      "title": "Šta je PNG?",
+  "description": "<p>PNG (Portable Network Graphics) je format bez gubitaka koji podržava pravu boju i alfa transparentnost — idealan za slike visoke kvalitete.</p>"
 
-      "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Rešavanje problema",
+  "description": "<ul><li><strong>Otpremanje ne uspeva:</strong> Uverite se da je datoteka GIF i ≤ 16&nbsp;MB.</li><li><strong>Grube ivice transparentnosti:</strong> GIF-ova 1-bitna transparentnost može izgledati oštro; poboljšajte sa <a href='/en/effect/remove-background'>Uklanjanjem pozadine</a>.</li><li><strong>Potrebna animacija:</strong> Koristite <a href='/en/convert/gif-to-webp'>GIF u WebP</a> da zadržite pokret.</li></ul>"
 
-    }
-    {
-      "title": "Karakteristike našeg GIF u PNG konvertera"
-
-      "description": "<ul><li>100% besplatno, bez vodenih žigova</li><li>Održava transparentnost gde je prisutna</li><li>Bezgubitni PNG izlaz</li><li>Interfejs prilagođen mobilnim uređajima</li></ul>"
-
-    }
-    {
-      "title": "Šta je GIF?"
-
-      "description": "<p>GIF (Graphics Interchange Format) podržava osnovnu animaciju i koristi bezgubitnu LZW kompresiju, ali je ograničen na paletu od 256 boja.</p>"
-
-    }
-    {
-      "title": "Šta je PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) je format bez gubitaka koji podržava pravu boju i alfa transparentnost — idealan za slike visoke kvalitete.</p>"
-
-    }
-    {
-      "title": "Rešavanje problema"
-
-      "description": "<ul><li><strong>Otpremanje ne uspeva:</strong> Uverite se da je datoteka GIF i ≤ 16&nbsp;MB.</li><li><strong>Grube ivice transparentnosti:</strong> GIF-ova 1-bitna transparentnost može izgledati oštro; poboljšajte sa <a href='/en/effect/remove-background'>Uklanjanjem pozadine</a>.</li><li><strong>Potrebna animacija:</strong> Koristite <a href='/en/convert/gif-to-webp'>GIF u WebP</a> da zadržite pokret.</li></ul>"
+    },
+  {
+      "title": "Upotreba: Kada konvertovati GIF u PNG",
+  "description": "<ul><li><strong>Logotipi i ikone</strong> kojima je potrebna glatka transparentnost.</li><li><strong>Snimci ekrana/UI</strong> kojima su potrebni oštri tekst i linije.</li><li><strong>Arhiviranje</strong> statičnih okvira u višem kvalitetu.</li></ul>"
 
     }
-    {
-      "title": "Upotreba: Kada konvertovati GIF u PNG"
-
-      "description": "<ul><li><strong>Logotipi i ikone</strong> kojima je potrebna glatka transparentnost.</li><li><strong>Snimci ekrana/UI</strong> kojima su potrebni oštri tekst i linije.</li><li><strong>Arhiviranje</strong> statičnih okvira u višem kvalitetu.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Da li je ovaj GIF u PNG konverter besplatan?"
+      "question": "Da li je ovaj GIF u PNG konverter besplatan?",
+  "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
-      "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+    },
+  {
+      "question": "Da li će PNG zadržati transparentnost iz GIF-a?",
+  "answer": "Da. 1-bitna transparentna područja GIF-a ostaju transparentna u PNG-u; za glatke ivice, uredite alfa kanal nakon konverzije."
 
-    }
-    {
-      "question": "Da li će PNG zadržati transparentnost iz GIF-a?"
+    },
+  {
+      "question": "Šta se dešava sa animiranim GIF-ovima?",
+  "answer": "Samo prvi okvir se konvertuje u statičnu PNG sliku. Da zadržite animaciju, koristite GIF u WebP."
 
-      "answer": "Da. 1-bitna transparentna područja GIF-a ostaju transparentna u PNG-u; za glatke ivice, uredite alfa kanal nakon konverzije."
+    },
+  {
+      "question": "Da li ću izgubiti kvalitet prilikom konvertovanja GIF-a u PNG?",
+  "answer": "Ne. PNG koristi bezgubitnu kompresiju i podržava punu boju, često poboljšavajući vizuelnu vernost u odnosu na 256-bojni GIF."
 
-    }
-    {
-      "question": "Šta se dešava sa animiranim GIF-ovima?"
+    },
+  {
+      "question": "Koje veličine datoteka su podržane?",
+  "answer": "Možete otpremiti slike do 16 MB po datoteci."
 
-      "answer": "Samo prvi okvir se konvertuje u statičnu PNG sliku. Da zadržite animaciju, koristite GIF u WebP."
+    },
+  {
+      "question": "Da li su moji fajlovi sigurni?",
+  "answer": "Fajlovi se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
 
-    }
-    {
-      "question": "Da li ću izgubiti kvalitet prilikom konvertovanja GIF-a u PNG?"
-
-      "answer": "Ne. PNG koristi bezgubitnu kompresiju i podržava punu boju, često poboljšavajući vizuelnu vernost u odnosu na 256-bojni GIF."
-
-    }
-    {
-      "question": "Koje veličine datoteka su podržane?"
-
-      "answer": "Možete otpremiti slike do 16 MB po datoteci."
-
-    }
-    {
-      "question": "Da li su moji fajlovi sigurni?"
-
-      "answer": "Fajlovi se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
-
-    }
-    {
-      "question": "Mogu li konvertovati više GIF datoteka odjednom?"
-
-      "answer": "Ova stranica konvertuje jednu datoteku u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
+    },
+  {
+      "question": "Mogu li konvertovati više GIF datoteka odjednom?",
+  "answer": "Ova stranica konvertuje jednu datoteku u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
 
     }
-  ]
-  "note": "Animirani GIF-ovi postaju statični PNG-ovi (prvi okvir). Za animirani izlaz, konvertujte GIF u WebP."
-
+  ],
+  "note": "Animirani GIF-ovi postaju statični PNG-ovi (prvi okvir). Za animirani izlaz, konvertujte GIF u WebP.",
   "related_links": [
     {
-      "title": "Konvertuj GIF u JPG"
+      "title": "Konvertuj GIF u JPG",
+  "url": "/en/convert/gif-to-jpg"
 
-      "url": "/en/convert/gif-to-jpg"
+    },
+  {
+      "title": "Konvertuj PNG u GIF",
+  "url": "/en/convert/png-to-gif"
 
-    }
-    {
-      "title": "Konvertuj PNG u GIF"
-
-      "url": "/en/convert/png-to-gif"
-
-    }
-    {
-      "title": "Konvertuj GIF u WebP"
-
-      "url": "/en/convert/gif-to-webp"
+    },
+  {
+      "title": "Konvertuj GIF u WebP",
+  "url": "/en/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Sva prava zadržana."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Sva prava zadržana.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "GIF u PNG Konverter - Besplatno i Online"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "description": "Besplatan online alat za konvertovanje GIF slika u PNG sa bezgubitnom kompresijom i podrškom za transparentnost."
-
-      "inLanguage": "sr"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "GIF u PNG Konverter - Besplatno i Online",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "description": "Besplatan online alat za konvertovanje GIF slika u PNG sa bezgubitnom kompresijom i podrškom za transparentnost.",
+  "inLanguage": "sr",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Početna",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Početna"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertuj",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertuj"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF u PNG"
-
-          "item": "https://miconvert.com/en/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF u PNG",
+  "item": "https://miconvert.com/en/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "GIF u PNG Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Bez gubitaka PNG izlaz",
+  "Podrška za transparentnost",
+  "Brza obrada"
 
-      "name": "GIF u PNG Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Bez gubitaka PNG izlaz"
-
-        "Podrška za transparentnost"
-
-        "Brza obrada"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Da li je ovaj GIF u PNG konverter besplatan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+          "@type": "Question",
+  "name": "Da li je ovaj GIF u PNG konverter besplatan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Šta se dešava sa animiranim GIF-ovima?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Samo prvi okvir se konvertuje u statičnu PNG sliku. Da zadržite animaciju, koristite GIF u WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Šta se dešava sa animiranim GIF-ovima?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Samo prvi okvir se konvertuje u statičnu PNG sliku. Da zadržite animaciju, koristite GIF u WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Koje veličine datoteka su podržane?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Možete otpremiti slike do 16 MB po datoteci."
+        },
+  {
+          "@type": "Question",
+  "name": "Koje veličine datoteka su podržane?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Možete otpremiti slike do 16 MB po datoteci."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako konvertovati GIF u PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kako konvertovati GIF u PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknite Otpremi GIF i izaberite svoju datoteku."
 
-          "text": "Kliknite Otpremi GIF i izaberite svoju datoteku."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Sačekajte da se obrada završi."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknite Preuzmi PNG da sačuvate rezultat."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Sačekajte da se obrada završi."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Preuzmi PNG da sačuvate rezultat."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "GIF u PNG Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

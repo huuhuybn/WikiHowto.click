@@ -1,382 +1,287 @@
 {
-  "lang": "sw"
-
-  "lang_name": "Kiswahili"
-
-  "title": "Mbadala wa JPG hadi BMP - Bure na Mtandaoni | miconvert.com"
-
-  "sub_title": "Badilisha picha za JPG kuwa BMP mtandaoni na data za pikseli zisizo na msongamano, zisizo na hasara. Hakuna alama za maji."
-
-  "hint": "Pakua picha yako ya JPG ili kuanza kubadilisha..."
-
-  "btn_download": "Badilisha kuwa BMP"
-
-  "btn_paste": "Pakia JPG"
-
-  "btn_clear": "Futa"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
+  "lang": "sw",
+  "lang_name": "Kiswahili",
+  "title": "Mbadala wa JPG hadi BMP - Bure na Mtandaoni | miconvert.com",
+  "sub_title": "Badilisha picha za JPG kuwa BMP mtandaoni na data za pikseli zisizo na msongamano, zisizo na hasara. Hakuna alama za maji.",
+  "hint": "Pakua picha yako ya JPG ili kuanza kubadilisha...",
+  "btn_download": "Badilisha kuwa BMP",
+  "btn_paste": "Pakia JPG",
+  "btn_clear": "Futa",
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg",
   "head": {
-    "title": "Badilisha JPG kuwa BMP - Mbadala wa JPG hadi BMP Mtandaoni Bure"
+    "title": "Badilisha JPG kuwa BMP - Mbadala wa JPG hadi BMP Mtandaoni Bure",
+  "description": "Badilisha picha za JPG kuwa muundo wa BMP mtandaoni bure. Mbadala wa JPG hadi BMP wa ubora wa juu na usindikaji wa haraka.",
+  "keywords": "jpg hadi bmp, badilisha jpg kuwa bmp, bure jpg hadi bmp, mbadala wa bmp mtandaoni, ubadilishaji wa picha",
+  "canonical": "https://miconvert.com/en/convert/jpg-to-bmp",
+  "og_title": "Badilisha JPG kuwa BMP - Mbadala wa JPG hadi BMP Mtandaoni Bure",
+  "og_description": "Badilisha picha za JPG kuwa muundo wa BMP mtandaoni bure. Mbadala wa JPG hadi BMP wa ubora wa juu na usindikaji wa haraka.",
+  "og_url": "https://miconvert.com/en/convert/jpg-to-bmp",
+  "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-    "description": "Badilisha picha za JPG kuwa muundo wa BMP mtandaoni bure. Mbadala wa JPG hadi BMP wa ubora wa juu na usindikaji wa haraka."
-
-    "keywords": "jpg hadi bmp, badilisha jpg kuwa bmp, bure jpg hadi bmp, mbadala wa bmp mtandaoni, ubadilishaji wa picha"
-
-    "canonical": "https://miconvert.com/en/convert/jpg-to-bmp"
-
-    "og_title": "Badilisha JPG kuwa BMP - Mbadala wa JPG hadi BMP Mtandaoni Bure"
-
-    "og_description": "Badilisha picha za JPG kuwa muundo wa BMP mtandaoni bure. Mbadala wa JPG hadi BMP wa ubora wa juu na usindikaji wa haraka."
-
-    "og_url": "https://miconvert.com/en/convert/jpg-to-bmp"
-
-    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Badilisha JPG kuwa BMP Mtandaoni"
+    "title": "Badilisha JPG kuwa BMP Mtandaoni",
+  "description": "Mbadala wa bure wa JPG hadi BMP wenye data za pikseli zisizo na msongamano, zisizo na hasara. Inafanya kazi kwenye kifaa chochote - hakuna usajili unahitajika."
 
-    "description": "Mbadala wa bure wa JPG hadi BMP wenye data za pikseli zisizo na msongamano, zisizo na hasara. Inafanya kazi kwenye kifaa chochote - hakuna usajili unahitajika."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-bmp"
-
-    "title": "Mbadala wa JPG hadi BMP"
-
-    "description": "Badilisha picha za JPG kuwa BMP kwa usindikaji wa haraka na rangi sahihi."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "jpg-to-bmp",
+  "title": "Mbadala wa JPG hadi BMP",
+  "description": "Badilisha picha za JPG kuwa BMP kwa usindikaji wa haraka na rangi sahihi.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Data za pikseli zisizo na msongamano (zisizo na hasara)",
+  "Ulinganifu wa juu kwenye Windows",
+  "Usindikaji wa haraka",
+  "Zana ya bure mtandaoni"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Data za pikseli zisizo na msongamano (zisizo na hasara)"
-
-      "Ulinganifu wa juu kwenye Windows"
-
-      "Usindikaji wa haraka"
-
-      "Zana ya bure mtandaoni"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Mbadala wa JPG hadi BMP Umekamilika"
+    "title": "Mbadala wa JPG hadi BMP Umekamilika",
+  "back_button": "Rudi kwa Mbadala",
+  "convert_another": "Badilisha JPG Nyingine",
+  "quick_conversions": "Mabadiliko ya Haraka:"
 
-    "back_button": "Rudi kwa Mbadala"
-
-    "convert_another": "Badilisha JPG Nyingine"
-
-    "quick_conversions": "Mabadiliko ya Haraka:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Kwa Nini Kubadilisha JPG kuwa BMP?"
+      "title": "Kwa Nini Kubadilisha JPG kuwa BMP?",
+  "description": "<p>BMP ni muundo rahisi wa raster ambao huhifadhi pikseli bila msongamano - muhimu kwa michakato fulani:</p><ul><li><strong>Hakuna vikwazo vya JPEG:</strong> Epuka re-encode za hasara zinazojirudia wakati wa kuhariri.</li><li><strong>Muundo rahisi:</strong> Rahisi kwa usindikaji wa pikseli wa kiwango cha chini.</li><li><strong>Programu za urithi/za ndani:</strong> Zana zingine za Windows hupendelea BMP.</li></ul>"
 
-      "description": "<p>BMP ni muundo rahisi wa raster ambao huhifadhi pikseli bila msongamano - muhimu kwa michakato fulani:</p><ul><li><strong>Hakuna vikwazo vya JPEG:</strong> Epuka re-encode za hasara zinazojirudia wakati wa kuhariri.</li><li><strong>Muundo rahisi:</strong> Rahisi kwa usindikaji wa pikseli wa kiwango cha chini.</li><li><strong>Programu za urithi/za ndani:</strong> Zana zingine za Windows hupendelea BMP.</li></ul>"
+    },
+  {
+      "title": "Jinsi ya Kubadilisha JPG kuwa BMP Mtandaoni",
+  "description": "<ol><li>Bonyeza <em>Pakia JPG</em> na uchague faili yako.</li><li>Subiri usindikaji ukamilike.</li><li>Bonyeza <em>Pakua BMP</em> ili kuhifadhi picha yako.</li></ol><p>Inarudiwa kwa BMP ya 24-bit bila msongamano.</p>"
 
-    }
-    {
-      "title": "Jinsi ya Kubadilisha JPG kuwa BMP Mtandaoni"
+    },
+  {
+      "title": "BMP dhidi ya JPG: Tofauti Kuu",
+  "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Msongamano</td><td>Hasara (JPEG)</td><td>Kawaida zisizo na msongamano (zisizo na hasara)</td></tr><tr><td>Ukubwa wa faili</td><td>Ndogo</td><td>Kubwa</td></tr><tr><td>Uwazi</td><td>Hapana</td><td>Hapana (BMP ya kawaida ya 24-bit)</td></tr><tr><td>Inafaa kwa</td><td>Picha, matumizi ya mtandaoni</td><td>Michakato ya kuhariri, programu za urithi, operesheni za pikseli</td></tr></tbody></table>"
 
-      "description": "<ol><li>Bonyeza <em>Pakia JPG</em> na uchague faili yako.</li><li>Subiri usindikaji ukamilike.</li><li>Bonyeza <em>Pakua BMP</em> ili kuhifadhi picha yako.</li></ol><p>Inarudiwa kwa BMP ya 24-bit bila msongamano.</p>"
+    },
+  {
+      "title": "Mipaka na Mifumo Inayoungwa Mkono",
+  "description": "<ul><li><strong>Input inayokubalika:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit depth:</strong> 24-bit (hakuna alpha)</li></ul>"
 
-    }
-    {
-      "title": "BMP dhidi ya JPG: Tofauti Kuu"
+    },
+  {
+      "title": "Kutatua Matatizo",
+  "description": "<ul><li><strong>Matokeo makubwa sana:</strong> BMP haijakandamizwa kwa muundo; fikiria <a href='/en/convert/jpg-to-png'>JPG hadi PNG</a> kwa faili ndogo zisizo na hasara.</li><li><strong>Uwazi unahitajika:</strong> BMP (24-bit) haina alpha; tumia <a href='/en/convert/jpg-to-png'>JPG hadi PNG</a>.</li><li><strong>Pakia inashindwa:</strong> Hakikisha faili ni JPG/JPEG na ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Msongamano</td><td>Hasara (JPEG)</td><td>Kawaida zisizo na msongamano (zisizo na hasara)</td></tr><tr><td>Ukubwa wa faili</td><td>Ndogo</td><td>Kubwa</td></tr><tr><td>Uwazi</td><td>Hapana</td><td>Hapana (BMP ya kawaida ya 24-bit)</td></tr><tr><td>Inafaa kwa</td><td>Picha, matumizi ya mtandaoni</td><td>Michakato ya kuhariri, programu za urithi, operesheni za pikseli</td></tr></tbody></table>"
+    },
+  {
+      "title": "JPG ni Nini?",
+  "description": "<p>JPG (JPEG) hutumia msongamano wa hasara ili kuweka faili kuwa ndogo, bora kwa picha na mtandao, lakini kuhifadhi mara kwa mara kunaweza kuleta vikwazo.</p>"
 
-    }
-    {
-      "title": "Mipaka na Mifumo Inayoungwa Mkono"
+    },
+  {
+      "title": "BMP ni Nini?",
+  "description": "<p>BMP ni muundo rahisi wa bitmap ambao kawaida huhifadhi pikseli za asili bila msongamano. Ni kubwa kwa ukubwa lakini rahisi kwa programu kusoma na kushughulikia.</p>"
 
-      "description": "<ul><li><strong>Input inayokubalika:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Ukubwa wa faili wa juu:</strong> hadi 16&nbsp;MB kwa faili</li><li><strong>Matokeo:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit depth:</strong> 24-bit (hakuna alpha)</li></ul>"
-
-    }
-    {
-      "title": "Kutatua Matatizo"
-
-      "description": "<ul><li><strong>Matokeo makubwa sana:</strong> BMP haijakandamizwa kwa muundo; fikiria <a href='/en/convert/jpg-to-png'>JPG hadi PNG</a> kwa faili ndogo zisizo na hasara.</li><li><strong>Uwazi unahitajika:</strong> BMP (24-bit) haina alpha; tumia <a href='/en/convert/jpg-to-png'>JPG hadi PNG</a>.</li><li><strong>Pakia inashindwa:</strong> Hakikisha faili ni JPG/JPEG na ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "JPG ni Nini?"
-
-      "description": "<p>JPG (JPEG) hutumia msongamano wa hasara ili kuweka faili kuwa ndogo, bora kwa picha na mtandao, lakini kuhifadhi mara kwa mara kunaweza kuleta vikwazo.</p>"
-
-    }
-    {
-      "title": "BMP ni Nini?"
-
-      "description": "<p>BMP ni muundo rahisi wa bitmap ambao kawaida huhifadhi pikseli za asili bila msongamano. Ni kubwa kwa ukubwa lakini rahisi kwa programu kusoma na kushughulikia.</p>"
+    },
+  {
+      "title": "Matumizi: Lini Kubadilisha JPG kuwa BMP",
+  "description": "<ul><li><strong>Mizunguko ya kuhariri:</strong> Epuka vikwazo vya JPEG vinavyokusanyika.</li><li><strong>Programu za urithi:</strong> Zana za zamani za Windows zinazohitaji BMP.</li><li><strong>Maendeleo:</strong> Upatikanaji wa moja kwa moja wa pikseli katika usindikaji wa kiwango cha chini.</li></ul>"
 
     }
-    {
-      "title": "Matumizi: Lini Kubadilisha JPG kuwa BMP"
-
-      "description": "<ul><li><strong>Mizunguko ya kuhariri:</strong> Epuka vikwazo vya JPEG vinavyokusanyika.</li><li><strong>Programu za urithi:</strong> Zana za zamani za Windows zinazohitaji BMP.</li><li><strong>Maendeleo:</strong> Upatikanaji wa moja kwa moja wa pikseli katika usindikaji wa kiwango cha chini.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je, mbadala huu wa JPG hadi BMP ni bure?"
+      "question": "Je, mbadala huu wa JPG hadi BMP ni bure?",
+  "answer": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
 
-      "answer": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
+    },
+  {
+      "question": "Je, BMP itafanya kazi kwenye programu zote?",
+  "answer": "BMP inasaidiwa sana kwenye Windows na kutambuliwa na majukwaa mengine mengi. Michakato ya kisasa hupendelea PNG/WebP kwa ufanisi wa ukubwa."
 
-    }
-    {
-      "question": "Je, BMP itafanya kazi kwenye programu zote?"
+    },
+  {
+      "question": "Je, faili za BMP ni kubwa kiasi gani kuliko JPG?",
+  "answer": "Mara nyingi ni kubwa mara kadhaa (mfano, 5–20×), kwani BMP kawaida haijakandamizwa."
 
-      "answer": "BMP inasaidiwa sana kwenye Windows na kutambuliwa na majukwaa mengine mengi. Michakato ya kisasa hupendelea PNG/WebP kwa ufanisi wa ukubwa."
+    },
+  {
+      "question": "Ni ukubwa gani wa faili unakubalika?",
+  "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
 
-    }
-    {
-      "question": "Je, faili za BMP ni kubwa kiasi gani kuliko JPG?"
+    },
+  {
+      "question": "Je, faili zangu ziko salama?",
+  "answer": "Faili zinashughulikiwa kiotomatiki na hazishikiliwi kwa muda mrefu zaidi ya inavyohitajika kwa ubadilishaji."
 
-      "answer": "Mara nyingi ni kubwa mara kadhaa (mfano, 5–20×), kwani BMP kawaida haijakandamizwa."
+    },
+  {
+      "question": "Je, naweza kubadilisha JPG nyingi kwa wakati mmoja?",
+  "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia zana ya kundi."
 
-    }
-    {
-      "question": "Ni ukubwa gani wa faili unakubalika?"
-
-      "answer": "Unaweza kupakia picha hadi 16&nbsp;MB kwa faili."
-
-    }
-    {
-      "question": "Je, faili zangu ziko salama?"
-
-      "answer": "Faili zinashughulikiwa kiotomatiki na hazishikiliwi kwa muda mrefu zaidi ya inavyohitajika kwa ubadilishaji."
-
-    }
-    {
-      "question": "Je, naweza kubadilisha JPG nyingi kwa wakati mmoja?"
-
-      "answer": "Ukurasa huu unabadilisha faili moja kwa wakati. Kwa mahitaji ya wingi, rudia mchakato au tumia zana ya kundi."
-
-    }
-    {
-      "question": "Je, BMP inasaidia uwazi?"
-
-      "answer": "BMP ya kawaida ya 24-bit haina channel ya alpha. Kwa uwazi, badilisha kuwa PNG badala yake."
+    },
+  {
+      "question": "Je, BMP inasaidia uwazi?",
+  "answer": "BMP ya kawaida ya 24-bit haina channel ya alpha. Kwa uwazi, badilisha kuwa PNG badala yake."
 
     }
-  ]
-  "note": "Matokeo ya BMP ni makubwa kwa makusudi (hayajakandamizwa). Kwa mtandao, pendelea PNG/WebP/AVIF."
-
+  ],
+  "note": "Matokeo ya BMP ni makubwa kwa makusudi (hayajakandamizwa). Kwa mtandao, pendelea PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Badilisha BMP kuwa JPG"
+      "title": "Badilisha BMP kuwa JPG",
+  "url": "/en/convert/bmp-to-jpg"
 
-      "url": "/en/convert/bmp-to-jpg"
+    },
+  {
+      "title": "Badilisha JPG kuwa PNG",
+  "url": "/en/convert/jpg-to-png"
 
-    }
-    {
-      "title": "Badilisha JPG kuwa PNG"
-
-      "url": "/en/convert/jpg-to-png"
-
-    }
-    {
-      "title": "Badilisha PNG kuwa BMP"
-
-      "url": "/en/convert/png-to-bmp"
+    },
+  {
+      "title": "Badilisha PNG kuwa BMP",
+  "url": "/en/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Haki zote zimehifadhiwa.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Mbadala wa JPG hadi BMP - Bure na Mtandaoni"
-
-      "url": "https://miconvert.com/en/convert/jpg-to-bmp"
-
-      "description": "Zana ya bure mtandaoni kubadilisha picha za JPG kuwa BMP zikiwa na data za pikseli zisizo na msongamano, zisizo na hasara."
-
-      "inLanguage": "sw"
-
-      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Mbadala wa JPG hadi BMP - Bure na Mtandaoni",
+  "url": "https://miconvert.com/en/convert/jpg-to-bmp",
+  "description": "Zana ya bure mtandaoni kubadilisha picha za JPG kuwa BMP zikiwa na data za pikseli zisizo na msongamano, zisizo na hasara.",
+  "inLanguage": "sw",
+  "image": "https://miconvert.com/images/jpg-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Nyumbani",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Nyumbani"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Badilisha",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Badilisha"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG hadi BMP"
-
-          "item": "https://miconvert.com/en/convert/jpg-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG hadi BMP",
+  "item": "https://miconvert.com/en/convert/jpg-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Mbadala wa JPG hadi BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/jpg-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Data za pikseli zisizo na msongamano",
+  "Rangi sahihi",
+  "Usindikaji wa haraka"
 
-      "name": "Mbadala wa JPG hadi BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/jpg-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Data za pikseli zisizo na msongamano"
-
-        "Rangi sahihi"
-
-        "Usindikaji wa haraka"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je, mbadala huu wa JPG hadi BMP ni bure?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
+          "@type": "Question",
+  "name": "Je, mbadala huu wa JPG hadi BMP ni bure?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ndio, mbadala huu ni bure kabisa bila ada zilizofichwa au usajili."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ni ukubwa gani wa faili unakubalika?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
+        },
+  {
+          "@type": "Question",
+  "name": "Ni ukubwa gani wa faili unakubalika?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Unaweza kupakia picha hadi 16 MB kwa faili."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Je, BMP inasaidia uwazi?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "BMP ya kawaida ya 24-bit haina uwazi. Tumia PNG kwa alpha."
+        },
+  {
+          "@type": "Question",
+  "name": "Je, BMP inasaidia uwazi?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "BMP ya kawaida ya 24-bit haina uwazi. Tumia PNG kwa alpha."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jinsi ya kubadilisha JPG kuwa BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jinsi ya kubadilisha JPG kuwa BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Bonyeza Pakia JPG na uchague faili yako."
 
-          "text": "Bonyeza Pakia JPG na uchague faili yako."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Subiri usindikaji ukamilike."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Bonyeza Pakua BMP ili kuhifadhi picha."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Subiri usindikaji ukamilike."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Bonyeza Pakua BMP ili kuhifadhi picha."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Mbadala wa JPG hadi BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

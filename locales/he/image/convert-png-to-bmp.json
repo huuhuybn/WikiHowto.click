@@ -1,364 +1,272 @@
 {
-  "lang": "he"
-
-  "lang_name": "עברית"
-
-  "title": "ממיר PNG ל-BMP - חינם ואונליין | miconvert.com"
-
-  "sub_title": "המירו תמונות PNG ל-BMP אונליין עם נתוני פיקסל לא דחוסים וללא אובדן. ללא סימני מים."
-
-  "hint": "העלו את תמונת ה-PNG שלכם כדי להתחיל להמיר..."
-
-  "btn_download": "המיר ל-BMP"
-
-  "btn_paste": "העלאת PNG"
-
-  "btn_clear": "נקה"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "he",
+  "lang_name": "עברית",
+  "title": "ממיר PNG ל-BMP - חינם ואונליין | miconvert.com",
+  "sub_title": "המירו תמונות PNG ל-BMP אונליין עם נתוני פיקסל לא דחוסים וללא אובדן. ללא סימני מים.",
+  "hint": "העלו את תמונת ה-PNG שלכם כדי להתחיל להמיר...",
+  "btn_download": "המיר ל-BMP",
+  "btn_paste": "העלאת PNG",
+  "btn_clear": "נקה",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "המיר PNG ל-BMP - ממיר PNG ל-BMP חינם אונליין"
+    "title": "המיר PNG ל-BMP - ממיר PNG ל-BMP חינם אונליין",
+  "description": "המירו תמונות PNG לפורמט BMP אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-BMP עם עיבוד מהיר.",
+  "keywords": "png ל-bmp, המרת png ל-bmp, bmp חינם ל-png, ממיר bmp אונליין, המרת תמונות",
+  "canonical": "https://miconvert.com/he/convert/png-to-bmp",
+  "og_title": "המיר PNG ל-BMP - ממיר PNG ל-BMP חינם אונליין",
+  "og_description": "המירו תמונות PNG לפורמט BMP אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-BMP עם עיבוד מהיר.",
+  "og_url": "https://miconvert.com/he/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "המירו תמונות PNG לפורמט BMP אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-BMP עם עיבוד מהיר."
-
-    "keywords": "png ל-bmp, המרת png ל-bmp, bmp חינם ל-png, ממיר bmp אונליין, המרת תמונות"
-
-    "canonical": "https://miconvert.com/he/convert/png-to-bmp"
-
-    "og_title": "המיר PNG ל-BMP - ממיר PNG ל-BMP חינם אונליין"
-
-    "og_description": "המירו תמונות PNG לפורמט BMP אונליין בחינם. המרה באיכות גבוהה מ-PNG ל-BMP עם עיבוד מהיר."
-
-    "og_url": "https://miconvert.com/he/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "המיר PNG ל-BMP אונליין"
+    "title": "המיר PNG ל-BMP אונליין",
+  "description": "ממיר PNG ל-BMP חינם עם נתוני פיקסל לא דחוסים וללא אובדן. עובד על כל מכשיר — ללא צורך בהרשמה."
 
-    "description": "ממיר PNG ל-BMP חינם עם נתוני פיקסל לא דחוסים וללא אובדן. עובד על כל מכשיר — ללא צורך בהרשמה."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "ממיר PNG ל-BMP"
-
-    "description": "המירו תמונות PNG ל-BMP עם עיבוד מהיר וצבעים מדויקים."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "ממיר PNG ל-BMP",
+  "description": "המירו תמונות PNG ל-BMP עם עיבוד מהיר וצבעים מדויקים.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "נתוני פיקסל לא דחוסים (ללא אובדן)",
+  "תאימות גבוהה ב-Windows",
+  "עיבוד מהיר",
+  "כלי אונליין חינם"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "נתוני פיקסל לא דחוסים (ללא אובדן)"
-
-      "תאימות גבוהה ב-Windows"
-
-      "עיבוד מהיר"
-
-      "כלי אונליין חינם"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "המרת PNG ל-BMP הושלמה"
+    "title": "המרת PNG ל-BMP הושלמה",
+  "back_button": "חזרה לממיר",
+  "convert_another": "המיר PNG נוסף",
+  "quick_conversions": "המרות מהירות:"
 
-    "back_button": "חזרה לממיר"
-
-    "convert_another": "המיר PNG נוסף"
-
-    "quick_conversions": "המרות מהירות:"
-
-  }
+  },
   "h2": [
     {
-      "title": "למה להמיר PNG ל-BMP?"
+      "title": "למה להמיר PNG ל-BMP?",
+  "description": "<p>BMP הוא פורמט רסטר פשוט ששומר פיקסלים ללא דחיסה — שימושי עבור זרימות עבודה מסוימות:</p><ul><li><strong>אין אובייקטים חדשים:</strong> שמרו על הפיקסלים שלמים לעריכה ברמה נמוכה.</li><li><strong>מבנה פשוט:</strong> קל לתוכניות לקרוא ול-manipulate.</li><li><strong>יישומים ישנים/מוטמעים:</strong> כמה כלים ב-Windows מעדיפים BMP.</li></ul>"
 
-      "description": "<p>BMP הוא פורמט רסטר פשוט ששומר פיקסלים ללא דחיסה — שימושי עבור זרימות עבודה מסוימות:</p><ul><li><strong>אין אובייקטים חדשים:</strong> שמרו על הפיקסלים שלמים לעריכה ברמה נמוכה.</li><li><strong>מבנה פשוט:</strong> קל לתוכניות לקרוא ול-manipulate.</li><li><strong>יישומים ישנים/מוטמעים:</strong> כמה כלים ב-Windows מעדיפים BMP.</li></ul>"
+    },
+  {
+      "title": "איך להמיר PNG ל-BMP אונליין",
+  "description": "<ol><li>לחצו על <em>העלאת PNG</em> ובחרו את הקובץ שלכם.</li><li>חכו שהעיבוד יושלם.</li><li>לחצו על <em>הורדת BMP</em> כדי לשמור את התמונה שלכם.</li></ol><p>ברירת המחדל היא BMP ב-24 סיביות ללא דחיסה.</p>"
 
-    }
-    {
-      "title": "איך להמיר PNG ל-BMP אונליין"
+    },
+  {
+      "title": "השוואת BMP ל-PNG",
+  "description": "<ul><li><strong>גודל קובץ:</strong> BMP בדרך כלל גדול בהרבה מ-PNG.</li><li><strong>איכות:</strong> שניהם ללא אובדן (BMP לא דחוס; PNG דחוס ללא אובדן).</li><li><strong>שקיפות:</strong> PNG תומך באלפא; BMP ב-24 סיביות אינו <em>תומך</em>.</li><li><strong>דחיסה:</strong> BMP ללא; PNG דחוס ללא אובדן DEFLATE.</li><li><strong>מקרי שימוש:</strong> BMP עבור פעולות ישנות/פיקסל; PNG עבור אינטרנט ואחסון ללא אובדן יעיל.</li></ul>"
 
-      "description": "<ol><li>לחצו על <em>העלאת PNG</em> ובחרו את הקובץ שלכם.</li><li>חכו שהעיבוד יושלם.</li><li>לחצו על <em>הורדת BMP</em> כדי לשמור את התמונה שלכם.</li></ol><p>ברירת המחדל היא BMP ב-24 סיביות ללא דחיסה.</p>"
+    },
+  {
+      "title": "מגבלות ופורמטים נתמכים",
+  "description": "<ul><li><strong>קלט מתקבל:</strong> PNG (<code>image/png</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>עומק סיביות:</strong> 24 סיביות (ללא אלפא)</li></ul>"
 
-    }
-    {
-      "title": "השוואת BMP ל-PNG"
-
-      "description": "<ul><li><strong>גודל קובץ:</strong> BMP בדרך כלל גדול בהרבה מ-PNG.</li><li><strong>איכות:</strong> שניהם ללא אובדן (BMP לא דחוס; PNG דחוס ללא אובדן).</li><li><strong>שקיפות:</strong> PNG תומך באלפא; BMP ב-24 סיביות אינו <em>תומך</em>.</li><li><strong>דחיסה:</strong> BMP ללא; PNG דחוס ללא אובדן DEFLATE.</li><li><strong>מקרי שימוש:</strong> BMP עבור פעולות ישנות/פיקסל; PNG עבור אינטרנט ואחסון ללא אובדן יעיל.</li></ul>"
-
-    }
-    {
-      "title": "מגבלות ופורמטים נתמכים"
-
-      "description": "<ul><li><strong>קלט מתקבל:</strong> PNG (<code>image/png</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>עומק סיביות:</strong> 24 סיביות (ללא אלפא)</li></ul>"
-
-    }
-    {
-      "title": "פתרון בעיות"
-
-      "description": "<ul><li><strong>פלט גדול מאוד:</strong> BMP אינו דחוס; עבור דחיסה קטנה יותר, שמרו על PNG.</li><li><strong>צריך שקיפות:</strong> BMP ב-24 סיביות אינו כולל אלפא; הישארו עם PNG.</li><li><strong>העלאה נכשלת:</strong> ודאו שהקובץ הוא PNG ו-≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "פתרון בעיות",
+  "description": "<ul><li><strong>פלט גדול מאוד:</strong> BMP אינו דחוס; עבור דחיסה קטנה יותר, שמרו על PNG.</li><li><strong>צריך שקיפות:</strong> BMP ב-24 סיביות אינו כולל אלפא; הישארו עם PNG.</li><li><strong>העלאה נכשלת:</strong> ודאו שהקובץ הוא PNG ו-≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "האם הממיר PNG ל-BMP הזה חינם?"
+      "question": "האם הממיר PNG ל-BMP הזה חינם?",
+  "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
 
-      "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+    },
+  {
+      "question": "האם BMP יעבוד בכל היישומים?",
+  "answer": "BMP נתמך באופן רחב ב-Windows ומוכר על ידי פלטפורמות רבות אחרות. זרימות עבודה מודרניות באינטרנט בדרך כלל מעדיפות PNG/WebP עבור יעילות גודל."
 
-    }
-    {
-      "question": "האם BMP יעבוד בכל היישומים?"
+    },
+  {
+      "question": "כמה יותר גדולים קבצי BMP בהשוואה ל-PNG?",
+  "answer": "לעיתים קרובות גדולים כמה פעמים (למשל, 3–10× או יותר), מכיוון ש-BMP אינו דחוס."
 
-      "answer": "BMP נתמך באופן רחב ב-Windows ומוכר על ידי פלטפורמות רבות אחרות. זרימות עבודה מודרניות באינטרנט בדרך כלל מעדיפות PNG/WebP עבור יעילות גודל."
+    },
+  {
+      "question": "אילו גדלי קבצים נתמכים?",
+  "answer": "אתם יכולים להעלות תמונות עד 16&nbsp;MB לקובץ."
 
-    }
-    {
-      "question": "כמה יותר גדולים קבצי BMP בהשוואה ל-PNG?"
+    },
+  {
+      "question": "האם הקבצים שלי בטוחים?",
+  "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
 
-      "answer": "לעיתים קרובות גדולים כמה פעמים (למשל, 3–10× או יותר), מכיוון ש-BMP אינו דחוס."
+    },
+  {
+      "question": "האם אני יכול להמיר מספר PNGs בבת אחת?",
+  "answer": "דף זה ממיר קובץ אחד בכל פעם. עבור צרכים בכמויות גדולות, חזרו על התהליך או השתמשו בכלי אצווה."
 
-    }
-    {
-      "question": "אילו גדלי קבצים נתמכים?"
-
-      "answer": "אתם יכולים להעלות תמונות עד 16&nbsp;MB לקובץ."
-
-    }
-    {
-      "question": "האם הקבצים שלי בטוחים?"
-
-      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
-
-    }
-    {
-      "question": "האם אני יכול להמיר מספר PNGs בבת אחת?"
-
-      "answer": "דף זה ממיר קובץ אחד בכל פעם. עבור צרכים בכמויות גדולות, חזרו על התהליך או השתמשו בכלי אצווה."
-
-    }
-    {
-      "question": "האם BMP תומך בשקיפות?"
-
-      "answer": "BMP ב-24 סיביות סטנדרטי אינו כולל אלפא. השתמשו ב-PNG עבור שקיפות."
+    },
+  {
+      "question": "האם BMP תומך בשקיפות?",
+  "answer": "BMP ב-24 סיביות סטנדרטי אינו כולל אלפא. השתמשו ב-PNG עבור שקיפות."
 
     }
-  ]
-  "note": "פלט BMP גדול בכוונה (לא דחוס). עבור משלוח באינטרנט, העדיפו PNG/WebP/AVIF."
-
+  ],
+  "note": "פלט BMP גדול בכוונה (לא דחוס). עבור משלוח באינטרנט, העדיפו PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "המיר BMP ל-PNG"
+      "title": "המיר BMP ל-PNG",
+  "url": "/he/convert/bmp-to-png"
 
-      "url": "/he/convert/bmp-to-png"
+    },
+  {
+      "title": "המיר PNG ל-JPG",
+  "url": "/he/convert/png-to-jpg"
 
-    }
-    {
-      "title": "המיר PNG ל-JPG"
-
-      "url": "/he/convert/png-to-jpg"
-
-    }
-    {
-      "title": "המיר PNG ל-WebP"
-
-      "url": "/he/convert/png-to-webp"
+    },
+  {
+      "title": "המיר PNG ל-WebP",
+  "url": "/he/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "ממיר PNG ל-BMP - חינם ואונליין"
-
-      "url": "https://miconvert.com/he/convert/png-to-bmp"
-
-      "description": "כלי אונליין חינם להמיר תמונות PNG ל-BMP עם נתוני פיקסל לא דחוסים וללא אובדן."
-
-      "inLanguage": "he"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "ממיר PNG ל-BMP - חינם ואונליין",
+  "url": "https://miconvert.com/he/convert/png-to-bmp",
+  "description": "כלי אונליין חינם להמיר תמונות PNG ל-BMP עם נתוני פיקסל לא דחוסים וללא אובדן.",
+  "inLanguage": "he",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "בית",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "בית"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "המרה",
+  "item": "https://miconvert.com/he/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "המרה"
-
-          "item": "https://miconvert.com/he/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG ל-BMP"
-
-          "item": "https://miconvert.com/he/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG ל-BMP",
+  "item": "https://miconvert.com/he/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "ממיר PNG ל-BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/he/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "נתוני פיקסל לא דחוסים",
+  "צבעים מדויקים",
+  "עיבוד מהיר"
 
-      "name": "ממיר PNG ל-BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/he/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "נתוני פיקסל לא דחוסים"
-
-        "צבעים מדויקים"
-
-        "עיבוד מהיר"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "האם הממיר PNG ל-BMP הזה חינם?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+          "@type": "Question",
+  "name": "האם הממיר PNG ל-BMP הזה חינם?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "אילו גדלי קבצים נתמכים?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "אתם יכולים להעלות תמונות עד 16 MB לקובץ."
+        },
+  {
+          "@type": "Question",
+  "name": "אילו גדלי קבצים נתמכים?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "אתם יכולים להעלות תמונות עד 16 MB לקובץ."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "האם BMP תומך בשקיפות?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "BMP ב-24 סיביות סטנדרטי אינו כולל ערוץ אלפא. השתמשו ב-PNG עבור שקיפות."
+        },
+  {
+          "@type": "Question",
+  "name": "האם BMP תומך בשקיפות?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "BMP ב-24 סיביות סטנדרטי אינו כולל ערוץ אלפא. השתמשו ב-PNG עבור שקיפות."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "איך להמיר PNG ל-BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "איך להמיר PNG ל-BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "לחצו על העלאת PNG ובחרו את הקובץ שלכם."
 
-          "text": "לחצו על העלאת PNG ובחרו את הקובץ שלכם."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "חכו שהעיבוד יושלם."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "לחצו על הורדת BMP כדי לשמור את התמונה."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "חכו שהעיבוד יושלם."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "לחצו על הורדת BMP כדי לשמור את התמונה."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "ממיר PNG ל-BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

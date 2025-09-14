@@ -1,376 +1,282 @@
 {
-  "lang": "sr"
-
-  "lang_name": "Srpski"
-
-  "title": "JPG u PNG Konverter - Besplatno i Online | miconvert.com"
-
-  "sub_title": "Konvertujte JPG slike u PNG format online sa transparentnošću, visokom kvalitetom i bez vodenih žigova."
-
-  "hint": "Otpremite svoju JPG sliku da biste započeli konverziju..."
-
-  "btn_download": "Konvertuj u PNG"
-
-  "btn_paste": "Otpremi JPG"
-
-  "btn_clear": "Obriši"
-
+  "lang": "sr",
+  "lang_name": "Srpski",
+  "title": "JPG u PNG Konverter - Besplatno i Online | miconvert.com",
+  "sub_title": "Konvertujte JPG slike u PNG format online sa transparentnošću, visokom kvalitetom i bez vodenih žigova.",
+  "hint": "Otpremite svoju JPG sliku da biste započeli konverziju...",
+  "btn_download": "Konvertuj u PNG",
+  "btn_paste": "Otpremi JPG",
+  "btn_clear": "Obriši",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Tražite brz i pouzdan način da konvertujete <strong>JPG u PNG</strong>? Naš besplatni online JPG u PNG konverter pomaže vam da odmah transformišete svoje slike u PNG fajlove visoke kvalitete. Bilo da vam je potrebna transparentnost, bezgubitna kompresija ili kompatibilnost za dizajnerske projekte, ovaj alat je savršeno rešenje. Radi direktno u vašem pretraživaču, ne zahteva registraciju i čuva vaše fajlove sigurnim.</p><p>PNG format je idealan za profesionalnu upotrebu, posebno kada radite sa grafikom, logotipima ili slikama koje zahtevaju transparentnu pozadinu. Za razliku od JPG-a, koji koristi gubitničku kompresiju i može smanjiti kvalitet slike, PNG održava oštre detalje i podržava alfa transparentnost. Ako ste dizajner, student ili poslovni profesionalac, naš alat vam pruža jednostavan način da poboljšate svoj radni tok.</p>"
-
+  },
+  "description": "<p>Tražite brz i pouzdan način da konvertujete <strong>JPG u PNG</strong>? Naš besplatni online JPG u PNG konverter pomaže vam da odmah transformišete svoje slike u PNG fajlove visoke kvalitete. Bilo da vam je potrebna transparentnost, bezgubitna kompresija ili kompatibilnost za dizajnerske projekte, ovaj alat je savršeno rešenje. Radi direktno u vašem pretraživaču, ne zahteva registraciju i čuva vaše fajlove sigurnim.</p><p>PNG format je idealan za profesionalnu upotrebu, posebno kada radite sa grafikom, logotipima ili slikama koje zahtevaju transparentnu pozadinu. Za razliku od JPG-a, koji koristi gubitničku kompresiju i može smanjiti kvalitet slike, PNG održava oštre detalje i podržava alfa transparentnost. Ako ste dizajner, student ili poslovni profesionalac, naš alat vam pruža jednostavan način da poboljšate svoj radni tok.</p>",
   "head": {
-    "title": "Konvertujte JPG u PNG Online - Besplatni JPG u PNG Konverter | miconvert.com"
+    "title": "Konvertujte JPG u PNG Online - Besplatni JPG u PNG Konverter | miconvert.com",
+  "description": "Konvertujte JPG u PNG online sa podrškom za transparentnost, visokom kvalitetom i bez vodenih žigova. Besplatan, brz i siguran JPG u PNG konverter alat.",
+  "keywords": "jpg u png, konvertuj jpg u png, besplatno jpg u png, online jpg konverter, png sa transparentnošću",
+  "canonical": "https://miconvert.com/sr/convert/jpg-to-png",
+  "og_title": "JPG u PNG Konverter - Besplatno i Online",
+  "og_description": "Konvertujte JPG slike u PNG format sa transparentnošću i bezgubitnom kvalitetom. 100% besplatno, brzo i sigurno.",
+  "og_url": "https://miconvert.com/sr/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Konvertujte JPG u PNG online sa podrškom za transparentnost, visokom kvalitetom i bez vodenih žigova. Besplatan, brz i siguran JPG u PNG konverter alat."
-
-    "keywords": "jpg u png, konvertuj jpg u png, besplatno jpg u png, online jpg konverter, png sa transparentnošću"
-
-    "canonical": "https://miconvert.com/sr/convert/jpg-to-png"
-
-    "og_title": "JPG u PNG Konverter - Besplatno i Online"
-
-    "og_description": "Konvertujte JPG slike u PNG format sa transparentnošću i bezgubitnom kvalitetom. 100% besplatno, brzo i sigurno."
-
-    "og_url": "https://miconvert.com/sr/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertujte JPG u PNG Online"
+    "title": "Konvertujte JPG u PNG Online",
+  "description": "Besplatan i brz JPG u PNG konverter sa podrškom za transparentnost i bezgubitnom kvalitetom. Radi odmah na bilo kom uređaju, bez potrebe za registracijom."
 
-    "description": "Besplatan i brz JPG u PNG konverter sa podrškom za transparentnost i bezgubitnom kvalitetom. Radi odmah na bilo kom uređaju, bez potrebe za registracijom."
-
-  }
+  },
   "h2": [
     {
-      "title": "Zašto konvertovati JPG u PNG?"
+      "title": "Zašto konvertovati JPG u PNG?",
+  "description": "<p>Dok je JPG odličan za male veličine fajlova i online deljenje, dolazi sa kompresijom koja smanjuje kvalitet. PNG, s druge strane, je bezgubitni format koji čuva detalje i podržava transparentnost. Evo glavnih razloga za korišćenje našeg JPG u PNG konvertera:</p><ul><li><strong>Transparentnost:</strong> Kreirajte logotipe, ikone i slike bez pozadina.</li><li><strong>Bolje uređivanje:</strong> Idealno za dizajnerski softver kao što su Photoshop, Illustrator i Figma.</li><li><strong>Visok kvalitet:</strong> Održava oštrinu, jasnoću teksta i grafičke detalje.</li><li><strong>Kompatibilnost između platformi:</strong> PNG je široko podržan u pretraživačima, aplikacijama i operativnim sistemima.</li></ul>"
 
-      "description": "<p>Dok je JPG odličan za male veličine fajlova i online deljenje, dolazi sa kompresijom koja smanjuje kvalitet. PNG, s druge strane, je bezgubitni format koji čuva detalje i podržava transparentnost. Evo glavnih razloga za korišćenje našeg JPG u PNG konvertera:</p><ul><li><strong>Transparentnost:</strong> Kreirajte logotipe, ikone i slike bez pozadina.</li><li><strong>Bolje uređivanje:</strong> Idealno za dizajnerski softver kao što su Photoshop, Illustrator i Figma.</li><li><strong>Visok kvalitet:</strong> Održava oštrinu, jasnoću teksta i grafičke detalje.</li><li><strong>Kompatibilnost između platformi:</strong> PNG je široko podržan u pretraživačima, aplikacijama i operativnim sistemima.</li></ul>"
+    },
+  {
+      "title": "JPG vs PNG: Ključne razlike",
+  "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompresija</td><td>Gubitnička (manji, ali gubitak kvaliteta)</td><td>Bez gubitka (veći, ali oštar)</td></tr><tr><td>Transparentnost</td><td>Ne</td><td>Da (alfa kanal)</td></tr><tr><td>Najbolje za</td><td>Fotografije, društveno deljenje</td><td>Logotipi, UI, tekst, grafika</td></tr><tr><td>Uređivanje</td><td>Ponovno čuvanje smanjuje kvalitet</td><td>Stabilno tokom uređivanja</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG vs PNG: Ključne razlike"
+    },
+  {
+      "title": "Kako konvertovati JPG u PNG Online",
+  "description": "<p>Konvertovanje JPG u PNG sa našim alatom je jednostavno i traje samo nekoliko sekundi:</p><ol><li>Kliknite na <em>Otpremi JPG</em> i izaberite svoj fajl.</li><li>Sačekajte da se obrada završi.</li><li>Kliknite <em>Preuzmi PNG</em> da dobijete svoj novi fajl.</li></ol><p>Bez tehničkog znanja — sve se dešava u vašem pretraživaču.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompresija</td><td>Gubitnička (manji, ali gubitak kvaliteta)</td><td>Bez gubitka (veći, ali oštar)</td></tr><tr><td>Transparentnost</td><td>Ne</td><td>Da (alfa kanal)</td></tr><tr><td>Najbolje za</td><td>Fotografije, društveno deljenje</td><td>Logotipi, UI, tekst, grafika</td></tr><tr><td>Uređivanje</td><td>Ponovno čuvanje smanjuje kvalitet</td><td>Stabilno tokom uređivanja</td></tr></tbody></table>"
+    },
+  {
+      "title": "Podržani limiti i formati",
+  "description": "<ul><li><strong>Prihvaćeni ulazni tipovi:</strong> image/jpeg, image/jpg</li><li><strong>Maksimalna veličina fajla:</strong> do 16 MB po fajlu</li><li><strong>Izlaz:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitet:</strong> Bezgubitni PNG sa podesivim nivoom kompresije</li></ul>"
 
-    }
-    {
-      "title": "Kako konvertovati JPG u PNG Online"
+    },
+  {
+      "title": "Saveti za bolje rezultate",
+  "description": "<ul><li><strong>Koristite JPG-ove visoke rezolucije:</strong> Što je veća rezolucija vašeg JPG-a, to će vaš PNG bolje izgledati.</li><li><strong>Potrebna vam je transparentnost?</strong> Ako vaš JPG ima pozadinu, prvo koristite naš <a href='/sr/effect/remove-background'>Alat za uklanjanje pozadine</a>.</li><li><strong>Optimizujte veličinu fajla:</strong> Nakon konverzije, koristite naš <a href='/sr/edit/compress-image'>Alat za kompresiju slika</a> da smanjite veličinu PNG-a dok zadržavate kvalitet.</li><li><strong>Za web:</strong> Razmislite o konverziji PNG-a u <a href='/sr/convert/png-to-webp'>WebP</a> za brže učitavanje.</li></ul>"
 
-      "description": "<p>Konvertovanje JPG u PNG sa našim alatom je jednostavno i traje samo nekoliko sekundi:</p><ol><li>Kliknite na <em>Otpremi JPG</em> i izaberite svoj fajl.</li><li>Sačekajte da se obrada završi.</li><li>Kliknite <em>Preuzmi PNG</em> da dobijete svoj novi fajl.</li></ol><p>Bez tehničkog znanja — sve se dešava u vašem pretraživaču.</p>"
+    },
+  {
+      "title": "Rešavanje problema",
+  "description": "<ul><li><strong>Otpremanje ne uspeva:</strong> Uverite se da je vaš fajl JPG/JPEG i ≤ 16 MB.</li><li><strong>Nema transparentnosti:</strong> PNG čuva transparentnost, ali ne može da je izvuče iz ravne fotografije — prvo uklonite pozadinu.</li><li><strong>Veliki PNG izlaz:</strong> Koristite <a href='/sr/edit/compress-image'>Alat za kompresiju slika</a> ili pređite na <a href='/sr/convert/png-to-webp'>WebP</a>.</li></ul>"
 
-    }
-    {
-      "title": "Podržani limiti i formati"
+    },
+  {
+      "title": "Karakteristike našeg JPG u PNG konvertera",
+  "description": "<ul><li>Besplatno bez vodenih žigova</li><li>Brza obrada u vašem pretraživaču</li><li>Sigurno rukovanje — bez potrebe za nalogom</li><li>Čist UI, prilagođen mobilnim uređajima</li></ul>"
 
-      "description": "<ul><li><strong>Prihvaćeni ulazni tipovi:</strong> image/jpeg, image/jpg</li><li><strong>Maksimalna veličina fajla:</strong> do 16 MB po fajlu</li><li><strong>Izlaz:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitet:</strong> Bezgubitni PNG sa podesivim nivoom kompresije</li></ul>"
-
-    }
-    {
-      "title": "Saveti za bolje rezultate"
-
-      "description": "<ul><li><strong>Koristite JPG-ove visoke rezolucije:</strong> Što je veća rezolucija vašeg JPG-a, to će vaš PNG bolje izgledati.</li><li><strong>Potrebna vam je transparentnost?</strong> Ako vaš JPG ima pozadinu, prvo koristite naš <a href='/sr/effect/remove-background'>Alat za uklanjanje pozadine</a>.</li><li><strong>Optimizujte veličinu fajla:</strong> Nakon konverzije, koristite naš <a href='/sr/edit/compress-image'>Alat za kompresiju slika</a> da smanjite veličinu PNG-a dok zadržavate kvalitet.</li><li><strong>Za web:</strong> Razmislite o konverziji PNG-a u <a href='/sr/convert/png-to-webp'>WebP</a> za brže učitavanje.</li></ul>"
-
-    }
-    {
-      "title": "Rešavanje problema"
-
-      "description": "<ul><li><strong>Otpremanje ne uspeva:</strong> Uverite se da je vaš fajl JPG/JPEG i ≤ 16 MB.</li><li><strong>Nema transparentnosti:</strong> PNG čuva transparentnost, ali ne može da je izvuče iz ravne fotografije — prvo uklonite pozadinu.</li><li><strong>Veliki PNG izlaz:</strong> Koristite <a href='/sr/edit/compress-image'>Alat za kompresiju slika</a> ili pređite na <a href='/sr/convert/png-to-webp'>WebP</a>.</li></ul>"
-
-    }
-    {
-      "title": "Karakteristike našeg JPG u PNG konvertera"
-
-      "description": "<ul><li>Besplatno bez vodenih žigova</li><li>Brza obrada u vašem pretraživaču</li><li>Sigurno rukovanje — bez potrebe za nalogom</li><li>Čist UI, prilagođen mobilnim uređajima</li></ul>"
+    },
+  {
+      "title": "Povezani konverteri",
+  "description": "<ul class='related-links'><li><a href='/sr/convert/png-to-jpg'>PNG u JPG</a></li><li><a href='/sr/convert/jpg-to-webp'>JPG u WebP</a></li><li><a href='/sr/convert/png-to-webp'>PNG u WebP</a></li><li><a href='/sr/convert/webp-to-png'>WebP u PNG</a></li></ul>"
 
     }
-    {
-      "title": "Povezani konverteri"
-
-      "description": "<ul class='related-links'><li><a href='/sr/convert/png-to-jpg'>PNG u JPG</a></li><li><a href='/sr/convert/jpg-to-webp'>JPG u WebP</a></li><li><a href='/sr/convert/png-to-webp'>PNG u WebP</a></li><li><a href='/sr/convert/webp-to-png'>WebP u PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Da li je ovaj JPG u PNG konverter besplatan?"
+      "question": "Da li je ovaj JPG u PNG konverter besplatan?",
+  "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
-      "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+    },
+  {
+      "question": "Da li PNG podržava transparentnost?",
+  "answer": "Da, PNG omogućava transparentne pozadine, što ga čini savršenim za logotipe, ikone i profesionalne dizajne."
 
-    }
-    {
-      "question": "Da li PNG podržava transparentnost?"
+    },
+  {
+      "question": "Da li će slika izgubiti kvalitet tokom konverzije?",
+  "answer": "Ne. Za razliku od JPG-a, PNG koristi bezgubitnu kompresiju, tako da vaše konvertovane slike zadržavaju svoj originalni kvalitet."
 
-      "answer": "Da, PNG omogućava transparentne pozadine, što ga čini savršenim za logotipe, ikone i profesionalne dizajne."
+    },
+  {
+      "question": "Koje veličine fajlova su podržane?",
+  "answer": "Možete otpremiti slike do 16 MB po fajlu. Ako je potrebno, kompresujte velike JPG-ove pre konverzije."
 
-    }
-    {
-      "question": "Da li će slika izgubiti kvalitet tokom konverzije?"
+    },
+  {
+      "question": "Da li su moji fajlovi sigurni?",
+  "answer": "Vaši fajlovi se obrađuju automatski i ne čuvaju se duže nego što je potrebno za konverziju."
 
-      "answer": "Ne. Za razliku od JPG-a, PNG koristi bezgubitnu kompresiju, tako da vaše konvertovane slike zadržavaju svoj originalni kvalitet."
+    },
+  {
+      "question": "Mogu li konvertovati više JPG-ova odjednom?",
+  "answer": "Ova stranica konvertuje jedan fajl u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
 
-    }
-    {
-      "question": "Koje veličine fajlova su podržane?"
-
-      "answer": "Možete otpremiti slike do 16 MB po fajlu. Ako je potrebno, kompresujte velike JPG-ove pre konverzije."
-
-    }
-    {
-      "question": "Da li su moji fajlovi sigurni?"
-
-      "answer": "Vaši fajlovi se obrađuju automatski i ne čuvaju se duže nego što je potrebno za konverziju."
-
-    }
-    {
-      "question": "Mogu li konvertovati više JPG-ova odjednom?"
-
-      "answer": "Ova stranica konvertuje jedan fajl u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
-
-    }
-    {
-      "question": "Mogu li koristiti ovaj alat na svom telefonu?"
-
-      "answer": "Apsolutno. Konverter je optimizovan za mobilne uređaje i radi na iOS i Android pretraživačima."
+    },
+  {
+      "question": "Mogu li koristiti ovaj alat na svom telefonu?",
+  "answer": "Apsolutno. Konverter je optimizovan za mobilne uređaje i radi na iOS i Android pretraživačima."
 
     }
-  ]
-  "note": "Odricanje: Kvalitet konverzije zavisi od rezolucije ulaznog fajla. Uvek čuvajte kopiju svojih originalnih fajlova pre uređivanja ili konverzije."
-
-  "footer": "© 2019 - 2025 miconvert.com. Sva prava zadržana."
-
+  ],
+  "note": "Odricanje: Kvalitet konverzije zavisi od rezolucije ulaznog fajla. Uvek čuvajte kopiju svojih originalnih fajlova pre uređivanja ili konverzije.",
+  "footer": "© 2019 - 2025 miconvert.com. Sva prava zadržana.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG u PNG Konverter - Besplatno i Online"
-
-      "url": "https://miconvert.com/sr/convert/jpg-to-png"
-
-      "description": "Besplatan online alat za konvertovanje JPG slika u PNG sa podrškom za transparentnost i bezgubitnom kvalitetom."
-
-      "inLanguage": "sr"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG u PNG Konverter - Besplatno i Online",
+  "url": "https://miconvert.com/sr/convert/jpg-to-png",
+  "description": "Besplatan online alat za konvertovanje JPG slika u PNG sa podrškom za transparentnost i bezgubitnom kvalitetom.",
+  "inLanguage": "sr",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Početna",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Početna"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertuj",
+  "item": "https://miconvert.com/sr/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertuj"
-
-          "item": "https://miconvert.com/sr/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG u PNG"
-
-          "item": "https://miconvert.com/sr/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG u PNG",
+  "item": "https://miconvert.com/sr/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG u PNG Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sr/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Bez gubitka PNG izlaz",
+  "Podrška za transparentnost",
+  "Brza obrada u pretraživaču"
 
-      "name": "JPG u PNG Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sr/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Bez gubitka PNG izlaz"
-
-        "Podrška za transparentnost"
-
-        "Brza obrada u pretraživaču"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Da li je ovaj JPG u PNG konverter besplatan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+          "@type": "Question",
+  "name": "Da li je ovaj JPG u PNG konverter besplatan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Da li PNG podržava transparentnost?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, PNG omogućava transparentne pozadine, što ga čini savršenim za logotipe, ikone i profesionalne dizajne."
+        },
+  {
+          "@type": "Question",
+  "name": "Da li PNG podržava transparentnost?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, PNG omogućava transparentne pozadine, što ga čini savršenim za logotipe, ikone i profesionalne dizajne."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Da li će slika izgubiti kvalitet tokom konverzije?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ne. Za razliku od JPG-a, PNG koristi bezgubitnu kompresiju, tako da vaše konvertovane slike zadržavaju svoj originalni kvalitet."
+        },
+  {
+          "@type": "Question",
+  "name": "Da li će slika izgubiti kvalitet tokom konverzije?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ne. Za razliku od JPG-a, PNG koristi bezgubitnu kompresiju, tako da vaše konvertovane slike zadržavaju svoj originalni kvalitet."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Koje veličine fajlova su podržane?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Možete otpremiti slike do 16 MB po fajlu. Ako je potrebno, kompresujte velike JPG-ove pre konverzije."
+        },
+  {
+          "@type": "Question",
+  "name": "Koje veličine fajlova su podržane?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Možete otpremiti slike do 16 MB po fajlu. Ako je potrebno, kompresujte velike JPG-ove pre konverzije."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Da li su moji fajlovi sigurni?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Vaši fajlovi se obrađuju automatski i ne čuvaju se duže nego što je potrebno za konverziju."
+        },
+  {
+          "@type": "Question",
+  "name": "Da li su moji fajlovi sigurni?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Vaši fajlovi se obrađuju automatski i ne čuvaju se duže nego što je potrebno za konverziju."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Mogu li konvertovati više JPG-ova odjednom?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ova stranica konvertuje jedan fajl u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
+        },
+  {
+          "@type": "Question",
+  "name": "Mogu li konvertovati više JPG-ova odjednom?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ova stranica konvertuje jedan fajl u isto vreme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako konvertovati JPG u PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kako konvertovati JPG u PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknite na Otpremi JPG i izaberite svoju sliku."
 
-          "text": "Kliknite na Otpremi JPG i izaberite svoju sliku."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Sačekajte da se obrada završi."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknite na Preuzmi PNG da sačuvate rezultat."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Sačekajte da se obrada završi."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknite na Preuzmi PNG da sačuvate rezultat."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG u PNG Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

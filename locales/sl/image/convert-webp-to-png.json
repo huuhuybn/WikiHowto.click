@@ -1,354 +1,267 @@
 {
-  "lang": "sl"
-
-  "lang_name": "Slovenščina"
-
-  "title": "Pretvornik WebP v PNG - Brezplačno in Spletno | miconvert.com"
-
-  "sub_title": "Pretvorite WebP slike v PNG format na spletu s podporo za prosojnost, brez izgub kakovosti in brez vodnih žigov."
-
-  "hint": "Naložite svojo WebP sliko, da začnete s pretvorbo..."
-
-  "btn_download": "Pretvori v PNG"
-
-  "btn_paste": "Naloži WebP"
-
-  "btn_clear": "Počisti"
-
-  "ogImage": "https://miconvert.com/images/webp-to-png.jpg"
-
+  "lang": "sl",
+  "lang_name": "Slovenščina",
+  "title": "Pretvornik WebP v PNG - Brezplačno in Spletno | miconvert.com",
+  "sub_title": "Pretvorite WebP slike v PNG format na spletu s podporo za prosojnost, brez izgub kakovosti in brez vodnih žigov.",
+  "hint": "Naložite svojo WebP sliko, da začnete s pretvorbo...",
+  "btn_download": "Pretvori v PNG",
+  "btn_paste": "Naloži WebP",
+  "btn_clear": "Počisti",
+  "ogImage": "https://miconvert.com/images/webp-to-png.jpg",
   "converter": {
-    "type": "webp-to-png"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "webp-to-png",
+  "inputFormat": "WebP",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/webp"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Potrebujete <strong>pretvoriti WebP v PNG</strong>? Ta brezplačno spletno orodje pretvarja moderne WebP datoteke v visokokakovostne PNG-je, pri čemer ohranja <strong>prosojnost (alfa)</strong>. PNG uporablja brezizgubno stiskanje in je široko podprt v aplikacijah in platformah—popoln za logotipe, UI elemente in dokumente.</p><p><em>Opombe:</em> JPG ne podpira prosojnosti (PNG jo). Če je vaš WebP animiran, bo le <strong>prvi okvir</strong> pretvorjen v statični PNG. Barve so pretvorjene v sRGB za spletno doslednost.</p>"
-
+  },
+  "description": "<p>Potrebujete <strong>pretvoriti WebP v PNG</strong>? Ta brezplačno spletno orodje pretvarja moderne WebP datoteke v visokokakovostne PNG-je, pri čemer ohranja <strong>prosojnost (alfa)</strong>. PNG uporablja brezizgubno stiskanje in je široko podprt v aplikacijah in platformah—popoln za logotipe, UI elemente in dokumente.</p><p><em>Opombe:</em> JPG ne podpira prosojnosti (PNG jo). Če je vaš WebP animiran, bo le <strong>prvi okvir</strong> pretvorjen v statični PNG. Barve so pretvorjene v sRGB za spletno doslednost.</p>",
   "head": {
-    "title": "Pretvorite WebP v PNG na spletu - Brezplačen pretvornik WebP v PNG | miconvert.com"
+    "title": "Pretvorite WebP v PNG na spletu - Brezplačen pretvornik WebP v PNG | miconvert.com",
+  "description": "Pretvorite WebP v PNG na spletu s podporo za prosojnost, brezizgubno kakovost in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo WebP v PNG.",
+  "keywords": "webp v png, pretvori webp v png, brezplačen webp v png, spletni webp pretvornik, spremeni webp v png, webp slika v png",
+  "canonical": "https://miconvert.com/sl/convert/webp-to-png",
+  "og_title": "Pretvornik WebP v PNG - Brezplačno in Spletno",
+  "og_description": "Pretvorite WebP slike v PNG format s podporo za prosojnost in brezizgubno kakovost. 100% brezplačno, hitro in varno.",
+  "og_url": "https://miconvert.com/sl/convert/webp-to-png",
+  "og_image": "https://miconvert.com/images/webp-to-png.jpg"
 
-    "description": "Pretvorite WebP v PNG na spletu s podporo za prosojnost, brezizgubno kakovost in brez vodnih žigov. Brezplačno, hitro in varno orodje za pretvorbo WebP v PNG."
-
-    "keywords": "webp v png, pretvori webp v png, brezplačen webp v png, spletni webp pretvornik, spremeni webp v png, webp slika v png"
-
-    "canonical": "https://miconvert.com/sl/convert/webp-to-png"
-
-    "og_title": "Pretvornik WebP v PNG - Brezplačno in Spletno"
-
-    "og_description": "Pretvorite WebP slike v PNG format s podporo za prosojnost in brezizgubno kakovost. 100% brezplačno, hitro in varno."
-
-    "og_url": "https://miconvert.com/sl/convert/webp-to-png"
-
-    "og_image": "https://miconvert.com/images/webp-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Pretvorite WebP v PNG na spletu"
+    "title": "Pretvorite WebP v PNG na spletu",
+  "description": "Brezplačen in hiter pretvornik WebP v PNG s podporo za prosojnost in brezizgubno kakovost. Deluje takoj na kateri koli napravi, brez potrebe po registraciji."
 
-    "description": "Brezplačen in hiter pretvornik WebP v PNG s podporo za prosojnost in brezizgubno kakovost. Deluje takoj na kateri koli napravi, brez potrebe po registraciji."
-
-  }
+  },
   "h2": [
     {
-      "title": "Zakaj pretvoriti WebP v PNG?"
+      "title": "Zakaj pretvoriti WebP v PNG?",
+  "description": "<p>WebP je učinkovit za splet, vendar PNG ponuja največjo združljivost in brezizgubni izhod:</p><ul><li><strong>Univerzalna združljivost:</strong> Deluje na Windows, macOS, Linux, iOS in Android.</li><li><strong>Prosojnost:</strong> Idealno za logotipe, ikone in grafike UI.</li><li><strong>Urejanje in oblikovanje:</strong> Prednost dajejo Photoshop, Illustrator, Figma in drugi.</li><li><strong>Dokumenti:</strong> Vstavite PNG v Word, PowerPoint in PDF brez presenečenj.</li></ul>"
 
-      "description": "<p>WebP je učinkovit za splet, vendar PNG ponuja največjo združljivost in brezizgubni izhod:</p><ul><li><strong>Univerzalna združljivost:</strong> Deluje na Windows, macOS, Linux, iOS in Android.</li><li><strong>Prosojnost:</strong> Idealno za logotipe, ikone in grafike UI.</li><li><strong>Urejanje in oblikovanje:</strong> Prednost dajejo Photoshop, Illustrator, Figma in drugi.</li><li><strong>Dokumenti:</strong> Vstavite PNG v Word, PowerPoint in PDF brez presenečenj.</li></ul>"
+    },
+  {
+      "title": "Kako pretvoriti WebP v PNG na spletu",
+  "description": "<ol><li>Kliknite <em>Naloži WebP</em> in izberite svojo datoteko.</li><li>Čakajte kratek čas, medtem ko jo varno obdelujemo.</li><li>Kliknite <em>Prenesi PNG</em>, da shranite svojo sliko.</li></ol><p>Ta stran pretvarja <strong>eno datoteko naenkrat</strong>, da zagotovi zanesljivost in hitrost.</p>"
 
-    }
-    {
-      "title": "Kako pretvoriti WebP v PNG na spletu"
+    },
+  {
+      "title": "Primerjava WebP in PNG",
+  "description": "<ul><li><strong>Velikost datoteke:</strong> WebP je običajno 30–50% manjši; PNG je večji, vendar brezizguben.</li><li><strong>Prosojnost:</strong> Obe podpirata alfa; PNG je profesionalni standard.</li><li><strong>Urejanje:</strong> PNG se brez težav integrira z večino orodij za oblikovanje.</li><li><strong>Uporaba:</strong> WebP za spletne strani; PNG za aplikacije, dokumente in delovne tokove oblikovanja.</li></ul>"
 
-      "description": "<ol><li>Kliknite <em>Naloži WebP</em> in izberite svojo datoteko.</li><li>Čakajte kratek čas, medtem ko jo varno obdelujemo.</li><li>Kliknite <em>Prenesi PNG</em>, da shranite svojo sliko.</li></ol><p>Ta stran pretvarja <strong>eno datoteko naenkrat</strong>, da zagotovi zanesljivost in hitrost.</p>"
+    },
+  {
+      "title": "Podprte omejitve in formati",
+  "description": "<ul><li><strong>Sprejete vhodne datoteke:</strong> WebP (<code>image/webp</code>)</li><li><strong>Največja velikost datoteke:</strong> 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animacija:</strong> Le prvi okvir</li></ul>"
 
-    }
-    {
-      "title": "Primerjava WebP in PNG"
+    },
+  {
+      "title": "Odpravljanje težav",
+  "description": "<ul><li><strong>Še vedno preveliko?</strong> Uporabite <a href='/sl/edit/compress-image'>PNG stiskalnik</a> ali spremenite velikost pred pretvorbo.</li><li><strong>Barve izgledajo narobe:</strong> Izhod je pretvorjen v sRGB za dosledno prikazovanje.</li><li><strong>Nalaganje ni uspelo:</strong> Prepričajte se, da je datoteka <code>image/webp</code> in ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<ul><li><strong>Velikost datoteke:</strong> WebP je običajno 30–50% manjši; PNG je večji, vendar brezizguben.</li><li><strong>Prosojnost:</strong> Obe podpirata alfa; PNG je profesionalni standard.</li><li><strong>Urejanje:</strong> PNG se brez težav integrira z večino orodij za oblikovanje.</li><li><strong>Uporaba:</strong> WebP za spletne strani; PNG za aplikacije, dokumente in delovne tokove oblikovanja.</li></ul>"
-
-    }
-    {
-      "title": "Podprte omejitve in formati"
-
-      "description": "<ul><li><strong>Sprejete vhodne datoteke:</strong> WebP (<code>image/webp</code>)</li><li><strong>Največja velikost datoteke:</strong> 16&nbsp;MB na datoteko</li><li><strong>Izhod:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li><li><strong>Animacija:</strong> Le prvi okvir</li></ul>"
-
-    }
-    {
-      "title": "Odpravljanje težav"
-
-      "description": "<ul><li><strong>Še vedno preveliko?</strong> Uporabite <a href='/sl/edit/compress-image'>PNG stiskalnik</a> ali spremenite velikost pred pretvorbo.</li><li><strong>Barve izgledajo narobe:</strong> Izhod je pretvorjen v sRGB za dosledno prikazovanje.</li><li><strong>Nalaganje ni uspelo:</strong> Prepričajte se, da je datoteka <code>image/webp</code> in ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "Sorodna orodja, ki jih morda potrebujete"
-
-      "description": "<ul><li><a href='/sl/convert/png-to-webp'>Pretvornik PNG v WebP</a> – zmanjšajte velikost datoteke za hitrejše strani</li><li><a href='/sl/edit/compress-image'>PNG stiskalnik</a> – zmanjšajte velikost PNG z nadzorom kakovosti</li><li><a href='/sl/effect/remove-background'>Odstrani ozadje</a> – hitro naredite PNG prosojen</li><li><a href='/sl/convert/jpg-to-png'>Pretvornik JPG v PNG</a> – spremenite druge formate v PNG</li></ul>"
+    },
+  {
+      "title": "Sorodna orodja, ki jih morda potrebujete",
+  "description": "<ul><li><a href='/sl/convert/png-to-webp'>Pretvornik PNG v WebP</a> – zmanjšajte velikost datoteke za hitrejše strani</li><li><a href='/sl/edit/compress-image'>PNG stiskalnik</a> – zmanjšajte velikost PNG z nadzorom kakovosti</li><li><a href='/sl/effect/remove-background'>Odstrani ozadje</a> – hitro naredite PNG prosojen</li><li><a href='/sl/convert/jpg-to-png'>Pretvornik JPG v PNG</a> – spremenite druge formate v PNG</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ali je ta pretvornik WebP v PNG brezplačen?"
+      "question": "Ali je ta pretvornik WebP v PNG brezplačen?",
+  "answer": "Da, je popolnoma brezplačen, brez vodnih žigov ali skritih stroškov."
 
-      "answer": "Da, je popolnoma brezplačen, brez vodnih žigov ali skritih stroškov."
+    },
+  {
+      "question": "Ali bo prosojnost ohranjena?",
+  "answer": "Da. PNG popolnoma podpira alfa prosojnost in jo ohranjamo nedotaknjeno."
 
-    }
-    {
-      "question": "Ali bo prosojnost ohranjena?"
+    },
+  {
+      "question": "Ali pretvorba zmanjša kakovost?",
+  "answer": "Ne. PNG uporablja brezizgubno stiskanje, tako da ohranite izvorne vizualne podrobnosti."
 
-      "answer": "Da. PNG popolnoma podpira alfa prosojnost in jo ohranjamo nedotaknjeno."
+    },
+  {
+      "question": "Ali podpirate animirani WebP?",
+  "answer": "Animirani WebP se pretvori v statični PNG z uporabo prvega okvirja."
 
-    }
-    {
-      "question": "Ali pretvorba zmanjša kakovost?"
+    },
+  {
+      "question": "Kakšna je največja velikost datoteke?",
+  "answer": "Do 16 MB na datoteko."
 
-      "answer": "Ne. PNG uporablja brezizgubno stiskanje, tako da ohranite izvorne vizualne podrobnosti."
+    },
+  {
+      "question": "Ali lahko pretvorim več datotek hkrati?",
+  "answer": "Ta stran pretvarja eno datoteko naenkrat za stabilnost. Postopek ponovite za dodatne slike."
 
-    }
-    {
-      "question": "Ali podpirate animirani WebP?"
-
-      "answer": "Animirani WebP se pretvori v statični PNG z uporabo prvega okvirja."
-
-    }
-    {
-      "question": "Kakšna je največja velikost datoteke?"
-
-      "answer": "Do 16 MB na datoteko."
-
-    }
-    {
-      "question": "Ali lahko pretvorim več datotek hkrati?"
-
-      "answer": "Ta stran pretvarja eno datoteko naenkrat za stabilnost. Postopek ponovite za dodatne slike."
-
-    }
-    {
-      "question": "Ali so moje datoteke varne?"
-
-      "answer": "Da. Naložene datoteke so šifrirane, obdelane na varnih strežnikih in samodejno izbrisane po pretvorbi."
+    },
+  {
+      "question": "Ali so moje datoteke varne?",
+  "answer": "Da. Naložene datoteke so šifrirane, obdelane na varnih strežnikih in samodejno izbrisane po pretvorbi."
 
     }
-  ]
-  "note": "PNG datoteke so lahko večje od WebP zaradi brezizgubnega stiskanja—to je normalno in ohranja največjo kakovost."
-
+  ],
+  "note": "PNG datoteke so lahko večje od WebP zaradi brezizgubnega stiskanja—to je normalno in ohranja največjo kakovost.",
   "related_links": [
     {
-      "title": "Pretvori WebP v JPG"
+      "title": "Pretvori WebP v JPG",
+  "url": "/sl/convert/webp-to-jpg"
 
-      "url": "/sl/convert/webp-to-jpg"
+    },
+  {
+      "title": "Pretvori WebP v AVIF",
+  "url": "/sl/convert/webp-to-avif"
 
-    }
-    {
-      "title": "Pretvori WebP v AVIF"
+    },
+  {
+      "title": "Pretvori PNG v WebP",
+  "url": "/sl/convert/png-to-webp"
 
-      "url": "/sl/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Pretvori PNG v WebP"
-
-      "url": "/sl/convert/png-to-webp"
-
-    }
-    {
-      "title": "Stisni PNG na spletu"
-
-      "url": "/sl/edit/compress-image"
+    },
+  {
+      "title": "Stisni PNG na spletu",
+  "url": "/sl/edit/compress-image"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Vse pravice pridržane.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Pretvornik WebP v PNG - Brezplačno in Spletno"
-
-      "url": "https://miconvert.com/sl/convert/webp-to-png"
-
-      "description": "Brezplačno spletno orodje za pretvorbo WebP slik v PNG s ohranjeno prosojnostjo."
-
-      "inLanguage": "sl"
-
-      "image": "https://miconvert.com/images/webp-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Pretvornik WebP v PNG - Brezplačno in Spletno",
+  "url": "https://miconvert.com/sl/convert/webp-to-png",
+  "description": "Brezplačno spletno orodje za pretvorbo WebP slik v PNG s ohranjeno prosojnostjo.",
+  "inLanguage": "sl",
+  "image": "https://miconvert.com/images/webp-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Domov",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Domov"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Pretvori",
+  "item": "https://miconvert.com/sl/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Pretvori"
-
-          "item": "https://miconvert.com/sl/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP v PNG"
-
-          "item": "https://miconvert.com/sl/convert/webp-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "WebP v PNG",
+  "item": "https://miconvert.com/sl/convert/webp-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Pretvornik WebP v PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sl/convert/webp-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Ohranjena prosojnost",
+  "Brezizgubni izhod",
+  "Hitro obdelovanje"
 
-      "name": "Pretvornik WebP v PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sl/convert/webp-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Ohranjena prosojnost"
-
-        "Brezizgubni izhod"
-
-        "Hitro obdelovanje"
-
-      ]
-      "screenshot": "https://miconvert.com/images/webp-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ali bo prosojnost ohranjena?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, PNG popolnoma podpira alfa prosojnost in pretvornik jo ohranja nedotaknjeno."
+          "@type": "Question",
+  "name": "Ali bo prosojnost ohranjena?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, PNG popolnoma podpira alfa prosojnost in pretvornik jo ohranja nedotaknjeno."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ali podpirate animirani WebP?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Animirani WebP se pretvori v statični PNG z uporabo prvega okvirja."
+        },
+  {
+          "@type": "Question",
+  "name": "Ali podpirate animirani WebP?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Animirani WebP se pretvori v statični PNG z uporabo prvega okvirja."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kakšna je največja velikost datoteke?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Do 16 MB na datoteko."
+        },
+  {
+          "@type": "Question",
+  "name": "Kakšna je največja velikost datoteke?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Do 16 MB na datoteko."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako pretvoriti WebP v PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kako pretvoriti WebP v PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknite Naloži WebP in izberite svojo datoteko."
 
-          "text": "Kliknite Naloži WebP in izberite svojo datoteko."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Počakajte, da se varna obdelava konča."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknite Prenesi PNG, da shranite svojo sliko."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Počakajte, da se varna obdelava konča."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Prenesi PNG, da shranite svojo sliko."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Pretvornik WebP v PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

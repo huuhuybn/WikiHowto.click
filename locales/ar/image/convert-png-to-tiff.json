@@ -1,367 +1,274 @@
 {
-  "lang": "ar"
-
-  "lang_name": "العربية"
-
-  "title": "محول PNG إلى TIFF - مجاني وعبر الإنترنت | miconvert.com"
-
-  "sub_title": "قم بتحويل صور PNG إلى TIFF عبر الإنترنت مع خيارات بدون فقدان وجودة جاهزة للطباعة وشفافية محفوظة. بدون علامات مائية."
-
-  "hint": "قم بتحميل صورة PNG الخاصة بك لبدء التحويل..."
-
-  "btn_download": "تحويل إلى TIFF"
-
-  "btn_paste": "تحميل PNG"
-
-  "btn_clear": "مسح"
-
-  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
-
+  "lang": "ar",
+  "lang_name": "العربية",
+  "title": "محول PNG إلى TIFF - مجاني وعبر الإنترنت | miconvert.com",
+  "sub_title": "قم بتحويل صور PNG إلى TIFF عبر الإنترنت مع خيارات بدون فقدان وجودة جاهزة للطباعة وشفافية محفوظة. بدون علامات مائية.",
+  "hint": "قم بتحميل صورة PNG الخاصة بك لبدء التحويل...",
+  "btn_download": "تحويل إلى TIFF",
+  "btn_paste": "تحميل PNG",
+  "btn_clear": "مسح",
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg",
   "head": {
-    "title": "تحويل PNG إلى TIFF - محول PNG إلى TIFF مجاني عبر الإنترنت | miconvert.com"
+    "title": "تحويل PNG إلى TIFF - محول PNG إلى TIFF مجاني عبر الإنترنت | miconvert.com",
+  "description": "قم بتحويل صور PNG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل PNG إلى TIFF عالي الجودة مع خيارات بدون فقدان ومعالجة سريعة.",
+  "keywords": "png إلى tiff، تحويل png إلى tiff، png إلى tiff مجاني، محول tiff عبر الإنترنت، تحويل الصور",
+  "canonical": "https://miconvert.com/ar/convert/png-to-tiff",
+  "og_title": "تحويل PNG إلى TIFF - محول PNG إلى TIFF مجاني عبر الإنترنت",
+  "og_description": "قم بتحويل صور PNG إلى TIFF مع خيارات ضغط بدون فقدان وشفافية محفوظة. مجاني وسريع وآمن.",
+  "og_url": "https://miconvert.com/ar/convert/png-to-tiff",
+  "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
 
-    "description": "قم بتحويل صور PNG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل PNG إلى TIFF عالي الجودة مع خيارات بدون فقدان ومعالجة سريعة."
-
-    "keywords": "png إلى tiff، تحويل png إلى tiff، png إلى tiff مجاني، محول tiff عبر الإنترنت، تحويل الصور"
-
-    "canonical": "https://miconvert.com/ar/convert/png-to-tiff"
-
-    "og_title": "تحويل PNG إلى TIFF - محول PNG إلى TIFF مجاني عبر الإنترنت"
-
-    "og_description": "قم بتحويل صور PNG إلى TIFF مع خيارات ضغط بدون فقدان وشفافية محفوظة. مجاني وسريع وآمن."
-
-    "og_url": "https://miconvert.com/ar/convert/png-to-tiff"
-
-    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "تحويل PNG إلى TIFF عبر الإنترنت"
+    "title": "تحويل PNG إلى TIFF عبر الإنترنت",
+  "description": "محول PNG إلى TIFF مجاني مع خيارات ضغط بدون فقدان ومخرجات جاهزة للطباعة. يعمل على أي جهاز - لا حاجة للتسجيل."
 
-    "description": "محول PNG إلى TIFF مجاني مع خيارات ضغط بدون فقدان ومخرجات جاهزة للطباعة. يعمل على أي جهاز - لا حاجة للتسجيل."
-
-  }
+  },
   "converter": {
-    "type": "png-to-tiff"
-
-    "title": "محول PNG إلى TIFF"
-
-    "description": "قم بتحويل صور PNG إلى TIFF مع ضغط بدون فقدان LZW/ZIP مع الحفاظ على شفافية ألفا."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "png-to-tiff",
+  "title": "محول PNG إلى TIFF",
+  "description": "قم بتحويل صور PNG إلى TIFF مع ضغط بدون فقدان LZW/ZIP مع الحفاظ على شفافية ألفا.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "خيار TIFF بدون فقدان (LZW/ZIP)",
+  "يحافظ على الشفافية (ألفا)",
+  "جودة جاهزة للطباعة",
+  "أداة مجانية عبر الإنترنت"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "خيار TIFF بدون فقدان (LZW/ZIP)"
-
-      "يحافظ على الشفافية (ألفا)"
-
-      "جودة جاهزة للطباعة"
-
-      "أداة مجانية عبر الإنترنت"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 32
-        "alpha": true
-        "dpi": 300
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 32,
+  "alpha": true,
+  "dpi": 300
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "اكتمل تحويل PNG إلى TIFF"
+    "title": "اكتمل تحويل PNG إلى TIFF",
+  "back_button": "العودة إلى المحول",
+  "convert_another": "تحويل PNG آخر",
+  "quick_conversions": "تحويلات سريعة:"
 
-    "back_button": "العودة إلى المحول"
-
-    "convert_another": "تحويل PNG آخر"
-
-    "quick_conversions": "تحويلات سريعة:"
-
-  }
+  },
   "h2": [
     {
-      "title": "لماذا تحويل PNG إلى TIFF؟"
+      "title": "لماذا تحويل PNG إلى TIFF؟",
+  "description": "<p>TIFF هو تنسيق احترافي من الدرجة الأرشيفية يستخدم في التصوير والطباعة:</p><ul><li><strong>خيارات بدون فقدان:</strong> احتفظ بنسخة نظيفة دون إدخال عيوب جديدة.</li><li><strong>جاهز للطباعة:</strong> رائع للإخراج عالي الدقة وعمليات ما قبل الطباعة.</li><li><strong>دعم ألفا:</strong> يمكن أن يحافظ على الشفافية (يعتمد على القارئ).</li><li><strong>سهل التحرير:</strong> مستقر للحفظ المتكرر والتسليم.</li></ul>"
 
-      "description": "<p>TIFF هو تنسيق احترافي من الدرجة الأرشيفية يستخدم في التصوير والطباعة:</p><ul><li><strong>خيارات بدون فقدان:</strong> احتفظ بنسخة نظيفة دون إدخال عيوب جديدة.</li><li><strong>جاهز للطباعة:</strong> رائع للإخراج عالي الدقة وعمليات ما قبل الطباعة.</li><li><strong>دعم ألفا:</strong> يمكن أن يحافظ على الشفافية (يعتمد على القارئ).</li><li><strong>سهل التحرير:</strong> مستقر للحفظ المتكرر والتسليم.</li></ul>"
+    },
+  {
+      "title": "كيفية تحويل PNG إلى TIFF عبر الإنترنت",
+  "description": "<ol><li>انقر على <em>تحميل PNG</em> واختر ملفك.</li><li>انتظر حتى تكتمل المعالجة.</li><li>انقر على <em>تحميل TIFF</em> لحفظ النتيجة.</li></ol><p>الإخراج الافتراضي: 32 بت RGBA، ضغط LZW بدون فقدان، 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "كيفية تحويل PNG إلى TIFF عبر الإنترنت"
+    },
+  {
+      "title": "TIFF مقابل PNG: الاختلافات الرئيسية",
+  "description": "<ul><li><strong>الضغط:</strong> يستخدم PNG ضغط بدون فقدان DEFLATE؛ يدعم TIFF LZW/ZIP (بدون فقدان) أو غيرها.</li><li><strong>حجم الملف:</strong> يعتمد على محتوى الصورة؛ يمكن أن يكون TIFF أكبر أو مشابهًا لـ PNG.</li><li><strong>الشفافية:</strong> يمكن أن يتضمن كلاهما ألفا (قد يختلف دعم العارض لـ TIFF).</li><li><strong>الأفضل لـ:</strong> PNG للتسليم عبر الويب؛ TIFF للتحرير والطباعة والأرشفة.</li></ul>"
 
-      "description": "<ol><li>انقر على <em>تحميل PNG</em> واختر ملفك.</li><li>انتظر حتى تكتمل المعالجة.</li><li>انقر على <em>تحميل TIFF</em> لحفظ النتيجة.</li></ol><p>الإخراج الافتراضي: 32 بت RGBA، ضغط LZW بدون فقدان، 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "الحدود المدعومة والتنسيقات",
+  "description": "<ul><li><strong>المدخلات المقبولة:</strong> PNG (<code>image/png</code>)</li><li><strong>أقصى حجم ملف:</strong> حتى 16&nbsp;ميغابايت لكل ملف</li><li><strong>الإخراج:</strong> TIFF (<code>.tiff</code>، MIME <code>image/tiff</code>)</li><li><strong>الإعدادات الافتراضية:</strong> 32 بت RGBA، ضغط LZW، 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF مقابل PNG: الاختلافات الرئيسية"
-
-      "description": "<ul><li><strong>الضغط:</strong> يستخدم PNG ضغط بدون فقدان DEFLATE؛ يدعم TIFF LZW/ZIP (بدون فقدان) أو غيرها.</li><li><strong>حجم الملف:</strong> يعتمد على محتوى الصورة؛ يمكن أن يكون TIFF أكبر أو مشابهًا لـ PNG.</li><li><strong>الشفافية:</strong> يمكن أن يتضمن كلاهما ألفا (قد يختلف دعم العارض لـ TIFF).</li><li><strong>الأفضل لـ:</strong> PNG للتسليم عبر الويب؛ TIFF للتحرير والطباعة والأرشفة.</li></ul>"
-
-    }
-    {
-      "title": "الحدود المدعومة والتنسيقات"
-
-      "description": "<ul><li><strong>المدخلات المقبولة:</strong> PNG (<code>image/png</code>)</li><li><strong>أقصى حجم ملف:</strong> حتى 16&nbsp;ميغابايت لكل ملف</li><li><strong>الإخراج:</strong> TIFF (<code>.tiff</code>، MIME <code>image/tiff</code>)</li><li><strong>الإعدادات الافتراضية:</strong> 32 بت RGBA، ضغط LZW، 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "استكشاف الأخطاء وإصلاحها"
-
-      "description": "<ul><li><strong>الملف كبير جدًا:</strong> TIFF أثقل لبعض المحتويات - احتفظ بـ PNG للويب أو اعتبر WebP/AVIF.</li><li><strong>ألفا غير مرئية:</strong> بعض العارضين يتجاهلون ألفا TIFF؛ تحقق في محرر احترافي.</li><li><strong>تحول اللون:</strong> قم بالتحويل إلى sRGB قبل التحميل للحصول على لون متسق على الشاشة.</li><li><strong>فشل التحميل:</strong> تأكد من أن PNG ≤ 16&nbsp;ميغابايت.</li></ul>"
+    },
+  {
+      "title": "استكشاف الأخطاء وإصلاحها",
+  "description": "<ul><li><strong>الملف كبير جدًا:</strong> TIFF أثقل لبعض المحتويات - احتفظ بـ PNG للويب أو اعتبر WebP/AVIF.</li><li><strong>ألفا غير مرئية:</strong> بعض العارضين يتجاهلون ألفا TIFF؛ تحقق في محرر احترافي.</li><li><strong>تحول اللون:</strong> قم بالتحويل إلى sRGB قبل التحميل للحصول على لون متسق على الشاشة.</li><li><strong>فشل التحميل:</strong> تأكد من أن PNG ≤ 16&nbsp;ميغابايت.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "هل هذا المحول من PNG إلى TIFF مجاني؟"
+      "question": "هل هذا المحول من PNG إلى TIFF مجاني؟",
+  "answer": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
 
-      "answer": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
+    },
+  {
+      "question": "هل سيعمل TIFF على جميع التطبيقات؟",
+  "answer": "TIFF مدعوم على نطاق واسع في التطبيقات الاحترافية (Photoshop، Affinity، العديد من أدوات RIP/الطباعة). قد لا تعرض بعض العارضين البسيطين ألفا أو طرق ضغط معينة."
 
-    }
-    {
-      "question": "هل سيعمل TIFF على جميع التطبيقات؟"
+    },
+  {
+      "question": "ما هو حجم ملفات TIFF مقارنة بـ PNG؟",
+  "answer": "يختلف حسب الصورة. مع LZW/ZIP، يمكن أن يكون TIFF مشابهًا أو أكبر من PNG اعتمادًا على المحتوى."
 
-      "answer": "TIFF مدعوم على نطاق واسع في التطبيقات الاحترافية (Photoshop، Affinity، العديد من أدوات RIP/الطباعة). قد لا تعرض بعض العارضين البسيطين ألفا أو طرق ضغط معينة."
+    },
+  {
+      "question": "ما هي أحجام الملفات المدعومة؟",
+  "answer": "يمكنك تحميل صور تصل إلى 16&nbsp;ميغابايت لكل ملف."
 
-    }
-    {
-      "question": "ما هو حجم ملفات TIFF مقارنة بـ PNG؟"
+    },
+  {
+      "question": "هل ملفاتك آمنة؟",
+  "answer": "يتم معالجة الملفات تلقائيًا ولا يتم الاحتفاظ بها لفترة أطول من اللازم للتحويل."
 
-      "answer": "يختلف حسب الصورة. مع LZW/ZIP، يمكن أن يكون TIFF مشابهًا أو أكبر من PNG اعتمادًا على المحتوى."
+    },
+  {
+      "question": "هل يمكنني تحويل عدة PNGs في وقت واحد؟",
+  "answer": "تقوم هذه الصفحة بتحويل ملف واحد في كل مرة. لاحتياجات التحويل بالجملة، كرر العملية أو استخدم أداة دفعة."
 
-    }
-    {
-      "question": "ما هي أحجام الملفات المدعومة؟"
-
-      "answer": "يمكنك تحميل صور تصل إلى 16&nbsp;ميغابايت لكل ملف."
-
-    }
-    {
-      "question": "هل ملفاتك آمنة؟"
-
-      "answer": "يتم معالجة الملفات تلقائيًا ولا يتم الاحتفاظ بها لفترة أطول من اللازم للتحويل."
-
-    }
-    {
-      "question": "هل يمكنني تحويل عدة PNGs في وقت واحد؟"
-
-      "answer": "تقوم هذه الصفحة بتحويل ملف واحد في كل مرة. لاحتياجات التحويل بالجملة، كرر العملية أو استخدم أداة دفعة."
-
-    }
-    {
-      "question": "هل يدعم TIFF الطبقات؟"
-
-      "answer": "TIFF القياسي هو صورة مسطحة. بعض التطبيقات تدمج بيانات طبقة خاصة، لكن هذه الأداة تنتج TIFF مسطح."
+    },
+  {
+      "question": "هل يدعم TIFF الطبقات؟",
+  "answer": "TIFF القياسي هو صورة مسطحة. بعض التطبيقات تدمج بيانات طبقة خاصة، لكن هذه الأداة تنتج TIFF مسطح."
 
     }
-  ]
-  "note": "TIFF مناسب للتخزين والطباعة ولكنه قد يكون ثقيلًا. للويب، اعتبر PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF مناسب للتخزين والطباعة ولكنه قد يكون ثقيلًا. للويب، اعتبر PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "تحويل PNG إلى JPG"
+      "title": "تحويل PNG إلى JPG",
+  "url": "/ar/convert/png-to-jpg"
 
-      "url": "/ar/convert/png-to-jpg"
+    },
+  {
+      "title": "تحويل PNG إلى WebP",
+  "url": "/ar/convert/png-to-webp"
 
-    }
-    {
-      "title": "تحويل PNG إلى WebP"
-
-      "url": "/ar/convert/png-to-webp"
-
-    }
-    {
-      "title": "تحويل JPG إلى TIFF"
-
-      "url": "/ar/convert/jpg-to-tiff"
+    },
+  {
+      "title": "تحويل JPG إلى TIFF",
+  "url": "/ar/convert/jpg-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. جميع الحقوق محفوظة."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. جميع الحقوق محفوظة.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "محول PNG إلى TIFF - مجاني وعبر الإنترنت"
-
-      "url": "https://miconvert.com/ar/convert/png-to-tiff"
-
-      "description": "أداة مجانية عبر الإنترنت لتحويل صور PNG إلى TIFF مع خيارات بدون فقدان وشفافية محفوظة."
-
-      "inLanguage": "ar"
-
-      "image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "محول PNG إلى TIFF - مجاني وعبر الإنترنت",
+  "url": "https://miconvert.com/ar/convert/png-to-tiff",
+  "description": "أداة مجانية عبر الإنترنت لتحويل صور PNG إلى TIFF مع خيارات بدون فقدان وشفافية محفوظة.",
+  "inLanguage": "ar",
+  "image": "https://miconvert.com/images/png-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "الرئيسية",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "الرئيسية"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "تحويل",
+  "item": "https://miconvert.com/ar/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "تحويل"
-
-          "item": "https://miconvert.com/ar/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG إلى TIFF"
-
-          "item": "https://miconvert.com/ar/convert/png-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG إلى TIFF",
+  "item": "https://miconvert.com/ar/convert/png-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "محول PNG إلى TIFF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ar/convert/png-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "خيار LZW بدون فقدان",
+  "يحافظ على ألفا",
+  "جاهز للطباعة 300 DPI"
 
-      "name": "محول PNG إلى TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ar/convert/png-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "خيار LZW بدون فقدان"
-
-        "يحافظ على ألفا"
-
-        "جاهز للطباعة 300 DPI"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "هل هذا المحول من PNG إلى TIFF مجاني؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
+          "@type": "Question",
+  "name": "هل هذا المحول من PNG إلى TIFF مجاني؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ما هي أحجام الملفات المدعومة؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "يمكنك تحميل صور تصل إلى 16 ميغابايت لكل ملف."
+        },
+  {
+          "@type": "Question",
+  "name": "ما هي أحجام الملفات المدعومة؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "يمكنك تحميل صور تصل إلى 16 ميغابايت لكل ملف."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "هل يدعم TIFF الطبقات؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "TIFF القياسي هو صورة مسطحة؛ بعض التطبيقات تدمج بيانات طبقة خاصة. هذه الأداة تنتج TIFF مسطح."
+        },
+  {
+          "@type": "Question",
+  "name": "هل يدعم TIFF الطبقات؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "TIFF القياسي هو صورة مسطحة؛ بعض التطبيقات تدمج بيانات طبقة خاصة. هذه الأداة تنتج TIFF مسطح."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "كيفية تحويل PNG إلى TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "كيفية تحويل PNG إلى TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "انقر على تحميل PNG واختر ملفك."
 
-          "text": "انقر على تحميل PNG واختر ملفك."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "انتظر حتى تكتمل المعالجة."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "انقر على تحميل TIFF لحفظ النتيجة."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "انتظر حتى تكتمل المعالجة."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "انقر على تحميل TIFF لحفظ النتيجة."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "محول PNG إلى TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,376 +1,282 @@
 {
-  "lang": "fi"
-
-  "lang_name": "Suomi"
-
-  "title": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu | miconvert.com"
-
-  "sub_title": "Muuta JPG-kuvat PNG-muotoon verkossa läpinäkyvyyden, korkean laadun ja ilman vesileimoja."
-
-  "hint": "Lataa JPG-kuvasi aloittaaksesi muuntamisen..."
-
-  "btn_download": "Muuta PNG:ksi"
-
-  "btn_paste": "Lataa JPG"
-
-  "btn_clear": "Tyhjennä"
-
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu | miconvert.com",
+  "sub_title": "Muuta JPG-kuvat PNG-muotoon verkossa läpinäkyvyyden, korkean laadun ja ilman vesileimoja.",
+  "hint": "Lataa JPG-kuvasi aloittaaksesi muuntamisen...",
+  "btn_download": "Muuta PNG:ksi",
+  "btn_paste": "Lataa JPG",
+  "btn_clear": "Tyhjennä",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Etsitkö nopeaa ja luotettavaa tapaa muuntaa <strong>JPG PNG:ksi</strong>? Ilmainen verkkopalvelumme JPG PNG -muunnin auttaa sinua muuttamaan kuvasi korkealaatuisiksi PNG-tiedostoiksi välittömästi. Olitpa sitten läpinäkyvyyden, häviöttömän pakkaamisen tai yhteensopivuuden tarpeessa suunnitteluprojekteissa, tämä työkalu on täydellinen ratkaisu. Se toimii suoraan selaimessasi, ei vaadi rekisteröitymistä ja pitää tiedostosi turvassa.</p><p>PNG-muoto on ihanteellinen ammattilaiskäyttöön, erityisesti työskennellessäsi grafiikoiden, logojen tai kuvien kanssa, jotka vaativat läpinäkyvää taustaa. Toisin kuin JPG, joka käyttää häviöllistä pakkausta ja voi heikentää kuvan laatua, PNG säilyttää terävät yksityiskohdat ja tukee alfa-läpinäkyvyyttä. Jos olet suunnittelija, opiskelija tai liiketoiminta-ammattilainen, työkalumme tarjoaa sinulle helpon tavan parantaa työnkulkuasi.</p>"
-
+  },
+  "description": "<p>Etsitkö nopeaa ja luotettavaa tapaa muuntaa <strong>JPG PNG:ksi</strong>? Ilmainen verkkopalvelumme JPG PNG -muunnin auttaa sinua muuttamaan kuvasi korkealaatuisiksi PNG-tiedostoiksi välittömästi. Olitpa sitten läpinäkyvyyden, häviöttömän pakkaamisen tai yhteensopivuuden tarpeessa suunnitteluprojekteissa, tämä työkalu on täydellinen ratkaisu. Se toimii suoraan selaimessasi, ei vaadi rekisteröitymistä ja pitää tiedostosi turvassa.</p><p>PNG-muoto on ihanteellinen ammattilaiskäyttöön, erityisesti työskennellessäsi grafiikoiden, logojen tai kuvien kanssa, jotka vaativat läpinäkyvää taustaa. Toisin kuin JPG, joka käyttää häviöllistä pakkausta ja voi heikentää kuvan laatua, PNG säilyttää terävät yksityiskohdat ja tukee alfa-läpinäkyvyyttä. Jos olet suunnittelija, opiskelija tai liiketoiminta-ammattilainen, työkalumme tarjoaa sinulle helpon tavan parantaa työnkulkuasi.</p>",
   "head": {
-    "title": "Muuta JPG PNG:ksi Verkossa - Ilmainen JPG PNG Muunnin | miconvert.com"
+    "title": "Muuta JPG PNG:ksi Verkossa - Ilmainen JPG PNG Muunnin | miconvert.com",
+  "description": "Muuta JPG PNG:ksi verkossa läpinäkyvyyden tuella, korkealla laadulla ja ilman vesileimoja. Ilmainen, nopea ja turvallinen JPG PNG muunnin.",
+  "keywords": "jpg png:ksi, muunna jpg png:ksi, ilmainen jpg png, verkkopohjainen jpg muunnin, png läpinäkyvyydellä",
+  "canonical": "https://miconvert.com/fi/convert/jpg-to-png",
+  "og_title": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu",
+  "og_description": "Muuta JPG-kuvat PNG-muotoon läpinäkyvyyden ja häviöttömän laadun kanssa. 100% ilmainen, nopea ja turvallinen.",
+  "og_url": "https://miconvert.com/fi/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Muuta JPG PNG:ksi verkossa läpinäkyvyyden tuella, korkealla laadulla ja ilman vesileimoja. Ilmainen, nopea ja turvallinen JPG PNG muunnin."
-
-    "keywords": "jpg png:ksi, muunna jpg png:ksi, ilmainen jpg png, verkkopohjainen jpg muunnin, png läpinäkyvyydellä"
-
-    "canonical": "https://miconvert.com/fi/convert/jpg-to-png"
-
-    "og_title": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu"
-
-    "og_description": "Muuta JPG-kuvat PNG-muotoon läpinäkyvyyden ja häviöttömän laadun kanssa. 100% ilmainen, nopea ja turvallinen."
-
-    "og_url": "https://miconvert.com/fi/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuta JPG PNG:ksi Verkossa"
+    "title": "Muuta JPG PNG:ksi Verkossa",
+  "description": "Ilmainen ja nopea JPG PNG muunnin läpinäkyvyyden tuella ja häviöttömällä laadulla. Toimii välittömästi kaikilla laitteilla, ei rekisteröitymistä vaadita."
 
-    "description": "Ilmainen ja nopea JPG PNG muunnin läpinäkyvyyden tuella ja häviöttömällä laadulla. Toimii välittömästi kaikilla laitteilla, ei rekisteröitymistä vaadita."
-
-  }
+  },
   "h2": [
     {
-      "title": "Miksi muuntaa JPG PNG:ksi?"
+      "title": "Miksi muuntaa JPG PNG:ksi?",
+  "description": "<p>Vaikka JPG on loistava pieniä tiedostokokoja ja verkkosijaintia varten, se sisältää pakkausta, joka heikentää laatua. PNG puolestaan on häviötön muoto, joka säilyttää yksityiskohdat ja tukee läpinäkyvyyttä. Tässä ovat tärkeimmät syyt käyttää JPG PNG muunninta:</p><ul><li><strong>Läpinäkyvyys:</strong> Luo logoja, ikoneita ja kuvia ilman taustoja.</li><li><strong>Parempi muokkaus:</strong> Ihanteellinen suunnitteluohjelmille kuten Photoshop, Illustrator ja Figma.</li><li><strong>Korkea laatu:</strong> Säilytä terävyys, tekstin selkeys ja graafiset yksityiskohdat.</li><li><strong>Yhteensopivuus eri alustoilla:</strong> PNG:tä tuetaan laajalti eri selaimissa, sovelluksissa ja käyttöjärjestelmissä.</li></ul>"
 
-      "description": "<p>Vaikka JPG on loistava pieniä tiedostokokoja ja verkkosijaintia varten, se sisältää pakkausta, joka heikentää laatua. PNG puolestaan on häviötön muoto, joka säilyttää yksityiskohdat ja tukee läpinäkyvyyttä. Tässä ovat tärkeimmät syyt käyttää JPG PNG muunninta:</p><ul><li><strong>Läpinäkyvyys:</strong> Luo logoja, ikoneita ja kuvia ilman taustoja.</li><li><strong>Parempi muokkaus:</strong> Ihanteellinen suunnitteluohjelmille kuten Photoshop, Illustrator ja Figma.</li><li><strong>Korkea laatu:</strong> Säilytä terävyys, tekstin selkeys ja graafiset yksityiskohdat.</li><li><strong>Yhteensopivuus eri alustoilla:</strong> PNG:tä tuetaan laajalti eri selaimissa, sovelluksissa ja käyttöjärjestelmissä.</li></ul>"
+    },
+  {
+      "title": "JPG vs PNG: Tärkeimmät erot",
+  "description": "<table class='table-compare'><thead><tr><th>Ominaisuus</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Pakkaus</td><td>Häviöllinen (pienempi mutta laadun heikkeneminen)</td><td>Häviötön (suurempi mutta terävä)</td></tr><tr><td>Läpinäkyvyys</td><td>Ei</td><td>Kyllä (alfa-kanava)</td></tr><tr><td>Paras käyttöön</td><td>Valokuvat, sosiaalinen jakaminen</td><td>Logot, käyttöliittymät, teksti, grafiikat</td></tr><tr><td>Muokkaus</td><td>Toistuva tallennus heikentää laatua</td><td>Vakaa muokkauksissa</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG vs PNG: Tärkeimmät erot"
+    },
+  {
+      "title": "Kuinka muuntaa JPG PNG:ksi Verkossa",
+  "description": "<p>JPG:n muuntaminen PNG:ksi työkalumme avulla on yksinkertaista ja vie vain muutaman sekunnin:</p><ol><li>Napsauta <em>Lataa JPG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa PNG</em> saadaksesi uuden tiedostosi.</li></ol><p>Ei teknistä osaamista vaadita — kaikki tapahtuu selaimessasi.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Ominaisuus</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Pakkaus</td><td>Häviöllinen (pienempi mutta laadun heikkeneminen)</td><td>Häviötön (suurempi mutta terävä)</td></tr><tr><td>Läpinäkyvyys</td><td>Ei</td><td>Kyllä (alfa-kanava)</td></tr><tr><td>Paras käyttöön</td><td>Valokuvat, sosiaalinen jakaminen</td><td>Logot, käyttöliittymät, teksti, grafiikat</td></tr><tr><td>Muokkaus</td><td>Toistuva tallennus heikentää laatua</td><td>Vakaa muokkauksissa</td></tr></tbody></table>"
+    },
+  {
+      "title": "Tuetut rajat ja muodot",
+  "description": "<ul><li><strong>Hyväksytyt syöttötyypit:</strong> image/jpeg, image/jpg</li><li><strong>Enimmäistiedostokoko:</strong> enintään 16 MB per tiedosto</li><li><strong>Tuotos:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Laadun:</strong> Häviötön PNG säädettävällä pakkaustasolla</li></ul>"
 
-    }
-    {
-      "title": "Kuinka muuntaa JPG PNG:ksi Verkossa"
+    },
+  {
+      "title": "Vinkkejä parempiin tuloksiin",
+  "description": "<ul><li><strong>Käytä korkearesoluutioisia JPG-tiedostoja:</strong> Mitä korkeampi JPG:n resoluutio, sitä parempi PNG:n laatu.</li><li><strong>Tarvitsetko läpinäkyvyyttä?</strong> Jos JPG:lläsi on tausta, käytä ensin <a href='/fi/effect/remove-background'>Taustanpoistotyökalua</a>.</li><li><strong>Optimoi tiedostokoko:</strong> Muunnoksen jälkeen käytä <a href='/fi/edit/compress-image'>Kuvapakkaustyökalua</a> pienentääksesi PNG:n kokoa säilyttäen laadun.</li><li><strong>Verkkoa varten:</strong> Harkitse PNG:n muuntamista <a href='/fi/convert/png-to-webp'>WebP:ksi</a> nopeampaa lataamista varten.</li></ul>"
 
-      "description": "<p>JPG:n muuntaminen PNG:ksi työkalumme avulla on yksinkertaista ja vie vain muutaman sekunnin:</p><ol><li>Napsauta <em>Lataa JPG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa PNG</em> saadaksesi uuden tiedostosi.</li></ol><p>Ei teknistä osaamista vaadita — kaikki tapahtuu selaimessasi.</p>"
+    },
+  {
+      "title": "Vianetsintä",
+  "description": "<ul><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedostosi on JPG/JPEG ja ≤ 16 MB.</li><li><strong>Ei läpinäkyvyyttä:</strong> PNG säilyttää läpinäkyvyyden, mutta ei voi poistaa sitä tasaisesta valokuvasta — poista tausta ensin.</li><li><strong>Suuri PNG-tulos:</strong> Käytä <a href='/fi/edit/compress-image'>Kuvapakkaustyökalua</a> tai vaihda <a href='/fi/convert/png-to-webp'>WebP:hen</a>.</li></ul>"
 
-    }
-    {
-      "title": "Tuetut rajat ja muodot"
+    },
+  {
+      "title": "Ominaisuudet JPG PNG Muunnimessamme",
+  "description": "<ul><li>Ilmainen ilman vesileimoja</li><li>Nopea käsittely selaimessasi</li><li>Turvallinen käsittely — ei tarvetta tilille</li><li>Siisti käyttöliittymä, mobiiliystävällinen</li></ul>"
 
-      "description": "<ul><li><strong>Hyväksytyt syöttötyypit:</strong> image/jpeg, image/jpg</li><li><strong>Enimmäistiedostokoko:</strong> enintään 16 MB per tiedosto</li><li><strong>Tuotos:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Laadun:</strong> Häviötön PNG säädettävällä pakkaustasolla</li></ul>"
-
-    }
-    {
-      "title": "Vinkkejä parempiin tuloksiin"
-
-      "description": "<ul><li><strong>Käytä korkearesoluutioisia JPG-tiedostoja:</strong> Mitä korkeampi JPG:n resoluutio, sitä parempi PNG:n laatu.</li><li><strong>Tarvitsetko läpinäkyvyyttä?</strong> Jos JPG:lläsi on tausta, käytä ensin <a href='/fi/effect/remove-background'>Taustanpoistotyökalua</a>.</li><li><strong>Optimoi tiedostokoko:</strong> Muunnoksen jälkeen käytä <a href='/fi/edit/compress-image'>Kuvapakkaustyökalua</a> pienentääksesi PNG:n kokoa säilyttäen laadun.</li><li><strong>Verkkoa varten:</strong> Harkitse PNG:n muuntamista <a href='/fi/convert/png-to-webp'>WebP:ksi</a> nopeampaa lataamista varten.</li></ul>"
-
-    }
-    {
-      "title": "Vianetsintä"
-
-      "description": "<ul><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedostosi on JPG/JPEG ja ≤ 16 MB.</li><li><strong>Ei läpinäkyvyyttä:</strong> PNG säilyttää läpinäkyvyyden, mutta ei voi poistaa sitä tasaisesta valokuvasta — poista tausta ensin.</li><li><strong>Suuri PNG-tulos:</strong> Käytä <a href='/fi/edit/compress-image'>Kuvapakkaustyökalua</a> tai vaihda <a href='/fi/convert/png-to-webp'>WebP:hen</a>.</li></ul>"
-
-    }
-    {
-      "title": "Ominaisuudet JPG PNG Muunnimessamme"
-
-      "description": "<ul><li>Ilmainen ilman vesileimoja</li><li>Nopea käsittely selaimessasi</li><li>Turvallinen käsittely — ei tarvetta tilille</li><li>Siisti käyttöliittymä, mobiiliystävällinen</li></ul>"
+    },
+  {
+      "title": "Liittyvät muuntimet",
+  "description": "<ul class='related-links'><li><a href='/fi/convert/png-to-jpg'>PNG JPG:ksi</a></li><li><a href='/fi/convert/jpg-to-webp'>JPG WebP:ksi</a></li><li><a href='/fi/convert/png-to-webp'>PNG WebP:ksi</a></li><li><a href='/fi/convert/webp-to-png'>WebP PNG:ksi</a></li></ul>"
 
     }
-    {
-      "title": "Liittyvät muuntimet"
-
-      "description": "<ul class='related-links'><li><a href='/fi/convert/png-to-jpg'>PNG JPG:ksi</a></li><li><a href='/fi/convert/jpg-to-webp'>JPG WebP:ksi</a></li><li><a href='/fi/convert/png-to-webp'>PNG WebP:ksi</a></li><li><a href='/fi/convert/webp-to-png'>WebP PNG:ksi</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Onko tämä JPG PNG muunnin ilmainen?"
+      "question": "Onko tämä JPG PNG muunnin ilmainen?",
+  "answer": "Kyllä, muunnin on täysin ilmainen ilman piilokuluja tai tilauksia."
 
-      "answer": "Kyllä, muunnin on täysin ilmainen ilman piilokuluja tai tilauksia."
+    },
+  {
+      "question": "Tukeeko PNG läpinäkyvyyttä?",
+  "answer": "Kyllä, PNG sallii läpinäkyvät taustat, mikä tekee siitä täydellisen logoille, ikoneille ja ammattilaismuotoiluille."
 
-    }
-    {
-      "question": "Tukeeko PNG läpinäkyvyyttä?"
+    },
+  {
+      "question": "Menettääkö kuva laatua muunnoksen aikana?",
+  "answer": "Ei. Toisin kuin JPG, PNG käyttää häviötöntä pakkausta, joten muunnellut kuvasi säilyttävät alkuperäisen laatunsa."
 
-      "answer": "Kyllä, PNG sallii läpinäkyvät taustat, mikä tekee siitä täydellisen logoille, ikoneille ja ammattilaismuotoiluille."
+    },
+  {
+      "question": "Mitä tiedostokokoja tuetaan?",
+  "answer": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto. Tarvittaessa pakkaa suuret JPG:t ennen muuntamista."
 
-    }
-    {
-      "question": "Menettääkö kuva laatua muunnoksen aikana?"
+    },
+  {
+      "question": "Ovatko tiedostoni turvallisia?",
+  "answer": "Tiedostosi käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
 
-      "answer": "Ei. Toisin kuin JPG, PNG käyttää häviötöntä pakkausta, joten muunnellut kuvasi säilyttävät alkuperäisen laatunsa."
+    },
+  {
+      "question": "Voinko muuntaa useita JPG-tiedostoja kerralla?",
+  "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
 
-    }
-    {
-      "question": "Mitä tiedostokokoja tuetaan?"
-
-      "answer": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto. Tarvittaessa pakkaa suuret JPG:t ennen muuntamista."
-
-    }
-    {
-      "question": "Ovatko tiedostoni turvallisia?"
-
-      "answer": "Tiedostosi käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
-
-    }
-    {
-      "question": "Voinko muuntaa useita JPG-tiedostoja kerralla?"
-
-      "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
-
-    }
-    {
-      "question": "Voinko käyttää tätä työkalua puhelimellani?"
-
-      "answer": "Ehdottomasti. Muunnin on optimoitu mobiililaitteille ja toimii iOS- ja Android-selaimissa."
+    },
+  {
+      "question": "Voinko käyttää tätä työkalua puhelimellani?",
+  "answer": "Ehdottomasti. Muunnin on optimoitu mobiililaitteille ja toimii iOS- ja Android-selaimissa."
 
     }
-  ]
-  "note": "Vastuuvapauslauseke: Muunnoksen laatu riippuu syöttötiedoston resoluutiosta. Säilytä aina kopio alkuperäisistä tiedostoistasi ennen muokkaamista tai muuntamista."
-
-  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään."
-
+  ],
+  "note": "Vastuuvapauslauseke: Muunnoksen laatu riippuu syöttötiedoston resoluutiosta. Säilytä aina kopio alkuperäisistä tiedostoistasi ennen muokkaamista tai muuntamista.",
+  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu"
-
-      "url": "https://miconvert.com/fi/convert/jpg-to-png"
-
-      "description": "Ilmainen verkkotyökalu JPG-kuvien muuntamiseen PNG:ksi läpinäkyvyyden tuella ja häviöttömällä laadulla."
-
-      "inLanguage": "fi"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG to PNG Muunnin - Ilmainen & Verkkopalvelu",
+  "url": "https://miconvert.com/fi/convert/jpg-to-png",
+  "description": "Ilmainen verkkotyökalu JPG-kuvien muuntamiseen PNG:ksi läpinäkyvyyden tuella ja häviöttömällä laadulla.",
+  "inLanguage": "fi",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Etusivu",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Etusivu"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muunna",
+  "item": "https://miconvert.com/fi/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muunna"
-
-          "item": "https://miconvert.com/fi/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG PNG:ksi"
-
-          "item": "https://miconvert.com/fi/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG PNG:ksi",
+  "item": "https://miconvert.com/fi/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG to PNG Muunnin",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/fi/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "EUR"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Häviötön PNG-tulos",
+  "Läpinäkyvyyden tuki",
+  "Nopea selaimen käsittely"
 
-      "name": "JPG to PNG Muunnin"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/fi/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "EUR"
-
-      }
-      "featureList": [
-        "Häviötön PNG-tulos"
-
-        "Läpinäkyvyyden tuki"
-
-        "Nopea selaimen käsittely"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Onko tämä JPG PNG muunnin ilmainen?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Kyllä, muunnin on täysin ilmainen ilman piilokuluja tai tilauksia."
+          "@type": "Question",
+  "name": "Onko tämä JPG PNG muunnin ilmainen?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Kyllä, muunnin on täysin ilmainen ilman piilokuluja tai tilauksia."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Tukeeko PNG läpinäkyvyyttä?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Kyllä, PNG sallii läpinäkyvät taustat, mikä tekee siitä täydellisen logoille, ikoneille ja ammattilaismuotoiluille."
+        },
+  {
+          "@type": "Question",
+  "name": "Tukeeko PNG läpinäkyvyyttä?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Kyllä, PNG sallii läpinäkyvät taustat, mikä tekee siitä täydellisen logoille, ikoneille ja ammattilaismuotoiluille."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Menettääkö kuva laatua muunnoksen aikana?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ei. Toisin kuin JPG, PNG käyttää häviötöntä pakkausta, joten muunnellut kuvasi säilyttävät alkuperäisen laatunsa."
+        },
+  {
+          "@type": "Question",
+  "name": "Menettääkö kuva laatua muunnoksen aikana?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ei. Toisin kuin JPG, PNG käyttää häviötöntä pakkausta, joten muunnellut kuvasi säilyttävät alkuperäisen laatunsa."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Mitä tiedostokokoja tuetaan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto. Tarvittaessa pakkaa suuret JPG:t ennen muuntamista."
+        },
+  {
+          "@type": "Question",
+  "name": "Mitä tiedostokokoja tuetaan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto. Tarvittaessa pakkaa suuret JPG:t ennen muuntamista."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ovatko tiedostoni turvallisia?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tiedostosi käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
+        },
+  {
+          "@type": "Question",
+  "name": "Ovatko tiedostoni turvallisia?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tiedostosi käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Voinko muuntaa useita JPG-tiedostoja kerralla?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
+        },
+  {
+          "@type": "Question",
+  "name": "Voinko muuntaa useita JPG-tiedostoja kerralla?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuinka muuntaa JPG PNG:ksi"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuinka muuntaa JPG PNG:ksi",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa JPG ja valitse kuvasi."
 
-          "text": "Napsauta Lataa JPG ja valitse kuvasi."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Odota, että käsittely on valmis."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa PNG tallentaaksesi tuloksen."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Odota, että käsittely on valmis."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Napsauta Lataa PNG tallentaaksesi tuloksen."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG to PNG Muunnin"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,367 +1,274 @@
 {
-  "lang": "pl"
-
-  "lang_name": "Polski"
-
-  "title": "Konwerter JPG na TIFF - Darmowy i Online | miconvert.com"
-
-  "sub_title": "Konwertuj obrazy JPG na TIFF online z opcjami kompresji bezstratnej i jakością gotową do druku. Bez znaków wodnych."
-
-  "hint": "Prześlij swój obraz JPG, aby rozpocząć konwersję..."
-
-  "btn_download": "Konwertuj na TIFF"
-
-  "btn_paste": "Prześlij JPG"
-
-  "btn_clear": "Wyczyść"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "pl",
+  "lang_name": "Polski",
+  "title": "Konwerter JPG na TIFF - Darmowy i Online | miconvert.com",
+  "sub_title": "Konwertuj obrazy JPG na TIFF online z opcjami kompresji bezstratnej i jakością gotową do druku. Bez znaków wodnych.",
+  "hint": "Prześlij swój obraz JPG, aby rozpocząć konwersję...",
+  "btn_download": "Konwertuj na TIFF",
+  "btn_paste": "Prześlij JPG",
+  "btn_clear": "Wyczyść",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "Konwertuj JPG na TIFF - Darmowy Online Konwerter JPG na TIFF"
+    "title": "Konwertuj JPG na TIFF - Darmowy Online Konwerter JPG na TIFF",
+  "description": "Konwertuj obrazy JPG na format TIFF online za darmo. Wysokiej jakości konwersja JPG na TIFF z szybkim przetwarzaniem.",
+  "keywords": "jpg na tiff, konwertuj jpg na tiff, darmowy jpg na tiff, online konwerter tiff, konwersja obrazów",
+  "canonical": "https://miconvert.com/pl/convert/jpg-to-tiff",
+  "og_title": "Konwertuj JPG na TIFF - Darmowy Online Konwerter JPG na TIFF",
+  "og_description": "Konwertuj obrazy JPG na format TIFF online za darmo. Wysokiej jakości konwersja JPG na TIFF z szybkim przetwarzaniem.",
+  "og_url": "https://miconvert.com/pl/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "Konwertuj obrazy JPG na format TIFF online za darmo. Wysokiej jakości konwersja JPG na TIFF z szybkim przetwarzaniem."
-
-    "keywords": "jpg na tiff, konwertuj jpg na tiff, darmowy jpg na tiff, online konwerter tiff, konwersja obrazów"
-
-    "canonical": "https://miconvert.com/pl/convert/jpg-to-tiff"
-
-    "og_title": "Konwertuj JPG na TIFF - Darmowy Online Konwerter JPG na TIFF"
-
-    "og_description": "Konwertuj obrazy JPG na format TIFF online za darmo. Wysokiej jakości konwersja JPG na TIFF z szybkim przetwarzaniem."
-
-    "og_url": "https://miconvert.com/pl/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konwertuj JPG na TIFF Online"
+    "title": "Konwertuj JPG na TIFF Online",
+  "description": "Darmowy konwerter JPG na TIFF z opcjami kompresji bezstratnej i gotowym do druku wyjściem. Działa na każdym urządzeniu — nie wymaga rejestracji."
 
-    "description": "Darmowy konwerter JPG na TIFF z opcjami kompresji bezstratnej i gotowym do druku wyjściem. Działa na każdym urządzeniu — nie wymaga rejestracji."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "Konwerter JPG na TIFF"
-
-    "description": "Konwertuj obrazy JPG na TIFF z kompresją bezstratną LZW/ZIP i dokładnymi kolorami."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "Konwerter JPG na TIFF",
+  "description": "Konwertuj obrazy JPG na TIFF z kompresją bezstratną LZW/ZIP i dokładnymi kolorami.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Opcja TIFF bezstratny (LZW/ZIP)",
+  "Jakość gotowa do druku",
+  "Dokładne kolory",
+  "Darmowe narzędzie online"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Opcja TIFF bezstratny (LZW/ZIP)"
-
-      "Jakość gotowa do druku"
-
-      "Dokładne kolory"
-
-      "Darmowe narzędzie online"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konwersja JPG na TIFF Zakończona"
+    "title": "Konwersja JPG na TIFF Zakończona",
+  "back_button": "Powrót do Konwertera",
+  "convert_another": "Konwertuj Inny JPG",
+  "quick_conversions": "Szybkie Konwersje:"
 
-    "back_button": "Powrót do Konwertera"
-
-    "convert_another": "Konwertuj Inny JPG"
-
-    "quick_conversions": "Szybkie Konwersje:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Dlaczego konwertować JPG na TIFF?"
+      "title": "Dlaczego konwertować JPG na TIFF?",
+  "description": "<p>TIFF to profesjonalny, archiwalny format używany w obrazowaniu i druku:</p><ul><li><strong>Opcje bezstratne:</strong> Zapisz czysty master bez nowych artefaktów JPEG.</li><li><strong>Gotowy do druku:</strong> Zachowuje szczegóły dla wyjścia o wysokiej rozdzielczości.</li><li><strong>Elastyczny:</strong> Obsługuje kanał alfa i wiele przestrzeni kolorów (zależne od czytnika).</li><li><strong>Przyjazny dla przepływu pracy:</strong> Stabilny dla powtarzanych edycji i przekazywania.</li></ul><p><em>Uwaga:</em> Konwersja z JPG (stratny) nie przywróci magicznie utraconych szczegółów — ale pomoże uniknąć dalszego pogorszenia przy kolejnych zapisach.</p>"
 
-      "description": "<p>TIFF to profesjonalny, archiwalny format używany w obrazowaniu i druku:</p><ul><li><strong>Opcje bezstratne:</strong> Zapisz czysty master bez nowych artefaktów JPEG.</li><li><strong>Gotowy do druku:</strong> Zachowuje szczegóły dla wyjścia o wysokiej rozdzielczości.</li><li><strong>Elastyczny:</strong> Obsługuje kanał alfa i wiele przestrzeni kolorów (zależne od czytnika).</li><li><strong>Przyjazny dla przepływu pracy:</strong> Stabilny dla powtarzanych edycji i przekazywania.</li></ul><p><em>Uwaga:</em> Konwersja z JPG (stratny) nie przywróci magicznie utraconych szczegółów — ale pomoże uniknąć dalszego pogorszenia przy kolejnych zapisach.</p>"
+    },
+  {
+      "title": "Jak konwertować JPG na TIFF Online",
+  "description": "<ol><li>Kliknij <em>Prześlij JPG</em> i wybierz swoje zdjęcie.</li><li>Poczekaj na przetwarzanie.</li><li>Kliknij <em>Pobierz TIFF</em>, aby zapisać plik.</li></ol><p>Domyślnie: 24-bit RGB, LZW bezstratny, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Jak konwertować JPG na TIFF Online"
+    },
+  {
+      "title": "TIFF vs JPG: Kluczowe różnice",
+  "description": "<table class='table-compare'><thead><tr><th>Cecha</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kompresja</td><td>Stratna (JPEG)</td><td>Bezstratna (LZW/ZIP) lub JPEG/brak</td></tr><tr><td>Rozmiar pliku</td><td>Mały</td><td>Większy (zależy od kompresji)</td></tr><tr><td>Przezroczystość</td><td>Nie</td><td>Opcjonalny kanał alfa (zależne od czytnika)</td></tr><tr><td>Najlepsze do</td><td>Web/udostępnianie zdjęć</td><td>Edycja, druk, archiwizacja</td></tr></tbody></table>"
 
-      "description": "<ol><li>Kliknij <em>Prześlij JPG</em> i wybierz swoje zdjęcie.</li><li>Poczekaj na przetwarzanie.</li><li>Kliknij <em>Pobierz TIFF</em>, aby zapisać plik.</li></ol><p>Domyślnie: 24-bit RGB, LZW bezstratny, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Obsługiwane limity i formaty",
+  "description": "<ul><li><strong>Akceptowane wejście:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16&nbsp;MB na plik</li><li><strong>Wyjście:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Domyślne:</strong> 24-bit RGB, kompresja LZW, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs JPG: Kluczowe różnice"
-
-      "description": "<table class='table-compare'><thead><tr><th>Cecha</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Kompresja</td><td>Stratna (JPEG)</td><td>Bezstratna (LZW/ZIP) lub JPEG/brak</td></tr><tr><td>Rozmiar pliku</td><td>Mały</td><td>Większy (zależy od kompresji)</td></tr><tr><td>Przezroczystość</td><td>Nie</td><td>Opcjonalny kanał alfa (zależne od czytnika)</td></tr><tr><td>Najlepsze do</td><td>Web/udostępnianie zdjęć</td><td>Edycja, druk, archiwizacja</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Obsługiwane limity i formaty"
-
-      "description": "<ul><li><strong>Akceptowane wejście:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> do 16&nbsp;MB na plik</li><li><strong>Wyjście:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Domyślne:</strong> 24-bit RGB, kompresja LZW, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Rozwiązywanie problemów"
-
-      "description": "<ul><li><strong>Plik za duży:</strong> TIFF jest cięższy z założenia. Dla mniejszych bezstratnych, spróbuj <a href='/pl/convert/jpg-to-png'>JPG na PNG</a>.</li><li><strong>Potrzebna przezroczystość:</strong> Źródłowy JPG nie ma alfa; konwertuj i edytuj alfa w edytorze lub zacznij od PNG.</li><li><strong>Przesunięcie kolorów:</strong> Konwertuj na sRGB przed przesłaniem dla spójności w sieci.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Rozwiązywanie problemów",
+  "description": "<ul><li><strong>Plik za duży:</strong> TIFF jest cięższy z założenia. Dla mniejszych bezstratnych, spróbuj <a href='/pl/convert/jpg-to-png'>JPG na PNG</a>.</li><li><strong>Potrzebna przezroczystość:</strong> Źródłowy JPG nie ma alfa; konwertuj i edytuj alfa w edytorze lub zacznij od PNG.</li><li><strong>Przesunięcie kolorów:</strong> Konwertuj na sRGB przed przesłaniem dla spójności w sieci.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Czy ten konwerter JPG na TIFF jest darmowy?"
+      "question": "Czy ten konwerter JPG na TIFF jest darmowy?",
+  "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
 
-      "answer": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+    },
+  {
+      "question": "Czy TIFF działa we wszystkich aplikacjach?",
+  "answer": "TIFF jest szeroko wspierany w profesjonalnych aplikacjach (Photoshop, Affinity, wiele narzędzi RIP/druk). Niektóre proste przeglądarki mogą nie obsługiwać wszystkich opcji kompresji."
 
-    }
-    {
-      "question": "Czy TIFF działa we wszystkich aplikacjach?"
+    },
+  {
+      "question": "Jak dużo większe są pliki TIFF w porównaniu do JPG?",
+  "answer": "Zazwyczaj 3–10× większe niż JPG o tych samych wymiarach (zależy od treści i kompresji)."
 
-      "answer": "TIFF jest szeroko wspierany w profesjonalnych aplikacjach (Photoshop, Affinity, wiele narzędzi RIP/druk). Niektóre proste przeglądarki mogą nie obsługiwać wszystkich opcji kompresji."
+    },
+  {
+      "question": "Jakie rozmiary plików są obsługiwane?",
+  "answer": "Możesz przesyłać obrazy do 16&nbsp;MB na plik."
 
-    }
-    {
-      "question": "Jak dużo większe są pliki TIFF w porównaniu do JPG?"
+    },
+  {
+      "question": "Czy moje pliki są bezpieczne?",
+  "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
 
-      "answer": "Zazwyczaj 3–10× większe niż JPG o tych samych wymiarach (zależy od treści i kompresji)."
+    },
+  {
+      "question": "Czy mogę konwertować wiele JPG jednocześnie?",
+  "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorowych powtórz proces lub użyj narzędzia wsadowego."
 
-    }
-    {
-      "question": "Jakie rozmiary plików są obsługiwane?"
-
-      "answer": "Możesz przesyłać obrazy do 16&nbsp;MB na plik."
-
-    }
-    {
-      "question": "Czy moje pliki są bezpieczne?"
-
-      "answer": "Pliki są przetwarzane automatycznie i nie są przechowywane dłużej niż to konieczne do konwersji."
-
-    }
-    {
-      "question": "Czy mogę konwertować wiele JPG jednocześnie?"
-
-      "answer": "Ta strona konwertuje jeden plik na raz. W przypadku potrzeb zbiorowych powtórz proces lub użyj narzędzia wsadowego."
-
-    }
-    {
-      "question": "Czy TIFF obsługuje warstwy?"
-
-      "answer": "Standardowy TIFF to płaski obraz; niektóre aplikacje przechowują dane warstwowe w sposób prywatny. To narzędzie generuje płaski TIFF."
+    },
+  {
+      "question": "Czy TIFF obsługuje warstwy?",
+  "answer": "Standardowy TIFF to płaski obraz; niektóre aplikacje przechowują dane warstwowe w sposób prywatny. To narzędzie generuje płaski TIFF."
 
     }
-  ]
-  "note": "TIFF nadaje się do archiwizacji/druku, ale ma dużą objętość. Do sieci rozważ PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF nadaje się do archiwizacji/druku, ale ma dużą objętość. Do sieci rozważ PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konwertuj JPG na PNG"
+      "title": "Konwertuj JPG na PNG",
+  "url": "/pl/convert/jpg-to-png"
 
-      "url": "/pl/convert/jpg-to-png"
+    },
+  {
+      "title": "Konwertuj JPG na WebP",
+  "url": "/pl/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "Konwertuj JPG na WebP"
-
-      "url": "/pl/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "Konwertuj PNG na TIFF"
-
-      "url": "/pl/convert/png-to-tiff"
+    },
+  {
+      "title": "Konwertuj PNG na TIFF",
+  "url": "/pl/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konwerter JPG na TIFF - Darmowy i Online"
-
-      "url": "https://miconvert.com/pl/convert/jpg-to-tiff"
-
-      "description": "Darmowe narzędzie online do konwersji obrazów JPG na TIFF z kompresją bezstratną i gotowym do druku wyjściem."
-
-      "inLanguage": "pl"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Konwerter JPG na TIFF - Darmowy i Online",
+  "url": "https://miconvert.com/pl/convert/jpg-to-tiff",
+  "description": "Darmowe narzędzie online do konwersji obrazów JPG na TIFF z kompresją bezstratną i gotowym do druku wyjściem.",
+  "inLanguage": "pl",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Strona główna",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Strona główna"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konwertuj",
+  "item": "https://miconvert.com/pl/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konwertuj"
-
-          "item": "https://miconvert.com/pl/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG na TIFF"
-
-          "item": "https://miconvert.com/pl/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG na TIFF",
+  "item": "https://miconvert.com/pl/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Konwerter JPG na TIFF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/pl/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Opcja bezstratna LZW",
+  "Gotowy do druku 300 DPI",
+  "Dokładne kolory"
 
-      "name": "Konwerter JPG na TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/pl/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Opcja bezstratna LZW"
-
-        "Gotowy do druku 300 DPI"
-
-        "Dokładne kolory"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Czy ten konwerter JPG na TIFF jest darmowy?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
+          "@type": "Question",
+  "name": "Czy ten konwerter JPG na TIFF jest darmowy?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tak, konwerter jest całkowicie darmowy, bez ukrytych opłat lub subskrypcji."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Jakie rozmiary plików są obsługiwane?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Możesz przesyłać obrazy do 16 MB na plik."
+        },
+  {
+          "@type": "Question",
+  "name": "Jakie rozmiary plików są obsługiwane?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Możesz przesyłać obrazy do 16 MB na plik."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Czy TIFF obsługuje warstwy?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standardowy TIFF jest płaski. Niektóre aplikacje przechowują prywatne dane warstwowe; to narzędzie generuje płaski TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Czy TIFF obsługuje warstwy?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standardowy TIFF jest płaski. Niektóre aplikacje przechowują prywatne dane warstwowe; to narzędzie generuje płaski TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak konwertować JPG na TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jak konwertować JPG na TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknij Prześlij JPG i wybierz swoje zdjęcie."
 
-          "text": "Kliknij Prześlij JPG i wybierz swoje zdjęcie."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Poczekaj na zakończenie przetwarzania."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknij Pobierz TIFF, aby zapisać plik."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Poczekaj na zakończenie przetwarzania."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknij Pobierz TIFF, aby zapisać plik."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Konwerter JPG na TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

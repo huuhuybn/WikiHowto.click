@@ -1,382 +1,287 @@
 {
-  "lang": "bg"
-
-  "lang_name": "Български"
-
-  "title": "JPG към BMP Конвертор - Безплатно и Онлайн | miconvert.com"
-
-  "sub_title": "Конвертирайте JPG изображения в BMP онлайн с неконвертирани, без загуби пикселни данни. Без водни знаци."
-
-  "hint": "Качете вашето JPG изображение, за да започнете конвертирането..."
-
-  "btn_download": "Конвертирайте в BMP"
-
-  "btn_paste": "Качете JPG"
-
-  "btn_clear": "Изчисти"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
+  "lang": "bg",
+  "lang_name": "Български",
+  "title": "JPG към BMP Конвертор - Безплатно и Онлайн | miconvert.com",
+  "sub_title": "Конвертирайте JPG изображения в BMP онлайн с неконвертирани, без загуби пикселни данни. Без водни знаци.",
+  "hint": "Качете вашето JPG изображение, за да започнете конвертирането...",
+  "btn_download": "Конвертирайте в BMP",
+  "btn_paste": "Качете JPG",
+  "btn_clear": "Изчисти",
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg",
   "head": {
-    "title": "Конвертирайте JPG в BMP - Безплатен Онлайн JPG към BMP Конвертор"
+    "title": "Конвертирайте JPG в BMP - Безплатен Онлайн JPG към BMP Конвертор",
+  "description": "Конвертирайте JPG изображения в BMP формат онлайн безплатно. Висококачествена конверсия от JPG в BMP с бърза обработка.",
+  "keywords": "jpg към bmp, конвертиране jpg в bmp, безплатно jpg в bmp, онлайн bmp конвертор, конверсия на изображения",
+  "canonical": "https://miconvert.com/bg/convert/jpg-to-bmp",
+  "og_title": "Конвертирайте JPG в BMP - Безплатен Онлайн JPG към BMP Конвертор",
+  "og_description": "Конвертирайте JPG изображения в BMP формат онлайн безплатно. Висококачествена конверсия от JPG в BMP с бърза обработка.",
+  "og_url": "https://miconvert.com/bg/convert/jpg-to-bmp",
+  "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-    "description": "Конвертирайте JPG изображения в BMP формат онлайн безплатно. Висококачествена конверсия от JPG в BMP с бърза обработка."
-
-    "keywords": "jpg към bmp, конвертиране jpg в bmp, безплатно jpg в bmp, онлайн bmp конвертор, конверсия на изображения"
-
-    "canonical": "https://miconvert.com/bg/convert/jpg-to-bmp"
-
-    "og_title": "Конвертирайте JPG в BMP - Безплатен Онлайн JPG към BMP Конвертор"
-
-    "og_description": "Конвертирайте JPG изображения в BMP формат онлайн безплатно. Висококачествена конверсия от JPG в BMP с бърза обработка."
-
-    "og_url": "https://miconvert.com/bg/convert/jpg-to-bmp"
-
-    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертирайте JPG в BMP Онлайн"
+    "title": "Конвертирайте JPG в BMP Онлайн",
+  "description": "Безплатен JPG към BMP конвертор с неконвертирани, без загуби пикселни данни. Работи на всяко устройство — не е необходима регистрация."
 
-    "description": "Безплатен JPG към BMP конвертор с неконвертирани, без загуби пикселни данни. Работи на всяко устройство — не е необходима регистрация."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-bmp"
-
-    "title": "JPG към BMP Конвертор"
-
-    "description": "Конвертирайте JPG изображения в BMP с бърза обработка и точни цветове."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "jpg-to-bmp",
+  "title": "JPG към BMP Конвертор",
+  "description": "Конвертирайте JPG изображения в BMP с бърза обработка и точни цветове.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Неконвертирани (без загуби) пикселни данни",
+  "Висока съвместимост с Windows",
+  "Бърза обработка",
+  "Безплатен онлайн инструмент"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Неконвертирани (без загуби) пикселни данни"
-
-      "Висока съвместимост с Windows"
-
-      "Бърза обработка"
-
-      "Безплатен онлайн инструмент"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Конверсията от JPG в BMP е завършена"
+    "title": "Конверсията от JPG в BMP е завършена",
+  "back_button": "Назад към Конвертора",
+  "convert_another": "Конвертирайте друго JPG",
+  "quick_conversions": "Бързи Конверсии:"
 
-    "back_button": "Назад към Конвертора"
-
-    "convert_another": "Конвертирайте друго JPG"
-
-    "quick_conversions": "Бързи Конверсии:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Защо да конвертирате JPG в BMP?"
+      "title": "Защо да конвертирате JPG в BMP?",
+  "description": "<p>BMP е прост растерен формат, който съхранява пиксели без компресия — полезен за определени работни потоци:</p><ul><li><strong>Без JPEG артефакти:</strong> Избягвайте повторни загуби при редактиране.</li><li><strong>Проста структура:</strong> Лесно за манипулиране на пиксели на ниско ниво.</li><li><strong>Старши/вградени приложения:</strong> Някои Windows инструменти предпочитат BMP.</li></ul>"
 
-      "description": "<p>BMP е прост растерен формат, който съхранява пиксели без компресия — полезен за определени работни потоци:</p><ul><li><strong>Без JPEG артефакти:</strong> Избягвайте повторни загуби при редактиране.</li><li><strong>Проста структура:</strong> Лесно за манипулиране на пиксели на ниско ниво.</li><li><strong>Старши/вградени приложения:</strong> Някои Windows инструменти предпочитат BMP.</li></ul>"
+    },
+  {
+      "title": "Как да конвертирате JPG в BMP Онлайн",
+  "description": "<ol><li>Щракнете <em>Качете JPG</em> и изберете файла си.</li><li>Изчакайте обработката да завърши.</li><li>Щракнете <em>Изтеглете BMP</em>, за да запазите изображението.</li></ol><p>По подразбиране е 24-битов BMP без компресия.</p>"
 
-    }
-    {
-      "title": "Как да конвертирате JPG в BMP Онлайн"
+    },
+  {
+      "title": "BMP срещу JPG: Основни Разлики",
+  "description": "<table class='table-compare'><thead><tr><th>Характеристика</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Компресия</td><td>С загуби (JPEG)</td><td>Обикновено неконвертирано (без загуби)</td></tr><tr><td>Размер на файла</td><td>Малък</td><td>Голям</td></tr><tr><td>Прозрачност</td><td>Не</td><td>Не (обикновен 24-битов BMP)</td></tr><tr><td>Най-добре за</td><td>Снимки, уеб употреба</td><td>Работни потоци за редактиране, стари приложения, пикселни операции</td></tr></tbody></table>"
 
-      "description": "<ol><li>Щракнете <em>Качете JPG</em> и изберете файла си.</li><li>Изчакайте обработката да завърши.</li><li>Щракнете <em>Изтеглете BMP</em>, за да запазите изображението.</li></ol><p>По подразбиране е 24-битов BMP без компресия.</p>"
+    },
+  {
+      "title": "Поддържани Ограничения и Формати",
+  "description": "<ul><li><strong>Приети входни:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Максимален размер на файла:</strong> до 16&nbsp;MB на файл</li><li><strong>Изход:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Дълбочина на битовете:</strong> 24-битова (без алфа)</li></ul>"
 
-    }
-    {
-      "title": "BMP срещу JPG: Основни Разлики"
+    },
+  {
+      "title": "Отстраняване на Проблеми",
+  "description": "<ul><li><strong>Много голям изход:</strong> BMP е неконвертирано по дизайн; помислете за <a href='/bg/convert/jpg-to-png'>JPG в PNG</a> за по-малки файлове без загуби.</li><li><strong>Необходима прозрачност:</strong> BMP (24-бит) няма алфа; използвайте <a href='/bg/convert/jpg-to-png'>JPG в PNG</a>.</li><li><strong>Качването не успява:</strong> Уверете се, че файлът е JPG/JPEG и ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Характеристика</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Компресия</td><td>С загуби (JPEG)</td><td>Обикновено неконвертирано (без загуби)</td></tr><tr><td>Размер на файла</td><td>Малък</td><td>Голям</td></tr><tr><td>Прозрачност</td><td>Не</td><td>Не (обикновен 24-битов BMP)</td></tr><tr><td>Най-добре за</td><td>Снимки, уеб употреба</td><td>Работни потоци за редактиране, стари приложения, пикселни операции</td></tr></tbody></table>"
+    },
+  {
+      "title": "Какво е JPG?",
+  "description": "<p>JPG (JPEG) използва компресия с загуби, за да поддържа файловете малки, идеални за снимки и уеб, но повторното запазване може да въведе артефакти.</p>"
 
-    }
-    {
-      "title": "Поддържани Ограничения и Формати"
+    },
+  {
+      "title": "Какво е BMP?",
+  "description": "<p>BMP е прост битмап формат, който обикновено съхранява сурови пиксели без компресия. Той е голям по размер, но лесен за четене и манипулиране от програми.</p>"
 
-      "description": "<ul><li><strong>Приети входни:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Максимален размер на файла:</strong> до 16&nbsp;MB на файл</li><li><strong>Изход:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Дълбочина на битовете:</strong> 24-битова (без алфа)</li></ul>"
-
-    }
-    {
-      "title": "Отстраняване на Проблеми"
-
-      "description": "<ul><li><strong>Много голям изход:</strong> BMP е неконвертирано по дизайн; помислете за <a href='/bg/convert/jpg-to-png'>JPG в PNG</a> за по-малки файлове без загуби.</li><li><strong>Необходима прозрачност:</strong> BMP (24-бит) няма алфа; използвайте <a href='/bg/convert/jpg-to-png'>JPG в PNG</a>.</li><li><strong>Качването не успява:</strong> Уверете се, че файлът е JPG/JPEG и ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "Какво е JPG?"
-
-      "description": "<p>JPG (JPEG) използва компресия с загуби, за да поддържа файловете малки, идеални за снимки и уеб, но повторното запазване може да въведе артефакти.</p>"
-
-    }
-    {
-      "title": "Какво е BMP?"
-
-      "description": "<p>BMP е прост битмап формат, който обикновено съхранява сурови пиксели без компресия. Той е голям по размер, но лесен за четене и манипулиране от програми.</p>"
+    },
+  {
+      "title": "Сценарии на Използване: Кога да Конвертирате JPG в BMP",
+  "description": "<ul><li><strong>Цикли на редактиране:</strong> Избягвайте кумулативни JPEG артефакти.</li><li><strong>Стар софтуер:</strong> По-стари Windows инструменти, които изискват BMP.</li><li><strong>Разработка:</strong> Директен достъп до пиксели в обработка на ниско ниво.</li></ul>"
 
     }
-    {
-      "title": "Сценарии на Използване: Кога да Конвертирате JPG в BMP"
-
-      "description": "<ul><li><strong>Цикли на редактиране:</strong> Избягвайте кумулативни JPEG артефакти.</li><li><strong>Стар софтуер:</strong> По-стари Windows инструменти, които изискват BMP.</li><li><strong>Разработка:</strong> Директен достъп до пиксели в обработка на ниско ниво.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Безплатен ли е този JPG към BMP конвертор?"
+      "question": "Безплатен ли е този JPG към BMP конвертор?",
+  "answer": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
 
-      "answer": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
+    },
+  {
+      "question": "Ще работи ли BMP на всички приложения?",
+  "answer": "BMP е широко поддържан в Windows и разпознат от много други платформи. Някои съвременни работни потоци предпочитат PNG/WebP за ефективност на размера."
 
-    }
-    {
-      "question": "Ще работи ли BMP на всички приложения?"
+    },
+  {
+      "question": "Колко по-големи са BMP файловете от JPG?",
+  "answer": "Често са няколко пъти по-големи (например, 5–20×), тъй като BMP обикновено е неконвертирано."
 
-      "answer": "BMP е широко поддържан в Windows и разпознат от много други платформи. Някои съвременни работни потоци предпочитат PNG/WebP за ефективност на размера."
+    },
+  {
+      "question": "Какви размери на файлове се поддържат?",
+  "answer": "Можете да качвате изображения до 16&nbsp;MB на файл."
 
-    }
-    {
-      "question": "Колко по-големи са BMP файловете от JPG?"
+    },
+  {
+      "question": "Безопасни ли са файловете ми?",
+  "answer": "Файловете се обработват автоматично и не се запазват по-дълго от необходимо за конверсия."
 
-      "answer": "Често са няколко пъти по-големи (например, 5–20×), тъй като BMP обикновено е неконвертирано."
+    },
+  {
+      "question": "Мога ли да конвертирам множество JPG файлове наведнъж?",
+  "answer": "Тази страница конвертира един файл наведнъж. За нужди в голям обем, повторете процеса или използвайте инструмент за партидно конвертиране."
 
-    }
-    {
-      "question": "Какви размери на файлове се поддържат?"
-
-      "answer": "Можете да качвате изображения до 16&nbsp;MB на файл."
-
-    }
-    {
-      "question": "Безопасни ли са файловете ми?"
-
-      "answer": "Файловете се обработват автоматично и не се запазват по-дълго от необходимо за конверсия."
-
-    }
-    {
-      "question": "Мога ли да конвертирам множество JPG файлове наведнъж?"
-
-      "answer": "Тази страница конвертира един файл наведнъж. За нужди в голям обем, повторете процеса или използвайте инструмент за партидно конвертиране."
-
-    }
-    {
-      "question": "Поддържа ли BMP прозрачност?"
-
-      "answer": "Обикновеният 24-битов BMP не включва алфа канал. За прозрачност, конвертирайте в PNG."
+    },
+  {
+      "question": "Поддържа ли BMP прозрачност?",
+  "answer": "Обикновеният 24-битов BMP не включва алфа канал. За прозрачност, конвертирайте в PNG."
 
     }
-  ]
-  "note": "Изходът BMP е умишлено голям (неконвертиран). За уеб, предпочитайте PNG/WebP/AVIF."
-
+  ],
+  "note": "Изходът BMP е умишлено голям (неконвертиран). За уеб, предпочитайте PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Конвертирайте BMP в JPG"
+      "title": "Конвертирайте BMP в JPG",
+  "url": "/bg/convert/bmp-to-jpg"
 
-      "url": "/bg/convert/bmp-to-jpg"
+    },
+  {
+      "title": "Конвертирайте JPG в PNG",
+  "url": "/bg/convert/jpg-to-png"
 
-    }
-    {
-      "title": "Конвертирайте JPG в PNG"
-
-      "url": "/bg/convert/jpg-to-png"
-
-    }
-    {
-      "title": "Конвертирайте PNG в BMP"
-
-      "url": "/bg/convert/png-to-bmp"
+    },
+  {
+      "title": "Конвертирайте PNG в BMP",
+  "url": "/bg/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Всички права запазени."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Всички права запазени.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG към BMP Конвертор - Безплатно и Онлайн"
-
-      "url": "https://miconvert.com/bg/convert/jpg-to-bmp"
-
-      "description": "Безплатен онлайн инструмент за конвертиране на JPG изображения в BMP с неконвертирани, без загуби пикселни данни."
-
-      "inLanguage": "bg"
-
-      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG към BMP Конвертор - Безплатно и Онлайн",
+  "url": "https://miconvert.com/bg/convert/jpg-to-bmp",
+  "description": "Безплатен онлайн инструмент за конвертиране на JPG изображения в BMP с неконвертирани, без загуби пикселни данни.",
+  "inLanguage": "bg",
+  "image": "https://miconvert.com/images/jpg-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Начало",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Начало"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Конвертиране",
+  "item": "https://miconvert.com/bg/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертиране"
-
-          "item": "https://miconvert.com/bg/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG към BMP"
-
-          "item": "https://miconvert.com/bg/convert/jpg-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG към BMP",
+  "item": "https://miconvert.com/bg/convert/jpg-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG към BMP Конвертор",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/bg/convert/jpg-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "BGN"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Неконвертирани пикселни данни",
+  "Точни цветове",
+  "Бърза обработка"
 
-      "name": "JPG към BMP Конвертор"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/bg/convert/jpg-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "BGN"
-
-      }
-      "featureList": [
-        "Неконвертирани пикселни данни"
-
-        "Точни цветове"
-
-        "Бърза обработка"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Безплатен ли е този JPG към BMP конвертор?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
+          "@type": "Question",
+  "name": "Безплатен ли е този JPG към BMP конвертор?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Да, конверторът е напълно безплатен без скрити такси или абонаменти."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Какви размери на файлове се поддържат?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Можете да качвате изображения до 16 MB на файл."
+        },
+  {
+          "@type": "Question",
+  "name": "Какви размери на файлове се поддържат?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Можете да качвате изображения до 16 MB на файл."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Поддържа ли BMP прозрачност?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Стандартният 24-битов BMP не включва прозрачност. Използвайте PNG за алфа."
+        },
+  {
+          "@type": "Question",
+  "name": "Поддържа ли BMP прозрачност?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Стандартният 24-битов BMP не включва прозрачност. Използвайте PNG за алфа."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Как да конвертирате JPG в BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Как да конвертирате JPG в BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Щракнете Качете JPG и изберете файла си."
 
-          "text": "Щракнете Качете JPG и изберете файла си."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Изчакайте обработката да завърши."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Щракнете Изтеглете BMP, за да запазите изображението."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Изчакайте обработката да завърши."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Щракнете Изтеглете BMP, за да запазите изображението."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG към BMP Конвертор"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

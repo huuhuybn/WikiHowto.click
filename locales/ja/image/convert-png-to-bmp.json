@@ -1,364 +1,272 @@
 {
-  "lang": "ja"
-
-  "lang_name": "日本語"
-
-  "title": "PNGからBMPへの変換 - 無料＆オンライン | miconvert.com"
-
-  "sub_title": "PNG画像を圧縮されていないロスレスのピクセルデータでBMPにオンライン変換します。透かしはありません。"
-
-  "hint": "変換を開始するにはPNG画像をアップロードしてください..."
-
-  "btn_download": "BMPに変換"
-
-  "btn_paste": "PNGをアップロード"
-
-  "btn_clear": "クリア"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "PNGからBMPへの変換 - 無料＆オンライン | miconvert.com",
+  "sub_title": "PNG画像を圧縮されていないロスレスのピクセルデータでBMPにオンライン変換します。透かしはありません。",
+  "hint": "変換を開始するにはPNG画像をアップロードしてください...",
+  "btn_download": "BMPに変換",
+  "btn_paste": "PNGをアップロード",
+  "btn_clear": "クリア",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "PNGからBMPへの変換 - 無料オンラインPNGからBMP変換ツール"
+    "title": "PNGからBMPへの変換 - 無料オンラインPNGからBMP変換ツール",
+  "description": "PNG画像をBMP形式にオンラインで無料で変換します。高品質なPNGからBMPへの変換で迅速な処理。",
+  "keywords": "pngからbmp, pngをbmpに変換, 無料pngからbmp, オンラインbmp変換ツール, 画像変換",
+  "canonical": "https://miconvert.com/ja/convert/png-to-bmp",
+  "og_title": "PNGからBMPへの変換 - 無料オンラインPNGからBMP変換ツール",
+  "og_description": "PNG画像をBMP形式にオンラインで無料で変換します。高品質なPNGからBMPへの変換で迅速な処理。",
+  "og_url": "https://miconvert.com/ja/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "PNG画像をBMP形式にオンラインで無料で変換します。高品質なPNGからBMPへの変換で迅速な処理。"
-
-    "keywords": "pngからbmp, pngをbmpに変換, 無料pngからbmp, オンラインbmp変換ツール, 画像変換"
-
-    "canonical": "https://miconvert.com/ja/convert/png-to-bmp"
-
-    "og_title": "PNGからBMPへの変換 - 無料オンラインPNGからBMP変換ツール"
-
-    "og_description": "PNG画像をBMP形式にオンラインで無料で変換します。高品質なPNGからBMPへの変換で迅速な処理。"
-
-    "og_url": "https://miconvert.com/ja/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "オンラインでPNGをBMPに変換"
+    "title": "オンラインでPNGをBMPに変換",
+  "description": "圧縮されていないロスレスのピクセルデータを持つ無料のPNGからBMP変換ツール。デバイスを問わず動作します — サインアップは不要です。"
 
-    "description": "圧縮されていないロスレスのピクセルデータを持つ無料のPNGからBMP変換ツール。デバイスを問わず動作します — サインアップは不要です。"
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "PNGからBMPへの変換ツール"
-
-    "description": "迅速な処理と正確な色でPNG画像をBMPに変換します。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "PNGからBMPへの変換ツール",
+  "description": "迅速な処理と正確な色でPNG画像をBMPに変換します。",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "圧縮されていない（ロスレス）ピクセルデータ",
+  "Windowsでの高い互換性",
+  "迅速な処理",
+  "無料のオンラインツール"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "圧縮されていない（ロスレス）ピクセルデータ"
-
-      "Windowsでの高い互換性"
-
-      "迅速な処理"
-
-      "無料のオンラインツール"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNGからBMPへの変換が完了しました"
+    "title": "PNGからBMPへの変換が完了しました",
+  "back_button": "変換ツールに戻る",
+  "convert_another": "別のPNGを変換",
+  "quick_conversions": "クイック変換:"
 
-    "back_button": "変換ツールに戻る"
-
-    "convert_another": "別のPNGを変換"
-
-    "quick_conversions": "クイック変換:"
-
-  }
+  },
   "h2": [
     {
-      "title": "なぜPNGをBMPに変換するのか？"
+      "title": "なぜPNGをBMPに変換するのか？",
+  "description": "<p>BMPは圧縮なしでピクセルを保存するシンプルなラスター形式で、特定のワークフローに役立ちます：</p><ul><li><strong>新しいアーティファクトなし：</strong>低レベルの編集のためにピクセルをそのまま保持します。</li><li><strong>単純な構造：</strong>プログラムが読み取りやすく操作しやすい。</li><li><strong>レガシー/埋め込みアプリ：</strong>一部のWindowsツールはBMPを好みます。</li></ul>"
 
-      "description": "<p>BMPは圧縮なしでピクセルを保存するシンプルなラスター形式で、特定のワークフローに役立ちます：</p><ul><li><strong>新しいアーティファクトなし：</strong>低レベルの編集のためにピクセルをそのまま保持します。</li><li><strong>単純な構造：</strong>プログラムが読み取りやすく操作しやすい。</li><li><strong>レガシー/埋め込みアプリ：</strong>一部のWindowsツールはBMPを好みます。</li></ul>"
+    },
+  {
+      "title": "オンラインでPNGをBMPに変換する方法",
+  "description": "<ol><li><em>PNGをアップロード</em>をクリックしてファイルを選択します。</li><li>処理が完了するのを待ちます。</li><li><em>BMPをダウンロード</em>をクリックして画像を保存します。</li></ol><p>デフォルトは圧縮なしの24ビットBMPです。</p>"
 
-    }
-    {
-      "title": "オンラインでPNGをBMPに変換する方法"
+    },
+  {
+      "title": "BMPとPNGの比較",
+  "description": "<ul><li><strong>ファイルサイズ：</strong>BMPは通常PNGよりもはるかに大きいです。</li><li><strong>品質：</strong>どちらもロスレスです（BMPは圧縮なし；PNGはロスレス圧縮）。</li><li><strong>透明度：</strong>PNGはアルファをサポートしますが、一般的な24ビットBMPは<em>サポートしていません</em>。</li><li><strong>圧縮：</strong>BMPはなし；PNGはロスレスDEFLATE。</li><li><strong>使用ケース：</strong>BMPはレガシー/ピクセル操作用；PNGはウェブと効率的なロスレスストレージ用。</li></ul>"
 
-      "description": "<ol><li><em>PNGをアップロード</em>をクリックしてファイルを選択します。</li><li>処理が完了するのを待ちます。</li><li><em>BMPをダウンロード</em>をクリックして画像を保存します。</li></ol><p>デフォルトは圧縮なしの24ビットBMPです。</p>"
+    },
+  {
+      "title": "サポートされる制限と形式",
+  "description": "<ul><li><strong>受け入れられる入力：</strong>PNG（<code>image/png</code>）</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>BMP（<code>.bmp</code>、MIME <code>image/bmp</code>）</li><li><strong>ビット深度：</strong>24ビット（アルファなし）</li></ul>"
 
-    }
-    {
-      "title": "BMPとPNGの比較"
-
-      "description": "<ul><li><strong>ファイルサイズ：</strong>BMPは通常PNGよりもはるかに大きいです。</li><li><strong>品質：</strong>どちらもロスレスです（BMPは圧縮なし；PNGはロスレス圧縮）。</li><li><strong>透明度：</strong>PNGはアルファをサポートしますが、一般的な24ビットBMPは<em>サポートしていません</em>。</li><li><strong>圧縮：</strong>BMPはなし；PNGはロスレスDEFLATE。</li><li><strong>使用ケース：</strong>BMPはレガシー/ピクセル操作用；PNGはウェブと効率的なロスレスストレージ用。</li></ul>"
-
-    }
-    {
-      "title": "サポートされる制限と形式"
-
-      "description": "<ul><li><strong>受け入れられる入力：</strong>PNG（<code>image/png</code>）</li><li><strong>最大ファイルサイズ：</strong>ファイルごとに最大16&nbsp;MB</li><li><strong>出力：</strong>BMP（<code>.bmp</code>、MIME <code>image/bmp</code>）</li><li><strong>ビット深度：</strong>24ビット（アルファなし）</li></ul>"
-
-    }
-    {
-      "title": "トラブルシューティング"
-
-      "description": "<ul><li><strong>非常に大きな出力：</strong>BMPは圧縮されていないため、より小さなロスレスが必要な場合はPNGを保持してください。</li><li><strong>透明度が必要：</strong>24ビットBMPにはアルファがないため、PNGを使用してください。</li><li><strong>アップロード失敗：</strong>ファイルがPNGであり、≤ 16&nbsp;MBであることを確認してください。</li></ul>"
+    },
+  {
+      "title": "トラブルシューティング",
+  "description": "<ul><li><strong>非常に大きな出力：</strong>BMPは圧縮されていないため、より小さなロスレスが必要な場合はPNGを保持してください。</li><li><strong>透明度が必要：</strong>24ビットBMPにはアルファがないため、PNGを使用してください。</li><li><strong>アップロード失敗：</strong>ファイルがPNGであり、≤ 16&nbsp;MBであることを確認してください。</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "このPNGからBMPへの変換ツールは無料ですか？"
+      "question": "このPNGからBMPへの変換ツールは無料ですか？",
+  "answer": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
 
-      "answer": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
+    },
+  {
+      "question": "BMPはすべてのアプリケーションで動作しますか？",
+  "answer": "BMPはWindowsで広くサポートされており、他の多くのプラットフォームでも認識されています。現代のウェブワークフローは通常、サイズ効率のためにPNG/WebPを好みます。"
 
-    }
-    {
-      "question": "BMPはすべてのアプリケーションで動作しますか？"
+    },
+  {
+      "question": "BMPファイルはPNGと比べてどれくらい大きいですか？",
+  "answer": "通常、数倍大きいです（例：3〜10倍以上）、BMPは圧縮されていないためです。"
 
-      "answer": "BMPはWindowsで広くサポートされており、他の多くのプラットフォームでも認識されています。現代のウェブワークフローは通常、サイズ効率のためにPNG/WebPを好みます。"
+    },
+  {
+      "question": "サポートされているファイルサイズは？",
+  "answer": "ファイルごとに最大16&nbsp;MBの画像をアップロードできます。"
 
-    }
-    {
-      "question": "BMPファイルはPNGと比べてどれくらい大きいですか？"
+    },
+  {
+      "question": "私のファイルは安全ですか？",
+  "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
 
-      "answer": "通常、数倍大きいです（例：3〜10倍以上）、BMPは圧縮されていないためです。"
+    },
+  {
+      "question": "複数のPNGを一度に変換できますか？",
+  "answer": "このページは一度に1つのファイルを変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
 
-    }
-    {
-      "question": "サポートされているファイルサイズは？"
-
-      "answer": "ファイルごとに最大16&nbsp;MBの画像をアップロードできます。"
-
-    }
-    {
-      "question": "私のファイルは安全ですか？"
-
-      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
-
-    }
-    {
-      "question": "複数のPNGを一度に変換できますか？"
-
-      "answer": "このページは一度に1つのファイルを変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
-
-    }
-    {
-      "question": "BMPは透明度をサポートしていますか？"
-
-      "answer": "標準の24ビットBMPにはアルファが含まれていません。透明度にはPNGを使用してください。"
+    },
+  {
+      "question": "BMPは透明度をサポートしていますか？",
+  "answer": "標準の24ビットBMPにはアルファが含まれていません。透明度にはPNGを使用してください。"
 
     }
-  ]
-  "note": "BMP出力は意図的に大きい（圧縮なし）です。ウェブ配信にはPNG/WebP/AVIFを好んでください。"
-
+  ],
+  "note": "BMP出力は意図的に大きい（圧縮なし）です。ウェブ配信にはPNG/WebP/AVIFを好んでください。",
   "related_links": [
     {
-      "title": "BMPをPNGに変換"
+      "title": "BMPをPNGに変換",
+  "url": "/ja/convert/bmp-to-png"
 
-      "url": "/ja/convert/bmp-to-png"
+    },
+  {
+      "title": "PNGをJPGに変換",
+  "url": "/ja/convert/png-to-jpg"
 
-    }
-    {
-      "title": "PNGをJPGに変換"
-
-      "url": "/ja/convert/png-to-jpg"
-
-    }
-    {
-      "title": "PNGをWebPに変換"
-
-      "url": "/ja/convert/png-to-webp"
+    },
+  {
+      "title": "PNGをWebPに変換",
+  "url": "/ja/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 無断転載を禁じます。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 無断転載を禁じます。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNGからBMPへの変換 - 無料＆オンライン"
-
-      "url": "https://miconvert.com/ja/convert/png-to-bmp"
-
-      "description": "圧縮されていないロスレスのピクセルデータでPNG画像をBMPに変換する無料のオンラインツール。"
-
-      "inLanguage": "ja"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNGからBMPへの変換 - 無料＆オンライン",
+  "url": "https://miconvert.com/ja/convert/png-to-bmp",
+  "description": "圧縮されていないロスレスのピクセルデータでPNG画像をBMPに変換する無料のオンラインツール。",
+  "inLanguage": "ja",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "ホーム",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "ホーム"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "変換",
+  "item": "https://miconvert.com/ja/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "変換"
-
-          "item": "https://miconvert.com/ja/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNGからBMP"
-
-          "item": "https://miconvert.com/ja/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNGからBMP",
+  "item": "https://miconvert.com/ja/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNGからBMPへの変換ツール",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ja/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "圧縮されていないピクセルデータ",
+  "正確な色",
+  "迅速な処理"
 
-      "name": "PNGからBMPへの変換ツール"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ja/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "圧縮されていないピクセルデータ"
-
-        "正確な色"
-
-        "迅速な処理"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "このPNGからBMPへの変換ツールは無料ですか？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
+          "@type": "Question",
+  "name": "このPNGからBMPへの変換ツールは無料ですか？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "はい、変換ツールは完全に無料で、隠れた料金やサブスクリプションはありません。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "サポートされているファイルサイズは？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
+        },
+  {
+          "@type": "Question",
+  "name": "サポートされているファイルサイズは？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "ファイルごとに最大16 MBの画像をアップロードできます。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "BMPは透明度をサポートしていますか？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "標準の24ビットBMPにはアルファチャンネルが含まれていません。透明度にはPNGを使用してください。"
+        },
+  {
+          "@type": "Question",
+  "name": "BMPは透明度をサポートしていますか？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "標準の24ビットBMPにはアルファチャンネルが含まれていません。透明度にはPNGを使用してください。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "PNGをBMPに変換する方法"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "PNGをBMPに変換する方法",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "PNGをアップロードをクリックしてファイルを選択します。"
 
-          "text": "PNGをアップロードをクリックしてファイルを選択します。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "処理が完了するのを待ちます。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "BMPをダウンロードをクリックして画像を保存します。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "処理が完了するのを待ちます。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "BMPをダウンロードをクリックして画像を保存します。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNGからBMPへの変換ツール"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,367 +1,274 @@
 {
-  "lang": "zh"
-
-  "lang_name": "中文"
-
-  "title": "JPG 转 TIFF 转换器 - 免费在线 | miconvert.com"
-
-  "sub_title": "在线将 JPG 图像转换为 TIFF，提供无损压缩选项和打印准备质量。无水印。"
-
-  "hint": "上传您的 JPG 图像以开始转换..."
-
-  "btn_download": "转换为 TIFF"
-
-  "btn_paste": "上传 JPG"
-
-  "btn_clear": "清除"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "zh",
+  "lang_name": "中文",
+  "title": "JPG 转 TIFF 转换器 - 免费在线 | miconvert.com",
+  "sub_title": "在线将 JPG 图像转换为 TIFF，提供无损压缩选项和打印准备质量。无水印。",
+  "hint": "上传您的 JPG 图像以开始转换...",
+  "btn_download": "转换为 TIFF",
+  "btn_paste": "上传 JPG",
+  "btn_clear": "清除",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "将 JPG 转换为 TIFF - 免费在线 JPG 转 TIFF 转换器"
+    "title": "将 JPG 转换为 TIFF - 免费在线 JPG 转 TIFF 转换器",
+  "description": "在线免费将 JPG 图像转换为 TIFF 格式。高质量 JPG 转 TIFF 转换，处理速度快。",
+  "keywords": "jpg 转 tiff, 转换 jpg 为 tiff, 免费 jpg 转 tiff, 在线 tiff 转换器, 图像转换",
+  "canonical": "https://miconvert.com/zh/convert/jpg-to-tiff",
+  "og_title": "将 JPG 转换为 TIFF - 免费在线 JPG 转 TIFF 转换器",
+  "og_description": "在线免费将 JPG 图像转换为 TIFF 格式。高质量 JPG 转 TIFF 转换，处理速度快。",
+  "og_url": "https://miconvert.com/zh/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "在线免费将 JPG 图像转换为 TIFF 格式。高质量 JPG 转 TIFF 转换，处理速度快。"
-
-    "keywords": "jpg 转 tiff, 转换 jpg 为 tiff, 免费 jpg 转 tiff, 在线 tiff 转换器, 图像转换"
-
-    "canonical": "https://miconvert.com/zh/convert/jpg-to-tiff"
-
-    "og_title": "将 JPG 转换为 TIFF - 免费在线 JPG 转 TIFF 转换器"
-
-    "og_description": "在线免费将 JPG 图像转换为 TIFF 格式。高质量 JPG 转 TIFF 转换，处理速度快。"
-
-    "og_url": "https://miconvert.com/zh/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在线将 JPG 转换为 TIFF"
+    "title": "在线将 JPG 转换为 TIFF",
+  "description": "免费的 JPG 转 TIFF 转换器，提供无损压缩选项和打印准备输出。适用于任何设备 - 无需注册。"
 
-    "description": "免费的 JPG 转 TIFF 转换器，提供无损压缩选项和打印准备输出。适用于任何设备 - 无需注册。"
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG 转 TIFF 转换器"
-
-    "description": "将 JPG 图像转换为 TIFF，使用 LZW/ZIP 无损压缩和准确的颜色。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG 转 TIFF 转换器",
+  "description": "将 JPG 图像转换为 TIFF，使用 LZW/ZIP 无损压缩和准确的颜色。",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "无损 TIFF (LZW/ZIP) 选项",
+  "打印准备质量",
+  "准确的颜色",
+  "免费的在线工具"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "无损 TIFF (LZW/ZIP) 选项"
-
-      "打印准备质量"
-
-      "准确的颜色"
-
-      "免费的在线工具"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG 转 TIFF 转换完成"
+    "title": "JPG 转 TIFF 转换完成",
+  "back_button": "返回转换器",
+  "convert_another": "转换另一个 JPG",
+  "quick_conversions": "快速转换："
 
-    "back_button": "返回转换器"
-
-    "convert_another": "转换另一个 JPG"
-
-    "quick_conversions": "快速转换："
-
-  }
+  },
   "h2": [
     {
-      "title": "为什么将 JPG 转换为 TIFF？"
+      "title": "为什么将 JPG 转换为 TIFF？",
+  "description": "<p>TIFF 是一种专业的档案级格式，用于成像和打印：</p><ul><li><strong>无损选项：</strong> 保存干净的母版，没有新的 JPEG 伪影。</li><li><strong>打印准备：</strong> 保留高分辨率输出的细节。</li><li><strong>灵活：</strong> 支持 alpha 通道和多种颜色空间（依赖于阅读器）。</li><li><strong>工作流程友好：</strong> 适合重复编辑和交接。</li></ul><p><em>注意：</em> 从 JPG（有损）转换不会神奇地恢复丢失的细节 - 但可以避免在后续保存中进一步损失。</p>"
 
-      "description": "<p>TIFF 是一种专业的档案级格式，用于成像和打印：</p><ul><li><strong>无损选项：</strong> 保存干净的母版，没有新的 JPEG 伪影。</li><li><strong>打印准备：</strong> 保留高分辨率输出的细节。</li><li><strong>灵活：</strong> 支持 alpha 通道和多种颜色空间（依赖于阅读器）。</li><li><strong>工作流程友好：</strong> 适合重复编辑和交接。</li></ul><p><em>注意：</em> 从 JPG（有损）转换不会神奇地恢复丢失的细节 - 但可以避免在后续保存中进一步损失。</p>"
+    },
+  {
+      "title": "如何在线将 JPG 转换为 TIFF",
+  "description": "<ol><li>点击 <em>上传 JPG</em> 并选择您的照片。</li><li>等待处理。</li><li>点击 <em>下载 TIFF</em> 保存文件。</li></ol><p>默认：24 位 RGB，LZW 无损，300&nbsp;DPI。</p>"
 
-    }
-    {
-      "title": "如何在线将 JPG 转换为 TIFF"
+    },
+  {
+      "title": "TIFF 与 JPG：主要区别",
+  "description": "<table class='table-compare'><thead><tr><th>特征</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>压缩</td><td>有损（JPEG）</td><td>无损（LZW/ZIP）或 JPEG/无</td></tr><tr><td>文件大小</td><td>小</td><td>大（取决于压缩）</td></tr><tr><td>透明度</td><td>无</td><td>可选 alpha（依赖于阅读器）</td></tr><tr><td>最佳用途</td><td>网页/照片分享</td><td>编辑、打印、归档</td></tr></tbody></table>"
 
-      "description": "<ol><li>点击 <em>上传 JPG</em> 并选择您的照片。</li><li>等待处理。</li><li>点击 <em>下载 TIFF</em> 保存文件。</li></ol><p>默认：24 位 RGB，LZW 无损，300&nbsp;DPI。</p>"
+    },
+  {
+      "title": "支持的限制和格式",
+  "description": "<ul><li><strong>接受的输入：</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>默认：</strong> 24 位 RGB，LZW 压缩，300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF 与 JPG：主要区别"
-
-      "description": "<table class='table-compare'><thead><tr><th>特征</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>压缩</td><td>有损（JPEG）</td><td>无损（LZW/ZIP）或 JPEG/无</td></tr><tr><td>文件大小</td><td>小</td><td>大（取决于压缩）</td></tr><tr><td>透明度</td><td>无</td><td>可选 alpha（依赖于阅读器）</td></tr><tr><td>最佳用途</td><td>网页/照片分享</td><td>编辑、打印、归档</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "支持的限制和格式"
-
-      "description": "<ul><li><strong>接受的输入：</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>最大文件大小：</strong> 每个文件最多 16&nbsp;MB</li><li><strong>输出：</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>默认：</strong> 24 位 RGB，LZW 压缩，300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>文件太大：</strong> TIFF 本身设计较重。对于较小的无损文件，请尝试 <a href='/zh/convert/jpg-to-png'>JPG 转 PNG</a>。</li><li><strong>需要透明度：</strong> 源 JPG 缺少 alpha；在编辑器中转换并编辑 alpha，或从 PNG 开始。</li><li><strong>颜色偏移：</strong> 上传前转换为 sRGB 以保持网页一致性。</li><li><strong>上传失败：</strong> 确保 JPG/JPEG ≤ 16&nbsp;MB。</li></ul>"
+    },
+  {
+      "title": "故障排除",
+  "description": "<ul><li><strong>文件太大：</strong> TIFF 本身设计较重。对于较小的无损文件，请尝试 <a href='/zh/convert/jpg-to-png'>JPG 转 PNG</a>。</li><li><strong>需要透明度：</strong> 源 JPG 缺少 alpha；在编辑器中转换并编辑 alpha，或从 PNG 开始。</li><li><strong>颜色偏移：</strong> 上传前转换为 sRGB 以保持网页一致性。</li><li><strong>上传失败：</strong> 确保 JPG/JPEG ≤ 16&nbsp;MB。</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "这个 JPG 转 TIFF 转换器是免费的吗？"
+      "question": "这个 JPG 转 TIFF 转换器是免费的吗？",
+  "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
 
-      "answer": "是的，转换器完全免费，没有隐藏费用或订阅。"
+    },
+  {
+      "question": "TIFF 在所有应用程序中都能工作吗？",
+  "answer": "TIFF 在专业应用程序中得到广泛支持（Photoshop、Affinity、许多 RIP/打印工具）。一些简单的查看器可能不支持所有压缩选项。"
 
-    }
-    {
-      "question": "TIFF 在所有应用程序中都能工作吗？"
+    },
+  {
+      "question": "TIFF 文件比 JPG 大多少？",
+  "answer": "通常比相同尺寸的 JPG 大 3-10 倍（根据内容和压缩而异）。"
 
-      "answer": "TIFF 在专业应用程序中得到广泛支持（Photoshop、Affinity、许多 RIP/打印工具）。一些简单的查看器可能不支持所有压缩选项。"
+    },
+  {
+      "question": "支持什么文件大小？",
+  "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
 
-    }
-    {
-      "question": "TIFF 文件比 JPG 大多少？"
+    },
+  {
+      "question": "我的文件安全吗？",
+  "answer": "文件会自动处理，不会保留超过转换所需的时间。"
 
-      "answer": "通常比相同尺寸的 JPG 大 3-10 倍（根据内容和压缩而异）。"
+    },
+  {
+      "question": "我可以一次转换多个 JPG 吗？",
+  "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
 
-    }
-    {
-      "question": "支持什么文件大小？"
-
-      "answer": "您可以上传每个文件最多 16&nbsp;MB 的图像。"
-
-    }
-    {
-      "question": "我的文件安全吗？"
-
-      "answer": "文件会自动处理，不会保留超过转换所需的时间。"
-
-    }
-    {
-      "question": "我可以一次转换多个 JPG 吗？"
-
-      "answer": "此页面一次转换一个文件。对于批量需求，请重复该过程或使用批处理工具。"
-
-    }
-    {
-      "question": "TIFF 支持图层吗？"
-
-      "answer": "标准 TIFF 是平面的；一些应用程序以自己的方式存储 '分层 TIFF'。此工具输出平面 TIFF。"
+    },
+  {
+      "question": "TIFF 支持图层吗？",
+  "answer": "标准 TIFF 是平面的；一些应用程序以自己的方式存储 '分层 TIFF'。此工具输出平面 TIFF。"
 
     }
-  ]
-  "note": "TIFF 适合存储/打印，但文件较大。对于网页，考虑使用 PNG/WebP/AVIF。"
-
+  ],
+  "note": "TIFF 适合存储/打印，但文件较大。对于网页，考虑使用 PNG/WebP/AVIF。",
   "related_links": [
     {
-      "title": "将 JPG 转换为 PNG"
+      "title": "将 JPG 转换为 PNG",
+  "url": "/zh/convert/jpg-to-png"
 
-      "url": "/zh/convert/jpg-to-png"
+    },
+  {
+      "title": "将 JPG 转换为 WebP",
+  "url": "/zh/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "将 JPG 转换为 WebP"
-
-      "url": "/zh/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "将 PNG 转换为 TIFF"
-
-      "url": "/zh/convert/png-to-tiff"
+    },
+  {
+      "title": "将 PNG 转换为 TIFF",
+  "url": "/zh/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 保留所有权利。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 保留所有权利。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG 转 TIFF 转换器 - 免费在线"
-
-      "url": "https://miconvert.com/zh/convert/jpg-to-tiff"
-
-      "description": "免费的在线工具，将 JPG 图像转换为 TIFF，提供无损压缩和打印准备输出。"
-
-      "inLanguage": "zh"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG 转 TIFF 转换器 - 免费在线",
+  "url": "https://miconvert.com/zh/convert/jpg-to-tiff",
+  "description": "免费的在线工具，将 JPG 图像转换为 TIFF，提供无损压缩和打印准备输出。",
+  "inLanguage": "zh",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "首页",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "首页"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "转换",
+  "item": "https://miconvert.com/zh/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "转换"
-
-          "item": "https://miconvert.com/zh/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG 转 TIFF"
-
-          "item": "https://miconvert.com/zh/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG 转 TIFF",
+  "item": "https://miconvert.com/zh/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG 转 TIFF 转换器",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/zh/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "无损 LZW 选项",
+  "打印准备 300 DPI",
+  "准确的颜色"
 
-      "name": "JPG 转 TIFF 转换器"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/zh/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "无损 LZW 选项"
-
-        "打印准备 300 DPI"
-
-        "准确的颜色"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "这个 JPG 转 TIFF 转换器是免费的吗？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
+          "@type": "Question",
+  "name": "这个 JPG 转 TIFF 转换器是免费的吗？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "是的，转换器完全免费，没有隐藏费用或订阅。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "支持什么文件大小？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上传每个文件最多 16 MB 的图像。"
+        },
+  {
+          "@type": "Question",
+  "name": "支持什么文件大小？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "您可以上传每个文件最多 16 MB 的图像。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "TIFF 支持图层吗？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "标准 TIFF 是平面的。一些应用程序存储私有图层数据；此工具输出平面 TIFF。"
+        },
+  {
+          "@type": "Question",
+  "name": "TIFF 支持图层吗？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "标准 TIFF 是平面的。一些应用程序存储私有图层数据；此工具输出平面 TIFF。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何将 JPG 转换为 TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "如何将 JPG 转换为 TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "点击上传 JPG 并选择您的照片。"
 
-          "text": "点击上传 JPG 并选择您的照片。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "等待处理完成。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "点击下载 TIFF 保存文件。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "等待处理完成。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "点击下载 TIFF 保存文件。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG 转 TIFF 转换器"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

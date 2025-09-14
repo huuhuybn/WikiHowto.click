@@ -1,364 +1,272 @@
 {
-  "lang": "hu"
-
-  "lang_name": "Magyar"
-
-  "title": "PNG-ból BMP-be Átalakító - Ingyenes és Online | miconvert.com"
-
-  "sub_title": "Konvertálja a PNG képeket BMP formátumba online, tömörítetlen, veszteségmentes pixeladatokkal. Nincsenek vízjelek."
-
-  "hint": "Töltse fel a PNG képét az átalakítás megkezdéséhez..."
-
-  "btn_download": "Konvertálás BMP-re"
-
-  "btn_paste": "PNG feltöltése"
-
-  "btn_clear": "Törlés"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "hu",
+  "lang_name": "Magyar",
+  "title": "PNG-ból BMP-be Átalakító - Ingyenes és Online | miconvert.com",
+  "sub_title": "Konvertálja a PNG képeket BMP formátumba online, tömörítetlen, veszteségmentes pixeladatokkal. Nincsenek vízjelek.",
+  "hint": "Töltse fel a PNG képét az átalakítás megkezdéséhez...",
+  "btn_download": "Konvertálás BMP-re",
+  "btn_paste": "PNG feltöltése",
+  "btn_clear": "Törlés",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Konvertálja a PNG-t BMP-be - Ingyenes Online PNG-ból BMP-be Átalakító"
+    "title": "Konvertálja a PNG-t BMP-be - Ingyenes Online PNG-ból BMP-be Átalakító",
+  "description": "Konvertálja a PNG képeket BMP formátumba online ingyen. Magas minőségű PNG-ból BMP-be átalakítás gyors feldolgozással.",
+  "keywords": "png bmp, konvertálja a png-t bmp-be, ingyenes png bmp, online bmp átalakító, kép átalakítás",
+  "canonical": "https://miconvert.com/hu/convert/png-to-bmp",
+  "og_title": "Konvertálja a PNG-t BMP-be - Ingyenes Online PNG-ból BMP-be Átalakító",
+  "og_description": "Konvertálja a PNG képeket BMP formátumba online ingyen. Magas minőségű PNG-ból BMP-be átalakítás gyors feldolgozással.",
+  "og_url": "https://miconvert.com/hu/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Konvertálja a PNG képeket BMP formátumba online ingyen. Magas minőségű PNG-ból BMP-be átalakítás gyors feldolgozással."
-
-    "keywords": "png bmp, konvertálja a png-t bmp-be, ingyenes png bmp, online bmp átalakító, kép átalakítás"
-
-    "canonical": "https://miconvert.com/hu/convert/png-to-bmp"
-
-    "og_title": "Konvertálja a PNG-t BMP-be - Ingyenes Online PNG-ból BMP-be Átalakító"
-
-    "og_description": "Konvertálja a PNG képeket BMP formátumba online ingyen. Magas minőségű PNG-ból BMP-be átalakítás gyors feldolgozással."
-
-    "og_url": "https://miconvert.com/hu/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertálja a PNG-t BMP-be Online"
+    "title": "Konvertálja a PNG-t BMP-be Online",
+  "description": "Ingyenes PNG-ból BMP-be átalakító tömörítetlen, veszteségmentes pixeladatokkal. Működik bármilyen eszközön — regisztráció nem szükséges."
 
-    "description": "Ingyenes PNG-ból BMP-be átalakító tömörítetlen, veszteségmentes pixeladatokkal. Működik bármilyen eszközön — regisztráció nem szükséges."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "PNG-ból BMP-be Átalakító"
-
-    "description": "Konvertálja a PNG képeket BMP-be gyors feldolgozással és pontos színekkel."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "PNG-ból BMP-be Átalakító",
+  "description": "Konvertálja a PNG képeket BMP-be gyors feldolgozással és pontos színekkel.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Tömörítetlen (veszteségmentes) pixeladatok",
+  "Magas kompatibilitás Windows rendszeren",
+  "Gyors feldolgozás",
+  "Ingyenes online eszköz"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Tömörítetlen (veszteségmentes) pixeladatok"
-
-      "Magas kompatibilitás Windows rendszeren"
-
-      "Gyors feldolgozás"
-
-      "Ingyenes online eszköz"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG-ból BMP-be Átalakítás Befejeződött"
+    "title": "PNG-ból BMP-be Átalakítás Befejeződött",
+  "back_button": "Vissza az Átalakítóhoz",
+  "convert_another": "Konvertáljon Egy Másik PNG-t",
+  "quick_conversions": "Gyors Átalakítások:"
 
-    "back_button": "Vissza az Átalakítóhoz"
-
-    "convert_another": "Konvertáljon Egy Másik PNG-t"
-
-    "quick_conversions": "Gyors Átalakítások:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miért Konvertálja a PNG-t BMP-be?"
+      "title": "Miért Konvertálja a PNG-t BMP-be?",
+  "description": "<p>A BMP egy egyszerű raszteres formátum, amely tömörítés nélkül tárolja a pixeleket — hasznos bizonyos munkafolyamatokhoz:</p><ul><li><strong>Nincsenek új artefaktumok:</strong> Tartsa meg a pixeleket érintetlenül alacsony szintű szerkesztéshez.</li><li><strong>Egyszerű struktúra:</strong> Könnyen olvasható és manipulálható programok számára.</li><li><strong>Örökölt/beágyazott alkalmazások:</strong> Néhány Windows eszköz előnyben részesíti a BMP-t.</li></ul>"
 
-      "description": "<p>A BMP egy egyszerű raszteres formátum, amely tömörítés nélkül tárolja a pixeleket — hasznos bizonyos munkafolyamatokhoz:</p><ul><li><strong>Nincsenek új artefaktumok:</strong> Tartsa meg a pixeleket érintetlenül alacsony szintű szerkesztéshez.</li><li><strong>Egyszerű struktúra:</strong> Könnyen olvasható és manipulálható programok számára.</li><li><strong>Örökölt/beágyazott alkalmazások:</strong> Néhány Windows eszköz előnyben részesíti a BMP-t.</li></ul>"
+    },
+  {
+      "title": "Hogyan Konvertálja a PNG-t BMP-be Online",
+  "description": "<ol><li>Kattintson a <em>PNG feltöltése</em> gombra, és válassza ki a fájlt.</li><li>Várja meg, amíg a feldolgozás befejeződik.</li><li>Kattintson a <em>BMP letöltése</em> gombra a kép mentéséhez.</li></ol><p>Alapértelmezett 24 bites BMP tömörítés nélkül.</p>"
 
-    }
-    {
-      "title": "Hogyan Konvertálja a PNG-t BMP-be Online"
+    },
+  {
+      "title": "BMP vs PNG Összehasonlítás",
+  "description": "<ul><li><strong>Fájlméret:</strong> A BMP általában sokkal nagyobb, mint a PNG.</li><li><strong>Minőség:</strong> Mindkettő veszteségmentes (BMP tömörítetlen; PNG veszteségmentesen tömörített).</li><li><strong>Átlátszóság:</strong> A PNG támogatja az alfa csatornát; a közönséges 24 bites BMP <em>nem</em>.</li><li><strong>Tömörítés:</strong> BMP nem; PNG veszteségmentes DEFLATE.</li><li><strong>Felhasználási esetek:</strong> BMP örökölt/pixel műveletekhez; PNG webhez és hatékony veszteségmentes tároláshoz.</li></ul>"
 
-      "description": "<ol><li>Kattintson a <em>PNG feltöltése</em> gombra, és válassza ki a fájlt.</li><li>Várja meg, amíg a feldolgozás befejeződik.</li><li>Kattintson a <em>BMP letöltése</em> gombra a kép mentéséhez.</li></ol><p>Alapértelmezett 24 bites BMP tömörítés nélkül.</p>"
+    },
+  {
+      "title": "Támogatott Határok és Formátumok",
+  "description": "<ul><li><strong>Elfogadott bemenet:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitmélység:</strong> 24-bites (nincs alfa)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs PNG Összehasonlítás"
-
-      "description": "<ul><li><strong>Fájlméret:</strong> A BMP általában sokkal nagyobb, mint a PNG.</li><li><strong>Minőség:</strong> Mindkettő veszteségmentes (BMP tömörítetlen; PNG veszteségmentesen tömörített).</li><li><strong>Átlátszóság:</strong> A PNG támogatja az alfa csatornát; a közönséges 24 bites BMP <em>nem</em>.</li><li><strong>Tömörítés:</strong> BMP nem; PNG veszteségmentes DEFLATE.</li><li><strong>Felhasználási esetek:</strong> BMP örökölt/pixel műveletekhez; PNG webhez és hatékony veszteségmentes tároláshoz.</li></ul>"
-
-    }
-    {
-      "title": "Támogatott Határok és Formátumok"
-
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitmélység:</strong> 24-bites (nincs alfa)</li></ul>"
-
-    }
-    {
-      "title": "Hibaelhárítás"
-
-      "description": "<ul><li><strong>Nagyon nagy kimenet:</strong> A BMP tömörítetlen; kisebb veszteségmenteshez tartsa meg a PNG-t.</li><li><strong>Átlátszóság szükséges:</strong> A 24 bites BMP nem tartalmaz alfa csatornát; maradjon a PNG-nél.</li><li><strong>A feltöltés nem sikerült:</strong> Győződjön meg arról, hogy a fájl PNG és ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Hibaelhárítás",
+  "description": "<ul><li><strong>Nagyon nagy kimenet:</strong> A BMP tömörítetlen; kisebb veszteségmenteshez tartsa meg a PNG-t.</li><li><strong>Átlátszóság szükséges:</strong> A 24 bites BMP nem tartalmaz alfa csatornát; maradjon a PNG-nél.</li><li><strong>A feltöltés nem sikerült:</strong> Győződjön meg arról, hogy a fájl PNG és ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ingyenes ez a PNG-ból BMP-be átalakító?"
+      "question": "Ingyenes ez a PNG-ból BMP-be átalakító?",
+  "answer": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett díjak vagy előfizetések."
 
-      "answer": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett díjak vagy előfizetések."
+    },
+  {
+      "question": "A BMP működik minden alkalmazásban?",
+  "answer": "A BMP széles körben támogatott Windows rendszeren, és sok más platform által is elismert. A modern webes munkafolyamatok általában a PNG/WebP-t részesítik előnyben a méret hatékonysága miatt."
 
-    }
-    {
-      "question": "A BMP működik minden alkalmazásban?"
+    },
+  {
+      "question": "Mennyivel nagyobbak a BMP fájlok a PNG-hoz képest?",
+  "answer": "Gyakran többszörösen nagyobbak (pl. 3–10× vagy még több), mert a BMP tömörítetlen."
 
-      "answer": "A BMP széles körben támogatott Windows rendszeren, és sok más platform által is elismert. A modern webes munkafolyamatok általában a PNG/WebP-t részesítik előnyben a méret hatékonysága miatt."
+    },
+  {
+      "question": "Milyen fájlméretek támogatottak?",
+  "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthet fel fájlonként."
 
-    }
-    {
-      "question": "Mennyivel nagyobbak a BMP fájlok a PNG-hoz képest?"
+    },
+  {
+      "question": "Biztonságban vannak a fájljaim?",
+  "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél az átalakításhoz."
 
-      "answer": "Gyakran többszörösen nagyobbak (pl. 3–10× vagy még több), mert a BMP tömörítetlen."
+    },
+  {
+      "question": "Több PNG-t is átalakíthatok egyszerre?",
+  "answer": "Ez az oldal egyszerre egy fájlt konvertál. Tömeges igények esetén ismételje meg a folyamatot, vagy használjon egy csoportos eszközt."
 
-    }
-    {
-      "question": "Milyen fájlméretek támogatottak?"
-
-      "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthet fel fájlonként."
-
-    }
-    {
-      "question": "Biztonságban vannak a fájljaim?"
-
-      "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél az átalakításhoz."
-
-    }
-    {
-      "question": "Több PNG-t is átalakíthatok egyszerre?"
-
-      "answer": "Ez az oldal egyszerre egy fájlt konvertál. Tömeges igények esetén ismételje meg a folyamatot, vagy használjon egy csoportos eszközt."
-
-    }
-    {
-      "question": "Támogatja a BMP az átlátszóságot?"
-
-      "answer": "A standard 24 bites BMP nem tartalmaz alfa csatornát. Az átlátszósághoz használjon PNG-t."
+    },
+  {
+      "question": "Támogatja a BMP az átlátszóságot?",
+  "answer": "A standard 24 bites BMP nem tartalmaz alfa csatornát. Az átlátszósághoz használjon PNG-t."
 
     }
-  ]
-  "note": "A BMP kimenet szándékosan nagy (tömörítetlen). Webes szállításhoz a PNG/WebP/AVIF-t részesítse előnyben."
-
+  ],
+  "note": "A BMP kimenet szándékosan nagy (tömörítetlen). Webes szállításhoz a PNG/WebP/AVIF-t részesítse előnyben.",
   "related_links": [
     {
-      "title": "Konvertálja a BMP-t PNG-be"
+      "title": "Konvertálja a BMP-t PNG-be",
+  "url": "/hu/convert/bmp-to-png"
 
-      "url": "/hu/convert/bmp-to-png"
+    },
+  {
+      "title": "Konvertálja a PNG-t JPG-be",
+  "url": "/hu/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Konvertálja a PNG-t JPG-be"
-
-      "url": "/hu/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Konvertálja a PNG-t WebP-be"
-
-      "url": "/hu/convert/png-to-webp"
+    },
+  {
+      "title": "Konvertálja a PNG-t WebP-be",
+  "url": "/hu/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG-ból BMP-be Átalakító - Ingyenes és Online"
-
-      "url": "https://miconvert.com/hu/convert/png-to-bmp"
-
-      "description": "Ingyenes online eszköz a PNG képek BMP-be történő konvertálására tömörítetlen, veszteségmentes pixeladatokkal."
-
-      "inLanguage": "hu"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG-ból BMP-be Átalakító - Ingyenes és Online",
+  "url": "https://miconvert.com/hu/convert/png-to-bmp",
+  "description": "Ingyenes online eszköz a PNG képek BMP-be történő konvertálására tömörítetlen, veszteségmentes pixeladatokkal.",
+  "inLanguage": "hu",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Kezdőlap",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Kezdőlap"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertálás",
+  "item": "https://miconvert.com/hu/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertálás"
-
-          "item": "https://miconvert.com/hu/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG-ból BMP-be"
-
-          "item": "https://miconvert.com/hu/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG-ból BMP-be",
+  "item": "https://miconvert.com/hu/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG-ból BMP-be Átalakító",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/hu/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Tömörítetlen pixeladatok",
+  "Pontos színek",
+  "Gyors feldolgozás"
 
-      "name": "PNG-ból BMP-be Átalakító"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hu/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Tömörítetlen pixeladatok"
-
-        "Pontos színek"
-
-        "Gyors feldolgozás"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ingyenes ez a PNG-ból BMP-be átalakító?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett díjak vagy előfizetések."
+          "@type": "Question",
+  "name": "Ingyenes ez a PNG-ból BMP-be átalakító?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Igen, az átalakító teljesen ingyenes, nincsenek rejtett díjak vagy előfizetések."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milyen fájlméretek támogatottak?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Legfeljebb 16 MB méretű képeket tölthet fel fájlonként."
+        },
+  {
+          "@type": "Question",
+  "name": "Milyen fájlméretek támogatottak?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Legfeljebb 16 MB méretű képeket tölthet fel fájlonként."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Támogatja a BMP az átlátszóságot?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "A standard 24 bites BMP nem tartalmaz alfa csatornát. Az átlátszósághoz használjon PNG-t."
+        },
+  {
+          "@type": "Question",
+  "name": "Támogatja a BMP az átlátszóságot?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "A standard 24 bites BMP nem tartalmaz alfa csatornát. Az átlátszósághoz használjon PNG-t."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hogyan konvertálja a PNG-t BMP-be"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hogyan konvertálja a PNG-t BMP-be",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kattintson a PNG feltöltése gombra, és válassza ki a fájlt."
 
-          "text": "Kattintson a PNG feltöltése gombra, és válassza ki a fájlt."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Várja meg, amíg a feldolgozás befejeződik."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kattintson a BMP letöltése gombra a kép mentéséhez."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Várja meg, amíg a feldolgozás befejeződik."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kattintson a BMP letöltése gombra a kép mentéséhez."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG-ból BMP-be Átalakító"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

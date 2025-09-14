@@ -1,364 +1,276 @@
 {
-  "lang": "zh-TW"
-
-  "lang_name": "中文（繁體）"
-
-  "title": "GIF 轉 PNG 轉換器 - 免費與線上 | miconvert.com"
-
-  "sub_title": "在線轉換 GIF 圖像為 PNG 格式，支持透明度，高品質，無水印。"
-
-  "hint": "上傳您的 GIF 圖像以開始轉換..."
-
-  "btn_download": "轉換為 PNG"
-
-  "btn_paste": "上傳 GIF"
-
-  "btn_clear": "清除"
-
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "GIF 轉 PNG 轉換器 - 免費與線上 | miconvert.com",
+  "sub_title": "在線轉換 GIF 圖像為 PNG 格式，支持透明度，高品質，無水印。",
+  "hint": "上傳您的 GIF 圖像以開始轉換...",
+  "btn_download": "轉換為 PNG",
+  "btn_paste": "上傳 GIF",
+  "btn_clear": "清除",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>將您的 <strong>GIF 轉換為 PNG</strong>，以獲得更高的保真度和完整的透明度支持。我們的免費在線轉換器將動畫或靜態 GIF 轉換為高品質的 PNG 圖像。雖然 GIF 適合簡單的動畫，但 PNG 提供了更優越的色彩深度、更好的透明度和無損壓縮，適合清晰的靜態圖形。</p><p><strong>注意：</strong>動畫 GIF 會轉換為 <em>單一靜態圖像</em>（第一幀）。要獲得動畫輸出，請嘗試 <a href='/en/convert/gif-to-webp'>GIF 轉 WebP</a>。</p>"
-
+  },
+  "description": "<p>將您的 <strong>GIF 轉換為 PNG</strong>，以獲得更高的保真度和完整的透明度支持。我們的免費在線轉換器將動畫或靜態 GIF 轉換為高品質的 PNG 圖像。雖然 GIF 適合簡單的動畫，但 PNG 提供了更優越的色彩深度、更好的透明度和無損壓縮，適合清晰的靜態圖形。</p><p><strong>注意：</strong>動畫 GIF 會轉換為 <em>單一靜態圖像</em>（第一幀）。要獲得動畫輸出，請嘗試 <a href='/en/convert/gif-to-webp'>GIF 轉 WebP</a>。</p>",
   "head": {
-    "title": "在線轉換 GIF 為 PNG - 免費 GIF 轉 PNG 轉換器 | miconvert.com"
+    "title": "在線轉換 GIF 為 PNG - 免費 GIF 轉 PNG 轉換器 | miconvert.com",
+  "description": "在線轉換 GIF 為 PNG，支持透明度，高品質，無水印。免費、快速且安全的 GIF 轉 PNG 轉換工具。",
+  "keywords": "gif 轉 png, 轉換 gif 為 png, 免費 gif 轉 png, 在線 gif 轉換器, 透明圖像",
+  "canonical": "https://miconvert.com/en/convert/gif-to-png",
+  "og_title": "GIF 轉 PNG 轉換器 - 免費與線上",
+  "og_description": "將 GIF 圖像轉換為 PNG 格式，支持透明度和高品質。100% 免費、快速且安全。",
+  "og_url": "https://miconvert.com/en/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "在線轉換 GIF 為 PNG，支持透明度，高品質，無水印。免費、快速且安全的 GIF 轉 PNG 轉換工具。"
-
-    "keywords": "gif 轉 png, 轉換 gif 為 png, 免費 gif 轉 png, 在線 gif 轉換器, 透明圖像"
-
-    "canonical": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_title": "GIF 轉 PNG 轉換器 - 免費與線上"
-
-    "og_description": "將 GIF 圖像轉換為 PNG 格式，支持透明度和高品質。100% 免費、快速且安全。"
-
-    "og_url": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在線轉換 GIF 為 PNG"
+    "title": "在線轉換 GIF 為 PNG",
+  "description": "免費且快速的 GIF 轉 PNG 轉換器，支持透明度和高品質。可在任何設備上立即使用，無需註冊。"
 
-    "description": "免費且快速的 GIF 轉 PNG 轉換器，支持透明度和高品質。可在任何設備上立即使用，無需註冊。"
-
-  }
+  },
   "h2": [
     {
-      "title": "為什麼要將 GIF 轉換為 PNG？"
+      "title": "為什麼要將 GIF 轉換為 PNG？",
+  "description": "<p>GIF 限制為 256 種顏色，適合簡單的動畫。PNG 非常適合高品質的靜態圖像：</p><ul><li><strong>更高的質量：</strong>真彩色（24 位）+ alpha 對比 GIF 的 8 位調色板。</li><li><strong>透明度：</strong>PNG 支持完整的 alpha 透明度，邊緣平滑。</li><li><strong>無損壓縮：</strong>PNG 保留細節而不損失質量。</li><li><strong>通用兼容性：</strong>在應用程序和平台上廣泛支持。</li></ul>"
 
-      "description": "<p>GIF 限制為 256 種顏色，適合簡單的動畫。PNG 非常適合高品質的靜態圖像：</p><ul><li><strong>更高的質量：</strong>真彩色（24 位）+ alpha 對比 GIF 的 8 位調色板。</li><li><strong>透明度：</strong>PNG 支持完整的 alpha 透明度，邊緣平滑。</li><li><strong>無損壓縮：</strong>PNG 保留細節而不損失質量。</li><li><strong>通用兼容性：</strong>在應用程序和平台上廣泛支持。</li></ul>"
+    },
+  {
+      "title": "如何在線將 GIF 轉換為 PNG",
+  "description": "<ol><li>點擊 <em>上傳 GIF</em> 並選擇您的文件。</li><li>等待處理完成。</li><li>點擊 <em>下載 PNG</em> 以保存結果。</li></ol><p>動畫 GIF：僅第一幀會導出為 PNG。</p>"
 
-    }
-    {
-      "title": "如何在線將 GIF 轉換為 PNG"
+    },
+  {
+      "title": "GIF 與 PNG：主要區別",
+  "description": "<table class='table-compare'><thead><tr><th>特徵</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>顏色深度</td><td>8 位（256 種顏色）</td><td>真彩色（24 位）+ alpha</td></tr><tr><td>透明度</td><td>1 位掩碼（開/關）</td><td>完整的 alpha 透明度</td></tr><tr><td>壓縮</td><td>無損（LZW）</td><td>無損（DEFLATE）</td></tr><tr><td>動畫</td><td>支持</td><td>不支持（靜態）</td></tr><tr><td>最佳用途</td><td>簡單動畫、貼紙</td><td>標誌、UI、截圖、靜態圖形</td></tr></tbody></table>"
 
-      "description": "<ol><li>點擊 <em>上傳 GIF</em> 並選擇您的文件。</li><li>等待處理完成。</li><li>點擊 <em>下載 PNG</em> 以保存結果。</li></ol><p>動畫 GIF：僅第一幀會導出為 PNG。</p>"
+    },
+  {
+      "title": "支持的限制與格式",
+  "description": "<ul><li><strong>接受的輸入：</strong>GIF (<code>image/gif</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF 與 PNG：主要區別"
+    },
+  {
+      "title": "我們的 GIF 轉 PNG 轉換器的特點",
+  "description": "<ul><li>100% 免費，無水印</li><li>保留存在的透明度</li><li>無損 PNG 輸出</li><li>適合移動設備的界面</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>特徵</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>顏色深度</td><td>8 位（256 種顏色）</td><td>真彩色（24 位）+ alpha</td></tr><tr><td>透明度</td><td>1 位掩碼（開/關）</td><td>完整的 alpha 透明度</td></tr><tr><td>壓縮</td><td>無損（LZW）</td><td>無損（DEFLATE）</td></tr><tr><td>動畫</td><td>支持</td><td>不支持（靜態）</td></tr><tr><td>最佳用途</td><td>簡單動畫、貼紙</td><td>標誌、UI、截圖、靜態圖形</td></tr></tbody></table>"
+    },
+  {
+      "title": "什麼是 GIF？",
+  "description": "<p>GIF（圖形交換格式）支持基本動畫並使用無損的 LZW 壓縮，但限制為 256 種顏色調色板。</p>"
 
-    }
-    {
-      "title": "支持的限制與格式"
+    },
+  {
+      "title": "什麼是 PNG？",
+  "description": "<p>PNG（可攜式網絡圖形）是一種無損格式，支持真彩色和 alpha 透明度，非常適合高品質的靜態圖像。</p>"
 
-      "description": "<ul><li><strong>接受的輸入：</strong>GIF (<code>image/gif</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "故障排除",
+  "description": "<ul><li><strong>上傳失敗：</strong>確保文件為 GIF 且 ≤ 16&nbsp;MB。</li><li><strong>鋸齒狀透明邊緣：</strong>GIF 的 1 位透明度可能看起來很粗糙；使用 <a href='/en/effect/remove-background'>背景去除器</a> 進行精細化處理。</li><li><strong>需要動畫：</strong>使用 <a href='/en/convert/gif-to-webp'>GIF 轉 WebP</a> 以保持運動。</li></ul>"
 
-    }
-    {
-      "title": "我們的 GIF 轉 PNG 轉換器的特點"
-
-      "description": "<ul><li>100% 免費，無水印</li><li>保留存在的透明度</li><li>無損 PNG 輸出</li><li>適合移動設備的界面</li></ul>"
-
-    }
-    {
-      "title": "什麼是 GIF？"
-
-      "description": "<p>GIF（圖形交換格式）支持基本動畫並使用無損的 LZW 壓縮，但限制為 256 種顏色調色板。</p>"
-
-    }
-    {
-      "title": "什麼是 PNG？"
-
-      "description": "<p>PNG（可攜式網絡圖形）是一種無損格式，支持真彩色和 alpha 透明度，非常適合高品質的靜態圖像。</p>"
-
-    }
-    {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>上傳失敗：</strong>確保文件為 GIF 且 ≤ 16&nbsp;MB。</li><li><strong>鋸齒狀透明邊緣：</strong>GIF 的 1 位透明度可能看起來很粗糙；使用 <a href='/en/effect/remove-background'>背景去除器</a> 進行精細化處理。</li><li><strong>需要動畫：</strong>使用 <a href='/en/convert/gif-to-webp'>GIF 轉 WebP</a> 以保持運動。</li></ul>"
+    },
+  {
+      "title": "使用案例：何時將 GIF 轉換為 PNG",
+  "description": "<ul><li><strong>需要平滑透明度的標誌和圖標。</strong></li><li><strong>需要清晰文本和線條的截圖/UI。</strong></li><li><strong>以更高質量存檔靜態幀。</strong></li></ul>"
 
     }
-    {
-      "title": "使用案例：何時將 GIF 轉換為 PNG"
-
-      "description": "<ul><li><strong>需要平滑透明度的標誌和圖標。</strong></li><li><strong>需要清晰文本和線條的截圖/UI。</strong></li><li><strong>以更高質量存檔靜態幀。</strong></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "這個 GIF 轉 PNG 轉換器是免費的嗎？"
+      "question": "這個 GIF 轉 PNG 轉換器是免費的嗎？",
+  "answer": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
 
-      "answer": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+  {
+      "question": "PNG 會保留 GIF 的透明度嗎？",
+  "answer": "是的。GIF 的 1 位透明區域在 PNG 中保持透明；為了更平滑的邊緣，轉換後編輯 alpha 通道。"
 
-    }
-    {
-      "question": "PNG 會保留 GIF 的透明度嗎？"
+    },
+  {
+      "question": "動畫 GIF 會怎樣？",
+  "answer": "僅第一幀會轉換為靜態 PNG 圖像。要保持動畫，請使用 GIF 轉 WebP。"
 
-      "answer": "是的。GIF 的 1 位透明區域在 PNG 中保持透明；為了更平滑的邊緣，轉換後編輯 alpha 通道。"
+    },
+  {
+      "question": "將 GIF 轉換為 PNG 時會失去質量嗎？",
+  "answer": "不會。PNG 使用無損壓縮並支持完整顏色，通常比 256 顏色的 GIF 提高視覺保真度。"
 
-    }
-    {
-      "question": "動畫 GIF 會怎樣？"
+    },
+  {
+      "question": "支持什麼文件大小？",
+  "answer": "您可以上傳每個文件最多 16 MB 的圖像。"
 
-      "answer": "僅第一幀會轉換為靜態 PNG 圖像。要保持動畫，請使用 GIF 轉 WebP。"
+    },
+  {
+      "question": "我的文件安全嗎？",
+  "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
 
-    }
-    {
-      "question": "將 GIF 轉換為 PNG 時會失去質量嗎？"
-
-      "answer": "不會。PNG 使用無損壓縮並支持完整顏色，通常比 256 顏色的 GIF 提高視覺保真度。"
-
-    }
-    {
-      "question": "支持什麼文件大小？"
-
-      "answer": "您可以上傳每個文件最多 16 MB 的圖像。"
-
-    }
-    {
-      "question": "我的文件安全嗎？"
-
-      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
-
-    }
-    {
-      "question": "我可以同時轉換多個 GIF 文件嗎？"
-
-      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
+    },
+  {
+      "question": "我可以同時轉換多個 GIF 文件嗎？",
+  "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
 
     }
-  ]
-  "note": "動畫 GIF 變為靜態 PNG（第一幀）。要獲得動畫輸出，請將 GIF 轉換為 WebP。"
-
+  ],
+  "note": "動畫 GIF 變為靜態 PNG（第一幀）。要獲得動畫輸出，請將 GIF 轉換為 WebP。",
   "related_links": [
     {
-      "title": "將 GIF 轉換為 JPG"
+      "title": "將 GIF 轉換為 JPG",
+  "url": "/en/convert/gif-to-jpg"
 
-      "url": "/en/convert/gif-to-jpg"
+    },
+  {
+      "title": "將 PNG 轉換為 GIF",
+  "url": "/en/convert/png-to-gif"
 
-    }
-    {
-      "title": "將 PNG 轉換為 GIF"
-
-      "url": "/en/convert/png-to-gif"
-
-    }
-    {
-      "title": "將 GIF 轉換為 WebP"
-
-      "url": "/en/convert/gif-to-webp"
+    },
+  {
+      "title": "將 GIF 轉換為 WebP",
+  "url": "/en/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 版權所有。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 版權所有。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "GIF 轉 PNG 轉換器 - 免費與線上"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "description": "免費在線工具將 GIF 圖像轉換為 PNG，支持無損壓縮和透明度。"
-
-      "inLanguage": "zh-TW"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "GIF 轉 PNG 轉換器 - 免費與線上",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "description": "免費在線工具將 GIF 圖像轉換為 PNG，支持無損壓縮和透明度。",
+  "inLanguage": "zh-TW",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "首頁",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "首頁"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "轉換",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "轉換"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF 轉 PNG"
-
-          "item": "https://miconvert.com/en/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF 轉 PNG",
+  "item": "https://miconvert.com/en/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "GIF 轉 PNG 轉換器",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "無損 PNG 輸出",
+  "支持透明度",
+  "快速處理"
 
-      "name": "GIF 轉 PNG 轉換器"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "無損 PNG 輸出"
-
-        "支持透明度"
-
-        "快速處理"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "這個 GIF 轉 PNG 轉換器是免費的嗎？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
+          "@type": "Question",
+  "name": "這個 GIF 轉 PNG 轉換器是免費的嗎？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "動畫 GIF 會怎樣？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "僅第一幀會轉換為靜態 PNG 圖像。要保持動畫，請使用 GIF 轉 WebP。"
+        },
+  {
+          "@type": "Question",
+  "name": "動畫 GIF 會怎樣？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "僅第一幀會轉換為靜態 PNG 圖像。要保持動畫，請使用 GIF 轉 WebP。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "支持什麼文件大小？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+        },
+  {
+          "@type": "Question",
+  "name": "支持什麼文件大小？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "您可以上傳每個文件最多 16 MB 的圖像。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何將 GIF 轉換為 PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "如何將 GIF 轉換為 PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "點擊上傳 GIF 並選擇您的文件。"
 
-          "text": "點擊上傳 GIF 並選擇您的文件。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "等待處理完成。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "點擊下載 PNG 以保存結果。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "等待處理完成。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "點擊下載 PNG 以保存結果。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "GIF 轉 PNG 轉換器"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

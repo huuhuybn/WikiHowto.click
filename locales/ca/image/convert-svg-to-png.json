@@ -1,358 +1,266 @@
 {
-  "lang": "ca"
-
-  "lang_name": "Català"
-
-  "title": "Conversor SVG a PNG - Gratuït i en línia | miconvert.com"
-
-  "sub_title": "Converteix gràfics vectorials SVG a PNG en línia amb rasterització nítida, transparència i sense marques d'aigua."
-
-  "hint": "Puja el teu fitxer SVG per començar a convertir..."
-
-  "btn_download": "Converteix a PNG"
-
-  "btn_paste": "Puja SVG"
-
-  "btn_clear": "Neteja"
-
-  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
-
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor SVG a PNG - Gratuït i en línia | miconvert.com",
+  "sub_title": "Converteix gràfics vectorials SVG a PNG en línia amb rasterització nítida, transparència i sense marques d'aigua.",
+  "hint": "Puja el teu fitxer SVG per començar a convertir...",
+  "btn_download": "Converteix a PNG",
+  "btn_paste": "Puja SVG",
+  "btn_clear": "Neteja",
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg",
   "head": {
-    "title": "Converteix SVG a PNG - Conversor SVG a PNG gratuït en línia | miconvert.com"
+    "title": "Converteix SVG a PNG - Conversor SVG a PNG gratuït en línia | miconvert.com",
+  "description": "Converteix gràfics vectorials SVG a PNG en línia de manera gratuïta. Rasterització SVG→PNG d'alta qualitat amb processament ràpid i suport de transparència.",
+  "keywords": "svg a png, converteix svg a png, vector a raster, conversor svg gratuït, conversor png en línia",
+  "canonical": "https://miconvert.com/ca/convert/svg-to-png",
+  "og_title": "Conversor SVG a PNG - Gratuït i en línia",
+  "og_description": "Converteix SVG a PNG amb rasterització nítida i transparència. 100% gratuït, ràpid i segur.",
+  "og_url": "https://miconvert.com/ca/convert/svg-to-png",
+  "og_image": "https://miconvert.com/images/svg-to-png.jpg"
 
-    "description": "Converteix gràfics vectorials SVG a PNG en línia de manera gratuïta. Rasterització SVG→PNG d'alta qualitat amb processament ràpid i suport de transparència."
-
-    "keywords": "svg a png, converteix svg a png, vector a raster, conversor svg gratuït, conversor png en línia"
-
-    "canonical": "https://miconvert.com/ca/convert/svg-to-png"
-
-    "og_title": "Conversor SVG a PNG - Gratuït i en línia"
-
-    "og_description": "Converteix SVG a PNG amb rasterització nítida i transparència. 100% gratuït, ràpid i segur."
-
-    "og_url": "https://miconvert.com/ca/convert/svg-to-png"
-
-    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Converteix SVG a PNG en línia"
+    "title": "Converteix SVG a PNG en línia",
+  "description": "Conversor SVG a PNG gratuït i ràpid amb rasterització nítida i suport de transparència. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
 
-    "description": "Conversor SVG a PNG gratuït i ràpid amb rasterització nítida i suport de transparència. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-
-  }
-  "description": "<p>Converteix el teu <strong>SVG a PNG</strong> en segons. Aquest conversor en línia gratuït rasteritza els teus gràfics vectorials en imatges PNG d'alta qualitat mentre preserva la transparència per a vores netes sobre qualsevol fons.</p><p>Perfecte per a favicons, actius d'aplicacions, imatges socials i gràfics web. Optimitzem la sortida per a un fort equilibri entre claredat i mida de fitxer.</p>"
-
+  },
+  "description": "<p>Converteix el teu <strong>SVG a PNG</strong> en segons. Aquest conversor en línia gratuït rasteritza els teus gràfics vectorials en imatges PNG d'alta qualitat mentre preserva la transparència per a vores netes sobre qualsevol fons.</p><p>Perfecte per a favicons, actius d'aplicacions, imatges socials i gràfics web. Optimitzem la sortida per a un fort equilibri entre claredat i mida de fitxer.</p>",
   "converter": {
-    "type": "svg-to-png"
-
-    "title": "Conversor SVG a PNG"
-
-    "description": "Converteix gràfics vectorials SVG a format raster PNG amb alta qualitat i processament ràpid."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "PNG"
-
-    "allowedTypes": [
+    "type": "svg-to-png",
+  "title": "Conversor SVG a PNG",
+  "description": "Converteix gràfics vectorials SVG a format raster PNG amb alta qualitat i processament ràpid.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "SVG",
+  "outputFormat": "PNG",
+  "allowedTypes": [
       "image/svg+xml"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "features": [
+      "Rasterització d'alta qualitat",
+  "Transparència preservada",
+  "Processament ràpid",
+  "Eina en línia gratuïta"
 
-    "outputExtension": ".png"
-
-    "features": [
-      "Rasterització d'alta qualitat"
-
-      "Transparència preservada"
-
-      "Processament ràpid"
-
-      "Eina en línia gratuïta"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
-        "background": "transparent"
-
-        "width": null
-        "height": null
-        "scale": 1
+        "compressionLevel": 6,
+  "progressive": false,
+  "background": "transparent",
+  "width": null,
+  "height": null,
+  "scale": 1
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversió SVG a PNG completada"
+    "title": "Conversió SVG a PNG completada",
+  "back_button": "Torna al conversor",
+  "convert_another": "Converteix un altre SVG",
+  "quick_conversions": "Conversions ràpides:"
 
-    "back_button": "Torna al conversor"
-
-    "convert_another": "Converteix un altre SVG"
-
-    "quick_conversions": "Conversions ràpides:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Per què convertir SVG a PNG?"
+      "title": "Per què convertir SVG a PNG?",
+  "description": "<ul><li><strong>Compatibilitat universal:</strong> PNG es mostra a tot arreu, no es requereix suport SVG.</li><li><strong>Transparència:</strong> Preserva l'alpha per a superposicions i elements d'UI.</li><li><strong>Rendiment:</strong> Bitmaps més petits i emmagatzemables per a producció.</li></ul>"
 
-      "description": "<ul><li><strong>Compatibilitat universal:</strong> PNG es mostra a tot arreu, no es requereix suport SVG.</li><li><strong>Transparència:</strong> Preserva l'alpha per a superposicions i elements d'UI.</li><li><strong>Rendiment:</strong> Bitmaps més petits i emmagatzemables per a producció.</li></ul>"
+    },
+  {
+      "title": "Com convertir SVG a PNG en línia",
+  "description": "<ol><li>Fes clic a <em>Puja SVG</em> i selecciona el teu fitxer.</li><li>Espera la rasterització i l'optimització.</li><li>Fes clic a <em>Descarrega PNG</em> per desar la teva imatge.</li></ol><p>Els valors per defecte mantenen la transparència i una compressió equilibrada.</p>"
 
-    }
-    {
-      "title": "Com convertir SVG a PNG en línia"
+    },
+  {
+      "title": "Límits i formats suportats",
+  "description": "<ul><li><strong>Entrada acceptada:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Mida màxima del fitxer:</strong> 16&nbsp;MB</li><li><strong>Sortida:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
 
-      "description": "<ol><li>Fes clic a <em>Puja SVG</em> i selecciona el teu fitxer.</li><li>Espera la rasterització i l'optimització.</li><li>Fes clic a <em>Descarrega PNG</em> per desar la teva imatge.</li></ol><p>Els valors per defecte mantenen la transparència i una compressió equilibrada.</p>"
+    },
+  {
+      "title": "Millors pràctiques per a una sortida nítida",
+  "description": "<ul><li>Utilitza un tauler d'art quadrat amb marge per evitar retallades a les vores.</li><li>Converteix text a contorns; incrusta fonts i imatges.</li><li>Evita traços excessivament prims per a icones petites (≥1px a la mida objectiu).</li><li>Exporta més gran (per exemple, 512–1024 px) si després redimensionaràs.</li></ul>"
 
-    }
-    {
-      "title": "Límits i formats suportats"
-
-      "description": "<ul><li><strong>Entrada acceptada:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Mida màxima del fitxer:</strong> 16&nbsp;MB</li><li><strong>Sortida:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-
-    }
-    {
-      "title": "Millors pràctiques per a una sortida nítida"
-
-      "description": "<ul><li>Utilitza un tauler d'art quadrat amb marge per evitar retallades a les vores.</li><li>Converteix text a contorns; incrusta fonts i imatges.</li><li>Evita traços excessivament prims per a icones petites (≥1px a la mida objectiu).</li><li>Exporta més gran (per exemple, 512–1024 px) si després redimensionaràs.</li></ul>"
-
-    }
-    {
-      "title": "Solució de problemes"
-
-      "description": "<ul><li><strong>Fonts/filtres que falten:</strong> Actius en línia i converteix text a contorns.</li><li><strong>Vores esgrogueïdes:</strong> Augmenta la mida objectiu o <code>scale</code>, després redueix la resolució.</li><li><strong>Fons sòlid:</strong> Assegura't que <code>background</code> estigui configurat a <em>transparent</em> a les opcions.</li><li><strong>La pujada falla:</strong> Assegura't que el SVG sigui vàlid i ≤16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Solució de problemes",
+  "description": "<ul><li><strong>Fonts/filtres que falten:</strong> Actius en línia i converteix text a contorns.</li><li><strong>Vores esgrogueïdes:</strong> Augmenta la mida objectiu o <code>scale</code>, després redueix la resolució.</li><li><strong>Fons sòlid:</strong> Assegura't que <code>background</code> estigui configurat a <em>transparent</em> a les opcions.</li><li><strong>La pujada falla:</strong> Assegura't que el SVG sigui vàlid i ≤16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Aquest conversor SVG a PNG és gratuït?"
+      "question": "Aquest conversor SVG a PNG és gratuït?",
+  "answer": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
 
-      "answer": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
+    },
+  {
+      "question": "El PNG preserva la transparència?",
+  "answer": "Sí. El PNG suporta la transparència alpha i la preservem per defecte."
 
-    }
-    {
-      "question": "El PNG preserva la transparència?"
+    },
+  {
+      "question": "Puc triar la mida de sortida?",
+  "answer": "Per defecte, utilitzem el viewBox SVG. Pots establir amplada/alçada o un factor d'escala a les opcions avançades si es suporta."
 
-      "answer": "Sí. El PNG suporta la transparència alpha i la preservem per defecte."
+    },
+  {
+      "question": "Quins límits de mida de fitxer s'apliquen?",
+  "answer": "Pots pujar fitxers SVG de fins a 16 MB."
 
-    }
-    {
-      "question": "Puc triar la mida de sortida?"
-
-      "answer": "Per defecte, utilitzem el viewBox SVG. Pots establir amplada/alçada o un factor d'escala a les opcions avançades si es suporta."
-
-    }
-    {
-      "question": "Quins límits de mida de fitxer s'apliquen?"
-
-      "answer": "Pots pujar fitxers SVG de fins a 16 MB."
-
-    }
-    {
-      "question": "Per què el meu PNG es veu diferent de l'SVG?"
-
-      "answer": "Fonts externes, filtres o actius enllaçats poden renderitzar-se de manera diferent quan es rasteritzen. Converteix text a contorns i actius en línia per obtenir resultats coherents."
+    },
+  {
+      "question": "Per què el meu PNG es veu diferent de l'SVG?",
+  "answer": "Fonts externes, filtres o actius enllaçats poden renderitzar-se de manera diferent quan es rasteritzen. Converteix text a contorns i actius en línia per obtenir resultats coherents."
 
     }
-  ]
-  "note": "Els SVG es rasteritzen durant la conversió. Per a resultats predecibles, contorna el text i incrusta qualsevol actiu extern."
-
+  ],
+  "note": "Els SVG es rasteritzen durant la conversió. Per a resultats predecibles, contorna el text i incrusta qualsevol actiu extern.",
   "related_links": [
     {
-      "title": "Converteix SVG a ICO"
+      "title": "Converteix SVG a ICO",
+  "url": "/ca/convert/svg-to-ico"
 
-      "url": "/ca/convert/svg-to-ico"
+    },
+  {
+      "title": "Converteix PNG a SVG",
+  "url": "/ca/convert/png-to-svg"
 
-    }
-    {
-      "title": "Converteix PNG a SVG"
-
-      "url": "/ca/convert/png-to-svg"
-
-    }
-    {
-      "title": "Comprimeix PNG en línia"
-
-      "url": "/ca/compress/png"
+    },
+  {
+      "title": "Comprimeix PNG en línia",
+  "url": "/ca/compress/png"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Conversor SVG a PNG - Gratuït i en línia"
-
-      "url": "https://miconvert.com/ca/convert/svg-to-png"
-
-      "description": "Eina en línia gratuïta per convertir gràfics vectorials SVG a PNG amb transparència."
-
-      "inLanguage": "ca"
-
-      "image": "https://miconvert.com/images/svg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Conversor SVG a PNG - Gratuït i en línia",
+  "url": "https://miconvert.com/ca/convert/svg-to-png",
+  "description": "Eina en línia gratuïta per convertir gràfics vectorials SVG a PNG amb transparència.",
+  "inLanguage": "ca",
+  "image": "https://miconvert.com/images/svg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Inici",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Inici"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Converteix",
+  "item": "https://miconvert.com/ca/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Converteix"
-
-          "item": "https://miconvert.com/ca/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG a PNG"
-
-          "item": "https://miconvert.com/ca/convert/svg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "SVG a PNG",
+  "item": "https://miconvert.com/ca/convert/svg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Conversor SVG a PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ca/convert/svg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Rasterització nítida",
+  "Transparència preservada",
+  "Processament ràpid"
 
-      "name": "Conversor SVG a PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ca/convert/svg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Rasterització nítida"
-
-        "Transparència preservada"
-
-        "Processament ràpid"
-
-      ]
-      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Aquest conversor SVG a PNG és gratuït?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
+          "@type": "Question",
+  "name": "Aquest conversor SVG a PNG és gratuït?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, és completament gratuït sense marques d'aigua ni càrrecs ocults."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "El PNG preserva la transparència?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, la transparència alpha es preserva per defecte."
+        },
+  {
+          "@type": "Question",
+  "name": "El PNG preserva la transparència?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, la transparència alpha es preserva per defecte."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quins límits de mida de fitxer s'apliquen?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Pots pujar fitxers SVG de fins a 16 MB."
+        },
+  {
+          "@type": "Question",
+  "name": "Quins límits de mida de fitxer s'apliquen?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Pots pujar fitxers SVG de fins a 16 MB."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Com convertir SVG a PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Com convertir SVG a PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Fes clic a Puja SVG i selecciona el teu fitxer."
 
-          "text": "Fes clic a Puja SVG i selecciona el teu fitxer."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Espera que la rasterització i l'optimització es completin."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Fes clic a Descarrega PNG per desar la teva imatge."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Espera que la rasterització i l'optimització es completin."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Fes clic a Descarrega PNG per desar la teva imatge."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Conversor SVG a PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

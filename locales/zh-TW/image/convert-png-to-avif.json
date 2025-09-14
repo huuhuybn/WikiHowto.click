@@ -1,373 +1,279 @@
 {
-  "lang": "zh-TW"
-
-  "lang_name": "中文（繁體）"
-
-  "title": "PNG 轉 AVIF 轉換器 - 免費及線上 | miconvert.com"
-
-  "sub_title": "在線將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和高品質。保留透明度。無水印。"
-
-  "hint": "上傳您的 PNG 圖像以開始轉換..."
-
-  "btn_download": "轉換為 AVIF"
-
-  "btn_paste": "上傳 PNG"
-
-  "btn_clear": "清除"
-
-  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
-
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "PNG 轉 AVIF 轉換器 - 免費及線上 | miconvert.com",
+  "sub_title": "在線將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和高品質。保留透明度。無水印。",
+  "hint": "上傳您的 PNG 圖像以開始轉換...",
+  "btn_download": "轉換為 AVIF",
+  "btn_paste": "上傳 PNG",
+  "btn_clear": "清除",
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg",
   "head": {
-    "title": "將 PNG 轉換為 AVIF - 免費在線 PNG 轉 AVIF 轉換器 | miconvert.com"
+    "title": "將 PNG 轉換為 AVIF - 免費在線 PNG 轉 AVIF 轉換器 | miconvert.com",
+  "description": "免費在線將 PNG 圖像轉換為 AVIF。高品質的 PNG 轉 AVIF 轉換，具有優秀的壓縮和透明度支持。",
+  "keywords": "png 轉 avif, 將 png 轉換為 avif, 免費 png 轉 avif, 在線 avif 轉換器, 圖像轉換",
+  "canonical": "https://miconvert.com/zh-tw/convert/png-to-avif",
+  "og_title": "將 PNG 轉換為 AVIF - 免費在線 PNG 轉 AVIF 轉換器",
+  "og_description": "將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和保留的透明度。免費、快速且安全。",
+  "og_url": "https://miconvert.com/zh-tw/convert/png-to-avif",
+  "og_image": "https://miconvert.com/images/png-to-avif.jpg"
 
-    "description": "免費在線將 PNG 圖像轉換為 AVIF。高品質的 PNG 轉 AVIF 轉換，具有優秀的壓縮和透明度支持。"
-
-    "keywords": "png 轉 avif, 將 png 轉換為 avif, 免費 png 轉 avif, 在線 avif 轉換器, 圖像轉換"
-
-    "canonical": "https://miconvert.com/zh-tw/convert/png-to-avif"
-
-    "og_title": "將 PNG 轉換為 AVIF - 免費在線 PNG 轉 AVIF 轉換器"
-
-    "og_description": "將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和保留的透明度。免費、快速且安全。"
-
-    "og_url": "https://miconvert.com/zh-tw/convert/png-to-avif"
-
-    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在線將 PNG 轉換為 AVIF"
+    "title": "在線將 PNG 轉換為 AVIF",
+  "description": "免費且快速的 PNG 轉 AVIF 轉換器，具有優秀的壓縮和完整的透明度支持。可在任何設備上立即使用 - 無需註冊。"
 
-    "description": "免費且快速的 PNG 轉 AVIF 轉換器，具有優秀的壓縮和完整的透明度支持。可在任何設備上立即使用 - 無需註冊。"
-
-  }
+  },
   "converter": {
-    "type": "png-to-avif"
-
-    "title": "PNG 轉 AVIF 轉換器"
-
-    "description": "將 PNG 圖像轉換為 AVIF，使用現代壓縮技術，同時保留 alpha 透明度。"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "png-to-avif",
+  "title": "PNG 轉 AVIF 轉換器",
+  "description": "將 PNG 圖像轉換為 AVIF，使用現代壓縮技術，同時保留 alpha 透明度。",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "高品質的 AVIF 輸出",
+  "優秀的壓縮",
+  "保留透明度（alpha）",
+  "免費在線工具"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "高品質的 AVIF 輸出"
-
-      "優秀的壓縮"
-
-      "保留透明度（alpha）"
-
-      "免費在線工具"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:4:4"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:4:4",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG 轉 AVIF 轉換完成"
+    "title": "PNG 轉 AVIF 轉換完成",
+  "back_button": "返回轉換器",
+  "convert_another": "轉換另一個 PNG",
+  "quick_conversions": "快速轉換："
 
-    "back_button": "返回轉換器"
-
-    "convert_another": "轉換另一個 PNG"
-
-    "quick_conversions": "快速轉換："
-
-  }
+  },
   "h2": [
     {
-      "title": "為什麼要將 PNG 轉換為 AVIF？"
+      "title": "為什麼要將 PNG 轉換為 AVIF？",
+  "description": "<p>AVIF（AV1 圖像文件格式）是一種具有卓越效率的下一代格式：</p><ul><li><strong>優越的壓縮：</strong>通常比 PNG 小 30–50%，而質量相似。</li><li><strong>現代編解碼器：</strong>基於 AV1 標準。</li><li><strong>高保真度：</strong>在較小的尺寸下保留良好的細節。</li><li><strong>網頁性能：</strong>較小的圖像 = 更快的頁面和更好的核心網頁指標。</li></ul>"
 
-      "description": "<p>AVIF（AV1 圖像文件格式）是一種具有卓越效率的下一代格式：</p><ul><li><strong>優越的壓縮：</strong>通常比 PNG 小 30–50%，而質量相似。</li><li><strong>現代編解碼器：</strong>基於 AV1 標準。</li><li><strong>高保真度：</strong>在較小的尺寸下保留良好的細節。</li><li><strong>網頁性能：</strong>較小的圖像 = 更快的頁面和更好的核心網頁指標。</li></ul>"
+    },
+  {
+      "title": "如何在線將 PNG 轉換為 AVIF",
+  "description": "<ol><li>點擊 <em>上傳 PNG</em> 並選擇您的文件。</li><li>等待處理和優化。</li><li>點擊 <em>下載 AVIF</em> 以保存您的圖像。</li></ol><p>轉換器自動平衡質量和大小，以便於常見的網頁使用。</p>"
 
-    }
-    {
-      "title": "如何在線將 PNG 轉換為 AVIF"
+    },
+  {
+      "title": "AVIF 與 PNG 比較",
+  "description": "<ul><li><strong>文件大小：</strong>AVIF 通常比 PNG 小 30–50%。</li><li><strong>質量：</strong>AVIF 在較低的比特率下保持強大的質量。</li><li><strong>透明度：</strong>兩者都支持 alpha 透明度。</li><li><strong>瀏覽器支持：</strong>AVIF 在現代瀏覽器中運行（如有需要，提供回退）。</li></ul>"
 
-      "description": "<ol><li>點擊 <em>上傳 PNG</em> 並選擇您的文件。</li><li>等待處理和優化。</li><li>點擊 <em>下載 AVIF</em> 以保存您的圖像。</li></ol><p>轉換器自動平衡質量和大小，以便於常見的網頁使用。</p>"
+    },
+  {
+      "title": "支持的限制和格式",
+  "description": "<ul><li><strong>接受的輸入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>編碼：</strong>質量 ≈ 80，速度 4，4:4:4 子取樣以保持邊緣清晰</li></ul>"
 
-    }
-    {
-      "title": "AVIF 與 PNG 比較"
+    },
+  {
+      "title": "故障排除",
+  "description": "<ul><li><strong>舊版瀏覽器：</strong>使用 <code>&lt;picture&gt;</code> 元素與 PNG/WebP 回退。</li><li><strong>邊緣光暈：</strong>4:4:4 有幫助；如果仍然可見，請從更高解析度的 PNG 開始或細化 alpha。</li><li><strong>需要無損：</strong>對於像素完美的需求，考慮使用 PNG，或在高級工作流程中將 AVIF 設置為無損。</li><li><strong>上傳失敗：</strong>確保文件為 PNG 且 ≤ 16&nbsp;MB。</li></ul>"
 
-      "description": "<ul><li><strong>文件大小：</strong>AVIF 通常比 PNG 小 30–50%。</li><li><strong>質量：</strong>AVIF 在較低的比特率下保持強大的質量。</li><li><strong>透明度：</strong>兩者都支持 alpha 透明度。</li><li><strong>瀏覽器支持：</strong>AVIF 在現代瀏覽器中運行（如有需要，提供回退）。</li></ul>"
-
-    }
-    {
-      "title": "支持的限制和格式"
-
-      "description": "<ul><li><strong>接受的輸入：</strong>PNG (<code>image/png</code>)</li><li><strong>最大文件大小：</strong>每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong>AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>編碼：</strong>質量 ≈ 80，速度 4，4:4:4 子取樣以保持邊緣清晰</li></ul>"
-
-    }
-    {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>舊版瀏覽器：</strong>使用 <code>&lt;picture&gt;</code> 元素與 PNG/WebP 回退。</li><li><strong>邊緣光暈：</strong>4:4:4 有幫助；如果仍然可見，請從更高解析度的 PNG 開始或細化 alpha。</li><li><strong>需要無損：</strong>對於像素完美的需求，考慮使用 PNG，或在高級工作流程中將 AVIF 設置為無損。</li><li><strong>上傳失敗：</strong>確保文件為 PNG 且 ≤ 16&nbsp;MB。</li></ul>"
-
-    }
-    {
-      "title": "使用案例：何時將 PNG 轉換為 AVIF"
-
-      "description": "<ul><li><strong>網頁優化：</strong>減少圖標、用戶界面和具有透明度的圖形的負載。</li><li><strong>移動應用：</strong>降低帶寬和存儲使用。</li><li><strong>大型庫：</strong>在不明顯質量損失的情況下節省磁碟空間。</li></ul>"
+    },
+  {
+      "title": "使用案例：何時將 PNG 轉換為 AVIF",
+  "description": "<ul><li><strong>網頁優化：</strong>減少圖標、用戶界面和具有透明度的圖形的負載。</li><li><strong>移動應用：</strong>降低帶寬和存儲使用。</li><li><strong>大型庫：</strong>在不明顯質量損失的情況下節省磁碟空間。</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "這個 PNG 轉 AVIF 轉換器是免費的嗎？"
+      "question": "這個 PNG 轉 AVIF 轉換器是免費的嗎？",
+  "answer": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
 
-      "answer": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+  {
+      "question": "AVIF 會在所有瀏覽器上運行嗎？",
+  "answer": "AVIF 受到現代瀏覽器的支持（Chrome、Firefox、Safari、Edge）。對於舊版瀏覽器，提供 PNG/WebP 回退。"
 
-    }
-    {
-      "question": "AVIF 會在所有瀏覽器上運行嗎？"
+    },
+  {
+      "question": "AVIF 文件比 PNG 小多少？",
+  "answer": "通常在相似的感知質量下小 30–50%，具體取決於圖像。"
 
-      "answer": "AVIF 受到現代瀏覽器的支持（Chrome、Firefox、Safari、Edge）。對於舊版瀏覽器，提供 PNG/WebP 回退。"
+    },
+  {
+      "question": "支持哪些文件大小？",
+  "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
 
-    }
-    {
-      "question": "AVIF 文件比 PNG 小多少？"
+    },
+  {
+      "question": "我的文件安全嗎？",
+  "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
 
-      "answer": "通常在相似的感知質量下小 30–50%，具體取決於圖像。"
+    },
+  {
+      "question": "我可以一次轉換多個 PNG 嗎？",
+  "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
 
-    }
-    {
-      "question": "支持哪些文件大小？"
-
-      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
-
-    }
-    {
-      "question": "我的文件安全嗎？"
-
-      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
-
-    }
-    {
-      "question": "我可以一次轉換多個 PNG 嗎？"
-
-      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
-
-    }
-    {
-      "question": "AVIF 對於網站來說比 PNG 更好嗎？"
-
-      "answer": "通常是的，因為文件大小較小且質量良好；對於嚴格的無損或特殊情況，PNG 可能仍然更可取。"
+    },
+  {
+      "question": "AVIF 對於網站來說比 PNG 更好嗎？",
+  "answer": "通常是的，因為文件大小較小且質量良好；對於嚴格的無損或特殊情況，PNG 可能仍然更可取。"
 
     }
-  ]
-  "note": "為了最大兼容性，使用 <code>&lt;picture&gt;</code> 元素提供 AVIF 和 PNG/WebP 回退。"
-
+  ],
+  "note": "為了最大兼容性，使用 <code>&lt;picture&gt;</code> 元素提供 AVIF 和 PNG/WebP 回退。",
   "related_links": [
     {
-      "title": "將 AVIF 轉換為 PNG"
+      "title": "將 AVIF 轉換為 PNG",
+  "url": "/zh-tw/convert/avif-to-png"
 
-      "url": "/zh-tw/convert/avif-to-png"
+    },
+  {
+      "title": "將 PNG 轉換為 WebP",
+  "url": "/zh-tw/convert/png-to-webp"
 
-    }
-    {
-      "title": "將 PNG 轉換為 WebP"
-
-      "url": "/zh-tw/convert/png-to-webp"
-
-    }
-    {
-      "title": "將 JPG 轉換為 AVIF"
-
-      "url": "/zh-tw/convert/jpg-to-avif"
+    },
+  {
+      "title": "將 JPG 轉換為 AVIF",
+  "url": "/zh-tw/convert/jpg-to-avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 版權所有。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 版權所有。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG 轉 AVIF 轉換器 - 免費及線上"
-
-      "url": "https://miconvert.com/zh-tw/convert/png-to-avif"
-
-      "description": "免費在線工具，將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和保留的透明度。"
-
-      "inLanguage": "zh-TW"
-
-      "image": "https://miconvert.com/images/png-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG 轉 AVIF 轉換器 - 免費及線上",
+  "url": "https://miconvert.com/zh-tw/convert/png-to-avif",
+  "description": "免費在線工具，將 PNG 圖像轉換為 AVIF，具有優秀的壓縮和保留的透明度。",
+  "inLanguage": "zh-TW",
+  "image": "https://miconvert.com/images/png-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "首頁",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "首頁"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "轉換",
+  "item": "https://miconvert.com/zh-tw/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "轉換"
-
-          "item": "https://miconvert.com/zh-tw/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG 轉 AVIF"
-
-          "item": "https://miconvert.com/zh-tw/convert/png-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG 轉 AVIF",
+  "item": "https://miconvert.com/zh-tw/convert/png-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG 轉 AVIF 轉換器",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/zh-tw/convert/png-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "優秀的壓縮",
+  "保留透明度",
+  "快速處理"
 
-      "name": "PNG 轉 AVIF 轉換器"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/zh-tw/convert/png-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "優秀的壓縮"
-
-        "保留透明度"
-
-        "快速處理"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "這個 PNG 轉 AVIF 轉換器是免費的嗎？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
+          "@type": "Question",
+  "name": "這個 PNG 轉 AVIF 轉換器是免費的嗎？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "是的，該轉換器完全免費，沒有隱藏費用或訂閱。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "支持哪些文件大小？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+        },
+  {
+          "@type": "Question",
+  "name": "支持哪些文件大小？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "您可以上傳每個文件最多 16 MB 的圖像。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "AVIF 會在所有瀏覽器上運行嗎？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF 受到現代瀏覽器的支持；對於舊版瀏覽器，提供 PNG/WebP 回退。"
+        },
+  {
+          "@type": "Question",
+  "name": "AVIF 會在所有瀏覽器上運行嗎？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF 受到現代瀏覽器的支持；對於舊版瀏覽器，提供 PNG/WebP 回退。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何將 PNG 轉換為 AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "如何將 PNG 轉換為 AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "點擊上傳 PNG 並選擇您的文件。"
 
-          "text": "點擊上傳 PNG 並選擇您的文件。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "等待處理和優化完成。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "點擊下載 AVIF 以保存結果。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "等待處理和優化完成。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "點擊下載 AVIF 以保存結果。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG 轉 AVIF 轉換器"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

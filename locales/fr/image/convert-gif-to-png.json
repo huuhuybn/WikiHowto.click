@@ -1,364 +1,276 @@
 {
-  "lang": "fr"
-
-  "lang_name": "Français"
-
-  "title": "Convertisseur GIF en PNG - Gratuit et en ligne | miconvert.com"
-
-  "sub_title": "Convertissez des images GIF en format PNG en ligne avec support de transparence, haute qualité et sans filigranes."
-
-  "hint": "Téléchargez votre image GIF pour commencer la conversion..."
-
-  "btn_download": "Convertir en PNG"
-
-  "btn_paste": "Télécharger GIF"
-
-  "btn_clear": "Effacer"
-
+  "lang": "fr",
+  "lang_name": "Français",
+  "title": "Convertisseur GIF en PNG - Gratuit et en ligne | miconvert.com",
+  "sub_title": "Convertissez des images GIF en format PNG en ligne avec support de transparence, haute qualité et sans filigranes.",
+  "hint": "Téléchargez votre image GIF pour commencer la conversion...",
+  "btn_download": "Convertir en PNG",
+  "btn_paste": "Télécharger GIF",
+  "btn_clear": "Effacer",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Convertissez votre <strong>GIF en PNG</strong> pour une fidélité supérieure et un support complet de la transparence. Notre convertisseur en ligne gratuit transforme les GIF animés ou statiques en images PNG de haute qualité. Bien que le GIF soit idéal pour des animations simples, le PNG offre une profondeur de couleur supérieure, une meilleure transparence et une compression sans perte pour des graphiques statiques nets.</p><p><strong>Remarque :</strong> Les GIF animés sont convertis en une <em>image statique unique</em> (premier cadre). Pour une sortie animée, essayez <a href='/fr/convert/gif-to-webp'>GIF en WebP</a>.</p>"
-
+  },
+  "description": "<p>Convertissez votre <strong>GIF en PNG</strong> pour une fidélité supérieure et un support complet de la transparence. Notre convertisseur en ligne gratuit transforme les GIF animés ou statiques en images PNG de haute qualité. Bien que le GIF soit idéal pour des animations simples, le PNG offre une profondeur de couleur supérieure, une meilleure transparence et une compression sans perte pour des graphiques statiques nets.</p><p><strong>Remarque :</strong> Les GIF animés sont convertis en une <em>image statique unique</em> (premier cadre). Pour une sortie animée, essayez <a href='/fr/convert/gif-to-webp'>GIF en WebP</a>.</p>",
   "head": {
-    "title": "Convertir GIF en PNG en ligne - Convertisseur GIF en PNG gratuit | miconvert.com"
+    "title": "Convertir GIF en PNG en ligne - Convertisseur GIF en PNG gratuit | miconvert.com",
+  "description": "Convertissez GIF en PNG en ligne avec support de transparence, haute qualité et sans filigranes. Outil de conversion GIF en PNG gratuit, rapide et sécurisé.",
+  "keywords": "gif en png, convertir gif en png, gratuit gif en png, convertisseur gif en ligne, images transparentes",
+  "canonical": "https://miconvert.com/fr/convert/gif-to-png",
+  "og_title": "Convertisseur GIF en PNG - Gratuit et en ligne",
+  "og_description": "Convertissez des images GIF en format PNG avec support de transparence et haute qualité. 100% gratuit, rapide et sécurisé.",
+  "og_url": "https://miconvert.com/fr/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Convertissez GIF en PNG en ligne avec support de transparence, haute qualité et sans filigranes. Outil de conversion GIF en PNG gratuit, rapide et sécurisé."
-
-    "keywords": "gif en png, convertir gif en png, gratuit gif en png, convertisseur gif en ligne, images transparentes"
-
-    "canonical": "https://miconvert.com/fr/convert/gif-to-png"
-
-    "og_title": "Convertisseur GIF en PNG - Gratuit et en ligne"
-
-    "og_description": "Convertissez des images GIF en format PNG avec support de transparence et haute qualité. 100% gratuit, rapide et sécurisé."
-
-    "og_url": "https://miconvert.com/fr/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convertir GIF en PNG en ligne"
+    "title": "Convertir GIF en PNG en ligne",
+  "description": "Convertisseur GIF en PNG gratuit et rapide avec support de transparence et haute qualité. Fonctionne instantanément sur n'importe quel appareil, aucune inscription requise."
 
-    "description": "Convertisseur GIF en PNG gratuit et rapide avec support de transparence et haute qualité. Fonctionne instantanément sur n'importe quel appareil, aucune inscription requise."
-
-  }
+  },
   "h2": [
     {
-      "title": "Pourquoi convertir GIF en PNG ?"
+      "title": "Pourquoi convertir GIF en PNG ?",
+  "description": "<p>Le GIF est limité à 256 couleurs et convient aux animations simples. Le PNG est idéal pour des images statiques de haute qualité :</p><ul><li><strong>Qualité supérieure :</strong> Truecolor (24 bits) + alpha contre la palette 8 bits du GIF.</li><li><strong>Transparence :</strong> Le PNG prend en charge une transparence alpha complète pour des bords lisses.</li><li><strong>Compression sans perte :</strong> Le PNG préserve les détails sans perte de qualité.</li><li><strong>Compatibilité universelle :</strong> Largement pris en charge sur les applications et plateformes.</li></ul>"
 
-      "description": "<p>Le GIF est limité à 256 couleurs et convient aux animations simples. Le PNG est idéal pour des images statiques de haute qualité :</p><ul><li><strong>Qualité supérieure :</strong> Truecolor (24 bits) + alpha contre la palette 8 bits du GIF.</li><li><strong>Transparence :</strong> Le PNG prend en charge une transparence alpha complète pour des bords lisses.</li><li><strong>Compression sans perte :</strong> Le PNG préserve les détails sans perte de qualité.</li><li><strong>Compatibilité universelle :</strong> Largement pris en charge sur les applications et plateformes.</li></ul>"
+    },
+  {
+      "title": "Comment convertir GIF en PNG en ligne",
+  "description": "<ol><li>Cliquez sur <em>Télécharger GIF</em> et sélectionnez votre fichier.</li><li>Attendez que le traitement soit terminé.</li><li>Cliquez sur <em>Télécharger PNG</em> pour enregistrer le résultat.</li></ol><p>GIF animés : seul le premier cadre est exporté en PNG.</p>"
 
-    }
-    {
-      "title": "Comment convertir GIF en PNG en ligne"
+    },
+  {
+      "title": "GIF vs PNG : principales différences",
+  "description": "<table class='table-compare'><thead><tr><th>Caractéristique</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Profondeur de couleur</td><td>8 bits (256 couleurs)</td><td>Truecolor (24 bits) + alpha</td></tr><tr><td>Transparence</td><td>Masque 1 bit (on/off)</td><td>Transparence alpha complète</td></tr><tr><td>Compression</td><td>Sans perte (LZW)</td><td>Sans perte (DEFLATE)</td></tr><tr><td>Animation</td><td>Supportée</td><td>Non supportée (statique)</td></tr><tr><td>Meilleur pour</td><td>Animations simples, autocollants</td><td>Logos, UI, captures d'écran, graphiques statiques</td></tr></tbody></table>"
 
-      "description": "<ol><li>Cliquez sur <em>Télécharger GIF</em> et sélectionnez votre fichier.</li><li>Attendez que le traitement soit terminé.</li><li>Cliquez sur <em>Télécharger PNG</em> pour enregistrer le résultat.</li></ol><p>GIF animés : seul le premier cadre est exporté en PNG.</p>"
+    },
+  {
+      "title": "Limites et formats pris en charge",
+  "description": "<ul><li><strong>Entrée acceptée :</strong> GIF (<code>image/gif</code>)</li><li><strong>Taille de fichier maximale :</strong> jusqu'à 16&nbsp;Mo par fichier</li><li><strong>Sortie :</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG : principales différences"
+    },
+  {
+      "title": "Fonctionnalités de notre convertisseur GIF en PNG",
+  "description": "<ul><li>100% gratuit, sans filigranes</li><li>Préserve la transparence là où elle est présente</li><li>Sortie PNG sans perte</li><li>Interface adaptée aux mobiles</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Caractéristique</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Profondeur de couleur</td><td>8 bits (256 couleurs)</td><td>Truecolor (24 bits) + alpha</td></tr><tr><td>Transparence</td><td>Masque 1 bit (on/off)</td><td>Transparence alpha complète</td></tr><tr><td>Compression</td><td>Sans perte (LZW)</td><td>Sans perte (DEFLATE)</td></tr><tr><td>Animation</td><td>Supportée</td><td>Non supportée (statique)</td></tr><tr><td>Meilleur pour</td><td>Animations simples, autocollants</td><td>Logos, UI, captures d'écran, graphiques statiques</td></tr></tbody></table>"
+    },
+  {
+      "title": "Qu'est-ce que le GIF ?",
+  "description": "<p>Le GIF (Graphics Interchange Format) prend en charge l'animation de base et utilise une compression sans perte LZW, mais est limité à une palette de 256 couleurs.</p>"
 
-    }
-    {
-      "title": "Limites et formats pris en charge"
+    },
+  {
+      "title": "Qu'est-ce que le PNG ?",
+  "description": "<p>Le PNG (Portable Network Graphics) est un format sans perte prenant en charge le truecolor et la transparence alpha — idéal pour des images statiques de haute qualité.</p>"
 
-      "description": "<ul><li><strong>Entrée acceptée :</strong> GIF (<code>image/gif</code>)</li><li><strong>Taille de fichier maximale :</strong> jusqu'à 16&nbsp;Mo par fichier</li><li><strong>Sortie :</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Dépannage",
+  "description": "<ul><li><strong>Échec du téléchargement :</strong> Assurez-vous que le fichier est un GIF et ≤ 16&nbsp;Mo.</li><li><strong>Bords de transparence irréguliers :</strong> La transparence 1 bit du GIF peut sembler dure ; affinez avec <a href='/fr/effect/remove-background'>Supprimeur de fond</a>.</li><li><strong>Besoin d'animation :</strong> Utilisez <a href='/fr/convert/gif-to-webp'>GIF en WebP</a> pour conserver le mouvement.</li></ul>"
 
-    }
-    {
-      "title": "Fonctionnalités de notre convertisseur GIF en PNG"
-
-      "description": "<ul><li>100% gratuit, sans filigranes</li><li>Préserve la transparence là où elle est présente</li><li>Sortie PNG sans perte</li><li>Interface adaptée aux mobiles</li></ul>"
-
-    }
-    {
-      "title": "Qu'est-ce que le GIF ?"
-
-      "description": "<p>Le GIF (Graphics Interchange Format) prend en charge l'animation de base et utilise une compression sans perte LZW, mais est limité à une palette de 256 couleurs.</p>"
-
-    }
-    {
-      "title": "Qu'est-ce que le PNG ?"
-
-      "description": "<p>Le PNG (Portable Network Graphics) est un format sans perte prenant en charge le truecolor et la transparence alpha — idéal pour des images statiques de haute qualité.</p>"
-
-    }
-    {
-      "title": "Dépannage"
-
-      "description": "<ul><li><strong>Échec du téléchargement :</strong> Assurez-vous que le fichier est un GIF et ≤ 16&nbsp;Mo.</li><li><strong>Bords de transparence irréguliers :</strong> La transparence 1 bit du GIF peut sembler dure ; affinez avec <a href='/fr/effect/remove-background'>Supprimeur de fond</a>.</li><li><strong>Besoin d'animation :</strong> Utilisez <a href='/fr/convert/gif-to-webp'>GIF en WebP</a> pour conserver le mouvement.</li></ul>"
+    },
+  {
+      "title": "Cas d'utilisation : quand convertir GIF en PNG",
+  "description": "<ul><li><strong>Logos et icônes</strong> nécessitant une transparence lisse.</li><li><strong>Captures d'écran/UI</strong> nécessitant un texte et des lignes nets.</li><li><strong>Archivage</strong> de cadres statiques à une qualité supérieure.</li></ul>"
 
     }
-    {
-      "title": "Cas d'utilisation : quand convertir GIF en PNG"
-
-      "description": "<ul><li><strong>Logos et icônes</strong> nécessitant une transparence lisse.</li><li><strong>Captures d'écran/UI</strong> nécessitant un texte et des lignes nets.</li><li><strong>Archivage</strong> de cadres statiques à une qualité supérieure.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ce convertisseur GIF en PNG est-il gratuit ?"
+      "question": "Ce convertisseur GIF en PNG est-il gratuit ?",
+  "answer": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
 
-      "answer": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
+    },
+  {
+      "question": "Le PNG préservera-t-il la transparence du GIF ?",
+  "answer": "Oui. Les zones transparentes 1 bit du GIF restent transparentes dans le PNG ; pour des bords plus lisses, éditez le canal alpha après conversion."
 
-    }
-    {
-      "question": "Le PNG préservera-t-il la transparence du GIF ?"
+    },
+  {
+      "question": "Que se passe-t-il avec les GIF animés ?",
+  "answer": "Seul le premier cadre est converti en image PNG statique. Pour conserver l'animation, utilisez GIF en WebP."
 
-      "answer": "Oui. Les zones transparentes 1 bit du GIF restent transparentes dans le PNG ; pour des bords plus lisses, éditez le canal alpha après conversion."
+    },
+  {
+      "question": "Vais-je perdre de la qualité en convertissant GIF en PNG ?",
+  "answer": "Non. Le PNG utilise une compression sans perte et prend en charge toute la couleur, améliorant souvent la fidélité visuelle par rapport au GIF de 256 couleurs."
 
-    }
-    {
-      "question": "Que se passe-t-il avec les GIF animés ?"
+    },
+  {
+      "question": "Quelles tailles de fichiers sont prises en charge ?",
+  "answer": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
 
-      "answer": "Seul le premier cadre est converti en image PNG statique. Pour conserver l'animation, utilisez GIF en WebP."
+    },
+  {
+      "question": "Mes fichiers sont-ils en sécurité ?",
+  "answer": "Les fichiers sont traités automatiquement et ne sont pas conservés plus longtemps que nécessaire pour la conversion."
 
-    }
-    {
-      "question": "Vais-je perdre de la qualité en convertissant GIF en PNG ?"
-
-      "answer": "Non. Le PNG utilise une compression sans perte et prend en charge toute la couleur, améliorant souvent la fidélité visuelle par rapport au GIF de 256 couleurs."
-
-    }
-    {
-      "question": "Quelles tailles de fichiers sont prises en charge ?"
-
-      "answer": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
-
-    }
-    {
-      "question": "Mes fichiers sont-ils en sécurité ?"
-
-      "answer": "Les fichiers sont traités automatiquement et ne sont pas conservés plus longtemps que nécessaire pour la conversion."
-
-    }
-    {
-      "question": "Puis-je convertir plusieurs fichiers GIF à la fois ?"
-
-      "answer": "Cette page convertit un fichier à la fois. Pour des besoins en masse, répétez le processus ou utilisez un outil de lot."
+    },
+  {
+      "question": "Puis-je convertir plusieurs fichiers GIF à la fois ?",
+  "answer": "Cette page convertit un fichier à la fois. Pour des besoins en masse, répétez le processus ou utilisez un outil de lot."
 
     }
-  ]
-  "note": "Les GIF animés deviennent des PNG statiques (premier cadre). Pour une sortie animée, convertissez GIF en WebP."
-
+  ],
+  "note": "Les GIF animés deviennent des PNG statiques (premier cadre). Pour une sortie animée, convertissez GIF en WebP.",
   "related_links": [
     {
-      "title": "Convertir GIF en JPG"
+      "title": "Convertir GIF en JPG",
+  "url": "/fr/convert/gif-to-jpg"
 
-      "url": "/fr/convert/gif-to-jpg"
+    },
+  {
+      "title": "Convertir PNG en GIF",
+  "url": "/fr/convert/png-to-gif"
 
-    }
-    {
-      "title": "Convertir PNG en GIF"
-
-      "url": "/fr/convert/png-to-gif"
-
-    }
-    {
-      "title": "Convertir GIF en WebP"
-
-      "url": "/fr/convert/gif-to-webp"
+    },
+  {
+      "title": "Convertir GIF en WebP",
+  "url": "/fr/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tous droits réservés."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tous droits réservés.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Convertisseur GIF en PNG - Gratuit et en ligne"
-
-      "url": "https://miconvert.com/fr/convert/gif-to-png"
-
-      "description": "Outil en ligne gratuit pour convertir des images GIF en PNG avec compression sans perte et support de transparence."
-
-      "inLanguage": "fr"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Convertisseur GIF en PNG - Gratuit et en ligne",
+  "url": "https://miconvert.com/fr/convert/gif-to-png",
+  "description": "Outil en ligne gratuit pour convertir des images GIF en PNG avec compression sans perte et support de transparence.",
+  "inLanguage": "fr",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Accueil",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Accueil"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertir",
+  "item": "https://miconvert.com/fr/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertir"
-
-          "item": "https://miconvert.com/fr/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF en PNG"
-
-          "item": "https://miconvert.com/fr/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF en PNG",
+  "item": "https://miconvert.com/fr/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Convertisseur GIF en PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/fr/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Sortie PNG sans perte",
+  "Support de transparence",
+  "Traitement rapide"
 
-      "name": "Convertisseur GIF en PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/fr/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Sortie PNG sans perte"
-
-        "Support de transparence"
-
-        "Traitement rapide"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ce convertisseur GIF en PNG est-il gratuit ?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
+          "@type": "Question",
+  "name": "Ce convertisseur GIF en PNG est-il gratuit ?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Oui, le convertisseur est complètement gratuit sans frais cachés ni abonnements."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Que se passe-t-il avec les GIF animés ?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Seul le premier cadre est converti en image PNG statique. Pour conserver l'animation, utilisez GIF en WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Que se passe-t-il avec les GIF animés ?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Seul le premier cadre est converti en image PNG statique. Pour conserver l'animation, utilisez GIF en WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quelles tailles de fichiers sont prises en charge ?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
+        },
+  {
+          "@type": "Question",
+  "name": "Quelles tailles de fichiers sont prises en charge ?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Vous pouvez télécharger des images jusqu'à 16 Mo par fichier."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Comment convertir GIF en PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Comment convertir GIF en PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Cliquez sur Télécharger GIF et sélectionnez votre fichier."
 
-          "text": "Cliquez sur Télécharger GIF et sélectionnez votre fichier."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Attendez que le traitement soit terminé."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Cliquez sur Télécharger PNG pour enregistrer le résultat."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Attendez que le traitement soit terminé."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Cliquez sur Télécharger PNG pour enregistrer le résultat."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Convertisseur GIF en PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

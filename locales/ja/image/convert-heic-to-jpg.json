@@ -1,373 +1,283 @@
 {
-  "lang": "ja"
-
-  "lang_name": "日本語"
-
-  "title": "HEICからJPGへの変換 - 無料＆オンライン | miconvert.com"
-
-  "sub_title": "HEIC画像をオンラインで高品質、より良い互換性、透かしなしでJPG形式に変換します。"
-
-  "hint": "変換を開始するにはHEIC画像をアップロードしてください..."
-
-  "btn_download": "JPGに変換"
-
-  "btn_paste": "HEICをアップロード"
-
-  "btn_clear": "クリア"
-
+  "lang": "ja",
+  "lang_name": "日本語",
+  "title": "HEICからJPGへの変換 - 無料＆オンライン | miconvert.com",
+  "sub_title": "HEIC画像をオンラインで高品質、より良い互換性、透かしなしでJPG形式に変換します。",
+  "hint": "変換を開始するにはHEIC画像をアップロードしてください...",
+  "btn_download": "JPGに変換",
+  "btn_paste": "HEICをアップロード",
+  "btn_clear": "クリア",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p><strong>HEICをJPG</strong>に変換して、普遍的な互換性を確保しましょう！私たちの無料オンラインコンバータは、iPhone/iPadの写真を広くサポートされているJPGに変換します。HEIC（HEIF標準に基づく）は優れた圧縮を提供しますが、多くのアプリやプラットフォームはまだJPGを期待しています。Android/Windowsユーザーと共有する必要がある場合、ソーシャルメディアにアップロードする場合、または古いソフトウェアとの互換性を確保する場合、このツールは簡単に行えます。</p><p>JPGはほぼすべての場所でサポートされています。変換は迅速で、調整されたJPEG設定で視覚的品質を保持します — 写真家、クリエイター、最大の互換性が必要な人に最適です。</p>"
-
+  },
+  "description": "<p><strong>HEICをJPG</strong>に変換して、普遍的な互換性を確保しましょう！私たちの無料オンラインコンバータは、iPhone/iPadの写真を広くサポートされているJPGに変換します。HEIC（HEIF標準に基づく）は優れた圧縮を提供しますが、多くのアプリやプラットフォームはまだJPGを期待しています。Android/Windowsユーザーと共有する必要がある場合、ソーシャルメディアにアップロードする場合、または古いソフトウェアとの互換性を確保する場合、このツールは簡単に行えます。</p><p>JPGはほぼすべての場所でサポートされています。変換は迅速で、調整されたJPEG設定で視覚的品質を保持します — 写真家、クリエイター、最大の互換性が必要な人に最適です。</p>",
   "head": {
-    "title": "HEICからJPGへのオンライン変換 - 無料HEICからJPGへのコンバータ | miconvert.com"
+    "title": "HEICからJPGへのオンライン変換 - 無料HEICからJPGへのコンバータ | miconvert.com",
+  "description": "HEICを高品質、より良い互換性、透かしなしでオンラインでJPGに変換します。無料で、迅速で、安全なHEICからJPGへのコンバータツール。",
+  "keywords": "heicからjpg, heicをjpgに変換, 無料heicからjpg, オンラインheicコンバータ, iphoneの写真",
+  "canonical": "https://miconvert.com/ja/convert/heic-to-jpg",
+  "og_title": "HEICからJPGへの変換 - 無料＆オンライン",
+  "og_description": "HEIC画像を高品質でより良い互換性のあるJPG形式に変換します。100％無料、迅速、安全。",
+  "og_url": "https://miconvert.com/ja/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "HEICを高品質、より良い互換性、透かしなしでオンラインでJPGに変換します。無料で、迅速で、安全なHEICからJPGへのコンバータツール。"
-
-    "keywords": "heicからjpg, heicをjpgに変換, 無料heicからjpg, オンラインheicコンバータ, iphoneの写真"
-
-    "canonical": "https://miconvert.com/ja/convert/heic-to-jpg"
-
-    "og_title": "HEICからJPGへの変換 - 無料＆オンライン"
-
-    "og_description": "HEIC画像を高品質でより良い互換性のあるJPG形式に変換します。100％無料、迅速、安全。"
-
-    "og_url": "https://miconvert.com/ja/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "HEICからJPGへのオンライン変換"
+    "title": "HEICからJPGへのオンライン変換",
+  "description": "高品質で普遍的な互換性を持つ無料で迅速なHEICからJPGへのコンバータ。どのデバイスでも即座に動作し、サインアップは不要です。"
 
-    "description": "高品質で普遍的な互換性を持つ無料で迅速なHEICからJPGへのコンバータ。どのデバイスでも即座に動作し、サインアップは不要です。"
-
-  }
+  },
   "h2": [
     {
-      "title": "なぜHEICをJPGに変換するのか？"
+      "title": "なぜHEICをJPGに変換するのか？",
+  "description": "<p>HEICは効率的ですが、JPGは普遍的に受け入れられています。必要なときに変換してください：</p><ul><li><strong>普遍的な互換性：</strong> JPGはデバイス、アプリ、プラットフォーム全体で動作します。</li><li><strong>クロスプラットフォーム共有：</strong> Android/Windowsユーザーに問題なく写真を送信します。</li><li><strong>ソーシャルアップロード：</strong> ほとんどのプラットフォームはJPGを好むか、要求します。</li><li><strong>レガシーサポート：</strong> 古いアプリはHEICを信頼性高く読み取れません。</li></ul>"
 
-      "description": "<p>HEICは効率的ですが、JPGは普遍的に受け入れられています。必要なときに変換してください：</p><ul><li><strong>普遍的な互換性：</strong> JPGはデバイス、アプリ、プラットフォーム全体で動作します。</li><li><strong>クロスプラットフォーム共有：</strong> Android/Windowsユーザーに問題なく写真を送信します。</li><li><strong>ソーシャルアップロード：</strong> ほとんどのプラットフォームはJPGを好むか、要求します。</li><li><strong>レガシーサポート：</strong> 古いアプリはHEICを信頼性高く読み取れません。</li></ul>"
+    },
+  {
+      "title": "オンラインでHEICをJPGに変換する方法",
+  "description": "<ol><li><em>HEICをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理が完了するのを待ちます。</li><li><em>JPGをダウンロード</em>をクリックして結果を保存します。</li></ol><p>技術的な手順は不要 — 品質は自動的に最適化されます。</p>"
 
-    }
-    {
-      "title": "オンラインでHEICをJPGに変換する方法"
+    },
+  {
+      "title": "HEICとJPG：主な違い",
+  "description": "<ul><li><strong>ファイルサイズ：</strong> HEICは通常、同等の品質でJPGよりも小さいです。</li><li><strong>互換性：</strong> JPGはほぼ普遍的にサポートされています。</li><li><strong>品質：</strong> 両方とも素晴らしい見た目を持つことができますが、JPGはロスのある圧縮を使用します。</li><li><strong>エコシステム：</strong> HEICはAppleで一般的ですが、JPGはどこにでもあります。</li></ul>"
 
-      "description": "<ol><li><em>HEICをアップロード</em>をクリックし、ファイルを選択します。</li><li>処理が完了するのを待ちます。</li><li><em>JPGをダウンロード</em>をクリックして結果を保存します。</li></ol><p>技術的な手順は不要 — 品質は自動的に最適化されます。</p>"
+    },
+  {
+      "title": "サポートされる制限と形式",
+  "description": "<ul><li><strong>受け入れられる入力：</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>最大ファイルサイズ：</strong> 1ファイルあたり最大16&nbsp;MB</li><li><strong>出力：</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG設定：</strong> 品質90（プログレッシブ、mozjpeg）</li></ul>"
 
-    }
-    {
-      "title": "HEICとJPG：主な違い"
+    },
+  {
+      "title": "私たちのHEICからJPGへのコンバータの特徴",
+  "description": "<ul><li>100％無料、透かしなし</li><li>高品質のJPEG出力</li><li>モバイルフレンドリーなUI</li><li>シンプルで迅速なワークフロー</li></ul>"
 
-      "description": "<ul><li><strong>ファイルサイズ：</strong> HEICは通常、同等の品質でJPGよりも小さいです。</li><li><strong>互換性：</strong> JPGはほぼ普遍的にサポートされています。</li><li><strong>品質：</strong> 両方とも素晴らしい見た目を持つことができますが、JPGはロスのある圧縮を使用します。</li><li><strong>エコシステム：</strong> HEICはAppleで一般的ですが、JPGはどこにでもあります。</li></ul>"
+    },
+  {
+      "title": "HEICとは何ですか？",
+  "description": "<p>HEICはHEIF（高効率画像ファイル形式）標準を使用して保存された画像のファイル拡張子であり、一般的にHEVC（H.265）でエンコードされています。強力な圧縮を提供し、良好な品質を持っていますが、普遍的にはサポートされていません。</p>"
 
-    }
-    {
-      "title": "サポートされる制限と形式"
+    },
+  {
+      "title": "JPGとは何ですか？",
+  "description": "<p>JPG（JPEG）は最も広くサポートされている画像形式です。品質とサイズのバランスを取るためにロスのある圧縮を使用し、共有やウェブ使用に最適です。</p>"
 
-      "description": "<ul><li><strong>受け入れられる入力：</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>最大ファイルサイズ：</strong> 1ファイルあたり最大16&nbsp;MB</li><li><strong>出力：</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG設定：</strong> 品質90（プログレッシブ、mozjpeg）</li></ul>"
+    },
+  {
+      "title": "トラブルシューティング",
+  "description": "<ul><li><strong>アップロード失敗：</strong> ファイルがHEIC/HEIFであり、≤ 16&nbsp;MBであることを確認してください。</li><li><strong>回転した画像：</strong> 一部のビューアはEXIFの向きを無視します — 必要に応じてダウンロード後に回転してください。</li><li><strong>色のシフト：</strong> 幅広い色域の写真は異なって見える場合があります。必要に応じてsRGBで変換してください。</li><li><strong>ライブ写真：</strong> 静止HEICのみが変換され、ペアのビデオ（MOV）は含まれません。</li></ul>"
 
-    }
-    {
-      "title": "私たちのHEICからJPGへのコンバータの特徴"
-
-      "description": "<ul><li>100％無料、透かしなし</li><li>高品質のJPEG出力</li><li>モバイルフレンドリーなUI</li><li>シンプルで迅速なワークフロー</li></ul>"
-
-    }
-    {
-      "title": "HEICとは何ですか？"
-
-      "description": "<p>HEICはHEIF（高効率画像ファイル形式）標準を使用して保存された画像のファイル拡張子であり、一般的にHEVC（H.265）でエンコードされています。強力な圧縮を提供し、良好な品質を持っていますが、普遍的にはサポートされていません。</p>"
-
-    }
-    {
-      "title": "JPGとは何ですか？"
-
-      "description": "<p>JPG（JPEG）は最も広くサポートされている画像形式です。品質とサイズのバランスを取るためにロスのある圧縮を使用し、共有やウェブ使用に最適です。</p>"
-
-    }
-    {
-      "title": "トラブルシューティング"
-
-      "description": "<ul><li><strong>アップロード失敗：</strong> ファイルがHEIC/HEIFであり、≤ 16&nbsp;MBであることを確認してください。</li><li><strong>回転した画像：</strong> 一部のビューアはEXIFの向きを無視します — 必要に応じてダウンロード後に回転してください。</li><li><strong>色のシフト：</strong> 幅広い色域の写真は異なって見える場合があります。必要に応じてsRGBで変換してください。</li><li><strong>ライブ写真：</strong> 静止HEICのみが変換され、ペアのビデオ（MOV）は含まれません。</li></ul>"
+    },
+  {
+      "title": "使用例",
+  "description": "<ul><li><strong>Apple以外のユーザーと共有</strong>して互換性の問題を避けます。</li><li><strong>JPGを期待するCMS/ソーシャルにアップロード</strong>します。</li><li><strong>HEICを読み取れないアプリで印刷＆編集</strong>します。</li></ul>"
 
     }
-    {
-      "title": "使用例"
-
-      "description": "<ul><li><strong>Apple以外のユーザーと共有</strong>して互換性の問題を避けます。</li><li><strong>JPGを期待するCMS/ソーシャルにアップロード</strong>します。</li><li><strong>HEICを読み取れないアプリで印刷＆編集</strong>します。</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "このHEICからJPGへのコンバータは無料ですか？"
+      "question": "このHEICからJPGへのコンバータは無料ですか？",
+  "answer": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
 
-      "answer": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
+    },
+  {
+      "question": "HEICをJPGに変換するときに品質は失われますか？",
+  "answer": "JPGはロスのある圧縮を使用するため、わずかな品質の損失がある可能性があります。私たちは調整された設定（品質約90、プログレッシブ）を使用して最小限に抑えています。"
 
-    }
-    {
-      "question": "HEICをJPGに変換するときに品質は失われますか？"
+    },
+  {
+      "question": "どのデバイスがHEICをサポートしていますか？",
+  "answer": "HEIC/HEIFはAppleデバイスで一般的です。他の多くのプラットフォームは依然としてデフォルトでJPGを好みます。"
 
-      "answer": "JPGはロスのある圧縮を使用するため、わずかな品質の損失がある可能性があります。私たちは調整された設定（品質約90、プログレッシブ）を使用して最小限に抑えています。"
+    },
+  {
+      "question": "サポートされるファイルサイズはどのくらいですか？",
+  "answer": "1ファイルあたり最大16&nbsp;MBの画像をアップロードできます。"
 
-    }
-    {
-      "question": "どのデバイスがHEICをサポートしていますか？"
+    },
+  {
+      "question": "私のファイルは安全ですか？",
+  "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
 
-      "answer": "HEIC/HEIFはAppleデバイスで一般的です。他の多くのプラットフォームは依然としてデフォルトでJPGを好みます。"
+    },
+  {
+      "question": "複数のHEICファイルを一度に変換できますか？",
+  "answer": "このページでは1ファイルずつ変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
 
-    }
-    {
-      "question": "サポートされるファイルサイズはどのくらいですか？"
-
-      "answer": "1ファイルあたり最大16&nbsp;MBの画像をアップロードできます。"
-
-    }
-    {
-      "question": "私のファイルは安全ですか？"
-
-      "answer": "ファイルは自動的に処理され、変換に必要な時間以上は保持されません。"
-
-    }
-    {
-      "question": "複数のHEICファイルを一度に変換できますか？"
-
-      "answer": "このページでは1ファイルずつ変換します。バルクニーズの場合は、プロセスを繰り返すか、バッチツールを使用してください。"
-
-    }
-    {
-      "question": "HEICの代わりにJPGを使用すべき時はいつですか？"
-
-      "answer": "最大の互換性のため、HEICをサポートしないプラットフォームへのアップロードや、Apple以外のデバイスとの共有時にJPGを使用してください。"
+    },
+  {
+      "question": "HEICの代わりにJPGを使用すべき時はいつですか？",
+  "answer": "最大の互換性のため、HEICをサポートしないプラットフォームへのアップロードや、Apple以外のデバイスとの共有時にJPGを使用してください。"
 
     }
-  ]
-  "note": "JPGはロスのある圧縮を使用します。サイズ/品質のわずかなトレードオフは正常です。透明性が必要な場合は、HEICをPNGに変換してください。"
-
+  ],
+  "note": "JPGはロスのある圧縮を使用します。サイズ/品質のわずかなトレードオフは正常です。透明性が必要な場合は、HEICをPNGに変換してください。",
   "related_links": [
     {
-      "title": "HEICをPNGに変換"
+      "title": "HEICをPNGに変換",
+  "url": "/ja/convert/heic-to-png"
 
-      "url": "/ja/convert/heic-to-png"
+    },
+  {
+      "title": "JPGをHEICに変換",
+  "url": "/ja/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "JPGをHEICに変換"
+    },
+  {
+      "title": "HEICをWebPに変換",
+  "url": "/ja/convert/heic-to-webp"
 
-      "url": "/ja/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "HEICをWebPに変換"
-
-      "url": "/ja/convert/heic-to-webp"
-
-    }
-    {
-      "title": "JPGをオンラインで圧縮"
-
-      "url": "/ja/compress/jpg"
+    },
+  {
+      "title": "JPGをオンラインで圧縮",
+  "url": "/ja/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 無断転載を禁じます。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 無断転載を禁じます。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEICからJPGへの変換 - 無料＆オンライン"
-
-      "url": "https://miconvert.com/ja/convert/heic-to-jpg"
-
-      "description": "高品質で普遍的な互換性を持つHEIC画像をJPGに変換するための無料オンラインツール。"
-
-      "inLanguage": "ja"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEICからJPGへの変換 - 無料＆オンライン",
+  "url": "https://miconvert.com/ja/convert/heic-to-jpg",
+  "description": "高品質で普遍的な互換性を持つHEIC画像をJPGに変換するための無料オンラインツール。",
+  "inLanguage": "ja",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "ホーム",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "ホーム"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "変換",
+  "item": "https://miconvert.com/ja/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "変換"
-
-          "item": "https://miconvert.com/ja/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEICからJPG"
-
-          "item": "https://miconvert.com/ja/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEICからJPG",
+  "item": "https://miconvert.com/ja/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEICからJPGへのコンバータ",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ja/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "高品質のJPEG出力",
+  "プログレッシブエンコーディング",
+  "迅速な処理"
 
-      "name": "HEICからJPGへのコンバータ"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ja/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "高品質のJPEG出力"
-
-        "プログレッシブエンコーディング"
-
-        "迅速な処理"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "このHEICからJPGへのコンバータは無料ですか？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
+          "@type": "Question",
+  "name": "このHEICからJPGへのコンバータは無料ですか？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "はい、コンバータは完全に無料で、隠れた料金やサブスクリプションはありません。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "サポートされるファイルサイズはどのくらいですか？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "1ファイルあたり最大16 MBの画像をアップロードできます。"
+        },
+  {
+          "@type": "Question",
+  "name": "サポートされるファイルサイズはどのくらいですか？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "1ファイルあたり最大16 MBの画像をアップロードできます。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "HEICをJPGに変換するときに品質は失われますか？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPGはロスのある圧縮を使用しますが、私たちは目に見える損失を最小限に抑えるために調整された設定を使用しています。"
+        },
+  {
+          "@type": "Question",
+  "name": "HEICをJPGに変換するときに品質は失われますか？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPGはロスのある圧縮を使用しますが、私たちは目に見える損失を最小限に抑えるために調整された設定を使用しています。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "HEICをJPGに変換する方法"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "HEICをJPGに変換する方法",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "HEICをアップロードをクリックし、ファイルを選択します。"
 
-          "text": "HEICをアップロードをクリックし、ファイルを選択します。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "処理が完了するのを待ちます。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "JPGをダウンロードをクリックして結果を保存します。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "処理が完了するのを待ちます。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "JPGをダウンロードをクリックして結果を保存します。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEICからJPGへのコンバータ"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

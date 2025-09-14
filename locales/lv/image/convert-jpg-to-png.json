@@ -1,376 +1,282 @@
 {
-  "lang": "lv"
-
-  "lang_name": "Latviešu"
-
-  "title": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com"
-
-  "sub_title": "Konvertējiet JPG attēlus uz PNG formātu tiešsaistē ar caurspīdīgumu, augstu kvalitāti un bez ūdenszīmēm."
-
-  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu..."
-
-  "btn_download": "Konvertēt uz PNG"
-
-  "btn_paste": "Augšupielādēt JPG"
-
-  "btn_clear": "Notīrīt"
-
+  "lang": "lv",
+  "lang_name": "Latviešu",
+  "title": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē | miconvert.com",
+  "sub_title": "Konvertējiet JPG attēlus uz PNG formātu tiešsaistē ar caurspīdīgumu, augstu kvalitāti un bez ūdenszīmēm.",
+  "hint": "Augšupielādējiet savu JPG attēlu, lai sāktu konvertēšanu...",
+  "btn_download": "Konvertēt uz PNG",
+  "btn_paste": "Augšupielādēt JPG",
+  "btn_clear": "Notīrīt",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Meklējat ātru un uzticamu veidu, kā konvertēt <strong>JPG uz PNG</strong>? Mūsu bezmaksas tiešsaistes JPG uz PNG konvertētājs palīdz jums tūlīt pārvērst attēlus augstas kvalitātes PNG failos. Neatkarīgi no tā, vai jums nepieciešams caurspīdīgums, bezzaudējumu saspiešana vai saderība dizaina projektiem, šis rīks ir ideāls risinājums. Tas darbojas tieši jūsu pārlūkprogrammā, neprasa reģistrāciju un nodrošina jūsu failu drošību.</p><p>PNG formāts ir ideāls profesionālai lietošanai, īpaši, strādājot ar grafikām, logotipiem vai attēliem, kuriem nepieciešama caurspīdīga fona. Atšķirībā no JPG, kas izmanto zaudējumu saspiešanu un var samazināt attēla kvalitāti, PNG saglabā asus detaļas un atbalsta alfa caurspīdīgumu. Ja esat dizainers, students vai biznesa profesionālis, mūsu rīks sniedz jums vieglu veidu, kā uzlabot savu darba plūsmu.</p>"
-
+  },
+  "description": "<p>Meklējat ātru un uzticamu veidu, kā konvertēt <strong>JPG uz PNG</strong>? Mūsu bezmaksas tiešsaistes JPG uz PNG konvertētājs palīdz jums tūlīt pārvērst attēlus augstas kvalitātes PNG failos. Neatkarīgi no tā, vai jums nepieciešams caurspīdīgums, bezzaudējumu saspiešana vai saderība dizaina projektiem, šis rīks ir ideāls risinājums. Tas darbojas tieši jūsu pārlūkprogrammā, neprasa reģistrāciju un nodrošina jūsu failu drošību.</p><p>PNG formāts ir ideāls profesionālai lietošanai, īpaši, strādājot ar grafikām, logotipiem vai attēliem, kuriem nepieciešama caurspīdīga fona. Atšķirībā no JPG, kas izmanto zaudējumu saspiešanu un var samazināt attēla kvalitāti, PNG saglabā asus detaļas un atbalsta alfa caurspīdīgumu. Ja esat dizainers, students vai biznesa profesionālis, mūsu rīks sniedz jums vieglu veidu, kā uzlabot savu darba plūsmu.</p>",
   "head": {
-    "title": "Konvertēt JPG uz PNG Tiešsaistē - Bezmaksas JPG uz PNG Konvertētājs | miconvert.com"
+    "title": "Konvertēt JPG uz PNG Tiešsaistē - Bezmaksas JPG uz PNG Konvertētājs | miconvert.com",
+  "description": "Konvertējiet JPG uz PNG tiešsaistē ar caurspīdīguma atbalstu, augstu kvalitāti un bez ūdenszīmēm. Bezmaksas, ātrs un drošs JPG uz PNG konvertētāja rīks.",
+  "keywords": "jpg uz png, konvertēt jpg uz png, bezmaksas jpg uz png, tiešsaistes jpg konvertētājs, png ar caurspīdīgumu",
+  "canonical": "https://miconvert.com/lv/convert/jpg-to-png",
+  "og_title": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē",
+  "og_description": "Konvertējiet JPG attēlus PNG formātā ar caurspīdīgumu un bezzaudējumu kvalitāti. 100% bezmaksas, ātrs un drošs.",
+  "og_url": "https://miconvert.com/lv/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Konvertējiet JPG uz PNG tiešsaistē ar caurspīdīguma atbalstu, augstu kvalitāti un bez ūdenszīmēm. Bezmaksas, ātrs un drošs JPG uz PNG konvertētāja rīks."
-
-    "keywords": "jpg uz png, konvertēt jpg uz png, bezmaksas jpg uz png, tiešsaistes jpg konvertētājs, png ar caurspīdīgumu"
-
-    "canonical": "https://miconvert.com/lv/convert/jpg-to-png"
-
-    "og_title": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē"
-
-    "og_description": "Konvertējiet JPG attēlus PNG formātā ar caurspīdīgumu un bezzaudējumu kvalitāti. 100% bezmaksas, ātrs un drošs."
-
-    "og_url": "https://miconvert.com/lv/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertēt JPG uz PNG Tiešsaistē"
+    "title": "Konvertēt JPG uz PNG Tiešsaistē",
+  "description": "Bezmaksas un ātrs JPG uz PNG konvertētājs ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti. Darbojas nekavējoties uz jebkuras ierīces, reģistrācija nav nepieciešama."
 
-    "description": "Bezmaksas un ātrs JPG uz PNG konvertētājs ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti. Darbojas nekavējoties uz jebkuras ierīces, reģistrācija nav nepieciešama."
-
-  }
+  },
   "h2": [
     {
-      "title": "Kāpēc konvertēt JPG uz PNG?"
+      "title": "Kāpēc konvertēt JPG uz PNG?",
+  "description": "<p>Kamēr JPG ir lielisks nelieliem failu izmēriem un tiešsaistes koplietošanai, tam ir saspiešana, kas samazina kvalitāti. PNG, no otras puses, ir bezzaudējumu formāts, kas saglabā detaļas un atbalsta caurspīdīgumu. Šeit ir galvenie iemesli, kāpēc izmantot mūsu JPG uz PNG konvertētāju:</p><ul><li><strong>Caurspīdīgums:</strong> Izveidojiet logotipus, ikonas un attēlus bez fona.</li><li><strong>Labāka rediģēšana:</strong> Ideāli piemērots dizaina programmatūrai, piemēram, Photoshop, Illustrator un Figma.</li><li><strong>Augsta kvalitāte:</strong> Saglabājiet asumu, teksta skaidrību un grafikas detaļas.</li><li><strong>Krustošanas platformu saderība:</strong> PNG ir plaši atbalstīts pārlūkprogrammās, lietotnēs un operētājsistēmās.</li></ul>"
 
-      "description": "<p>Kamēr JPG ir lielisks nelieliem failu izmēriem un tiešsaistes koplietošanai, tam ir saspiešana, kas samazina kvalitāti. PNG, no otras puses, ir bezzaudējumu formāts, kas saglabā detaļas un atbalsta caurspīdīgumu. Šeit ir galvenie iemesli, kāpēc izmantot mūsu JPG uz PNG konvertētāju:</p><ul><li><strong>Caurspīdīgums:</strong> Izveidojiet logotipus, ikonas un attēlus bez fona.</li><li><strong>Labāka rediģēšana:</strong> Ideāli piemērots dizaina programmatūrai, piemēram, Photoshop, Illustrator un Figma.</li><li><strong>Augsta kvalitāte:</strong> Saglabājiet asumu, teksta skaidrību un grafikas detaļas.</li><li><strong>Krustošanas platformu saderība:</strong> PNG ir plaši atbalstīts pārlūkprogrammās, lietotnēs un operētājsistēmās.</li></ul>"
+    },
+  {
+      "title": "JPG pret PNG: Galvenās atšķirības",
+  "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Saspiešana</td><td>Zaudējumu (mazāks, bet kvalitātes zudums)</td><td>Bezzaudējumu (lielāks, bet skaidrs)</td></tr><tr><td>Caurspīdīgums</td><td>Nē</td><td>Jā (alfa kanāls)</td></tr><tr><td>Labākais priekš</td><td>Fotogrāfijām, sociālai koplietošanai</td><td>Logotipiem, UI, tekstam, grafikām</td></tr><tr><td>Rediģēšana</td><td>Atkārtota saglabāšana samazina kvalitāti</td><td>Stabils rediģēšanas laikā</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG pret PNG: Galvenās atšķirības"
+    },
+  {
+      "title": "Kā konvertēt JPG uz PNG Tiešsaistē",
+  "description": "<p>JPG uz PNG konvertēšana ar mūsu rīku ir vienkārša un aizņem tikai dažas sekundes:</p><ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt PNG</em>, lai iegūtu savu jauno failu.</li></ol><p>Nav nepieciešamas tehniskas zināšanas — viss notiek jūsu pārlūkprogrammā.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Saspiešana</td><td>Zaudējumu (mazāks, bet kvalitātes zudums)</td><td>Bezzaudējumu (lielāks, bet skaidrs)</td></tr><tr><td>Caurspīdīgums</td><td>Nē</td><td>Jā (alfa kanāls)</td></tr><tr><td>Labākais priekš</td><td>Fotogrāfijām, sociālai koplietošanai</td><td>Logotipiem, UI, tekstam, grafikām</td></tr><tr><td>Rediģēšana</td><td>Atkārtota saglabāšana samazina kvalitāti</td><td>Stabils rediģēšanas laikā</td></tr></tbody></table>"
+    },
+  {
+      "title": "Atbalstītie ierobežojumi un formāti",
+  "description": "<ul><li><strong>Pieņemamie ievades tipi:</strong> image/jpeg, image/jpg</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16 MB uz failu</li><li><strong>Izvade:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitāte:</strong> Bezzaudējumu PNG ar regulējamu saspiešanas līmeni</li></ul>"
 
-    }
-    {
-      "title": "Kā konvertēt JPG uz PNG Tiešsaistē"
+    },
+  {
+      "title": "Padomi labākiem rezultātiem",
+  "description": "<ul><li><strong>Izmantojiet augstas izšķirtspējas JPG:</strong> Jo augstāka ir jūsu JPG izšķirtspēja, jo labāk izskatīsies jūsu PNG.</li><li><strong>Nepieciešams caurspīdīgums?</strong> Ja jūsu JPG ir fons, vispirms izmantojiet mūsu <a href='/lv/effect/remove-background'>Fona noņemšanas rīku</a>.</li><li><strong>Optimizējiet faila izmēru:</strong> Pēc konvertēšanas izmantojiet mūsu <a href='/lv/edit/compress-image'>Attēlu saspiešanas rīku</a>, lai samazinātu PNG izmēru, saglabājot kvalitāti.</li><li><strong>Webam:</strong> Apsveriet iespēju konvertēt PNG uz <a href='/lv/convert/png-to-webp'>WebP</a> ātrākai ielādei.</li></ul>"
 
-      "description": "<p>JPG uz PNG konvertēšana ar mūsu rīku ir vienkārša un aizņem tikai dažas sekundes:</p><ol><li>Noklikšķiniet uz <em>Augšupielādēt JPG</em> un izvēlieties savu failu.</li><li>Gaidiet, līdz apstrāde ir pabeigta.</li><li>Noklikšķiniet uz <em>Lejupielādēt PNG</em>, lai iegūtu savu jauno failu.</li></ol><p>Nav nepieciešamas tehniskas zināšanas — viss notiek jūsu pārlūkprogrammā.</p>"
+    },
+  {
+      "title": "Problēmu novēršana",
+  "description": "<ul><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka jūsu fails ir JPG/JPEG un ≤ 16 MB.</li><li><strong>Nav caurspīdīguma:</strong> PNG saglabā caurspīdīgumu, bet nevar to izvilkt no plakana fotoattēla — vispirms noņemiet fona.</li><li><strong>Liels PNG izvade:</strong> Izmantojiet <a href='/lv/edit/compress-image'>Attēlu saspiešanas rīku</a> vai pārejiet uz <a href='/lv/convert/png-to-webp'>WebP</a>.</li></ul>"
 
-    }
-    {
-      "title": "Atbalstītie ierobežojumi un formāti"
+    },
+  {
+      "title": "Mūsu JPG uz PNG konvertētāja funkcijas",
+  "description": "<ul><li>Bezmaksas bez ūdenszīmēm</li><li>Ātra apstrāde jūsu pārlūkprogrammā</li><li>Droša apstrāde — konts nav nepieciešams</li><li>Tīra UI, mobilajām ierīcēm draudzīga</li></ul>"
 
-      "description": "<ul><li><strong>Pieņemamie ievades tipi:</strong> image/jpeg, image/jpg</li><li><strong>Maksimālais faila izmērs:</strong> līdz 16 MB uz failu</li><li><strong>Izvade:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitāte:</strong> Bezzaudējumu PNG ar regulējamu saspiešanas līmeni</li></ul>"
-
-    }
-    {
-      "title": "Padomi labākiem rezultātiem"
-
-      "description": "<ul><li><strong>Izmantojiet augstas izšķirtspējas JPG:</strong> Jo augstāka ir jūsu JPG izšķirtspēja, jo labāk izskatīsies jūsu PNG.</li><li><strong>Nepieciešams caurspīdīgums?</strong> Ja jūsu JPG ir fons, vispirms izmantojiet mūsu <a href='/lv/effect/remove-background'>Fona noņemšanas rīku</a>.</li><li><strong>Optimizējiet faila izmēru:</strong> Pēc konvertēšanas izmantojiet mūsu <a href='/lv/edit/compress-image'>Attēlu saspiešanas rīku</a>, lai samazinātu PNG izmēru, saglabājot kvalitāti.</li><li><strong>Webam:</strong> Apsveriet iespēju konvertēt PNG uz <a href='/lv/convert/png-to-webp'>WebP</a> ātrākai ielādei.</li></ul>"
-
-    }
-    {
-      "title": "Problēmu novēršana"
-
-      "description": "<ul><li><strong>Augšupielāde neizdodas:</strong> Pārliecinieties, ka jūsu fails ir JPG/JPEG un ≤ 16 MB.</li><li><strong>Nav caurspīdīguma:</strong> PNG saglabā caurspīdīgumu, bet nevar to izvilkt no plakana fotoattēla — vispirms noņemiet fona.</li><li><strong>Liels PNG izvade:</strong> Izmantojiet <a href='/lv/edit/compress-image'>Attēlu saspiešanas rīku</a> vai pārejiet uz <a href='/lv/convert/png-to-webp'>WebP</a>.</li></ul>"
-
-    }
-    {
-      "title": "Mūsu JPG uz PNG konvertētāja funkcijas"
-
-      "description": "<ul><li>Bezmaksas bez ūdenszīmēm</li><li>Ātra apstrāde jūsu pārlūkprogrammā</li><li>Droša apstrāde — konts nav nepieciešams</li><li>Tīra UI, mobilajām ierīcēm draudzīga</li></ul>"
+    },
+  {
+      "title": "Saistītie konvertētāji",
+  "description": "<ul class='related-links'><li><a href='/lv/convert/png-to-jpg'>PNG uz JPG</a></li><li><a href='/lv/convert/jpg-to-webp'>JPG uz WebP</a></li><li><a href='/lv/convert/png-to-webp'>PNG uz WebP</a></li><li><a href='/lv/convert/webp-to-png'>WebP uz PNG</a></li></ul>"
 
     }
-    {
-      "title": "Saistītie konvertētāji"
-
-      "description": "<ul class='related-links'><li><a href='/lv/convert/png-to-jpg'>PNG uz JPG</a></li><li><a href='/lv/convert/jpg-to-webp'>JPG uz WebP</a></li><li><a href='/lv/convert/png-to-webp'>PNG uz WebP</a></li><li><a href='/lv/convert/webp-to-png'>WebP uz PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Vai šis JPG uz PNG konvertētājs ir bezmaksas?"
+      "question": "Vai šis JPG uz PNG konvertētājs ir bezmaksas?",
+  "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
 
-      "answer": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
+    },
+  {
+      "question": "Vai PNG atbalsta caurspīdīgumu?",
+  "answer": "Jā, PNG ļauj caurspīdīgus fonus, padarot to ideālu logotipiem, ikonām un profesionāliem dizainiem."
 
-    }
-    {
-      "question": "Vai PNG atbalsta caurspīdīgumu?"
+    },
+  {
+      "question": "Vai attēls zaudēs kvalitāti konvertēšanas laikā?",
+  "answer": "Nē. Atšķirībā no JPG, PNG izmanto bezzaudējumu saspiešanu, tāpēc jūsu konvertētie attēli saglabā savu sākotnējo kvalitāti."
 
-      "answer": "Jā, PNG ļauj caurspīdīgus fonus, padarot to ideālu logotipiem, ikonām un profesionāliem dizainiem."
+    },
+  {
+      "question": "Kādi failu izmēri tiek atbalstīti?",
+  "answer": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu. Ja nepieciešams, saspiediet lielos JPG pirms konvertēšanas."
 
-    }
-    {
-      "question": "Vai attēls zaudēs kvalitāti konvertēšanas laikā?"
+    },
+  {
+      "question": "Vai mani faili ir droši?",
+  "answer": "Jūsu faili tiek apstrādāti automātiski un netiek glabāti ilgāk par nepieciešamo konvertēšanai."
 
-      "answer": "Nē. Atšķirībā no JPG, PNG izmanto bezzaudējumu saspiešanu, tāpēc jūsu konvertētie attēli saglabā savu sākotnējo kvalitāti."
+    },
+  {
+      "question": "Vai es varu konvertēt vairākus JPG vienlaikus?",
+  "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
 
-    }
-    {
-      "question": "Kādi failu izmēri tiek atbalstīti?"
-
-      "answer": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu. Ja nepieciešams, saspiediet lielos JPG pirms konvertēšanas."
-
-    }
-    {
-      "question": "Vai mani faili ir droši?"
-
-      "answer": "Jūsu faili tiek apstrādāti automātiski un netiek glabāti ilgāk par nepieciešamo konvertēšanai."
-
-    }
-    {
-      "question": "Vai es varu konvertēt vairākus JPG vienlaikus?"
-
-      "answer": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
-
-    }
-    {
-      "question": "Vai es varu izmantot šo rīku savā telefonā?"
-
-      "answer": "Noteikti. Konvertētājs ir optimizēts mobilajām ierīcēm un darbojas iOS un Android pārlūkprogrammās."
+    },
+  {
+      "question": "Vai es varu izmantot šo rīku savā telefonā?",
+  "answer": "Noteikti. Konvertētājs ir optimizēts mobilajām ierīcēm un darbojas iOS un Android pārlūkprogrammās."
 
     }
-  ]
-  "note": "Atruna: Konvertēšanas kvalitāte ir atkarīga no ievades faila izšķirtspējas. Vienmēr saglabājiet oriģinālo failu kopiju pirms rediģēšanas vai konvertēšanas."
-
-  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas."
-
+  ],
+  "note": "Atruna: Konvertēšanas kvalitāte ir atkarīga no ievades faila izšķirtspējas. Vienmēr saglabājiet oriģinālo failu kopiju pirms rediģēšanas vai konvertēšanas.",
+  "footer": "© 2019 - 2025 miconvert.com. Visas tiesības aizsargātas.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē"
-
-      "url": "https://miconvert.com/lv/convert/jpg-to-png"
-
-      "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz PNG ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti."
-
-      "inLanguage": "lv"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG uz PNG Konvertētājs - Bezmaksas un Tiešsaistē",
+  "url": "https://miconvert.com/lv/convert/jpg-to-png",
+  "description": "Bezmaksas tiešsaistes rīks, lai konvertētu JPG attēlus uz PNG ar caurspīdīguma atbalstu un bezzaudējumu kvalitāti.",
+  "inLanguage": "lv",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Sākums",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Sākums"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertēt",
+  "item": "https://miconvert.com/lv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertēt"
-
-          "item": "https://miconvert.com/lv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG uz PNG"
-
-          "item": "https://miconvert.com/lv/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG uz PNG",
+  "item": "https://miconvert.com/lv/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG uz PNG Konvertētājs",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/lv/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Bezzaudējumu PNG izvade",
+  "Caurspīdīguma atbalsts",
+  "Ātra pārlūkprogrammas apstrāde"
 
-      "name": "JPG uz PNG Konvertētājs"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lv/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Bezzaudējumu PNG izvade"
-
-        "Caurspīdīguma atbalsts"
-
-        "Ātra pārlūkprogrammas apstrāde"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Vai šis JPG uz PNG konvertētājs ir bezmaksas?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
+          "@type": "Question",
+  "name": "Vai šis JPG uz PNG konvertētājs ir bezmaksas?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jā, konvertētājs ir pilnīgi bezmaksas, bez slēptām maksām vai abonementiem."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vai PNG atbalsta caurspīdīgumu?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jā, PNG ļauj caurspīdīgus fonus, padarot to ideālu logotipiem, ikonām un profesionāliem dizainiem."
+        },
+  {
+          "@type": "Question",
+  "name": "Vai PNG atbalsta caurspīdīgumu?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jā, PNG ļauj caurspīdīgus fonus, padarot to ideālu logotipiem, ikonām un profesionāliem dizainiem."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vai attēls zaudēs kvalitāti konvertēšanas laikā?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Nē. Atšķirībā no JPG, PNG izmanto bezzaudējumu saspiešanu, tāpēc jūsu konvertētie attēli saglabā savu sākotnējo kvalitāti."
+        },
+  {
+          "@type": "Question",
+  "name": "Vai attēls zaudēs kvalitāti konvertēšanas laikā?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Nē. Atšķirībā no JPG, PNG izmanto bezzaudējumu saspiešanu, tāpēc jūsu konvertētie attēli saglabā savu sākotnējo kvalitāti."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kādi failu izmēri tiek atbalstīti?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu. Ja nepieciešams, saspiediet lielos JPG pirms konvertēšanas."
+        },
+  {
+          "@type": "Question",
+  "name": "Kādi failu izmēri tiek atbalstīti?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jūs varat augšupielādēt attēlus līdz 16 MB uz failu. Ja nepieciešams, saspiediet lielos JPG pirms konvertēšanas."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vai mani faili ir droši?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jūsu faili tiek apstrādāti automātiski un netiek glabāti ilgāk par nepieciešamo konvertēšanai."
+        },
+  {
+          "@type": "Question",
+  "name": "Vai mani faili ir droši?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jūsu faili tiek apstrādāti automātiski un netiek glabāti ilgāk par nepieciešamo konvertēšanai."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vai es varu konvertēt vairākus JPG vienlaikus?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
+        },
+  {
+          "@type": "Question",
+  "name": "Vai es varu konvertēt vairākus JPG vienlaikus?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Šī lapa konvertē vienu failu vienlaikus. Lielākiem vajadzībām atkārtojiet procesu vai izmantojiet partijas rīku."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kā konvertēt JPG uz PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kā konvertēt JPG uz PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Noklikšķiniet uz Augšupielādēt JPG un izvēlieties savu attēlu."
 
-          "text": "Noklikšķiniet uz Augšupielādēt JPG un izvēlieties savu attēlu."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Gaidiet, līdz apstrāde ir pabeigta."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Noklikšķiniet uz Lejupielādēt PNG, lai saglabātu rezultātu."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Gaidiet, līdz apstrāde ir pabeigta."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Noklikšķiniet uz Lejupielādēt PNG, lai saglabātu rezultātu."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG uz PNG Konvertētājs"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

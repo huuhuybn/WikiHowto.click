@@ -1,377 +1,283 @@
 {
-  "lang": "da"
-
-  "lang_name": "Dansk"
-
-  "title": "JPG til AVIF Konverter - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konverter JPG-billeder til AVIF online med fremragende kompression og høj visuel kvalitet. Ingen vandmærker."
-
-  "hint": "Upload dit JPG-billede for at starte konverteringen..."
-
-  "btn_download": "Konverter til AVIF"
-
-  "btn_paste": "Upload JPG"
-
-  "btn_clear": "Ryd"
-
+  "lang": "da",
+  "lang_name": "Dansk",
+  "title": "JPG til AVIF Konverter - Gratis & Online | miconvert.com",
+  "sub_title": "Konverter JPG-billeder til AVIF online med fremragende kompression og høj visuel kvalitet. Ingen vandmærker.",
+  "hint": "Upload dit JPG-billede for at starte konverteringen...",
+  "btn_download": "Konverter til AVIF",
+  "btn_paste": "Upload JPG",
+  "btn_clear": "Ryd",
   "head": {
-    "title": "Konverter JPG til AVIF - Gratis Online JPG til AVIF Konverter"
+    "title": "Konverter JPG til AVIF - Gratis Online JPG til AVIF Konverter",
+  "description": "Konverter JPG-billeder til AVIF-format online gratis. Høj kvalitet JPG til AVIF konvertering med fremragende kompression.",
+  "keywords": "jpg til avif, konverter jpg til avif, gratis jpg til avif, online avif konverter, billede konvertering",
+  "canonical": "https://miconvert.com/da/convert/jpg-to-avif",
+  "og_title": "Konverter JPG til AVIF - Gratis Online JPG til AVIF Konverter",
+  "og_description": "Konverter JPG-billeder til AVIF-format online gratis. Høj kvalitet JPG til AVIF konvertering med fremragende kompression.",
+  "og_url": "https://miconvert.com/da/convert/jpg-to-avif",
+  "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-    "description": "Konverter JPG-billeder til AVIF-format online gratis. Høj kvalitet JPG til AVIF konvertering med fremragende kompression."
-
-    "keywords": "jpg til avif, konverter jpg til avif, gratis jpg til avif, online avif konverter, billede konvertering"
-
-    "canonical": "https://miconvert.com/da/convert/jpg-to-avif"
-
-    "og_title": "Konverter JPG til AVIF - Gratis Online JPG til AVIF Konverter"
-
-    "og_description": "Konverter JPG-billeder til AVIF-format online gratis. Høj kvalitet JPG til AVIF konvertering med fremragende kompression."
-
-    "og_url": "https://miconvert.com/da/convert/jpg-to-avif"
-
-    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konverter JPG til AVIF Online"
+    "title": "Konverter JPG til AVIF Online",
+  "description": "Gratis JPG til AVIF konverter med fremragende kompression og kvalitet. Fungerer på enhver enhed — ingen tilmelding kræves."
 
-    "description": "Gratis JPG til AVIF konverter med fremragende kompression og kvalitet. Fungerer på enhver enhed — ingen tilmelding kræves."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-avif"
-
-    "title": "JPG til AVIF Konverter"
-
-    "description": "Konverter JPG-billeder til AVIF med moderne kompression og høj troværdighed."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "jpg-to-avif",
+  "title": "JPG til AVIF Konverter",
+  "description": "Konverter JPG-billeder til AVIF med moderne kompression og høj troværdighed.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Høj kvalitet AVIF output",
+  "Fremragende kompression",
+  "Moderne webklar format",
+  "Gratis online værktøj"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Høj kvalitet AVIF output"
-
-      "Fremragende kompression"
-
-      "Moderne webklar format"
-
-      "Gratis online værktøj"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:2:0"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:2:0",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG til AVIF Konvertering Fuldført"
+    "title": "JPG til AVIF Konvertering Fuldført",
+  "back_button": "Tilbage til Konverter",
+  "convert_another": "Konverter Et Andet JPG",
+  "quick_conversions": "Hurtige Konverteringer:"
 
-    "back_button": "Tilbage til Konverter"
-
-    "convert_another": "Konverter Et Andet JPG"
-
-    "quick_conversions": "Hurtige Konverteringer:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Hvorfor Konvertere JPG til AVIF?"
+      "title": "Hvorfor Konvertere JPG til AVIF?",
+  "description": "<p>AVIF (AV1 Image File Format) er et næste generations format, der leverer mindre filer med samme eller bedre kvalitet end JPG:</p><ul><li><strong>Overlegen kompression:</strong> Ofte 30–50% mindre end JPG ved sammenlignelig kvalitet.</li><li><strong>Høj troværdighed:</strong> Bedre detaljeopbevaring og færre artefakter ved lave bithastigheder.</li><li><strong>Moderne funktioner:</strong> Understøtter gennemsigtighed, HDR og bred farveskala.</li><li><strong>Webpræstation:</strong> Mindre billeder = hurtigere sider og bedre Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (AV1 Image File Format) er et næste generations format, der leverer mindre filer med samme eller bedre kvalitet end JPG:</p><ul><li><strong>Overlegen kompression:</strong> Ofte 30–50% mindre end JPG ved sammenlignelig kvalitet.</li><li><strong>Høj troværdighed:</strong> Bedre detaljeopbevaring og færre artefakter ved lave bithastigheder.</li><li><strong>Moderne funktioner:</strong> Understøtter gennemsigtighed, HDR og bred farveskala.</li><li><strong>Webpræstation:</strong> Mindre billeder = hurtigere sider og bedre Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Hvordan Konverterer Man JPG til AVIF Online",
+  "description": "<ol><li>Klik på <em>Upload JPG</em> og vælg din fil.</li><li>Vent på, at behandlingen er færdig.</li><li>Klik på <em>Download AVIF</em> for at gemme det optimerede billede.</li></ol><p>Konverteren balancerer automatisk kvalitet og størrelse til typisk webbrug.</p>"
 
-    }
-    {
-      "title": "Hvordan Konverterer Man JPG til AVIF Online"
+    },
+  {
+      "title": "AVIF vs JPG: Nøgleforskelle",
+  "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompression</td><td>Tabt (JPEG)</td><td>Avanceret, mere effektiv (AV1)</td></tr><tr><td>Filstørrelse</td><td>Baseline</td><td>≈30–50% mindre ved sammenlignelig kvalitet</td></tr><tr><td>Gennemsigtighed</td><td>Nej</td><td>Ja</td></tr><tr><td>HDR/Bred Gamut</td><td>Begrænset</td><td>Understøttet</td></tr><tr><td>Browserunderstøttelse</td><td>Universel</td><td>Moderne browsere (fallback anbefales)</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klik på <em>Upload JPG</em> og vælg din fil.</li><li>Vent på, at behandlingen er færdig.</li><li>Klik på <em>Download AVIF</em> for at gemme det optimerede billede.</li></ol><p>Konverteren balancerer automatisk kvalitet og størrelse til typisk webbrug.</p>"
+    },
+  {
+      "title": "Understøttede Grænser & Formater",
+  "description": "<ul><li><strong>Acceptabel input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Encoding:</strong> Kvalitet ~80, hastighed 4 (balanceret)</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs JPG: Nøgleforskelle"
+    },
+  {
+      "title": "Fejlfinding",
+  "description": "<ul><li><strong>Upload mislykkes:</strong> Sørg for, at filen er JPG/JPEG og ≤ 16&nbsp;MB.</li><li><strong>Farveskift:</strong> Konverter billeder til sRGB før upload for ensartede webfarver.</li><li><strong>Ældre browsere:</strong> Server JPG/WebP fallback med <code>&lt;picture&gt;</code> hvis AVIF ikke understøttes.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompression</td><td>Tabt (JPEG)</td><td>Avanceret, mere effektiv (AV1)</td></tr><tr><td>Filstørrelse</td><td>Baseline</td><td>≈30–50% mindre ved sammenlignelig kvalitet</td></tr><tr><td>Gennemsigtighed</td><td>Nej</td><td>Ja</td></tr><tr><td>HDR/Bred Gamut</td><td>Begrænset</td><td>Understøttet</td></tr><tr><td>Browserunderstøttelse</td><td>Universel</td><td>Moderne browsere (fallback anbefales)</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Understøttede Grænser & Formater"
-
-      "description": "<ul><li><strong>Acceptabel input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimal filstørrelse:</strong> op til 16&nbsp;MB pr. fil</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Encoding:</strong> Kvalitet ~80, hastighed 4 (balanceret)</li></ul>"
-
-    }
-    {
-      "title": "Fejlfinding"
-
-      "description": "<ul><li><strong>Upload mislykkes:</strong> Sørg for, at filen er JPG/JPEG og ≤ 16&nbsp;MB.</li><li><strong>Farveskift:</strong> Konverter billeder til sRGB før upload for ensartede webfarver.</li><li><strong>Ældre browsere:</strong> Server JPG/WebP fallback med <code>&lt;picture&gt;</code> hvis AVIF ikke understøttes.</li></ul>"
-
-    }
-    {
-      "title": "Brugssager: Hvornår Skal Man Konvertere JPG til AVIF"
-
-      "description": "<ul><li><strong>Weboptimering:</strong> Fremskynde sider og forbedre LCP.</li><li><strong>Mobilapps:</strong> Reducere båndbredde og lagerplads.</li><li><strong>Store fotobiblioteker:</strong> Spare diskplads uden åbenlys kvalitetstab.</li></ul>"
+    },
+  {
+      "title": "Brugssager: Hvornår Skal Man Konvertere JPG til AVIF",
+  "description": "<ul><li><strong>Weboptimering:</strong> Fremskynde sider og forbedre LCP.</li><li><strong>Mobilapps:</strong> Reducere båndbredde og lagerplads.</li><li><strong>Store fotobiblioteker:</strong> Spare diskplads uden åbenlys kvalitetstab.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Er denne JPG til AVIF konverter gratis?"
+      "question": "Er denne JPG til AVIF konverter gratis?",
+  "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
 
-      "answer": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+    },
+  {
+      "question": "Vil AVIF fungere på alle browsere?",
+  "answer": "AVIF understøttes af moderne browsere (Chrome, Firefox, Safari, Edge). For ældre browsere, giv JPG/WebP fallbacks."
 
-    }
-    {
-      "question": "Vil AVIF fungere på alle browsere?"
+    },
+  {
+      "question": "Hvor meget mindre er AVIF-filer sammenlignet med JPG?",
+  "answer": "Typisk 30–50% mindre ved sammenlignelig opfattet kvalitet, selvom resultaterne varierer afhængigt af billedet."
 
-      "answer": "AVIF understøttes af moderne browsere (Chrome, Firefox, Safari, Edge). For ældre browsere, giv JPG/WebP fallbacks."
+    },
+  {
+      "question": "Hvilke filstørrelser understøttes?",
+  "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
 
-    }
-    {
-      "question": "Hvor meget mindre er AVIF-filer sammenlignet med JPG?"
+    },
+  {
+      "question": "Er mine filer sikre?",
+  "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
 
-      "answer": "Typisk 30–50% mindre ved sammenlignelig opfattet kvalitet, selvom resultaterne varierer afhængigt af billedet."
+    },
+  {
+      "question": "Kan jeg konvertere flere JPG'er på én gang?",
+  "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
 
-    }
-    {
-      "question": "Hvilke filstørrelser understøttes?"
-
-      "answer": "Du kan uploade billeder op til 16&nbsp;MB pr. fil."
-
-    }
-    {
-      "question": "Er mine filer sikre?"
-
-      "answer": "Filer behandles automatisk og opbevares ikke længere end nødvendigt for konvertering."
-
-    }
-    {
-      "question": "Kan jeg konvertere flere JPG'er på én gang?"
-
-      "answer": "Denne side konverterer én fil ad gangen. For bulkbehov, gentag processen eller brug et batchværktøj."
-
-    }
-    {
-      "question": "Er AVIF bedre end JPG til hjemmesider?"
-
-      "answer": "Ja. AVIF giver normalt mindre filer ved sammenlignelig kvalitet, hvilket forbedrer indlæsningstid og Core Web Vitals."
+    },
+  {
+      "question": "Er AVIF bedre end JPG til hjemmesider?",
+  "answer": "Ja. AVIF giver normalt mindre filer ved sammenlignelig kvalitet, hvilket forbedrer indlæsningstid og Core Web Vitals."
 
     }
-  ]
-  "note": "AVIF vises muligvis ikke på noget ældre software. Brug <code>&lt;picture&gt;</code> elementet med JPG/WebP fallbacks for maksimal kompatibilitet."
-
+  ],
+  "note": "AVIF vises muligvis ikke på noget ældre software. Brug <code>&lt;picture&gt;</code> elementet med JPG/WebP fallbacks for maksimal kompatibilitet.",
   "related_links": [
     {
-      "title": "Konverter AVIF til JPG"
+      "title": "Konverter AVIF til JPG",
+  "url": "/da/convert/avif-to-jpg"
 
-      "url": "/da/convert/avif-to-jpg"
+    },
+  {
+      "title": "Konverter PNG til AVIF",
+  "url": "/da/convert/png-to-avif"
 
-    }
-    {
-      "title": "Konverter PNG til AVIF"
+    },
+  {
+      "title": "Konverter WebP til AVIF",
+  "url": "/da/convert/webp-to-avif"
 
-      "url": "/da/convert/png-to-avif"
-
-    }
-    {
-      "title": "Konverter WebP til AVIF"
-
-      "url": "/da/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Komprimer AVIF Billeder"
-
-      "url": "/da/compress/avif"
+    },
+  {
+      "title": "Komprimer AVIF Billeder",
+  "url": "/da/compress/avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheder forbeholdes.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG til AVIF Konverter - Gratis & Online"
-
-      "url": "https://miconvert.com/da/convert/jpg-to-avif"
-
-      "description": "Gratis online værktøj til at konvertere JPG-billeder til AVIF med fremragende kompression og høj kvalitet."
-
-      "inLanguage": "da"
-
-      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG til AVIF Konverter - Gratis & Online",
+  "url": "https://miconvert.com/da/convert/jpg-to-avif",
+  "description": "Gratis online værktøj til at konvertere JPG-billeder til AVIF med fremragende kompression og høj kvalitet.",
+  "inLanguage": "da",
+  "image": "https://miconvert.com/images/jpg-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hjem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hjem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konverter",
+  "item": "https://miconvert.com/da/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverter"
-
-          "item": "https://miconvert.com/da/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG til AVIF"
-
-          "item": "https://miconvert.com/da/convert/jpg-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG til AVIF",
+  "item": "https://miconvert.com/da/convert/jpg-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG til AVIF Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/da/convert/jpg-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "DKK"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Fremragende kompression",
+  "Moderne AVIF output",
+  "Hurtig behandling"
 
-      "name": "JPG til AVIF Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/da/convert/jpg-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "DKK"
-
-      }
-      "featureList": [
-        "Fremragende kompression"
-
-        "Moderne AVIF output"
-
-        "Hurtig behandling"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Er denne JPG til AVIF konverter gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
+          "@type": "Question",
+  "name": "Er denne JPG til AVIF konverter gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteren er helt gratis uden skjulte gebyrer eller abonnementer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Hvilke filstørrelser understøttes?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan uploade billeder op til 16 MB pr. fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Hvilke filstørrelser understøttes?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan uploade billeder op til 16 MB pr. fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vil AVIF fungere på alle browsere?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF understøttes af moderne browsere, men du bør give JPG/WebP fallbacks for ældre."
+        },
+  {
+          "@type": "Question",
+  "name": "Vil AVIF fungere på alle browsere?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF understøttes af moderne browsere, men du bør give JPG/WebP fallbacks for ældre."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hvordan konverterer man JPG til AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hvordan konverterer man JPG til AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klik på Upload JPG og vælg din fil."
 
-          "text": "Klik på Upload JPG og vælg din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vent på, at behandlingen er færdig."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klik på Download AVIF for at gemme det optimerede billede."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vent på, at behandlingen er færdig."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klik på Download AVIF for at gemme det optimerede billede."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG til AVIF Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

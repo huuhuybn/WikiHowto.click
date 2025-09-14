@@ -1,337 +1,253 @@
 {
-  "lang": "ca"
-
-  "lang_name": "Català"
-
-  "title": "Conversor de PNG a WebP - Gratuït i en línia | miconvert.com"
-
-  "sub_title": "Converteix imatges PNG al format WebP en línia amb suport de transparència, compressió superior i sense marques d'aigua."
-
-  "hint": "Puja la teva imatge PNG per començar a convertir..."
-
-  "btn_download": "Converteix a WebP"
-
-  "btn_paste": "Puja PNG"
-
-  "btn_clear": "Netejar"
-
-  "ogImage": "https://miconvert.com/images/png-to-webp.jpg"
-
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor de PNG a WebP - Gratuït i en línia | miconvert.com",
+  "sub_title": "Converteix imatges PNG al format WebP en línia amb suport de transparència, compressió superior i sense marques d'aigua.",
+  "hint": "Puja la teva imatge PNG per començar a convertir...",
+  "btn_download": "Converteix a WebP",
+  "btn_paste": "Puja PNG",
+  "btn_clear": "Netejar",
+  "ogImage": "https://miconvert.com/images/png-to-webp.jpg",
   "converter": {
-    "type": "png-to-webp"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "WebP"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "png-to-webp",
+  "inputFormat": "PNG",
+  "outputFormat": "WebP",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/webp"
-
-    "outputExtension": ".webp"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/webp",
+  "outputExtension": ".webp",
+  "quality": 90,
+  "options": {
       "webp": {
-        "quality": 90
-        "lossless": false
-        "nearLossless": false
+        "quality": 90,
+  "lossless": false,
+  "nearLossless": false
       }
     }
-  }
-  "description": "<p>Optimitza el teu <strong>PNG a WebP</strong> per a la web moderna! El nostre conversor gratuït preserva la transparència mentre ofereix fitxers molt més petits. WebP combina l'alpha al estil PNG amb compressió moderna, fent-lo ideal per a logotips, gràfics d'UI i imatges que necessiten vores nítides.</p><p>En molts casos, WebP és <strong>30–50% més petit</strong> que PNG amb una qualitat visual similar i és compatible amb tots els navegadors principals. Ajustem automàticament les configuracions per equilibrar la fidelitat i la mida per a pàgines més ràpides i un menor ample de banda.</p>"
-
+  },
+  "description": "<p>Optimitza el teu <strong>PNG a WebP</strong> per a la web moderna! El nostre conversor gratuït preserva la transparència mentre ofereix fitxers molt més petits. WebP combina l'alpha al estil PNG amb compressió moderna, fent-lo ideal per a logotips, gràfics d'UI i imatges que necessiten vores nítides.</p><p>En molts casos, WebP és <strong>30–50% més petit</strong> que PNG amb una qualitat visual similar i és compatible amb tots els navegadors principals. Ajustem automàticament les configuracions per equilibrar la fidelitat i la mida per a pàgines més ràpides i un menor ample de banda.</p>",
   "head": {
-    "title": "Converteix PNG a WebP en línia - Conversor gratuït de PNG a WebP | miconvert.com"
+    "title": "Converteix PNG a WebP en línia - Conversor gratuït de PNG a WebP | miconvert.com",
+  "description": "Converteix PNG a WebP en línia amb suport de transparència, compressió superior i sense marques d'aigua. Conversor gratuït, ràpid i segur de PNG a WebP.",
+  "keywords": "png a webp, converteix png a webp, gratuït png a webp, conversor webp en línia, imatges transparents",
+  "canonical": "https://miconvert.com/ca/convert/png-to-webp",
+  "og_title": "Conversor de PNG a WebP - Gratuït i en línia",
+  "og_description": "Converteix imatges PNG a WebP amb transparència i compressió superior. 100% gratuït, ràpid i segur.",
+  "og_url": "https://miconvert.com/ca/convert/png-to-webp",
+  "og_image": "https://miconvert.com/images/png-to-webp.jpg"
 
-    "description": "Converteix PNG a WebP en línia amb suport de transparència, compressió superior i sense marques d'aigua. Conversor gratuït, ràpid i segur de PNG a WebP."
-
-    "keywords": "png a webp, converteix png a webp, gratuït png a webp, conversor webp en línia, imatges transparents"
-
-    "canonical": "https://miconvert.com/ca/convert/png-to-webp"
-
-    "og_title": "Conversor de PNG a WebP - Gratuït i en línia"
-
-    "og_description": "Converteix imatges PNG a WebP amb transparència i compressió superior. 100% gratuït, ràpid i segur."
-
-    "og_url": "https://miconvert.com/ca/convert/png-to-webp"
-
-    "og_image": "https://miconvert.com/images/png-to-webp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Converteix PNG a WebP en línia"
+    "title": "Converteix PNG a WebP en línia",
+  "description": "Conversor gratuït i ràpid de PNG a WebP amb suport de transparència i compressió superior. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
 
-    "description": "Conversor gratuït i ràpid de PNG a WebP amb suport de transparència i compressió superior. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-
-  }
+  },
   "h2": [
     {
-      "title": "Per què convertir PNG a WebP?"
+      "title": "Per què convertir PNG a WebP?",
+  "description": "<p>WebP és un reemplaçament modern per a actius PNG pesats:</p><ul><li><strong>Fitxers més petits:</strong> Comú 30–50% més petits que PNG.</li><li><strong>Transparència:</strong> Preserva el canal alpha com PNG.</li><li><strong>Rendiment:</strong> Càrregues de pàgina més ràpides i menor ample de banda.</li><li><strong>Compatibilitat:</strong> Compatible amb tots els navegadors principals.</li></ul>"
 
-      "description": "<p>WebP és un reemplaçament modern per a actius PNG pesats:</p><ul><li><strong>Fitxers més petits:</strong> Comú 30–50% més petits que PNG.</li><li><strong>Transparència:</strong> Preserva el canal alpha com PNG.</li><li><strong>Rendiment:</strong> Càrregues de pàgina més ràpides i menor ample de banda.</li><li><strong>Compatibilitat:</strong> Compatible amb tots els navegadors principals.</li></ul>"
+    },
+  {
+      "title": "Com convertir PNG a WebP en línia",
+  "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega WebP</em> per desar el resultat.</li></ol><p>Per defecte, s'apunta a una mida/qualitat amigable per a la web mentre manté les vores netes.</p>"
 
-    }
-    {
-      "title": "Com convertir PNG a WebP en línia"
+    },
+  {
+      "title": "Comparació entre WebP i PNG",
+  "description": "<ul><li><strong>Mida del fitxer:</strong> WebP és típicament 30–50% més petit.</li><li><strong>Transparència:</strong> Ambdós suporten alpha.</li><li><strong>Qualitat:</strong> Qualitat percebuda similar amb menys bytes per a WebP.</li><li><strong>Compressió:</strong> WebP utilitza còdecs més eficients.</li></ul>"
 
-      "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega WebP</em> per desar el resultat.</li></ol><p>Per defecte, s'apunta a una mida/qualitat amigable per a la web mentre manté les vores netes.</p>"
+    },
+  {
+      "title": "Límits i formats suportats",
+  "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Codificació:</strong> WebP amb pèrdua, qualitat ≈ 90; transparència preservada</li></ul>"
 
-    }
-    {
-      "title": "Comparació entre WebP i PNG"
-
-      "description": "<ul><li><strong>Mida del fitxer:</strong> WebP és típicament 30–50% més petit.</li><li><strong>Transparència:</strong> Ambdós suporten alpha.</li><li><strong>Qualitat:</strong> Qualitat percebuda similar amb menys bytes per a WebP.</li><li><strong>Compressió:</strong> WebP utilitza còdecs més eficients.</li></ul>"
-
-    }
-    {
-      "title": "Límits i formats suportats"
-
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> WebP (<code>.webp</code>, MIME <code>image/webp</code>)</li><li><strong>Codificació:</strong> WebP amb pèrdua, qualitat ≈ 90; transparència preservada</li></ul>"
-
-    }
-    {
-      "title": "Solució de problemes"
-
-      "description": "<ul><li><strong>Navegadors antics:</strong> Serveix WebP amb un PNG de reserva utilitzant l'element <code>&lt;picture&gt;</code>.</li><li><strong>Halos a les vores:</strong> Comença amb un PNG d'alta resolució o refina l'alpha; WebP preserva la transparència però les vores poden provenir de la font.</li><li><strong>Encara massa gran:</strong> Qualitat lleugerament inferior (80–85%) o redimensiona abans de convertir.</li><li><strong>La pujada falla:</strong> Assegura't que sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Solució de problemes",
+  "description": "<ul><li><strong>Navegadors antics:</strong> Serveix WebP amb un PNG de reserva utilitzant l'element <code>&lt;picture&gt;</code>.</li><li><strong>Halos a les vores:</strong> Comença amb un PNG d'alta resolució o refina l'alpha; WebP preserva la transparència però les vores poden provenir de la font.</li><li><strong>Encara massa gran:</strong> Qualitat lleugerament inferior (80–85%) o redimensiona abans de convertir.</li><li><strong>La pujada falla:</strong> Assegura't que sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "És gratuït aquest conversor de PNG a WebP?"
+      "question": "És gratuït aquest conversor de PNG a WebP?",
+  "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
 
-      "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+    },
+  {
+      "question": "Preservarà WebP la transparència del PNG?",
+  "answer": "Sí. WebP suporta completament l'alpha i preserva la transparència del teu PNG."
 
-    }
-    {
-      "question": "Preservarà WebP la transparència del PNG?"
+    },
+  {
+      "question": "Quin és el tamany més petit dels fitxers WebP comparat amb PNG?",
+  "answer": "Sovint és 30–50% més petit amb una qualitat visual comparable, depenent de la imatge."
 
-      "answer": "Sí. WebP suporta completament l'alpha i preserva la transparència del teu PNG."
+    },
+  {
+      "question": "Funcionarà WebP en tots els navegadors?",
+  "answer": "WebP és compatible amb tots els navegadors moderns (Chrome, Firefox, Safari, Edge). Proporciona un PNG de reserva per a navegadors molt antics."
 
-    }
-    {
-      "question": "Quin és el tamany més petit dels fitxers WebP comparat amb PNG?"
+    },
+  {
+      "question": "Quins tamanys de fitxer són suportats?",
+  "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
 
-      "answer": "Sovint és 30–50% més petit amb una qualitat visual comparable, depenent de la imatge."
-
-    }
-    {
-      "question": "Funcionarà WebP en tots els navegadors?"
-
-      "answer": "WebP és compatible amb tots els navegadors moderns (Chrome, Firefox, Safari, Edge). Proporciona un PNG de reserva per a navegadors molt antics."
-
-    }
-    {
-      "question": "Quins tamanys de fitxer són suportats?"
-
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-
-    }
-    {
-      "question": "Puc convertir múltiples PNG alhora?"
-
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de massa, repeteix el procés o utilitza una eina de lot."
+    },
+  {
+      "question": "Puc convertir múltiples PNG alhora?",
+  "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de massa, repeteix el procés o utilitza una eina de lot."
 
     }
-  ]
-  "note": "Per a la màxima compatibilitat, serveix WebP amb un PNG de reserva utilitzant <code>&lt;picture&gt;</code>."
-
+  ],
+  "note": "Per a la màxima compatibilitat, serveix WebP amb un PNG de reserva utilitzant <code>&lt;picture&gt;</code>.",
   "related_links": [
     {
-      "title": "Converteix WebP a PNG"
+      "title": "Converteix WebP a PNG",
+  "url": "/ca/convert/webp-to-png"
 
-      "url": "/ca/convert/webp-to-png"
+    },
+  {
+      "title": "Converteix PNG a AVIF",
+  "url": "/ca/convert/png-to-avif"
 
-    }
-    {
-      "title": "Converteix PNG a AVIF"
-
-      "url": "/ca/convert/png-to-avif"
-
-    }
-    {
-      "title": "Converteix PNG a JPG"
-
-      "url": "/ca/convert/png-to-jpg"
+    },
+  {
+      "title": "Converteix PNG a JPG",
+  "url": "/ca/convert/png-to-jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Conversor de PNG a WebP - Gratuït i en línia"
-
-      "url": "https://miconvert.com/ca/convert/png-to-webp"
-
-      "description": "Eina en línia gratuïta per convertir imatges PNG a WebP amb suport de transparència i compressió superior."
-
-      "inLanguage": "ca"
-
-      "image": "https://miconvert.com/images/png-to-webp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Conversor de PNG a WebP - Gratuït i en línia",
+  "url": "https://miconvert.com/ca/convert/png-to-webp",
+  "description": "Eina en línia gratuïta per convertir imatges PNG a WebP amb suport de transparència i compressió superior.",
+  "inLanguage": "ca",
+  "image": "https://miconvert.com/images/png-to-webp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Inici",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Inici"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertir",
+  "item": "https://miconvert.com/ca/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertir"
-
-          "item": "https://miconvert.com/ca/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG a WebP"
-
-          "item": "https://miconvert.com/ca/convert/png-to-webp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG a WebP",
+  "item": "https://miconvert.com/ca/convert/png-to-webp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Conversor de PNG a WebP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ca/convert/png-to-webp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Transparència preservada",
+  "Compressió superior",
+  "Processament ràpid"
 
-      "name": "Conversor de PNG a WebP"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-webp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ca/convert/png-to-webp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Transparència preservada"
-
-        "Compressió superior"
-
-        "Processament ràpid"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-webp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "És gratuït aquest conversor de PNG a WebP?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+          "@type": "Question",
+  "name": "És gratuït aquest conversor de PNG a WebP?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quins tamanys de fitxer són suportats?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+        },
+  {
+          "@type": "Question",
+  "name": "Quins tamanys de fitxer són suportats?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Pots pujar imatges de fins a 16 MB per fitxer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Preservarà WebP la transparència del PNG?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí. WebP suporta un canal alpha i preserva la transparència."
+        },
+  {
+          "@type": "Question",
+  "name": "Preservarà WebP la transparència del PNG?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí. WebP suporta un canal alpha i preserva la transparència."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Com convertir PNG a WebP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Com convertir PNG a WebP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Fes clic a Puja PNG i selecciona el teu fitxer."
 
-          "text": "Fes clic a Puja PNG i selecciona el teu fitxer."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Espera que el processament i l'optimització es completin."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Fes clic a Descarrega WebP per desar el resultat."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Espera que el processament i l'optimització es completin."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Fes clic a Descarrega WebP per desar el resultat."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Conversor de PNG a WebP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

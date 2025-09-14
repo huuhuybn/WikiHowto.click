@@ -1,373 +1,283 @@
 {
-  "lang": "ur"
-
-  "lang_name": "اردو"
-
-  "title": "HEIC سے JPG کنورٹر - مفت اور آن لائن | miconvert.com"
-
-  "sub_title": "HEIC امیجز کو آن لائن JPG فارمیٹ میں اعلیٰ معیار، بہتر ہم آہنگی، اور بغیر واٹر مارک کے تبدیل کریں۔"
-
-  "hint": "تبدیل کرنے کے لیے اپنی HEIC تصویر اپ لوڈ کریں..."
-
-  "btn_download": "JPG میں تبدیل کریں"
-
-  "btn_paste": "HEIC اپ لوڈ کریں"
-
-  "btn_clear": "صاف کریں"
-
+  "lang": "ur",
+  "lang_name": "اردو",
+  "title": "HEIC سے JPG کنورٹر - مفت اور آن لائن | miconvert.com",
+  "sub_title": "HEIC امیجز کو آن لائن JPG فارمیٹ میں اعلیٰ معیار، بہتر ہم آہنگی، اور بغیر واٹر مارک کے تبدیل کریں۔",
+  "hint": "تبدیل کرنے کے لیے اپنی HEIC تصویر اپ لوڈ کریں...",
+  "btn_download": "JPG میں تبدیل کریں",
+  "btn_paste": "HEIC اپ لوڈ کریں",
+  "btn_clear": "صاف کریں",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>اپنی <strong>HEIC کو JPG</strong> میں تبدیل کریں تاکہ عالمی ہم آہنگی حاصل ہو! ہمارا مفت آن لائن کنورٹر آپ کی آئی فون/آئی پیڈ کی تصاویر کو وسیع پیمانے پر سپورٹ کردہ JPG میں تبدیل کرتا ہے۔ HEIC (HEIF معیاری پر مبنی) بہترین کمپریشن فراہم کرتا ہے، لیکن بہت سی ایپس اور پلیٹ فارم اب بھی JPG کی توقع کرتے ہیں۔ چاہے آپ کو Android/Windows صارفین کے ساتھ شیئر کرنے کی ضرورت ہو، سوشل میڈیا پر اپ لوڈ کرنے کی ضرورت ہو، یا پرانے سافٹ ویئر کے ساتھ ہم آہنگی کو یقینی بنانا ہو، یہ ٹول اسے آسان بناتا ہے۔</p><p>JPG تقریباً ہر جگہ سپورٹ کیا جاتا ہے۔ تبدیلی تیز ہے اور بصری معیار کو محفوظ رکھتی ہے جس کے ساتھ ترتیب دی گئی JPEG سیٹنگز ہیں — فوٹوگرافروں، تخلیق کاروں، اور کسی بھی شخص کے لیے مثالی جو زیادہ سے زیادہ ہم آہنگی کی ضرورت رکھتا ہے۔</p>"
-
+  },
+  "description": "<p>اپنی <strong>HEIC کو JPG</strong> میں تبدیل کریں تاکہ عالمی ہم آہنگی حاصل ہو! ہمارا مفت آن لائن کنورٹر آپ کی آئی فون/آئی پیڈ کی تصاویر کو وسیع پیمانے پر سپورٹ کردہ JPG میں تبدیل کرتا ہے۔ HEIC (HEIF معیاری پر مبنی) بہترین کمپریشن فراہم کرتا ہے، لیکن بہت سی ایپس اور پلیٹ فارم اب بھی JPG کی توقع کرتے ہیں۔ چاہے آپ کو Android/Windows صارفین کے ساتھ شیئر کرنے کی ضرورت ہو، سوشل میڈیا پر اپ لوڈ کرنے کی ضرورت ہو، یا پرانے سافٹ ویئر کے ساتھ ہم آہنگی کو یقینی بنانا ہو، یہ ٹول اسے آسان بناتا ہے۔</p><p>JPG تقریباً ہر جگہ سپورٹ کیا جاتا ہے۔ تبدیلی تیز ہے اور بصری معیار کو محفوظ رکھتی ہے جس کے ساتھ ترتیب دی گئی JPEG سیٹنگز ہیں — فوٹوگرافروں، تخلیق کاروں، اور کسی بھی شخص کے لیے مثالی جو زیادہ سے زیادہ ہم آہنگی کی ضرورت رکھتا ہے۔</p>",
   "head": {
-    "title": "HEIC کو JPG آن لائن تبدیل کریں - مفت HEIC سے JPG کنورٹر | miconvert.com"
+    "title": "HEIC کو JPG آن لائن تبدیل کریں - مفت HEIC سے JPG کنورٹر | miconvert.com",
+  "description": "HEIC کو JPG آن لائن اعلیٰ معیار، بہتر ہم آہنگی، اور بغیر واٹر مارک کے تبدیل کریں۔ مفت، تیز، اور محفوظ HEIC سے JPG کنورٹر ٹول۔",
+  "keywords": "heic سے jpg، heic کو jpg میں تبدیل کریں، مفت heic سے jpg، آن لائن heic کنورٹر، آئی فون کی تصاویر",
+  "canonical": "https://miconvert.com/en/convert/heic-to-jpg",
+  "og_title": "HEIC سے JPG کنورٹر - مفت اور آن لائن",
+  "og_description": "HEIC امیجز کو JPG فارمیٹ میں اعلیٰ معیار اور بہتر ہم آہنگی کے ساتھ تبدیل کریں۔ 100% مفت، تیز، اور محفوظ۔",
+  "og_url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "HEIC کو JPG آن لائن اعلیٰ معیار، بہتر ہم آہنگی، اور بغیر واٹر مارک کے تبدیل کریں۔ مفت، تیز، اور محفوظ HEIC سے JPG کنورٹر ٹول۔"
-
-    "keywords": "heic سے jpg، heic کو jpg میں تبدیل کریں، مفت heic سے jpg، آن لائن heic کنورٹر، آئی فون کی تصاویر"
-
-    "canonical": "https://miconvert.com/en/convert/heic-to-jpg"
-
-    "og_title": "HEIC سے JPG کنورٹر - مفت اور آن لائن"
-
-    "og_description": "HEIC امیجز کو JPG فارمیٹ میں اعلیٰ معیار اور بہتر ہم آہنگی کے ساتھ تبدیل کریں۔ 100% مفت، تیز، اور محفوظ۔"
-
-    "og_url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "HEIC کو JPG آن لائن تبدیل کریں"
+    "title": "HEIC کو JPG آن لائن تبدیل کریں",
+  "description": "مفت اور تیز HEIC سے JPG کنورٹر اعلیٰ معیار اور عالمی ہم آہنگی کے ساتھ۔ کسی بھی ڈیوائس پر فوری طور پر کام کرتا ہے، سائن اپ کی ضرورت نہیں۔"
 
-    "description": "مفت اور تیز HEIC سے JPG کنورٹر اعلیٰ معیار اور عالمی ہم آہنگی کے ساتھ۔ کسی بھی ڈیوائس پر فوری طور پر کام کرتا ہے، سائن اپ کی ضرورت نہیں۔"
-
-  }
+  },
   "h2": [
     {
-      "title": "HEIC کو JPG میں تبدیل کرنے کی ضرورت کیوں ہے؟"
+      "title": "HEIC کو JPG میں تبدیل کرنے کی ضرورت کیوں ہے؟",
+  "description": "<p>HEIC مؤثر ہے، لیکن JPG عالمی طور پر قبول کیا جاتا ہے۔ جب آپ کو ضرورت ہو تو تبدیل کریں:</p><ul><li><strong>عالمی ہم آہنگی:</strong> JPG آلات، ایپس، اور پلیٹ فارم کے درمیان کام کرتا ہے۔</li><li><strong>کراس پلیٹ فارم شیئرنگ:</strong> Android/Windows صارفین کو بغیر کسی مسئلے کے تصاویر بھیجیں۔</li><li><strong>سوشل اپ لوڈ:</strong> زیادہ تر پلیٹ فارم JPG کو ترجیح دیتے ہیں یا اس کی ضرورت ہوتی ہے۔</li><li><strong>ورثے کی حمایت:</strong> پرانی ایپس HEIC کو قابل اعتماد طریقے سے نہیں پڑھتی ہیں۔</li></ul>"
 
-      "description": "<p>HEIC مؤثر ہے، لیکن JPG عالمی طور پر قبول کیا جاتا ہے۔ جب آپ کو ضرورت ہو تو تبدیل کریں:</p><ul><li><strong>عالمی ہم آہنگی:</strong> JPG آلات، ایپس، اور پلیٹ فارم کے درمیان کام کرتا ہے۔</li><li><strong>کراس پلیٹ فارم شیئرنگ:</strong> Android/Windows صارفین کو بغیر کسی مسئلے کے تصاویر بھیجیں۔</li><li><strong>سوشل اپ لوڈ:</strong> زیادہ تر پلیٹ فارم JPG کو ترجیح دیتے ہیں یا اس کی ضرورت ہوتی ہے۔</li><li><strong>ورثے کی حمایت:</strong> پرانی ایپس HEIC کو قابل اعتماد طریقے سے نہیں پڑھتی ہیں۔</li></ul>"
+    },
+  {
+      "title": "HEIC کو JPG آن لائن کیسے تبدیل کریں",
+  "description": "<ol><li><em>HEIC اپ لوڈ کریں</em> پر کلک کریں اور اپنی فائل منتخب کریں۔</li><li>پروسیسنگ کا انتظار کریں۔</li><li><em>JPG ڈاؤن لوڈ کریں</em> پر کلک کریں تاکہ نتیجہ محفوظ کریں۔</li></ol><p>کوئی تکنیکی مراحل نہیں — معیار خود بخود بہتر بنایا جاتا ہے۔</p>"
 
-    }
-    {
-      "title": "HEIC کو JPG آن لائن کیسے تبدیل کریں"
+    },
+  {
+      "title": "HEIC بمقابلہ JPG: اہم اختلافات",
+  "description": "<ul><li><strong>فائل کا سائز:</strong> HEIC عام طور پر JPG کے مقابلے میں چھوٹا ہوتا ہے جب کہ معیار ایک جیسا ہو۔</li><li><strong>ہم آہنگی:</strong> JPG تقریباً عالمی سطح پر سپورٹ کیا جاتا ہے۔</li><li><strong>معیار:</strong> دونوں بہترین نظر آ سکتے ہیں؛ JPG نقصان دہ کمپریشن کا استعمال کرتا ہے۔</li><li><strong>ایکو سسٹم:</strong> HEIC ایپل پر عام ہے؛ JPG ہر جگہ ہے۔</li></ul>"
 
-      "description": "<ol><li><em>HEIC اپ لوڈ کریں</em> پر کلک کریں اور اپنی فائل منتخب کریں۔</li><li>پروسیسنگ کا انتظار کریں۔</li><li><em>JPG ڈاؤن لوڈ کریں</em> پر کلک کریں تاکہ نتیجہ محفوظ کریں۔</li></ol><p>کوئی تکنیکی مراحل نہیں — معیار خود بخود بہتر بنایا جاتا ہے۔</p>"
+    },
+  {
+      "title": "سپورٹ کردہ حدود اور فارمیٹس",
+  "description": "<ul><li><strong>قبول کردہ ان پٹ:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>زیادہ سے زیادہ فائل کا سائز:</strong> فی فائل 16&nbsp;MB تک</li><li><strong>آؤٹ پٹ:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG سیٹنگز:</strong> معیار 90 (پروگریسو، موزJPEG)</li></ul>"
 
-    }
-    {
-      "title": "HEIC بمقابلہ JPG: اہم اختلافات"
+    },
+  {
+      "title": "ہمارے HEIC سے JPG کنورٹر کی خصوصیات",
+  "description": "<ul><li>100% مفت، بغیر واٹر مارک</li><li>اعلیٰ معیار کی JPEG آؤٹ پٹ</li><li>موبائل دوستانہ UI</li><li>سادہ، تیز ورک فلو</li></ul>"
 
-      "description": "<ul><li><strong>فائل کا سائز:</strong> HEIC عام طور پر JPG کے مقابلے میں چھوٹا ہوتا ہے جب کہ معیار ایک جیسا ہو۔</li><li><strong>ہم آہنگی:</strong> JPG تقریباً عالمی سطح پر سپورٹ کیا جاتا ہے۔</li><li><strong>معیار:</strong> دونوں بہترین نظر آ سکتے ہیں؛ JPG نقصان دہ کمپریشن کا استعمال کرتا ہے۔</li><li><strong>ایکو سسٹم:</strong> HEIC ایپل پر عام ہے؛ JPG ہر جگہ ہے۔</li></ul>"
+    },
+  {
+      "title": "HEIC کیا ہے؟",
+  "description": "<p>HEIC ایک فائل کی توسیع ہے جو HEIF (ہائی ایفیشنسی امیج فائل فارمیٹ) معیاری کا استعمال کرتے ہوئے محفوظ کردہ امیجز کے لیے ہے — عام طور پر HEVC (H.265) کے ساتھ کوڈ کیا جاتا ہے۔ یہ اچھی کیفیت کے ساتھ مضبوط کمپریشن فراہم کرتا ہے لیکن عالمی طور پر سپورٹ نہیں کیا جاتا۔</p>"
 
-    }
-    {
-      "title": "سپورٹ کردہ حدود اور فارمیٹس"
+    },
+  {
+      "title": "JPG کیا ہے؟",
+  "description": "<p>JPG (JPEG) سب سے زیادہ وسیع پیمانے پر سپورٹ کردہ امیج فارمیٹ ہے۔ یہ معیار اور سائز کے درمیان توازن قائم کرنے کے لیے نقصان دہ کمپریشن کا استعمال کرتا ہے، جو اسے شیئرنگ اور ویب کے استعمال کے لیے مثالی بناتا ہے۔</p>"
 
-      "description": "<ul><li><strong>قبول کردہ ان پٹ:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>زیادہ سے زیادہ فائل کا سائز:</strong> فی فائل 16&nbsp;MB تک</li><li><strong>آؤٹ پٹ:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG سیٹنگز:</strong> معیار 90 (پروگریسو، موزJPEG)</li></ul>"
+    },
+  {
+      "title": "مسئلہ حل کرنا",
+  "description": "<ul><li><strong>اپ لوڈ ناکام:</strong> یہ یقینی بنائیں کہ فائل HEIC/HEIF ہے اور ≤ 16&nbsp;MB ہے۔</li><li><strong>گھومتی تصویر:</strong> کچھ ویور EXIF کی سمت کو نظر انداز کرتے ہیں — اگر ضرورت ہو تو ڈاؤن لوڈ کے بعد گھمائیں۔</li><li><strong>رنگ کی تبدیلی:</strong> وسیع گامٹ کی تصاویر مختلف نظر آ سکتی ہیں؛ اگر ضرورت ہو تو sRGB کے ساتھ تبدیل کریں۔</li><li><strong>لائیو تصاویر:</strong> صرف HEIC کی ساکن تصویر تبدیل کی جاتی ہے؛ جوڑی والی ویڈیو (MOV) شامل نہیں ہے۔</li></ul>"
 
-    }
-    {
-      "title": "ہمارے HEIC سے JPG کنورٹر کی خصوصیات"
-
-      "description": "<ul><li>100% مفت، بغیر واٹر مارک</li><li>اعلیٰ معیار کی JPEG آؤٹ پٹ</li><li>موبائل دوستانہ UI</li><li>سادہ، تیز ورک فلو</li></ul>"
-
-    }
-    {
-      "title": "HEIC کیا ہے؟"
-
-      "description": "<p>HEIC ایک فائل کی توسیع ہے جو HEIF (ہائی ایفیشنسی امیج فائل فارمیٹ) معیاری کا استعمال کرتے ہوئے محفوظ کردہ امیجز کے لیے ہے — عام طور پر HEVC (H.265) کے ساتھ کوڈ کیا جاتا ہے۔ یہ اچھی کیفیت کے ساتھ مضبوط کمپریشن فراہم کرتا ہے لیکن عالمی طور پر سپورٹ نہیں کیا جاتا۔</p>"
-
-    }
-    {
-      "title": "JPG کیا ہے؟"
-
-      "description": "<p>JPG (JPEG) سب سے زیادہ وسیع پیمانے پر سپورٹ کردہ امیج فارمیٹ ہے۔ یہ معیار اور سائز کے درمیان توازن قائم کرنے کے لیے نقصان دہ کمپریشن کا استعمال کرتا ہے، جو اسے شیئرنگ اور ویب کے استعمال کے لیے مثالی بناتا ہے۔</p>"
-
-    }
-    {
-      "title": "مسئلہ حل کرنا"
-
-      "description": "<ul><li><strong>اپ لوڈ ناکام:</strong> یہ یقینی بنائیں کہ فائل HEIC/HEIF ہے اور ≤ 16&nbsp;MB ہے۔</li><li><strong>گھومتی تصویر:</strong> کچھ ویور EXIF کی سمت کو نظر انداز کرتے ہیں — اگر ضرورت ہو تو ڈاؤن لوڈ کے بعد گھمائیں۔</li><li><strong>رنگ کی تبدیلی:</strong> وسیع گامٹ کی تصاویر مختلف نظر آ سکتی ہیں؛ اگر ضرورت ہو تو sRGB کے ساتھ تبدیل کریں۔</li><li><strong>لائیو تصاویر:</strong> صرف HEIC کی ساکن تصویر تبدیل کی جاتی ہے؛ جوڑی والی ویڈیو (MOV) شامل نہیں ہے۔</li></ul>"
+    },
+  {
+      "title": "استعمال کے کیس",
+  "description": "<ul><li><strong>غیر ایپل صارفین کے ساتھ شیئر کریں</strong> بغیر کسی ہم آہنگی کے مسائل کے۔</li><li><strong>CMS/سوشل پر اپ لوڈ کریں</strong> جو JPG کی توقع کرتے ہیں۔</li><li><strong>پرنٹ اور ایڈٹ کریں</strong> ایسی ایپس میں جو HEIC کو نہیں پڑھتی ہیں۔</li></ul>"
 
     }
-    {
-      "title": "استعمال کے کیس"
-
-      "description": "<ul><li><strong>غیر ایپل صارفین کے ساتھ شیئر کریں</strong> بغیر کسی ہم آہنگی کے مسائل کے۔</li><li><strong>CMS/سوشل پر اپ لوڈ کریں</strong> جو JPG کی توقع کرتے ہیں۔</li><li><strong>پرنٹ اور ایڈٹ کریں</strong> ایسی ایپس میں جو HEIC کو نہیں پڑھتی ہیں۔</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "کیا یہ HEIC سے JPG کنورٹر مفت ہے؟"
+      "question": "کیا یہ HEIC سے JPG کنورٹر مفت ہے؟",
+  "answer": "جی ہاں، کنورٹر مکمل طور پر مفت ہے جس میں کوئی پوشیدہ چارجز یا سبسکرپشنز نہیں ہیں۔"
 
-      "answer": "جی ہاں، کنورٹر مکمل طور پر مفت ہے جس میں کوئی پوشیدہ چارجز یا سبسکرپشنز نہیں ہیں۔"
+    },
+  {
+      "question": "کیا HEIC کو JPG میں تبدیل کرتے وقت میں معیار کھو دوں گا؟",
+  "answer": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے، لہذا چھوٹے معیار کے نقصان کا امکان ہے۔ ہم اسے کم سے کم رکھنے کے لیے ترتیب دی گئی سیٹنگز (معیار ~90، پروگریسو) کا استعمال کرتے ہیں۔"
 
-    }
-    {
-      "question": "کیا HEIC کو JPG میں تبدیل کرتے وقت میں معیار کھو دوں گا؟"
+    },
+  {
+      "question": "کون سے آلات HEIC کی حمایت کرتے ہیں؟",
+  "answer": "HEIC/HEIF ایپل کے آلات پر عام ہے۔ بہت سے دوسرے پلیٹ فارم اب بھی ڈیفالٹ کے طور پر JPG کو ترجیح دیتے ہیں۔"
 
-      "answer": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے، لہذا چھوٹے معیار کے نقصان کا امکان ہے۔ ہم اسے کم سے کم رکھنے کے لیے ترتیب دی گئی سیٹنگز (معیار ~90، پروگریسو) کا استعمال کرتے ہیں۔"
+    },
+  {
+      "question": "کون سے فائل کے سائز کی حمایت کی جاتی ہے؟",
+  "answer": "آپ فی فائل 16&nbsp;MB تک کی تصاویر اپ لوڈ کر سکتے ہیں۔"
 
-    }
-    {
-      "question": "کون سے آلات HEIC کی حمایت کرتے ہیں؟"
+    },
+  {
+      "question": "کیا میری فائلیں محفوظ ہیں؟",
+  "answer": "فائلیں خود بخود پروسیس کی جاتی ہیں اور تبدیلی کے لیے ضروری وقت سے زیادہ نہیں رکھی جاتی ہیں۔"
 
-      "answer": "HEIC/HEIF ایپل کے آلات پر عام ہے۔ بہت سے دوسرے پلیٹ فارم اب بھی ڈیفالٹ کے طور پر JPG کو ترجیح دیتے ہیں۔"
+    },
+  {
+      "question": "کیا میں ایک ساتھ کئی HEIC فائلیں تبدیل کر سکتا ہوں؟",
+  "answer": "یہ صفحہ ایک وقت میں ایک فائل تبدیل کرتا ہے۔ بڑے پیمانے پر ضروریات کے لیے، عمل کو دہرائیں یا بیچ ٹول کا استعمال کریں۔"
 
-    }
-    {
-      "question": "کون سے فائل کے سائز کی حمایت کی جاتی ہے؟"
-
-      "answer": "آپ فی فائل 16&nbsp;MB تک کی تصاویر اپ لوڈ کر سکتے ہیں۔"
-
-    }
-    {
-      "question": "کیا میری فائلیں محفوظ ہیں؟"
-
-      "answer": "فائلیں خود بخود پروسیس کی جاتی ہیں اور تبدیلی کے لیے ضروری وقت سے زیادہ نہیں رکھی جاتی ہیں۔"
-
-    }
-    {
-      "question": "کیا میں ایک ساتھ کئی HEIC فائلیں تبدیل کر سکتا ہوں؟"
-
-      "answer": "یہ صفحہ ایک وقت میں ایک فائل تبدیل کرتا ہے۔ بڑے پیمانے پر ضروریات کے لیے، عمل کو دہرائیں یا بیچ ٹول کا استعمال کریں۔"
-
-    }
-    {
-      "question": "مجھے HEIC کے بجائے JPG کب استعمال کرنا چاہیے؟"
-
-      "answer": "زیادہ سے زیادہ ہم آہنگی، HEIC کی حمایت نہ کرنے والے پلیٹ فارمز پر اپ لوڈ کرنے، یا غیر ایپل آلات کے ساتھ شیئر کرنے کے لیے JPG استعمال کریں۔"
+    },
+  {
+      "question": "مجھے HEIC کے بجائے JPG کب استعمال کرنا چاہیے؟",
+  "answer": "زیادہ سے زیادہ ہم آہنگی، HEIC کی حمایت نہ کرنے والے پلیٹ فارمز پر اپ لوڈ کرنے، یا غیر ایپل آلات کے ساتھ شیئر کرنے کے لیے JPG استعمال کریں۔"
 
     }
-  ]
-  "note": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے؛ معمولی سائز/معیار کے تبادلے معمول ہیں۔ شفافیت کی ضروریات کے لیے، HEIC کو PNG میں تبدیل کریں۔"
-
+  ],
+  "note": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے؛ معمولی سائز/معیار کے تبادلے معمول ہیں۔ شفافیت کی ضروریات کے لیے، HEIC کو PNG میں تبدیل کریں۔",
   "related_links": [
     {
-      "title": "HEIC کو PNG میں تبدیل کریں"
+      "title": "HEIC کو PNG میں تبدیل کریں",
+  "url": "/en/convert/heic-to-png"
 
-      "url": "/en/convert/heic-to-png"
+    },
+  {
+      "title": "JPG کو HEIC میں تبدیل کریں",
+  "url": "/en/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "JPG کو HEIC میں تبدیل کریں"
+    },
+  {
+      "title": "HEIC کو WebP میں تبدیل کریں",
+  "url": "/en/convert/heic-to-webp"
 
-      "url": "/en/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "HEIC کو WebP میں تبدیل کریں"
-
-      "url": "/en/convert/heic-to-webp"
-
-    }
-    {
-      "title": "JPG کو آن لائن کمپریس کریں"
-
-      "url": "/en/compress/jpg"
+    },
+  {
+      "title": "JPG کو آن لائن کمپریس کریں",
+  "url": "/en/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. تمام حقوق محفوظ ہیں۔"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. تمام حقوق محفوظ ہیں۔",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC سے JPG کنورٹر - مفت اور آن لائن"
-
-      "url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-      "description": "HEIC امیجز کو JPG میں اعلیٰ معیار اور عالمی ہم آہنگی کے ساتھ تبدیل کرنے کے لیے مفت آن لائن ٹول۔"
-
-      "inLanguage": "ur"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEIC سے JPG کنورٹر - مفت اور آن لائن",
+  "url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "description": "HEIC امیجز کو JPG میں اعلیٰ معیار اور عالمی ہم آہنگی کے ساتھ تبدیل کرنے کے لیے مفت آن لائن ٹول۔",
+  "inLanguage": "ur",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "ہوم",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "ہوم"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "تبدیل کریں",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "تبدیل کریں"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC سے JPG"
-
-          "item": "https://miconvert.com/en/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC سے JPG",
+  "item": "https://miconvert.com/en/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEIC سے JPG کنورٹر",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "اعلیٰ معیار کی JPEG آؤٹ پٹ",
+  "پروگریسو انکوڈنگ",
+  "تیز پروسیسنگ"
 
-      "name": "HEIC سے JPG کنورٹر"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "اعلیٰ معیار کی JPEG آؤٹ پٹ"
-
-        "پروگریسو انکوڈنگ"
-
-        "تیز پروسیسنگ"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "کیا یہ HEIC سے JPG کنورٹر مفت ہے؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "جی ہاں، کنورٹر مکمل طور پر مفت ہے جس میں کوئی پوشیدہ چارجز یا سبسکرپشنز نہیں ہیں۔"
+          "@type": "Question",
+  "name": "کیا یہ HEIC سے JPG کنورٹر مفت ہے؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "جی ہاں، کنورٹر مکمل طور پر مفت ہے جس میں کوئی پوشیدہ چارجز یا سبسکرپشنز نہیں ہیں۔"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "کون سے فائل کے سائز کی حمایت کی جاتی ہے؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "آپ فی فائل 16 MB تک کی تصاویر اپ لوڈ کر سکتے ہیں۔"
+        },
+  {
+          "@type": "Question",
+  "name": "کون سے فائل کے سائز کی حمایت کی جاتی ہے؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "آپ فی فائل 16 MB تک کی تصاویر اپ لوڈ کر سکتے ہیں۔"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "کیا HEIC کو JPG میں تبدیل کرتے وقت میں معیار کھو دوں گا؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے، لیکن ہم اسے کم سے کم رکھنے کے لیے ترتیب دی گئی سیٹنگز کا استعمال کرتے ہیں۔"
+        },
+  {
+          "@type": "Question",
+  "name": "کیا HEIC کو JPG میں تبدیل کرتے وقت میں معیار کھو دوں گا؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPG نقصان دہ کمپریشن کا استعمال کرتا ہے، لیکن ہم اسے کم سے کم رکھنے کے لیے ترتیب دی گئی سیٹنگز کا استعمال کرتے ہیں۔"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC کو JPG میں تبدیل کرنے کا طریقہ"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "HEIC کو JPG میں تبدیل کرنے کا طریقہ",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "HEIC اپ لوڈ کریں پر کلک کریں اور اپنی فائل منتخب کریں۔"
 
-          "text": "HEIC اپ لوڈ کریں پر کلک کریں اور اپنی فائل منتخب کریں۔"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "پروسیسنگ مکمل ہونے کا انتظار کریں۔"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "نتیجہ محفوظ کرنے کے لیے JPG ڈاؤن لوڈ کریں پر کلک کریں۔"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "پروسیسنگ مکمل ہونے کا انتظار کریں۔"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "نتیجہ محفوظ کرنے کے لیے JPG ڈاؤن لوڈ کریں پر کلک کریں۔"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEIC سے JPG کنورٹر"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

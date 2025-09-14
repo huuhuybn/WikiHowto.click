@@ -1,364 +1,272 @@
 {
-  "lang": "uk"
-
-  "lang_name": "Українська"
-
-  "title": "Конвертер PNG в BMP - Безкоштовно та Онлайн | miconvert.com"
-
-  "sub_title": "Конвертуйте зображення PNG в BMP онлайн з неконтрольованими, безвтратними піксельними даними. Без водяних знаків."
-
-  "hint": "Завантажте своє зображення PNG, щоб почати конвертацію..."
-
-  "btn_download": "Конвертувати в BMP"
-
-  "btn_paste": "Завантажити PNG"
-
-  "btn_clear": "Очистити"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "uk",
+  "lang_name": "Українська",
+  "title": "Конвертер PNG в BMP - Безкоштовно та Онлайн | miconvert.com",
+  "sub_title": "Конвертуйте зображення PNG в BMP онлайн з неконтрольованими, безвтратними піксельними даними. Без водяних знаків.",
+  "hint": "Завантажте своє зображення PNG, щоб почати конвертацію...",
+  "btn_download": "Конвертувати в BMP",
+  "btn_paste": "Завантажити PNG",
+  "btn_clear": "Очистити",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Конвертуйте PNG в BMP - Безкоштовний онлайн конвертер PNG в BMP"
+    "title": "Конвертуйте PNG в BMP - Безкоштовний онлайн конвертер PNG в BMP",
+  "description": "Конвертуйте зображення PNG в формат BMP онлайн безкоштовно. Високоякісна конвертація PNG в BMP з швидкою обробкою.",
+  "keywords": "png в bmp, конвертувати png в bmp, безкоштовний png в bmp, онлайн конвертер bmp, конвертація зображень",
+  "canonical": "https://miconvert.com/uk/convert/png-to-bmp",
+  "og_title": "Конвертуйте PNG в BMP - Безкоштовний онлайн конвертер PNG в BMP",
+  "og_description": "Конвертуйте зображення PNG в формат BMP онлайн безкоштовно. Високоякісна конвертація PNG в BMP з швидкою обробкою.",
+  "og_url": "https://miconvert.com/uk/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Конвертуйте зображення PNG в формат BMP онлайн безкоштовно. Високоякісна конвертація PNG в BMP з швидкою обробкою."
-
-    "keywords": "png в bmp, конвертувати png в bmp, безкоштовний png в bmp, онлайн конвертер bmp, конвертація зображень"
-
-    "canonical": "https://miconvert.com/uk/convert/png-to-bmp"
-
-    "og_title": "Конвертуйте PNG в BMP - Безкоштовний онлайн конвертер PNG в BMP"
-
-    "og_description": "Конвертуйте зображення PNG в формат BMP онлайн безкоштовно. Високоякісна конвертація PNG в BMP з швидкою обробкою."
-
-    "og_url": "https://miconvert.com/uk/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертуйте PNG в BMP онлайн"
+    "title": "Конвертуйте PNG в BMP онлайн",
+  "description": "Безкоштовний конвертер PNG в BMP з неконтрольованими, безвтратними піксельними даними. Працює на будь-якому пристрої — реєстрація не потрібна."
 
-    "description": "Безкоштовний конвертер PNG в BMP з неконтрольованими, безвтратними піксельними даними. Працює на будь-якому пристрої — реєстрація не потрібна."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "Конвертер PNG в BMP"
-
-    "description": "Конвертуйте зображення PNG в BMP з швидкою обробкою та точними кольорами."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "Конвертер PNG в BMP",
+  "description": "Конвертуйте зображення PNG в BMP з швидкою обробкою та точними кольорами.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Неконтрольовані (безвтратні) піксельні дані",
+  "Висока сумісність на Windows",
+  "Швидка обробка",
+  "Безкоштовний онлайн інструмент"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Неконтрольовані (безвтратні) піксельні дані"
-
-      "Висока сумісність на Windows"
-
-      "Швидка обробка"
-
-      "Безкоштовний онлайн інструмент"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Конвертація PNG в BMP завершена"
+    "title": "Конвертація PNG в BMP завершена",
+  "back_button": "Назад до конвертера",
+  "convert_another": "Конвертувати інший PNG",
+  "quick_conversions": "Швидкі конвертації:"
 
-    "back_button": "Назад до конвертера"
-
-    "convert_another": "Конвертувати інший PNG"
-
-    "quick_conversions": "Швидкі конвертації:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Чому конвертувати PNG в BMP?"
+      "title": "Чому конвертувати PNG в BMP?",
+  "description": "<p>BMP — це простий растровий формат, який зберігає пікселі без стиснення — корисно для певних робочих процесів:</p><ul><li><strong>Без нових артефактів:</strong> Зберігайте пікселі недоторканими для редагування на низькому рівні.</li><li><strong>Проста структура:</strong> Легко для програм читати та маніпулювати.</li><li><strong>Спадкові/вбудовані програми:</strong> Деякі інструменти Windows віддають перевагу BMP.</li></ul>"
 
-      "description": "<p>BMP — це простий растровий формат, який зберігає пікселі без стиснення — корисно для певних робочих процесів:</p><ul><li><strong>Без нових артефактів:</strong> Зберігайте пікселі недоторканими для редагування на низькому рівні.</li><li><strong>Проста структура:</strong> Легко для програм читати та маніпулювати.</li><li><strong>Спадкові/вбудовані програми:</strong> Деякі інструменти Windows віддають перевагу BMP.</li></ul>"
+    },
+  {
+      "title": "Як конвертувати PNG в BMP онлайн",
+  "description": "<ol><li>Натисніть <em>Завантажити PNG</em> та виберіть свій файл.</li><li>Зачекайте, поки обробка завершиться.</li><li>Натисніть <em>Завантажити BMP</em>, щоб зберегти своє зображення.</li></ol><p>За замовчуванням 24-бітний BMP без стиснення.</p>"
 
-    }
-    {
-      "title": "Як конвертувати PNG в BMP онлайн"
+    },
+  {
+      "title": "Порівняння BMP та PNG",
+  "description": "<ul><li><strong>Розмір файлу:</strong> BMP зазвичай набагато більший за PNG.</li><li><strong>Якість:</strong> Обидва формати безвтратні (BMP без стиснення; PNG безвтратно стиснений).</li><li><strong>Прозорість:</strong> PNG підтримує альфа; звичайний 24-бітний BMP <em>не</em> підтримує.</li><li><strong>Стиснення:</strong> BMP без стиснення; PNG безвтратне DEFLATE.</li><li><strong>Сфери використання:</strong> BMP для спадкових/піксельних операцій; PNG для вебу та ефективного безвтратного зберігання.</li></ul>"
 
-      "description": "<ol><li>Натисніть <em>Завантажити PNG</em> та виберіть свій файл.</li><li>Зачекайте, поки обробка завершиться.</li><li>Натисніть <em>Завантажити BMP</em>, щоб зберегти своє зображення.</li></ol><p>За замовчуванням 24-бітний BMP без стиснення.</p>"
+    },
+  {
+      "title": "Підтримувані обмеження та формати",
+  "description": "<ul><li><strong>Прийняті вхідні дані:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальний розмір файлу:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вихід:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Глибина кольору:</strong> 24-біт (без альфа)</li></ul>"
 
-    }
-    {
-      "title": "Порівняння BMP та PNG"
-
-      "description": "<ul><li><strong>Розмір файлу:</strong> BMP зазвичай набагато більший за PNG.</li><li><strong>Якість:</strong> Обидва формати безвтратні (BMP без стиснення; PNG безвтратно стиснений).</li><li><strong>Прозорість:</strong> PNG підтримує альфа; звичайний 24-бітний BMP <em>не</em> підтримує.</li><li><strong>Стиснення:</strong> BMP без стиснення; PNG безвтратне DEFLATE.</li><li><strong>Сфери використання:</strong> BMP для спадкових/піксельних операцій; PNG для вебу та ефективного безвтратного зберігання.</li></ul>"
-
-    }
-    {
-      "title": "Підтримувані обмеження та формати"
-
-      "description": "<ul><li><strong>Прийняті вхідні дані:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальний розмір файлу:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вихід:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Глибина кольору:</strong> 24-біт (без альфа)</li></ul>"
-
-    }
-    {
-      "title": "Виправлення помилок"
-
-      "description": "<ul><li><strong>Дуже великий вихід:</strong> BMP без стиснення; для меншого безвтратного зберігайте PNG.</li><li><strong>Потрібна прозорість:</strong> 24-бітний BMP не має альфа; залишайтеся з PNG.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що файл є PNG і ≤ 16&nbsp;МБ.</li></ul>"
+    },
+  {
+      "title": "Виправлення помилок",
+  "description": "<ul><li><strong>Дуже великий вихід:</strong> BMP без стиснення; для меншого безвтратного зберігайте PNG.</li><li><strong>Потрібна прозорість:</strong> 24-бітний BMP не має альфа; залишайтеся з PNG.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що файл є PNG і ≤ 16&nbsp;МБ.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Чи безкоштовний цей конвертер PNG в BMP?"
+      "question": "Чи безкоштовний цей конвертер PNG в BMP?",
+  "answer": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
 
-      "answer": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
+    },
+  {
+      "question": "Чи працюватиме BMP в усіх програмах?",
+  "answer": "BMP широко підтримується на Windows і визнано багатьма іншими платформами. Сучасні веб-робочі процеси зазвичай віддають перевагу PNG/WebP для ефективності розміру."
 
-    }
-    {
-      "question": "Чи працюватиме BMP в усіх програмах?"
+    },
+  {
+      "question": "Наскільки більші файли BMP у порівнянні з PNG?",
+  "answer": "Зазвичай в кілька разів більші (наприклад, 3–10× або більше), оскільки BMP без стиснення."
 
-      "answer": "BMP широко підтримується на Windows і визнано багатьма іншими платформами. Сучасні веб-робочі процеси зазвичай віддають перевагу PNG/WebP для ефективності розміру."
+    },
+  {
+      "question": "Які розміри файлів підтримуються?",
+  "answer": "Ви можете завантажувати зображення до 16&nbsp;МБ на файл."
 
-    }
-    {
-      "question": "Наскільки більші файли BMP у порівнянні з PNG?"
+    },
+  {
+      "question": "Чи безпечні мої файли?",
+  "answer": "Файли обробляються автоматично і не зберігаються довше, ніж необхідно для конвертації."
 
-      "answer": "Зазвичай в кілька разів більші (наприклад, 3–10× або більше), оскільки BMP без стиснення."
+    },
+  {
+      "question": "Чи можу я конвертувати кілька PNG одночасно?",
+  "answer": "Ця сторінка конвертує один файл за раз. Для масових потреб повторіть процес або використовуйте пакетний інструмент."
 
-    }
-    {
-      "question": "Які розміри файлів підтримуються?"
-
-      "answer": "Ви можете завантажувати зображення до 16&nbsp;МБ на файл."
-
-    }
-    {
-      "question": "Чи безпечні мої файли?"
-
-      "answer": "Файли обробляються автоматично і не зберігаються довше, ніж необхідно для конвертації."
-
-    }
-    {
-      "question": "Чи можу я конвертувати кілька PNG одночасно?"
-
-      "answer": "Ця сторінка конвертує один файл за раз. Для масових потреб повторіть процес або використовуйте пакетний інструмент."
-
-    }
-    {
-      "question": "Чи підтримує BMP прозорість?"
-
-      "answer": "Стандартний 24-бітний BMP не включає альфа-канал. Використовуйте PNG для прозорості."
+    },
+  {
+      "question": "Чи підтримує BMP прозорість?",
+  "answer": "Стандартний 24-бітний BMP не включає альфа-канал. Використовуйте PNG для прозорості."
 
     }
-  ]
-  "note": "Вихід BMP навмисно великий (без стиснення). Для веб-доставки віддавайте перевагу PNG/WebP/AVIF."
-
+  ],
+  "note": "Вихід BMP навмисно великий (без стиснення). Для веб-доставки віддавайте перевагу PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Конвертувати BMP в PNG"
+      "title": "Конвертувати BMP в PNG",
+  "url": "/uk/convert/bmp-to-png"
 
-      "url": "/uk/convert/bmp-to-png"
+    },
+  {
+      "title": "Конвертувати PNG в JPG",
+  "url": "/uk/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Конвертувати PNG в JPG"
-
-      "url": "/uk/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Конвертувати PNG в WebP"
-
-      "url": "/uk/convert/png-to-webp"
+    },
+  {
+      "title": "Конвертувати PNG в WebP",
+  "url": "/uk/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер PNG в BMP - Безкоштовно та Онлайн"
-
-      "url": "https://miconvert.com/uk/convert/png-to-bmp"
-
-      "description": "Безкоштовний онлайн інструмент для конвертації зображень PNG в BMP з неконтрольованими, безвтратними піксельними даними."
-
-      "inLanguage": "uk"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Конвертер PNG в BMP - Безкоштовно та Онлайн",
+  "url": "https://miconvert.com/uk/convert/png-to-bmp",
+  "description": "Безкоштовний онлайн інструмент для конвертації зображень PNG в BMP з неконтрольованими, безвтратними піксельними даними.",
+  "inLanguage": "uk",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Головна",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Головна"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Конвертувати",
+  "item": "https://miconvert.com/uk/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертувати"
-
-          "item": "https://miconvert.com/uk/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG в BMP"
-
-          "item": "https://miconvert.com/uk/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG в BMP",
+  "item": "https://miconvert.com/uk/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Конвертер PNG в BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/uk/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Неконтрольовані піксельні дані",
+  "Точні кольори",
+  "Швидка обробка"
 
-      "name": "Конвертер PNG в BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/uk/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Неконтрольовані піксельні дані"
-
-        "Точні кольори"
-
-        "Швидка обробка"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Чи безкоштовний цей конвертер PNG в BMP?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
+          "@type": "Question",
+  "name": "Чи безкоштовний цей конвертер PNG в BMP?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Так, конвертер абсолютно безкоштовний, без прихованих зборів або підписок."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Які розміри файлів підтримуються?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ви можете завантажувати зображення до 16 МБ на файл."
+        },
+  {
+          "@type": "Question",
+  "name": "Які розміри файлів підтримуються?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ви можете завантажувати зображення до 16 МБ на файл."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Чи підтримує BMP прозорість?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Стандартний 24-бітний BMP не включає альфа-канал. Використовуйте PNG для прозорості."
+        },
+  {
+          "@type": "Question",
+  "name": "Чи підтримує BMP прозорість?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Стандартний 24-бітний BMP не включає альфа-канал. Використовуйте PNG для прозорості."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Як конвертувати PNG в BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Як конвертувати PNG в BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Натисніть Завантажити PNG та виберіть свій файл."
 
-          "text": "Натисніть Завантажити PNG та виберіть свій файл."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Зачекайте, поки обробка завершиться."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Натисніть Завантажити BMP, щоб зберегти зображення."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Зачекайте, поки обробка завершиться."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити BMP, щоб зберегти зображення."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Конвертер PNG в BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

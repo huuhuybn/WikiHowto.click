@@ -1,367 +1,274 @@
 {
-  "lang": "hu"
-
-  "lang_name": "Magyar"
-
-  "title": "JPG a TIFF Átalakító - Ingyenes és Online | miconvert.com"
-
-  "sub_title": "Konvertálja a JPG képeket TIFF formátumba online, veszteségmentes tömörítési lehetőségekkel és nyomtatásra kész minőséggel. Nincsenek vízjelek."
-
-  "hint": "Töltse fel JPG képét a konvertálás megkezdéséhez..."
-
-  "btn_download": "Konvertálás TIFF-re"
-
-  "btn_paste": "JPG feltöltése"
-
-  "btn_clear": "Törlés"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "hu",
+  "lang_name": "Magyar",
+  "title": "JPG a TIFF Átalakító - Ingyenes és Online | miconvert.com",
+  "sub_title": "Konvertálja a JPG képeket TIFF formátumba online, veszteségmentes tömörítési lehetőségekkel és nyomtatásra kész minőséggel. Nincsenek vízjelek.",
+  "hint": "Töltse fel JPG képét a konvertálás megkezdéséhez...",
+  "btn_download": "Konvertálás TIFF-re",
+  "btn_paste": "JPG feltöltése",
+  "btn_clear": "Törlés",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "Konvertálja a JPG-t TIFF-re - Ingyenes Online JPG a TIFF Átalakító"
+    "title": "Konvertálja a JPG-t TIFF-re - Ingyenes Online JPG a TIFF Átalakító",
+  "description": "Konvertálja a JPG képeket TIFF formátumba online ingyen. Magas minőségű JPG a TIFF konverzió gyors feldolgozással.",
+  "keywords": "jpg a tiff, jpg konvertálása tiff-re, ingyenes jpg a tiff, online tiff átalakító, kép konverzió",
+  "canonical": "https://miconvert.com/hu/convert/jpg-to-tiff",
+  "og_title": "Konvertálja a JPG-t TIFF-re - Ingyenes Online JPG a TIFF Átalakító",
+  "og_description": "Konvertálja a JPG képeket TIFF formátumba online ingyen. Magas minőségű JPG a TIFF konverzió gyors feldolgozással.",
+  "og_url": "https://miconvert.com/hu/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "Konvertálja a JPG képeket TIFF formátumba online ingyen. Magas minőségű JPG a TIFF konverzió gyors feldolgozással."
-
-    "keywords": "jpg a tiff, jpg konvertálása tiff-re, ingyenes jpg a tiff, online tiff átalakító, kép konverzió"
-
-    "canonical": "https://miconvert.com/hu/convert/jpg-to-tiff"
-
-    "og_title": "Konvertálja a JPG-t TIFF-re - Ingyenes Online JPG a TIFF Átalakító"
-
-    "og_description": "Konvertálja a JPG képeket TIFF formátumba online ingyen. Magas minőségű JPG a TIFF konverzió gyors feldolgozással."
-
-    "og_url": "https://miconvert.com/hu/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertálja a JPG-t TIFF-re Online"
+    "title": "Konvertálja a JPG-t TIFF-re Online",
+  "description": "Ingyenes JPG a TIFF átalakító veszteségmentes tömörítési lehetőségekkel és nyomtatásra kész kimenettel. Működik bármilyen eszközön - regisztráció nem szükséges."
 
-    "description": "Ingyenes JPG a TIFF átalakító veszteségmentes tömörítési lehetőségekkel és nyomtatásra kész kimenettel. Működik bármilyen eszközön - regisztráció nem szükséges."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG a TIFF Átalakító"
-
-    "description": "Konvertálja a JPG képeket TIFF formátumba LZW/ZIP veszteségmentes tömörítéssel és pontos színekkel."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG a TIFF Átalakító",
+  "description": "Konvertálja a JPG képeket TIFF formátumba LZW/ZIP veszteségmentes tömörítéssel és pontos színekkel.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Veszteségmentes TIFF (LZW/ZIP) lehetőség",
+  "Nyomtatásra kész minőség",
+  "Pontos színek",
+  "Ingyenes online eszköz"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Veszteségmentes TIFF (LZW/ZIP) lehetőség"
-
-      "Nyomtatásra kész minőség"
-
-      "Pontos színek"
-
-      "Ingyenes online eszköz"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG a TIFF Konverzió Befejezve"
+    "title": "JPG a TIFF Konverzió Befejezve",
+  "back_button": "Vissza az Átalakítóhoz",
+  "convert_another": "Konvertáljon Egy Másik JPG-t",
+  "quick_conversions": "Gyors Konverziók:"
 
-    "back_button": "Vissza az Átalakítóhoz"
-
-    "convert_another": "Konvertáljon Egy Másik JPG-t"
-
-    "quick_conversions": "Gyors Konverziók:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miért Konvertálja a JPG-t TIFF-re?"
+      "title": "Miért Konvertálja a JPG-t TIFF-re?",
+  "description": "<p>A TIFF egy professzionális, archív minőségű formátum, amelyet képkészítéshez és nyomtatáshoz használnak:</p><ul><li><strong>Veszteségmentes lehetőségek:</strong> Takarítson meg egy tiszta mestert új JPEG artefaktumok nélkül.</li><li><strong>Nyomtatásra kész:</strong> Megőrzi a részleteket a nagy felbontású kimenethez.</li><li><strong>Rugalmas:</strong> Támogatja az alfa csatornát és a több színtér (olvasó függő).</li><li><strong>Munkafolyamat-barát:</strong> Stabil a többszöri szerkesztéshez és átadásokhoz.</li></ul><p><em>Megjegyzés:</em> A JPG-ból (veszteséges) való konvertálás nem állítja vissza varázslatosan az elveszett részleteket - de segít elkerülni a további romlást a következő mentések során.</p>"
 
-      "description": "<p>A TIFF egy professzionális, archív minőségű formátum, amelyet képkészítéshez és nyomtatáshoz használnak:</p><ul><li><strong>Veszteségmentes lehetőségek:</strong> Takarítson meg egy tiszta mestert új JPEG artefaktumok nélkül.</li><li><strong>Nyomtatásra kész:</strong> Megőrzi a részleteket a nagy felbontású kimenethez.</li><li><strong>Rugalmas:</strong> Támogatja az alfa csatornát és a több színtér (olvasó függő).</li><li><strong>Munkafolyamat-barát:</strong> Stabil a többszöri szerkesztéshez és átadásokhoz.</li></ul><p><em>Megjegyzés:</em> A JPG-ból (veszteséges) való konvertálás nem állítja vissza varázslatosan az elveszett részleteket - de segít elkerülni a további romlást a következő mentések során.</p>"
+    },
+  {
+      "title": "Hogyan Konvertálja a JPG-t TIFF-re Online",
+  "description": "<ol><li>Kattintson a <em>JPG feltöltése</em> gombra, és válassza ki a fényképét.</li><li>Várjon a feldolgozásra.</li><li>Kattintson a <em>TIFF letöltése</em> gombra a fájl mentéséhez.</li></ol><p>Alapértelmezett: 24-bites RGB, LZW veszteségmentes, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Hogyan Konvertálja a JPG-t TIFF-re Online"
+    },
+  {
+      "title": "TIFF vs JPG: Fő Különbségek",
+  "description": "<table class='table-compare'><thead><tr><th>Jellemző</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Tömörítés</td><td>Veszteséges (JPEG)</td><td>Veszteségmentes (LZW/ZIP) vagy JPEG/nincs</td></tr><tr><td>Fájlméret</td><td>Kicsi</td><td>Nagyobb (tömörítéstől függ)</td></tr><tr><td>Átlátszóság</td><td>Nincs</td><td>Opcionális alfa (olvasó függő)</td></tr><tr><td>Legjobb a</td><td>Web/fényképek megosztása</td><td>Szerkesztés, nyomtatás, archiválás</td></tr></tbody></table>"
 
-      "description": "<ol><li>Kattintson a <em>JPG feltöltése</em> gombra, és válassza ki a fényképét.</li><li>Várjon a feldolgozásra.</li><li>Kattintson a <em>TIFF letöltése</em> gombra a fájl mentéséhez.</li></ol><p>Alapértelmezett: 24-bites RGB, LZW veszteségmentes, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Támogatott Határok és Formátumok",
+  "description": "<ul><li><strong>Elfogadott bemenet:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Alapértelmezettek:</strong> 24-bites RGB, LZW tömörítés, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs JPG: Fő Különbségek"
-
-      "description": "<table class='table-compare'><thead><tr><th>Jellemző</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Tömörítés</td><td>Veszteséges (JPEG)</td><td>Veszteségmentes (LZW/ZIP) vagy JPEG/nincs</td></tr><tr><td>Fájlméret</td><td>Kicsi</td><td>Nagyobb (tömörítéstől függ)</td></tr><tr><td>Átlátszóság</td><td>Nincs</td><td>Opcionális alfa (olvasó függő)</td></tr><tr><td>Legjobb a</td><td>Web/fényképek megosztása</td><td>Szerkesztés, nyomtatás, archiválás</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Támogatott Határok és Formátumok"
-
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Alapértelmezettek:</strong> 24-bites RGB, LZW tömörítés, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Hibaelhárítás"
-
-      "description": "<ul><li><strong>Túl nagy fájl:</strong> A TIFF tervezésből adódóan nehezebb. Kisebb veszteségmentes fájlokhoz próbálja ki a <a href='/hu/convert/jpg-to-png'>JPG a PNG-ra</a>.</li><li><strong>Átlátszóság szükséges:</strong> A forrás JPG nem tartalmaz alfa csatornát; konvertálja és szerkessze az alfa csatornát egy szerkesztőben, vagy kezdje PNG-ból.</li><li><strong>Színeltolódás:</strong> Konvertáljon sRGB-re a feltöltés előtt a webes konzisztencia érdekében.</li><li><strong>Feltöltés sikertelen:</strong> Győződjön meg róla, hogy a JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Hibaelhárítás",
+  "description": "<ul><li><strong>Túl nagy fájl:</strong> A TIFF tervezésből adódóan nehezebb. Kisebb veszteségmentes fájlokhoz próbálja ki a <a href='/hu/convert/jpg-to-png'>JPG a PNG-ra</a>.</li><li><strong>Átlátszóság szükséges:</strong> A forrás JPG nem tartalmaz alfa csatornát; konvertálja és szerkessze az alfa csatornát egy szerkesztőben, vagy kezdje PNG-ból.</li><li><strong>Színeltolódás:</strong> Konvertáljon sRGB-re a feltöltés előtt a webes konzisztencia érdekében.</li><li><strong>Feltöltés sikertelen:</strong> Győződjön meg róla, hogy a JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ez a JPG a TIFF átalakító ingyenes?"
+      "question": "Ez a JPG a TIFF átalakító ingyenes?",
+  "answer": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
 
-      "answer": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+    },
+  {
+      "question": "A TIFF működik minden alkalmazásban?",
+  "answer": "A TIFF széles körben támogatott professzionális alkalmazásokban (Photoshop, Affinity, sok RIP/nyomtató eszköz). Néhány egyszerű néző nem támogathatja az összes tömörítési lehetőséget."
 
-    }
-    {
-      "question": "A TIFF működik minden alkalmazásban?"
+    },
+  {
+      "question": "Mennyivel nagyobbak a TIFF fájlok a JPG-hez képest?",
+  "answer": "Általában 3–10× nagyobbak, mint a JPG azonos méretekkel (tartalomtól és tömörítéstől függően)."
 
-      "answer": "A TIFF széles körben támogatott professzionális alkalmazásokban (Photoshop, Affinity, sok RIP/nyomtató eszköz). Néhány egyszerű néző nem támogathatja az összes tömörítési lehetőséget."
+    },
+  {
+      "question": "Milyen fájlméretek támogatottak?",
+  "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthet fel."
 
-    }
-    {
-      "question": "Mennyivel nagyobbak a TIFF fájlok a JPG-hez képest?"
+    },
+  {
+      "question": "Biztonságban vannak a fájljaim?",
+  "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél a konverzióhoz."
 
-      "answer": "Általában 3–10× nagyobbak, mint a JPG azonos méretekkel (tartalomtól és tömörítéstől függően)."
+    },
+  {
+      "question": "Több JPG-t is konvertálhatok egyszerre?",
+  "answer": "Ez az oldal egy fájlt konvertál egyszerre. Nagyobb igények esetén ismételje meg a folyamatot, vagy használjon egy kötegelt eszközt."
 
-    }
-    {
-      "question": "Milyen fájlméretek támogatottak?"
-
-      "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthet fel."
-
-    }
-    {
-      "question": "Biztonságban vannak a fájljaim?"
-
-      "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél a konverzióhoz."
-
-    }
-    {
-      "question": "Több JPG-t is konvertálhatok egyszerre?"
-
-      "answer": "Ez az oldal egy fájlt konvertál egyszerre. Nagyobb igények esetén ismételje meg a folyamatot, vagy használjon egy kötegelt eszközt."
-
-    }
-    {
-      "question": "A TIFF támogatja a rétegeket?"
-
-      "answer": "A standard TIFF egy lapos kép; néhány alkalmazás saját 'réteges TIFF' adatokat tárol. Ez az eszköz lapos TIFF-t exportál."
+    },
+  {
+      "question": "A TIFF támogatja a rétegeket?",
+  "answer": "A standard TIFF egy lapos kép; néhány alkalmazás saját 'réteges TIFF' adatokat tárol. Ez az eszköz lapos TIFF-t exportál."
 
     }
-  ]
-  "note": "A TIFF alkalmas tárolásra/nyomtatásra, de nagy fájlméretű. Webhez, fontolja meg a PNG/WebP/AVIF formátumokat."
-
+  ],
+  "note": "A TIFF alkalmas tárolásra/nyomtatásra, de nagy fájlméretű. Webhez, fontolja meg a PNG/WebP/AVIF formátumokat.",
   "related_links": [
     {
-      "title": "JPG konvertálása PNG-re"
+      "title": "JPG konvertálása PNG-re",
+  "url": "/hu/convert/jpg-to-png"
 
-      "url": "/hu/convert/jpg-to-png"
+    },
+  {
+      "title": "JPG konvertálása WebP-re",
+  "url": "/hu/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "JPG konvertálása WebP-re"
-
-      "url": "/hu/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "PNG konvertálása TIFF-re"
-
-      "url": "/hu/convert/png-to-tiff"
+    },
+  {
+      "title": "PNG konvertálása TIFF-re",
+  "url": "/hu/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG a TIFF Átalakító - Ingyenes és Online"
-
-      "url": "https://miconvert.com/hu/convert/jpg-to-tiff"
-
-      "description": "Ingyenes online eszköz a JPG képek TIFF formátumba történő konvertálásához veszteségmentes tömörítéssel és nyomtatásra kész kimenettel."
-
-      "inLanguage": "hu"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG a TIFF Átalakító - Ingyenes és Online",
+  "url": "https://miconvert.com/hu/convert/jpg-to-tiff",
+  "description": "Ingyenes online eszköz a JPG képek TIFF formátumba történő konvertálásához veszteségmentes tömörítéssel és nyomtatásra kész kimenettel.",
+  "inLanguage": "hu",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Kezdőlap",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Kezdőlap"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertálás",
+  "item": "https://miconvert.com/hu/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertálás"
-
-          "item": "https://miconvert.com/hu/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG a TIFF"
-
-          "item": "https://miconvert.com/hu/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG a TIFF",
+  "item": "https://miconvert.com/hu/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG a TIFF Átalakító",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/hu/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Veszteségmentes LZW lehetőség",
+  "Nyomtatásra kész 300 DPI",
+  "Pontos színek"
 
-      "name": "JPG a TIFF Átalakító"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hu/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Veszteségmentes LZW lehetőség"
-
-        "Nyomtatásra kész 300 DPI"
-
-        "Pontos színek"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ez a JPG a TIFF átalakító ingyenes?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+          "@type": "Question",
+  "name": "Ez a JPG a TIFF átalakító ingyenes?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milyen fájlméretek támogatottak?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Legfeljebb 16 MB méretű képeket tölthet fel."
+        },
+  {
+          "@type": "Question",
+  "name": "Milyen fájlméretek támogatottak?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Legfeljebb 16 MB méretű képeket tölthet fel."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "A TIFF támogatja a rétegeket?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "A standard TIFF lapos. Néhány alkalmazás privát rétegadatokat tárol; ez az eszköz lapos TIFF-t exportál."
+        },
+  {
+          "@type": "Question",
+  "name": "A TIFF támogatja a rétegeket?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "A standard TIFF lapos. Néhány alkalmazás privát rétegadatokat tárol; ez az eszköz lapos TIFF-t exportál."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hogyan konvertálja a JPG-t TIFF-re"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hogyan konvertálja a JPG-t TIFF-re",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kattintson a JPG feltöltése gombra, és válassza ki a fényképét."
 
-          "text": "Kattintson a JPG feltöltése gombra, és válassza ki a fényképét."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Várjon a feldolgozás befejezésére."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kattintson a TIFF letöltése gombra a fájl mentéséhez."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Várjon a feldolgozás befejezésére."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kattintson a TIFF letöltése gombra a fájl mentéséhez."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG a TIFF Átalakító"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

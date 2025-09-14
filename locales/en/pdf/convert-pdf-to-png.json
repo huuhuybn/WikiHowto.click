@@ -1,98 +1,71 @@
 {
-  "lang": "en"
-
-  "lang_name": "English"
-
-  "title": "PDF to PNG Converter - Free Online Tool | miconvert.com"
-
-  "sub_title": "Convert PDF pages to PNG images online with high quality, transparency support, and no watermarks."
-
-  "hint": "Upload your PDF file to start converting..."
-
-  "btn_download": "Convert to PNG"
-
-  "btn_paste": "Upload PDF"
-
-  "btn_clear": "Clear"
-
+  "lang": "en",
+  "lang_name": "English",
+  "title": "PDF to PNG Converter - Free Online Tool | miconvert.com",
+  "sub_title": "Convert PDF pages to PNG images online with high quality, transparency support, and no watermarks.",
+  "hint": "Upload your PDF file to start converting...",
+  "btn_download": "Convert to PNG",
+  "btn_paste": "Upload PDF",
+  "btn_clear": "Clear",
   "converter": {
-    "type": "pdf-to-png"
-
-    "inputFormat": "PDF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-multi"
-
-    "allowedTypes": ["application/pdf"]
-    "maxFileSize": 104857600
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    "type": "pdf-to-png",
+  "inputFormat": "PDF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-multi",
+  "allowedTypes": ["application/pdf"],
+  "maxFileSize": 104857600,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Quickly convert <strong>PDF to PNG</strong> online. Our free tool exports every PDF page as a crisp PNG image—ideal for slides, diagrams, UI assets, and websites. PNG supports transparency and renders sharp text and graphics.</p><p>No signup, no watermarks. Files are processed securely and auto-deleted after conversion for your privacy.</p>"
-
+  },
+  "description": "<p>Quickly convert <strong>PDF to PNG</strong> online. Our free tool exports every PDF page as a crisp PNG image—ideal for slides, diagrams, UI assets, and websites. PNG supports transparency and renders sharp text and graphics.</p><p>No signup, no watermarks. Files are processed securely and auto-deleted after conversion for your privacy.</p>",
   "head": {
-    "title": "Convert PDF to PNG Online - Free PDF to PNG Converter | miconvert.com"
+    "title": "Convert PDF to PNG Online - Free PDF to PNG Converter | miconvert.com",
+  "description": "Free PDF to PNG converter. Turn PDF pages into high-quality PNG images with transparency support. Fast, secure, and watermark-free.",
+  "keywords": "pdf to png, convert pdf to png, pdf to image, free pdf converter, pdf to png online",
+  "canonical": "https://miconvert.com/en/convert/pdf-to-png",
+  "og_title": "PDF to PNG Converter - Free & Online",
+  "og_description": "Convert PDF pages to PNG images with high quality and transparency support. 100% free, fast, and secure.",
+  "og_url": "https://miconvert.com/en/convert/pdf-to-png",
+  "og_image": "https://miconvert.com/images/pdf-to-png.jpg"
 
-    "description": "Free PDF to PNG converter. Turn PDF pages into high-quality PNG images with transparency support. Fast, secure, and watermark-free."
-
-    "keywords": "pdf to png, convert pdf to png, pdf to image, free pdf converter, pdf to png online"
-
-    "canonical": "https://miconvert.com/en/convert/pdf-to-png"
-
-    "og_title": "PDF to PNG Converter - Free & Online"
-
-    "og_description": "Convert PDF pages to PNG images with high quality and transparency support. 100% free, fast, and secure."
-
-    "og_url": "https://miconvert.com/en/convert/pdf-to-png"
-
-    "og_image": "https://miconvert.com/images/pdf-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convert PDF to PNG Online"
+    "title": "Convert PDF to PNG Online",
+  "description": "Free and fast PDF to PNG converter with high quality and transparency support. Works instantly on any device—no signup."
 
-    "description": "Free and fast PDF to PNG converter with high quality and transparency support. Works instantly on any device—no signup."
-
-  }
+  },
   "h2": [
     {
-      "title": "Why Convert PDF to PNG?"
+      "title": "Why Convert PDF to PNG?",
+  "description": "<ul><li><strong>Sharp Text & Graphics:</strong> Great for slides, diagrams, and UI assets.</li><li><strong>Transparency:</strong> PNG supports alpha transparency for clean overlays.</li><li><strong>Universal Use:</strong> Works across apps, websites, and docs.</li><li><strong>Per-Page Export:</strong> Extract pages as individual images.</li></ul>"
 
-      "description": "<ul><li><strong>Sharp Text & Graphics:</strong> Great for slides, diagrams, and UI assets.</li><li><strong>Transparency:</strong> PNG supports alpha transparency for clean overlays.</li><li><strong>Universal Use:</strong> Works across apps, websites, and docs.</li><li><strong>Per-Page Export:</strong> Extract pages as individual images.</li></ul>"
+    },
+  {
+      "title": "How to Convert PDF to PNG Online",
+  "description": "<ol><li>Click <em>Upload PDF</em> and select your file.</li><li>Wait for secure processing on our server.</li><li>Click <em>Download PNG</em> to get your images.</li></ol><p>Each PDF page is exported as a separate PNG.</p>"
 
-    }
-    {
-      "title": "How to Convert PDF to PNG Online"
-
-      "description": "<ol><li>Click <em>Upload PDF</em> and select your file.</li><li>Wait for secure processing on our server.</li><li>Click <em>Download PNG</em> to get your images.</li></ol><p>Each PDF page is exported as a separate PNG.</p>"
-
-    }
-    {
-      "title": "Features of Our PDF to PNG Converter"
-
-      "description": "<ul><li>100% Free, no watermarks</li><li>High-quality PNG output</li><li>Batch conversions supported</li><li>Encrypted upload & auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
+    },
+  {
+      "title": "Features of Our PDF to PNG Converter",
+  "description": "<ul><li>100% Free, no watermarks</li><li>High-quality PNG output</li><li>Batch conversions supported</li><li>Encrypted upload & auto-deletion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
-    { "question": "Is this PDF to PNG converter free?", "answer": "Yes, completely free with no watermarks." }
-    { "question": "Do you support multi-page PDFs?", "answer": "Yes. Each page is exported as an individual PNG file." }
-    { "question": "Will transparency be preserved?", "answer": "Where applicable, PNG supports alpha transparency." }
-    { "question": "Are my files safe?", "answer": "All files are encrypted, processed securely, and auto-deleted after conversion." }
-    { "question": "What file size is supported?", "answer": "You can upload PDFs up to 100MB per conversion." }
-  ]
-  "note": "Note: Converting PDFs to images may require system libraries (e.g., PDF rendering backends) on the server. Large PDFs or very high-resolution pages can take longer to process."
-
+    { "question": "Is this PDF to PNG converter free?", "answer": "Yes, completely free with no watermarks." },
+  { "question": "Do you support multi-page PDFs?", "answer": "Yes. Each page is exported as an individual PNG file." },
+  { "question": "Will transparency be preserved?", "answer": "Where applicable, PNG supports alpha transparency." },
+  { "question": "Are my files safe?", "answer": "All files are encrypted, processed securely, and auto-deleted after conversion." },
+  { "question": "What file size is supported?", "answer": "You can upload PDFs up to 100MB per conversion." }
+  ],
+  "note": "Note: Converting PDFs to images may require system libraries (e.g., PDF rendering backends) on the server. Large PDFs or very high-resolution pages can take longer to process.",
   "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
 
 }

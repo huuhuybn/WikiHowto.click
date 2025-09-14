@@ -1,373 +1,283 @@
 {
-  "lang": "hu"
-
-  "lang_name": "Magyar"
-
-  "title": "HEIC to JPG Átalakító - Ingyenes és Online | miconvert.com"
-
-  "sub_title": "HEIC képek online átalakítása JPG formátumba, magas minőséggel, jobb kompatibilitással és vízjelek nélkül."
-
-  "hint": "Töltsd fel a HEIC képed az átalakítás megkezdéséhez..."
-
-  "btn_download": "Átalakítás JPG-ra"
-
-  "btn_paste": "HEIC feltöltése"
-
-  "btn_clear": "Törlés"
-
+  "lang": "hu",
+  "lang_name": "Magyar",
+  "title": "HEIC to JPG Átalakító - Ingyenes és Online | miconvert.com",
+  "sub_title": "HEIC képek online átalakítása JPG formátumba, magas minőséggel, jobb kompatibilitással és vízjelek nélkül.",
+  "hint": "Töltsd fel a HEIC képed az átalakítás megkezdéséhez...",
+  "btn_download": "Átalakítás JPG-ra",
+  "btn_paste": "HEIC feltöltése",
+  "btn_clear": "Törlés",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>Átalakítsd a <strong>HEIC-et JPG-ra</strong> az univerzális kompatibilitás érdekében! Ingyenes online átalakítónk az iPhone/iPad fényképeidet széles körben támogatott JPG formátumba alakítja. A HEIC (a HEIF szabvány alapján) kiváló tömörítést kínál, de sok alkalmazás és platform még mindig JPG-t vár el. Akár Android/Windows felhasználókkal szeretnél megosztani, akár közösségi médiába töltenél fel, vagy biztosítani szeretnéd a régebbi szoftverekkel való kompatibilitást, ez az eszköz megkönnyíti a dolgod.</p><p>A JPG szinte mindenhol támogatott. Az átalakítás gyors, és megőrzi a vizuális minőséget a finomhangolt JPEG beállításokkal — ideális fényképészek, alkotók és bárki számára, aki maximális kompatibilitásra vágyik.</p>"
-
+  },
+  "description": "<p>Átalakítsd a <strong>HEIC-et JPG-ra</strong> az univerzális kompatibilitás érdekében! Ingyenes online átalakítónk az iPhone/iPad fényképeidet széles körben támogatott JPG formátumba alakítja. A HEIC (a HEIF szabvány alapján) kiváló tömörítést kínál, de sok alkalmazás és platform még mindig JPG-t vár el. Akár Android/Windows felhasználókkal szeretnél megosztani, akár közösségi médiába töltenél fel, vagy biztosítani szeretnéd a régebbi szoftverekkel való kompatibilitást, ez az eszköz megkönnyíti a dolgod.</p><p>A JPG szinte mindenhol támogatott. Az átalakítás gyors, és megőrzi a vizuális minőséget a finomhangolt JPEG beállításokkal — ideális fényképészek, alkotók és bárki számára, aki maximális kompatibilitásra vágyik.</p>",
   "head": {
-    "title": "HEIC átalakítása JPG-ra Online - Ingyenes HEIC to JPG Átalakító | miconvert.com"
+    "title": "HEIC átalakítása JPG-ra Online - Ingyenes HEIC to JPG Átalakító | miconvert.com",
+  "description": "HEIC átalakítása JPG-ra online, magas minőséggel, jobb kompatibilitással és vízjelek nélkül. Ingyenes, gyors és biztonságos HEIC to JPG átalakító eszköz.",
+  "keywords": "heic to jpg, heic átalakítása jpg-ra, ingyenes heic to jpg, online heic átalakító, iphone fényképek",
+  "canonical": "https://miconvert.com/hu/convert/heic-to-jpg",
+  "og_title": "HEIC to JPG Átalakító - Ingyenes és Online",
+  "og_description": "HEIC képek JPG formátumba való átalakítása magas minőséggel és jobb kompatibilitással. 100% ingyenes, gyors és biztonságos.",
+  "og_url": "https://miconvert.com/hu/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "HEIC átalakítása JPG-ra online, magas minőséggel, jobb kompatibilitással és vízjelek nélkül. Ingyenes, gyors és biztonságos HEIC to JPG átalakító eszköz."
-
-    "keywords": "heic to jpg, heic átalakítása jpg-ra, ingyenes heic to jpg, online heic átalakító, iphone fényképek"
-
-    "canonical": "https://miconvert.com/hu/convert/heic-to-jpg"
-
-    "og_title": "HEIC to JPG Átalakító - Ingyenes és Online"
-
-    "og_description": "HEIC képek JPG formátumba való átalakítása magas minőséggel és jobb kompatibilitással. 100% ingyenes, gyors és biztonságos."
-
-    "og_url": "https://miconvert.com/hu/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "HEIC átalakítása JPG-ra Online"
+    "title": "HEIC átalakítása JPG-ra Online",
+  "description": "Ingyenes és gyors HEIC to JPG átalakító, magas minőséggel és univerzális kompatibilitással. Azonnal működik bármilyen eszközön, regisztráció nélkül."
 
-    "description": "Ingyenes és gyors HEIC to JPG átalakító, magas minőséggel és univerzális kompatibilitással. Azonnal működik bármilyen eszközön, regisztráció nélkül."
-
-  }
+  },
   "h2": [
     {
-      "title": "Miért alakítsuk át a HEIC-et JPG-ra?"
+      "title": "Miért alakítsuk át a HEIC-et JPG-ra?",
+  "description": "<p>A HEIC hatékony, de a JPG univerzálisan elfogadott. Átalakítsd, amikor szükséged van rá:</p><ul><li><strong>Univerzális kompatibilitás:</strong> A JPG működik az eszközök, alkalmazások és platformok között.</li><li><strong>Keresztplatformos megosztás:</strong> Küldj fényképeket Android/Windows felhasználóknak problémák nélkül.</li><li><strong>Közösségi feltöltések:</strong> A legtöbb platform előnyben részesíti vagy megköveteli a JPG-t.</li><li><strong>Örökségi támogatás:</strong> A régebbi alkalmazások nem olvassák megbízhatóan a HEIC-et.</li></ul>"
 
-      "description": "<p>A HEIC hatékony, de a JPG univerzálisan elfogadott. Átalakítsd, amikor szükséged van rá:</p><ul><li><strong>Univerzális kompatibilitás:</strong> A JPG működik az eszközök, alkalmazások és platformok között.</li><li><strong>Keresztplatformos megosztás:</strong> Küldj fényképeket Android/Windows felhasználóknak problémák nélkül.</li><li><strong>Közösségi feltöltések:</strong> A legtöbb platform előnyben részesíti vagy megköveteli a JPG-t.</li><li><strong>Örökségi támogatás:</strong> A régebbi alkalmazások nem olvassák megbízhatóan a HEIC-et.</li></ul>"
+    },
+  {
+      "title": "Hogyan alakítsuk át a HEIC-et JPG-ra Online",
+  "description": "<ol><li>Kattints a <em>HEIC feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra.</li><li>Kattints a <em>JPG letöltése</em> gombra az eredmény mentéséhez.</li></ol><p>Nincsenek technikai lépések — a minőség automatikusan optimalizálva van.</p>"
 
-    }
-    {
-      "title": "Hogyan alakítsuk át a HEIC-et JPG-ra Online"
+    },
+  {
+      "title": "HEIC vs JPG: Kulcsfontosságú különbségek",
+  "description": "<ul><li><strong>Fájlméret:</strong> A HEIC általában kisebb, mint a JPG hasonló minőség mellett.</li><li><strong>Kompatibilitás:</strong> A JPG szinte univerzális támogatással rendelkezik.</li><li><strong>Minőség:</strong> Mindkettő jól nézhet ki; a JPG veszteséges tömörítést használ.</li><li><strong>Ökoszisztéma:</strong> A HEIC elterjedt az Apple-en; a JPG mindenhol jelen van.</li></ul>"
 
-      "description": "<ol><li>Kattints a <em>HEIC feltöltése</em> gombra, és válaszd ki a fájlodat.</li><li>Várj a feldolgozásra.</li><li>Kattints a <em>JPG letöltése</em> gombra az eredmény mentéséhez.</li></ol><p>Nincsenek technikai lépések — a minőség automatikusan optimalizálva van.</p>"
+    },
+  {
+      "title": "Támogatott korlátok és formátumok",
+  "description": "<ul><li><strong>Elfogadott bemenet:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG beállítások:</strong> Minőség 90 (progresszív, mozjpeg)</li></ul>"
 
-    }
-    {
-      "title": "HEIC vs JPG: Kulcsfontosságú különbségek"
+    },
+  {
+      "title": "A HEIC to JPG Átalakítónk jellemzői",
+  "description": "<ul><li>100% ingyenes, vízjelek nélkül</li><li>Magas minőségű JPEG kimenet</li><li>Mobilbarát felhasználói felület</li><li>Egyszerű, gyors munkafolyamat</li></ul>"
 
-      "description": "<ul><li><strong>Fájlméret:</strong> A HEIC általában kisebb, mint a JPG hasonló minőség mellett.</li><li><strong>Kompatibilitás:</strong> A JPG szinte univerzális támogatással rendelkezik.</li><li><strong>Minőség:</strong> Mindkettő jól nézhet ki; a JPG veszteséges tömörítést használ.</li><li><strong>Ökoszisztéma:</strong> A HEIC elterjedt az Apple-en; a JPG mindenhol jelen van.</li></ul>"
+    },
+  {
+      "title": "Mi az a HEIC?",
+  "description": "<p>A HEIC egy fájl kiterjesztés, amely a HEIF (Magas Hatékonyságú Képformátum) szabvány szerint tárolt képekhez tartozik — általában HEVC (H.265) kódolással. Erős tömörítést kínál jó minőséggel, de nem univerzálisan támogatott.</p>"
 
-    }
-    {
-      "title": "Támogatott korlátok és formátumok"
+    },
+  {
+      "title": "Mi az a JPG?",
+  "description": "<p>A JPG (JPEG) a legszélesebb körben támogatott képformátum. Veszteséges tömörítést használ a minőség és a méret egyensúlyának megteremtésére, ami ideálissá teszi megosztásra és webhasználatra.</p>"
 
-      "description": "<ul><li><strong>Elfogadott bemenet:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximális fájlméret:</strong> legfeljebb 16&nbsp;MB fájlonként</li><li><strong>Kimenet:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG beállítások:</strong> Minőség 90 (progresszív, mozjpeg)</li></ul>"
+    },
+  {
+      "title": "Hibaelhárítás",
+  "description": "<ul><li><strong>Feltöltés sikertelen:</strong> Győződj meg róla, hogy a fájl HEIC/HEIF és ≤ 16&nbsp;MB.</li><li><strong>Elforgatott kép:</strong> Néhány néző figyelmen kívül hagyja az EXIF tájolást — ha szükséges, forgass el a letöltés után.</li><li><strong>Színeltolódás:</strong> Széles színskálájú fényképek eltérően nézhetnek ki; ha szükséges, alakítsd át sRGB-re.</li><li><strong>Élő fényképek:</strong> Csak a statikus HEIC kerül átalakításra; a párosított videó (MOV) nem kerül bele.</li></ul>"
 
-    }
-    {
-      "title": "A HEIC to JPG Átalakítónk jellemzői"
-
-      "description": "<ul><li>100% ingyenes, vízjelek nélkül</li><li>Magas minőségű JPEG kimenet</li><li>Mobilbarát felhasználói felület</li><li>Egyszerű, gyors munkafolyamat</li></ul>"
-
-    }
-    {
-      "title": "Mi az a HEIC?"
-
-      "description": "<p>A HEIC egy fájl kiterjesztés, amely a HEIF (Magas Hatékonyságú Képformátum) szabvány szerint tárolt képekhez tartozik — általában HEVC (H.265) kódolással. Erős tömörítést kínál jó minőséggel, de nem univerzálisan támogatott.</p>"
-
-    }
-    {
-      "title": "Mi az a JPG?"
-
-      "description": "<p>A JPG (JPEG) a legszélesebb körben támogatott képformátum. Veszteséges tömörítést használ a minőség és a méret egyensúlyának megteremtésére, ami ideálissá teszi megosztásra és webhasználatra.</p>"
-
-    }
-    {
-      "title": "Hibaelhárítás"
-
-      "description": "<ul><li><strong>Feltöltés sikertelen:</strong> Győződj meg róla, hogy a fájl HEIC/HEIF és ≤ 16&nbsp;MB.</li><li><strong>Elforgatott kép:</strong> Néhány néző figyelmen kívül hagyja az EXIF tájolást — ha szükséges, forgass el a letöltés után.</li><li><strong>Színeltolódás:</strong> Széles színskálájú fényképek eltérően nézhetnek ki; ha szükséges, alakítsd át sRGB-re.</li><li><strong>Élő fényképek:</strong> Csak a statikus HEIC kerül átalakításra; a párosított videó (MOV) nem kerül bele.</li></ul>"
+    },
+  {
+      "title": "Felhasználási esetek",
+  "description": "<ul><li><strong>Oszd meg nem Apple felhasználókkal</strong> kompatibilitási problémák nélkül.</li><li><strong>Töltsd fel CMS/közösségi</strong> platformokra, amelyek JPG-t várnak el.</li><li><strong>Nyomtatás és szerkesztés</strong> olyan alkalmazásokban, amelyek nem olvassák a HEIC-et.</li></ul>"
 
     }
-    {
-      "title": "Felhasználási esetek"
-
-      "description": "<ul><li><strong>Oszd meg nem Apple felhasználókkal</strong> kompatibilitási problémák nélkül.</li><li><strong>Töltsd fel CMS/közösségi</strong> platformokra, amelyek JPG-t várnak el.</li><li><strong>Nyomtatás és szerkesztés</strong> olyan alkalmazásokban, amelyek nem olvassák a HEIC-et.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ingyenes ez a HEIC to JPG átalakító?"
+      "question": "Ingyenes ez a HEIC to JPG átalakító?",
+  "answer": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
 
-      "answer": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+    },
+  {
+      "question": "Veszítek minőséget, amikor HEIC-et JPG-ra alakítok?",
+  "answer": "A JPG veszteséges tömörítést használ, így kis minőségvesztés lehetséges. Finomhangolt beállításokat használunk (minőség ~90, progresszív), hogy minimalizáljuk."
 
-    }
-    {
-      "question": "Veszítek minőséget, amikor HEIC-et JPG-ra alakítok?"
+    },
+  {
+      "question": "Mely eszközök támogatják a HEIC-et?",
+  "answer": "A HEIC/HEIF elterjedt az Apple eszközökön. Sok más platform még mindig alapértelmezés szerint a JPG-t részesíti előnyben."
 
-      "answer": "A JPG veszteséges tömörítést használ, így kis minőségvesztés lehetséges. Finomhangolt beállításokat használunk (minőség ~90, progresszív), hogy minimalizáljuk."
+    },
+  {
+      "question": "Milyen fájlméretek támogatottak?",
+  "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthetsz fel fájlonként."
 
-    }
-    {
-      "question": "Mely eszközök támogatják a HEIC-et?"
+    },
+  {
+      "question": "Biztonságban vannak a fájljaim?",
+  "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél az átalakításhoz."
 
-      "answer": "A HEIC/HEIF elterjedt az Apple eszközökön. Sok más platform még mindig alapértelmezés szerint a JPG-t részesíti előnyben."
+    },
+  {
+      "question": "Több HEIC fájlt is átalakíthatok egyszerre?",
+  "answer": "Ez az oldal egy fájlt alakít át egyszerre. Tömeges igények esetén ismételd meg a folyamatot, vagy használj egy csoportos eszközt."
 
-    }
-    {
-      "question": "Milyen fájlméretek támogatottak?"
-
-      "answer": "Legfeljebb 16&nbsp;MB méretű képeket tölthetsz fel fájlonként."
-
-    }
-    {
-      "question": "Biztonságban vannak a fájljaim?"
-
-      "answer": "A fájlokat automatikusan feldolgozzák, és nem őrzik meg tovább a szükségesnél az átalakításhoz."
-
-    }
-    {
-      "question": "Több HEIC fájlt is átalakíthatok egyszerre?"
-
-      "answer": "Ez az oldal egy fájlt alakít át egyszerre. Tömeges igények esetén ismételd meg a folyamatot, vagy használj egy csoportos eszközt."
-
-    }
-    {
-      "question": "Mikor használjam a JPG-t a HEIC helyett?"
-
-      "answer": "Használj JPG-t maximális kompatibilitás érdekében, olyan platformokra való feltöltéshez, amelyek nem támogatják a HEIC-et, vagy amikor nem Apple eszközökkel osztasz meg."
+    },
+  {
+      "question": "Mikor használjam a JPG-t a HEIC helyett?",
+  "answer": "Használj JPG-t maximális kompatibilitás érdekében, olyan platformokra való feltöltéshez, amelyek nem támogatják a HEIC-et, vagy amikor nem Apple eszközökkel osztasz meg."
 
     }
-  ]
-  "note": "A JPG veszteséges tömörítést használ; enyhe méret/minőség kompromisszumok normálisak. Átlátszóság igénye esetén alakítsd át a HEIC-et PNG-re."
-
+  ],
+  "note": "A JPG veszteséges tömörítést használ; enyhe méret/minőség kompromisszumok normálisak. Átlátszóság igénye esetén alakítsd át a HEIC-et PNG-re.",
   "related_links": [
     {
-      "title": "HEIC átalakítása PNG-ra"
+      "title": "HEIC átalakítása PNG-ra",
+  "url": "/hu/convert/heic-to-png"
 
-      "url": "/hu/convert/heic-to-png"
+    },
+  {
+      "title": "JPG átalakítása HEIC-re",
+  "url": "/hu/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "JPG átalakítása HEIC-re"
+    },
+  {
+      "title": "HEIC átalakítása WebP-re",
+  "url": "/hu/convert/heic-to-webp"
 
-      "url": "/hu/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "HEIC átalakítása WebP-re"
-
-      "url": "/hu/convert/heic-to-webp"
-
-    }
-    {
-      "title": "JPG tömörítése Online"
-
-      "url": "/hu/compress/jpg"
+    },
+  {
+      "title": "JPG tömörítése Online",
+  "url": "/hu/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Minden jog fenntartva.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC to JPG Átalakító - Ingyenes és Online"
-
-      "url": "https://miconvert.com/hu/convert/heic-to-jpg"
-
-      "description": "Ingyenes online eszköz HEIC képek JPG-ra való átalakítására, magas minőséggel és univerzális kompatibilitással."
-
-      "inLanguage": "hu"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEIC to JPG Átalakító - Ingyenes és Online",
+  "url": "https://miconvert.com/hu/convert/heic-to-jpg",
+  "description": "Ingyenes online eszköz HEIC képek JPG-ra való átalakítására, magas minőséggel és univerzális kompatibilitással.",
+  "inLanguage": "hu",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Főoldal",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Főoldal"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Átalakítás",
+  "item": "https://miconvert.com/hu/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Átalakítás"
-
-          "item": "https://miconvert.com/hu/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC to JPG"
-
-          "item": "https://miconvert.com/hu/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC to JPG",
+  "item": "https://miconvert.com/hu/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEIC to JPG Átalakító",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/hu/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Magas minőségű JPEG kimenet",
+  "Progresszív kódolás",
+  "Gyors feldolgozás"
 
-      "name": "HEIC to JPG Átalakító"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hu/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Magas minőségű JPEG kimenet"
-
-        "Progresszív kódolás"
-
-        "Gyors feldolgozás"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ingyenes ez a HEIC to JPG átalakító?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
+          "@type": "Question",
+  "name": "Ingyenes ez a HEIC to JPG átalakító?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Igen, az átalakító teljesen ingyenes, rejtett költségek vagy előfizetések nélkül."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milyen fájlméretek támogatottak?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Legfeljebb 16 MB méretű képeket tölthetsz fel fájlonként."
+        },
+  {
+          "@type": "Question",
+  "name": "Milyen fájlméretek támogatottak?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Legfeljebb 16 MB méretű képeket tölthetsz fel fájlonként."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Veszítek minőséget, amikor HEIC-et JPG-ra alakítok?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "A JPG veszteséges tömörítést használ, de finomhangolt beállításokat alkalmazunk a látható veszteség minimalizálására."
+        },
+  {
+          "@type": "Question",
+  "name": "Veszítek minőséget, amikor HEIC-et JPG-ra alakítok?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "A JPG veszteséges tömörítést használ, de finomhangolt beállításokat alkalmazunk a látható veszteség minimalizálására."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hogyan alakítsuk át a HEIC-et JPG-ra"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hogyan alakítsuk át a HEIC-et JPG-ra",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kattints a HEIC feltöltése gombra, és válaszd ki a fájlodat."
 
-          "text": "Kattints a HEIC feltöltése gombra, és válaszd ki a fájlodat."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Várj a feldolgozás befejezésére."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kattints a JPG letöltése gombra az eredmény mentéséhez."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Várj a feldolgozás befejezésére."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kattints a JPG letöltése gombra az eredmény mentéséhez."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEIC to JPG Átalakító"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,220 +1,160 @@
 {
-  "lang": "en"
-
-  "lang_name": "English"
-
-  "title": "WEBP to AVIF Converter - Free & Online | miconvert.com"
-
-  "sub_title": "Convert WebP images to AVIF online with excellent compression, high quality, and no watermarks."
-
-  "hint": "Upload your WebP image to start converting..."
-
-  "btn_download": "Convert to AVIF"
-
-  "btn_paste": "Upload WebP"
-
-  "btn_clear": "Clear"
-
-  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg"
-
+  "lang": "en",
+  "lang_name": "English",
+  "title": "WEBP to AVIF Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to AVIF online with excellent compression, high quality, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to AVIF",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-avif.jpg",
   "head": {
-    "title": "Convert WebP to AVIF Online - Free WebP to AVIF Converter | miconvert.com"
+    "title": "Convert WebP to AVIF Online - Free WebP to AVIF Converter | miconvert.com",
+  "description": "Convert WebP to AVIF online with excellent compression and high quality. Free, fast, and secure WebP to AVIF converter tool.",
+  "keywords": "webp to avif, convert webp to avif, free webp to avif, online avif converter, image conversion",
+  "canonical": "https://miconvert.com/en/convert/webp-to-avif",
+  "og_title": "WebP to AVIF Converter - Free & Online",
+  "og_description": "Convert WebP images into AVIF format with excellent compression and quality. 100% free, fast, and secure.",
+  "og_url": "https://miconvert.com/en/convert/webp-to-avif",
+  "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
 
-    "description": "Convert WebP to AVIF online with excellent compression and high quality. Free, fast, and secure WebP to AVIF converter tool."
-
-    "keywords": "webp to avif, convert webp to avif, free webp to avif, online avif converter, image conversion"
-
-    "canonical": "https://miconvert.com/en/convert/webp-to-avif"
-
-    "og_title": "WebP to AVIF Converter - Free & Online"
-
-    "og_description": "Convert WebP images into AVIF format with excellent compression and quality. 100% free, fast, and secure."
-
-    "og_url": "https://miconvert.com/en/convert/webp-to-avif"
-
-    "og_image": "https://miconvert.com/images/webp-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convert WebP to AVIF Online"
+    "title": "Convert WebP to AVIF Online",
+  "description": "Free and fast WebP to AVIF converter with excellent compression and quality. Works instantly on any device — no signup required."
 
-    "description": "Free and fast WebP to AVIF converter with excellent compression and quality. Works instantly on any device — no signup required."
-
-  }
-  "description": "<p>Upgrade your images by converting <strong>WebP to AVIF</strong>. AVIF (AV1 Image File Format) is a next-gen format that often produces smaller files at similar visual quality. Our tool preserves transparency and converts color to sRGB for web consistency.</p><p><em>Note:</em> If your WebP is animated, only the first frame is converted to a static AVIF image.</p>"
-
+  },
+  "description": "<p>Upgrade your images by converting <strong>WebP to AVIF</strong>. AVIF (AV1 Image File Format) is a next-gen format that often produces smaller files at similar visual quality. Our tool preserves transparency and converts color to sRGB for web consistency.</p><p><em>Note:</em> If your WebP is animated, only the first frame is converted to a static AVIF image.</p>",
   "converter": {
-    "type": "webp-to-avif"
+    "type": "webp-to-avif",
+  "title": "WebP to AVIF Converter",
+  "description": "Convert WebP images to AVIF with high quality and excellent compression.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "WebP",
+  "outputFormat": "AVIF",
+  "allowedTypes": ["image/webp"],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 60,
+  "features": [
+      "High-quality AVIF conversion",
+  "Excellent compression",
+  "Transparency preserved",
+  "Free online tool"
 
-    "title": "WebP to AVIF Converter"
-
-    "description": "Convert WebP images to AVIF with high quality and excellent compression."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": ["image/webp"]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
-
-    "outputExtension": ".avif"
-
-    "quality": 60
-    "features": [
-      "High-quality AVIF conversion"
-
-      "Excellent compression"
-
-      "Transparency preserved"
-
-      "Free online tool"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "cqLevel": 30
-        "speed": 6
-        "subsample": "4:2:0"
-
-        "lossless": false
-        "alphaQuality": 100
+        "cqLevel": 30,
+  "speed": 6,
+  "subsample": "4:2:0",
+  "lossless": false,
+  "alphaQuality": 100
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "WebP to AVIF Conversion Complete"
+    "title": "WebP to AVIF Conversion Complete",
+  "back_button": "Back to Converter",
+  "convert_another": "Convert Another WebP",
+  "quick_conversions": "Quick Conversions:"
 
-    "back_button": "Back to Converter"
-
-    "convert_another": "Convert Another WebP"
-
-    "quick_conversions": "Quick Conversions:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Why Convert WebP to AVIF?"
+      "title": "Why Convert WebP to AVIF?",
+  "description": "<p>AVIF is built on the AV1 codec and targets superior efficiency:</p><ul><li><strong>Smaller Files:</strong> Frequently 15–30% smaller than comparable WebP at similar quality.</li><li><strong>High Quality:</strong> Better detail retention at lower bitrates.</li><li><strong>Modern & Future-proof:</strong> Broad and growing browser support.</li><li><strong>Transparency:</strong> Full alpha channel support like WebP.</li></ul>"
 
-      "description": "<p>AVIF is built on the AV1 codec and targets superior efficiency:</p><ul><li><strong>Smaller Files:</strong> Frequently 15–30% smaller than comparable WebP at similar quality.</li><li><strong>High Quality:</strong> Better detail retention at lower bitrates.</li><li><strong>Modern & Future-proof:</strong> Broad and growing browser support.</li><li><strong>Transparency:</strong> Full alpha channel support like WebP.</li></ul>"
+    },
+  {
+      "title": "How to Convert WebP to AVIF Online",
+  "description": "<ol><li>Click <em>Upload WebP</em> and select your file.</li><li>Wait for processing and optimization.</li><li>Click <em>Download AVIF</em> to save the result.</li></ol><p>Defaults balance fidelity and size for the modern web.</p>"
 
-    }
-    {
-      "title": "How to Convert WebP to AVIF Online"
+    },
+  {
+      "title": "AVIF vs WebP Comparison",
+  "description": "<ul><li><strong>Compression:</strong> AVIF generally achieves smaller files at similar quality.</li><li><strong>Transparency:</strong> Both support alpha channels.</li><li><strong>Animation:</strong> This tool outputs <em>static</em> AVIF (first frame only).</li><li><strong>Browser Support:</strong> AVIF is supported by current versions of major browsers.</li></ul>"
 
-      "description": "<ol><li>Click <em>Upload WebP</em> and select your file.</li><li>Wait for processing and optimization.</li><li>Click <em>Download AVIF</em> to save the result.</li></ol><p>Defaults balance fidelity and size for the modern web.</p>"
+    },
+  {
+      "title": "Supported Limits & Formats",
+  "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animation:</strong> First frame only</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs WebP Comparison"
-
-      "description": "<ul><li><strong>Compression:</strong> AVIF generally achieves smaller files at similar quality.</li><li><strong>Transparency:</strong> Both support alpha channels.</li><li><strong>Animation:</strong> This tool outputs <em>static</em> AVIF (first frame only).</li><li><strong>Browser Support:</strong> AVIF is supported by current versions of major browsers.</li></ul>"
-
-    }
-    {
-      "title": "Supported Limits & Formats"
-
-      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, <code>image/avif</code>)</li><li><strong>Animation:</strong> First frame only</li></ul>"
-
-    }
-    {
-      "title": "Troubleshooting"
-
-      "description": "<ul><li><strong>Colors look different:</strong> Output is converted to sRGB for web consistency.</li><li><strong>File still large:</strong> Try a higher <em>cqLevel</em> (e.g., 34–36) or downscale before converting.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Troubleshooting",
+  "description": "<ul><li><strong>Colors look different:</strong> Output is converted to sRGB for web consistency.</li><li><strong>File still large:</strong> Try a higher <em>cqLevel</em> (e.g., 34–36) or downscale before converting.</li><li><strong>Upload fails:</strong> Ensure <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
-    { "question": "Is this WebP to AVIF converter free?", "answer": "Yes, it’s completely free with no watermarks or hidden charges." }
-    { "question": "Will AVIF work on all browsers?", "answer": "AVIF is supported by modern browsers (Chrome, Firefox, Safari, Edge). Provide WebP or JPG fallbacks for older versions." }
-    { "question": "How much smaller are AVIF files vs WebP?", "answer": "Results vary by image, but AVIF is often 15–30% smaller at similar visual quality." }
-    { "question": "Does it keep transparency?", "answer": "Yes. If your WebP has an alpha channel, the AVIF output preserves it." }
-    { "question": "Do you support animated WebP?", "answer": "Animated WebP is converted as a static image using the first frame." }
-    { "question": "What file sizes are supported?", "answer": "You can upload images up to 16&nbsp;MB per file." }
-  ]
-  "note": "AVIF is highly efficient but may render a bit slower on very old devices. For maximum compatibility, keep your original WebP as a fallback."
-
+    { "question": "Is this WebP to AVIF converter free?", "answer": "Yes, it’s completely free with no watermarks or hidden charges." },
+  { "question": "Will AVIF work on all browsers?", "answer": "AVIF is supported by modern browsers (Chrome, Firefox, Safari, Edge). Provide WebP or JPG fallbacks for older versions." },
+  { "question": "How much smaller are AVIF files vs WebP?", "answer": "Results vary by image, but AVIF is often 15–30% smaller at similar visual quality." },
+  { "question": "Does it keep transparency?", "answer": "Yes. If your WebP has an alpha channel, the AVIF output preserves it." },
+  { "question": "Do you support animated WebP?", "answer": "Animated WebP is converted as a static image using the first frame." },
+  { "question": "What file sizes are supported?", "answer": "You can upload images up to 16&nbsp;MB per file." }
+  ],
+  "note": "AVIF is highly efficient but may render a bit slower on very old devices. For maximum compatibility, keep your original WebP as a fallback.",
   "related_links": [
-    { "title": "Convert AVIF to WebP", "url": "/en/convert/avif-to-webp" }
-    { "title": "Convert PNG to AVIF", "url": "/en/convert/png-to-avif" }
-    { "title": "Convert JPG to AVIF", "url": "/en/convert/jpg-to-avif" }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
-
+    { "title": "Convert AVIF to WebP", "url": "/en/convert/avif-to-webp" },
+  { "title": "Convert PNG to AVIF", "url": "/en/convert/png-to-avif" },
+  { "title": "Convert JPG to AVIF", "url": "/en/convert/jpg-to-avif" }
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP to AVIF Converter - Free & Online"
-
-      "url": "https://miconvert.com/en/convert/webp-to-avif"
-
-      "description": "Free online tool to convert WebP images to AVIF with excellent compression and high quality."
-
-      "inLanguage": "en"
-
-      "image": "https://miconvert.com/images/webp-to-avif.jpg"
-
-      "isPartOf": { "@type": "WebSite", "name": "miconvert.com", "url": "https://miconvert.com/" }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://miconvert.com/" }
-        { "@type": "ListItem", "position": 2, "name": "Convert", "item": "https://miconvert.com/en/convert/" }
-        { "@type": "ListItem", "position": 3, "name": "WebP to AVIF", "item": "https://miconvert.com/en/convert/webp-to-avif" }
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "WebP to AVIF Converter - Free & Online",
+  "url": "https://miconvert.com/en/convert/webp-to-avif",
+  "description": "Free online tool to convert WebP images to AVIF with excellent compression and high quality.",
+  "inLanguage": "en",
+  "image": "https://miconvert.com/images/webp-to-avif.jpg",
+  "isPartOf": { "@type": "WebSite", "name": "miconvert.com", "url": "https://miconvert.com/" }
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://miconvert.com/" },
+  { "@type": "ListItem", "position": 2, "name": "Convert", "item": "https://miconvert.com/en/convert/" },
+  { "@type": "ListItem", "position": 3, "name": "WebP to AVIF", "item": "https://miconvert.com/en/convert/webp-to-avif" }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "WebP to AVIF Converter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/webp-to-avif",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "featureList": ["Transparency preserved", "Excellent compression", "Fast processing"],
+  "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
 
-      "@context": "https://schema.org"
-
-      "name": "WebP to AVIF Converter"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/webp-to-avif"
-
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
-      "featureList": ["Transparency preserved", "Excellent compression", "Fast processing"]
-      "screenshot": "https://miconvert.com/images/webp-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
-        { "@type": "Question", "name": "Is this WebP to AVIF converter free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it’s completely free with no watermarks or hidden charges." } }
-        { "@type": "Question", "name": "How much smaller are AVIF files vs WebP?", "acceptedAnswer": { "@type": "Answer", "text": "AVIF is often 15–30% smaller than comparable WebP at similar quality, but it depends on the image." } }
-        { "@type": "Question", "name": "Do you support animated WebP?", "acceptedAnswer": { "@type": "Answer", "text": "Animated WebP is converted as a static image (first frame only)." } }
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+        { "@type": "Question", "name": "Is this WebP to AVIF converter free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it’s completely free with no watermarks or hidden charges." } },
+  { "@type": "Question", "name": "How much smaller are AVIF files vs WebP?", "acceptedAnswer": { "@type": "Answer", "text": "AVIF is often 15–30% smaller than comparable WebP at similar quality, but it depends on the image." } },
+  { "@type": "Question", "name": "Do you support animated WebP?", "acceptedAnswer": { "@type": "Answer", "text": "Animated WebP is converted as a static image (first frame only)." } }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "How to convert WebP to AVIF"
-
-      "step": [
-        { "@type": "HowToStep", "text": "Click Upload WebP and select your file." }
-        { "@type": "HowToStep", "text": "Wait for processing and optimization to complete." }
-        { "@type": "HowToStep", "text": "Click Download AVIF to save your image." }
-      ]
-      "tool": ["WebP to AVIF Converter"]
-      "totalTime": "PT10S"
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "How to convert WebP to AVIF",
+  "step": [
+        { "@type": "HowToStep", "text": "Click Upload WebP and select your file." },
+  { "@type": "HowToStep", "text": "Wait for processing and optimization to complete." },
+  { "@type": "HowToStep", "text": "Click Download AVIF to save your image." }
+      ],
+  "tool": ["WebP to AVIF Converter"],
+  "totalTime": "PT10S"
 
     }
   ]

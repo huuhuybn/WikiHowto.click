@@ -1,376 +1,282 @@
 {
-  "lang": "ms"
-
-  "lang_name": "Melayu"
-
-  "title": "Penukar JPG ke PNG - Percuma & Dalam Talian | miconvert.com"
-
-  "sub_title": "Tukar imej JPG kepada format PNG dalam talian dengan ketelusan, kualiti tinggi, dan tanpa tanda air."
-
-  "hint": "Muat naik imej JPG anda untuk mula menukar..."
-
-  "btn_download": "Tukar kepada PNG"
-
-  "btn_paste": "Muat naik JPG"
-
-  "btn_clear": "Bersihkan"
-
+  "lang": "ms",
+  "lang_name": "Melayu",
+  "title": "Penukar JPG ke PNG - Percuma & Dalam Talian | miconvert.com",
+  "sub_title": "Tukar imej JPG kepada format PNG dalam talian dengan ketelusan, kualiti tinggi, dan tanpa tanda air.",
+  "hint": "Muat naik imej JPG anda untuk mula menukar...",
+  "btn_download": "Tukar kepada PNG",
+  "btn_paste": "Muat naik JPG",
+  "btn_clear": "Bersihkan",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Mencari cara yang cepat dan boleh dipercayai untuk menukar <strong>JPG kepada PNG</strong>? Penukar JPG ke PNG dalam talian percuma kami membantu anda mengubah imej anda menjadi fail PNG berkualiti tinggi dengan serta-merta. Sama ada anda memerlukan ketelusan, pemampatan tanpa kehilangan, atau keserasian untuk projek reka bentuk, alat ini adalah penyelesaian yang sempurna. Ia berfungsi terus dalam pelayar anda, tidak memerlukan pendaftaran, dan menjaga fail anda selamat.</p><p>Format PNG adalah ideal untuk penggunaan profesional, terutamanya apabila bekerja dengan grafik, logo, atau imej yang memerlukan latar belakang telus. Tidak seperti JPG, yang menggunakan pemampatan kehilangan dan boleh mengurangkan kualiti imej, PNG mengekalkan butiran tajam dan menyokong ketelusan alpha. Jika anda seorang pereka, pelajar, atau profesional perniagaan, alat kami memberikan anda cara yang mudah untuk meningkatkan aliran kerja anda.</p>"
-
+  },
+  "description": "<p>Mencari cara yang cepat dan boleh dipercayai untuk menukar <strong>JPG kepada PNG</strong>? Penukar JPG ke PNG dalam talian percuma kami membantu anda mengubah imej anda menjadi fail PNG berkualiti tinggi dengan serta-merta. Sama ada anda memerlukan ketelusan, pemampatan tanpa kehilangan, atau keserasian untuk projek reka bentuk, alat ini adalah penyelesaian yang sempurna. Ia berfungsi terus dalam pelayar anda, tidak memerlukan pendaftaran, dan menjaga fail anda selamat.</p><p>Format PNG adalah ideal untuk penggunaan profesional, terutamanya apabila bekerja dengan grafik, logo, atau imej yang memerlukan latar belakang telus. Tidak seperti JPG, yang menggunakan pemampatan kehilangan dan boleh mengurangkan kualiti imej, PNG mengekalkan butiran tajam dan menyokong ketelusan alpha. Jika anda seorang pereka, pelajar, atau profesional perniagaan, alat kami memberikan anda cara yang mudah untuk meningkatkan aliran kerja anda.</p>",
   "head": {
-    "title": "Tukar JPG kepada PNG Dalam Talian - Penukar JPG ke PNG Percuma | miconvert.com"
+    "title": "Tukar JPG kepada PNG Dalam Talian - Penukar JPG ke PNG Percuma | miconvert.com",
+  "description": "Tukar JPG kepada PNG dalam talian dengan sokongan ketelusan, kualiti tinggi, dan tanpa tanda air. Alat penukar JPG ke PNG percuma, cepat, dan selamat.",
+  "keywords": "jpg kepada png, tukar jpg kepada png, percuma jpg kepada png, penukar jpg dalam talian, png dengan ketelusan",
+  "canonical": "https://miconvert.com/ms/convert/jpg-to-png",
+  "og_title": "Penukar JPG ke PNG - Percuma & Dalam Talian",
+  "og_description": "Tukar imej JPG kepada format PNG dengan ketelusan dan kualiti tanpa kehilangan. 100% percuma, cepat, dan selamat.",
+  "og_url": "https://miconvert.com/ms/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Tukar JPG kepada PNG dalam talian dengan sokongan ketelusan, kualiti tinggi, dan tanpa tanda air. Alat penukar JPG ke PNG percuma, cepat, dan selamat."
-
-    "keywords": "jpg kepada png, tukar jpg kepada png, percuma jpg kepada png, penukar jpg dalam talian, png dengan ketelusan"
-
-    "canonical": "https://miconvert.com/ms/convert/jpg-to-png"
-
-    "og_title": "Penukar JPG ke PNG - Percuma & Dalam Talian"
-
-    "og_description": "Tukar imej JPG kepada format PNG dengan ketelusan dan kualiti tanpa kehilangan. 100% percuma, cepat, dan selamat."
-
-    "og_url": "https://miconvert.com/ms/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Tukar JPG kepada PNG Dalam Talian"
+    "title": "Tukar JPG kepada PNG Dalam Talian",
+  "description": "Penukar JPG ke PNG percuma dan cepat dengan sokongan ketelusan dan kualiti tanpa kehilangan. Berfungsi serta-merta pada mana-mana peranti, tanpa pendaftaran diperlukan."
 
-    "description": "Penukar JPG ke PNG percuma dan cepat dengan sokongan ketelusan dan kualiti tanpa kehilangan. Berfungsi serta-merta pada mana-mana peranti, tanpa pendaftaran diperlukan."
-
-  }
+  },
   "h2": [
     {
-      "title": "Mengapa Tukar JPG kepada PNG?"
+      "title": "Mengapa Tukar JPG kepada PNG?",
+  "description": "<p>Walaupun JPG bagus untuk saiz fail kecil dan perkongsian dalam talian, ia datang dengan pemampatan yang mengurangkan kualiti. PNG, sebaliknya, adalah format tanpa kehilangan yang mengekalkan butiran dan menyokong ketelusan. Berikut adalah sebab-sebab utama untuk menggunakan penukar JPG ke PNG kami:</p><ul><li><strong>Ketelusan:</strong> Cipta logo, ikon, dan imej tanpa latar belakang.</li><li><strong>Penyuntingan yang Lebih Baik:</strong> Ideal untuk perisian reka bentuk seperti Photoshop, Illustrator, dan Figma.</li><li><strong>Kualiti Tinggi:</strong> Kekalkan ketajaman, kejelasan teks, dan butiran grafik.</li><li><strong>Keserasian Pelbagai Platform:</strong> PNG disokong secara meluas di seluruh pelayar, aplikasi, dan sistem pengendalian.</li></ul>"
 
-      "description": "<p>Walaupun JPG bagus untuk saiz fail kecil dan perkongsian dalam talian, ia datang dengan pemampatan yang mengurangkan kualiti. PNG, sebaliknya, adalah format tanpa kehilangan yang mengekalkan butiran dan menyokong ketelusan. Berikut adalah sebab-sebab utama untuk menggunakan penukar JPG ke PNG kami:</p><ul><li><strong>Ketelusan:</strong> Cipta logo, ikon, dan imej tanpa latar belakang.</li><li><strong>Penyuntingan yang Lebih Baik:</strong> Ideal untuk perisian reka bentuk seperti Photoshop, Illustrator, dan Figma.</li><li><strong>Kualiti Tinggi:</strong> Kekalkan ketajaman, kejelasan teks, dan butiran grafik.</li><li><strong>Keserasian Pelbagai Platform:</strong> PNG disokong secara meluas di seluruh pelayar, aplikasi, dan sistem pengendalian.</li></ul>"
+    },
+  {
+      "title": "JPG vs PNG: Perbezaan Utama",
+  "description": "<table class='table-compare'><thead><tr><th>Ciri</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Pemampatan</td><td>Hilang (lebih kecil tetapi kehilangan kualiti)</td><td>Tanpa kehilangan (lebih besar tetapi tajam)</td></tr><tr><td>Ketelusan</td><td>Tidak</td><td>Ya (saluran alpha)</td></tr><tr><td>Terbaik untuk</td><td>Foto, perkongsian sosial</td><td>Logo, UI, teks, grafik</td></tr><tr><td>Penyuntingan</td><td>Penyimpanan berulang mengurangkan kualiti</td><td>Stabil di seluruh penyuntingan</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG vs PNG: Perbezaan Utama"
+    },
+  {
+      "title": "Cara Menukar JPG kepada PNG Dalam Talian",
+  "description": "<p>Menukar JPG kepada PNG dengan alat kami adalah mudah dan hanya mengambil beberapa saat:</p><ol><li>Klik pada <em>Muat naik JPG</em> dan pilih fail anda.</li><li>Tunggu pemprosesan selesai.</li><li>Klik <em>Muatturun PNG</em> untuk mendapatkan fail baru anda.</li></ol><p>Tiada pengetahuan teknikal diperlukan — semuanya berlaku dalam pelayar anda.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Ciri</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Pemampatan</td><td>Hilang (lebih kecil tetapi kehilangan kualiti)</td><td>Tanpa kehilangan (lebih besar tetapi tajam)</td></tr><tr><td>Ketelusan</td><td>Tidak</td><td>Ya (saluran alpha)</td></tr><tr><td>Terbaik untuk</td><td>Foto, perkongsian sosial</td><td>Logo, UI, teks, grafik</td></tr><tr><td>Penyuntingan</td><td>Penyimpanan berulang mengurangkan kualiti</td><td>Stabil di seluruh penyuntingan</td></tr></tbody></table>"
+    },
+  {
+      "title": "Had & Format yang Disokong",
+  "description": "<ul><li><strong>Jenis input yang diterima:</strong> image/jpeg, image/jpg</li><li><strong>Saiz fail maksimum:</strong> sehingga 16 MB setiap fail</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kualiti:</strong> PNG tanpa kehilangan dengan tahap pemampatan yang boleh disesuaikan</li></ul>"
 
-    }
-    {
-      "title": "Cara Menukar JPG kepada PNG Dalam Talian"
+    },
+  {
+      "title": "Petua untuk Hasil yang Lebih Baik",
+  "description": "<ul><li><strong>Gunakan JPG Resolusi Tinggi:</strong> Semakin tinggi resolusi JPG anda, semakin baik PNG anda akan kelihatan.</li><li><strong>Perlu Ketelusan?</strong> Jika JPG anda mempunyai latar belakang, gunakan <a href='/ms/effect/remove-background'>Penghapus Latar Belakang</a> kami terlebih dahulu.</li><li><strong>Optimumkan Saiz Fail:</strong> Selepas penukaran, gunakan <a href='/ms/edit/compress-image'>Pemampat Imej</a> kami untuk mengurangkan saiz PNG sambil mengekalkan kualiti.</li><li><strong>Untuk Web:</strong> Pertimbangkan untuk menukar PNG kepada <a href='/ms/convert/png-to-webp'>WebP</a> untuk pemuatan yang lebih cepat.</li></ul>"
 
-      "description": "<p>Menukar JPG kepada PNG dengan alat kami adalah mudah dan hanya mengambil beberapa saat:</p><ol><li>Klik pada <em>Muat naik JPG</em> dan pilih fail anda.</li><li>Tunggu pemprosesan selesai.</li><li>Klik <em>Muatturun PNG</em> untuk mendapatkan fail baru anda.</li></ol><p>Tiada pengetahuan teknikal diperlukan — semuanya berlaku dalam pelayar anda.</p>"
+    },
+  {
+      "title": "Penyelesaian Masalah",
+  "description": "<ul><li><strong>Muat naik gagal:</strong> Pastikan fail anda adalah JPG/JPEG dan ≤ 16 MB.</li><li><strong>Tiada ketelusan:</strong> PNG mengekalkan ketelusan tetapi tidak dapat mengekstrak dari foto rata — keluarkan latar belakang terlebih dahulu.</li><li><strong>Output PNG besar:</strong> Gunakan <a href='/ms/edit/compress-image'>Pemampat Imej</a> atau beralih kepada <a href='/ms/convert/png-to-webp'>WebP</a>.</li></ul>"
 
-    }
-    {
-      "title": "Had & Format yang Disokong"
+    },
+  {
+      "title": "Ciri-ciri Penukar JPG ke PNG Kami",
+  "description": "<ul><li>Percuma tanpa tanda air</li><li>Pemprosesan cepat dalam pelayar anda</li><li>Pengendalian selamat — tiada akaun diperlukan</li><li>UI bersih, mesra mudah alih</li></ul>"
 
-      "description": "<ul><li><strong>Jenis input yang diterima:</strong> image/jpeg, image/jpg</li><li><strong>Saiz fail maksimum:</strong> sehingga 16 MB setiap fail</li><li><strong>Output:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kualiti:</strong> PNG tanpa kehilangan dengan tahap pemampatan yang boleh disesuaikan</li></ul>"
-
-    }
-    {
-      "title": "Petua untuk Hasil yang Lebih Baik"
-
-      "description": "<ul><li><strong>Gunakan JPG Resolusi Tinggi:</strong> Semakin tinggi resolusi JPG anda, semakin baik PNG anda akan kelihatan.</li><li><strong>Perlu Ketelusan?</strong> Jika JPG anda mempunyai latar belakang, gunakan <a href='/ms/effect/remove-background'>Penghapus Latar Belakang</a> kami terlebih dahulu.</li><li><strong>Optimumkan Saiz Fail:</strong> Selepas penukaran, gunakan <a href='/ms/edit/compress-image'>Pemampat Imej</a> kami untuk mengurangkan saiz PNG sambil mengekalkan kualiti.</li><li><strong>Untuk Web:</strong> Pertimbangkan untuk menukar PNG kepada <a href='/ms/convert/png-to-webp'>WebP</a> untuk pemuatan yang lebih cepat.</li></ul>"
-
-    }
-    {
-      "title": "Penyelesaian Masalah"
-
-      "description": "<ul><li><strong>Muat naik gagal:</strong> Pastikan fail anda adalah JPG/JPEG dan ≤ 16 MB.</li><li><strong>Tiada ketelusan:</strong> PNG mengekalkan ketelusan tetapi tidak dapat mengekstrak dari foto rata — keluarkan latar belakang terlebih dahulu.</li><li><strong>Output PNG besar:</strong> Gunakan <a href='/ms/edit/compress-image'>Pemampat Imej</a> atau beralih kepada <a href='/ms/convert/png-to-webp'>WebP</a>.</li></ul>"
-
-    }
-    {
-      "title": "Ciri-ciri Penukar JPG ke PNG Kami"
-
-      "description": "<ul><li>Percuma tanpa tanda air</li><li>Pemprosesan cepat dalam pelayar anda</li><li>Pengendalian selamat — tiada akaun diperlukan</li><li>UI bersih, mesra mudah alih</li></ul>"
+    },
+  {
+      "title": "Penukar Berkaitan",
+  "description": "<ul class='related-links'><li><a href='/ms/convert/png-to-jpg'>PNG kepada JPG</a></li><li><a href='/ms/convert/jpg-to-webp'>JPG kepada WebP</a></li><li><a href='/ms/convert/png-to-webp'>PNG kepada WebP</a></li><li><a href='/ms/convert/webp-to-png'>WebP kepada PNG</a></li></ul>"
 
     }
-    {
-      "title": "Penukar Berkaitan"
-
-      "description": "<ul class='related-links'><li><a href='/ms/convert/png-to-jpg'>PNG kepada JPG</a></li><li><a href='/ms/convert/jpg-to-webp'>JPG kepada WebP</a></li><li><a href='/ms/convert/png-to-webp'>PNG kepada WebP</a></li><li><a href='/ms/convert/webp-to-png'>WebP kepada PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Adakah penukar JPG kepada PNG ini percuma?"
+      "question": "Adakah penukar JPG kepada PNG ini percuma?",
+  "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
 
-      "answer": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+    },
+  {
+      "question": "Adakah PNG menyokong ketelusan?",
+  "answer": "Ya, PNG membenarkan latar belakang telus, menjadikannya sempurna untuk logo, ikon, dan reka bentuk profesional."
 
-    }
-    {
-      "question": "Adakah PNG menyokong ketelusan?"
+    },
+  {
+      "question": "Adakah imej akan kehilangan kualiti semasa penukaran?",
+  "answer": "Tidak. Tidak seperti JPG, PNG menggunakan pemampatan tanpa kehilangan, jadi imej yang ditukar mengekalkan kualiti asalnya."
 
-      "answer": "Ya, PNG membenarkan latar belakang telus, menjadikannya sempurna untuk logo, ikon, dan reka bentuk profesional."
+    },
+  {
+      "question": "Saiz fail apa yang disokong?",
+  "answer": "Anda boleh memuat naik imej sehingga 16 MB setiap fail. Jika perlu, mampatkan JPG besar sebelum menukar."
 
-    }
-    {
-      "question": "Adakah imej akan kehilangan kualiti semasa penukaran?"
+    },
+  {
+      "question": "Adakah fail saya selamat?",
+  "answer": "Fail anda diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
 
-      "answer": "Tidak. Tidak seperti JPG, PNG menggunakan pemampatan tanpa kehilangan, jadi imej yang ditukar mengekalkan kualiti asalnya."
+    },
+  {
+      "question": "Bolehkah saya menukar beberapa JPG sekaligus?",
+  "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulangi proses atau gunakan alat kumpulan."
 
-    }
-    {
-      "question": "Saiz fail apa yang disokong?"
-
-      "answer": "Anda boleh memuat naik imej sehingga 16 MB setiap fail. Jika perlu, mampatkan JPG besar sebelum menukar."
-
-    }
-    {
-      "question": "Adakah fail saya selamat?"
-
-      "answer": "Fail anda diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
-
-    }
-    {
-      "question": "Bolehkah saya menukar beberapa JPG sekaligus?"
-
-      "answer": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulangi proses atau gunakan alat kumpulan."
-
-    }
-    {
-      "question": "Bolehkah saya menggunakan alat ini di telefon saya?"
-
-      "answer": "Sudah tentu. Penukar ini dioptimumkan untuk peranti mudah alih dan berfungsi pada pelayar iOS dan Android."
+    },
+  {
+      "question": "Bolehkah saya menggunakan alat ini di telefon saya?",
+  "answer": "Sudah tentu. Penukar ini dioptimumkan untuk peranti mudah alih dan berfungsi pada pelayar iOS dan Android."
 
     }
-  ]
-  "note": "Penafian: Kualiti penukaran bergantung pada resolusi fail input. Sentiasa simpan salinan fail asal anda sebelum menyunting atau menukar."
-
-  "footer": "© 2019 - 2025 miconvert.com. Semua hak terpelihara."
-
+  ],
+  "note": "Penafian: Kualiti penukaran bergantung pada resolusi fail input. Sentiasa simpan salinan fail asal anda sebelum menyunting atau menukar.",
+  "footer": "© 2019 - 2025 miconvert.com. Semua hak terpelihara.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Penukar JPG ke PNG - Percuma & Dalam Talian"
-
-      "url": "https://miconvert.com/ms/convert/jpg-to-png"
-
-      "description": "Alat dalam talian percuma untuk menukar imej JPG kepada PNG dengan sokongan ketelusan dan kualiti tanpa kehilangan."
-
-      "inLanguage": "ms"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Penukar JPG ke PNG - Percuma & Dalam Talian",
+  "url": "https://miconvert.com/ms/convert/jpg-to-png",
+  "description": "Alat dalam talian percuma untuk menukar imej JPG kepada PNG dengan sokongan ketelusan dan kualiti tanpa kehilangan.",
+  "inLanguage": "ms",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Laman Utama",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Laman Utama"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Tukar",
+  "item": "https://miconvert.com/ms/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Tukar"
-
-          "item": "https://miconvert.com/ms/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG kepada PNG"
-
-          "item": "https://miconvert.com/ms/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG kepada PNG",
+  "item": "https://miconvert.com/ms/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Penukar JPG ke PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ms/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Output PNG tanpa kehilangan",
+  "Sokongan ketelusan",
+  "Pemprosesan pelayar yang cepat"
 
-      "name": "Penukar JPG ke PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ms/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Output PNG tanpa kehilangan"
-
-        "Sokongan ketelusan"
-
-        "Pemprosesan pelayar yang cepat"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Adakah penukar JPG kepada PNG ini percuma?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
+          "@type": "Question",
+  "name": "Adakah penukar JPG kepada PNG ini percuma?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ya, penukar ini adalah sepenuhnya percuma tanpa caj tersembunyi atau langganan."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Adakah PNG menyokong ketelusan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ya, PNG membenarkan latar belakang telus, menjadikannya sempurna untuk logo, ikon, dan reka bentuk profesional."
+        },
+  {
+          "@type": "Question",
+  "name": "Adakah PNG menyokong ketelusan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ya, PNG membenarkan latar belakang telus, menjadikannya sempurna untuk logo, ikon, dan reka bentuk profesional."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Adakah imej akan kehilangan kualiti semasa penukaran?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tidak. Tidak seperti JPG, PNG menggunakan pemampatan tanpa kehilangan, jadi imej yang ditukar mengekalkan kualiti asalnya."
+        },
+  {
+          "@type": "Question",
+  "name": "Adakah imej akan kehilangan kualiti semasa penukaran?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tidak. Tidak seperti JPG, PNG menggunakan pemampatan tanpa kehilangan, jadi imej yang ditukar mengekalkan kualiti asalnya."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Saiz fail apa yang disokong?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail. Jika perlu, mampatkan JPG besar sebelum menukar."
+        },
+  {
+          "@type": "Question",
+  "name": "Saiz fail apa yang disokong?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Anda boleh memuat naik imej sehingga 16 MB setiap fail. Jika perlu, mampatkan JPG besar sebelum menukar."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Adakah fail saya selamat?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Fail anda diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
+        },
+  {
+          "@type": "Question",
+  "name": "Adakah fail saya selamat?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Fail anda diproses secara automatik dan tidak disimpan lebih lama daripada yang diperlukan untuk penukaran."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Bolehkah saya menukar beberapa JPG sekaligus?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulangi proses atau gunakan alat kumpulan."
+        },
+  {
+          "@type": "Question",
+  "name": "Bolehkah saya menukar beberapa JPG sekaligus?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Halaman ini menukar satu fail pada satu masa. Untuk keperluan besar, ulangi proses atau gunakan alat kumpulan."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Cara menukar JPG kepada PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Cara menukar JPG kepada PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klik Muat naik JPG dan pilih imej anda."
 
-          "text": "Klik Muat naik JPG dan pilih imej anda."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Tunggu pemprosesan selesai."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klik Muatturun PNG untuk menyimpan hasil."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Tunggu pemprosesan selesai."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klik Muatturun PNG untuk menyimpan hasil."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Penukar JPG ke PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

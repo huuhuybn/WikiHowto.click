@@ -1,364 +1,276 @@
 {
-  "lang": "et"
-
-  "lang_name": "Eesti"
-
-  "title": "BMP to PNG Converter - Tasuta ja Veebis | miconvert.com"
-
-  "sub_title": "Muuda BMP pilte PNG formaati veebis, toetades läbipaistvust, paremat tihendust ja ilma veemärkideta."
-
-  "hint": "Laadi oma BMP pilt üles, et alustada konverteerimist..."
-
-  "btn_download": "Muuda PNG-ks"
-
-  "btn_paste": "Laadi BMP üles"
-
-  "btn_clear": "Kustuta"
-
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "BMP to PNG Converter - Tasuta ja Veebis | miconvert.com",
+  "sub_title": "Muuda BMP pilte PNG formaati veebis, toetades läbipaistvust, paremat tihendust ja ilma veemärkideta.",
+  "hint": "Laadi oma BMP pilt üles, et alustada konverteerimist...",
+  "btn_download": "Muuda PNG-ks",
+  "btn_paste": "Laadi BMP üles",
+  "btn_clear": "Kustuta",
   "converter": {
-    "type": "bmp-to-png"
-
-    "inputFormat": "BMP"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "bmp-to-png",
+  "inputFormat": "BMP",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/bmp"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Muuda oma <strong>BMP PNG-ks</strong> parema tihenduse ja veebis ühilduvuse jaoks! Meie tasuta veebipõhine BMP PNG konverter aitab sul muuta suured BMP failid optimeeritud PNG formaati. BMP (Bitmap) failid on sageli tihendamata ja võivad olla väga suured, muutes need veebikasutuseks või jagamiseks sobimatuks. PNG pakub suurepärast tihendust, säilitades samas kvaliteedi, ideaalne kaasaegsetele rakendustele ja veebilehtedele.</p><p>PNG pakub kaotusteta tihendust, läbipaistvuse tuge ja universaalset ühilduvust kõigis platvormides. Meie konverter optimeerib sinu BMP pilte, säilitades visuaalsed detailid. Olenemata sellest, kas töötad ekraanipiltide, graafika või veebipiltidega, see tööriist vähendab faili suurust ilma kvaliteeti kaotamata.</p>"
-
+  },
+  "description": "<p>Muuda oma <strong>BMP PNG-ks</strong> parema tihenduse ja veebis ühilduvuse jaoks! Meie tasuta veebipõhine BMP PNG konverter aitab sul muuta suured BMP failid optimeeritud PNG formaati. BMP (Bitmap) failid on sageli tihendamata ja võivad olla väga suured, muutes need veebikasutuseks või jagamiseks sobimatuks. PNG pakub suurepärast tihendust, säilitades samas kvaliteedi, ideaalne kaasaegsetele rakendustele ja veebilehtedele.</p><p>PNG pakub kaotusteta tihendust, läbipaistvuse tuge ja universaalset ühilduvust kõigis platvormides. Meie konverter optimeerib sinu BMP pilte, säilitades visuaalsed detailid. Olenemata sellest, kas töötad ekraanipiltide, graafika või veebipiltidega, see tööriist vähendab faili suurust ilma kvaliteeti kaotamata.</p>",
   "head": {
-    "title": "Muuda BMP PNG-ks Veebis - Tasuta BMP PNG Konverter | miconvert.com"
+    "title": "Muuda BMP PNG-ks Veebis - Tasuta BMP PNG Konverter | miconvert.com",
+  "description": "Muuda BMP PNG-ks veebis parema tihenduse, läbipaistvuse toe ja ilma veemärkideta. Tasuta, kiire ja turvaline BMP PNG konverter.",
+  "keywords": "bmp png-ks, muuda bmp png-ks, tasuta bmp png-ks, veebipõhine bmp konverter, bitmap png-ks",
+  "canonical": "https://miconvert.com/et/convert/bmp-to-png",
+  "og_title": "BMP to PNG Converter - Tasuta ja Veebis",
+  "og_description": "Muuda BMP pilte PNG formaati parema tihenduse ja läbipaistvuse toega. 100% tasuta, kiire ja turvaline.",
+  "og_url": "https://miconvert.com/et/convert/bmp-to-png",
+  "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
 
-    "description": "Muuda BMP PNG-ks veebis parema tihenduse, läbipaistvuse toe ja ilma veemärkideta. Tasuta, kiire ja turvaline BMP PNG konverter."
-
-    "keywords": "bmp png-ks, muuda bmp png-ks, tasuta bmp png-ks, veebipõhine bmp konverter, bitmap png-ks"
-
-    "canonical": "https://miconvert.com/et/convert/bmp-to-png"
-
-    "og_title": "BMP to PNG Converter - Tasuta ja Veebis"
-
-    "og_description": "Muuda BMP pilte PNG formaati parema tihenduse ja läbipaistvuse toega. 100% tasuta, kiire ja turvaline."
-
-    "og_url": "https://miconvert.com/et/convert/bmp-to-png"
-
-    "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuda BMP PNG-ks Veebis"
+    "title": "Muuda BMP PNG-ks Veebis",
+  "description": "Tasuta ja kiire BMP PNG konverter parema tihenduse ja läbipaistvuse toega. Töötab koheselt igas seadmes, registreerimist ei nõuta."
 
-    "description": "Tasuta ja kiire BMP PNG konverter parema tihenduse ja läbipaistvuse toega. Töötab koheselt igas seadmes, registreerimist ei nõuta."
-
-  }
+  },
   "h2": [
     {
-      "title": "Miks muuda BMP PNG-ks?"
+      "title": "Miks muuda BMP PNG-ks?",
+  "description": "<p>BMP failid on tavaliselt tihendamata ja äärmiselt suured, samas kui PNG pakub kaasaegseid funktsioone ja efektiivset suurust. BMP PNG-ks konverteerimise eelised:</p><ul><li><strong>Parem tihendus:</strong> PNG failid on tavaliselt 50–90% väiksemad kui BMP.</li><li><strong>Läbipaistvuse tugi:</strong> PNG toetab alfa läbipaistvust puhaste servade jaoks.</li><li><strong>Veebis ühilduvus:</strong> Ideaalne veebilehtede ja veebijagamise jaoks.</li><li><strong>Universaalne tugi:</strong> Töötab kõigil kaasaegsetel seadmetel ja rakendustel.</li><li><strong>Kvaliteedi säilitamine:</strong> Kaotusteta tihendus säilitab detailid.</li></ul>"
 
-      "description": "<p>BMP failid on tavaliselt tihendamata ja äärmiselt suured, samas kui PNG pakub kaasaegseid funktsioone ja efektiivset suurust. BMP PNG-ks konverteerimise eelised:</p><ul><li><strong>Parem tihendus:</strong> PNG failid on tavaliselt 50–90% väiksemad kui BMP.</li><li><strong>Läbipaistvuse tugi:</strong> PNG toetab alfa läbipaistvust puhaste servade jaoks.</li><li><strong>Veebis ühilduvus:</strong> Ideaalne veebilehtede ja veebijagamise jaoks.</li><li><strong>Universaalne tugi:</strong> Töötab kõigil kaasaegsetel seadmetel ja rakendustel.</li><li><strong>Kvaliteedi säilitamine:</strong> Kaotusteta tihendus säilitab detailid.</li></ul>"
+    },
+  {
+      "title": "Kuidas muuda BMP PNG-ks Veebis",
+  "description": "<p>Lihtsalt mõned sammud:</p><ol><li>Kliki <em>Laadi BMP üles</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi PNG</em>, et salvestada oma optimeeritud fail.</li></ol><p>Tehnilisi oskusi ei nõuta — tihendus on automaatselt seadistatud.</p>"
 
-    }
-    {
-      "title": "Kuidas muuda BMP PNG-ks Veebis"
+    },
+  {
+      "title": "BMP vs PNG Võrdlus",
+  "description": "<ul><li><strong>Faili suurus:</strong> PNG on tavaliselt 50–90% väiksem kui BMP.</li><li><strong>Tihendus:</strong> PNG on kaotusteta; BMP on üldiselt tihendamata.</li><li><strong>Läbipaistvus:</strong> PNG toetab läbipaistvust; BMP tavaliselt ei toeta.</li><li><strong>Veebikasutus:</strong> PNG on veebisõbralik; BMP ei ole soovitatav.</li><li><strong>Kvaliteet:</strong> Mõlemad võivad olla kõrge kvaliteediga; PNG saavutab selle väiksema suurusega.</li></ul>"
 
-      "description": "<p>Lihtsalt mõned sammud:</p><ol><li>Kliki <em>Laadi BMP üles</em> ja vali oma fail.</li><li>Oota töötlemist ja optimeerimist.</li><li>Kliki <em>Laadi PNG</em>, et salvestada oma optimeeritud fail.</li></ol><p>Tehnilisi oskusi ei nõuta — tihendus on automaatselt seadistatud.</p>"
+    },
+  {
+      "title": "Toetatud piirangud ja formaadid",
+  "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16 MB faili kohta</li><li><strong>Väljund:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Tihendustase:</strong> 0–9 (vaikimisi 6)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs PNG Võrdlus"
+    },
+  {
+      "title": "Meie BMP PNG Konverteri omadused",
+  "description": "<ul><li>100% tasuta, ilma veemärkideta</li><li>Automaatne tihenduse optimeerimine</li><li>Kvaliteet säilitatud (kaotusteta PNG)</li><li>Turvaline, brauseripõhine töövoog</li><li>Mobiilisõbralik (iOS, Android)</li></ul>"
 
-      "description": "<ul><li><strong>Faili suurus:</strong> PNG on tavaliselt 50–90% väiksem kui BMP.</li><li><strong>Tihendus:</strong> PNG on kaotusteta; BMP on üldiselt tihendamata.</li><li><strong>Läbipaistvus:</strong> PNG toetab läbipaistvust; BMP tavaliselt ei toeta.</li><li><strong>Veebikasutus:</strong> PNG on veebisõbralik; BMP ei ole soovitatav.</li><li><strong>Kvaliteet:</strong> Mõlemad võivad olla kõrge kvaliteediga; PNG saavutab selle väiksema suurusega.</li></ul>"
+    },
+  {
+      "title": "Mis on BMP?",
+  "description": "<p>BMP (Bitmap) on lihtne rasterpildi formaat, sageli tihendamata — mis toob kaasa väga suured failid. See on ühilduv, kuid ebaefektiivne veebis.</p>"
 
-    }
-    {
-      "title": "Toetatud piirangud ja formaadid"
+    },
+  {
+      "title": "Mis on PNG?",
+  "description": "<p>PNG (Portable Network Graphics) on kaotusteta raster formaat, millel on läbipaistvuse tugi, laialdaselt kasutatav UI, graafika, ekraanipiltide ja veebis.</p>"
 
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> BMP (<code>image/bmp</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16 MB faili kohta</li><li><strong>Väljund:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Tihendustase:</strong> 0–9 (vaikimisi 6)</li></ul>"
+    },
+  {
+      "title": "Probleemide lahendamine",
+  "description": "<ul><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et fail on BMP ja ≤ 16 MB.</li><li><strong>PNG on endiselt suur:</strong> Proovi madalamat tihendustaset või kasuta meie <a href='/et/edit/compress-image'>Pildi Tihendajat</a>.</li><li><strong>Läbipaistvus vajalik:</strong> PNG toetab läbipaistvust, kuid kui sinu BMP-l on tahke taust, eemalda see esmalt <a href='/et/effect/remove-background'>Tausta Eemaldaja</a> abil.</li></ul>"
 
-    }
-    {
-      "title": "Meie BMP PNG Konverteri omadused"
-
-      "description": "<ul><li>100% tasuta, ilma veemärkideta</li><li>Automaatne tihenduse optimeerimine</li><li>Kvaliteet säilitatud (kaotusteta PNG)</li><li>Turvaline, brauseripõhine töövoog</li><li>Mobiilisõbralik (iOS, Android)</li></ul>"
-
-    }
-    {
-      "title": "Mis on BMP?"
-
-      "description": "<p>BMP (Bitmap) on lihtne rasterpildi formaat, sageli tihendamata — mis toob kaasa väga suured failid. See on ühilduv, kuid ebaefektiivne veebis.</p>"
-
-    }
-    {
-      "title": "Mis on PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) on kaotusteta raster formaat, millel on läbipaistvuse tugi, laialdaselt kasutatav UI, graafika, ekraanipiltide ja veebis.</p>"
-
-    }
-    {
-      "title": "Probleemide lahendamine"
-
-      "description": "<ul><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et fail on BMP ja ≤ 16 MB.</li><li><strong>PNG on endiselt suur:</strong> Proovi madalamat tihendustaset või kasuta meie <a href='/et/edit/compress-image'>Pildi Tihendajat</a>.</li><li><strong>Läbipaistvus vajalik:</strong> PNG toetab läbipaistvust, kuid kui sinu BMP-l on tahke taust, eemalda see esmalt <a href='/et/effect/remove-background'>Tausta Eemaldaja</a> abil.</li></ul>"
+    },
+  {
+      "title": "Kasutusjuhud: Millal muuda BMP PNG-ks",
+  "description": "<ul><li><strong>Veebilaadimised</strong> väiksema suurusega.</li><li><strong>Graafika ja logod</strong>, mis vajavad läbipaistvaid taustu.</li><li><strong>Salvestuse optimeerimine</strong> ilma kvaliteedi kaotuseta.</li><li><strong>Platvormidevaheline jagamine</strong> ja arhiveerimine.</li></ul>"
 
     }
-    {
-      "title": "Kasutusjuhud: Millal muuda BMP PNG-ks"
-
-      "description": "<ul><li><strong>Veebilaadimised</strong> väiksema suurusega.</li><li><strong>Graafika ja logod</strong>, mis vajavad läbipaistvaid taustu.</li><li><strong>Salvestuse optimeerimine</strong> ilma kvaliteedi kaotuseta.</li><li><strong>Platvormidevaheline jagamine</strong> ja arhiveerimine.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Kas see BMP PNG konverter on tasuta?"
+      "question": "Kas see BMP PNG konverter on tasuta?",
+  "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
-      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+  {
+      "question": "Kas ma kaotan kvaliteedi, kui muudan BMP PNG-ks?",
+  "answer": "Ei. PNG kasutab kaotusteta tihendust, seega ei kaota sa kvaliteeti konverteerimise käigus."
 
-    }
-    {
-      "question": "Kas ma kaotan kvaliteedi, kui muudan BMP PNG-ks?"
+    },
+  {
+      "question": "Kui palju väiksemaks mu fail saab?",
+  "answer": "PNG failid on tavaliselt 50–90% väiksemad kui BMP, säilitades samas sama visuaalse kvaliteedi."
 
-      "answer": "Ei. PNG kasutab kaotusteta tihendust, seega ei kaota sa kvaliteeti konverteerimise käigus."
+    },
+  {
+      "question": "Milliseid faili suurusi toetatakse?",
+  "answer": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
 
-    }
-    {
-      "question": "Kui palju väiksemaks mu fail saab?"
+    },
+  {
+      "question": "Kas mu failid on turvalised?",
+  "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
 
-      "answer": "PNG failid on tavaliselt 50–90% väiksemad kui BMP, säilitades samas sama visuaalse kvaliteedi."
+    },
+  {
+      "question": "Kas ma saan korraga konverteerida mitut BMP faili?",
+  "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
 
-    }
-    {
-      "question": "Milliseid faili suurusi toetatakse?"
-
-      "answer": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
-
-    }
-    {
-      "question": "Kas mu failid on turvalised?"
-
-      "answer": "Failid töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
-
-    }
-    {
-      "question": "Kas ma saan korraga konverteerida mitut BMP faili?"
-
-      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
-
-    }
-    {
-      "question": "Millal peaksin kasutama PNG-d BMP asemel?"
-
-      "answer": "Kasutage PNG-d veebikasutuseks, väiksemate failisuuruste jaoks ja kui vajate läbipaistvust. BMP on peamiselt töövoogude jaoks, mis nõuavad tihendamata pilte."
+    },
+  {
+      "question": "Millal peaksin kasutama PNG-d BMP asemel?",
+  "answer": "Kasutage PNG-d veebikasutuseks, väiksemate failisuuruste jaoks ja kui vajate läbipaistvust. BMP on peamiselt töövoogude jaoks, mis nõuavad tihendamata pilte."
 
     }
-  ]
-  "note": "PNG konverteerimine vähendab oluliselt faili suurust, säilitades kvaliteedi — ideaalne veebiks ja jagamiseks."
-
+  ],
+  "note": "PNG konverteerimine vähendab oluliselt faili suurust, säilitades kvaliteedi — ideaalne veebiks ja jagamiseks.",
   "related_links": [
     {
-      "title": "Muuda BMP JPG-ks"
+      "title": "Muuda BMP JPG-ks",
+  "url": "/et/convert/bmp-to-jpg"
 
-      "url": "/et/convert/bmp-to-jpg"
+    },
+  {
+      "title": "Muuda JPG PNG-ks",
+  "url": "/et/convert/jpg-to-png"
 
-    }
-    {
-      "title": "Muuda JPG PNG-ks"
-
-      "url": "/et/convert/jpg-to-png"
-
-    }
-    {
-      "title": "Muuda PNG BMP-ks"
-
-      "url": "/et/convert/png-to-bmp"
+    },
+  {
+      "title": "Muuda PNG BMP-ks",
+  "url": "/et/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "BMP to PNG Converter - Tasuta ja Veebis"
-
-      "url": "https://miconvert.com/et/convert/bmp-to-png"
-
-      "description": "Tasuta veebitööriist BMP piltide konverteerimiseks PNG-ks kaotusteta tihenduse ja läbipaistvuse toega."
-
-      "inLanguage": "et"
-
-      "image": "https://miconvert.com/images/bmp-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "BMP to PNG Converter - Tasuta ja Veebis",
+  "url": "https://miconvert.com/et/convert/bmp-to-png",
+  "description": "Tasuta veebitööriist BMP piltide konverteerimiseks PNG-ks kaotusteta tihenduse ja läbipaistvuse toega.",
+  "inLanguage": "et",
+  "image": "https://miconvert.com/images/bmp-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Avaleht",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Avaleht"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muuda",
+  "item": "https://miconvert.com/et/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muuda"
-
-          "item": "https://miconvert.com/et/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "BMP PNG-ks"
-
-          "item": "https://miconvert.com/et/convert/bmp-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "BMP PNG-ks",
+  "item": "https://miconvert.com/et/convert/bmp-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "BMP to PNG Converter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/et/convert/bmp-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Kaotusteta PNG väljund",
+  "Läbipaistvuse tugi",
+  "Kiire brauseri töötlemine"
 
-      "name": "BMP to PNG Converter"
+      ],
+  "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/et/convert/bmp-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Kaotusteta PNG väljund"
-
-        "Läbipaistvuse tugi"
-
-        "Kiire brauseri töötlemine"
-
-      ]
-      "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Kas see BMP PNG konverter on tasuta?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          "@type": "Question",
+  "name": "Kas see BMP PNG konverter on tasuta?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kui palju väiksemaks mu fail saab?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "PNG failid on tavaliselt 50–90% väiksemad kui BMP, säilitades samas sama visuaalse kvaliteedi."
+        },
+  {
+          "@type": "Question",
+  "name": "Kui palju väiksemaks mu fail saab?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "PNG failid on tavaliselt 50–90% väiksemad kui BMP, säilitades samas sama visuaalse kvaliteedi."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milliseid faili suurusi toetatakse?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+        },
+  {
+          "@type": "Question",
+  "name": "Milliseid faili suurusi toetatakse?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuidas muuda BMP PNG-ks"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuidas muuda BMP PNG-ks",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliki Laadi BMP üles ja vali oma fail."
 
-          "text": "Kliki Laadi BMP üles ja vali oma fail."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Oota töötlemise ja optimeerimise lõpetamist."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliki Laadi PNG, et salvestada tulemus."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Oota töötlemise ja optimeerimise lõpetamist."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliki Laadi PNG, et salvestada tulemus."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "BMP PNG Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

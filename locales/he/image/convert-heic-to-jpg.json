@@ -1,373 +1,283 @@
 {
-  "lang": "he"
-
-  "lang_name": "עברית"
-
-  "title": "ממיר HEIC ל-JPG - חינם ואונליין | miconvert.com"
-
-  "sub_title": "המיר תמונות HEIC לפורמט JPG אונליין באיכות גבוהה, תאימות טובה יותר וללא סימני מים."
-
-  "hint": "העלה את תמונת ה-HEIC שלך כדי להתחיל להמיר..."
-
-  "btn_download": "המר ל-JPG"
-
-  "btn_paste": "העלה HEIC"
-
-  "btn_clear": "נקה"
-
+  "lang": "he",
+  "lang_name": "עברית",
+  "title": "ממיר HEIC ל-JPG - חינם ואונליין | miconvert.com",
+  "sub_title": "המיר תמונות HEIC לפורמט JPG אונליין באיכות גבוהה, תאימות טובה יותר וללא סימני מים.",
+  "hint": "העלה את תמונת ה-HEIC שלך כדי להתחיל להמיר...",
+  "btn_download": "המר ל-JPG",
+  "btn_paste": "העלה HEIC",
+  "btn_clear": "נקה",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>המיר את ה<strong>HEIC ל-JPG</strong> שלך לתאימות אוניברסלית! הממיר החינמי שלנו אונליין הופך את התמונות שלך מאייפון/אייפד ל-JPG הנתמך באופן נרחב. HEIC (מבוסס על תקן HEIF) מציע דחיסה מצוינת, אך הרבה אפליקציות ופלטפורמות עדיין מצפות ל-JPG. בין אם אתה צריך לשתף עם משתמשי אנדרואיד/ווינדוס, להעלות לרשתות חברתיות, או להבטיח תאימות עם תוכנה ישנה יותר, הכלי הזה מקל על כך.</p><p>JPG נתמך כמעט בכל מקום. ההמרה מהירה ושומרת על איכות ויזואלית עם הגדרות JPEG מותאמות — אידיאלי לצלמים, יוצרים, וכל מי שצריך תאימות מקסימלית.</p>"
-
+  },
+  "description": "<p>המיר את ה<strong>HEIC ל-JPG</strong> שלך לתאימות אוניברסלית! הממיר החינמי שלנו אונליין הופך את התמונות שלך מאייפון/אייפד ל-JPG הנתמך באופן נרחב. HEIC (מבוסס על תקן HEIF) מציע דחיסה מצוינת, אך הרבה אפליקציות ופלטפורמות עדיין מצפות ל-JPG. בין אם אתה צריך לשתף עם משתמשי אנדרואיד/ווינדוס, להעלות לרשתות חברתיות, או להבטיח תאימות עם תוכנה ישנה יותר, הכלי הזה מקל על כך.</p><p>JPG נתמך כמעט בכל מקום. ההמרה מהירה ושומרת על איכות ויזואלית עם הגדרות JPEG מותאמות — אידיאלי לצלמים, יוצרים, וכל מי שצריך תאימות מקסימלית.</p>",
   "head": {
-    "title": "המר HEIC ל-JPG אונליין - ממיר HEIC ל-JPG חינם | miconvert.com"
+    "title": "המר HEIC ל-JPG אונליין - ממיר HEIC ל-JPG חינם | miconvert.com",
+  "description": "המר HEIC ל-JPG אונליין באיכות גבוהה, תאימות טובה יותר וללא סימני מים. ממיר HEIC ל-JPG חינם, מהיר ובטוח.",
+  "keywords": "heic ל jpg, המרת heic ל jpg, heic ל jpg חינם, ממיר heic אונליין, תמונות אייפון",
+  "canonical": "https://miconvert.com/en/convert/heic-to-jpg",
+  "og_title": "ממיר HEIC ל-JPG - חינם ואונליין",
+  "og_description": "המר תמונות HEIC לפורמט JPG באיכות גבוהה ובתאימות טובה יותר. 100% חינם, מהיר ובטוח.",
+  "og_url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "המר HEIC ל-JPG אונליין באיכות גבוהה, תאימות טובה יותר וללא סימני מים. ממיר HEIC ל-JPG חינם, מהיר ובטוח."
-
-    "keywords": "heic ל jpg, המרת heic ל jpg, heic ל jpg חינם, ממיר heic אונליין, תמונות אייפון"
-
-    "canonical": "https://miconvert.com/en/convert/heic-to-jpg"
-
-    "og_title": "ממיר HEIC ל-JPG - חינם ואונליין"
-
-    "og_description": "המר תמונות HEIC לפורמט JPG באיכות גבוהה ובתאימות טובה יותר. 100% חינם, מהיר ובטוח."
-
-    "og_url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "המר HEIC ל-JPG אונליין"
+    "title": "המר HEIC ל-JPG אונליין",
+  "description": "ממיר HEIC ל-JPG חינם ומהיר עם איכות גבוהה ותאימות אוניברסלית. עובד מיד על כל מכשיר, ללא צורך בהרשמה."
 
-    "description": "ממיר HEIC ל-JPG חינם ומהיר עם איכות גבוהה ותאימות אוניברסלית. עובד מיד על כל מכשיר, ללא צורך בהרשמה."
-
-  }
+  },
   "h2": [
     {
-      "title": "למה להמיר HEIC ל-JPG?"
+      "title": "למה להמיר HEIC ל-JPG?",
+  "description": "<p>HEIC הוא יעיל, אך JPG מתקבל אוניברסלית. המיר כאשר אתה צריך:</p><ul><li><strong>תאימות אוניברסלית:</strong> JPG עובד על פני מכשירים, אפליקציות ופלטפורמות.</li><li><strong>שיתוף בין פלטפורמות:</strong> שלח תמונות למשתמשי אנדרואיד/ווינדוס ללא בעיות.</li><li><strong>העלאות חברתיות:</strong> רוב הפלטפורמות מעדיפות או דורשות JPG.</li><li><strong>תמיכה ישנה:</strong> אפליקציות ישנות לא קוראות HEIC בצורה אמינה.</li></ul>"
 
-      "description": "<p>HEIC הוא יעיל, אך JPG מתקבל אוניברסלית. המיר כאשר אתה צריך:</p><ul><li><strong>תאימות אוניברסלית:</strong> JPG עובד על פני מכשירים, אפליקציות ופלטפורמות.</li><li><strong>שיתוף בין פלטפורמות:</strong> שלח תמונות למשתמשי אנדרואיד/ווינדוס ללא בעיות.</li><li><strong>העלאות חברתיות:</strong> רוב הפלטפורמות מעדיפות או דורשות JPG.</li><li><strong>תמיכה ישנה:</strong> אפליקציות ישנות לא קוראות HEIC בצורה אמינה.</li></ul>"
+    },
+  {
+      "title": "איך להמיר HEIC ל-JPG אונליין",
+  "description": "<ol><li>לחץ על <em>העלה HEIC</em> ובחר את הקובץ שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד JPG</em> כדי לשמור את התוצאה.</li></ol><p>אין צעדים טכניים — האיכות מותאמת אוטומטית.</p>"
 
-    }
-    {
-      "title": "איך להמיר HEIC ל-JPG אונליין"
+    },
+  {
+      "title": "HEIC מול JPG: הבדלים מרכזיים",
+  "description": "<ul><li><strong>גודל קובץ:</strong> HEIC בדרך כלל קטן יותר מ-JPG באיכות דומה.</li><li><strong>תאימות:</strong> JPG יש תמיכה כמעט אוניברסלית.</li><li><strong>איכות:</strong> שניהם יכולים להיראות מצוין; JPG משתמש בדחיסה עם אובדן.</li><li><strong>אקוסיסטמה:</strong> HEIC נפוץ על אפל; JPG נמצא בכל מקום.</li></ul>"
 
-      "description": "<ol><li>לחץ על <em>העלה HEIC</em> ובחר את הקובץ שלך.</li><li>חכה לעיבוד.</li><li>לחץ על <em>הורד JPG</em> כדי לשמור את התוצאה.</li></ol><p>אין צעדים טכניים — האיכות מותאמת אוטומטית.</p>"
+    },
+  {
+      "title": "מגבלות ופורמטים נתמכים",
+  "description": "<ul><li><strong>קלט מתקבל:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>הגדרות JPEG:</strong> איכות 90 (פרוגרסיבי, mozjpeg)</li></ul>"
 
-    }
-    {
-      "title": "HEIC מול JPG: הבדלים מרכזיים"
+    },
+  {
+      "title": "תכונות של ממיר HEIC ל-JPG שלנו",
+  "description": "<ul><li>100% חינם, ללא סימני מים</li><li>פלט JPEG באיכות גבוהה</li><li>ממשק ידידותי לנייד</li><li>זרימת עבודה פשוטה ומהירה</li></ul>"
 
-      "description": "<ul><li><strong>גודל קובץ:</strong> HEIC בדרך כלל קטן יותר מ-JPG באיכות דומה.</li><li><strong>תאימות:</strong> JPG יש תמיכה כמעט אוניברסלית.</li><li><strong>איכות:</strong> שניהם יכולים להיראות מצוין; JPG משתמש בדחיסה עם אובדן.</li><li><strong>אקוסיסטמה:</strong> HEIC נפוץ על אפל; JPG נמצא בכל מקום.</li></ul>"
+    },
+  {
+      "title": "מה זה HEIC?",
+  "description": "<p>HEIC הוא סיומת קובץ לתמונות המאוחסנות באמצעות תקן HEIF (פורמט קובץ תמונה בעל יעילות גבוהה) — בדרך כלל מקודד עם HEVC (H.265). הוא מציע דחיסה חזקה עם איכות טובה אך אינו נתמך אוניברסלית.</p>"
 
-    }
-    {
-      "title": "מגבלות ופורמטים נתמכים"
+    },
+  {
+      "title": "מה זה JPG?",
+  "description": "<p>JPG (JPEG) הוא פורמט התמונה הנתמך ביותר. הוא משתמש בדחיסה עם אובדן כדי לאזן בין איכות וגודל, מה שהופך אותו לאידיאלי לשיתוף ולשימוש ברשת.</p>"
 
-      "description": "<ul><li><strong>קלט מתקבל:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>גודל קובץ מקסימלי:</strong> עד 16&nbsp;MB לקובץ</li><li><strong>פלט:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>הגדרות JPEG:</strong> איכות 90 (פרוגרסיבי, mozjpeg)</li></ul>"
+    },
+  {
+      "title": "פתרון בעיות",
+  "description": "<ul><li><strong>העלאה נכשלת:</strong> ודא שהקובץ הוא HEIC/HEIF ו-≤ 16&nbsp;MB.</li><li><strong>תמונה מסובבת:</strong> חלק מהצופים מתעלמים מכיוון EXIF — סובב לאחר ההורדה אם צריך.</li><li><strong>שינוי צבע:</strong> תמונות עם טווח רחב עשויות להיראות שונות; המיר עם sRGB אם נדרש.</li><li><strong>תמונות חיות:</strong> רק ה-HEIC הסטטי מומר; הווידאו המשויך (MOV) אינו כלול.</li></ul>"
 
-    }
-    {
-      "title": "תכונות של ממיר HEIC ל-JPG שלנו"
-
-      "description": "<ul><li>100% חינם, ללא סימני מים</li><li>פלט JPEG באיכות גבוהה</li><li>ממשק ידידותי לנייד</li><li>זרימת עבודה פשוטה ומהירה</li></ul>"
-
-    }
-    {
-      "title": "מה זה HEIC?"
-
-      "description": "<p>HEIC הוא סיומת קובץ לתמונות המאוחסנות באמצעות תקן HEIF (פורמט קובץ תמונה בעל יעילות גבוהה) — בדרך כלל מקודד עם HEVC (H.265). הוא מציע דחיסה חזקה עם איכות טובה אך אינו נתמך אוניברסלית.</p>"
-
-    }
-    {
-      "title": "מה זה JPG?"
-
-      "description": "<p>JPG (JPEG) הוא פורמט התמונה הנתמך ביותר. הוא משתמש בדחיסה עם אובדן כדי לאזן בין איכות וגודל, מה שהופך אותו לאידיאלי לשיתוף ולשימוש ברשת.</p>"
-
-    }
-    {
-      "title": "פתרון בעיות"
-
-      "description": "<ul><li><strong>העלאה נכשלת:</strong> ודא שהקובץ הוא HEIC/HEIF ו-≤ 16&nbsp;MB.</li><li><strong>תמונה מסובבת:</strong> חלק מהצופים מתעלמים מכיוון EXIF — סובב לאחר ההורדה אם צריך.</li><li><strong>שינוי צבע:</strong> תמונות עם טווח רחב עשויות להיראות שונות; המיר עם sRGB אם נדרש.</li><li><strong>תמונות חיות:</strong> רק ה-HEIC הסטטי מומר; הווידאו המשויך (MOV) אינו כלול.</li></ul>"
+    },
+  {
+      "title": "מקרים לשימוש",
+  "description": "<ul><li><strong>שתף עם משתמשים שאינם של אפל</strong> ללא בעיות תאימות.</li><li><strong>העלה ל-CMS/חברתי</strong> שמצפים ל-JPG.</li><li><strong>הדפס וערוך</strong> באפליקציות שאינן קוראות HEIC.</li></ul>"
 
     }
-    {
-      "title": "מקרים לשימוש"
-
-      "description": "<ul><li><strong>שתף עם משתמשים שאינם של אפל</strong> ללא בעיות תאימות.</li><li><strong>העלה ל-CMS/חברתי</strong> שמצפים ל-JPG.</li><li><strong>הדפס וערוך</strong> באפליקציות שאינן קוראות HEIC.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "האם הממיר HEIC ל-JPG הזה חינם?"
+      "question": "האם הממיר HEIC ל-JPG הזה חינם?",
+  "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
 
-      "answer": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+    },
+  {
+      "question": "האם אני אאבד איכות כשאני ממיר HEIC ל-JPG?",
+  "answer": "JPG משתמש בדחיסה עם אובדן, כך שאובדן איכות קטן אפשרי. אנו משתמשים בהגדרות מותאמות (איכות ~90, פרוגרסיבי) כדי לשמור על כך מינימלי."
 
-    }
-    {
-      "question": "האם אני אאבד איכות כשאני ממיר HEIC ל-JPG?"
+    },
+  {
+      "question": "אילו מכשירים תומכים ב-HEIC?",
+  "answer": "HEIC/HEIF נפוץ במכשירי אפל. הרבה פלטפורמות אחרות עדיין מעדיפות JPG כברירת מחדל."
 
-      "answer": "JPG משתמש בדחיסה עם אובדן, כך שאובדן איכות קטן אפשרי. אנו משתמשים בהגדרות מותאמות (איכות ~90, פרוגרסיבי) כדי לשמור על כך מינימלי."
+    },
+  {
+      "question": "אילו גדלי קבצים נתמכים?",
+  "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
 
-    }
-    {
-      "question": "אילו מכשירים תומכים ב-HEIC?"
+    },
+  {
+      "question": "האם הקבצים שלי בטוחים?",
+  "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
 
-      "answer": "HEIC/HEIF נפוץ במכשירי אפל. הרבה פלטפורמות אחרות עדיין מעדיפות JPG כברירת מחדל."
+    },
+  {
+      "question": "האם אני יכול להמיר מספר קבצי HEIC בבת אחת?",
+  "answer": "העמוד הזה ממיר קובץ אחד בכל פעם. לצרכים בכמויות גדולות, חזור על התהליך או השתמש בכלי אצווה."
 
-    }
-    {
-      "question": "אילו גדלי קבצים נתמכים?"
-
-      "answer": "אתה יכול להעלות תמונות עד 16&nbsp;MB לקובץ."
-
-    }
-    {
-      "question": "האם הקבצים שלי בטוחים?"
-
-      "answer": "הקבצים מעובדים אוטומטית ואינם נשמרים יותר מהנדרש להמרה."
-
-    }
-    {
-      "question": "האם אני יכול להמיר מספר קבצי HEIC בבת אחת?"
-
-      "answer": "העמוד הזה ממיר קובץ אחד בכל פעם. לצרכים בכמויות גדולות, חזור על התהליך או השתמש בכלי אצווה."
-
-    }
-    {
-      "question": "מתי כדאי לי להשתמש ב-JPG במקום HEIC?"
-
-      "answer": "השתמש ב-JPG לתאימות מקסימלית, העלאות לפלטפורמות שאינן תומכות ב-HEIC, או כשאתה משתף עם מכשירים שאינם של אפל."
+    },
+  {
+      "question": "מתי כדאי לי להשתמש ב-JPG במקום HEIC?",
+  "answer": "השתמש ב-JPG לתאימות מקסימלית, העלאות לפלטפורמות שאינן תומכות ב-HEIC, או כשאתה משתף עם מכשירים שאינם של אפל."
 
     }
-  ]
-  "note": "JPG משתמש בדחיסה עם אובדן; פשרות קלות בגודל/איכות הן נורמליות. לצרכים של שקיפות, המיר HEIC ל-PNG במקום."
-
+  ],
+  "note": "JPG משתמש בדחיסה עם אובדן; פשרות קלות בגודל/איכות הן נורמליות. לצרכים של שקיפות, המיר HEIC ל-PNG במקום.",
   "related_links": [
     {
-      "title": "המר HEIC ל-PNG"
+      "title": "המר HEIC ל-PNG",
+  "url": "/en/convert/heic-to-png"
 
-      "url": "/en/convert/heic-to-png"
+    },
+  {
+      "title": "המר JPG ל-HEIC",
+  "url": "/en/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "המר JPG ל-HEIC"
+    },
+  {
+      "title": "המר HEIC ל-WebP",
+  "url": "/en/convert/heic-to-webp"
 
-      "url": "/en/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "המר HEIC ל-WebP"
-
-      "url": "/en/convert/heic-to-webp"
-
-    }
-    {
-      "title": "דחוס JPG אונליין"
-
-      "url": "/en/compress/jpg"
+    },
+  {
+      "title": "דחוס JPG אונליין",
+  "url": "/en/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. כל הזכויות שמורות.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "ממיר HEIC ל-JPG - חינם ואונליין"
-
-      "url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-      "description": "כלי אונליין חינם להמיר תמונות HEIC ל-JPG באיכות גבוהה ובתאימות אוניברסלית."
-
-      "inLanguage": "he"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "ממיר HEIC ל-JPG - חינם ואונליין",
+  "url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "description": "כלי אונליין חינם להמיר תמונות HEIC ל-JPG באיכות גבוהה ובתאימות אוניברסלית.",
+  "inLanguage": "he",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "בית",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "בית"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "המרה",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "המרה"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC ל-JPG"
-
-          "item": "https://miconvert.com/en/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC ל-JPG",
+  "item": "https://miconvert.com/en/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "ממיר HEIC ל-JPG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "פלט JPEG באיכות גבוהה",
+  "קידוד פרוגרסיבי",
+  "עיבוד מהיר"
 
-      "name": "ממיר HEIC ל-JPG"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "פלט JPEG באיכות גבוהה"
-
-        "קידוד פרוגרסיבי"
-
-        "עיבוד מהיר"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "האם הממיר HEIC ל-JPG הזה חינם?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
+          "@type": "Question",
+  "name": "האם הממיר HEIC ל-JPG הזה חינם?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "כן, הממיר הוא לחלוטין חינם ללא עלויות נסתרות או מנויים."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "אילו גדלי קבצים נתמכים?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "אתה יכול להעלות תמונות עד 16 MB לקובץ."
+        },
+  {
+          "@type": "Question",
+  "name": "אילו גדלי קבצים נתמכים?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "אתה יכול להעלות תמונות עד 16 MB לקובץ."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "האם אני אאבד איכות כשאני ממיר HEIC ל-JPG?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG משתמש בדחיסה עם אובדן, אך אנו משתמשים בהגדרות מותאמות כדי למזער אובדן נראה."
+        },
+  {
+          "@type": "Question",
+  "name": "האם אני אאבד איכות כשאני ממיר HEIC ל-JPG?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPG משתמש בדחיסה עם אובדן, אך אנו משתמשים בהגדרות מותאמות כדי למזער אובדן נראה."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "איך להמיר HEIC ל-JPG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "איך להמיר HEIC ל-JPG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "לחץ על העלה HEIC ובחר את הקובץ שלך."
 
-          "text": "לחץ על העלה HEIC ובחר את הקובץ שלך."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "חכה שהעיבוד יושלם."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "לחץ על הורד JPG כדי לשמור את התוצאה."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "חכה שהעיבוד יושלם."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "לחץ על הורד JPG כדי לשמור את התוצאה."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "ממיר HEIC ל-JPG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

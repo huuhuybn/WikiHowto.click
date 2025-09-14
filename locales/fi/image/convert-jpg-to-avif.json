@@ -1,377 +1,283 @@
 {
-  "lang": "fi"
-
-  "lang_name": "Suomi"
-
-  "title": "JPG to AVIF -muunnin - Ilmainen ja verkossa | miconvert.com"
-
-  "sub_title": "Muuta JPG-kuvat AVIF-muotoon verkossa erinomaisella pakkausasteella ja korkealla visuaalisella laadulla. Ei vesileimoja."
-
-  "hint": "Lataa JPG-kuvasi aloittaaksesi muuntamisen..."
-
-  "btn_download": "Muuta AVIF:ksi"
-
-  "btn_paste": "Lataa JPG"
-
-  "btn_clear": "Tyhjennä"
-
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "JPG to AVIF -muunnin - Ilmainen ja verkossa | miconvert.com",
+  "sub_title": "Muuta JPG-kuvat AVIF-muotoon verkossa erinomaisella pakkausasteella ja korkealla visuaalisella laadulla. Ei vesileimoja.",
+  "hint": "Lataa JPG-kuvasi aloittaaksesi muuntamisen...",
+  "btn_download": "Muuta AVIF:ksi",
+  "btn_paste": "Lataa JPG",
+  "btn_clear": "Tyhjennä",
   "head": {
-    "title": "Muuta JPG AVIF:ksi - Ilmainen verkossa oleva JPG AVIF -muunnin"
+    "title": "Muuta JPG AVIF:ksi - Ilmainen verkossa oleva JPG AVIF -muunnin",
+  "description": "Muuta JPG-kuvat AVIF-muotoon verkossa ilmaiseksi. Korkealaatuinen JPG AVIF -muunnos erinomaisella pakkausasteella.",
+  "keywords": "jpg avif:ksi, muunna jpg avif:ksi, ilmainen jpg avif, verkossa oleva avif-muunnin, kuvamuunnos",
+  "canonical": "https://miconvert.com/fi/convert/jpg-to-avif",
+  "og_title": "Muuta JPG AVIF:ksi - Ilmainen verkossa oleva JPG AVIF -muunnin",
+  "og_description": "Muuta JPG-kuvat AVIF-muotoon verkossa ilmaiseksi. Korkealaatuinen JPG AVIF -muunnos erinomaisella pakkausasteella.",
+  "og_url": "https://miconvert.com/fi/convert/jpg-to-avif",
+  "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-    "description": "Muuta JPG-kuvat AVIF-muotoon verkossa ilmaiseksi. Korkealaatuinen JPG AVIF -muunnos erinomaisella pakkausasteella."
-
-    "keywords": "jpg avif:ksi, muunna jpg avif:ksi, ilmainen jpg avif, verkossa oleva avif-muunnin, kuvamuunnos"
-
-    "canonical": "https://miconvert.com/fi/convert/jpg-to-avif"
-
-    "og_title": "Muuta JPG AVIF:ksi - Ilmainen verkossa oleva JPG AVIF -muunnin"
-
-    "og_description": "Muuta JPG-kuvat AVIF-muotoon verkossa ilmaiseksi. Korkealaatuinen JPG AVIF -muunnos erinomaisella pakkausasteella."
-
-    "og_url": "https://miconvert.com/fi/convert/jpg-to-avif"
-
-    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuta JPG AVIF:ksi verkossa"
+    "title": "Muuta JPG AVIF:ksi verkossa",
+  "description": "Ilmainen JPG AVIF -muunnin erinomaisella pakkausasteella ja laadulla. Toimii kaikilla laitteilla — ei rekisteröitymistä vaadita."
 
-    "description": "Ilmainen JPG AVIF -muunnin erinomaisella pakkausasteella ja laadulla. Toimii kaikilla laitteilla — ei rekisteröitymistä vaadita."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-avif"
-
-    "title": "JPG AVIF -muunnin"
-
-    "description": "Muuta JPG-kuvat AVIF:ksi modernilla pakkausasteella ja korkealla tarkkuudella."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "jpg-to-avif",
+  "title": "JPG AVIF -muunnin",
+  "description": "Muuta JPG-kuvat AVIF:ksi modernilla pakkausasteella ja korkealla tarkkuudella.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Korkealaatuinen AVIF-tulos",
+  "Erinomainen pakkausaste",
+  "Moderni verkkovalmiusmuoto",
+  "Ilmainen verkkotyökalu"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Korkealaatuinen AVIF-tulos"
-
-      "Erinomainen pakkausaste"
-
-      "Moderni verkkovalmiusmuoto"
-
-      "Ilmainen verkkotyökalu"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:2:0"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:2:0",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG AVIF -muunnos valmis"
+    "title": "JPG AVIF -muunnos valmis",
+  "back_button": "Takaisin muuntimeen",
+  "convert_another": "Muuta toinen JPG",
+  "quick_conversions": "Nopeat muunnokset:"
 
-    "back_button": "Takaisin muuntimeen"
-
-    "convert_another": "Muuta toinen JPG"
-
-    "quick_conversions": "Nopeat muunnokset:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miksi muuntaa JPG AVIF:ksi?"
+      "title": "Miksi muuntaa JPG AVIF:ksi?",
+  "description": "<p>AVIF (AV1 Image File Format) on seuraavan sukupolven muoto, joka tuottaa pienempiä tiedostoja samankaltaisella tai paremmalla laadulla kuin JPG:</p><ul><li><strong>Ylivoimainen pakkausaste:</strong> Usein 30–50% pienempi kuin JPG verrattavissa laadussa.</li><li><strong>Korkea tarkkuus:</strong> Parempi yksityiskohtien säilyminen ja vähemmän artefakteja alhaisilla bittinopeuksilla.</li><li><strong>Modernit ominaisuudet:</strong> Tukee läpinäkyvyyttä, HDR:ää ja laajaa väriavaruutta.</li><li><strong>Verkkosuorituskyky:</strong> Pienemmät kuvat = nopeammat sivut ja paremmat Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (AV1 Image File Format) on seuraavan sukupolven muoto, joka tuottaa pienempiä tiedostoja samankaltaisella tai paremmalla laadulla kuin JPG:</p><ul><li><strong>Ylivoimainen pakkausaste:</strong> Usein 30–50% pienempi kuin JPG verrattavissa laadussa.</li><li><strong>Korkea tarkkuus:</strong> Parempi yksityiskohtien säilyminen ja vähemmän artefakteja alhaisilla bittinopeuksilla.</li><li><strong>Modernit ominaisuudet:</strong> Tukee läpinäkyvyyttä, HDR:ää ja laajaa väriavaruutta.</li><li><strong>Verkkosuorituskyky:</strong> Pienemmät kuvat = nopeammat sivut ja paremmat Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Kuinka muuntaa JPG AVIF:ksi verkossa",
+  "description": "<ol><li>Napsauta <em>Lataa JPG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa AVIF</em> tallentaaksesi optimoidun kuvan.</li></ol><p>Muunnin tasapainottaa automaattisesti laadun ja koon tyypilliseen verkkokäyttöön.</p>"
 
-    }
-    {
-      "title": "Kuinka muuntaa JPG AVIF:ksi verkossa"
+    },
+  {
+      "title": "AVIF vs JPG: Tärkeimmät erot",
+  "description": "<table class='table-compare'><thead><tr><th>Ominaisuus</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Pakkaus</td><td>Häviävä (JPEG)</td><td>Edistynyt, tehokkaampi (AV1)</td></tr><tr><td>Tiedoston koko</td><td>Perus</td><td>≈30–50% pienempi samankaltaisessa laadussa</td></tr><tr><td>Läpinäkyvyys</td><td>Ei</td><td>Kyllä</td></tr><tr><td>HDR/laaja väriavaruus</td><td>Rajoitettu</td><td>Tukee</td></tr><tr><td>Selain tuki</td><td>Yleinen</td><td>Modernit selaimet (varatuki suositeltu)</td></tr></tbody></table>"
 
-      "description": "<ol><li>Napsauta <em>Lataa JPG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa AVIF</em> tallentaaksesi optimoidun kuvan.</li></ol><p>Muunnin tasapainottaa automaattisesti laadun ja koon tyypilliseen verkkokäyttöön.</p>"
+    },
+  {
+      "title": "Tuetut rajat ja muodot",
+  "description": "<ul><li><strong>Hyväksytty syöte:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Enimmäistiedostokoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tuotos:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Koodaus:</strong> Laatu ~80, nopeus 4 (tasapainotettu)</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs JPG: Tärkeimmät erot"
+    },
+  {
+      "title": "Vianetsintä",
+  "description": "<ul><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedosto on JPG/JPEG ja ≤ 16&nbsp;MB.</li><li><strong>Väri siirtyy:</strong> Muunna kuvat sRGB:ksi ennen lataamista johdonmukaisia verkkovärejä varten.</li><li><strong>Vanhemmat selaimet:</strong> Tarjoa JPG/WebP-varatuki <code>&lt;picture&gt;</code> -elementillä, jos AVIF ei ole tuettu.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Ominaisuus</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Pakkaus</td><td>Häviävä (JPEG)</td><td>Edistynyt, tehokkaampi (AV1)</td></tr><tr><td>Tiedoston koko</td><td>Perus</td><td>≈30–50% pienempi samankaltaisessa laadussa</td></tr><tr><td>Läpinäkyvyys</td><td>Ei</td><td>Kyllä</td></tr><tr><td>HDR/laaja väriavaruus</td><td>Rajoitettu</td><td>Tukee</td></tr><tr><td>Selain tuki</td><td>Yleinen</td><td>Modernit selaimet (varatuki suositeltu)</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Tuetut rajat ja muodot"
-
-      "description": "<ul><li><strong>Hyväksytty syöte:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Enimmäistiedostokoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tuotos:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Koodaus:</strong> Laatu ~80, nopeus 4 (tasapainotettu)</li></ul>"
-
-    }
-    {
-      "title": "Vianetsintä"
-
-      "description": "<ul><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedosto on JPG/JPEG ja ≤ 16&nbsp;MB.</li><li><strong>Väri siirtyy:</strong> Muunna kuvat sRGB:ksi ennen lataamista johdonmukaisia verkkovärejä varten.</li><li><strong>Vanhemmat selaimet:</strong> Tarjoa JPG/WebP-varatuki <code>&lt;picture&gt;</code> -elementillä, jos AVIF ei ole tuettu.</li></ul>"
-
-    }
-    {
-      "title": "Käyttötapaukset: Milloin muuntaa JPG AVIF:ksi"
-
-      "description": "<ul><li><strong>Verkon optimointi:</strong> Nopeuta sivuja ja paranna LCP:tä.</li><li><strong>Mobile-sovellukset:</strong> Vähennä kaistanleveyttä ja tallennustilaa.</li><li><strong>Suuret valokuvakirjastot:</strong> Säästä levytilaa ilman ilmeistä laadun heikkenemistä.</li></ul>"
+    },
+  {
+      "title": "Käyttötapaukset: Milloin muuntaa JPG AVIF:ksi",
+  "description": "<ul><li><strong>Verkon optimointi:</strong> Nopeuta sivuja ja paranna LCP:tä.</li><li><strong>Mobile-sovellukset:</strong> Vähennä kaistanleveyttä ja tallennustilaa.</li><li><strong>Suuret valokuvakirjastot:</strong> Säästä levytilaa ilman ilmeistä laadun heikkenemistä.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Onko tämä JPG AVIF -muunnin ilmainen?"
+      "question": "Onko tämä JPG AVIF -muunnin ilmainen?",
+  "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
 
-      "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+    },
+  {
+      "question": "Toimiiko AVIF kaikilla selaimilla?",
+  "answer": "AVIF on tuettu moderneilla selaimilla (Chrome, Firefox, Safari, Edge). Vanhemmille selaimille tarjoa JPG/WebP-varatuki."
 
-    }
-    {
-      "question": "Toimiiko AVIF kaikilla selaimilla?"
+    },
+  {
+      "question": "Kuinka paljon pienempiä AVIF-tiedostot ovat verrattuna JPG:hen?",
+  "answer": "Tyypillisesti 30–50% pienempiä samankaltaisessa havaittavassa laadussa, vaikka tulokset vaihtelevat kuvan mukaan."
 
-      "answer": "AVIF on tuettu moderneilla selaimilla (Chrome, Firefox, Safari, Edge). Vanhemmille selaimille tarjoa JPG/WebP-varatuki."
+    },
+  {
+      "question": "Mitä tiedostokokoja tuetaan?",
+  "answer": "Voit ladata kuvia, joiden koko on enintään 16&nbsp;MB per tiedosto."
 
-    }
-    {
-      "question": "Kuinka paljon pienempiä AVIF-tiedostot ovat verrattuna JPG:hen?"
+    },
+  {
+      "question": "Ovatko tiedostoni turvallisia?",
+  "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
 
-      "answer": "Tyypillisesti 30–50% pienempiä samankaltaisessa havaittavassa laadussa, vaikka tulokset vaihtelevat kuvan mukaan."
+    },
+  {
+      "question": "Voinko muuntaa useita JPG-tiedostoja kerralla?",
+  "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
 
-    }
-    {
-      "question": "Mitä tiedostokokoja tuetaan?"
-
-      "answer": "Voit ladata kuvia, joiden koko on enintään 16&nbsp;MB per tiedosto."
-
-    }
-    {
-      "question": "Ovatko tiedostoni turvallisia?"
-
-      "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
-
-    }
-    {
-      "question": "Voinko muuntaa useita JPG-tiedostoja kerralla?"
-
-      "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
-
-    }
-    {
-      "question": "Onko AVIF parempi kuin JPG verkkosivustoille?"
-
-      "answer": "Kyllä. AVIF tarjoaa yleensä pienempiä tiedostoja verrattavissa laadussa, parantaen latausnopeutta ja Core Web Vitalsia."
+    },
+  {
+      "question": "Onko AVIF parempi kuin JPG verkkosivustoille?",
+  "answer": "Kyllä. AVIF tarjoaa yleensä pienempiä tiedostoja verrattavissa laadussa, parantaen latausnopeutta ja Core Web Vitalsia."
 
     }
-  ]
-  "note": "AVIF ei välttämättä näy joissakin vanhemmissa ohjelmistoissa. Käytä <code>&lt;picture&gt;</code> -elementtiä JPG/WebP-varatukilla maksimaalisen yhteensopivuuden saavuttamiseksi."
-
+  ],
+  "note": "AVIF ei välttämättä näy joissakin vanhemmissa ohjelmistoissa. Käytä <code>&lt;picture&gt;</code> -elementtiä JPG/WebP-varatukilla maksimaalisen yhteensopivuuden saavuttamiseksi.",
   "related_links": [
     {
-      "title": "Muuta AVIF JPG:ksi"
+      "title": "Muuta AVIF JPG:ksi",
+  "url": "/fi/convert/avif-to-jpg"
 
-      "url": "/fi/convert/avif-to-jpg"
+    },
+  {
+      "title": "Muuta PNG AVIF:ksi",
+  "url": "/fi/convert/png-to-avif"
 
-    }
-    {
-      "title": "Muuta PNG AVIF:ksi"
+    },
+  {
+      "title": "Muuta WebP AVIF:ksi",
+  "url": "/fi/convert/webp-to-avif"
 
-      "url": "/fi/convert/png-to-avif"
-
-    }
-    {
-      "title": "Muuta WebP AVIF:ksi"
-
-      "url": "/fi/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Pakkaa AVIF-kuvat"
-
-      "url": "/fi/compress/avif"
+    },
+  {
+      "title": "Pakkaa AVIF-kuvat",
+  "url": "/fi/compress/avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG to AVIF -muunnin - Ilmainen ja verkossa"
-
-      "url": "https://miconvert.com/fi/convert/jpg-to-avif"
-
-      "description": "Ilmainen verkkotyökalu JPG-kuvien muuntamiseen AVIF:ksi erinomaisella pakkausasteella ja korkealla laadulla."
-
-      "inLanguage": "fi"
-
-      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG to AVIF -muunnin - Ilmainen ja verkossa",
+  "url": "https://miconvert.com/fi/convert/jpg-to-avif",
+  "description": "Ilmainen verkkotyökalu JPG-kuvien muuntamiseen AVIF:ksi erinomaisella pakkausasteella ja korkealla laadulla.",
+  "inLanguage": "fi",
+  "image": "https://miconvert.com/images/jpg-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Etusivu",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Etusivu"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muunna",
+  "item": "https://miconvert.com/fi/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muunna"
-
-          "item": "https://miconvert.com/fi/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG AVIF:ksi"
-
-          "item": "https://miconvert.com/fi/convert/jpg-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG AVIF:ksi",
+  "item": "https://miconvert.com/fi/convert/jpg-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG AVIF -muunnin",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Verkko",
+  "url": "https://miconvert.com/fi/convert/jpg-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Erinomainen pakkausaste",
+  "Moderni AVIF-tulos",
+  "Nopea käsittely"
 
-      "name": "JPG AVIF -muunnin"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Verkko"
-
-      "url": "https://miconvert.com/fi/convert/jpg-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Erinomainen pakkausaste"
-
-        "Moderni AVIF-tulos"
-
-        "Nopea käsittely"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Onko tämä JPG AVIF -muunnin ilmainen?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+          "@type": "Question",
+  "name": "Onko tämä JPG AVIF -muunnin ilmainen?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Mitä tiedostokokoja tuetaan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
+        },
+  {
+          "@type": "Question",
+  "name": "Mitä tiedostokokoja tuetaan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Toimiiko AVIF kaikilla selaimilla?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF on tuettu moderneilla selaimilla, mutta sinun tulisi tarjota JPG/WebP-varatuki vanhemmille."
+        },
+  {
+          "@type": "Question",
+  "name": "Toimiiko AVIF kaikilla selaimilla?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF on tuettu moderneilla selaimilla, mutta sinun tulisi tarjota JPG/WebP-varatuki vanhemmille."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuinka muuntaa JPG AVIF:ksi"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuinka muuntaa JPG AVIF:ksi",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa JPG ja valitse tiedostosi."
 
-          "text": "Napsauta Lataa JPG ja valitse tiedostosi."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Odota, että käsittely on valmis."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa AVIF tallentaaksesi optimoidun kuvan."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Odota, että käsittely on valmis."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Napsauta Lataa AVIF tallentaaksesi optimoidun kuvan."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG AVIF -muunnin"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,377 +1,283 @@
 {
-  "lang": "ca"
-
-  "lang_name": "Català"
-
-  "title": "Convertidor JPG a AVIF - Gratuït i en línia | miconvert.com"
-
-  "sub_title": "Converteix imatges JPG a AVIF en línia amb una excel·lent compressió i alta qualitat visual. Sense marques d'aigua."
-
-  "hint": "Puja la teva imatge JPG per començar a convertir..."
-
-  "btn_download": "Convertir a AVIF"
-
-  "btn_paste": "Pujar JPG"
-
-  "btn_clear": "Esborrar"
-
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Convertidor JPG a AVIF - Gratuït i en línia | miconvert.com",
+  "sub_title": "Converteix imatges JPG a AVIF en línia amb una excel·lent compressió i alta qualitat visual. Sense marques d'aigua.",
+  "hint": "Puja la teva imatge JPG per començar a convertir...",
+  "btn_download": "Convertir a AVIF",
+  "btn_paste": "Pujar JPG",
+  "btn_clear": "Esborrar",
   "head": {
-    "title": "Converteix JPG a AVIF - Convertidor JPG a AVIF gratuït en línia"
+    "title": "Converteix JPG a AVIF - Convertidor JPG a AVIF gratuït en línia",
+  "description": "Converteix imatges JPG al format AVIF en línia de manera gratuïta. Conversió JPG a AVIF d'alta qualitat amb una excel·lent compressió.",
+  "keywords": "jpg a avif, convertir jpg a avif, avif gratuït, convertidor avif en línia, conversió d'imatges",
+  "canonical": "https://miconvert.com/ca/convert/jpg-to-avif",
+  "og_title": "Converteix JPG a AVIF - Convertidor JPG a AVIF gratuït en línia",
+  "og_description": "Converteix imatges JPG al format AVIF en línia de manera gratuïta. Conversió JPG a AVIF d'alta qualitat amb una excel·lent compressió.",
+  "og_url": "https://miconvert.com/ca/convert/jpg-to-avif",
+  "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-    "description": "Converteix imatges JPG al format AVIF en línia de manera gratuïta. Conversió JPG a AVIF d'alta qualitat amb una excel·lent compressió."
-
-    "keywords": "jpg a avif, convertir jpg a avif, avif gratuït, convertidor avif en línia, conversió d'imatges"
-
-    "canonical": "https://miconvert.com/ca/convert/jpg-to-avif"
-
-    "og_title": "Converteix JPG a AVIF - Convertidor JPG a AVIF gratuït en línia"
-
-    "og_description": "Converteix imatges JPG al format AVIF en línia de manera gratuïta. Conversió JPG a AVIF d'alta qualitat amb una excel·lent compressió."
-
-    "og_url": "https://miconvert.com/ca/convert/jpg-to-avif"
-
-    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Converteix JPG a AVIF en línia"
+    "title": "Converteix JPG a AVIF en línia",
+  "description": "Convertidor JPG a AVIF gratuït amb una excel·lent compressió i qualitat. Funciona en qualsevol dispositiu — no es requereix registre."
 
-    "description": "Convertidor JPG a AVIF gratuït amb una excel·lent compressió i qualitat. Funciona en qualsevol dispositiu — no es requereix registre."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-avif"
-
-    "title": "Convertidor JPG a AVIF"
-
-    "description": "Converteix imatges JPG a AVIF amb compressió moderna i alta fidelitat."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "jpg-to-avif",
+  "title": "Convertidor JPG a AVIF",
+  "description": "Converteix imatges JPG a AVIF amb compressió moderna i alta fidelitat.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Sortida AVIF d'alta qualitat",
+  "Excel·lent compressió",
+  "Format modern preparat per a la web",
+  "Eina gratuïta en línia"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Sortida AVIF d'alta qualitat"
-
-      "Excel·lent compressió"
-
-      "Format modern preparat per a la web"
-
-      "Eina gratuïta en línia"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:2:0"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:2:0",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversió JPG a AVIF completada"
+    "title": "Conversió JPG a AVIF completada",
+  "back_button": "Tornar al convertidor",
+  "convert_another": "Convertir un altre JPG",
+  "quick_conversions": "Conversions ràpides:"
 
-    "back_button": "Tornar al convertidor"
-
-    "convert_another": "Convertir un altre JPG"
-
-    "quick_conversions": "Conversions ràpides:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Per què convertir JPG a AVIF?"
+      "title": "Per què convertir JPG a AVIF?",
+  "description": "<p>AVIF (Format de fitxer d'imatge AV1) és un format de nova generació que ofereix fitxers més petits amb una qualitat similar o millor que JPG:</p><ul><li><strong>Compressió superior:</strong> Sovint un 30–50% més petits que JPG amb una qualitat comparable.</li><li><strong>Alta fidelitat:</strong> Millor retenció de detalls i menys artefactes a baixes taxes de bits.</li><li><strong>Característiques modernes:</strong> Suporta transparència, HDR i ampli gamut de colors.</li><li><strong>Rendiment web:</strong> Imatges més petites = pàgines més ràpides i millors Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (Format de fitxer d'imatge AV1) és un format de nova generació que ofereix fitxers més petits amb una qualitat similar o millor que JPG:</p><ul><li><strong>Compressió superior:</strong> Sovint un 30–50% més petits que JPG amb una qualitat comparable.</li><li><strong>Alta fidelitat:</strong> Millor retenció de detalls i menys artefactes a baixes taxes de bits.</li><li><strong>Característiques modernes:</strong> Suporta transparència, HDR i ampli gamut de colors.</li><li><strong>Rendiment web:</strong> Imatges més petites = pàgines més ràpides i millors Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Com convertir JPG a AVIF en línia",
+  "description": "<ol><li>Fes clic a <em>Pujar JPG</em> i selecciona el teu fitxer.</li><li>Espera que el processament es completi.</li><li>Fes clic a <em>Descarregar AVIF</em> per desar la imatge optimitzada.</li></ol><p>El convertidor equilibra automàticament la qualitat i la mida per a un ús web típic.</p>"
 
-    }
-    {
-      "title": "Com convertir JPG a AVIF en línia"
+    },
+  {
+      "title": "AVIF vs JPG: Diferències clau",
+  "description": "<table class='table-compare'><thead><tr><th>Característica</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Compressió</td><td>Pèrdua (JPEG)</td><td>Avançada, més eficient (AV1)</td></tr><tr><td>Mida del fitxer</td><td>Base</td><td>≈30–50% més petit amb qualitat similar</td></tr><tr><td>Transparència</td><td>No</td><td>Sí</td></tr><tr><td>HDR/Gamut ampli</td><td>Limitada</td><td>Suportat</td></tr><tr><td>Suport del navegador</td><td>Universal</td><td>Navegadors moderns (es recomana un retrocés)</td></tr></tbody></table>"
 
-      "description": "<ol><li>Fes clic a <em>Pujar JPG</em> i selecciona el teu fitxer.</li><li>Espera que el processament es completi.</li><li>Fes clic a <em>Descarregar AVIF</em> per desar la imatge optimitzada.</li></ol><p>El convertidor equilibra automàticament la qualitat i la mida per a un ús web típic.</p>"
+    },
+  {
+      "title": "Límits i formats suportats",
+  "description": "<ul><li><strong>Entrada acceptada:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Codificació:</strong> Qualitat ~80, velocitat 4 (equilibrada)</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs JPG: Diferències clau"
+    },
+  {
+      "title": "Solució de problemes",
+  "description": "<ul><li><strong>La pujada falla:</strong> Assegura't que el fitxer sigui JPG/JPEG i ≤ 16&nbsp;MB.</li><li><strong>Desviació de color:</strong> Converteix les imatges a sRGB abans de pujar per a colors web consistents.</li><li><strong>Navegadors antics:</strong> Serveix JPG/WebP com a retrocés amb <code>&lt;picture&gt;</code> si AVIF no és compatible.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Característica</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Compressió</td><td>Pèrdua (JPEG)</td><td>Avançada, més eficient (AV1)</td></tr><tr><td>Mida del fitxer</td><td>Base</td><td>≈30–50% més petit amb qualitat similar</td></tr><tr><td>Transparència</td><td>No</td><td>Sí</td></tr><tr><td>HDR/Gamut ampli</td><td>Limitada</td><td>Suportat</td></tr><tr><td>Suport del navegador</td><td>Universal</td><td>Navegadors moderns (es recomana un retrocés)</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Límits i formats suportats"
-
-      "description": "<ul><li><strong>Entrada acceptada:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Codificació:</strong> Qualitat ~80, velocitat 4 (equilibrada)</li></ul>"
-
-    }
-    {
-      "title": "Solució de problemes"
-
-      "description": "<ul><li><strong>La pujada falla:</strong> Assegura't que el fitxer sigui JPG/JPEG i ≤ 16&nbsp;MB.</li><li><strong>Desviació de color:</strong> Converteix les imatges a sRGB abans de pujar per a colors web consistents.</li><li><strong>Navegadors antics:</strong> Serveix JPG/WebP com a retrocés amb <code>&lt;picture&gt;</code> si AVIF no és compatible.</li></ul>"
-
-    }
-    {
-      "title": "Casos d'ús: Quan convertir JPG a AVIF"
-
-      "description": "<ul><li><strong>Optimització web:</strong> Acelera les pàgines i millora el LCP.</li><li><strong>Aplicacions mòbils:</strong> Redueix l'ample de banda i l'emmagatzematge.</li><li><strong>Grans biblioteques de fotos:</strong> Estalvia espai en disc sense pèrdua de qualitat evident.</li></ul>"
+    },
+  {
+      "title": "Casos d'ús: Quan convertir JPG a AVIF",
+  "description": "<ul><li><strong>Optimització web:</strong> Acelera les pàgines i millora el LCP.</li><li><strong>Aplicacions mòbils:</strong> Redueix l'ample de banda i l'emmagatzematge.</li><li><strong>Grans biblioteques de fotos:</strong> Estalvia espai en disc sense pèrdua de qualitat evident.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "És gratuït aquest convertidor JPG a AVIF?"
+      "question": "És gratuït aquest convertidor JPG a AVIF?",
+  "answer": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
 
-      "answer": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
+    },
+  {
+      "question": "Funcionarà AVIF en tots els navegadors?",
+  "answer": "AVIF és compatible amb navegadors moderns (Chrome, Firefox, Safari, Edge). Per a navegadors antics, proporciona retrocés JPG/WebP."
 
-    }
-    {
-      "question": "Funcionarà AVIF en tots els navegadors?"
+    },
+  {
+      "question": "Quin és el tamany més petit dels fitxers AVIF comparat amb JPG?",
+  "answer": "Normalment un 30–50% més petits amb una qualitat percebuda similar, tot i que els resultats varien segons la imatge."
 
-      "answer": "AVIF és compatible amb navegadors moderns (Chrome, Firefox, Safari, Edge). Per a navegadors antics, proporciona retrocés JPG/WebP."
+    },
+  {
+      "question": "Quins tamanys de fitxer són suportats?",
+  "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
 
-    }
-    {
-      "question": "Quin és el tamany més petit dels fitxers AVIF comparat amb JPG?"
+    },
+  {
+      "question": "Són segurs els meus fitxers?",
+  "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
 
-      "answer": "Normalment un 30–50% més petits amb una qualitat percebuda similar, tot i que els resultats varien segons la imatge."
+    },
+  {
+      "question": "Puc convertir múltiples JPG alhora?",
+  "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
 
-    }
-    {
-      "question": "Quins tamanys de fitxer són suportats?"
-
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-
-    }
-    {
-      "question": "Són segurs els meus fitxers?"
-
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-
-    }
-    {
-      "question": "Puc convertir múltiples JPG alhora?"
-
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats a granel, repeteix el procés o utilitza una eina de lot."
-
-    }
-    {
-      "question": "És AVIF millor que JPG per a llocs web?"
-
-      "answer": "Sí. AVIF normalment proporciona fitxers més petits amb una qualitat comparable, millorant la velocitat de càrrega i els Core Web Vitals."
+    },
+  {
+      "question": "És AVIF millor que JPG per a llocs web?",
+  "answer": "Sí. AVIF normalment proporciona fitxers més petits amb una qualitat comparable, millorant la velocitat de càrrega i els Core Web Vitals."
 
     }
-  ]
-  "note": "AVIF pot no mostrar-se en alguns programaris antics. Utilitza l'element <code>&lt;picture&gt;</code> amb retrocés JPG/WebP per a la màxima compatibilitat."
-
+  ],
+  "note": "AVIF pot no mostrar-se en alguns programaris antics. Utilitza l'element <code>&lt;picture&gt;</code> amb retrocés JPG/WebP per a la màxima compatibilitat.",
   "related_links": [
     {
-      "title": "Convertir AVIF a JPG"
+      "title": "Convertir AVIF a JPG",
+  "url": "/ca/convert/avif-to-jpg"
 
-      "url": "/ca/convert/avif-to-jpg"
+    },
+  {
+      "title": "Convertir PNG a AVIF",
+  "url": "/ca/convert/png-to-avif"
 
-    }
-    {
-      "title": "Convertir PNG a AVIF"
+    },
+  {
+      "title": "Convertir WebP a AVIF",
+  "url": "/ca/convert/webp-to-avif"
 
-      "url": "/ca/convert/png-to-avif"
-
-    }
-    {
-      "title": "Convertir WebP a AVIF"
-
-      "url": "/ca/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Comprimir imatges AVIF"
-
-      "url": "/ca/compress/avif"
+    },
+  {
+      "title": "Comprimir imatges AVIF",
+  "url": "/ca/compress/avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Convertidor JPG a AVIF - Gratuït i en línia"
-
-      "url": "https://miconvert.com/ca/convert/jpg-to-avif"
-
-      "description": "Eina gratuïta en línia per convertir imatges JPG a AVIF amb una excel·lent compressió i alta qualitat."
-
-      "inLanguage": "ca"
-
-      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Convertidor JPG a AVIF - Gratuït i en línia",
+  "url": "https://miconvert.com/ca/convert/jpg-to-avif",
+  "description": "Eina gratuïta en línia per convertir imatges JPG a AVIF amb una excel·lent compressió i alta qualitat.",
+  "inLanguage": "ca",
+  "image": "https://miconvert.com/images/jpg-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Inici",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Inici"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertir",
+  "item": "https://miconvert.com/ca/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertir"
-
-          "item": "https://miconvert.com/ca/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG a AVIF"
-
-          "item": "https://miconvert.com/ca/convert/jpg-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG a AVIF",
+  "item": "https://miconvert.com/ca/convert/jpg-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Convertidor JPG a AVIF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ca/convert/jpg-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Excel·lent compressió",
+  "Sortida AVIF moderna",
+  "Processament ràpid"
 
-      "name": "Convertidor JPG a AVIF"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ca/convert/jpg-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Excel·lent compressió"
-
-        "Sortida AVIF moderna"
-
-        "Processament ràpid"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "És gratuït aquest convertidor JPG a AVIF?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
+          "@type": "Question",
+  "name": "És gratuït aquest convertidor JPG a AVIF?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, el convertidor és completament gratuït sense càrrecs ocults ni subscripcions."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quins tamanys de fitxer són suportats?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+        },
+  {
+          "@type": "Question",
+  "name": "Quins tamanys de fitxer són suportats?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Pots pujar imatges de fins a 16 MB per fitxer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Funcionarà AVIF en tots els navegadors?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF és compatible amb navegadors moderns, però hauràs de proporcionar retrocés JPG/WebP per als més antics."
+        },
+  {
+          "@type": "Question",
+  "name": "Funcionarà AVIF en tots els navegadors?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF és compatible amb navegadors moderns, però hauràs de proporcionar retrocés JPG/WebP per als més antics."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Com convertir JPG a AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Com convertir JPG a AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Fes clic a Pujar JPG i selecciona el teu fitxer."
 
-          "text": "Fes clic a Pujar JPG i selecciona el teu fitxer."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Espera que el processament es completi."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Fes clic a Descarregar AVIF per desar la imatge optimitzada."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Espera que el processament es completi."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Fes clic a Descarregar AVIF per desar la imatge optimitzada."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Convertidor JPG a AVIF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

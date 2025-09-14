@@ -1,358 +1,266 @@
 {
-  "lang": "cs"
-
-  "lang_name": "Čeština"
-
-  "title": "Převodník SVG na PNG - Zdarma a Online | miconvert.com"
-
-  "sub_title": "Převádějte SVG vektorovou grafiku na PNG online s ostrou rastrovou kvalitou, průhledností a bez vodoznaků."
-
-  "hint": "Nahrajte svůj SVG soubor, abyste začali převádět..."
-
-  "btn_download": "Převést na PNG"
-
-  "btn_paste": "Nahrát SVG"
-
-  "btn_clear": "Vymazat"
-
-  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
-
+  "lang": "cs",
+  "lang_name": "Čeština",
+  "title": "Převodník SVG na PNG - Zdarma a Online | miconvert.com",
+  "sub_title": "Převádějte SVG vektorovou grafiku na PNG online s ostrou rastrovou kvalitou, průhledností a bez vodoznaků.",
+  "hint": "Nahrajte svůj SVG soubor, abyste začali převádět...",
+  "btn_download": "Převést na PNG",
+  "btn_paste": "Nahrát SVG",
+  "btn_clear": "Vymazat",
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg",
   "head": {
-    "title": "Převod SVG na PNG - Zdarma Online Převodník SVG na PNG | miconvert.com"
+    "title": "Převod SVG na PNG - Zdarma Online Převodník SVG na PNG | miconvert.com",
+  "description": "Převádějte SVG vektorovou grafiku na PNG online zdarma. Vysoce kvalitní rastrování SVG→PNG s rychlým zpracováním a podporou průhlednosti.",
+  "keywords": "svg na png, převést svg na png, vektor na rastrovou, zdarma svg převodník, online png převodník",
+  "canonical": "https://miconvert.com/cs/convert/svg-to-png",
+  "og_title": "Převodník SVG na PNG - Zdarma a Online",
+  "og_description": "Převádějte SVG na PNG s ostrým rastrováním a průhledností. 100% zdarma, rychlé a bezpečné.",
+  "og_url": "https://miconvert.com/cs/convert/svg-to-png",
+  "og_image": "https://miconvert.com/images/svg-to-png.jpg"
 
-    "description": "Převádějte SVG vektorovou grafiku na PNG online zdarma. Vysoce kvalitní rastrování SVG→PNG s rychlým zpracováním a podporou průhlednosti."
-
-    "keywords": "svg na png, převést svg na png, vektor na rastrovou, zdarma svg převodník, online png převodník"
-
-    "canonical": "https://miconvert.com/cs/convert/svg-to-png"
-
-    "og_title": "Převodník SVG na PNG - Zdarma a Online"
-
-    "og_description": "Převádějte SVG na PNG s ostrým rastrováním a průhledností. 100% zdarma, rychlé a bezpečné."
-
-    "og_url": "https://miconvert.com/cs/convert/svg-to-png"
-
-    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Převod SVG na PNG Online"
+    "title": "Převod SVG na PNG Online",
+  "description": "Zdarma a rychlý převodník SVG na PNG s ostrým rastrováním a podporou průhlednosti. Funguje okamžitě na jakémkoli zařízení — není potřeba registrace."
 
-    "description": "Zdarma a rychlý převodník SVG na PNG s ostrým rastrováním a podporou průhlednosti. Funguje okamžitě na jakémkoli zařízení — není potřeba registrace."
-
-  }
-  "description": "<p>Převádějte svůj <strong>SVG na PNG</strong> během několika sekund. Tento bezplatný online převodník rastrově převádí vaši vektorovou grafiku na vysoce kvalitní PNG obrázky a zachovává průhlednost pro čisté okraje na jakémkoli pozadí.</p><p>Ideální pro favikony, majetky aplikací, sociální obrázky a webovou grafiku. Optimalizujeme výstup pro silnou rovnováhu mezi jasností a velikostí souboru.</p>"
-
+  },
+  "description": "<p>Převádějte svůj <strong>SVG na PNG</strong> během několika sekund. Tento bezplatný online převodník rastrově převádí vaši vektorovou grafiku na vysoce kvalitní PNG obrázky a zachovává průhlednost pro čisté okraje na jakémkoli pozadí.</p><p>Ideální pro favikony, majetky aplikací, sociální obrázky a webovou grafiku. Optimalizujeme výstup pro silnou rovnováhu mezi jasností a velikostí souboru.</p>",
   "converter": {
-    "type": "svg-to-png"
-
-    "title": "Převodník SVG na PNG"
-
-    "description": "Převádějte SVG vektorovou grafiku na PNG rastrový formát s vysokou kvalitou a rychlým zpracováním."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "PNG"
-
-    "allowedTypes": [
+    "type": "svg-to-png",
+  "title": "Převodník SVG na PNG",
+  "description": "Převádějte SVG vektorovou grafiku na PNG rastrový formát s vysokou kvalitou a rychlým zpracováním.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "SVG",
+  "outputFormat": "PNG",
+  "allowedTypes": [
       "image/svg+xml"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "features": [
+      "Vysoce kvalitní rastrování",
+  "Zachována průhlednost",
+  "Rychlé zpracování",
+  "Zdarma online nástroj"
 
-    "outputExtension": ".png"
-
-    "features": [
-      "Vysoce kvalitní rastrování"
-
-      "Zachována průhlednost"
-
-      "Rychlé zpracování"
-
-      "Zdarma online nástroj"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
-        "background": "transparent"
-
-        "width": null
-        "height": null
-        "scale": 1
+        "compressionLevel": 6,
+  "progressive": false,
+  "background": "transparent",
+  "width": null,
+  "height": null,
+  "scale": 1
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Převod SVG na PNG dokončen"
+    "title": "Převod SVG na PNG dokončen",
+  "back_button": "Zpět k převodníku",
+  "convert_another": "Převést další SVG",
+  "quick_conversions": "Rychlé převody:"
 
-    "back_button": "Zpět k převodníku"
-
-    "convert_another": "Převést další SVG"
-
-    "quick_conversions": "Rychlé převody:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Proč převádět SVG na PNG?"
+      "title": "Proč převádět SVG na PNG?",
+  "description": "<ul><li><strong>Univerzální kompatibilita:</strong> PNG se zobrazuje všude, není potřeba podpora SVG.</li><li><strong>Průhlednost:</strong> Zachovejte alfa pro překryvy a prvky uživatelského rozhraní.</li><li><strong>Výkon:</strong> Menší, kešovatelné bitmapy pro produkci.</li></ul>"
 
-      "description": "<ul><li><strong>Univerzální kompatibilita:</strong> PNG se zobrazuje všude, není potřeba podpora SVG.</li><li><strong>Průhlednost:</strong> Zachovejte alfa pro překryvy a prvky uživatelského rozhraní.</li><li><strong>Výkon:</strong> Menší, kešovatelné bitmapy pro produkci.</li></ul>"
+    },
+  {
+      "title": "Jak převést SVG na PNG online",
+  "description": "<ol><li>Klikněte na <em>Nahrát SVG</em> a vyberte svůj soubor.</li><li>Počkejte na rastrování a optimalizaci.</li><li>Klikněte na <em>Stáhnout PNG</em> pro uložení vašeho obrázku.</li></ol><p>Výchozí nastavení zachovává průhlednost a vyváženou kompresi.</p>"
 
-    }
-    {
-      "title": "Jak převést SVG na PNG online"
+    },
+  {
+      "title": "Podporované limity a formáty",
+  "description": "<ul><li><strong>Přijatý vstup:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximální velikost souboru:</strong> 16&nbsp;MB</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
 
-      "description": "<ol><li>Klikněte na <em>Nahrát SVG</em> a vyberte svůj soubor.</li><li>Počkejte na rastrování a optimalizaci.</li><li>Klikněte na <em>Stáhnout PNG</em> pro uložení vašeho obrázku.</li></ol><p>Výchozí nastavení zachovává průhlednost a vyváženou kompresi.</p>"
+    },
+  {
+      "title": "Nejlepší postupy pro ostrý výstup",
+  "description": "<ul><li>Použijte čtvercovou pracovní plochu s okraji, abyste se vyhnuli oříznutí na okrajích.</li><li>Převeďte text na obrysy; vložte písma a obrázky.</li><li>Vyhněte se příliš tenkým čarám pro malé ikony (≥1px při cílové velikosti).</li><li>Exportujte větší (např. 512–1024 px), pokud je později zmenšíte.</li></ul>"
 
-    }
-    {
-      "title": "Podporované limity a formáty"
-
-      "description": "<ul><li><strong>Přijatý vstup:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maximální velikost souboru:</strong> 16&nbsp;MB</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-
-    }
-    {
-      "title": "Nejlepší postupy pro ostrý výstup"
-
-      "description": "<ul><li>Použijte čtvercovou pracovní plochu s okraji, abyste se vyhnuli oříznutí na okrajích.</li><li>Převeďte text na obrysy; vložte písma a obrázky.</li><li>Vyhněte se příliš tenkým čarám pro malé ikony (≥1px při cílové velikosti).</li><li>Exportujte větší (např. 512–1024 px), pokud je později zmenšíte.</li></ul>"
-
-    }
-    {
-      "title": "Odstraňování problémů"
-
-      "description": "<ul><li><strong>Chybějící písma/filtry:</strong> Inline prostředky a převedení textu na obrysy.</li><li><strong>Zubaté okraje:</strong> Zvyšte cílovou velikost nebo <code>scale</code>, poté zmenšete.</li><li><strong>Pevné pozadí:</strong> Ujistěte se, že <code>background</code> je nastaveno na <em>transparentní</em> v možnostech.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že SVG je platné a ≤16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Odstraňování problémů",
+  "description": "<ul><li><strong>Chybějící písma/filtry:</strong> Inline prostředky a převedení textu na obrysy.</li><li><strong>Zubaté okraje:</strong> Zvyšte cílovou velikost nebo <code>scale</code>, poté zmenšete.</li><li><strong>Pevné pozadí:</strong> Ujistěte se, že <code>background</code> je nastaveno na <em>transparentní</em> v možnostech.</li><li><strong>Nahrání selhalo:</strong> Ujistěte se, že SVG je platné a ≤16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je tento převodník SVG na PNG zdarma?"
+      "question": "Je tento převodník SVG na PNG zdarma?",
+  "answer": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
 
-      "answer": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
+    },
+  {
+      "question": "Zachovává PNG průhlednost?",
+  "answer": "Ano. PNG podporuje alfa průhlednost a my ji zachováváme jako výchozí."
 
-    }
-    {
-      "question": "Zachovává PNG průhlednost?"
+    },
+  {
+      "question": "Mohu si vybrat velikost výstupu?",
+  "answer": "Ve výchozím nastavení používáme SVG viewBox. Můžete nastavit šířku/výšku nebo faktor měřítka v pokročilých možnostech, pokud je to podporováno."
 
-      "answer": "Ano. PNG podporuje alfa průhlednost a my ji zachováváme jako výchozí."
+    },
+  {
+      "question": "Jaké limity velikosti souboru platí?",
+  "answer": "Můžete nahrát SVG soubory až do velikosti 16 MB."
 
-    }
-    {
-      "question": "Mohu si vybrat velikost výstupu?"
-
-      "answer": "Ve výchozím nastavení používáme SVG viewBox. Můžete nastavit šířku/výšku nebo faktor měřítka v pokročilých možnostech, pokud je to podporováno."
-
-    }
-    {
-      "question": "Jaké limity velikosti souboru platí?"
-
-      "answer": "Můžete nahrát SVG soubory až do velikosti 16 MB."
-
-    }
-    {
-      "question": "Proč vypadá moje PNG jinak než SVG?"
-
-      "answer": "Externí písma, filtry nebo propojené prostředky mohou při rastrování vypadat jinak. Převeďte text na obrysy a inline prostředky pro konzistentní výsledky."
+    },
+  {
+      "question": "Proč vypadá moje PNG jinak než SVG?",
+  "answer": "Externí písma, filtry nebo propojené prostředky mohou při rastrování vypadat jinak. Převeďte text na obrysy a inline prostředky pro konzistentní výsledky."
 
     }
-  ]
-  "note": "SVG jsou během převodu rastrována. Pro předvídatelné výsledky převedete text na obrysy a vložíte jakékoli externí prostředky."
-
+  ],
+  "note": "SVG jsou během převodu rastrována. Pro předvídatelné výsledky převedete text na obrysy a vložíte jakékoli externí prostředky.",
   "related_links": [
     {
-      "title": "Převést SVG na ICO"
+      "title": "Převést SVG na ICO",
+  "url": "/cs/convert/svg-to-ico"
 
-      "url": "/cs/convert/svg-to-ico"
+    },
+  {
+      "title": "Převést PNG na SVG",
+  "url": "/cs/convert/png-to-svg"
 
-    }
-    {
-      "title": "Převést PNG na SVG"
-
-      "url": "/cs/convert/png-to-svg"
-
-    }
-    {
-      "title": "Komprimovat PNG Online"
-
-      "url": "/cs/compress/png"
+    },
+  {
+      "title": "Komprimovat PNG Online",
+  "url": "/cs/compress/png"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Převodník SVG na PNG - Zdarma a Online"
-
-      "url": "https://miconvert.com/cs/convert/svg-to-png"
-
-      "description": "Bezplatný online nástroj pro převod SVG vektorové grafiky na PNG s průhledností."
-
-      "inLanguage": "cs"
-
-      "image": "https://miconvert.com/images/svg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Převodník SVG na PNG - Zdarma a Online",
+  "url": "https://miconvert.com/cs/convert/svg-to-png",
+  "description": "Bezplatný online nástroj pro převod SVG vektorové grafiky na PNG s průhledností.",
+  "inLanguage": "cs",
+  "image": "https://miconvert.com/images/svg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Domů",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Domů"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Převést",
+  "item": "https://miconvert.com/cs/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Převést"
-
-          "item": "https://miconvert.com/cs/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG na PNG"
-
-          "item": "https://miconvert.com/cs/convert/svg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "SVG na PNG",
+  "item": "https://miconvert.com/cs/convert/svg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Převodník SVG na PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/cs/convert/svg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Ostré rastrování",
+  "Zachována průhlednost",
+  "Rychlé zpracování"
 
-      "name": "Převodník SVG na PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/cs/convert/svg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Ostré rastrování"
-
-        "Zachována průhlednost"
-
-        "Rychlé zpracování"
-
-      ]
-      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je tento převodník SVG na PNG zdarma?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
+          "@type": "Question",
+  "name": "Je tento převodník SVG na PNG zdarma?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ano, je zcela zdarma bez vodoznaků nebo skrytých poplatků."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Zachovává PNG průhlednost?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, alfa průhlednost je zachována jako výchozí."
+        },
+  {
+          "@type": "Question",
+  "name": "Zachovává PNG průhlednost?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ano, alfa průhlednost je zachována jako výchozí."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Jaké limity velikosti souboru platí?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Můžete nahrát SVG soubory až do velikosti 16 MB."
+        },
+  {
+          "@type": "Question",
+  "name": "Jaké limity velikosti souboru platí?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Můžete nahrát SVG soubory až do velikosti 16 MB."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak převést SVG na PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jak převést SVG na PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikněte na Nahrát SVG a vyberte svůj soubor."
 
-          "text": "Klikněte na Nahrát SVG a vyberte svůj soubor."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Počkejte, až se dokončí rastrování a optimalizace."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikněte na Stáhnout PNG pro uložení vašeho obrázku."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Počkejte, až se dokončí rastrování a optimalizace."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Stáhnout PNG pro uložení vašeho obrázku."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Převodník SVG na PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,223 +1,164 @@
 {
-  "lang": "en"
-
-  "lang_name": "English"
-
-  "title": "JPG to AVIF Converter - Free & Online | miconvert.com"
-
-  "sub_title": "Convert JPG images to AVIF online with excellent compression and high visual quality. No watermarks."
-
-  "hint": "Upload your JPG image to start converting..."
-
-  "btn_download": "Convert to AVIF"
-
-  "btn_paste": "Upload JPG"
-
-  "btn_clear": "Clear"
-
+  "lang": "en",
+  "lang_name": "English",
+  "title": "JPG to AVIF Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert JPG images to AVIF online with excellent compression and high visual quality. No watermarks.",
+  "hint": "Upload your JPG image to start converting...",
+  "btn_download": "Convert to AVIF",
+  "btn_paste": "Upload JPG",
+  "btn_clear": "Clear",
   "head": {
-    "title": "Convert JPG to AVIF - Free Online JPG to AVIF Converter"
+    "title": "Convert JPG to AVIF - Free Online JPG to AVIF Converter",
+  "description": "Convert JPG images to AVIF format online for free. High-quality JPG to AVIF conversion with excellent compression.",
+  "keywords": "jpg to avif, convert jpg to avif, free jpg to avif, online avif converter, image conversion",
+  "canonical": "https://miconvert.com/en/convert/jpg-to-avif",
+  "og_title": "Convert JPG to AVIF - Free Online JPG to AVIF Converter",
+  "og_description": "Convert JPG images to AVIF format online for free. High-quality JPG to AVIF conversion with excellent compression.",
+  "og_url": "https://miconvert.com/en/convert/jpg-to-avif",
+  "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-    "description": "Convert JPG images to AVIF format online for free. High-quality JPG to AVIF conversion with excellent compression."
-
-    "keywords": "jpg to avif, convert jpg to avif, free jpg to avif, online avif converter, image conversion"
-
-    "canonical": "https://miconvert.com/en/convert/jpg-to-avif"
-
-    "og_title": "Convert JPG to AVIF - Free Online JPG to AVIF Converter"
-
-    "og_description": "Convert JPG images to AVIF format online for free. High-quality JPG to AVIF conversion with excellent compression."
-
-    "og_url": "https://miconvert.com/en/convert/jpg-to-avif"
-
-    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convert JPG to AVIF Online"
+    "title": "Convert JPG to AVIF Online",
+  "description": "Free JPG to AVIF converter with excellent compression and quality. Works on any device — no signup required."
 
-    "description": "Free JPG to AVIF converter with excellent compression and quality. Works on any device — no signup required."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-avif"
+    "type": "jpg-to-avif",
+  "title": "JPG to AVIF Converter",
+  "description": "Convert JPG images to AVIF with modern compression and high fidelity.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "AVIF",
+  "allowedTypes": ["image/jpeg"],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "High-quality AVIF output",
+  "Excellent compression",
+  "Modern web-ready format",
+  "Free online tool"
 
-    "title": "JPG to AVIF Converter"
-
-    "description": "Convert JPG images to AVIF with modern compression and high fidelity."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": ["image/jpeg"]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
-
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "High-quality AVIF output"
-
-      "Excellent compression"
-
-      "Modern web-ready format"
-
-      "Free online tool"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:2:0"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:2:0",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG to AVIF Conversion Complete"
+    "title": "JPG to AVIF Conversion Complete",
+  "back_button": "Back to Converter",
+  "convert_another": "Convert Another JPG",
+  "quick_conversions": "Quick Conversions:"
 
-    "back_button": "Back to Converter"
-
-    "convert_another": "Convert Another JPG"
-
-    "quick_conversions": "Quick Conversions:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Why Convert JPG to AVIF?"
+      "title": "Why Convert JPG to AVIF?",
+  "description": "<p>AVIF (AV1 Image File Format) is a next-gen format that delivers smaller files at similar or better quality than JPG:</p><ul><li><strong>Superior compression:</strong> Often 30–50% smaller than JPG at comparable quality.</li><li><strong>High fidelity:</strong> Better detail retention and fewer artifacts at low bitrates.</li><li><strong>Modern features:</strong> Supports transparency, HDR, and wide color gamut.</li><li><strong>Web performance:</strong> Smaller images = faster pages and better Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (AV1 Image File Format) is a next-gen format that delivers smaller files at similar or better quality than JPG:</p><ul><li><strong>Superior compression:</strong> Often 30–50% smaller than JPG at comparable quality.</li><li><strong>High fidelity:</strong> Better detail retention and fewer artifacts at low bitrates.</li><li><strong>Modern features:</strong> Supports transparency, HDR, and wide color gamut.</li><li><strong>Web performance:</strong> Smaller images = faster pages and better Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "How to Convert JPG to AVIF Online",
+  "description": "<ol><li>Click <em>Upload JPG</em> and select your file.</li><li>Wait for processing to complete.</li><li>Click <em>Download AVIF</em> to save the optimized image.</li></ol><p>The converter automatically balances quality and size for typical web use.</p>"
 
-    }
-    {
-      "title": "How to Convert JPG to AVIF Online"
+    },
+  {
+      "title": "AVIF vs JPG: Key Differences",
+  "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Compression</td><td>Lossy (JPEG)</td><td>Advanced, more efficient (AV1)</td></tr><tr><td>File Size</td><td>Baseline</td><td>≈30–50% smaller at similar quality</td></tr><tr><td>Transparency</td><td>No</td><td>Yes</td></tr><tr><td>HDR/Wide Gamut</td><td>Limited</td><td>Supported</td></tr><tr><td>Browser Support</td><td>Universal</td><td>Modern browsers (fallback recommended)</td></tr></tbody></table>"
 
-      "description": "<ol><li>Click <em>Upload JPG</em> and select your file.</li><li>Wait for processing to complete.</li><li>Click <em>Download AVIF</em> to save the optimized image.</li></ol><p>The converter automatically balances quality and size for typical web use.</p>"
+    },
+  {
+      "title": "Supported Limits & Formats",
+  "description": "<ul><li><strong>Accepted input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Encoding:</strong> Quality ~80, speed 4 (balanced)</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs JPG: Key Differences"
+    },
+  {
+      "title": "Troubleshooting",
+  "description": "<ul><li><strong>Upload fails:</strong> Ensure the file is JPG/JPEG and ≤ 16&nbsp;MB.</li><li><strong>Color shift:</strong> Convert images to sRGB before upload for consistent web colors.</li><li><strong>Older browsers:</strong> Serve JPG/WebP fallback with <code>&lt;picture&gt;</code> if AVIF isn't supported.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Feature</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Compression</td><td>Lossy (JPEG)</td><td>Advanced, more efficient (AV1)</td></tr><tr><td>File Size</td><td>Baseline</td><td>≈30–50% smaller at similar quality</td></tr><tr><td>Transparency</td><td>No</td><td>Yes</td></tr><tr><td>HDR/Wide Gamut</td><td>Limited</td><td>Supported</td></tr><tr><td>Browser Support</td><td>Universal</td><td>Modern browsers (fallback recommended)</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Supported Limits & Formats"
-
-      "description": "<ul><li><strong>Accepted input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximum file size:</strong> up to 16&nbsp;MB per file</li><li><strong>Output:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Encoding:</strong> Quality ~80, speed 4 (balanced)</li></ul>"
-
-    }
-    {
-      "title": "Troubleshooting"
-
-      "description": "<ul><li><strong>Upload fails:</strong> Ensure the file is JPG/JPEG and ≤ 16&nbsp;MB.</li><li><strong>Color shift:</strong> Convert images to sRGB before upload for consistent web colors.</li><li><strong>Older browsers:</strong> Serve JPG/WebP fallback with <code>&lt;picture&gt;</code> if AVIF isn't supported.</li></ul>"
-
-    }
-    {
-      "title": "Use Cases: When to Convert JPG to AVIF"
-
-      "description": "<ul><li><strong>Web optimization:</strong> Speed up pages and improve LCP.</li><li><strong>Mobile apps:</strong> Reduce bandwidth and storage.</li><li><strong>Large photo libraries:</strong> Save disk space without obvious quality loss.</li></ul>"
+    },
+  {
+      "title": "Use Cases: When to Convert JPG to AVIF",
+  "description": "<ul><li><strong>Web optimization:</strong> Speed up pages and improve LCP.</li><li><strong>Mobile apps:</strong> Reduce bandwidth and storage.</li><li><strong>Large photo libraries:</strong> Save disk space without obvious quality loss.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
-    { "question": "Is this JPG to AVIF converter free?", "answer": "Yes, the converter is completely free with no hidden charges or subscriptions." }
-    { "question": "Will AVIF work on all browsers?", "answer": "AVIF is supported by modern browsers (Chrome, Firefox, Safari, Edge). For older browsers, provide JPG/WebP fallbacks." }
-    { "question": "How much smaller are AVIF files compared to JPG?", "answer": "Typically 30–50% smaller at similar perceived quality, though results vary by image." }
-    { "question": "What file sizes are supported?", "answer": "You can upload images up to 16&nbsp;MB per file." }
-    { "question": "Are my files safe?", "answer": "Files are processed automatically and not retained longer than necessary for conversion." }
-    { "question": "Can I convert multiple JPGs at once?", "answer": "This page converts one file at a time. For bulk needs, repeat the process or use a batch tool." }
-    { "question": "Is AVIF better than JPG for websites?", "answer": "Yes. AVIF usually provides smaller files at comparable quality, improving load speed and Core Web Vitals." }
-  ]
-  "note": "AVIF may not display on some older software. Use the <code>&lt;picture&gt;</code> element with JPG/WebP fallbacks for maximum compatibility."
-
+    { "question": "Is this JPG to AVIF converter free?", "answer": "Yes, the converter is completely free with no hidden charges or subscriptions." },
+  { "question": "Will AVIF work on all browsers?", "answer": "AVIF is supported by modern browsers (Chrome, Firefox, Safari, Edge). For older browsers, provide JPG/WebP fallbacks." },
+  { "question": "How much smaller are AVIF files compared to JPG?", "answer": "Typically 30–50% smaller at similar perceived quality, though results vary by image." },
+  { "question": "What file sizes are supported?", "answer": "You can upload images up to 16&nbsp;MB per file." },
+  { "question": "Are my files safe?", "answer": "Files are processed automatically and not retained longer than necessary for conversion." },
+  { "question": "Can I convert multiple JPGs at once?", "answer": "This page converts one file at a time. For bulk needs, repeat the process or use a batch tool." },
+  { "question": "Is AVIF better than JPG for websites?", "answer": "Yes. AVIF usually provides smaller files at comparable quality, improving load speed and Core Web Vitals." }
+  ],
+  "note": "AVIF may not display on some older software. Use the <code>&lt;picture&gt;</code> element with JPG/WebP fallbacks for maximum compatibility.",
   "related_links": [
-    { "title": "Convert AVIF to JPG", "url": "/en/convert/avif-to-jpg" }
-    { "title": "Convert PNG to AVIF", "url": "/en/convert/png-to-avif" }
-    { "title": "Convert WebP to AVIF", "url": "/en/convert/webp-to-avif" }
-    { "title": "Compress AVIF Images", "url": "/en/compress/avif" }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
-
+    { "title": "Convert AVIF to JPG", "url": "/en/convert/avif-to-jpg" },
+  { "title": "Convert PNG to AVIF", "url": "/en/convert/png-to-avif" },
+  { "title": "Convert WebP to AVIF", "url": "/en/convert/webp-to-avif" },
+  { "title": "Compress AVIF Images", "url": "/en/compress/avif" }
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG to AVIF Converter - Free & Online"
-
-      "url": "https://miconvert.com/en/convert/jpg-to-avif"
-
-      "description": "Free online tool to convert JPG images to AVIF with excellent compression and high quality."
-
-      "inLanguage": "en"
-
-      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-      "isPartOf": { "@type": "WebSite", "name": "miconvert.com", "url": "https://miconvert.com/" }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://miconvert.com/" }
-        { "@type": "ListItem", "position": 2, "name": "Convert", "item": "https://miconvert.com/en/convert/" }
-        { "@type": "ListItem", "position": 3, "name": "JPG to AVIF", "item": "https://miconvert.com/en/convert/jpg-to-avif" }
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG to AVIF Converter - Free & Online",
+  "url": "https://miconvert.com/en/convert/jpg-to-avif",
+  "description": "Free online tool to convert JPG images to AVIF with excellent compression and high quality.",
+  "inLanguage": "en",
+  "image": "https://miconvert.com/images/jpg-to-avif.jpg",
+  "isPartOf": { "@type": "WebSite", "name": "miconvert.com", "url": "https://miconvert.com/" }
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://miconvert.com/" },
+  { "@type": "ListItem", "position": 2, "name": "Convert", "item": "https://miconvert.com/en/convert/" },
+  { "@type": "ListItem", "position": 3, "name": "JPG to AVIF", "item": "https://miconvert.com/en/convert/jpg-to-avif" }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG to AVIF Converter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/jpg-to-avif",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "featureList": ["Excellent compression", "Modern AVIF output", "Fast processing"],
+  "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-      "@context": "https://schema.org"
-
-      "name": "JPG to AVIF Converter"
-
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/jpg-to-avif"
-
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
-      "featureList": ["Excellent compression", "Modern AVIF output", "Fast processing"]
-      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
-        { "@type": "Question", "name": "Is this JPG to AVIF converter free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the converter is completely free with no hidden charges or subscriptions." } }
-        { "@type": "Question", "name": "What file sizes are supported?", "acceptedAnswer": { "@type": "Answer", "text": "You can upload images up to 16 MB per file." } }
-        { "@type": "Question", "name": "Will AVIF work on all browsers?", "acceptedAnswer": { "@type": "Answer", "text": "AVIF is supported by modern browsers, but you should provide JPG/WebP fallbacks for older ones." } }
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+        { "@type": "Question", "name": "Is this JPG to AVIF converter free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the converter is completely free with no hidden charges or subscriptions." } },
+  { "@type": "Question", "name": "What file sizes are supported?", "acceptedAnswer": { "@type": "Answer", "text": "You can upload images up to 16 MB per file." } },
+  { "@type": "Question", "name": "Will AVIF work on all browsers?", "acceptedAnswer": { "@type": "Answer", "text": "AVIF is supported by modern browsers, but you should provide JPG/WebP fallbacks for older ones." } }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "How to convert JPG to AVIF"
-
-      "step": [
-        { "@type": "HowToStep", "text": "Click Upload JPG and select your file." }
-        { "@type": "HowToStep", "text": "Wait for processing to complete." }
-        { "@type": "HowToStep", "text": "Click Download AVIF to save the optimized image." }
-      ]
-      "tool": ["JPG to AVIF Converter"]
-      "totalTime": "PT10S"
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "How to convert JPG to AVIF",
+  "step": [
+        { "@type": "HowToStep", "text": "Click Upload JPG and select your file." },
+  { "@type": "HowToStep", "text": "Wait for processing to complete." },
+  { "@type": "HowToStep", "text": "Click Download AVIF to save the optimized image." }
+      ],
+  "tool": ["JPG to AVIF Converter"],
+  "totalTime": "PT10S"
 
     }
   ]

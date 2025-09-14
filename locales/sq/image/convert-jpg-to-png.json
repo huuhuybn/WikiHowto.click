@@ -1,376 +1,282 @@
 {
-  "lang": "sq"
-
-  "lang_name": "Shqip"
-
-  "title": "Konvertues JPG në PNG - Falas & Online | miconvert.com"
-
-  "sub_title": "Konvertoni imazhet JPG në formatin PNG online me transparencë, cilësi të lartë dhe pa marka uji."
-
-  "hint": "Ngarko imazhin tuaj JPG për të filluar konvertimin..."
-
-  "btn_download": "Konverto në PNG"
-
-  "btn_paste": "Ngarko JPG"
-
-  "btn_clear": "Pastro"
-
+  "lang": "sq",
+  "lang_name": "Shqip",
+  "title": "Konvertues JPG në PNG - Falas & Online | miconvert.com",
+  "sub_title": "Konvertoni imazhet JPG në formatin PNG online me transparencë, cilësi të lartë dhe pa marka uji.",
+  "hint": "Ngarko imazhin tuaj JPG për të filluar konvertimin...",
+  "btn_download": "Konverto në PNG",
+  "btn_paste": "Ngarko JPG",
+  "btn_clear": "Pastro",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Po kërkoni një mënyrë të shpejtë dhe të besueshme për të konvertuar <strong>JPG në PNG</strong>? Konvertuesi ynë falas online JPG në PNG ju ndihmon të transformoni imazhet tuaja në skedarë PNG me cilësi të lartë menjëherë. Nëse keni nevojë për transparencë, kompresim pa humbje, ose përputhshmëri për projekte dizajni, ky mjet është zgjidhja perfekte. Funksionon drejtpërdrejt në shfletuesin tuaj, nuk kërkon regjistrim dhe mban skedarët tuaj të sigurt.</p><p>Formati PNG është ideal për përdorim profesional, veçanërisht kur punoni me grafika, logo, ose imazhe që kërkojnë një sfond transparent. Ndryshe nga JPG, i cili përdor kompresim me humbje dhe mund të reduktojë cilësinë e imazhit, PNG ruan detajet e mprehta dhe mbështet transparencën alfa. Nëse jeni një dizajner, student, ose profesionist biznesi, mjeti ynë ju ofron një mënyrë të lehtë për të përmirësuar rrjedhën tuaj të punës.</p>"
-
+  },
+  "description": "<p>Po kërkoni një mënyrë të shpejtë dhe të besueshme për të konvertuar <strong>JPG në PNG</strong>? Konvertuesi ynë falas online JPG në PNG ju ndihmon të transformoni imazhet tuaja në skedarë PNG me cilësi të lartë menjëherë. Nëse keni nevojë për transparencë, kompresim pa humbje, ose përputhshmëri për projekte dizajni, ky mjet është zgjidhja perfekte. Funksionon drejtpërdrejt në shfletuesin tuaj, nuk kërkon regjistrim dhe mban skedarët tuaj të sigurt.</p><p>Formati PNG është ideal për përdorim profesional, veçanërisht kur punoni me grafika, logo, ose imazhe që kërkojnë një sfond transparent. Ndryshe nga JPG, i cili përdor kompresim me humbje dhe mund të reduktojë cilësinë e imazhit, PNG ruan detajet e mprehta dhe mbështet transparencën alfa. Nëse jeni një dizajner, student, ose profesionist biznesi, mjeti ynë ju ofron një mënyrë të lehtë për të përmirësuar rrjedhën tuaj të punës.</p>",
   "head": {
-    "title": "Konverto JPG në PNG Online - Falas Konvertues JPG në PNG | miconvert.com"
+    "title": "Konverto JPG në PNG Online - Falas Konvertues JPG në PNG | miconvert.com",
+  "description": "Konvertoni JPG në PNG online me mbështetje për transparencën, cilësi të lartë dhe pa marka uji. Falas, i shpejtë dhe i sigurt konvertuesi JPG në PNG.",
+  "keywords": "jpg në png, konverto jpg në png, falas jpg në png, konvertues online jpg, png me transparencë",
+  "canonical": "https://miconvert.com/sq/convert/jpg-to-png",
+  "og_title": "Konvertues JPG në PNG - Falas & Online",
+  "og_description": "Konvertoni imazhet JPG në formatin PNG me transparencë dhe cilësi pa humbje. 100% falas, i shpejtë dhe i sigurt.",
+  "og_url": "https://miconvert.com/sq/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Konvertoni JPG në PNG online me mbështetje për transparencën, cilësi të lartë dhe pa marka uji. Falas, i shpejtë dhe i sigurt konvertuesi JPG në PNG."
-
-    "keywords": "jpg në png, konverto jpg në png, falas jpg në png, konvertues online jpg, png me transparencë"
-
-    "canonical": "https://miconvert.com/sq/convert/jpg-to-png"
-
-    "og_title": "Konvertues JPG në PNG - Falas & Online"
-
-    "og_description": "Konvertoni imazhet JPG në formatin PNG me transparencë dhe cilësi pa humbje. 100% falas, i shpejtë dhe i sigurt."
-
-    "og_url": "https://miconvert.com/sq/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konverto JPG në PNG Online"
+    "title": "Konverto JPG në PNG Online",
+  "description": "Konvertuesi falas dhe i shpejtë JPG në PNG me mbështetje për transparencën dhe cilësi pa humbje. Funksionon menjëherë në çdo pajisje, nuk kërkohet regjistrim."
 
-    "description": "Konvertuesi falas dhe i shpejtë JPG në PNG me mbështetje për transparencën dhe cilësi pa humbje. Funksionon menjëherë në çdo pajisje, nuk kërkohet regjistrim."
-
-  }
+  },
   "h2": [
     {
-      "title": "Pse të Konvertoni JPG në PNG?"
+      "title": "Pse të Konvertoni JPG në PNG?",
+  "description": "<p>Ndërsa JPG është i shkëlqyer për madhësi të vogla skedarësh dhe ndarje online, ai vjen me kompresim që redukton cilësinë. PNG, nga ana tjetër, është një format pa humbje që ruan detajet dhe mbështet transparencën. Ja arsyet kryesore për të përdorur konvertuesin tonë JPG në PNG:</p><ul><li><strong>Transparencë:</strong> Krijoni logo, ikona dhe imazhe pa sfond.</li><li><strong>Redaktim më i Mirë:</strong> Ideal për softuerin e dizajnit si Photoshop, Illustrator dhe Figma.</li><li><strong>Cilësi e Lartë:</strong> Ruani mprehtësinë, qartësinë e tekstit dhe detajet grafike.</li><li><strong>Përputhshmëri Ndërplatformë:</strong> PNG mbështetet gjerësisht në shfletues, aplikacione dhe sisteme operative.</li></ul>"
 
-      "description": "<p>Ndërsa JPG është i shkëlqyer për madhësi të vogla skedarësh dhe ndarje online, ai vjen me kompresim që redukton cilësinë. PNG, nga ana tjetër, është një format pa humbje që ruan detajet dhe mbështet transparencën. Ja arsyet kryesore për të përdorur konvertuesin tonë JPG në PNG:</p><ul><li><strong>Transparencë:</strong> Krijoni logo, ikona dhe imazhe pa sfond.</li><li><strong>Redaktim më i Mirë:</strong> Ideal për softuerin e dizajnit si Photoshop, Illustrator dhe Figma.</li><li><strong>Cilësi e Lartë:</strong> Ruani mprehtësinë, qartësinë e tekstit dhe detajet grafike.</li><li><strong>Përputhshmëri Ndërplatformë:</strong> PNG mbështetet gjerësisht në shfletues, aplikacione dhe sisteme operative.</li></ul>"
+    },
+  {
+      "title": "JPG vs PNG: Diferencat Kryesore",
+  "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompresimi</td><td>Me humbje (më i vogël por humbje cilësie)</td><td>Pa humbje (më i madh por i qartë)</td></tr><tr><td>Transparenca</td><td>Jo</td><td>Po (kanali alfa)</td></tr><tr><td>Best për</td><td>Fotografi, ndarje sociale</td><td>Logo, UI, tekst, grafika</td></tr><tr><td>Redaktimi</td><td>Ruajtja e përsëritur redukton cilësinë</td><td>Stabil gjatë redaktimeve</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG vs PNG: Diferencat Kryesore"
+    },
+  {
+      "title": "Si të Konvertoni JPG në PNG Online",
+  "description": "<p>Konvertimi i JPG në PNG me mjetin tonë është i thjeshtë dhe zgjat vetëm disa sekonda:</p><ol><li>Klikoni në <em>Ngarko JPG</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni që përpunimi të përfundojë.</li><li>Klikoni <em>Shkarko PNG</em> për të marrë skedarin tuaj të ri.</li></ol><p>Nuk kërkohet njohuri teknike — gjithçka ndodh në shfletuesin tuaj.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompresimi</td><td>Me humbje (më i vogël por humbje cilësie)</td><td>Pa humbje (më i madh por i qartë)</td></tr><tr><td>Transparenca</td><td>Jo</td><td>Po (kanali alfa)</td></tr><tr><td>Best për</td><td>Fotografi, ndarje sociale</td><td>Logo, UI, tekst, grafika</td></tr><tr><td>Redaktimi</td><td>Ruajtja e përsëritur redukton cilësinë</td><td>Stabil gjatë redaktimeve</td></tr></tbody></table>"
+    },
+  {
+      "title": "Kufijtë dhe Format e Mbështetur",
+  "description": "<ul><li><strong>Tipet e pranuara të inputit:</strong> image/jpeg, image/jpg</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16 MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Cilësia:</strong> PNG pa humbje me nivel kompresimi të rregullueshëm</li></ul>"
 
-    }
-    {
-      "title": "Si të Konvertoni JPG në PNG Online"
+    },
+  {
+      "title": "Këshilla për Rezultate më të Mira",
+  "description": "<ul><li><strong>Përdorni JPG me Rezolucion të Lartë:</strong> Sa më i lartë të jetë rezolucioni i JPG tuaj, aq më mirë do të duket PNG juaj.</li><li><strong>Keni Nevojë për Transparencë?</strong> Nëse JPG juaj ka një sfond, përdorni <a href='/sq/effect/remove-background'>Heqësin e Sfondit</a> fillimisht.</li><li><strong>Optimizoni Madhësinë e Skedarit:</strong> Pas konvertimit, përdorni <a href='/sq/edit/compress-image'>Kompresorin e Imazheve</a> për të reduktuar madhësinë e PNG duke ruajtur cilësinë.</li><li><strong>Për Webin:</strong> Merrni parasysh konvertimin e PNG në <a href='/sq/convert/png-to-webp'>WebP</a> për ngarkim më të shpejtë.</li></ul>"
 
-      "description": "<p>Konvertimi i JPG në PNG me mjetin tonë është i thjeshtë dhe zgjat vetëm disa sekonda:</p><ol><li>Klikoni në <em>Ngarko JPG</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni që përpunimi të përfundojë.</li><li>Klikoni <em>Shkarko PNG</em> për të marrë skedarin tuaj të ri.</li></ol><p>Nuk kërkohet njohuri teknike — gjithçka ndodh në shfletuesin tuaj.</p>"
+    },
+  {
+      "title": "Zgjidhja e Problemeve",
+  "description": "<ul><li><strong>Ngarkimi dështon:</strong> Sigurohuni që skedari juaj është JPG/JPEG dhe ≤ 16 MB.</li><li><strong>Pa transparencë:</strong> PNG ruan transparencën por nuk mund ta nxjerrë atë nga një foto të sheshtë — hiqni sfondin fillimisht.</li><li><strong>Dalja e madhe PNG:</strong> Përdorni <a href='/sq/edit/compress-image'>Kompresorin e Imazheve</a> ose kaloni në <a href='/sq/convert/png-to-webp'>WebP</a>.</li></ul>"
 
-    }
-    {
-      "title": "Kufijtë dhe Format e Mbështetur"
+    },
+  {
+      "title": "Karakteristikat e Konvertuesit Tonë JPG në PNG",
+  "description": "<ul><li>Falas pa marka uji</li><li>Përpunim i shpejtë në shfletuesin tuaj</li><li>Trajtim i sigurt — nuk nevojitet llogari</li><li>UI e pastër, miqësore për celularët</li></ul>"
 
-      "description": "<ul><li><strong>Tipet e pranuara të inputit:</strong> image/jpeg, image/jpg</li><li><strong>Madhësia maksimale e skedarit:</strong> deri në 16 MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Cilësia:</strong> PNG pa humbje me nivel kompresimi të rregullueshëm</li></ul>"
-
-    }
-    {
-      "title": "Këshilla për Rezultate më të Mira"
-
-      "description": "<ul><li><strong>Përdorni JPG me Rezolucion të Lartë:</strong> Sa më i lartë të jetë rezolucioni i JPG tuaj, aq më mirë do të duket PNG juaj.</li><li><strong>Keni Nevojë për Transparencë?</strong> Nëse JPG juaj ka një sfond, përdorni <a href='/sq/effect/remove-background'>Heqësin e Sfondit</a> fillimisht.</li><li><strong>Optimizoni Madhësinë e Skedarit:</strong> Pas konvertimit, përdorni <a href='/sq/edit/compress-image'>Kompresorin e Imazheve</a> për të reduktuar madhësinë e PNG duke ruajtur cilësinë.</li><li><strong>Për Webin:</strong> Merrni parasysh konvertimin e PNG në <a href='/sq/convert/png-to-webp'>WebP</a> për ngarkim më të shpejtë.</li></ul>"
-
-    }
-    {
-      "title": "Zgjidhja e Problemeve"
-
-      "description": "<ul><li><strong>Ngarkimi dështon:</strong> Sigurohuni që skedari juaj është JPG/JPEG dhe ≤ 16 MB.</li><li><strong>Pa transparencë:</strong> PNG ruan transparencën por nuk mund ta nxjerrë atë nga një foto të sheshtë — hiqni sfondin fillimisht.</li><li><strong>Dalja e madhe PNG:</strong> Përdorni <a href='/sq/edit/compress-image'>Kompresorin e Imazheve</a> ose kaloni në <a href='/sq/convert/png-to-webp'>WebP</a>.</li></ul>"
-
-    }
-    {
-      "title": "Karakteristikat e Konvertuesit Tonë JPG në PNG"
-
-      "description": "<ul><li>Falas pa marka uji</li><li>Përpunim i shpejtë në shfletuesin tuaj</li><li>Trajtim i sigurt — nuk nevojitet llogari</li><li>UI e pastër, miqësore për celularët</li></ul>"
+    },
+  {
+      "title": "Konvertues të Lidhuar",
+  "description": "<ul class='related-links'><li><a href='/sq/convert/png-to-jpg'>PNG në JPG</a></li><li><a href='/sq/convert/jpg-to-webp'>JPG në WebP</a></li><li><a href='/sq/convert/png-to-webp'>PNG në WebP</a></li><li><a href='/sq/convert/webp-to-png'>WebP në PNG</a></li></ul>"
 
     }
-    {
-      "title": "Konvertues të Lidhuar"
-
-      "description": "<ul class='related-links'><li><a href='/sq/convert/png-to-jpg'>PNG në JPG</a></li><li><a href='/sq/convert/jpg-to-webp'>JPG në WebP</a></li><li><a href='/sq/convert/png-to-webp'>PNG në WebP</a></li><li><a href='/sq/convert/webp-to-png'>WebP në PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "A është ky konvertues JPG në PNG falas?"
+      "question": "A është ky konvertues JPG në PNG falas?",
+  "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
 
-      "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
+    },
+  {
+      "question": "A mbështet PNG transparencën?",
+  "answer": "Po, PNG lejon sfondet transparente, duke e bërë atë të përshtatshëm për logo, ikona dhe dizajne profesionale."
 
-    }
-    {
-      "question": "A mbështet PNG transparencën?"
+    },
+  {
+      "question": "A do të humbasë imazhi cilësinë gjatë konvertimit?",
+  "answer": "Jo. Ndryshe nga JPG, PNG përdor kompresim pa humbje, kështu që imazhet tuaja të konvertuara ruajnë cilësinë e tyre origjinale."
 
-      "answer": "Po, PNG lejon sfondet transparente, duke e bërë atë të përshtatshëm për logo, ikona dhe dizajne profesionale."
+    },
+  {
+      "question": "Cilat madhësi skedarësh mbështeten?",
+  "answer": "Mund të ngarkoni imazhe deri në 16 MB për skedar. Nëse është e nevojshme, kompresoni JPG-të e mëdha para konvertimit."
 
-    }
-    {
-      "question": "A do të humbasë imazhi cilësinë gjatë konvertimit?"
+    },
+  {
+      "question": "A janë skedarët e mi të sigurt?",
+  "answer": "Skedarët tuaj përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
 
-      "answer": "Jo. Ndryshe nga JPG, PNG përdor kompresim pa humbje, kështu që imazhet tuaja të konvertuara ruajnë cilësinë e tyre origjinale."
+    },
+  {
+      "question": "A mund të konvertoj disa JPG njëherësh?",
+  "answer": "Kjo faqe konverton një skedar në një kohë. Për nevoja në grup, përsëritni procesin ose përdorni një mjet grupor."
 
-    }
-    {
-      "question": "Cilat madhësi skedarësh mbështeten?"
-
-      "answer": "Mund të ngarkoni imazhe deri në 16 MB për skedar. Nëse është e nevojshme, kompresoni JPG-të e mëdha para konvertimit."
-
-    }
-    {
-      "question": "A janë skedarët e mi të sigurt?"
-
-      "answer": "Skedarët tuaj përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
-
-    }
-    {
-      "question": "A mund të konvertoj disa JPG njëherësh?"
-
-      "answer": "Kjo faqe konverton një skedar në një kohë. Për nevoja në grup, përsëritni procesin ose përdorni një mjet grupor."
-
-    }
-    {
-      "question": "A mund ta përdor këtë mjet në telefonin tim?"
-
-      "answer": "Absolutisht. Konvertuesi është optimizuar për pajisje mobile dhe funksionon në shfletuesit iOS dhe Android."
+    },
+  {
+      "question": "A mund ta përdor këtë mjet në telefonin tim?",
+  "answer": "Absolutisht. Konvertuesi është optimizuar për pajisje mobile dhe funksionon në shfletuesit iOS dhe Android."
 
     }
-  ]
-  "note": "Kujdes: Cilësia e konvertimit varet nga rezolucioni i skedarit të inputit. Gjithmonë mbani një kopje të skedarëve tuaj origjinalë para se të redaktoni ose konvertoni."
-
-  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
-
+  ],
+  "note": "Kujdes: Cilësia e konvertimit varet nga rezolucioni i skedarit të inputit. Gjithmonë mbani një kopje të skedarëve tuaj origjinalë para se të redaktoni ose konvertoni.",
+  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues JPG në PNG - Falas & Online"
-
-      "url": "https://miconvert.com/sq/convert/jpg-to-png"
-
-      "description": "Mjet falas online për të konvertuar imazhet JPG në PNG me mbështetje për transparencën dhe cilësi pa humbje."
-
-      "inLanguage": "sq"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Konvertues JPG në PNG - Falas & Online",
+  "url": "https://miconvert.com/sq/convert/jpg-to-png",
+  "description": "Mjet falas online për të konvertuar imazhet JPG në PNG me mbështetje për transparencën dhe cilësi pa humbje.",
+  "inLanguage": "sq",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Kryefaqja",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Kryefaqja"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konverto",
+  "item": "https://miconvert.com/sq/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverto"
-
-          "item": "https://miconvert.com/sq/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG në PNG"
-
-          "item": "https://miconvert.com/sq/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG në PNG",
+  "item": "https://miconvert.com/sq/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Konvertues JPG në PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sq/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Dalje PNG pa humbje",
+  "Mbështetje për transparencën",
+  "Përpunim të shpejtë në shfletues"
 
-      "name": "Konvertues JPG në PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sq/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Dalje PNG pa humbje"
-
-        "Mbështetje për transparencën"
-
-        "Përpunim të shpejtë në shfletues"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "A është ky konvertues JPG në PNG falas?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
+          "@type": "Question",
+  "name": "A është ky konvertues JPG në PNG falas?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "A mbështet PNG transparencën?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, PNG lejon sfondet transparente, duke e bërë atë të përshtatshëm për logo, ikona dhe dizajne profesionale."
+        },
+  {
+          "@type": "Question",
+  "name": "A mbështet PNG transparencën?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Po, PNG lejon sfondet transparente, duke e bërë atë të përshtatshëm për logo, ikona dhe dizajne profesionale."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "A do të humbasë imazhi cilësinë gjatë konvertimit?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jo. Ndryshe nga JPG, PNG përdor kompresim pa humbje, kështu që imazhet tuaja të konvertuara ruajnë cilësinë e tyre origjinale."
+        },
+  {
+          "@type": "Question",
+  "name": "A do të humbasë imazhi cilësinë gjatë konvertimit?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jo. Ndryshe nga JPG, PNG përdor kompresim pa humbje, kështu që imazhet tuaja të konvertuara ruajnë cilësinë e tyre origjinale."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Cilat madhësi skedarësh mbështeten?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar. Nëse është e nevojshme, kompresoni JPG-të e mëdha para konvertimit."
+        },
+  {
+          "@type": "Question",
+  "name": "Cilat madhësi skedarësh mbështeten?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar. Nëse është e nevojshme, kompresoni JPG-të e mëdha para konvertimit."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "A janë skedarët e mi të sigurt?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Skedarët tuaj përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
+        },
+  {
+          "@type": "Question",
+  "name": "A janë skedarët e mi të sigurt?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Skedarët tuaj përpunohen automatikisht dhe nuk ruhen më gjatë se sa është e nevojshme për konvertim."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "A mund të konvertoj disa JPG njëherësh?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Kjo faqe konverton një skedar në një kohë. Për nevoja në grup, përsëritni procesin ose përdorni një mjet grupor."
+        },
+  {
+          "@type": "Question",
+  "name": "A mund të konvertoj disa JPG njëherësh?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Kjo faqe konverton një skedar në një kohë. Për nevoja në grup, përsëritni procesin ose përdorni një mjet grupor."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Si të konvertoni JPG në PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Si të konvertoni JPG në PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikoni Ngarko JPG dhe zgjidhni imazhin tuaj."
 
-          "text": "Klikoni Ngarko JPG dhe zgjidhni imazhin tuaj."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Prisni që përpunimi të përfundojë."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikoni Shkarko PNG për të ruajtur rezultatin."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Prisni që përpunimi të përfundojë."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Shkarko PNG për të ruajtur rezultatin."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Konvertues JPG në PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

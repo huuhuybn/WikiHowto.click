@@ -1,367 +1,274 @@
 {
-  "lang": "ar"
-
-  "lang_name": "العربية"
-
-  "title": "محول JPG إلى TIFF - مجاني وعبر الإنترنت | miconvert.com"
-
-  "sub_title": "قم بتحويل صور JPG إلى TIFF عبر الإنترنت مع خيارات ضغط بدون فقدان وجودة جاهزة للطباعة. لا علامات مائية."
-
-  "hint": "قم بتحميل صورة JPG الخاصة بك لبدء التحويل..."
-
-  "btn_download": "تحويل إلى TIFF"
-
-  "btn_paste": "تحميل JPG"
-
-  "btn_clear": "مسح"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "ar",
+  "lang_name": "العربية",
+  "title": "محول JPG إلى TIFF - مجاني وعبر الإنترنت | miconvert.com",
+  "sub_title": "قم بتحويل صور JPG إلى TIFF عبر الإنترنت مع خيارات ضغط بدون فقدان وجودة جاهزة للطباعة. لا علامات مائية.",
+  "hint": "قم بتحميل صورة JPG الخاصة بك لبدء التحويل...",
+  "btn_download": "تحويل إلى TIFF",
+  "btn_paste": "تحميل JPG",
+  "btn_clear": "مسح",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "تحويل JPG إلى TIFF - محول JPG إلى TIFF مجاني عبر الإنترنت"
+    "title": "تحويل JPG إلى TIFF - محول JPG إلى TIFF مجاني عبر الإنترنت",
+  "description": "قم بتحويل صور JPG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل JPG إلى TIFF بجودة عالية مع معالجة سريعة.",
+  "keywords": "jpg إلى tiff، تحويل jpg إلى tiff، jpg إلى tiff مجاني، محول tiff عبر الإنترنت، تحويل الصور",
+  "canonical": "https://miconvert.com/ar/convert/jpg-to-tiff",
+  "og_title": "تحويل JPG إلى TIFF - محول JPG إلى TIFF مجاني عبر الإنترنت",
+  "og_description": "قم بتحويل صور JPG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل JPG إلى TIFF بجودة عالية مع معالجة سريعة.",
+  "og_url": "https://miconvert.com/ar/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "قم بتحويل صور JPG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل JPG إلى TIFF بجودة عالية مع معالجة سريعة."
-
-    "keywords": "jpg إلى tiff، تحويل jpg إلى tiff، jpg إلى tiff مجاني، محول tiff عبر الإنترنت، تحويل الصور"
-
-    "canonical": "https://miconvert.com/ar/convert/jpg-to-tiff"
-
-    "og_title": "تحويل JPG إلى TIFF - محول JPG إلى TIFF مجاني عبر الإنترنت"
-
-    "og_description": "قم بتحويل صور JPG إلى تنسيق TIFF عبر الإنترنت مجانًا. تحويل JPG إلى TIFF بجودة عالية مع معالجة سريعة."
-
-    "og_url": "https://miconvert.com/ar/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "تحويل JPG إلى TIFF عبر الإنترنت"
+    "title": "تحويل JPG إلى TIFF عبر الإنترنت",
+  "description": "محول JPG إلى TIFF مجاني مع خيارات ضغط بدون فقدان ومخرجات جاهزة للطباعة. يعمل على أي جهاز - لا حاجة للتسجيل."
 
-    "description": "محول JPG إلى TIFF مجاني مع خيارات ضغط بدون فقدان ومخرجات جاهزة للطباعة. يعمل على أي جهاز - لا حاجة للتسجيل."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "محول JPG إلى TIFF"
-
-    "description": "قم بتحويل صور JPG إلى TIFF مع ضغط بدون فقدان LZW/ZIP وألوان دقيقة."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "محول JPG إلى TIFF",
+  "description": "قم بتحويل صور JPG إلى TIFF مع ضغط بدون فقدان LZW/ZIP وألوان دقيقة.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "خيار TIFF بدون فقدان (LZW/ZIP)",
+  "جودة جاهزة للطباعة",
+  "ألوان دقيقة",
+  "أداة مجانية عبر الإنترنت"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "خيار TIFF بدون فقدان (LZW/ZIP)"
-
-      "جودة جاهزة للطباعة"
-
-      "ألوان دقيقة"
-
-      "أداة مجانية عبر الإنترنت"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "اكتمل تحويل JPG إلى TIFF"
+    "title": "اكتمل تحويل JPG إلى TIFF",
+  "back_button": "العودة إلى المحول",
+  "convert_another": "تحويل JPG آخر",
+  "quick_conversions": "تحويلات سريعة:"
 
-    "back_button": "العودة إلى المحول"
-
-    "convert_another": "تحويل JPG آخر"
-
-    "quick_conversions": "تحويلات سريعة:"
-
-  }
+  },
   "h2": [
     {
-      "title": "لماذا تحويل JPG إلى TIFF؟"
+      "title": "لماذا تحويل JPG إلى TIFF؟",
+  "description": "<p>TIFF هو تنسيق احترافي من الدرجة الأرشيفية يستخدم في التصوير والطباعة:</p><ul><li><strong>خيارات بدون فقدان:</strong> احفظ نسخة نظيفة بدون آثار JPEG جديدة.</li><li><strong>جاهز للطباعة:</strong> يحافظ على التفاصيل للإخراج عالي الدقة.</li><li><strong>مرن:</strong> يدعم قناة ألفا ومساحات لونية متعددة (تعتمد على القارئ).</li><li><strong>صديق لعملية العمل:</strong> مستقر للتعديلات المتكررة والتسليمات.</li></ul><p><em>ملاحظة:</em> التحويل من JPG (مع فقدان) لن يستعيد التفاصيل المفقودة بشكل سحري - ولكنه يساعد في تجنب المزيد من التدهور في عمليات الحفظ اللاحقة.</p>"
 
-      "description": "<p>TIFF هو تنسيق احترافي من الدرجة الأرشيفية يستخدم في التصوير والطباعة:</p><ul><li><strong>خيارات بدون فقدان:</strong> احفظ نسخة نظيفة بدون آثار JPEG جديدة.</li><li><strong>جاهز للطباعة:</strong> يحافظ على التفاصيل للإخراج عالي الدقة.</li><li><strong>مرن:</strong> يدعم قناة ألفا ومساحات لونية متعددة (تعتمد على القارئ).</li><li><strong>صديق لعملية العمل:</strong> مستقر للتعديلات المتكررة والتسليمات.</li></ul><p><em>ملاحظة:</em> التحويل من JPG (مع فقدان) لن يستعيد التفاصيل المفقودة بشكل سحري - ولكنه يساعد في تجنب المزيد من التدهور في عمليات الحفظ اللاحقة.</p>"
+    },
+  {
+      "title": "كيفية تحويل JPG إلى TIFF عبر الإنترنت",
+  "description": "<ol><li>انقر على <em>تحميل JPG</em> واختر صورتك.</li><li>انتظر حتى تكتمل المعالجة.</li><li>انقر على <em>تحميل TIFF</em> لحفظ الملف.</li></ol><p>الإعداد الافتراضي: 24 بت RGB، ضغط LZW بدون فقدان، 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "كيفية تحويل JPG إلى TIFF عبر الإنترنت"
+    },
+  {
+      "title": "TIFF مقابل JPG: الاختلافات الرئيسية",
+  "description": "<table class='table-compare'><thead><tr><th>الميزة</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>الضغط</td><td>مع فقدان (JPEG)</td><td>بدون فقدان (LZW/ZIP) أو JPEG/لا شيء</td></tr><tr><td>حجم الملف</td><td>صغير</td><td>أكبر (يعتمد على الضغط)</td></tr><tr><td>الشفافية</td><td>لا</td><td>ألفا اختيارية (تعتمد على القارئ)</td></tr><tr><td>الأفضل لـ</td><td>الويب/مشاركة الصور</td><td>التعديل، الطباعة، الأرشفة</td></tr></tbody></table>"
 
-      "description": "<ol><li>انقر على <em>تحميل JPG</em> واختر صورتك.</li><li>انتظر حتى تكتمل المعالجة.</li><li>انقر على <em>تحميل TIFF</em> لحفظ الملف.</li></ol><p>الإعداد الافتراضي: 24 بت RGB، ضغط LZW بدون فقدان، 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "الحدود المدعومة والتنسيقات",
+  "description": "<ul><li><strong>المدخلات المقبولة:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>أقصى حجم للملف:</strong> حتى 16&nbsp;ميغابايت لكل ملف</li><li><strong>الإخراج:</strong> TIFF (<code>.tiff</code>، MIME <code>image/tiff</code>)</li><li><strong>الإعدادات الافتراضية:</strong> 24 بت RGB، ضغط LZW، 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF مقابل JPG: الاختلافات الرئيسية"
-
-      "description": "<table class='table-compare'><thead><tr><th>الميزة</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>الضغط</td><td>مع فقدان (JPEG)</td><td>بدون فقدان (LZW/ZIP) أو JPEG/لا شيء</td></tr><tr><td>حجم الملف</td><td>صغير</td><td>أكبر (يعتمد على الضغط)</td></tr><tr><td>الشفافية</td><td>لا</td><td>ألفا اختيارية (تعتمد على القارئ)</td></tr><tr><td>الأفضل لـ</td><td>الويب/مشاركة الصور</td><td>التعديل، الطباعة، الأرشفة</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "الحدود المدعومة والتنسيقات"
-
-      "description": "<ul><li><strong>المدخلات المقبولة:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>أقصى حجم للملف:</strong> حتى 16&nbsp;ميغابايت لكل ملف</li><li><strong>الإخراج:</strong> TIFF (<code>.tiff</code>، MIME <code>image/tiff</code>)</li><li><strong>الإعدادات الافتراضية:</strong> 24 بت RGB، ضغط LZW، 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "استكشاف الأخطاء وإصلاحها"
-
-      "description": "<ul><li><strong>الملف كبير جدًا:</strong> TIFF أثقل عن عمد. للحصول على ضغط بدون فقدان أصغر، جرب <a href='/ar/convert/jpg-to-png'>JPG إلى PNG</a>.</li><li><strong>تحتاج إلى الشفافية:</strong> JPG المصدر يفتقر إلى ألفا؛ قم بالتحويل وتحرير ألفا في محرر، أو ابدأ من PNG.</li><li><strong>تحول اللون:</strong> قم بالتحويل إلى sRGB قبل التحميل لضمان التناسق على الويب.</li><li><strong>فشل التحميل:</strong> تأكد من أن JPG/JPEG ≤ 16&nbsp;ميغابايت.</li></ul>"
+    },
+  {
+      "title": "استكشاف الأخطاء وإصلاحها",
+  "description": "<ul><li><strong>الملف كبير جدًا:</strong> TIFF أثقل عن عمد. للحصول على ضغط بدون فقدان أصغر، جرب <a href='/ar/convert/jpg-to-png'>JPG إلى PNG</a>.</li><li><strong>تحتاج إلى الشفافية:</strong> JPG المصدر يفتقر إلى ألفا؛ قم بالتحويل وتحرير ألفا في محرر، أو ابدأ من PNG.</li><li><strong>تحول اللون:</strong> قم بالتحويل إلى sRGB قبل التحميل لضمان التناسق على الويب.</li><li><strong>فشل التحميل:</strong> تأكد من أن JPG/JPEG ≤ 16&nbsp;ميغابايت.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "هل هذا المحول من JPG إلى TIFF مجاني؟"
+      "question": "هل هذا المحول من JPG إلى TIFF مجاني؟",
+  "answer": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
 
-      "answer": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
+    },
+  {
+      "question": "هل سيعمل TIFF على جميع التطبيقات؟",
+  "answer": "TIFF مدعوم على نطاق واسع في التطبيقات الاحترافية (Photoshop، Affinity، العديد من أدوات RIP/الطباعة). قد لا تدعم بعض العارضات البسيطة جميع خيارات الضغط."
 
-    }
-    {
-      "question": "هل سيعمل TIFF على جميع التطبيقات؟"
+    },
+  {
+      "question": "ما مدى كبر ملفات TIFF مقارنة بـ JPG؟",
+  "answer": "عادةً ما تكون أكبر بمقدار 3-10 مرات من JPG بنفس الأبعاد (تختلف حسب المحتوى والضغط)."
 
-      "answer": "TIFF مدعوم على نطاق واسع في التطبيقات الاحترافية (Photoshop، Affinity، العديد من أدوات RIP/الطباعة). قد لا تدعم بعض العارضات البسيطة جميع خيارات الضغط."
+    },
+  {
+      "question": "ما أحجام الملفات المدعومة؟",
+  "answer": "يمكنك تحميل صور تصل إلى 16&nbsp;ميغابايت لكل ملف."
 
-    }
-    {
-      "question": "ما مدى كبر ملفات TIFF مقارنة بـ JPG؟"
+    },
+  {
+      "question": "هل ملفاتك آمنة؟",
+  "answer": "يتم معالجة الملفات تلقائيًا ولا يتم الاحتفاظ بها لفترة أطول من اللازم للتحويل."
 
-      "answer": "عادةً ما تكون أكبر بمقدار 3-10 مرات من JPG بنفس الأبعاد (تختلف حسب المحتوى والضغط)."
+    },
+  {
+      "question": "هل يمكنني تحويل عدة JPGs في وقت واحد؟",
+  "answer": "تقوم هذه الصفحة بتحويل ملف واحد في كل مرة. لاحتياجات التحويل بالجملة، كرر العملية أو استخدم أداة دفعة."
 
-    }
-    {
-      "question": "ما أحجام الملفات المدعومة؟"
-
-      "answer": "يمكنك تحميل صور تصل إلى 16&nbsp;ميغابايت لكل ملف."
-
-    }
-    {
-      "question": "هل ملفاتك آمنة؟"
-
-      "answer": "يتم معالجة الملفات تلقائيًا ولا يتم الاحتفاظ بها لفترة أطول من اللازم للتحويل."
-
-    }
-    {
-      "question": "هل يمكنني تحويل عدة JPGs في وقت واحد؟"
-
-      "answer": "تقوم هذه الصفحة بتحويل ملف واحد في كل مرة. لاحتياجات التحويل بالجملة، كرر العملية أو استخدم أداة دفعة."
-
-    }
-    {
-      "question": "هل يدعم TIFF الطبقات؟"
-
-      "answer": "TIFF القياسي هو صورة مسطحة؛ بعض التطبيقات تخزن بيانات الطبقة الخاصة بها؛ هذه الأداة تنتج TIFF مسطح."
+    },
+  {
+      "question": "هل يدعم TIFF الطبقات؟",
+  "answer": "TIFF القياسي هو صورة مسطحة؛ بعض التطبيقات تخزن بيانات الطبقة الخاصة بها؛ هذه الأداة تنتج TIFF مسطح."
 
     }
-  ]
-  "note": "TIFF مناسب للتخزين/الطباعة ولكنه كبير الحجم. للويب، اعتبر PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF مناسب للتخزين/الطباعة ولكنه كبير الحجم. للويب، اعتبر PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "تحويل JPG إلى PNG"
+      "title": "تحويل JPG إلى PNG",
+  "url": "/ar/convert/jpg-to-png"
 
-      "url": "/ar/convert/jpg-to-png"
+    },
+  {
+      "title": "تحويل JPG إلى WebP",
+  "url": "/ar/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "تحويل JPG إلى WebP"
-
-      "url": "/ar/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "تحويل PNG إلى TIFF"
-
-      "url": "/ar/convert/png-to-tiff"
+    },
+  {
+      "title": "تحويل PNG إلى TIFF",
+  "url": "/ar/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. جميع الحقوق محفوظة."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. جميع الحقوق محفوظة.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "محول JPG إلى TIFF - مجاني وعبر الإنترنت"
-
-      "url": "https://miconvert.com/ar/convert/jpg-to-tiff"
-
-      "description": "أداة مجانية عبر الإنترنت لتحويل صور JPG إلى TIFF مع ضغط بدون فقدان ومخرجات جاهزة للطباعة."
-
-      "inLanguage": "ar"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "محول JPG إلى TIFF - مجاني وعبر الإنترنت",
+  "url": "https://miconvert.com/ar/convert/jpg-to-tiff",
+  "description": "أداة مجانية عبر الإنترنت لتحويل صور JPG إلى TIFF مع ضغط بدون فقدان ومخرجات جاهزة للطباعة.",
+  "inLanguage": "ar",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "الرئيسية",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "الرئيسية"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "تحويل",
+  "item": "https://miconvert.com/ar/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "تحويل"
-
-          "item": "https://miconvert.com/ar/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG إلى TIFF"
-
-          "item": "https://miconvert.com/ar/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG إلى TIFF",
+  "item": "https://miconvert.com/ar/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "محول JPG إلى TIFF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ar/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "خيار LZW بدون فقدان",
+  "جاهز للطباعة 300 DPI",
+  "ألوان دقيقة"
 
-      "name": "محول JPG إلى TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ar/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "خيار LZW بدون فقدان"
-
-        "جاهز للطباعة 300 DPI"
-
-        "ألوان دقيقة"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "هل هذا المحول من JPG إلى TIFF مجاني؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
+          "@type": "Question",
+  "name": "هل هذا المحول من JPG إلى TIFF مجاني؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "نعم، المحول مجاني تمامًا بدون رسوم خفية أو اشتراكات."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ما أحجام الملفات المدعومة؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "يمكنك تحميل صور تصل إلى 16 ميغابايت لكل ملف."
+        },
+  {
+          "@type": "Question",
+  "name": "ما أحجام الملفات المدعومة؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "يمكنك تحميل صور تصل إلى 16 ميغابايت لكل ملف."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "هل يدعم TIFF الطبقات؟"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "TIFF القياسي هو صورة مسطحة. بعض التطبيقات تخزن بيانات الطبقة الخاصة؛ هذه الأداة تنتج TIFF مسطح."
+        },
+  {
+          "@type": "Question",
+  "name": "هل يدعم TIFF الطبقات؟",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "TIFF القياسي هو صورة مسطحة. بعض التطبيقات تخزن بيانات الطبقة الخاصة؛ هذه الأداة تنتج TIFF مسطح."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "كيفية تحويل JPG إلى TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "كيفية تحويل JPG إلى TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "انقر على تحميل JPG واختر صورتك."
 
-          "text": "انقر على تحميل JPG واختر صورتك."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "انتظر حتى تكتمل المعالجة."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "انقر على تحميل TIFF لحفظ الملف."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "انتظر حتى تكتمل المعالجة."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "انقر على تحميل TIFF لحفظ الملف."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "محول JPG إلى TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

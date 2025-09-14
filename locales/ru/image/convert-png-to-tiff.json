@@ -1,367 +1,274 @@
 {
-  "lang": "ru"
-
-  "lang_name": "Русский"
-
-  "title": "Конвертер PNG в TIFF - Бесплатно и Онлайн | miconvert.com"
-
-  "sub_title": "Конвертируйте изображения PNG в TIFF онлайн с безупречными опциями, качеством, готовым к печати, и сохраненной прозрачностью. Без водяных знаков."
-
-  "hint": "Загрузите ваше изображение PNG, чтобы начать конвертацию..."
-
-  "btn_download": "Конвертировать в TIFF"
-
-  "btn_paste": "Загрузить PNG"
-
-  "btn_clear": "Очистить"
-
-  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
-
+  "lang": "ru",
+  "lang_name": "Русский",
+  "title": "Конвертер PNG в TIFF - Бесплатно и Онлайн | miconvert.com",
+  "sub_title": "Конвертируйте изображения PNG в TIFF онлайн с безупречными опциями, качеством, готовым к печати, и сохраненной прозрачностью. Без водяных знаков.",
+  "hint": "Загрузите ваше изображение PNG, чтобы начать конвертацию...",
+  "btn_download": "Конвертировать в TIFF",
+  "btn_paste": "Загрузить PNG",
+  "btn_clear": "Очистить",
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg",
   "head": {
-    "title": "Конвертировать PNG в TIFF - Бесплатный Онлайн Конвертер PNG в TIFF | miconvert.com"
+    "title": "Конвертировать PNG в TIFF - Бесплатный Онлайн Конвертер PNG в TIFF | miconvert.com",
+  "description": "Конвертируйте изображения PNG в формат TIFF онлайн бесплатно. Высококачественная конвертация PNG в TIFF с безупречными опциями и быстрой обработкой.",
+  "keywords": "png в tiff, конвертировать png в tiff, бесплатный png в tiff, онлайн конвертер tiff, конвертация изображений",
+  "canonical": "https://miconvert.com/ru/convert/png-to-tiff",
+  "og_title": "Конвертировать PNG в TIFF - Бесплатный Онлайн Конвертер PNG в TIFF",
+  "og_description": "Конвертируйте изображения PNG в TIFF с опциями безупречной компрессии и сохраненной прозрачностью. Бесплатно, быстро и безопасно.",
+  "og_url": "https://miconvert.com/ru/convert/png-to-tiff",
+  "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
 
-    "description": "Конвертируйте изображения PNG в формат TIFF онлайн бесплатно. Высококачественная конвертация PNG в TIFF с безупречными опциями и быстрой обработкой."
-
-    "keywords": "png в tiff, конвертировать png в tiff, бесплатный png в tiff, онлайн конвертер tiff, конвертация изображений"
-
-    "canonical": "https://miconvert.com/ru/convert/png-to-tiff"
-
-    "og_title": "Конвертировать PNG в TIFF - Бесплатный Онлайн Конвертер PNG в TIFF"
-
-    "og_description": "Конвертируйте изображения PNG в TIFF с опциями безупречной компрессии и сохраненной прозрачностью. Бесплатно, быстро и безопасно."
-
-    "og_url": "https://miconvert.com/ru/convert/png-to-tiff"
-
-    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертировать PNG в TIFF Онлайн"
+    "title": "Конвертировать PNG в TIFF Онлайн",
+  "description": "Бесплатный конвертер PNG в TIFF с опциями безупречной компрессии и качественным выводом. Работает на любом устройстве — регистрация не требуется."
 
-    "description": "Бесплатный конвертер PNG в TIFF с опциями безупречной компрессии и качественным выводом. Работает на любом устройстве — регистрация не требуется."
-
-  }
+  },
   "converter": {
-    "type": "png-to-tiff"
-
-    "title": "Конвертер PNG в TIFF"
-
-    "description": "Конвертируйте изображения PNG в TIFF с безупречной компрессией LZW/ZIP, сохраняя альфа-прозрачность."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "png-to-tiff",
+  "title": "Конвертер PNG в TIFF",
+  "description": "Конвертируйте изображения PNG в TIFF с безупречной компрессией LZW/ZIP, сохраняя альфа-прозрачность.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Опция безупречного TIFF (LZW/ZIP)",
+  "Сохраняет прозрачность (альфа)",
+  "Качество, готовое к печати",
+  "Бесплатный онлайн инструмент"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Опция безупречного TIFF (LZW/ZIP)"
-
-      "Сохраняет прозрачность (альфа)"
-
-      "Качество, готовое к печати"
-
-      "Бесплатный онлайн инструмент"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 32
-        "alpha": true
-        "dpi": 300
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 32,
+  "alpha": true,
+  "dpi": 300
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Конвертация PNG в TIFF Завершена"
+    "title": "Конвертация PNG в TIFF Завершена",
+  "back_button": "Назад к Конвертеру",
+  "convert_another": "Конвертировать Другой PNG",
+  "quick_conversions": "Быстрые Конверсии:"
 
-    "back_button": "Назад к Конвертеру"
-
-    "convert_another": "Конвертировать Другой PNG"
-
-    "quick_conversions": "Быстрые Конверсии:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Почему стоит конвертировать PNG в TIFF?"
+      "title": "Почему стоит конвертировать PNG в TIFF?",
+  "description": "<p>TIFF — это профессиональный, архивный формат, используемый в изображениях и печати:</p><ul><li><strong>Безупречные опции:</strong> Сохраняйте чистый мастер без введения новых артефактов.</li><li><strong>Готов к печати:</strong> Отлично подходит для высококачественного вывода и предпечатных рабочих процессов.</li><li><strong>Поддержка альфа:</strong> Может сохранять прозрачность (в зависимости от читателя).</li><li><strong>Удобен для редактирования:</strong> Стабилен для повторных сохранений и передачи.</li></ul>"
 
-      "description": "<p>TIFF — это профессиональный, архивный формат, используемый в изображениях и печати:</p><ul><li><strong>Безупречные опции:</strong> Сохраняйте чистый мастер без введения новых артефактов.</li><li><strong>Готов к печати:</strong> Отлично подходит для высококачественного вывода и предпечатных рабочих процессов.</li><li><strong>Поддержка альфа:</strong> Может сохранять прозрачность (в зависимости от читателя).</li><li><strong>Удобен для редактирования:</strong> Стабилен для повторных сохранений и передачи.</li></ul>"
+    },
+  {
+      "title": "Как конвертировать PNG в TIFF Онлайн",
+  "description": "<ol><li>Нажмите <em>Загрузить PNG</em> и выберите ваш файл.</li><li>Подождите, пока обработка завершится.</li><li>Нажмите <em>Скачать TIFF</em>, чтобы сохранить результат.</li></ol><p>По умолчанию: 32-битный RGBA, безупречная компрессия LZW, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Как конвертировать PNG в TIFF Онлайн"
+    },
+  {
+      "title": "TIFF против PNG: Ключевые Различия",
+  "description": "<ul><li><strong>Компрессия:</strong> PNG использует безупречный DEFLATE; TIFF поддерживает LZW/ZIP (безупречный) или другие.</li><li><strong>Размер файла:</strong> Зависит от содержания изображения; TIFF может быть больше или аналогичен PNG.</li><li><strong>Прозрачность:</strong> Оба могут включать альфа (поддержка просмотра может варьироваться для TIFF).</li><li><strong>Лучше всего для:</strong> PNG для веб-доставки; TIFF для редактирования, печати и архивирования.</li></ul>"
 
-      "description": "<ol><li>Нажмите <em>Загрузить PNG</em> и выберите ваш файл.</li><li>Подождите, пока обработка завершится.</li><li>Нажмите <em>Скачать TIFF</em>, чтобы сохранить результат.</li></ol><p>По умолчанию: 32-битный RGBA, безупречная компрессия LZW, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Поддерживаемые Ограничения и Форматы",
+  "description": "<ul><li><strong>Принятый ввод:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальный размер файла:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вывод:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>По умолчанию:</strong> 32-битный RGBA, компрессия LZW, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF против PNG: Ключевые Различия"
-
-      "description": "<ul><li><strong>Компрессия:</strong> PNG использует безупречный DEFLATE; TIFF поддерживает LZW/ZIP (безупречный) или другие.</li><li><strong>Размер файла:</strong> Зависит от содержания изображения; TIFF может быть больше или аналогичен PNG.</li><li><strong>Прозрачность:</strong> Оба могут включать альфа (поддержка просмотра может варьироваться для TIFF).</li><li><strong>Лучше всего для:</strong> PNG для веб-доставки; TIFF для редактирования, печати и архивирования.</li></ul>"
-
-    }
-    {
-      "title": "Поддерживаемые Ограничения и Форматы"
-
-      "description": "<ul><li><strong>Принятый ввод:</strong> PNG (<code>image/png</code>)</li><li><strong>Максимальный размер файла:</strong> до 16&nbsp;МБ на файл</li><li><strong>Вывод:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>По умолчанию:</strong> 32-битный RGBA, компрессия LZW, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Устранение Неполадок"
-
-      "description": "<ul><li><strong>Файл слишком большой:</strong> TIFF тяжелее для некоторых содержаний — оставьте PNG для веба или рассмотрите WebP/AVIF.</li><li><strong>Альфа не видна:</strong> Некоторые просмотрщики игнорируют альфа-канал TIFF; проверьте в профессиональном редакторе.</li><li><strong>Смещение цвета:</strong> Конвертируйте в sRGB перед загрузкой для согласованного цветопередачи на экране.</li><li><strong>Ошибка загрузки:</strong> Убедитесь, что PNG ≤ 16&nbsp;МБ.</li></ul>"
+    },
+  {
+      "title": "Устранение Неполадок",
+  "description": "<ul><li><strong>Файл слишком большой:</strong> TIFF тяжелее для некоторых содержаний — оставьте PNG для веба или рассмотрите WebP/AVIF.</li><li><strong>Альфа не видна:</strong> Некоторые просмотрщики игнорируют альфа-канал TIFF; проверьте в профессиональном редакторе.</li><li><strong>Смещение цвета:</strong> Конвертируйте в sRGB перед загрузкой для согласованного цветопередачи на экране.</li><li><strong>Ошибка загрузки:</strong> Убедитесь, что PNG ≤ 16&nbsp;МБ.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Этот конвертер PNG в TIFF бесплатный?"
+      "question": "Этот конвертер PNG в TIFF бесплатный?",
+  "answer": "Да, конвертер совершенно бесплатен, без скрытых платежей или подписок."
 
-      "answer": "Да, конвертер совершенно бесплатен, без скрытых платежей или подписок."
+    },
+  {
+      "question": "Будет ли TIFF работать во всех приложениях?",
+  "answer": "TIFF широко поддерживается в профессиональных приложениях (Photoshop, Affinity, многие RIP/печать инструменты). Некоторые простые просмотрщики могут не отображать альфа или определенные методы компрессии."
 
-    }
-    {
-      "question": "Будет ли TIFF работать во всех приложениях?"
+    },
+  {
+      "question": "Каков размер файлов TIFF по сравнению с PNG?",
+  "answer": "Это зависит от изображения. С LZW/ZIP TIFF может быть аналогичен или больше PNG в зависимости от содержания."
 
-      "answer": "TIFF широко поддерживается в профессиональных приложениях (Photoshop, Affinity, многие RIP/печать инструменты). Некоторые простые просмотрщики могут не отображать альфа или определенные методы компрессии."
+    },
+  {
+      "question": "Какие размеры файлов поддерживаются?",
+  "answer": "Вы можете загружать изображения размером до 16&nbsp;МБ на файл."
 
-    }
-    {
-      "question": "Каков размер файлов TIFF по сравнению с PNG?"
+    },
+  {
+      "question": "Безопасны ли мои файлы?",
+  "answer": "Файлы обрабатываются автоматически и не хранятся дольше, чем необходимо для конвертации."
 
-      "answer": "Это зависит от изображения. С LZW/ZIP TIFF может быть аналогичен или больше PNG в зависимости от содержания."
+    },
+  {
+      "question": "Могу ли я конвертировать несколько PNG одновременно?",
+  "answer": "Эта страница конвертирует один файл за раз. Для массовых нужд повторите процесс или используйте пакетный инструмент."
 
-    }
-    {
-      "question": "Какие размеры файлов поддерживаются?"
-
-      "answer": "Вы можете загружать изображения размером до 16&nbsp;МБ на файл."
-
-    }
-    {
-      "question": "Безопасны ли мои файлы?"
-
-      "answer": "Файлы обрабатываются автоматически и не хранятся дольше, чем необходимо для конвертации."
-
-    }
-    {
-      "question": "Могу ли я конвертировать несколько PNG одновременно?"
-
-      "answer": "Эта страница конвертирует один файл за раз. Для массовых нужд повторите процесс или используйте пакетный инструмент."
-
-    }
-    {
-      "question": "Поддерживает ли TIFF слои?"
-
-      "answer": "Стандартный TIFF — это плоское изображение; некоторые приложения встраивают частные данные слоев. Этот инструмент выводит плоский TIFF."
+    },
+  {
+      "question": "Поддерживает ли TIFF слои?",
+  "answer": "Стандартный TIFF — это плоское изображение; некоторые приложения встраивают частные данные слоев. Этот инструмент выводит плоский TIFF."
 
     }
-  ]
-  "note": "TIFF подходит для хранения/печати, но может быть тяжелым. Для веба рассмотрите PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF подходит для хранения/печати, но может быть тяжелым. Для веба рассмотрите PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Конвертировать PNG в JPG"
+      "title": "Конвертировать PNG в JPG",
+  "url": "/ru/convert/png-to-jpg"
 
-      "url": "/ru/convert/png-to-jpg"
+    },
+  {
+      "title": "Конвертировать PNG в WebP",
+  "url": "/ru/convert/png-to-webp"
 
-    }
-    {
-      "title": "Конвертировать PNG в WebP"
-
-      "url": "/ru/convert/png-to-webp"
-
-    }
-    {
-      "title": "Конвертировать JPG в TIFF"
-
-      "url": "/ru/convert/jpg-to-tiff"
+    },
+  {
+      "title": "Конвертировать JPG в TIFF",
+  "url": "/ru/convert/jpg-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Все права защищены."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Все права защищены.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер PNG в TIFF - Бесплатно и Онлайн"
-
-      "url": "https://miconvert.com/ru/convert/png-to-tiff"
-
-      "description": "Бесплатный онлайн инструмент для конвертации изображений PNG в TIFF с безупречными опциями и сохраненной прозрачностью."
-
-      "inLanguage": "ru"
-
-      "image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Конвертер PNG в TIFF - Бесплатно и Онлайн",
+  "url": "https://miconvert.com/ru/convert/png-to-tiff",
+  "description": "Бесплатный онлайн инструмент для конвертации изображений PNG в TIFF с безупречными опциями и сохраненной прозрачностью.",
+  "inLanguage": "ru",
+  "image": "https://miconvert.com/images/png-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Главная",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Главная"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Конвертировать",
+  "item": "https://miconvert.com/ru/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертировать"
-
-          "item": "https://miconvert.com/ru/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG в TIFF"
-
-          "item": "https://miconvert.com/ru/convert/png-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG в TIFF",
+  "item": "https://miconvert.com/ru/convert/png-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Конвертер PNG в TIFF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ru/convert/png-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "RUB"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Опция безупречного LZW",
+  "Сохраняет альфа",
+  "Готовый к печати 300 DPI"
 
-      "name": "Конвертер PNG в TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ru/convert/png-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "RUB"
-
-      }
-      "featureList": [
-        "Опция безупречного LZW"
-
-        "Сохраняет альфа"
-
-        "Готовый к печати 300 DPI"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Этот конвертер PNG в TIFF бесплатный?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Да, конвертер совершенно бесплатен, без скрытых платежей или подписок."
+          "@type": "Question",
+  "name": "Этот конвертер PNG в TIFF бесплатный?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Да, конвертер совершенно бесплатен, без скрытых платежей или подписок."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Какие размеры файлов поддерживаются?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Вы можете загружать изображения размером до 16 МБ на файл."
+        },
+  {
+          "@type": "Question",
+  "name": "Какие размеры файлов поддерживаются?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Вы можете загружать изображения размером до 16 МБ на файл."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Поддерживает ли TIFF слои?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Стандартный TIFF — это плоское изображение; некоторые приложения встраивают частные данные слоев. Этот инструмент выводит плоский TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Поддерживает ли TIFF слои?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Стандартный TIFF — это плоское изображение; некоторые приложения встраивают частные данные слоев. Этот инструмент выводит плоский TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Как конвертировать PNG в TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Как конвертировать PNG в TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Нажмите Загрузить PNG и выберите ваш файл."
 
-          "text": "Нажмите Загрузить PNG и выберите ваш файл."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Подождите, пока обработка завершится."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Нажмите Скачать TIFF, чтобы сохранить результат."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Подождите, пока обработка завершится."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Нажмите Скачать TIFF, чтобы сохранить результат."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Конвертер PNG в TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

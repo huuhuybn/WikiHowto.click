@@ -1,364 +1,276 @@
 {
-  "lang": "cs"
-
-  "lang_name": "Čeština"
-
-  "title": "GIF na PNG Konvertor - Zdarma a Online | miconvert.com"
-
-  "sub_title": "Převeďte GIF obrázky do PNG formátu online s podporou průhlednosti, vysokou kvalitou a bez vodoznaků."
-
-  "hint": "Nahrajte svůj GIF obrázek, abyste začali konvertovat..."
-
-  "btn_download": "Převést na PNG"
-
-  "btn_paste": "Nahrát GIF"
-
-  "btn_clear": "Vymazat"
-
+  "lang": "cs",
+  "lang_name": "Čeština",
+  "title": "GIF na PNG Konvertor - Zdarma a Online | miconvert.com",
+  "sub_title": "Převeďte GIF obrázky do PNG formátu online s podporou průhlednosti, vysokou kvalitou a bez vodoznaků.",
+  "hint": "Nahrajte svůj GIF obrázek, abyste začali konvertovat...",
+  "btn_download": "Převést na PNG",
+  "btn_paste": "Nahrát GIF",
+  "btn_clear": "Vymazat",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Převeďte svůj <strong>GIF na PNG</strong> pro vyšší věrnost a plnou podporu průhlednosti. Náš bezplatný online konvertor převádí animované nebo statické GIFy na vysoce kvalitní PNG obrázky. Zatímco GIF je skvělý pro jednoduché animace, PNG nabízí lepší barevnou hloubku, lepší průhlednost a bezztrátovou kompresi pro ostré statické grafiky.</p><p><strong>Poznámka:</strong> Animované GIFy jsou převedeny na <em>jediný statický obrázek</em> (první snímek). Pro animovaný výstup zkuste <a href='/cs/convert/gif-to-webp'>GIF na WebP</a>.</p>"
-
+  },
+  "description": "<p>Převeďte svůj <strong>GIF na PNG</strong> pro vyšší věrnost a plnou podporu průhlednosti. Náš bezplatný online konvertor převádí animované nebo statické GIFy na vysoce kvalitní PNG obrázky. Zatímco GIF je skvělý pro jednoduché animace, PNG nabízí lepší barevnou hloubku, lepší průhlednost a bezztrátovou kompresi pro ostré statické grafiky.</p><p><strong>Poznámka:</strong> Animované GIFy jsou převedeny na <em>jediný statický obrázek</em> (první snímek). Pro animovaný výstup zkuste <a href='/cs/convert/gif-to-webp'>GIF na WebP</a>.</p>",
   "head": {
-    "title": "Převeďte GIF na PNG Online - Zdarma GIF na PNG Konvertor | miconvert.com"
+    "title": "Převeďte GIF na PNG Online - Zdarma GIF na PNG Konvertor | miconvert.com",
+  "description": "Převeďte GIF na PNG online s podporou průhlednosti, vysokou kvalitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro konverzi GIF na PNG.",
+  "keywords": "gif na png, převést gif na png, zdarma gif na png, online gif konvertor, průhledné obrázky",
+  "canonical": "https://miconvert.com/cs/convert/gif-to-png",
+  "og_title": "GIF na PNG Konvertor - Zdarma a Online",
+  "og_description": "Převeďte GIF obrázky do PNG formátu s podporou průhlednosti a vysokou kvalitou. 100% zdarma, rychlé a bezpečné.",
+  "og_url": "https://miconvert.com/cs/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Převeďte GIF na PNG online s podporou průhlednosti, vysokou kvalitou a bez vodoznaků. Bezplatný, rychlý a bezpečný nástroj pro konverzi GIF na PNG."
-
-    "keywords": "gif na png, převést gif na png, zdarma gif na png, online gif konvertor, průhledné obrázky"
-
-    "canonical": "https://miconvert.com/cs/convert/gif-to-png"
-
-    "og_title": "GIF na PNG Konvertor - Zdarma a Online"
-
-    "og_description": "Převeďte GIF obrázky do PNG formátu s podporou průhlednosti a vysokou kvalitou. 100% zdarma, rychlé a bezpečné."
-
-    "og_url": "https://miconvert.com/cs/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Převeďte GIF na PNG Online"
+    "title": "Převeďte GIF na PNG Online",
+  "description": "Bezplatný a rychlý GIF na PNG konvertor s podporou průhlednosti a vysokou kvalitou. Funguje okamžitě na jakémkoli zařízení, není potřeba registrace."
 
-    "description": "Bezplatný a rychlý GIF na PNG konvertor s podporou průhlednosti a vysokou kvalitou. Funguje okamžitě na jakémkoli zařízení, není potřeba registrace."
-
-  }
+  },
   "h2": [
     {
-      "title": "Proč převádět GIF na PNG?"
+      "title": "Proč převádět GIF na PNG?",
+  "description": "<p>GIF je omezen na 256 barev a je vhodný pro jednoduché animace. PNG je ideální pro vysoce kvalitní statické obrázky:</p><ul><li><strong>Vyšší kvalita:</strong> Truecolor (24-bit) + alfa vs GIFova 8-bitová paleta.</li><li><strong>Průhlednost:</strong> PNG podporuje plnou alfa průhlednost pro hladké okraje.</li><li><strong>Bezztrátová komprese:</strong> PNG zachovává detaily bez ztráty kvality.</li><li><strong>Univerzální kompatibilita:</strong> Široce podporováno napříč aplikacemi a platformami.</li></ul>"
 
-      "description": "<p>GIF je omezen na 256 barev a je vhodný pro jednoduché animace. PNG je ideální pro vysoce kvalitní statické obrázky:</p><ul><li><strong>Vyšší kvalita:</strong> Truecolor (24-bit) + alfa vs GIFova 8-bitová paleta.</li><li><strong>Průhlednost:</strong> PNG podporuje plnou alfa průhlednost pro hladké okraje.</li><li><strong>Bezztrátová komprese:</strong> PNG zachovává detaily bez ztráty kvality.</li><li><strong>Univerzální kompatibilita:</strong> Široce podporováno napříč aplikacemi a platformami.</li></ul>"
+    },
+  {
+      "title": "Jak převést GIF na PNG online",
+  "description": "<ol><li>Klikněte na <em>Nahrát GIF</em> a vyberte svůj soubor.</li><li>Počkejte na dokončení zpracování.</li><li>Klikněte na <em>Stáhnout PNG</em> pro uložení výsledku.</li></ol><p>Animované GIFy: pouze první snímek je exportován jako PNG.</p>"
 
-    }
-    {
-      "title": "Jak převést GIF na PNG online"
+    },
+  {
+      "title": "GIF vs PNG: Klíčové rozdíly",
+  "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Barevná hloubka</td><td>8-bit (256 barev)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Průhlednost</td><td>1-bitová maska (zapnuto/vypnuto)</td><td>Plná alfa průhlednost</td></tr><tr><td>Kompresce</td><td>Bezztrátová (LZW)</td><td>Bezztrátová (DEFLATE)</td></tr><tr><td>Animace</td><td>Podporováno</td><td>Nepodporováno (statické)</td></tr><tr><td>Nejlepší pro</td><td>Jednoduché animace, samolepky</td><td>Loga, UI, snímky obrazovky, statické grafiky</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klikněte na <em>Nahrát GIF</em> a vyberte svůj soubor.</li><li>Počkejte na dokončení zpracování.</li><li>Klikněte na <em>Stáhnout PNG</em> pro uložení výsledku.</li></ol><p>Animované GIFy: pouze první snímek je exportován jako PNG.</p>"
+    },
+  {
+      "title": "Podporované limity a formáty",
+  "description": "<ul><li><strong>Přijatý vstup:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG: Klíčové rozdíly"
+    },
+  {
+      "title": "Funkce našeho GIF na PNG konvertoru",
+  "description": "<ul><li>100% zdarma, žádné vodoznaky</li><li>Zachovává průhlednost tam, kde je přítomna</li><li>Bezztrátový PNG výstup</li><li>Mobilní přívětivé rozhraní</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Barevná hloubka</td><td>8-bit (256 barev)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Průhlednost</td><td>1-bitová maska (zapnuto/vypnuto)</td><td>Plná alfa průhlednost</td></tr><tr><td>Kompresce</td><td>Bezztrátová (LZW)</td><td>Bezztrátová (DEFLATE)</td></tr><tr><td>Animace</td><td>Podporováno</td><td>Nepodporováno (statické)</td></tr><tr><td>Nejlepší pro</td><td>Jednoduché animace, samolepky</td><td>Loga, UI, snímky obrazovky, statické grafiky</td></tr></tbody></table>"
+    },
+  {
+      "title": "Co je GIF?",
+  "description": "<p>GIF (Graphics Interchange Format) podporuje základní animaci a používá bezztrátovou LZW kompresi, ale je omezen na paletu 256 barev.</p>"
 
-    }
-    {
-      "title": "Podporované limity a formáty"
+    },
+  {
+      "title": "Co je PNG?",
+  "description": "<p>PNG (Portable Network Graphics) je bezztrátový formát podporující truecolor a alfa průhlednost — ideální pro vysoce kvalitní statické obrázky.</p>"
 
-      "description": "<ul><li><strong>Přijatý vstup:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Řešení problémů",
+  "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je GIF a ≤ 16&nbsp;MB.</li><li><strong>Drsné okraje průhlednosti:</strong> 1-bitová průhlednost GIFu může vypadat tvrdě; vylepšete pomocí <a href='/cs/effect/remove-background'>Odstraňovače pozadí</a>.</li><li><strong>Potřebujete animaci:</strong> Použijte <a href='/cs/convert/gif-to-webp'>GIF na WebP</a>, abyste zachovali pohyb.</li></ul>"
 
-    }
-    {
-      "title": "Funkce našeho GIF na PNG konvertoru"
-
-      "description": "<ul><li>100% zdarma, žádné vodoznaky</li><li>Zachovává průhlednost tam, kde je přítomna</li><li>Bezztrátový PNG výstup</li><li>Mobilní přívětivé rozhraní</li></ul>"
-
-    }
-    {
-      "title": "Co je GIF?"
-
-      "description": "<p>GIF (Graphics Interchange Format) podporuje základní animaci a používá bezztrátovou LZW kompresi, ale je omezen na paletu 256 barev.</p>"
-
-    }
-    {
-      "title": "Co je PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) je bezztrátový formát podporující truecolor a alfa průhlednost — ideální pro vysoce kvalitní statické obrázky.</p>"
-
-    }
-    {
-      "title": "Řešení problémů"
-
-      "description": "<ul><li><strong>Nahrání selhalo:</strong> Ujistěte se, že soubor je GIF a ≤ 16&nbsp;MB.</li><li><strong>Drsné okraje průhlednosti:</strong> 1-bitová průhlednost GIFu může vypadat tvrdě; vylepšete pomocí <a href='/cs/effect/remove-background'>Odstraňovače pozadí</a>.</li><li><strong>Potřebujete animaci:</strong> Použijte <a href='/cs/convert/gif-to-webp'>GIF na WebP</a>, abyste zachovali pohyb.</li></ul>"
+    },
+  {
+      "title": "Případové použití: Kdy převádět GIF na PNG",
+  "description": "<ul><li><strong>Loga a ikony</strong> vyžadující hladkou průhlednost.</li><li><strong>Snímky obrazovky/UI</strong> vyžadující ostrý text a linie.</li><li><strong>Archivace</strong> statických snímků ve vyšší kvalitě.</li></ul>"
 
     }
-    {
-      "title": "Případové použití: Kdy převádět GIF na PNG"
-
-      "description": "<ul><li><strong>Loga a ikony</strong> vyžadující hladkou průhlednost.</li><li><strong>Snímky obrazovky/UI</strong> vyžadující ostrý text a linie.</li><li><strong>Archivace</strong> statických snímků ve vyšší kvalitě.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je tento GIF na PNG konvertor zdarma?"
+      "question": "Je tento GIF na PNG konvertor zdarma?",
+  "answer": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
 
-      "answer": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+    },
+  {
+      "question": "Zachová PNG průhlednost z GIFu?",
+  "answer": "Ano. 1-bitové průhledné oblasti GIFu zůstávají průhledné v PNG; pro hladší okraje upravte alfa kanál po konverzi."
 
-    }
-    {
-      "question": "Zachová PNG průhlednost z GIFu?"
+    },
+  {
+      "question": "Co se stane s animovanými GIFy?",
+  "answer": "Pouze první snímek je převeden na statický PNG obrázek. Pro zachování animace použijte GIF na WebP."
 
-      "answer": "Ano. 1-bitové průhledné oblasti GIFu zůstávají průhledné v PNG; pro hladší okraje upravte alfa kanál po konverzi."
+    },
+  {
+      "question": "Ztratím kvalitu při převodu GIF na PNG?",
+  "answer": "Ne. PNG používá bezztrátovou kompresi a podporuje plnou barvu, často zlepšuje vizuální věrnost oproti 256-barevnému GIFu."
 
-    }
-    {
-      "question": "Co se stane s animovanými GIFy?"
+    },
+  {
+      "question": "Jaké velikosti souborů jsou podporovány?",
+  "answer": "Můžete nahrát obrázky až do 16 MB na soubor."
 
-      "answer": "Pouze první snímek je převeden na statický PNG obrázek. Pro zachování animace použijte GIF na WebP."
+    },
+  {
+      "question": "Jsou mé soubory bezpečné?",
+  "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro konverzi."
 
-    }
-    {
-      "question": "Ztratím kvalitu při převodu GIF na PNG?"
-
-      "answer": "Ne. PNG používá bezztrátovou kompresi a podporuje plnou barvu, často zlepšuje vizuální věrnost oproti 256-barevnému GIFu."
-
-    }
-    {
-      "question": "Jaké velikosti souborů jsou podporovány?"
-
-      "answer": "Můžete nahrát obrázky až do 16 MB na soubor."
-
-    }
-    {
-      "question": "Jsou mé soubory bezpečné?"
-
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro konverzi."
-
-    }
-    {
-      "question": "Mohu převést více GIF souborů najednou?"
-
-      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkovou konverzi."
+    },
+  {
+      "question": "Mohu převést více GIF souborů najednou?",
+  "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte nástroj pro dávkovou konverzi."
 
     }
-  ]
-  "note": "Animované GIFy se stávají statickými PNG (první snímek). Pro animovaný výstup převedete GIF na WebP."
-
+  ],
+  "note": "Animované GIFy se stávají statickými PNG (první snímek). Pro animovaný výstup převedete GIF na WebP.",
   "related_links": [
     {
-      "title": "Převeďte GIF na JPG"
+      "title": "Převeďte GIF na JPG",
+  "url": "/cs/convert/gif-to-jpg"
 
-      "url": "/cs/convert/gif-to-jpg"
+    },
+  {
+      "title": "Převeďte PNG na GIF",
+  "url": "/cs/convert/png-to-gif"
 
-    }
-    {
-      "title": "Převeďte PNG na GIF"
-
-      "url": "/cs/convert/png-to-gif"
-
-    }
-    {
-      "title": "Převeďte GIF na WebP"
-
-      "url": "/cs/convert/gif-to-webp"
+    },
+  {
+      "title": "Převeďte GIF na WebP",
+  "url": "/cs/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "GIF na PNG Konvertor - Zdarma a Online"
-
-      "url": "https://miconvert.com/cs/convert/gif-to-png"
-
-      "description": "Bezplatný online nástroj pro převod GIF obrázků na PNG s bezztrátovou kompresí a podporou průhlednosti."
-
-      "inLanguage": "cs"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "GIF na PNG Konvertor - Zdarma a Online",
+  "url": "https://miconvert.com/cs/convert/gif-to-png",
+  "description": "Bezplatný online nástroj pro převod GIF obrázků na PNG s bezztrátovou kompresí a podporou průhlednosti.",
+  "inLanguage": "cs",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Domov",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Domov"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Převést",
+  "item": "https://miconvert.com/cs/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Převést"
-
-          "item": "https://miconvert.com/cs/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF na PNG"
-
-          "item": "https://miconvert.com/cs/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF na PNG",
+  "item": "https://miconvert.com/cs/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "GIF na PNG Konvertor",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/cs/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Bezztrátový PNG výstup",
+  "Podpora průhlednosti",
+  "Rychlé zpracování"
 
-      "name": "GIF na PNG Konvertor"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/cs/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Bezztrátový PNG výstup"
-
-        "Podpora průhlednosti"
-
-        "Rychlé zpracování"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je tento GIF na PNG konvertor zdarma?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+          "@type": "Question",
+  "name": "Je tento GIF na PNG konvertor zdarma?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Co se stane s animovanými GIFy?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Pouze první snímek je převeden na statický PNG obrázek. Pro zachování animace použijte GIF na WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Co se stane s animovanými GIFy?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Pouze první snímek je převeden na statický PNG obrázek. Pro zachování animace použijte GIF na WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Jaké velikosti souborů jsou podporovány?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+        },
+  {
+          "@type": "Question",
+  "name": "Jaké velikosti souborů jsou podporovány?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Můžete nahrát obrázky až do 16 MB na soubor."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak převést GIF na PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jak převést GIF na PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikněte na Nahrát GIF a vyberte svůj soubor."
 
-          "text": "Klikněte na Nahrát GIF a vyberte svůj soubor."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Počkejte na dokončení zpracování."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikněte na Stáhnout PNG pro uložení výsledku."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Počkejte na dokončení zpracování."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Stáhnout PNG pro uložení výsledku."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "GIF na PNG Konvertor"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

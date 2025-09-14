@@ -1,367 +1,274 @@
 {
-  "lang": "ko"
-
-  "lang_name": "한국어"
-
-  "title": "JPG를 TIFF로 변환기 - 무료 및 온라인 | miconvert.com"
-
-  "sub_title": "손실 없는 압축 옵션과 인쇄 준비 품질로 JPG 이미지를 온라인에서 TIFF로 변환하세요. 워터마크 없음."
-
-  "hint": "변환을 시작하려면 JPG 이미지를 업로드하세요..."
-
-  "btn_download": "TIFF로 변환"
-
-  "btn_paste": "JPG 업로드"
-
-  "btn_clear": "지우기"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "ko",
+  "lang_name": "한국어",
+  "title": "JPG를 TIFF로 변환기 - 무료 및 온라인 | miconvert.com",
+  "sub_title": "손실 없는 압축 옵션과 인쇄 준비 품질로 JPG 이미지를 온라인에서 TIFF로 변환하세요. 워터마크 없음.",
+  "hint": "변환을 시작하려면 JPG 이미지를 업로드하세요...",
+  "btn_download": "TIFF로 변환",
+  "btn_paste": "JPG 업로드",
+  "btn_clear": "지우기",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "JPG를 TIFF로 변환 - 무료 온라인 JPG에서 TIFF 변환기"
+    "title": "JPG를 TIFF로 변환 - 무료 온라인 JPG에서 TIFF 변환기",
+  "description": "JPG 이미지를 온라인에서 무료로 TIFF 형식으로 변환하세요. 빠른 처리로 고품질 JPG에서 TIFF로 변환합니다.",
+  "keywords": "jpg to tiff, jpg를 tiff로 변환, 무료 jpg to tiff, 온라인 tiff 변환기, 이미지 변환",
+  "canonical": "https://miconvert.com/ko/convert/jpg-to-tiff",
+  "og_title": "JPG를 TIFF로 변환 - 무료 온라인 JPG에서 TIFF 변환기",
+  "og_description": "JPG 이미지를 온라인에서 무료로 TIFF 형식으로 변환하세요. 빠른 처리로 고품질 JPG에서 TIFF로 변환합니다.",
+  "og_url": "https://miconvert.com/ko/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "JPG 이미지를 온라인에서 무료로 TIFF 형식으로 변환하세요. 빠른 처리로 고품질 JPG에서 TIFF로 변환합니다."
-
-    "keywords": "jpg to tiff, jpg를 tiff로 변환, 무료 jpg to tiff, 온라인 tiff 변환기, 이미지 변환"
-
-    "canonical": "https://miconvert.com/ko/convert/jpg-to-tiff"
-
-    "og_title": "JPG를 TIFF로 변환 - 무료 온라인 JPG에서 TIFF 변환기"
-
-    "og_description": "JPG 이미지를 온라인에서 무료로 TIFF 형식으로 변환하세요. 빠른 처리로 고품질 JPG에서 TIFF로 변환합니다."
-
-    "og_url": "https://miconvert.com/ko/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "온라인에서 JPG를 TIFF로 변환"
+    "title": "온라인에서 JPG를 TIFF로 변환",
+  "description": "손실 없는 압축 옵션과 인쇄 준비 출력이 있는 무료 JPG에서 TIFF 변환기. 모든 장치에서 작동 — 가입 필요 없음."
 
-    "description": "손실 없는 압축 옵션과 인쇄 준비 출력이 있는 무료 JPG에서 TIFF 변환기. 모든 장치에서 작동 — 가입 필요 없음."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG에서 TIFF로 변환기"
-
-    "description": "LZW/ZIP 손실 없는 압축과 정확한 색상으로 JPG 이미지를 TIFF로 변환합니다."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG에서 TIFF로 변환기",
+  "description": "LZW/ZIP 손실 없는 압축과 정확한 색상으로 JPG 이미지를 TIFF로 변환합니다.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "손실 없는 TIFF (LZW/ZIP) 옵션",
+  "인쇄 준비 품질",
+  "정확한 색상",
+  "무료 온라인 도구"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "손실 없는 TIFF (LZW/ZIP) 옵션"
-
-      "인쇄 준비 품질"
-
-      "정확한 색상"
-
-      "무료 온라인 도구"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG에서 TIFF로 변환 완료"
+    "title": "JPG에서 TIFF로 변환 완료",
+  "back_button": "변환기로 돌아가기",
+  "convert_another": "다른 JPG 변환",
+  "quick_conversions": "빠른 변환:"
 
-    "back_button": "변환기로 돌아가기"
-
-    "convert_another": "다른 JPG 변환"
-
-    "quick_conversions": "빠른 변환:"
-
-  }
+  },
   "h2": [
     {
-      "title": "왜 JPG를 TIFF로 변환하나요?"
+      "title": "왜 JPG를 TIFF로 변환하나요?",
+  "description": "<p>TIFF는 이미징 및 인쇄에 사용되는 전문 아카이브 등급 형식입니다:</p><ul><li><strong>손실 없는 옵션:</strong> 새로운 JPEG 아티팩트 없이 깨끗한 마스터를 저장합니다.</li><li><strong>인쇄 준비:</strong> 고해상도 출력을 위한 세부 정보를 보존합니다.</li><li><strong>유연성:</strong> 알파 채널과 여러 색상 공간을 지원합니다 (리더 의존).</li><li><strong>작업 흐름 친화적:</strong> 반복 편집 및 전달에 안정적입니다.</li></ul><p><em>참고:</em> JPG(손실)에서 변환하면 잃어버린 세부 정보가 마법처럼 복원되지 않습니다 — 하지만 이후 저장에서 추가 손실을 방지하는 데 도움이 됩니다.</p>"
 
-      "description": "<p>TIFF는 이미징 및 인쇄에 사용되는 전문 아카이브 등급 형식입니다:</p><ul><li><strong>손실 없는 옵션:</strong> 새로운 JPEG 아티팩트 없이 깨끗한 마스터를 저장합니다.</li><li><strong>인쇄 준비:</strong> 고해상도 출력을 위한 세부 정보를 보존합니다.</li><li><strong>유연성:</strong> 알파 채널과 여러 색상 공간을 지원합니다 (리더 의존).</li><li><strong>작업 흐름 친화적:</strong> 반복 편집 및 전달에 안정적입니다.</li></ul><p><em>참고:</em> JPG(손실)에서 변환하면 잃어버린 세부 정보가 마법처럼 복원되지 않습니다 — 하지만 이후 저장에서 추가 손실을 방지하는 데 도움이 됩니다.</p>"
+    },
+  {
+      "title": "온라인에서 JPG를 TIFF로 변환하는 방법",
+  "description": "<ol><li><em>JPG 업로드</em>를 클릭하고 사진을 선택하세요.</li><li>처리를 기다리세요.</li><li><em>TIFF 다운로드</em>를 클릭하여 파일을 저장하세요.</li></ol><p>기본값: 24비트 RGB, LZW 손실 없음, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "온라인에서 JPG를 TIFF로 변환하는 방법"
+    },
+  {
+      "title": "TIFF와 JPG: 주요 차이점",
+  "description": "<table class='table-compare'><thead><tr><th>특징</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>압축</td><td>손실 (JPEG)</td><td>손실 없음 (LZW/ZIP) 또는 JPEG/없음</td></tr><tr><td>파일 크기</td><td>작음</td><td>더 큼 (압축에 따라 다름)</td></tr><tr><td>투명도</td><td>없음</td><td>선택적 알파 (리더 의존)</td></tr><tr><td>최고의 용도</td><td>웹/사진 공유</td><td>편집, 인쇄, 아카이빙</td></tr></tbody></table>"
 
-      "description": "<ol><li><em>JPG 업로드</em>를 클릭하고 사진을 선택하세요.</li><li>처리를 기다리세요.</li><li><em>TIFF 다운로드</em>를 클릭하여 파일을 저장하세요.</li></ol><p>기본값: 24비트 RGB, LZW 손실 없음, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "지원되는 한계 및 형식",
+  "description": "<ul><li><strong>허용된 입력:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16&nbsp;MB</li><li><strong>출력:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>기본값:</strong> 24비트 RGB, LZW 압축, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF와 JPG: 주요 차이점"
-
-      "description": "<table class='table-compare'><thead><tr><th>특징</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>압축</td><td>손실 (JPEG)</td><td>손실 없음 (LZW/ZIP) 또는 JPEG/없음</td></tr><tr><td>파일 크기</td><td>작음</td><td>더 큼 (압축에 따라 다름)</td></tr><tr><td>투명도</td><td>없음</td><td>선택적 알파 (리더 의존)</td></tr><tr><td>최고의 용도</td><td>웹/사진 공유</td><td>편집, 인쇄, 아카이빙</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "지원되는 한계 및 형식"
-
-      "description": "<ul><li><strong>허용된 입력:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16&nbsp;MB</li><li><strong>출력:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>기본값:</strong> 24비트 RGB, LZW 압축, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "문제 해결"
-
-      "description": "<ul><li><strong>파일이 너무 큼:</strong> TIFF는 설계상 더 무겁습니다. 더 작은 손실 없는 파일을 원하시면 <a href='/ko/convert/jpg-to-png'>JPG를 PNG로 변환</a>하세요.</li><li><strong>투명도가 필요함:</strong> 소스 JPG에 알파가 없습니다; 알파를 편집기에서 변환하고 편집하거나 PNG에서 시작하세요.</li><li><strong>색상 변화:</strong> 웹 일관성을 위해 업로드 전에 sRGB로 변환하세요.</li><li><strong>업로드 실패:</strong> JPG/JPEG ≤ 16&nbsp;MB인지 확인하세요.</li></ul>"
+    },
+  {
+      "title": "문제 해결",
+  "description": "<ul><li><strong>파일이 너무 큼:</strong> TIFF는 설계상 더 무겁습니다. 더 작은 손실 없는 파일을 원하시면 <a href='/ko/convert/jpg-to-png'>JPG를 PNG로 변환</a>하세요.</li><li><strong>투명도가 필요함:</strong> 소스 JPG에 알파가 없습니다; 알파를 편집기에서 변환하고 편집하거나 PNG에서 시작하세요.</li><li><strong>색상 변화:</strong> 웹 일관성을 위해 업로드 전에 sRGB로 변환하세요.</li><li><strong>업로드 실패:</strong> JPG/JPEG ≤ 16&nbsp;MB인지 확인하세요.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "이 JPG에서 TIFF 변환기는 무료인가요?"
+      "question": "이 JPG에서 TIFF 변환기는 무료인가요?",
+  "answer": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
 
-      "answer": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
+    },
+  {
+      "question": "TIFF는 모든 애플리케이션에서 작동하나요?",
+  "answer": "TIFF는 전문 앱(포토샵, 어피니티, 많은 RIP/인쇄 도구)에서 널리 지원됩니다. 일부 간단한 뷰어는 모든 압축 옵션을 지원하지 않을 수 있습니다."
 
-    }
-    {
-      "question": "TIFF는 모든 애플리케이션에서 작동하나요?"
+    },
+  {
+      "question": "TIFF 파일은 JPG에 비해 얼마나 더 큰가요?",
+  "answer": "일반적으로 동일한 크기의 JPG보다 3~10배 더 큽니다 (내용 및 압축에 따라 다름)."
 
-      "answer": "TIFF는 전문 앱(포토샵, 어피니티, 많은 RIP/인쇄 도구)에서 널리 지원됩니다. 일부 간단한 뷰어는 모든 압축 옵션을 지원하지 않을 수 있습니다."
+    },
+  {
+      "question": "지원되는 파일 크기는 얼마인가요?",
+  "answer": "파일당 최대 16&nbsp;MB의 이미지를 업로드할 수 있습니다."
 
-    }
-    {
-      "question": "TIFF 파일은 JPG에 비해 얼마나 더 큰가요?"
+    },
+  {
+      "question": "내 파일은 안전한가요?",
+  "answer": "파일은 자동으로 처리되며 변환에 필요한 시간 이상으로 보관되지 않습니다."
 
-      "answer": "일반적으로 동일한 크기의 JPG보다 3~10배 더 큽니다 (내용 및 압축에 따라 다름)."
+    },
+  {
+      "question": "한 번에 여러 JPG를 변환할 수 있나요?",
+  "answer": "이 페이지는 한 번에 하나의 파일만 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
 
-    }
-    {
-      "question": "지원되는 파일 크기는 얼마인가요?"
-
-      "answer": "파일당 최대 16&nbsp;MB의 이미지를 업로드할 수 있습니다."
-
-    }
-    {
-      "question": "내 파일은 안전한가요?"
-
-      "answer": "파일은 자동으로 처리되며 변환에 필요한 시간 이상으로 보관되지 않습니다."
-
-    }
-    {
-      "question": "한 번에 여러 JPG를 변환할 수 있나요?"
-
-      "answer": "이 페이지는 한 번에 하나의 파일만 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
-
-    }
-    {
-      "question": "TIFF는 레이어를 지원하나요?"
-
-      "answer": "표준 TIFF는 평면 이미지입니다; 일부 애플리케이션은 '레이어 TIFF'를 개인적으로 저장합니다. 이 도구는 평면 TIFF를 출력합니다."
+    },
+  {
+      "question": "TIFF는 레이어를 지원하나요?",
+  "answer": "표준 TIFF는 평면 이미지입니다; 일부 애플리케이션은 '레이어 TIFF'를 개인적으로 저장합니다. 이 도구는 평면 TIFF를 출력합니다."
 
     }
-  ]
-  "note": "TIFF는 저장/인쇄에 적합하지만 용량이 큽니다. 웹용으로는 PNG/WebP/AVIF를 고려하세요."
-
+  ],
+  "note": "TIFF는 저장/인쇄에 적합하지만 용량이 큽니다. 웹용으로는 PNG/WebP/AVIF를 고려하세요.",
   "related_links": [
     {
-      "title": "JPG를 PNG로 변환"
+      "title": "JPG를 PNG로 변환",
+  "url": "/ko/convert/jpg-to-png"
 
-      "url": "/ko/convert/jpg-to-png"
+    },
+  {
+      "title": "JPG를 WebP로 변환",
+  "url": "/ko/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "JPG를 WebP로 변환"
-
-      "url": "/ko/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "PNG를 TIFF로 변환"
-
-      "url": "/ko/convert/png-to-tiff"
+    },
+  {
+      "title": "PNG를 TIFF로 변환",
+  "url": "/ko/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG를 TIFF로 변환기 - 무료 및 온라인"
-
-      "url": "https://miconvert.com/ko/convert/jpg-to-tiff"
-
-      "description": "손실 없는 압축과 인쇄 준비 출력을 통해 JPG 이미지를 TIFF로 변환하는 무료 온라인 도구입니다."
-
-      "inLanguage": "ko"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG를 TIFF로 변환기 - 무료 및 온라인",
+  "url": "https://miconvert.com/ko/convert/jpg-to-tiff",
+  "description": "손실 없는 압축과 인쇄 준비 출력을 통해 JPG 이미지를 TIFF로 변환하는 무료 온라인 도구입니다.",
+  "inLanguage": "ko",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "홈",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "홈"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "변환",
+  "item": "https://miconvert.com/ko/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "변환"
-
-          "item": "https://miconvert.com/ko/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG에서 TIFF"
-
-          "item": "https://miconvert.com/ko/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG에서 TIFF",
+  "item": "https://miconvert.com/ko/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG에서 TIFF로 변환기",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ko/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "손실 없는 LZW 옵션",
+  "인쇄 준비 300 DPI",
+  "정확한 색상"
 
-      "name": "JPG에서 TIFF로 변환기"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ko/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "손실 없는 LZW 옵션"
-
-        "인쇄 준비 300 DPI"
-
-        "정확한 색상"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "이 JPG에서 TIFF 변환기는 무료인가요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
+          "@type": "Question",
+  "name": "이 JPG에서 TIFF 변환기는 무료인가요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "지원되는 파일 크기는 얼마인가요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "파일당 최대 16 MB의 이미지를 업로드할 수 있습니다."
+        },
+  {
+          "@type": "Question",
+  "name": "지원되는 파일 크기는 얼마인가요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "파일당 최대 16 MB의 이미지를 업로드할 수 있습니다."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "TIFF는 레이어를 지원하나요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "표준 TIFF는 평면입니다. 일부 앱은 개인 레이어 데이터를 저장합니다; 이 도구는 평면 TIFF를 출력합니다."
+        },
+  {
+          "@type": "Question",
+  "name": "TIFF는 레이어를 지원하나요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "표준 TIFF는 평면입니다. 일부 앱은 개인 레이어 데이터를 저장합니다; 이 도구는 평면 TIFF를 출력합니다."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG를 TIFF로 변환하는 방법"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "JPG를 TIFF로 변환하는 방법",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "JPG 업로드를 클릭하고 사진을 선택하세요."
 
-          "text": "JPG 업로드를 클릭하고 사진을 선택하세요."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "처리가 완료될 때까지 기다리세요."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "TIFF 다운로드를 클릭하여 파일을 저장하세요."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "처리가 완료될 때까지 기다리세요."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "TIFF 다운로드를 클릭하여 파일을 저장하세요."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG에서 TIFF로 변환기"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

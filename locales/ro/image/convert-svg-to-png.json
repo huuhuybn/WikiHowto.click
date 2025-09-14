@@ -1,358 +1,266 @@
 {
-  "lang": "ro"
-
-  "lang_name": "Română"
-
-  "title": "Converter SVG în PNG - Gratuit & Online | miconvert.com"
-
-  "sub_title": "Converteți grafica vectorială SVG în PNG online cu rasterizare clară, transparență și fără mărci de apă."
-
-  "hint": "Încărcați fișierul dvs. SVG pentru a începe conversia..."
-
-  "btn_download": "Convertește în PNG"
-
-  "btn_paste": "Încărcați SVG"
-
-  "btn_clear": "Șterge"
-
-  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
-
+  "lang": "ro",
+  "lang_name": "Română",
+  "title": "Converter SVG în PNG - Gratuit & Online | miconvert.com",
+  "sub_title": "Converteți grafica vectorială SVG în PNG online cu rasterizare clară, transparență și fără mărci de apă.",
+  "hint": "Încărcați fișierul dvs. SVG pentru a începe conversia...",
+  "btn_download": "Convertește în PNG",
+  "btn_paste": "Încărcați SVG",
+  "btn_clear": "Șterge",
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg",
   "head": {
-    "title": "Convertește SVG în PNG - Converter SVG în PNG Gratuit Online | miconvert.com"
+    "title": "Convertește SVG în PNG - Converter SVG în PNG Gratuit Online | miconvert.com",
+  "description": "Converteți grafica vectorială SVG în PNG online gratuit. Rasterizare SVG→PNG de înaltă calitate cu procesare rapidă și suport pentru transparență.",
+  "keywords": "svg în png, convertește svg în png, vector în raster, converter svg gratuit, converter png online",
+  "canonical": "https://miconvert.com/ro/convert/svg-to-png",
+  "og_title": "Converter SVG în PNG - Gratuit & Online",
+  "og_description": "Converteți SVG în PNG cu rasterizare clară și transparență. 100% gratuit, rapid și sigur.",
+  "og_url": "https://miconvert.com/ro/convert/svg-to-png",
+  "og_image": "https://miconvert.com/images/svg-to-png.jpg"
 
-    "description": "Converteți grafica vectorială SVG în PNG online gratuit. Rasterizare SVG→PNG de înaltă calitate cu procesare rapidă și suport pentru transparență."
-
-    "keywords": "svg în png, convertește svg în png, vector în raster, converter svg gratuit, converter png online"
-
-    "canonical": "https://miconvert.com/ro/convert/svg-to-png"
-
-    "og_title": "Converter SVG în PNG - Gratuit & Online"
-
-    "og_description": "Converteți SVG în PNG cu rasterizare clară și transparență. 100% gratuit, rapid și sigur."
-
-    "og_url": "https://miconvert.com/ro/convert/svg-to-png"
-
-    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convertește SVG în PNG Online"
+    "title": "Convertește SVG în PNG Online",
+  "description": "Converter SVG în PNG gratuit și rapid cu rasterizare clară și suport pentru transparență. Funcționează instantaneu pe orice dispozitiv — fără înregistrare necesară."
 
-    "description": "Converter SVG în PNG gratuit și rapid cu rasterizare clară și suport pentru transparență. Funcționează instantaneu pe orice dispozitiv — fără înregistrare necesară."
-
-  }
-  "description": "<p>Transformați <strong>SVG în PNG</strong> în câteva secunde. Acest converter online gratuit rasterizează grafica dvs. vectorială în imagini PNG de înaltă calitate, păstrând transparența pentru margini curate pe orice fundal.</p><p>Perfect pentru favicons, active de aplicație, imagini sociale și grafica web. Optimizăm ieșirea pentru un echilibru puternic între claritate și dimensiunea fișierului.</p>"
-
+  },
+  "description": "<p>Transformați <strong>SVG în PNG</strong> în câteva secunde. Acest converter online gratuit rasterizează grafica dvs. vectorială în imagini PNG de înaltă calitate, păstrând transparența pentru margini curate pe orice fundal.</p><p>Perfect pentru favicons, active de aplicație, imagini sociale și grafica web. Optimizăm ieșirea pentru un echilibru puternic între claritate și dimensiunea fișierului.</p>",
   "converter": {
-    "type": "svg-to-png"
-
-    "title": "Converter SVG în PNG"
-
-    "description": "Converteți grafica vectorială SVG în format raster PNG cu calitate înaltă și procesare rapidă."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "PNG"
-
-    "allowedTypes": [
+    "type": "svg-to-png",
+  "title": "Converter SVG în PNG",
+  "description": "Converteți grafica vectorială SVG în format raster PNG cu calitate înaltă și procesare rapidă.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "SVG",
+  "outputFormat": "PNG",
+  "allowedTypes": [
       "image/svg+xml"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "features": [
+      "Rasterizare de înaltă calitate",
+  "Transparență păstrată",
+  "Procesare rapidă",
+  "Instrument online gratuit"
 
-    "outputExtension": ".png"
-
-    "features": [
-      "Rasterizare de înaltă calitate"
-
-      "Transparență păstrată"
-
-      "Procesare rapidă"
-
-      "Instrument online gratuit"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
-        "background": "transparent"
-
-        "width": null
-        "height": null
-        "scale": 1
+        "compressionLevel": 6,
+  "progressive": false,
+  "background": "transparent",
+  "width": null,
+  "height": null,
+  "scale": 1
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversia SVG în PNG Completă"
+    "title": "Conversia SVG în PNG Completă",
+  "back_button": "Înapoi la Converter",
+  "convert_another": "Convertește Alt SVG",
+  "quick_conversions": "Conversii Rapide:"
 
-    "back_button": "Înapoi la Converter"
-
-    "convert_another": "Convertește Alt SVG"
-
-    "quick_conversions": "Conversii Rapide:"
-
-  }
+  },
   "h2": [
     {
-      "title": "De ce să convertești SVG în PNG?"
+      "title": "De ce să convertești SVG în PNG?",
+  "description": "<ul><li><strong>Compatibilitate universală:</strong> PNG se afișează peste tot, fără a necesita suport SVG.</li><li><strong>Transparență:</strong> Păstrează alfa pentru suprapuneri și elemente UI.</li><li><strong>Performanță:</strong> Bitmapuri mai mici, cacheabile pentru producție.</li></ul>"
 
-      "description": "<ul><li><strong>Compatibilitate universală:</strong> PNG se afișează peste tot, fără a necesita suport SVG.</li><li><strong>Transparență:</strong> Păstrează alfa pentru suprapuneri și elemente UI.</li><li><strong>Performanță:</strong> Bitmapuri mai mici, cacheabile pentru producție.</li></ul>"
+    },
+  {
+      "title": "Cum să convertești SVG în PNG Online",
+  "description": "<ol><li>Faceți clic pe <em>Încărcați SVG</em> și selectați fișierul dvs.</li><li>Așteptați pentru rasterizare și optimizare.</li><li>Faceți clic pe <em>Descarcă PNG</em> pentru a salva imaginea dvs.</li></ol><p>Impostările implicite păstrează transparența și compresia echilibrată.</p>"
 
-    }
-    {
-      "title": "Cum să convertești SVG în PNG Online"
+    },
+  {
+      "title": "Limite & Formate Suportate",
+  "description": "<ul><li><strong>Intrare acceptată:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> 16&nbsp;MB</li><li><strong>Ieşire:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
 
-      "description": "<ol><li>Faceți clic pe <em>Încărcați SVG</em> și selectați fișierul dvs.</li><li>Așteptați pentru rasterizare și optimizare.</li><li>Faceți clic pe <em>Descarcă PNG</em> pentru a salva imaginea dvs.</li></ol><p>Impostările implicite păstrează transparența și compresia echilibrată.</p>"
+    },
+  {
+      "title": "Cele Mai Bune Practici pentru Ieşire Clară",
+  "description": "<ul><li>Utilizați un tablou de artă pătrat cu margini pentru a evita tăierea la margini.</li><li>Convertiți textul în contururi; încorporați fonturi și imagini.</li><li>Evitați trăsăturile prea subțiri pentru pictograme mici (≥1px la dimensiunea țintă).</li><li>Exportați mai mare (de exemplu, 512–1024 px) dacă veți reduce dimensiunea mai târziu.</li></ul>"
 
-    }
-    {
-      "title": "Limite & Formate Suportate"
-
-      "description": "<ul><li><strong>Intrare acceptată:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> 16&nbsp;MB</li><li><strong>Ieşire:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-
-    }
-    {
-      "title": "Cele Mai Bune Practici pentru Ieşire Clară"
-
-      "description": "<ul><li>Utilizați un tablou de artă pătrat cu margini pentru a evita tăierea la margini.</li><li>Convertiți textul în contururi; încorporați fonturi și imagini.</li><li>Evitați trăsăturile prea subțiri pentru pictograme mici (≥1px la dimensiunea țintă).</li><li>Exportați mai mare (de exemplu, 512–1024 px) dacă veți reduce dimensiunea mai târziu.</li></ul>"
-
-    }
-    {
-      "title": "Depanare"
-
-      "description": "<ul><li><strong>Fonturi/filtre lipsă:</strong> Active inline și convertiți textul în contururi.</li><li><strong>Margini zimțate:</strong> Creșteți dimensiunea țintă sau <code>scale</code>, apoi reduceți dimensiunea.</li><li><strong>Fundal solid:</strong> Asigurați-vă că <code>background</code> este setat pe <em>transparent</em> în opțiuni.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că SVG-ul este valid și ≤16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Depanare",
+  "description": "<ul><li><strong>Fonturi/filtre lipsă:</strong> Active inline și convertiți textul în contururi.</li><li><strong>Margini zimțate:</strong> Creșteți dimensiunea țintă sau <code>scale</code>, apoi reduceți dimensiunea.</li><li><strong>Fundal solid:</strong> Asigurați-vă că <code>background</code> este setat pe <em>transparent</em> în opțiuni.</li><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că SVG-ul este valid și ≤16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Este acest converter SVG în PNG gratuit?"
+      "question": "Este acest converter SVG în PNG gratuit?",
+  "answer": "Da, este complet gratuit, fără mărci de apă sau taxe ascunse."
 
-      "answer": "Da, este complet gratuit, fără mărci de apă sau taxe ascunse."
+    },
+  {
+      "question": "PNG păstrează transparența?",
+  "answer": "Da. PNG suportă transparența alfa și o păstrăm implicit."
 
-    }
-    {
-      "question": "PNG păstrează transparența?"
+    },
+  {
+      "question": "Pot alege dimensiunea de ieșire?",
+  "answer": "Implicit folosim viewBox-ul SVG. Puteți seta lățimea/înălțimea sau un factor de scalare în opțiunile avansate, dacă este acceptat."
 
-      "answer": "Da. PNG suportă transparența alfa și o păstrăm implicit."
+    },
+  {
+      "question": "Ce limite de dimensiune a fișierului se aplică?",
+  "answer": "Puteți încărca fișiere SVG de până la 16 MB."
 
-    }
-    {
-      "question": "Pot alege dimensiunea de ieșire?"
-
-      "answer": "Implicit folosim viewBox-ul SVG. Puteți seta lățimea/înălțimea sau un factor de scalare în opțiunile avansate, dacă este acceptat."
-
-    }
-    {
-      "question": "Ce limite de dimensiune a fișierului se aplică?"
-
-      "answer": "Puteți încărca fișiere SVG de până la 16 MB."
-
-    }
-    {
-      "question": "De ce PNG-ul meu arată diferit de SVG?"
-
-      "answer": "Fonturile externe, filtrele sau activele legate pot fi redimensionate diferit atunci când sunt rasterizate. Convertiți textul în contururi și activele inline pentru rezultate consistente."
+    },
+  {
+      "question": "De ce PNG-ul meu arată diferit de SVG?",
+  "answer": "Fonturile externe, filtrele sau activele legate pot fi redimensionate diferit atunci când sunt rasterizate. Convertiți textul în contururi și activele inline pentru rezultate consistente."
 
     }
-  ]
-  "note": "SVG-urile sunt rasterizate în timpul conversiei. Pentru rezultate previzibile, conturați textul și încorporați orice active externe."
-
+  ],
+  "note": "SVG-urile sunt rasterizate în timpul conversiei. Pentru rezultate previzibile, conturați textul și încorporați orice active externe.",
   "related_links": [
     {
-      "title": "Convertește SVG în ICO"
+      "title": "Convertește SVG în ICO",
+  "url": "/ro/convert/svg-to-ico"
 
-      "url": "/ro/convert/svg-to-ico"
+    },
+  {
+      "title": "Convertește PNG în SVG",
+  "url": "/ro/convert/png-to-svg"
 
-    }
-    {
-      "title": "Convertește PNG în SVG"
-
-      "url": "/ro/convert/png-to-svg"
-
-    }
-    {
-      "title": "Comprimă PNG Online"
-
-      "url": "/ro/compress/png"
+    },
+  {
+      "title": "Comprimă PNG Online",
+  "url": "/ro/compress/png"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Converter SVG în PNG - Gratuit & Online"
-
-      "url": "https://miconvert.com/ro/convert/svg-to-png"
-
-      "description": "Instrument online gratuit pentru a converti grafica vectorială SVG în PNG cu transparență."
-
-      "inLanguage": "ro"
-
-      "image": "https://miconvert.com/images/svg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Converter SVG în PNG - Gratuit & Online",
+  "url": "https://miconvert.com/ro/convert/svg-to-png",
+  "description": "Instrument online gratuit pentru a converti grafica vectorială SVG în PNG cu transparență.",
+  "inLanguage": "ro",
+  "image": "https://miconvert.com/images/svg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Acasă",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Acasă"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertește",
+  "item": "https://miconvert.com/ro/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertește"
-
-          "item": "https://miconvert.com/ro/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG în PNG"
-
-          "item": "https://miconvert.com/ro/convert/svg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "SVG în PNG",
+  "item": "https://miconvert.com/ro/convert/svg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Converter SVG în PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ro/convert/svg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Rasterizare clară",
+  "Transparență păstrată",
+  "Procesare rapidă"
 
-      "name": "Converter SVG în PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ro/convert/svg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Rasterizare clară"
-
-        "Transparență păstrată"
-
-        "Procesare rapidă"
-
-      ]
-      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Este acest converter SVG în PNG gratuit?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, este complet gratuit, fără mărci de apă sau taxe ascunse."
+          "@type": "Question",
+  "name": "Este acest converter SVG în PNG gratuit?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, este complet gratuit, fără mărci de apă sau taxe ascunse."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "PNG păstrează transparența?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, transparența alfa este păstrată implicit."
+        },
+  {
+          "@type": "Question",
+  "name": "PNG păstrează transparența?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, transparența alfa este păstrată implicit."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ce limite de dimensiune a fișierului se aplică?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Puteți încărca fișiere SVG de până la 16 MB."
+        },
+  {
+          "@type": "Question",
+  "name": "Ce limite de dimensiune a fișierului se aplică?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Puteți încărca fișiere SVG de până la 16 MB."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Cum să convertești SVG în PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Cum să convertești SVG în PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Faceți clic pe Încărcați SVG și selectați fișierul dvs."
 
-          "text": "Faceți clic pe Încărcați SVG și selectați fișierul dvs."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Așteptați ca rasterizarea și optimizarea să se finalizeze."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Faceți clic pe Descarcă PNG pentru a salva imaginea dvs."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Așteptați ca rasterizarea și optimizarea să se finalizeze."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Faceți clic pe Descarcă PNG pentru a salva imaginea dvs."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Converter SVG în PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

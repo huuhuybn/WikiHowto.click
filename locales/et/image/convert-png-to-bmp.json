@@ -1,364 +1,272 @@
 {
-  "lang": "et"
-
-  "lang_name": "Eesti"
-
-  "title": "PNG to BMP Converter - Tasuta ja Veebis | miconvert.com"
-
-  "sub_title": "Muuda PNG pilte BMP-ks veebis, kasutades kompressimata, kaotusteta pikselandmeid. Ilma veemärkideta."
-
-  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist..."
-
-  "btn_download": "Muuda BMP-ks"
-
-  "btn_paste": "Laadi üles PNG"
-
-  "btn_clear": "Kustuta"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "PNG to BMP Converter - Tasuta ja Veebis | miconvert.com",
+  "sub_title": "Muuda PNG pilte BMP-ks veebis, kasutades kompressimata, kaotusteta pikselandmeid. Ilma veemärkideta.",
+  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist...",
+  "btn_download": "Muuda BMP-ks",
+  "btn_paste": "Laadi üles PNG",
+  "btn_clear": "Kustuta",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Muuda PNG BMP-ks - Tasuta Veebipõhine PNG BMP Konverter"
+    "title": "Muuda PNG BMP-ks - Tasuta Veebipõhine PNG BMP Konverter",
+  "description": "Muuda PNG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga PNG BMP konverteerimine kiire töötlemisega.",
+  "keywords": "png bmp-ks, muuda png bmp-ks, tasuta png bmp-ks, veebipõhine bmp konverter, pildi konverteerimine",
+  "canonical": "https://miconvert.com/et/convert/png-to-bmp",
+  "og_title": "Muuda PNG BMP-ks - Tasuta Veebipõhine PNG BMP Konverter",
+  "og_description": "Muuda PNG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga PNG BMP konverteerimine kiire töötlemisega.",
+  "og_url": "https://miconvert.com/et/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Muuda PNG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga PNG BMP konverteerimine kiire töötlemisega."
-
-    "keywords": "png bmp-ks, muuda png bmp-ks, tasuta png bmp-ks, veebipõhine bmp konverter, pildi konverteerimine"
-
-    "canonical": "https://miconvert.com/et/convert/png-to-bmp"
-
-    "og_title": "Muuda PNG BMP-ks - Tasuta Veebipõhine PNG BMP Konverter"
-
-    "og_description": "Muuda PNG pilte BMP formaati veebis tasuta. Kõrge kvaliteediga PNG BMP konverteerimine kiire töötlemisega."
-
-    "og_url": "https://miconvert.com/et/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuda PNG BMP-ks Veebis"
+    "title": "Muuda PNG BMP-ks Veebis",
+  "description": "Tasuta PNG BMP konverter kompressimata, kaotusteta pikselandmetega. Töötab igas seadmes — registreerimist ei nõuta."
 
-    "description": "Tasuta PNG BMP konverter kompressimata, kaotusteta pikselandmetega. Töötab igas seadmes — registreerimist ei nõuta."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "PNG BMP Konverter"
-
-    "description": "Muuda PNG pilte BMP-ks kiire töötlemise ja täpsete värvidega."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "PNG BMP Konverter",
+  "description": "Muuda PNG pilte BMP-ks kiire töötlemise ja täpsete värvidega.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Kompressimata (kaotusteta) pikselandmed",
+  "Kõrge ühilduvus Windowsiga",
+  "Kiire töötlemine",
+  "Tasuta veebitööriist"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Kompressimata (kaotusteta) pikselandmed"
-
-      "Kõrge ühilduvus Windowsiga"
-
-      "Kiire töötlemine"
-
-      "Tasuta veebitööriist"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG BMP Konverteerimine Lõpetatud"
+    "title": "PNG BMP Konverteerimine Lõpetatud",
+  "back_button": "Tagasi Konverterisse",
+  "convert_another": "Muuda Teine PNG",
+  "quick_conversions": "Kiired Konversioonid:"
 
-    "back_button": "Tagasi Konverterisse"
-
-    "convert_another": "Muuda Teine PNG"
-
-    "quick_conversions": "Kiired Konversioonid:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miks Muuta PNG BMP-ks?"
+      "title": "Miks Muuta PNG BMP-ks?",
+  "description": "<p>BMP on lihtne rasterformaadi, mis salvestab pikslid ilma kompressioonita — kasulik teatud töövoogude jaoks:</p><ul><li><strong>Ei uusi artefakte:</strong> Hoia pikslid puutumatuna madala taseme redigeerimiseks.</li><li><strong>Lihtne struktuur:</strong> Lihtne programmide jaoks lugeda ja manipuleerida.</li><li><strong>Pärand/integreeritud rakendused:</strong> Mõned Windowsi tööriistad eelistavad BMP-d.</li></ul>"
 
-      "description": "<p>BMP on lihtne rasterformaadi, mis salvestab pikslid ilma kompressioonita — kasulik teatud töövoogude jaoks:</p><ul><li><strong>Ei uusi artefakte:</strong> Hoia pikslid puutumatuna madala taseme redigeerimiseks.</li><li><strong>Lihtne struktuur:</strong> Lihtne programmide jaoks lugeda ja manipuleerida.</li><li><strong>Pärand/integreeritud rakendused:</strong> Mõned Windowsi tööriistad eelistavad BMP-d.</li></ul>"
+    },
+  {
+      "title": "Kuidas Muuta PNG BMP-ks Veebis",
+  "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota, kuni töötlemine on lõpetatud.</li><li>Kliki <em>Laadi alla BMP</em>, et salvestada oma pilt.</li></ol><p>Vaikimisi 24-bitine BMP ilma kompressioonita.</p>"
 
-    }
-    {
-      "title": "Kuidas Muuta PNG BMP-ks Veebis"
+    },
+  {
+      "title": "BMP vs PNG Võrdlus",
+  "description": "<ul><li><strong>Faili suurus:</strong> BMP on tavaliselt palju suurem kui PNG.</li><li><strong>Kvaliteet:</strong> Mõlemad on kaotusteta (BMP kompressimata; PNG kaotusteta kompressitud).</li><li><strong>Transparentsus:</strong> PNG toetab alfa; tavaline 24-bitine BMP <em>ei</em> toeta.</li><li><strong>Kompressioon:</strong> BMP ei ole; PNG kaotusteta DEFLATE.</li><li><strong>Kasutusjuhud:</strong> BMP pärandi/pikselite operatsioonide jaoks; PNG veebiks ja tõhusaks kaotusteta salvestamiseks.</li></ul>"
 
-      "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota, kuni töötlemine on lõpetatud.</li><li>Kliki <em>Laadi alla BMP</em>, et salvestada oma pilt.</li></ol><p>Vaikimisi 24-bitine BMP ilma kompressioonita.</p>"
+    },
+  {
+      "title": "Toetatud Piirangud ja Formaadid",
+  "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit sügavus:</strong> 24-bitine (ilma alfat)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs PNG Võrdlus"
-
-      "description": "<ul><li><strong>Faili suurus:</strong> BMP on tavaliselt palju suurem kui PNG.</li><li><strong>Kvaliteet:</strong> Mõlemad on kaotusteta (BMP kompressimata; PNG kaotusteta kompressitud).</li><li><strong>Transparentsus:</strong> PNG toetab alfa; tavaline 24-bitine BMP <em>ei</em> toeta.</li><li><strong>Kompressioon:</strong> BMP ei ole; PNG kaotusteta DEFLATE.</li><li><strong>Kasutusjuhud:</strong> BMP pärandi/pikselite operatsioonide jaoks; PNG veebiks ja tõhusaks kaotusteta salvestamiseks.</li></ul>"
-
-    }
-    {
-      "title": "Toetatud Piirangud ja Formaadid"
-
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit sügavus:</strong> 24-bitine (ilma alfat)</li></ul>"
-
-    }
-    {
-      "title": "Tõrkeotsing"
-
-      "description": "<ul><li><strong>Väga suur väljund:</strong> BMP on kompressimata; väiksema kaotusteta jaoks hoia PNG-d.</li><li><strong>Vajalik transparentsus:</strong> BMP 24-bitine ei sisalda alfat; jää PNG juurde.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et fail on PNG ja ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Tõrkeotsing",
+  "description": "<ul><li><strong>Väga suur väljund:</strong> BMP on kompressimata; väiksema kaotusteta jaoks hoia PNG-d.</li><li><strong>Vajalik transparentsus:</strong> BMP 24-bitine ei sisalda alfat; jää PNG juurde.</li><li><strong>Üleslaadimine ebaõnnestub:</strong> Veendu, et fail on PNG ja ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Kas see PNG BMP konverter on tasuta?"
+      "question": "Kas see PNG BMP konverter on tasuta?",
+  "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
-      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+  {
+      "question": "Kas BMP töötab kõigis rakendustes?",
+  "answer": "BMP-d toetatakse laialdaselt Windowsis ja tunnustavad paljud teised platvormid. Kaasaegsed veebitöövood eelistavad tavaliselt PNG/WebP suuruse efektiivsuse tõttu."
 
-    }
-    {
-      "question": "Kas BMP töötab kõigis rakendustes?"
+    },
+  {
+      "question": "Kui palju suuremad on BMP failid võrreldes PNG-ga?",
+  "answer": "Tavaliselt mitu korda suuremad (nt 3–10× või rohkem), kuna BMP on kompressimata."
 
-      "answer": "BMP-d toetatakse laialdaselt Windowsis ja tunnustavad paljud teised platvormid. Kaasaegsed veebitöövood eelistavad tavaliselt PNG/WebP suuruse efektiivsuse tõttu."
+    },
+  {
+      "question": "Milliseid faili suurusi toetatakse?",
+  "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
 
-    }
-    {
-      "question": "Kui palju suuremad on BMP failid võrreldes PNG-ga?"
+    },
+  {
+      "question": "Kas mu failid on turvalised?",
+  "answer": "Faile töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
 
-      "answer": "Tavaliselt mitu korda suuremad (nt 3–10× või rohkem), kuna BMP on kompressimata."
+    },
+  {
+      "question": "Kas ma saan korraga konverteerida mitu PNG-d?",
+  "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
 
-    }
-    {
-      "question": "Milliseid faili suurusi toetatakse?"
-
-      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
-
-    }
-    {
-      "question": "Kas mu failid on turvalised?"
-
-      "answer": "Faile töödeldakse automaatselt ja neid ei säilitata kauem, kui on vajalik konverteerimiseks."
-
-    }
-    {
-      "question": "Kas ma saan korraga konverteerida mitu PNG-d?"
-
-      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
-
-    }
-    {
-      "question": "Kas BMP toetab transparentsust?"
-
-      "answer": "Tavaline 24-bitine BMP ei sisalda alfat. Kasuta transparentsuse jaoks PNG-d."
+    },
+  {
+      "question": "Kas BMP toetab transparentsust?",
+  "answer": "Tavaline 24-bitine BMP ei sisalda alfat. Kasuta transparentsuse jaoks PNG-d."
 
     }
-  ]
-  "note": "BMP väljund on tahtlikult suur (kompressimata). Veebitoimetamiseks eelistage PNG/WebP/AVIF."
-
+  ],
+  "note": "BMP väljund on tahtlikult suur (kompressimata). Veebitoimetamiseks eelistage PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Muuda BMP PNG-ks"
+      "title": "Muuda BMP PNG-ks",
+  "url": "/et/convert/bmp-to-png"
 
-      "url": "/et/convert/bmp-to-png"
+    },
+  {
+      "title": "Muuda PNG JPG-ks",
+  "url": "/et/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Muuda PNG JPG-ks"
-
-      "url": "/et/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Muuda PNG WebP-ks"
-
-      "url": "/et/convert/png-to-webp"
+    },
+  {
+      "title": "Muuda PNG WebP-ks",
+  "url": "/et/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG to BMP Converter - Tasuta ja Veebis"
-
-      "url": "https://miconvert.com/et/convert/png-to-bmp"
-
-      "description": "Tasuta veebitööriist PNG piltide konverteerimiseks BMP-ks kompressimata, kaotusteta pikselandmetega."
-
-      "inLanguage": "et"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG to BMP Converter - Tasuta ja Veebis",
+  "url": "https://miconvert.com/et/convert/png-to-bmp",
+  "description": "Tasuta veebitööriist PNG piltide konverteerimiseks BMP-ks kompressimata, kaotusteta pikselandmetega.",
+  "inLanguage": "et",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Avaleht",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Avaleht"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muuda",
+  "item": "https://miconvert.com/et/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muuda"
-
-          "item": "https://miconvert.com/et/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG BMP-ks"
-
-          "item": "https://miconvert.com/et/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG BMP-ks",
+  "item": "https://miconvert.com/et/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG BMP Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/et/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Kompressimata pikselandmed",
+  "Täpsed värvid",
+  "Kiire töötlemine"
 
-      "name": "PNG BMP Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/et/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Kompressimata pikselandmed"
-
-        "Täpsed värvid"
-
-        "Kiire töötlemine"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Kas see PNG BMP konverter on tasuta?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          "@type": "Question",
+  "name": "Kas see PNG BMP konverter on tasuta?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milliseid faili suurusi toetatakse?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+        },
+  {
+          "@type": "Question",
+  "name": "Milliseid faili suurusi toetatakse?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kas BMP toetab transparentsust?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tavaline 24-bitine BMP ei sisalda alfat. Kasuta PNG-d transparentsuse jaoks."
+        },
+  {
+          "@type": "Question",
+  "name": "Kas BMP toetab transparentsust?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tavaline 24-bitine BMP ei sisalda alfat. Kasuta PNG-d transparentsuse jaoks."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuidas muuda PNG BMP-ks"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuidas muuda PNG BMP-ks",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliki Laadi üles PNG ja vali oma fail."
 
-          "text": "Kliki Laadi üles PNG ja vali oma fail."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Oota, kuni töötlemine on lõpetatud."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliki Laadi alla BMP, et salvestada pilt."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Oota, kuni töötlemine on lõpetatud."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliki Laadi alla BMP, et salvestada pilt."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG BMP Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

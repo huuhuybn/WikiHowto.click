@@ -1,367 +1,274 @@
 {
-  "lang": "el"
-
-  "lang_name": "Ελληνικά"
-
-  "title": "Μετατροπέας JPG σε TIFF - Δωρεάν & Online | miconvert.com"
-
-  "sub_title": "Μετατρέψτε εικόνες JPG σε TIFF online με επιλογές χωρίς απώλειες και ποιότητα έτοιμη προς εκτύπωση. Χωρίς υδατογραφήματα."
-
-  "hint": "Ανεβάστε την εικόνα JPG σας για να ξεκινήσετε τη μετατροπή..."
-
-  "btn_download": "Μετατροπή σε TIFF"
-
-  "btn_paste": "Ανεβάστε JPG"
-
-  "btn_clear": "Καθαρισμός"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "el",
+  "lang_name": "Ελληνικά",
+  "title": "Μετατροπέας JPG σε TIFF - Δωρεάν & Online | miconvert.com",
+  "sub_title": "Μετατρέψτε εικόνες JPG σε TIFF online με επιλογές χωρίς απώλειες και ποιότητα έτοιμη προς εκτύπωση. Χωρίς υδατογραφήματα.",
+  "hint": "Ανεβάστε την εικόνα JPG σας για να ξεκινήσετε τη μετατροπή...",
+  "btn_download": "Μετατροπή σε TIFF",
+  "btn_paste": "Ανεβάστε JPG",
+  "btn_clear": "Καθαρισμός",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "Μετατροπή JPG σε TIFF - Δωρεάν Online Μετατροπέας JPG σε TIFF"
+    "title": "Μετατροπή JPG σε TIFF - Δωρεάν Online Μετατροπέας JPG σε TIFF",
+  "description": "Μετατρέψτε εικόνες JPG σε μορφή TIFF online δωρεάν. Υψηλής ποιότητας μετατροπή JPG σε TIFF με γρήγορη επεξεργασία.",
+  "keywords": "jpg σε tiff, μετατροπή jpg σε tiff, δωρεάν jpg σε tiff, online μετατροπέας tiff, μετατροπή εικόνας",
+  "canonical": "https://miconvert.com/el/convert/jpg-to-tiff",
+  "og_title": "Μετατροπή JPG σε TIFF - Δωρεάν Online Μετατροπέας JPG σε TIFF",
+  "og_description": "Μετατρέψτε εικόνες JPG σε μορφή TIFF online δωρεάν. Υψηλής ποιότητας μετατροπή JPG σε TIFF με γρήγορη επεξεργασία.",
+  "og_url": "https://miconvert.com/el/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "Μετατρέψτε εικόνες JPG σε μορφή TIFF online δωρεάν. Υψηλής ποιότητας μετατροπή JPG σε TIFF με γρήγορη επεξεργασία."
-
-    "keywords": "jpg σε tiff, μετατροπή jpg σε tiff, δωρεάν jpg σε tiff, online μετατροπέας tiff, μετατροπή εικόνας"
-
-    "canonical": "https://miconvert.com/el/convert/jpg-to-tiff"
-
-    "og_title": "Μετατροπή JPG σε TIFF - Δωρεάν Online Μετατροπέας JPG σε TIFF"
-
-    "og_description": "Μετατρέψτε εικόνες JPG σε μορφή TIFF online δωρεάν. Υψηλής ποιότητας μετατροπή JPG σε TIFF με γρήγορη επεξεργασία."
-
-    "og_url": "https://miconvert.com/el/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Μετατροπή JPG σε TIFF Online"
+    "title": "Μετατροπή JPG σε TIFF Online",
+  "description": "Δωρεάν μετατροπέας JPG σε TIFF με επιλογές χωρίς απώλειες και έτοιμο προς εκτύπωση αποτέλεσμα. Λειτουργεί σε οποιαδήποτε συσκευή — χωρίς εγγραφή."
 
-    "description": "Δωρεάν μετατροπέας JPG σε TIFF με επιλογές χωρίς απώλειες και έτοιμο προς εκτύπωση αποτέλεσμα. Λειτουργεί σε οποιαδήποτε συσκευή — χωρίς εγγραφή."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "Μετατροπέας JPG σε TIFF"
-
-    "description": "Μετατρέψτε εικόνες JPG σε TIFF με LZW/ZIP χωρίς απώλειες και ακριβή χρώματα."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "Μετατροπέας JPG σε TIFF",
+  "description": "Μετατρέψτε εικόνες JPG σε TIFF με LZW/ZIP χωρίς απώλειες και ακριβή χρώματα.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Επιλογή TIFF χωρίς απώλειες (LZW/ZIP)",
+  "Ποιότητα έτοιμη προς εκτύπωση",
+  "Ακριβή χρώματα",
+  "Δωρεάν online εργαλείο"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Επιλογή TIFF χωρίς απώλειες (LZW/ZIP)"
-
-      "Ποιότητα έτοιμη προς εκτύπωση"
-
-      "Ακριβή χρώματα"
-
-      "Δωρεάν online εργαλείο"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Η μετατροπή JPG σε TIFF ολοκληρώθηκε"
+    "title": "Η μετατροπή JPG σε TIFF ολοκληρώθηκε",
+  "back_button": "Πίσω στον Μετατροπέα",
+  "convert_another": "Μετατροπή Άλλου JPG",
+  "quick_conversions": "Γρήγορες Μετατροπές:"
 
-    "back_button": "Πίσω στον Μετατροπέα"
-
-    "convert_another": "Μετατροπή Άλλου JPG"
-
-    "quick_conversions": "Γρήγορες Μετατροπές:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Γιατί να μετατρέψετε JPG σε TIFF;"
+      "title": "Γιατί να μετατρέψετε JPG σε TIFF;",
+  "description": "<p>Το TIFF είναι μια επαγγελματική, αρχείου μορφή που χρησιμοποιείται στη φωτογραφία και την εκτύπωση:</p><ul><li><strong>Επιλογές χωρίς απώλειες:</strong> Αποθηκεύστε ένα καθαρό αρχείο χωρίς νέα ελαττώματα JPEG.</li><li><strong>Έτοιμο προς εκτύπωση:</strong> Διατηρεί λεπτομέρειες για έξοδο υψηλής ανάλυσης.</li><li><strong>Ευέλικτο:</strong> Υποστηρίζει κανάλι alpha και πολλαπλούς χρωματικούς χώρους (ανάλογα με τον αναγνώστη).</li><li><strong>Φιλικό προς τη ροή εργασίας:</strong> Σταθερό για επαναλαμβανόμενες επεξεργασίες και παραδόσεις.</li></ul><p><em>Σημείωση:</em> Η μετατροπή από JPG (με απώλειες) δεν θα αποκαταστήσει μαγικά τις χαμένες λεπτομέρειες — αλλά βοηθά στην αποφυγή περαιτέρω υποβάθμισης σε μελλοντικές αποθηκεύσεις.</p>"
 
-      "description": "<p>Το TIFF είναι μια επαγγελματική, αρχείου μορφή που χρησιμοποιείται στη φωτογραφία και την εκτύπωση:</p><ul><li><strong>Επιλογές χωρίς απώλειες:</strong> Αποθηκεύστε ένα καθαρό αρχείο χωρίς νέα ελαττώματα JPEG.</li><li><strong>Έτοιμο προς εκτύπωση:</strong> Διατηρεί λεπτομέρειες για έξοδο υψηλής ανάλυσης.</li><li><strong>Ευέλικτο:</strong> Υποστηρίζει κανάλι alpha και πολλαπλούς χρωματικούς χώρους (ανάλογα με τον αναγνώστη).</li><li><strong>Φιλικό προς τη ροή εργασίας:</strong> Σταθερό για επαναλαμβανόμενες επεξεργασίες και παραδόσεις.</li></ul><p><em>Σημείωση:</em> Η μετατροπή από JPG (με απώλειες) δεν θα αποκαταστήσει μαγικά τις χαμένες λεπτομέρειες — αλλά βοηθά στην αποφυγή περαιτέρω υποβάθμισης σε μελλοντικές αποθηκεύσεις.</p>"
+    },
+  {
+      "title": "Πώς να μετατρέψετε JPG σε TIFF Online",
+  "description": "<ol><li>Κάντε κλικ στο <em>Ανεβάστε JPG</em> και επιλέξτε τη φωτογραφία σας.</li><li>Περιμένετε για την επεξεργασία.</li><li>Κάντε κλικ στο <em>Κατεβάστε TIFF</em> για να αποθηκεύσετε το αρχείο.</li></ol><p>Προεπιλογή: 24-bit RGB, LZW χωρίς απώλειες, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Πώς να μετατρέψετε JPG σε TIFF Online"
+    },
+  {
+      "title": "TIFF vs JPG: Κύριες Διαφορές",
+  "description": "<table class='table-compare'><thead><tr><th>Χαρακτηριστικό</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Συμπίεση</td><td>Με απώλειες (JPEG)</td><td>Χωρίς απώλειες (LZW/ZIP) ή JPEG/κανένα</td></tr><tr><td>Μέγεθος αρχείου</td><td>Μικρό</td><td>Μεγαλύτερο (εξαρτάται από τη συμπίεση)</td></tr><tr><td>Διαφάνεια</td><td>Όχι</td><td>Προαιρετικό alpha (ανάλογα με τον αναγνώστη)</td></tr><tr><td>Καλύτερο για</td><td>Web/κοινή χρήση φωτογραφιών</td><td>Επεξεργασία, εκτύπωση, αρχειοθέτηση</td></tr></tbody></table>"
 
-      "description": "<ol><li>Κάντε κλικ στο <em>Ανεβάστε JPG</em> και επιλέξτε τη φωτογραφία σας.</li><li>Περιμένετε για την επεξεργασία.</li><li>Κάντε κλικ στο <em>Κατεβάστε TIFF</em> για να αποθηκεύσετε το αρχείο.</li></ol><p>Προεπιλογή: 24-bit RGB, LZW χωρίς απώλειες, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Υποστηριζόμενα Όρια & Μορφές",
+  "description": "<ul><li><strong>Αποδεκτή είσοδος:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Μέγιστο μέγεθος αρχείου:</strong> έως 16&nbsp;MB ανά αρχείο</li><li><strong>Έξοδος:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Προεπιλογές:</strong> 24-bit RGB, συμπίεση LZW, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs JPG: Κύριες Διαφορές"
-
-      "description": "<table class='table-compare'><thead><tr><th>Χαρακτηριστικό</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Συμπίεση</td><td>Με απώλειες (JPEG)</td><td>Χωρίς απώλειες (LZW/ZIP) ή JPEG/κανένα</td></tr><tr><td>Μέγεθος αρχείου</td><td>Μικρό</td><td>Μεγαλύτερο (εξαρτάται από τη συμπίεση)</td></tr><tr><td>Διαφάνεια</td><td>Όχι</td><td>Προαιρετικό alpha (ανάλογα με τον αναγνώστη)</td></tr><tr><td>Καλύτερο για</td><td>Web/κοινή χρήση φωτογραφιών</td><td>Επεξεργασία, εκτύπωση, αρχειοθέτηση</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Υποστηριζόμενα Όρια & Μορφές"
-
-      "description": "<ul><li><strong>Αποδεκτή είσοδος:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Μέγιστο μέγεθος αρχείου:</strong> έως 16&nbsp;MB ανά αρχείο</li><li><strong>Έξοδος:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Προεπιλογές:</strong> 24-bit RGB, συμπίεση LZW, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Επίλυση Προβλημάτων"
-
-      "description": "<ul><li><strong>Αρχείο πολύ μεγάλο:</strong> Το TIFF είναι βαρύτερο εκ φύσεως. Για μικρότερες χωρίς απώλειες, δοκιμάστε <a href='/el/convert/jpg-to-png'>JPG σε PNG</a>.</li><li><strong>Χρειάζεστε διαφάνεια:</strong> Το αρχικό JPG δεν έχει alpha; μετατρέψτε και επεξεργαστείτε το alpha σε έναν επεξεργαστή ή ξεκινήστε από PNG.</li><li><strong>Μετατόπιση χρώματος:</strong> Μετατρέψτε σε sRGB πριν την ανέβασμα για διαδικτυακή συνέπεια.</li><li><strong>Αποτυχία ανέβασμα:</strong> Βεβαιωθείτε ότι το JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Επίλυση Προβλημάτων",
+  "description": "<ul><li><strong>Αρχείο πολύ μεγάλο:</strong> Το TIFF είναι βαρύτερο εκ φύσεως. Για μικρότερες χωρίς απώλειες, δοκιμάστε <a href='/el/convert/jpg-to-png'>JPG σε PNG</a>.</li><li><strong>Χρειάζεστε διαφάνεια:</strong> Το αρχικό JPG δεν έχει alpha; μετατρέψτε και επεξεργαστείτε το alpha σε έναν επεξεργαστή ή ξεκινήστε από PNG.</li><li><strong>Μετατόπιση χρώματος:</strong> Μετατρέψτε σε sRGB πριν την ανέβασμα για διαδικτυακή συνέπεια.</li><li><strong>Αποτυχία ανέβασμα:</strong> Βεβαιωθείτε ότι το JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Είναι αυτός ο μετατροπέας JPG σε TIFF δωρεάν;"
+      "question": "Είναι αυτός ο μετατροπέας JPG σε TIFF δωρεάν;",
+  "answer": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
 
-      "answer": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
+    },
+  {
+      "question": "Θα λειτουργήσει το TIFF σε όλες τις εφαρμογές;",
+  "answer": "Το TIFF υποστηρίζεται ευρέως σε επαγγελματικές εφαρμογές (Photoshop, Affinity, πολλά εργαλεία RIP/εκτύπωσης). Ορισμένοι απλοί αναγνώστες ενδέχεται να μην υποστηρίζουν όλες τις επιλογές συμπίεσης."
 
-    }
-    {
-      "question": "Θα λειτουργήσει το TIFF σε όλες τις εφαρμογές;"
+    },
+  {
+      "question": "Πόσο μεγαλύτερα είναι τα αρχεία TIFF σε σύγκριση με τα JPG;",
+  "answer": "Συνήθως 3–10× μεγαλύτερα από JPG με τις ίδιες διαστάσεις (διαφέρει ανάλογα με το περιεχόμενο και τη συμπίεση)."
 
-      "answer": "Το TIFF υποστηρίζεται ευρέως σε επαγγελματικές εφαρμογές (Photoshop, Affinity, πολλά εργαλεία RIP/εκτύπωσης). Ορισμένοι απλοί αναγνώστες ενδέχεται να μην υποστηρίζουν όλες τις επιλογές συμπίεσης."
+    },
+  {
+      "question": "Ποιες μεγέθους αρχείων υποστηρίζονται;",
+  "answer": "Μπορείτε να ανεβάσετε εικόνες έως 16&nbsp;MB ανά αρχείο."
 
-    }
-    {
-      "question": "Πόσο μεγαλύτερα είναι τα αρχεία TIFF σε σύγκριση με τα JPG;"
+    },
+  {
+      "question": "Είναι ασφαλή τα αρχεία μου;",
+  "answer": "Τα αρχεία επεξεργάζονται αυτόματα και δεν διατηρούνται περισσότερο από όσο είναι απαραίτητο για τη μετατροπή."
 
-      "answer": "Συνήθως 3–10× μεγαλύτερα από JPG με τις ίδιες διαστάσεις (διαφέρει ανάλογα με το περιεχόμενο και τη συμπίεση)."
+    },
+  {
+      "question": "Μπορώ να μετατρέψω πολλαπλά JPG ταυτόχρονα;",
+  "answer": "Αυτή η σελίδα μετατρέπει ένα αρχείο τη φορά. Για μαζικές ανάγκες, επαναλάβετε τη διαδικασία ή χρησιμοποιήστε ένα εργαλείο παρτίδας."
 
-    }
-    {
-      "question": "Ποιες μεγέθους αρχείων υποστηρίζονται;"
-
-      "answer": "Μπορείτε να ανεβάσετε εικόνες έως 16&nbsp;MB ανά αρχείο."
-
-    }
-    {
-      "question": "Είναι ασφαλή τα αρχεία μου;"
-
-      "answer": "Τα αρχεία επεξεργάζονται αυτόματα και δεν διατηρούνται περισσότερο από όσο είναι απαραίτητο για τη μετατροπή."
-
-    }
-    {
-      "question": "Μπορώ να μετατρέψω πολλαπλά JPG ταυτόχρονα;"
-
-      "answer": "Αυτή η σελίδα μετατρέπει ένα αρχείο τη φορά. Για μαζικές ανάγκες, επαναλάβετε τη διαδικασία ή χρησιμοποιήστε ένα εργαλείο παρτίδας."
-
-    }
-    {
-      "question": "Υποστηρίζει το TIFF επίπεδα;"
-
-      "answer": "Το τυπικό TIFF είναι μια επίπεδη εικόνα; ορισμένες εφαρμογές αποθηκεύουν δεδομένα επιπέδου ιδιωτικά. Αυτό το εργαλείο εξάγει επίπεδο TIFF."
+    },
+  {
+      "question": "Υποστηρίζει το TIFF επίπεδα;",
+  "answer": "Το τυπικό TIFF είναι μια επίπεδη εικόνα; ορισμένες εφαρμογές αποθηκεύουν δεδομένα επιπέδου ιδιωτικά. Αυτό το εργαλείο εξάγει επίπεδο TIFF."
 
     }
-  ]
-  "note": "Το TIFF είναι κατάλληλο για αποθήκευση/εκτύπωση αλλά έχει μεγάλο μέγεθος. Για το web, σκεφτείτε PNG/WebP/AVIF."
-
+  ],
+  "note": "Το TIFF είναι κατάλληλο για αποθήκευση/εκτύπωση αλλά έχει μεγάλο μέγεθος. Για το web, σκεφτείτε PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Μετατροπή JPG σε PNG"
+      "title": "Μετατροπή JPG σε PNG",
+  "url": "/el/convert/jpg-to-png"
 
-      "url": "/el/convert/jpg-to-png"
+    },
+  {
+      "title": "Μετατροπή JPG σε WebP",
+  "url": "/el/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "Μετατροπή JPG σε WebP"
-
-      "url": "/el/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "Μετατροπή PNG σε TIFF"
-
-      "url": "/el/convert/png-to-tiff"
+    },
+  {
+      "title": "Μετατροπή PNG σε TIFF",
+  "url": "/el/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Όλα τα δικαιώματα διατηρούνται."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Όλα τα δικαιώματα διατηρούνται.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Μετατροπέας JPG σε TIFF - Δωρεάν & Online"
-
-      "url": "https://miconvert.com/el/convert/jpg-to-tiff"
-
-      "description": "Δωρεάν online εργαλείο για τη μετατροπή εικόνων JPG σε TIFF με συμπίεση χωρίς απώλειες και έτοιμο προς εκτύπωση αποτέλεσμα."
-
-      "inLanguage": "el"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Μετατροπέας JPG σε TIFF - Δωρεάν & Online",
+  "url": "https://miconvert.com/el/convert/jpg-to-tiff",
+  "description": "Δωρεάν online εργαλείο για τη μετατροπή εικόνων JPG σε TIFF με συμπίεση χωρίς απώλειες και έτοιμο προς εκτύπωση αποτέλεσμα.",
+  "inLanguage": "el",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Αρχική",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Αρχική"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Μετατροπή",
+  "item": "https://miconvert.com/el/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Μετατροπή"
-
-          "item": "https://miconvert.com/el/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG σε TIFF"
-
-          "item": "https://miconvert.com/el/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG σε TIFF",
+  "item": "https://miconvert.com/el/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Μετατροπέας JPG σε TIFF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/el/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Επιλογή LZW χωρίς απώλειες",
+  "Έτοιμο προς εκτύπωση 300 DPI",
+  "Ακριβή χρώματα"
 
-      "name": "Μετατροπέας JPG σε TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/el/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Επιλογή LZW χωρίς απώλειες"
-
-        "Έτοιμο προς εκτύπωση 300 DPI"
-
-        "Ακριβή χρώματα"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Είναι αυτός ο μετατροπέας JPG σε TIFF δωρεάν;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
+          "@type": "Question",
+  "name": "Είναι αυτός ο μετατροπέας JPG σε TIFF δωρεάν;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ποιες μεγέθους αρχείων υποστηρίζονται;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Μπορείτε να ανεβάσετε εικόνες έως 16 MB ανά αρχείο."
+        },
+  {
+          "@type": "Question",
+  "name": "Ποιες μεγέθους αρχείων υποστηρίζονται;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Μπορείτε να ανεβάσετε εικόνες έως 16 MB ανά αρχείο."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Υποστηρίζει το TIFF επίπεδα;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Το τυπικό TIFF είναι επίπεδο. Ορισμένες εφαρμογές αποθηκεύουν ιδιωτικά δεδομένα επιπέδου; αυτό το εργαλείο εξάγει επίπεδο TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Υποστηρίζει το TIFF επίπεδα;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Το τυπικό TIFF είναι επίπεδο. Ορισμένες εφαρμογές αποθηκεύουν ιδιωτικά δεδομένα επιπέδου; αυτό το εργαλείο εξάγει επίπεδο TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Πώς να μετατρέψετε JPG σε TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Πώς να μετατρέψετε JPG σε TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Κάντε κλικ στο Ανεβάστε JPG και επιλέξτε τη φωτογραφία σας."
 
-          "text": "Κάντε κλικ στο Ανεβάστε JPG και επιλέξτε τη φωτογραφία σας."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Περιμένετε να ολοκληρωθεί η επεξεργασία."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Κάντε κλικ στο Κατεβάστε TIFF για να αποθηκεύσετε το αρχείο."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Περιμένετε να ολοκληρωθεί η επεξεργασία."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Κάντε κλικ στο Κατεβάστε TIFF για να αποθηκεύσετε το αρχείο."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Μετατροπέας JPG σε TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

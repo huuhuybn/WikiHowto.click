@@ -1,373 +1,279 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "PNG till AVIF Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera PNG-bilder till AVIF online med utmärkt kompression och hög kvalitet. Bevarar transparens. Inga vattenmärken."
-
-  "hint": "Ladda upp din PNG-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till AVIF"
-
-  "btn_paste": "Ladda upp PNG"
-
-  "btn_clear": "Rensa"
-
-  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "PNG till AVIF Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera PNG-bilder till AVIF online med utmärkt kompression och hög kvalitet. Bevarar transparens. Inga vattenmärken.",
+  "hint": "Ladda upp din PNG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till AVIF",
+  "btn_paste": "Ladda upp PNG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg",
   "head": {
-    "title": "Konvertera PNG till AVIF - Gratis Online PNG till AVIF Konverterare | miconvert.com"
+    "title": "Konvertera PNG till AVIF - Gratis Online PNG till AVIF Konverterare | miconvert.com",
+  "description": "Konvertera PNG-bilder till AVIF online gratis. Högkvalitativ PNG till AVIF-konvertering med utmärkt kompression och stöd för transparens.",
+  "keywords": "png till avif, konvertera png till avif, gratis png till avif, online avif konverterare, bildkonvertering",
+  "canonical": "https://miconvert.com/sv/convert/png-to-avif",
+  "og_title": "Konvertera PNG till AVIF - Gratis Online PNG till AVIF Konverterare",
+  "og_description": "Konvertera PNG-bilder till AVIF med utmärkt kompression och bevarad transparens. Gratis, snabbt och säkert.",
+  "og_url": "https://miconvert.com/sv/convert/png-to-avif",
+  "og_image": "https://miconvert.com/images/png-to-avif.jpg"
 
-    "description": "Konvertera PNG-bilder till AVIF online gratis. Högkvalitativ PNG till AVIF-konvertering med utmärkt kompression och stöd för transparens."
-
-    "keywords": "png till avif, konvertera png till avif, gratis png till avif, online avif konverterare, bildkonvertering"
-
-    "canonical": "https://miconvert.com/sv/convert/png-to-avif"
-
-    "og_title": "Konvertera PNG till AVIF - Gratis Online PNG till AVIF Konverterare"
-
-    "og_description": "Konvertera PNG-bilder till AVIF med utmärkt kompression och bevarad transparens. Gratis, snabbt och säkert."
-
-    "og_url": "https://miconvert.com/sv/convert/png-to-avif"
-
-    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera PNG till AVIF Online"
+    "title": "Konvertera PNG till AVIF Online",
+  "description": "Gratis och snabb PNG till AVIF-konverterare med utmärkt kompression och fullt stöd för transparens. Fungerar omedelbart på alla enheter - ingen registrering krävs."
 
-    "description": "Gratis och snabb PNG till AVIF-konverterare med utmärkt kompression och fullt stöd för transparens. Fungerar omedelbart på alla enheter - ingen registrering krävs."
-
-  }
+  },
   "converter": {
-    "type": "png-to-avif"
-
-    "title": "PNG till AVIF Konverterare"
-
-    "description": "Konvertera PNG-bilder till AVIF med modern kompression samtidigt som alfa-transparens bevaras."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "png-to-avif",
+  "title": "PNG till AVIF Konverterare",
+  "description": "Konvertera PNG-bilder till AVIF med modern kompression samtidigt som alfa-transparens bevaras.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Högkvalitativ AVIF-utdata",
+  "Utmärkt kompression",
+  "Bevarar transparens (alfa)",
+  "Gratis online verktyg"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Högkvalitativ AVIF-utdata"
-
-      "Utmärkt kompression"
-
-      "Bevarar transparens (alfa)"
-
-      "Gratis online verktyg"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:4:4"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:4:4",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG till AVIF Konvertering Klar"
+    "title": "PNG till AVIF Konvertering Klar",
+  "back_button": "Tillbaka till Konverteraren",
+  "convert_another": "Konvertera en annan PNG",
+  "quick_conversions": "Snabba Konverteringar:"
 
-    "back_button": "Tillbaka till Konverteraren"
-
-    "convert_another": "Konvertera en annan PNG"
-
-    "quick_conversions": "Snabba Konverteringar:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför Konvertera PNG till AVIF?"
+      "title": "Varför Konvertera PNG till AVIF?",
+  "description": "<p>AVIF (AV1 Image File Format) är ett nästa generations format med enastående effektivitet:</p><ul><li><strong>Överlägsen kompression:</strong> Ofta 30–50% mindre än PNG vid liknande kvalitet.</li><li><strong>Modern codec:</strong> Baserad på AV1-standarden.</li><li><strong>Hög trohet:</strong> Bra detaljbevarande vid lägre storlekar.</li><li><strong>Webbprestanda:</strong> Mindre bilder = snabbare sidor och bättre Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (AV1 Image File Format) är ett nästa generations format med enastående effektivitet:</p><ul><li><strong>Överlägsen kompression:</strong> Ofta 30–50% mindre än PNG vid liknande kvalitet.</li><li><strong>Modern codec:</strong> Baserad på AV1-standarden.</li><li><strong>Hög trohet:</strong> Bra detaljbevarande vid lägre storlekar.</li><li><strong>Webbprestanda:</strong> Mindre bilder = snabbare sidor och bättre Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Hur man Konverterar PNG till AVIF Online",
+  "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på bearbetning och optimering.</li><li>Klicka på <em>Ladda ner AVIF</em> för att spara din bild.</li></ol><p>Konverteraren auto-balanserar kvalitet och storlek för vanligt webbbruk.</p>"
 
-    }
-    {
-      "title": "Hur man Konverterar PNG till AVIF Online"
+    },
+  {
+      "title": "AVIF vs PNG Jämförelse",
+  "description": "<ul><li><strong>Filstorlek:</strong> AVIF är vanligtvis 30–50% mindre än PNG.</li><li><strong>Kvalitet:</strong> AVIF bibehåller stark kvalitet vid lägre bithastigheter.</li><li><strong>Transparens:</strong> Båda stödjer alfa-transparens.</li><li><strong>Webbläsarstöd:</strong> AVIF fungerar i moderna webbläsare (ge fallback om det behövs).</li></ul>"
 
-      "description": "<ol><li>Klicka på <em>Ladda upp PNG</em> och välj din fil.</li><li>Vänta på bearbetning och optimering.</li><li>Klicka på <em>Ladda ner AVIF</em> för att spara din bild.</li></ol><p>Konverteraren auto-balanserar kvalitet och storlek för vanligt webbbruk.</p>"
+    },
+  {
+      "title": "Stödda Gränser & Format",
+  "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodning:</strong> Kvalitet ≈ 80, hastighet 4, 4:4:4 subsampling för att hålla kanterna rena</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs PNG Jämförelse"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Äldre webbläsare:</strong> Använd <code>&lt;picture&gt;</code>-elementet med PNG/WebP fallback.</li><li><strong>Halo på kanterna:</strong> 4:4:4 hjälper; om det fortfarande är synligt, börja från högre upplöst PNG eller förfina alfa.</li><li><strong>Behöver förlustfri:</strong> Överväg PNG för pixelperfekta behov, eller ställ in AVIF till förlustfri i avancerade arbetsflöden.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är PNG och ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<ul><li><strong>Filstorlek:</strong> AVIF är vanligtvis 30–50% mindre än PNG.</li><li><strong>Kvalitet:</strong> AVIF bibehåller stark kvalitet vid lägre bithastigheter.</li><li><strong>Transparens:</strong> Båda stödjer alfa-transparens.</li><li><strong>Webbläsarstöd:</strong> AVIF fungerar i moderna webbläsare (ge fallback om det behövs).</li></ul>"
-
-    }
-    {
-      "title": "Stödda Gränser & Format"
-
-      "description": "<ul><li><strong>Accepterad indata:</strong> PNG (<code>image/png</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodning:</strong> Kvalitet ≈ 80, hastighet 4, 4:4:4 subsampling för att hålla kanterna rena</li></ul>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Äldre webbläsare:</strong> Använd <code>&lt;picture&gt;</code>-elementet med PNG/WebP fallback.</li><li><strong>Halo på kanterna:</strong> 4:4:4 hjälper; om det fortfarande är synligt, börja från högre upplöst PNG eller förfina alfa.</li><li><strong>Behöver förlustfri:</strong> Överväg PNG för pixelperfekta behov, eller ställ in AVIF till förlustfri i avancerade arbetsflöden.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är PNG och ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "Användningsfall: När man ska Konvertera PNG till AVIF"
-
-      "description": "<ul><li><strong>Webboptimering:</strong> Minska belastningen för ikoner, UI och grafik med transparens.</li><li><strong>Mobilappar:</strong> Lägre bandbredd och lagringsanvändning.</li><li><strong>Stora bibliotek:</strong> Spara diskutrymme utan uppenbar kvalitetsförlust.</li></ul>"
+    },
+  {
+      "title": "Användningsfall: När man ska Konvertera PNG till AVIF",
+  "description": "<ul><li><strong>Webboptimering:</strong> Minska belastningen för ikoner, UI och grafik med transparens.</li><li><strong>Mobilappar:</strong> Lägre bandbredd och lagringsanvändning.</li><li><strong>Stora bibliotek:</strong> Spara diskutrymme utan uppenbar kvalitetsförlust.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna PNG till AVIF konverterare gratis?"
+      "question": "Är denna PNG till AVIF konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Kommer AVIF att fungera på alla webbläsare?",
+  "answer": "AVIF stöds av moderna webbläsare (Chrome, Firefox, Safari, Edge). Ge PNG/WebP fallbacks för äldre."
 
-    }
-    {
-      "question": "Kommer AVIF att fungera på alla webbläsare?"
+    },
+  {
+      "question": "Hur mycket mindre är AVIF-filer jämfört med PNG?",
+  "answer": "Vanligtvis 30–50% mindre vid liknande upplevd kvalitet, beroende på bilden."
 
-      "answer": "AVIF stöds av moderna webbläsare (Chrome, Firefox, Safari, Edge). Ge PNG/WebP fallbacks för äldre."
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
 
-    }
-    {
-      "question": "Hur mycket mindre är AVIF-filer jämfört med PNG?"
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
 
-      "answer": "Vanligtvis 30–50% mindre vid liknande upplevd kvalitet, beroende på bilden."
+    },
+  {
+      "question": "Kan jag konvertera flera PNG:er på en gång?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera PNG:er på en gång?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-
-    }
-    {
-      "question": "Är AVIF bättre än PNG för webbplatser?"
-
-      "answer": "Ofta ja för mindre filstorlekar med bra kvalitet; för strikt förlustfri eller speciella fall kan PNG fortfarande vara att föredra."
+    },
+  {
+      "question": "Är AVIF bättre än PNG för webbplatser?",
+  "answer": "Ofta ja för mindre filstorlekar med bra kvalitet; för strikt förlustfri eller speciella fall kan PNG fortfarande vara att föredra."
 
     }
-  ]
-  "note": "För maximal kompatibilitet, servera AVIF med en PNG/WebP fallback med hjälp av <code>&lt;picture&gt;</code>-elementet."
-
+  ],
+  "note": "För maximal kompatibilitet, servera AVIF med en PNG/WebP fallback med hjälp av <code>&lt;picture&gt;</code>-elementet.",
   "related_links": [
     {
-      "title": "Konvertera AVIF till PNG"
+      "title": "Konvertera AVIF till PNG",
+  "url": "/sv/convert/avif-to-png"
 
-      "url": "/sv/convert/avif-to-png"
+    },
+  {
+      "title": "Konvertera PNG till WebP",
+  "url": "/sv/convert/png-to-webp"
 
-    }
-    {
-      "title": "Konvertera PNG till WebP"
-
-      "url": "/sv/convert/png-to-webp"
-
-    }
-    {
-      "title": "Konvertera JPG till AVIF"
-
-      "url": "/sv/convert/jpg-to-avif"
+    },
+  {
+      "title": "Konvertera JPG till AVIF",
+  "url": "/sv/convert/jpg-to-avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG till AVIF Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/png-to-avif"
-
-      "description": "Gratis online verktyg för att konvertera PNG-bilder till AVIF med utmärkt kompression och bevarad transparens."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/png-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG till AVIF Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/png-to-avif",
+  "description": "Gratis online verktyg för att konvertera PNG-bilder till AVIF med utmärkt kompression och bevarad transparens.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/png-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG till AVIF"
-
-          "item": "https://miconvert.com/sv/convert/png-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG till AVIF",
+  "item": "https://miconvert.com/sv/convert/png-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG till AVIF Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/png-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Utmärkt kompression",
+  "Bevarar transparens",
+  "Snabb bearbetning"
 
-      "name": "PNG till AVIF Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/png-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Utmärkt kompression"
-
-        "Bevarar transparens"
-
-        "Snabb bearbetning"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna PNG till AVIF konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna PNG till AVIF konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kommer AVIF att fungera på alla webbläsare?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF stöds av moderna webbläsare; ge PNG/WebP fallbacks för äldre."
+        },
+  {
+          "@type": "Question",
+  "name": "Kommer AVIF att fungera på alla webbläsare?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF stöds av moderna webbläsare; ge PNG/WebP fallbacks för äldre."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar PNG till AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar PNG till AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp PNG och välj din fil."
 
-          "text": "Klicka på Ladda upp PNG och välj din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att bearbetning och optimering ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner AVIF för att spara resultatet."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetning och optimering ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner AVIF för att spara resultatet."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG till AVIF Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

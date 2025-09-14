@@ -1,364 +1,272 @@
 {
-  "lang": "fi"
-
-  "lang_name": "Suomi"
-
-  "title": "PNG to BMP Muunnin - Ilmainen & Verkkopalvelu | miconvert.com"
-
-  "sub_title": "Muuta PNG-kuvat BMP:ksi verkossa purkamatta, häviöttömällä pikselidatalla. Ei vesileimoja."
-
-  "hint": "Lataa PNG-kuvasi aloittaaksesi muuntamisen..."
-
-  "btn_download": "Muuta BMP:ksi"
-
-  "btn_paste": "Lataa PNG"
-
-  "btn_clear": "Tyhjennä"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "fi",
+  "lang_name": "Suomi",
+  "title": "PNG to BMP Muunnin - Ilmainen & Verkkopalvelu | miconvert.com",
+  "sub_title": "Muuta PNG-kuvat BMP:ksi verkossa purkamatta, häviöttömällä pikselidatalla. Ei vesileimoja.",
+  "hint": "Lataa PNG-kuvasi aloittaaksesi muuntamisen...",
+  "btn_download": "Muuta BMP:ksi",
+  "btn_paste": "Lataa PNG",
+  "btn_clear": "Tyhjennä",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Muuta PNG BMP:ksi - Ilmainen Verkkopalvelu PNG:stä BMP:ksi"
+    "title": "Muuta PNG BMP:ksi - Ilmainen Verkkopalvelu PNG:stä BMP:ksi",
+  "description": "Muuta PNG-kuvat BMP-muotoon verkossa ilmaiseksi. Korkealaatuinen PNG:stä BMP:ksi muuntaminen nopealla käsittelyllä.",
+  "keywords": "png bmp:ksi, muunna png bmp:ksi, ilmainen png bmp:ksi, verkkobmp-muunnin, kuvamuunnos",
+  "canonical": "https://miconvert.com/fi/convert/png-to-bmp",
+  "og_title": "Muuta PNG BMP:ksi - Ilmainen Verkkopalvelu PNG:stä BMP:ksi",
+  "og_description": "Muuta PNG-kuvat BMP-muotoon verkossa ilmaiseksi. Korkealaatuinen PNG:stä BMP:ksi muuntaminen nopealla käsittelyllä.",
+  "og_url": "https://miconvert.com/fi/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Muuta PNG-kuvat BMP-muotoon verkossa ilmaiseksi. Korkealaatuinen PNG:stä BMP:ksi muuntaminen nopealla käsittelyllä."
-
-    "keywords": "png bmp:ksi, muunna png bmp:ksi, ilmainen png bmp:ksi, verkkobmp-muunnin, kuvamuunnos"
-
-    "canonical": "https://miconvert.com/fi/convert/png-to-bmp"
-
-    "og_title": "Muuta PNG BMP:ksi - Ilmainen Verkkopalvelu PNG:stä BMP:ksi"
-
-    "og_description": "Muuta PNG-kuvat BMP-muotoon verkossa ilmaiseksi. Korkealaatuinen PNG:stä BMP:ksi muuntaminen nopealla käsittelyllä."
-
-    "og_url": "https://miconvert.com/fi/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuta PNG BMP:ksi Verkossa"
+    "title": "Muuta PNG BMP:ksi Verkossa",
+  "description": "Ilmainen PNG BMP-muunnin purkamatta, häviöttömällä pikselidatalla. Toimii kaikilla laitteilla — ei rekisteröitymistä vaadita."
 
-    "description": "Ilmainen PNG BMP-muunnin purkamatta, häviöttömällä pikselidatalla. Toimii kaikilla laitteilla — ei rekisteröitymistä vaadita."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "PNG BMP Muunnin"
-
-    "description": "Muuta PNG-kuvat BMP:ksi nopealla käsittelyllä ja tarkalla värintoistolla."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "PNG BMP Muunnin",
+  "description": "Muuta PNG-kuvat BMP:ksi nopealla käsittelyllä ja tarkalla värintoistolla.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Purkamaton (häviötön) pikselidata",
+  "Korkea yhteensopivuus Windowsilla",
+  "Nopea käsittely",
+  "Ilmainen verkkotyökalu"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Purkamaton (häviötön) pikselidata"
-
-      "Korkea yhteensopivuus Windowsilla"
-
-      "Nopea käsittely"
-
-      "Ilmainen verkkotyökalu"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG BMP Muunnos Valmis"
+    "title": "PNG BMP Muunnos Valmis",
+  "back_button": "Takaisin Muuntimeen",
+  "convert_another": "Muuta Toinen PNG",
+  "quick_conversions": "Nopeat Muunnokset:"
 
-    "back_button": "Takaisin Muuntimeen"
-
-    "convert_another": "Muuta Toinen PNG"
-
-    "quick_conversions": "Nopeat Muunnokset:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miksi Muuntaa PNG BMP:ksi?"
+      "title": "Miksi Muuntaa PNG BMP:ksi?",
+  "description": "<p>BMP on yksinkertainen rasterimuoto, joka tallentaa pikselit ilman pakkausta — hyödyllinen tietyissä työnkuluissa:</p><ul><li><strong>Ei uusia artefakteja:</strong> Pidä pikselit ehjinä matalan tason muokkauksia varten.</li><li><strong>Yksinkertainen rakenne:</strong> Helppo ohjelmille lukea ja käsitellä.</li><li><strong>Perinteiset/sisäänrakennetut sovellukset:</strong> Jotkut Windows-työkalut suosivat BMP:tä.</li></ul>"
 
-      "description": "<p>BMP on yksinkertainen rasterimuoto, joka tallentaa pikselit ilman pakkausta — hyödyllinen tietyissä työnkuluissa:</p><ul><li><strong>Ei uusia artefakteja:</strong> Pidä pikselit ehjinä matalan tason muokkauksia varten.</li><li><strong>Yksinkertainen rakenne:</strong> Helppo ohjelmille lukea ja käsitellä.</li><li><strong>Perinteiset/sisäänrakennetut sovellukset:</strong> Jotkut Windows-työkalut suosivat BMP:tä.</li></ul>"
+    },
+  {
+      "title": "Kuinka Muuntaa PNG BMP:ksi Verkossa",
+  "description": "<ol><li>Napsauta <em>Lataa PNG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa BMP</em> tallentaaksesi kuvasi.</li></ol><p>Oletusarvoisesti 24-bittinen BMP ilman pakkausta.</p>"
 
-    }
-    {
-      "title": "Kuinka Muuntaa PNG BMP:ksi Verkossa"
+    },
+  {
+      "title": "BMP vs PNG Vertailu",
+  "description": "<ul><li><strong>Tiedoston koko:</strong> BMP on tyypillisesti paljon suurempi kuin PNG.</li><li><strong>Laatu:</strong> Molemmat ovat häviöttömiä (BMP purkamaton; PNG häviöttömästi pakattu).</li><li><strong>Transparentti:</strong> PNG tukee alfa-kanavaa; yleinen 24-bittinen BMP ei <em>tue</em>.</li><li><strong>Pakkaus:</strong> BMP ei pakkaa; PNG häviöttömästi DEFLATE.</li><li><strong>Käyttötapaukset:</strong> BMP perinteisiin/pikselitoimintoihin; PNG verkkosivuille ja tehokkaaseen häviöttömään tallennukseen.</li></ul>"
 
-      "description": "<ol><li>Napsauta <em>Lataa PNG</em> ja valitse tiedostosi.</li><li>Odota, että käsittely on valmis.</li><li>Napsauta <em>Lataa BMP</em> tallentaaksesi kuvasi.</li></ol><p>Oletusarvoisesti 24-bittinen BMP ilman pakkausta.</p>"
+    },
+  {
+      "title": "Tuetut Rajat & Muodot",
+  "description": "<ul><li><strong>Hyväksytty syöte:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimikoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tuloste:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit syvyys:</strong> 24-bittinen (ilman alfa-kanavaa)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs PNG Vertailu"
-
-      "description": "<ul><li><strong>Tiedoston koko:</strong> BMP on tyypillisesti paljon suurempi kuin PNG.</li><li><strong>Laatu:</strong> Molemmat ovat häviöttömiä (BMP purkamaton; PNG häviöttömästi pakattu).</li><li><strong>Transparentti:</strong> PNG tukee alfa-kanavaa; yleinen 24-bittinen BMP ei <em>tue</em>.</li><li><strong>Pakkaus:</strong> BMP ei pakkaa; PNG häviöttömästi DEFLATE.</li><li><strong>Käyttötapaukset:</strong> BMP perinteisiin/pikselitoimintoihin; PNG verkkosivuille ja tehokkaaseen häviöttömään tallennukseen.</li></ul>"
-
-    }
-    {
-      "title": "Tuetut Rajat & Muodot"
-
-      "description": "<ul><li><strong>Hyväksytty syöte:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimikoko:</strong> enintään 16&nbsp;MB per tiedosto</li><li><strong>Tuloste:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bit syvyys:</strong> 24-bittinen (ilman alfa-kanavaa)</li></ul>"
-
-    }
-    {
-      "title": "Vianetsintä"
-
-      "description": "<ul><li><strong>Erittäin suuri tuloste:</strong> BMP on purkamaton; pienempää häviötöntä varten, pidä PNG.</li><li><strong>Tarvitsetko läpinäkyvyyttä:</strong> BMP 24-bittinen ei sisällä alfa-kanavaa; pysy PNG:ssä.</li><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedosto on PNG ja ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Vianetsintä",
+  "description": "<ul><li><strong>Erittäin suuri tuloste:</strong> BMP on purkamaton; pienempää häviötöntä varten, pidä PNG.</li><li><strong>Tarvitsetko läpinäkyvyyttä:</strong> BMP 24-bittinen ei sisällä alfa-kanavaa; pysy PNG:ssä.</li><li><strong>Lataus epäonnistuu:</strong> Varmista, että tiedosto on PNG ja ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Onko tämä PNG BMP muunnin ilmainen?"
+      "question": "Onko tämä PNG BMP muunnin ilmainen?",
+  "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
 
-      "answer": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+    },
+  {
+      "question": "Toimiiko BMP kaikissa sovelluksissa?",
+  "answer": "BMP:tä tuetaan laajalti Windowsilla ja se tunnistetaan monilla muilla alustoilla. Nykyiset verkkotyönkulut suosivat yleensä PNG/WebP:tä koon tehokkuuden vuoksi."
 
-    }
-    {
-      "question": "Toimiiko BMP kaikissa sovelluksissa?"
+    },
+  {
+      "question": "Kuinka paljon suurempia BMP-tiedostot ovat verrattuna PNG:hen?",
+  "answer": "Usein useita kertoja suurempia (esim. 3–10× tai enemmän), koska BMP on purkamaton."
 
-      "answer": "BMP:tä tuetaan laajalti Windowsilla ja se tunnistetaan monilla muilla alustoilla. Nykyiset verkkotyönkulut suosivat yleensä PNG/WebP:tä koon tehokkuuden vuoksi."
+    },
+  {
+      "question": "Mitä tiedostokokoja tuetaan?",
+  "answer": "Voit ladata kuvia, joiden koko on enintään 16&nbsp;MB per tiedosto."
 
-    }
-    {
-      "question": "Kuinka paljon suurempia BMP-tiedostot ovat verrattuna PNG:hen?"
+    },
+  {
+      "question": "Ovatko tiedostoni turvallisia?",
+  "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
 
-      "answer": "Usein useita kertoja suurempia (esim. 3–10× tai enemmän), koska BMP on purkamaton."
+    },
+  {
+      "question": "Voinko muuntaa useita PNG-tiedostoja kerralla?",
+  "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
 
-    }
-    {
-      "question": "Mitä tiedostokokoja tuetaan?"
-
-      "answer": "Voit ladata kuvia, joiden koko on enintään 16&nbsp;MB per tiedosto."
-
-    }
-    {
-      "question": "Ovatko tiedostoni turvallisia?"
-
-      "answer": "Tiedostot käsitellään automaattisesti eikä niitä säilytetä pidempään kuin muuntamiseen tarvitaan."
-
-    }
-    {
-      "question": "Voinko muuntaa useita PNG-tiedostoja kerralla?"
-
-      "answer": "Tämä sivu muuntaa yhden tiedoston kerrallaan. Suurempiin tarpeisiin toista prosessi tai käytä erätyökalua."
-
-    }
-    {
-      "question": "Tukeeko BMP läpinäkyvyyttä?"
-
-      "answer": "Standardi 24-bittinen BMP ei sisällä alfa-kanavaa. Käytä PNG:tä läpinäkyvyyteen."
+    },
+  {
+      "question": "Tukeeko BMP läpinäkyvyyttä?",
+  "answer": "Standardi 24-bittinen BMP ei sisällä alfa-kanavaa. Käytä PNG:tä läpinäkyvyyteen."
 
     }
-  ]
-  "note": "BMP-tuloste on tarkoituksella suuri (purkamaton). Verkkotoimitukseen suositaan PNG/WebP/AVIF:tä."
-
+  ],
+  "note": "BMP-tuloste on tarkoituksella suuri (purkamaton). Verkkotoimitukseen suositaan PNG/WebP/AVIF:tä.",
   "related_links": [
     {
-      "title": "Muuta BMP PNG:ksi"
+      "title": "Muuta BMP PNG:ksi",
+  "url": "/fi/convert/bmp-to-png"
 
-      "url": "/fi/convert/bmp-to-png"
+    },
+  {
+      "title": "Muuta PNG JPG:ksi",
+  "url": "/fi/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Muuta PNG JPG:ksi"
-
-      "url": "/fi/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Muuta PNG WebP:ksi"
-
-      "url": "/fi/convert/png-to-webp"
+    },
+  {
+      "title": "Muuta PNG WebP:ksi",
+  "url": "/fi/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Kaikki oikeudet pidätetään.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG to BMP Muunnin - Ilmainen & Verkkopalvelu"
-
-      "url": "https://miconvert.com/fi/convert/png-to-bmp"
-
-      "description": "Ilmainen verkkotyökalu PNG-kuvien muuntamiseen BMP:ksi purkamatta, häviöttömällä pikselidatalla."
-
-      "inLanguage": "fi"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG to BMP Muunnin - Ilmainen & Verkkopalvelu",
+  "url": "https://miconvert.com/fi/convert/png-to-bmp",
+  "description": "Ilmainen verkkotyökalu PNG-kuvien muuntamiseen BMP:ksi purkamatta, häviöttömällä pikselidatalla.",
+  "inLanguage": "fi",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Etusivu",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Etusivu"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muunna",
+  "item": "https://miconvert.com/fi/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muunna"
-
-          "item": "https://miconvert.com/fi/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG BMP:ksi"
-
-          "item": "https://miconvert.com/fi/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG BMP:ksi",
+  "item": "https://miconvert.com/fi/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG BMP Muunnin",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/fi/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Purkamaton pikselidata",
+  "Tarkat värit",
+  "Nopea käsittely"
 
-      "name": "PNG BMP Muunnin"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/fi/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Purkamaton pikselidata"
-
-        "Tarkat värit"
-
-        "Nopea käsittely"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Onko tämä PNG BMP muunnin ilmainen?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
+          "@type": "Question",
+  "name": "Onko tämä PNG BMP muunnin ilmainen?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Kyllä, muunnin on täysin ilmainen ilman piilotettuja maksuja tai tilauksia."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Mitä tiedostokokoja tuetaan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
+        },
+  {
+          "@type": "Question",
+  "name": "Mitä tiedostokokoja tuetaan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Voit ladata kuvia, joiden koko on enintään 16 MB per tiedosto."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Tukeeko BMP läpinäkyvyyttä?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standardi 24-bittinen BMP ei sisällä alfa-kanavaa. Käytä PNG:tä läpinäkyvyyteen."
+        },
+  {
+          "@type": "Question",
+  "name": "Tukeeko BMP läpinäkyvyyttä?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standardi 24-bittinen BMP ei sisällä alfa-kanavaa. Käytä PNG:tä läpinäkyvyyteen."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuinka muuntaa PNG BMP:ksi"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuinka muuntaa PNG BMP:ksi",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa PNG ja valitse tiedostosi."
 
-          "text": "Napsauta Lataa PNG ja valitse tiedostosi."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Odota, että käsittely on valmis."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Napsauta Lataa BMP tallentaaksesi kuvan."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Odota, että käsittely on valmis."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Napsauta Lataa BMP tallentaaksesi kuvan."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG BMP Muunnin"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

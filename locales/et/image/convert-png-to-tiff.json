@@ -1,367 +1,274 @@
 {
-  "lang": "et"
-
-  "lang_name": "Eesti"
-
-  "title": "PNG TIFF-i konverter - Tasuta ja veebis | miconvert.com"
-
-  "sub_title": "Muuda PNG pilte TIFF-iks veebis, kasutades kaotusteta valikuid, printimiseks valmis kvaliteeti ja säilitades läbipaistvuse. Ilma veemärkideta."
-
-  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist..."
-
-  "btn_download": "Muuda TIFF-iks"
-
-  "btn_paste": "Laadi üles PNG"
-
-  "btn_clear": "Kustuta"
-
-  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
-
+  "lang": "et",
+  "lang_name": "Eesti",
+  "title": "PNG TIFF-i konverter - Tasuta ja veebis | miconvert.com",
+  "sub_title": "Muuda PNG pilte TIFF-iks veebis, kasutades kaotusteta valikuid, printimiseks valmis kvaliteeti ja säilitades läbipaistvuse. Ilma veemärkideta.",
+  "hint": "Laadi üles oma PNG pilt, et alustada konverteerimist...",
+  "btn_download": "Muuda TIFF-iks",
+  "btn_paste": "Laadi üles PNG",
+  "btn_clear": "Kustuta",
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg",
   "head": {
-    "title": "Muuda PNG TIFF-iks - Tasuta veebipõhine PNG TIFF-i konverter | miconvert.com"
+    "title": "Muuda PNG TIFF-iks - Tasuta veebipõhine PNG TIFF-i konverter | miconvert.com",
+  "description": "Muuda PNG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga PNG TIFF-i konverteerimine kaotusteta valikute ja kiire töötlemisega.",
+  "keywords": "png tiff-iks, muuda png tiff-iks, tasuta png tiff-iks, veebipõhine tiff konverter, pildi konverteerimine",
+  "canonical": "https://miconvert.com/et/convert/png-to-tiff",
+  "og_title": "Muuda PNG TIFF-iks - Tasuta veebipõhine PNG TIFF-i konverter",
+  "og_description": "Muuda PNG pilte TIFF-iks kaotusteta kompressioonivalikute ja säilitatud läbipaistvusega. Tasuta, kiire ja turvaline.",
+  "og_url": "https://miconvert.com/et/convert/png-to-tiff",
+  "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
 
-    "description": "Muuda PNG pilte TIFF formaati veebis tasuta. Kõrge kvaliteediga PNG TIFF-i konverteerimine kaotusteta valikute ja kiire töötlemisega."
-
-    "keywords": "png tiff-iks, muuda png tiff-iks, tasuta png tiff-iks, veebipõhine tiff konverter, pildi konverteerimine"
-
-    "canonical": "https://miconvert.com/et/convert/png-to-tiff"
-
-    "og_title": "Muuda PNG TIFF-iks - Tasuta veebipõhine PNG TIFF-i konverter"
-
-    "og_description": "Muuda PNG pilte TIFF-iks kaotusteta kompressioonivalikute ja säilitatud läbipaistvusega. Tasuta, kiire ja turvaline."
-
-    "og_url": "https://miconvert.com/et/convert/png-to-tiff"
-
-    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Muuda PNG TIFF-iks veebis"
+    "title": "Muuda PNG TIFF-iks veebis",
+  "description": "Tasuta PNG TIFF-i konverter kaotusteta kompressioonivalikute ja printimiseks valmis väljundiga. Töötab igas seadmes - registreerimist ei nõuta."
 
-    "description": "Tasuta PNG TIFF-i konverter kaotusteta kompressioonivalikute ja printimiseks valmis väljundiga. Töötab igas seadmes - registreerimist ei nõuta."
-
-  }
+  },
   "converter": {
-    "type": "png-to-tiff"
-
-    "title": "PNG TIFF-i konverter"
-
-    "description": "Muuda PNG pilte TIFF-iks LZW/ZIP kaotusteta kompressiooniga, säilitades samal ajal alfa läbipaistvuse."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "png-to-tiff",
+  "title": "PNG TIFF-i konverter",
+  "description": "Muuda PNG pilte TIFF-iks LZW/ZIP kaotusteta kompressiooniga, säilitades samal ajal alfa läbipaistvuse.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Kaotusteta TIFF (LZW/ZIP) valik",
+  "Säilitab läbipaistvuse (alfa)",
+  "Printimiseks valmis kvaliteet",
+  "Tasuta veebitööriist"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Kaotusteta TIFF (LZW/ZIP) valik"
-
-      "Säilitab läbipaistvuse (alfa)"
-
-      "Printimiseks valmis kvaliteet"
-
-      "Tasuta veebitööriist"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 32
-        "alpha": true
-        "dpi": 300
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 32,
+  "alpha": true,
+  "dpi": 300
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG TIFF-i konverteerimine lõpetatud"
+    "title": "PNG TIFF-i konverteerimine lõpetatud",
+  "back_button": "Tagasi konverterisse",
+  "convert_another": "Muuda teine PNG",
+  "quick_conversions": "Kiired konverteerimised:"
 
-    "back_button": "Tagasi konverterisse"
-
-    "convert_another": "Muuda teine PNG"
-
-    "quick_conversions": "Kiired konverteerimised:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Miks muuda PNG TIFF-iks?"
+      "title": "Miks muuda PNG TIFF-iks?",
+  "description": "<p>TIFF on professionaalne, arhiivikvaliteediga formaat, mida kasutatakse pildistamisel ja trükis:</p><ul><li><strong>Kaotusteta valikud:</strong> Hoia puhas master ilma uute artefaktideta.</li><li><strong>Printimiseks valmis:</strong> Suurepärane kõrge eraldusvõimega väljundi ja eeltrüki töövoogude jaoks.</li><li><strong>Alfa tugi:</strong> Saab säilitada läbipaistvust (lugeja sõltuv).</li><li><strong>Redigeerimise sõbralik:</strong> Stabiilne korduvate salvestuste ja edastuste jaoks.</li></ul>"
 
-      "description": "<p>TIFF on professionaalne, arhiivikvaliteediga formaat, mida kasutatakse pildistamisel ja trükis:</p><ul><li><strong>Kaotusteta valikud:</strong> Hoia puhas master ilma uute artefaktideta.</li><li><strong>Printimiseks valmis:</strong> Suurepärane kõrge eraldusvõimega väljundi ja eeltrüki töövoogude jaoks.</li><li><strong>Alfa tugi:</strong> Saab säilitada läbipaistvust (lugeja sõltuv).</li><li><strong>Redigeerimise sõbralik:</strong> Stabiilne korduvate salvestuste ja edastuste jaoks.</li></ul>"
+    },
+  {
+      "title": "Kuidas muuda PNG TIFF-iks veebis",
+  "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota töötlemise lõpetamist.</li><li>Kliki <em>Laadi alla TIFF</em>, et salvestada tulemus.</li></ol><p>Vaikimisi väljund: 32-bitine RGBA, LZW kaotusteta, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Kuidas muuda PNG TIFF-iks veebis"
+    },
+  {
+      "title": "TIFF vs PNG: Peamised erinevused",
+  "description": "<ul><li><strong>Kompressioon:</strong> PNG kasutab kaotusteta DEFLATE; TIFF toetab LZW/ZIP (kaotusteta) või teisi.</li><li><strong>Faili suurus:</strong> Sõltub pildi sisust; TIFF võib olla suurem või sarnane PNG-le.</li><li><strong>Läbipaistvus:</strong> Mõlemad võivad sisaldada alfa (vaataja tugi võib TIFF-i puhul varieeruda).</li><li><strong>Parim:</strong> PNG veebitoimetamiseks; TIFF redigeerimiseks, trükiks ja arhiveerimiseks.</li></ul>"
 
-      "description": "<ol><li>Kliki <em>Laadi üles PNG</em> ja vali oma fail.</li><li>Oota töötlemise lõpetamist.</li><li>Kliki <em>Laadi alla TIFF</em>, et salvestada tulemus.</li></ol><p>Vaikimisi väljund: 32-bitine RGBA, LZW kaotusteta, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Toetatud piirangud ja formaadid",
+  "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Vaikimisi:</strong> 32-bitine RGBA, LZW kompressioon, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs PNG: Peamised erinevused"
-
-      "description": "<ul><li><strong>Kompressioon:</strong> PNG kasutab kaotusteta DEFLATE; TIFF toetab LZW/ZIP (kaotusteta) või teisi.</li><li><strong>Faili suurus:</strong> Sõltub pildi sisust; TIFF võib olla suurem või sarnane PNG-le.</li><li><strong>Läbipaistvus:</strong> Mõlemad võivad sisaldada alfa (vaataja tugi võib TIFF-i puhul varieeruda).</li><li><strong>Parim:</strong> PNG veebitoimetamiseks; TIFF redigeerimiseks, trükiks ja arhiveerimiseks.</li></ul>"
-
-    }
-    {
-      "title": "Toetatud piirangud ja formaadid"
-
-      "description": "<ul><li><strong>Aktsepteeritud sisend:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimaalne faili suurus:</strong> kuni 16&nbsp;MB faili kohta</li><li><strong>Väljund:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Vaikimisi:</strong> 32-bitine RGBA, LZW kompressioon, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Tõrkeotsing"
-
-      "description": "<ul><li><strong>Fail liiga suur:</strong> TIFF on mõne sisu jaoks raskem - hoia PNG veebiks või kaalu WebP/AVIF kasutamist.</li><li><strong>Alfa ei ole nähtav:</strong> Mõned vaatajad ignoreerivad TIFF alfa; kontrolli professionaalses redaktoris.</li><li><strong>Värvi nihke:</strong> Muuda sRGB-ks enne üleslaadimist, et tagada ühtlane ekraanivärv.</li><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Tõrkeotsing",
+  "description": "<ul><li><strong>Fail liiga suur:</strong> TIFF on mõne sisu jaoks raskem - hoia PNG veebiks või kaalu WebP/AVIF kasutamist.</li><li><strong>Alfa ei ole nähtav:</strong> Mõned vaatajad ignoreerivad TIFF alfa; kontrolli professionaalses redaktoris.</li><li><strong>Värvi nihke:</strong> Muuda sRGB-ks enne üleslaadimist, et tagada ühtlane ekraanivärv.</li><li><strong>Üleslaadimine ebaõnnestus:</strong> Veendu, et PNG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Kas see PNG TIFF-i konverter on tasuta?"
+      "question": "Kas see PNG TIFF-i konverter on tasuta?",
+  "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
-      "answer": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+    },
+  {
+      "question": "Kas TIFF töötab kõigis rakendustes?",
+  "answer": "TIFF on laialdaselt toetatud professionaalsetes rakendustes (Photoshop, Affinity, paljud RIP/trükitööriistad). Mõned lihtsad vaatajad ei pruugi alfa või teatud kompressioonimeetodeid kuvada."
 
-    }
-    {
-      "question": "Kas TIFF töötab kõigis rakendustes?"
+    },
+  {
+      "question": "Kui suured on TIFF failid võrreldes PNG-ga?",
+  "answer": "See varieerub pildi järgi. LZW/ZIP puhul võib TIFF olla sarnane või suurem kui PNG, sõltuvalt sisust."
 
-      "answer": "TIFF on laialdaselt toetatud professionaalsetes rakendustes (Photoshop, Affinity, paljud RIP/trükitööriistad). Mõned lihtsad vaatajad ei pruugi alfa või teatud kompressioonimeetodeid kuvada."
+    },
+  {
+      "question": "Milliseid faili suurusi toetatakse?",
+  "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
 
-    }
-    {
-      "question": "Kui suured on TIFF failid võrreldes PNG-ga?"
+    },
+  {
+      "question": "Kas mu failid on turvalised?",
+  "answer": "Failid töödeldakse automaatselt ja neid ei hoita kauem, kui on vajalik konverteerimiseks."
 
-      "answer": "See varieerub pildi järgi. LZW/ZIP puhul võib TIFF olla sarnane või suurem kui PNG, sõltuvalt sisust."
+    },
+  {
+      "question": "Kas ma saan korraga konverteerida mitut PNG-d?",
+  "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
 
-    }
-    {
-      "question": "Milliseid faili suurusi toetatakse?"
-
-      "answer": "Sa saad üles laadida pilte kuni 16&nbsp;MB faili kohta."
-
-    }
-    {
-      "question": "Kas mu failid on turvalised?"
-
-      "answer": "Failid töödeldakse automaatselt ja neid ei hoita kauem, kui on vajalik konverteerimiseks."
-
-    }
-    {
-      "question": "Kas ma saan korraga konverteerida mitut PNG-d?"
-
-      "answer": "See leht konverteerib ühe faili korraga. Suuremate vajaduste korral korda protsessi või kasuta partii tööriista."
-
-    }
-    {
-      "question": "Kas TIFF toetab kihte?"
-
-      "answer": "Standardsed TIFF-id on lamedad. Mõned rakendused embedivad privaatset kihi andmeid, kuid see tööriist genereerib lameda TIFF-i."
+    },
+  {
+      "question": "Kas TIFF toetab kihte?",
+  "answer": "Standardsed TIFF-id on lamedad. Mõned rakendused embedivad privaatset kihi andmeid, kuid see tööriist genereerib lameda TIFF-i."
 
     }
-  ]
-  "note": "TIFF sobib arhiveerimiseks/trükkimiseks, kuid võib olla raske. Veebiks kaalu PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF sobib arhiveerimiseks/trükkimiseks, kuid võib olla raske. Veebiks kaalu PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Muuda PNG JPG-ks"
+      "title": "Muuda PNG JPG-ks",
+  "url": "/et/convert/png-to-jpg"
 
-      "url": "/et/convert/png-to-jpg"
+    },
+  {
+      "title": "Muuda PNG WebP-ks",
+  "url": "/et/convert/png-to-webp"
 
-    }
-    {
-      "title": "Muuda PNG WebP-ks"
-
-      "url": "/et/convert/png-to-webp"
-
-    }
-    {
-      "title": "Muuda JPG TIFF-iks"
-
-      "url": "/et/convert/jpg-to-tiff"
+    },
+  {
+      "title": "Muuda JPG TIFF-iks",
+  "url": "/et/convert/jpg-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Kõik õigused kaitstud.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG TIFF-i konverter - Tasuta ja veebis"
-
-      "url": "https://miconvert.com/et/convert/png-to-tiff"
-
-      "description": "Tasuta veebitööriist PNG piltide TIFF-iks konverteerimiseks kaotusteta valikute ja säilitatud läbipaistvusega."
-
-      "inLanguage": "et"
-
-      "image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG TIFF-i konverter - Tasuta ja veebis",
+  "url": "https://miconvert.com/et/convert/png-to-tiff",
+  "description": "Tasuta veebitööriist PNG piltide TIFF-iks konverteerimiseks kaotusteta valikute ja säilitatud läbipaistvusega.",
+  "inLanguage": "et",
+  "image": "https://miconvert.com/images/png-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Avaleht",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Avaleht"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Muuda",
+  "item": "https://miconvert.com/et/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Muuda"
-
-          "item": "https://miconvert.com/et/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG TIFF-iks"
-
-          "item": "https://miconvert.com/et/convert/png-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG TIFF-iks",
+  "item": "https://miconvert.com/et/convert/png-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG TIFF-i konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/et/convert/png-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Kaotusteta LZW valik",
+  "Säilitab alfa",
+  "Printimiseks valmis 300 DPI"
 
-      "name": "PNG TIFF-i konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/et/convert/png-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Kaotusteta LZW valik"
-
-        "Säilitab alfa"
-
-        "Printimiseks valmis 300 DPI"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Kas see PNG TIFF-i konverter on tasuta?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
+          "@type": "Question",
+  "name": "Kas see PNG TIFF-i konverter on tasuta?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Jah, konverter on täiesti tasuta, ilma peidetud tasude või tellimusteta."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Milliseid faili suurusi toetatakse?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
+        },
+  {
+          "@type": "Question",
+  "name": "Milliseid faili suurusi toetatakse?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sa saad üles laadida pilte kuni 16 MB faili kohta."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kas TIFF toetab kihte?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standardsed TIFF-id on lamedad; mõned rakendused embedivad privaatset kihi andmeid. See tööriist genereerib lameda TIFF-i."
+        },
+  {
+          "@type": "Question",
+  "name": "Kas TIFF toetab kihte?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standardsed TIFF-id on lamedad; mõned rakendused embedivad privaatset kihi andmeid. See tööriist genereerib lameda TIFF-i."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kuidas muuda PNG TIFF-iks"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kuidas muuda PNG TIFF-iks",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliki Laadi üles PNG ja vali oma fail."
 
-          "text": "Kliki Laadi üles PNG ja vali oma fail."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Oota töötlemise lõpetamist."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliki Laadi alla TIFF, et salvestada tulemus."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Oota töötlemise lõpetamist."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliki Laadi alla TIFF, et salvestada tulemus."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG TIFF-i konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

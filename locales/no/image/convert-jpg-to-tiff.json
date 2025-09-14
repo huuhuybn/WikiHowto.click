@@ -1,367 +1,274 @@
 {
-  "lang": "no"
-
-  "lang_name": "Norsk"
-
-  "title": "JPG til TIFF Konverter - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konverter JPG-bilder til TIFF online med tapsfri komprimeringsalternativer og utskriftsklar kvalitet. Ingen vannmerker."
-
-  "hint": "Last opp JPG-bildet ditt for å begynne å konvertere..."
-
-  "btn_download": "Konverter til TIFF"
-
-  "btn_paste": "Last opp JPG"
-
-  "btn_clear": "Tøm"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "no",
+  "lang_name": "Norsk",
+  "title": "JPG til TIFF Konverter - Gratis & Online | miconvert.com",
+  "sub_title": "Konverter JPG-bilder til TIFF online med tapsfri komprimeringsalternativer og utskriftsklar kvalitet. Ingen vannmerker.",
+  "hint": "Last opp JPG-bildet ditt for å begynne å konvertere...",
+  "btn_download": "Konverter til TIFF",
+  "btn_paste": "Last opp JPG",
+  "btn_clear": "Tøm",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter"
+    "title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter",
+  "description": "Konverter JPG-bilder til TIFF-format online gratis. Høy kvalitet JPG til TIFF konvertering med rask behandling.",
+  "keywords": "jpg til tiff, konverter jpg til tiff, gratis jpg til tiff, online tiff konverter, bilde konvertering",
+  "canonical": "https://miconvert.com/no/convert/jpg-to-tiff",
+  "og_title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter",
+  "og_description": "Konverter JPG-bilder til TIFF-format online gratis. Høy kvalitet JPG til TIFF konvertering med rask behandling.",
+  "og_url": "https://miconvert.com/no/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "Konverter JPG-bilder til TIFF-format online gratis. Høy kvalitet JPG til TIFF konvertering med rask behandling."
-
-    "keywords": "jpg til tiff, konverter jpg til tiff, gratis jpg til tiff, online tiff konverter, bilde konvertering"
-
-    "canonical": "https://miconvert.com/no/convert/jpg-to-tiff"
-
-    "og_title": "Konverter JPG til TIFF - Gratis Online JPG til TIFF Konverter"
-
-    "og_description": "Konverter JPG-bilder til TIFF-format online gratis. Høy kvalitet JPG til TIFF konvertering med rask behandling."
-
-    "og_url": "https://miconvert.com/no/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konverter JPG til TIFF Online"
+    "title": "Konverter JPG til TIFF Online",
+  "description": "Gratis JPG til TIFF konverter med tapsfri komprimeringsalternativer og utskriftsklar utdata. Fungerer på alle enheter — ingen registrering nødvendig."
 
-    "description": "Gratis JPG til TIFF konverter med tapsfri komprimeringsalternativer og utskriftsklar utdata. Fungerer på alle enheter — ingen registrering nødvendig."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG til TIFF Konverter"
-
-    "description": "Konverter JPG-bilder til TIFF med LZW/ZIP tapsfri komprimering og nøyaktige farger."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG til TIFF Konverter",
+  "description": "Konverter JPG-bilder til TIFF med LZW/ZIP tapsfri komprimering og nøyaktige farger.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Tapsfri TIFF (LZW/ZIP) alternativ",
+  "Utskriftsklar kvalitet",
+  "Nøyaktige farger",
+  "Gratis online verktøy"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Tapsfri TIFF (LZW/ZIP) alternativ"
-
-      "Utskriftsklar kvalitet"
-
-      "Nøyaktige farger"
-
-      "Gratis online verktøy"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG til TIFF Konvertering Fullført"
+    "title": "JPG til TIFF Konvertering Fullført",
+  "back_button": "Tilbake til Konverter",
+  "convert_another": "Konverter En Annen JPG",
+  "quick_conversions": "Raske Konverteringer:"
 
-    "back_button": "Tilbake til Konverter"
-
-    "convert_another": "Konverter En Annen JPG"
-
-    "quick_conversions": "Raske Konverteringer:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Hvorfor Konvertere JPG til TIFF?"
+      "title": "Hvorfor Konvertere JPG til TIFF?",
+  "description": "<p>TIFF er et profesjonelt, arkivkvalitetsformat brukt i bildebehandling og trykk:</p><ul><li><strong>Tapsfrie alternativer:</strong> Lagre en ren master uten nye JPEG-artifakter.</li><li><strong>Utskriftsklar:</strong> Bevarer detaljer for høyoppløselig utdata.</li><li><strong>Fleksibel:</strong> Støtter alfa-kanal og flere fargerom (leseravhengig).</li><li><strong>Arbeidsflytvennlig:</strong> Stabil for gjentatte redigeringer og overleveringer.</li></ul><p><em>Merk:</em> Konvertering fra JPG (tapskomprimert) vil ikke magisk gjenopprette tapt detalj — men hjelper med å unngå ytterligere forringelse ved senere lagringer.</p>"
 
-      "description": "<p>TIFF er et profesjonelt, arkivkvalitetsformat brukt i bildebehandling og trykk:</p><ul><li><strong>Tapsfrie alternativer:</strong> Lagre en ren master uten nye JPEG-artifakter.</li><li><strong>Utskriftsklar:</strong> Bevarer detaljer for høyoppløselig utdata.</li><li><strong>Fleksibel:</strong> Støtter alfa-kanal og flere fargerom (leseravhengig).</li><li><strong>Arbeidsflytvennlig:</strong> Stabil for gjentatte redigeringer og overleveringer.</li></ul><p><em>Merk:</em> Konvertering fra JPG (tapskomprimert) vil ikke magisk gjenopprette tapt detalj — men hjelper med å unngå ytterligere forringelse ved senere lagringer.</p>"
+    },
+  {
+      "title": "Hvordan Konvertere JPG til TIFF Online",
+  "description": "<ol><li>Klikk <em>Last opp JPG</em> og velg bildet ditt.</li><li>Vent på behandling.</li><li>Klikk <em>Last ned TIFF</em> for å lagre filen.</li></ol><p>Standard: 24-bit RGB, LZW tapsfri, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Hvordan Konvertere JPG til TIFF Online"
+    },
+  {
+      "title": "TIFF vs JPG: Nøkkelforskjeller",
+  "description": "<table class='table-compare'><thead><tr><th>Funksjon</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Komprimering</td><td>Tapskomprimert (JPEG)</td><td>Tapsfri (LZW/ZIP) eller JPEG/ingen</td></tr><tr><td>Filstørrelse</td><td>Liten</td><td>Større (avhenger av komprimering)</td></tr><tr><td>Transparens</td><td>Nei</td><td>Valgfri alfa (leseravhengig)</td></tr><tr><td>Best for</td><td>Web/bilde deling</td><td>Redigering, trykk, arkivering</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klikk <em>Last opp JPG</em> og velg bildet ditt.</li><li>Vent på behandling.</li><li>Klikk <em>Last ned TIFF</em> for å lagre filen.</li></ol><p>Standard: 24-bit RGB, LZW tapsfri, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Støttede Grenser & Formater",
+  "description": "<ul><li><strong>Akseptert input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimal filstørrelse:</strong> opptil 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Standarder:</strong> 24-bit RGB, LZW komprimering, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs JPG: Nøkkelforskjeller"
-
-      "description": "<table class='table-compare'><thead><tr><th>Funksjon</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Komprimering</td><td>Tapskomprimert (JPEG)</td><td>Tapsfri (LZW/ZIP) eller JPEG/ingen</td></tr><tr><td>Filstørrelse</td><td>Liten</td><td>Større (avhenger av komprimering)</td></tr><tr><td>Transparens</td><td>Nei</td><td>Valgfri alfa (leseravhengig)</td></tr><tr><td>Best for</td><td>Web/bilde deling</td><td>Redigering, trykk, arkivering</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Støttede Grenser & Formater"
-
-      "description": "<ul><li><strong>Akseptert input:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimal filstørrelse:</strong> opptil 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Standarder:</strong> 24-bit RGB, LZW komprimering, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Feilsøking"
-
-      "description": "<ul><li><strong>Fil for stor:</strong> TIFF er tyngre med vilje. For mindre tapsfrie, prøv <a href='/no/convert/jpg-to-png'>JPG til PNG</a>.</li><li><strong>Trenger transparens:</strong> Kilde JPG mangler alfa; konverter og rediger alfa i en redigerer, eller start fra PNG.</li><li><strong>Fargeforskyvning:</strong> Konverter til sRGB før opplasting for webkonsistens.</li><li><strong>Opplasting mislykkes:</strong> Sørg for at JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Feilsøking",
+  "description": "<ul><li><strong>Fil for stor:</strong> TIFF er tyngre med vilje. For mindre tapsfrie, prøv <a href='/no/convert/jpg-to-png'>JPG til PNG</a>.</li><li><strong>Trenger transparens:</strong> Kilde JPG mangler alfa; konverter og rediger alfa i en redigerer, eller start fra PNG.</li><li><strong>Fargeforskyvning:</strong> Konverter til sRGB før opplasting for webkonsistens.</li><li><strong>Opplasting mislykkes:</strong> Sørg for at JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Er denne JPG til TIFF konverteren gratis?"
+      "question": "Er denne JPG til TIFF konverteren gratis?",
+  "answer": "Ja, konverteren er helt gratis uten skjulte kostnader eller abonnementer."
 
-      "answer": "Ja, konverteren er helt gratis uten skjulte kostnader eller abonnementer."
+    },
+  {
+      "question": "Vil TIFF fungere på alle applikasjoner?",
+  "answer": "TIFF er bredt støttet i profesjonelle apper (Photoshop, Affinity, mange RIP/trykkverktøy). Noen enkle visningsprogrammer støtter kanskje ikke alle komprimeringsalternativer."
 
-    }
-    {
-      "question": "Vil TIFF fungere på alle applikasjoner?"
+    },
+  {
+      "question": "Hvor mye større er TIFF-filer sammenlignet med JPG?",
+  "answer": "Typisk 3–10× større enn JPG med samme dimensjoner (varierer med innhold og komprimering)."
 
-      "answer": "TIFF er bredt støttet i profesjonelle apper (Photoshop, Affinity, mange RIP/trykkverktøy). Noen enkle visningsprogrammer støtter kanskje ikke alle komprimeringsalternativer."
+    },
+  {
+      "question": "Hvilke filstørrelser støttes?",
+  "answer": "Du kan laste opp bilder opptil 16&nbsp;MB per fil."
 
-    }
-    {
-      "question": "Hvor mye større er TIFF-filer sammenlignet med JPG?"
+    },
+  {
+      "question": "Er filene mine trygge?",
+  "answer": "Filer behandles automatisk og beholdes ikke lenger enn nødvendig for konvertering."
 
-      "answer": "Typisk 3–10× større enn JPG med samme dimensjoner (varierer med innhold og komprimering)."
+    },
+  {
+      "question": "Kan jeg konvertere flere JPG-er samtidig?",
+  "answer": "Denne siden konverterer én fil om gangen. For massebehov, gjenta prosessen eller bruk et batchverktøy."
 
-    }
-    {
-      "question": "Hvilke filstørrelser støttes?"
-
-      "answer": "Du kan laste opp bilder opptil 16&nbsp;MB per fil."
-
-    }
-    {
-      "question": "Er filene mine trygge?"
-
-      "answer": "Filer behandles automatisk og beholdes ikke lenger enn nødvendig for konvertering."
-
-    }
-    {
-      "question": "Kan jeg konvertere flere JPG-er samtidig?"
-
-      "answer": "Denne siden konverterer én fil om gangen. For massebehov, gjenta prosessen eller bruk et batchverktøy."
-
-    }
-    {
-      "question": "Støtter TIFF lag?"
-
-      "answer": "Standard TIFF er et flatt bilde; noen apper lagrer 'lagdelt TIFF' på sin egen måte. Dette verktøyet gir ut en flat TIFF."
+    },
+  {
+      "question": "Støtter TIFF lag?",
+  "answer": "Standard TIFF er et flatt bilde; noen apper lagrer 'lagdelt TIFF' på sin egen måte. Dette verktøyet gir ut en flat TIFF."
 
     }
-  ]
-  "note": "TIFF er egnet for lagring/trykk, men har stor filstørrelse. For web, vurder PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF er egnet for lagring/trykk, men har stor filstørrelse. For web, vurder PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konverter JPG til PNG"
+      "title": "Konverter JPG til PNG",
+  "url": "/no/convert/jpg-to-png"
 
-      "url": "/no/convert/jpg-to-png"
+    },
+  {
+      "title": "Konverter JPG til WebP",
+  "url": "/no/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "Konverter JPG til WebP"
-
-      "url": "/no/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "Konverter PNG til TIFF"
-
-      "url": "/no/convert/png-to-tiff"
+    },
+  {
+      "title": "Konverter PNG til TIFF",
+  "url": "/no/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheter reservert."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alle rettigheter reservert.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG til TIFF Konverter - Gratis & Online"
-
-      "url": "https://miconvert.com/no/convert/jpg-to-tiff"
-
-      "description": "Gratis online verktøy for å konvertere JPG-bilder til TIFF med tapsfri komprimering og utskriftsklar utdata."
-
-      "inLanguage": "no"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG til TIFF Konverter - Gratis & Online",
+  "url": "https://miconvert.com/no/convert/jpg-to-tiff",
+  "description": "Gratis online verktøy for å konvertere JPG-bilder til TIFF med tapsfri komprimering og utskriftsklar utdata.",
+  "inLanguage": "no",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hjem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hjem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konverter",
+  "item": "https://miconvert.com/no/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverter"
-
-          "item": "https://miconvert.com/no/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG til TIFF"
-
-          "item": "https://miconvert.com/no/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG til TIFF",
+  "item": "https://miconvert.com/no/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG til TIFF Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/no/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "NOK"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Tapsfri LZW alternativ",
+  "Utskriftsklar 300 DPI",
+  "Nøyaktige farger"
 
-      "name": "JPG til TIFF Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/no/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "NOK"
-
-      }
-      "featureList": [
-        "Tapsfri LZW alternativ"
-
-        "Utskriftsklar 300 DPI"
-
-        "Nøyaktige farger"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Er denne JPG til TIFF konverteren gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteren er helt gratis uten skjulte kostnader eller abonnementer."
+          "@type": "Question",
+  "name": "Er denne JPG til TIFF konverteren gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteren er helt gratis uten skjulte kostnader eller abonnementer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Hvilke filstørrelser støttes?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan laste opp bilder opptil 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Hvilke filstørrelser støttes?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan laste opp bilder opptil 16 MB per fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Støtter TIFF lag?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standard TIFF er flatt. Noen apper lagrer private lagdata; dette verktøyet gir ut en flat TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Støtter TIFF lag?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standard TIFF er flatt. Noen apper lagrer private lagdata; dette verktøyet gir ut en flat TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hvordan konvertere JPG til TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hvordan konvertere JPG til TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikk Last opp JPG og velg bildet ditt."
 
-          "text": "Klikk Last opp JPG og velg bildet ditt."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vent på at behandlingen er fullført."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikk Last ned TIFF for å lagre filen."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vent på at behandlingen er fullført."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikk Last ned TIFF for å lagre filen."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG til TIFF Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,367 +1,274 @@
 {
-  "lang": "tr"
-
-  "lang_name": "Türkçe"
-
-  "title": "JPG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi | miconvert.com"
-
-  "sub_title": "JPG görüntülerini kayıpsız sıkıştırma seçenekleri ve baskıya hazır kalitede çevrimiçi TIFF'ye dönüştürün. Su işareti yok."
-
-  "hint": "Dönüştürmeye başlamak için JPG görüntünüzü yükleyin..."
-
-  "btn_download": "TIFF'ye Dönüştür"
-
-  "btn_paste": "JPG Yükle"
-
-  "btn_clear": "Temizle"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "tr",
+  "lang_name": "Türkçe",
+  "title": "JPG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi | miconvert.com",
+  "sub_title": "JPG görüntülerini kayıpsız sıkıştırma seçenekleri ve baskıya hazır kalitede çevrimiçi TIFF'ye dönüştürün. Su işareti yok.",
+  "hint": "Dönüştürmeye başlamak için JPG görüntünüzü yükleyin...",
+  "btn_download": "TIFF'ye Dönüştür",
+  "btn_paste": "JPG Yükle",
+  "btn_clear": "Temizle",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "JPG'yi TIFF'ye Dönüştür - Ücretsiz Çevrimiçi JPG'den TIFF'e Dönüştürücü"
+    "title": "JPG'yi TIFF'ye Dönüştür - Ücretsiz Çevrimiçi JPG'den TIFF'e Dönüştürücü",
+  "description": "JPG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Hızlı işlem ile yüksek kaliteli JPG'den TIFF'ye dönüşüm.",
+  "keywords": "jpg'den tiff'e, jpg'yi tiff'ye dönüştür, ücretsiz jpg'den tiff'e, çevrimiçi tiff dönüştürücü, görüntü dönüşümü",
+  "canonical": "https://miconvert.com/tr/convert/jpg-to-tiff",
+  "og_title": "JPG'yi TIFF'ye Dönüştür - Ücretsiz Çevrimiçi JPG'den TIFF'e Dönüştürücü",
+  "og_description": "JPG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Hızlı işlem ile yüksek kaliteli JPG'den TIFF'ye dönüşüm.",
+  "og_url": "https://miconvert.com/tr/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "JPG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Hızlı işlem ile yüksek kaliteli JPG'den TIFF'ye dönüşüm."
-
-    "keywords": "jpg'den tiff'e, jpg'yi tiff'ye dönüştür, ücretsiz jpg'den tiff'e, çevrimiçi tiff dönüştürücü, görüntü dönüşümü"
-
-    "canonical": "https://miconvert.com/tr/convert/jpg-to-tiff"
-
-    "og_title": "JPG'yi TIFF'ye Dönüştür - Ücretsiz Çevrimiçi JPG'den TIFF'e Dönüştürücü"
-
-    "og_description": "JPG görüntülerini çevrimiçi olarak ücretsiz TIFF formatına dönüştürün. Hızlı işlem ile yüksek kaliteli JPG'den TIFF'ye dönüşüm."
-
-    "og_url": "https://miconvert.com/tr/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "JPG'yi Çevrimiçi TIFF'ye Dönüştür"
+    "title": "JPG'yi Çevrimiçi TIFF'ye Dönüştür",
+  "description": "Kayıpsız sıkıştırma seçenekleri ve baskıya hazır çıktı ile ücretsiz JPG'den TIFF'e dönüştürücü. Herhangi bir cihazda çalışır - kayıt gerektirmez."
 
-    "description": "Kayıpsız sıkıştırma seçenekleri ve baskıya hazır çıktı ile ücretsiz JPG'den TIFF'e dönüştürücü. Herhangi bir cihazda çalışır - kayıt gerektirmez."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG'den TIFF'e Dönüştürücü"
-
-    "description": "JPG görüntülerini LZW/ZIP kayıpsız sıkıştırma ve doğru renklerle TIFF'ye dönüştürün."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG'den TIFF'e Dönüştürücü",
+  "description": "JPG görüntülerini LZW/ZIP kayıpsız sıkıştırma ve doğru renklerle TIFF'ye dönüştürün.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Kayıpsız TIFF (LZW/ZIP) seçeneği",
+  "Baskıya hazır kalite",
+  "Doğru renkler",
+  "Ücretsiz çevrimiçi araç"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Kayıpsız TIFF (LZW/ZIP) seçeneği"
-
-      "Baskıya hazır kalite"
-
-      "Doğru renkler"
-
-      "Ücretsiz çevrimiçi araç"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG'den TIFF'e Dönüşüm Tamamlandı"
+    "title": "JPG'den TIFF'e Dönüşüm Tamamlandı",
+  "back_button": "Dönüştürücüye Geri Dön",
+  "convert_another": "Başka Bir JPG Dönüştür",
+  "quick_conversions": "Hızlı Dönüşümler:"
 
-    "back_button": "Dönüştürücüye Geri Dön"
-
-    "convert_another": "Başka Bir JPG Dönüştür"
-
-    "quick_conversions": "Hızlı Dönüşümler:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Neden JPG'yi TIFF'ye Dönüştürmeliyim?"
+      "title": "Neden JPG'yi TIFF'ye Dönüştürmeliyim?",
+  "description": "<p>TIFF, görüntüleme ve baskıda kullanılan profesyonel, arşiv kalitesinde bir formattır:</p><ul><li><strong>Kayıpsız seçenekler:</strong> Yeni JPEG artefaktları olmadan temiz bir master kaydedin.</li><li><strong>Baskıya hazır:</strong> Yüksek çözünürlüklü çıktı için detayları korur.</li><li><strong>Esnek:</strong> Alfa kanalı ve birden fazla renk alanını destekler (okuyucuya bağlı).</li><li><strong>İş akışına dost:</strong> Tekrar eden düzenlemeler ve aktarım için stabil.</li></ul><p><em>Not:</em> JPG'den (kayıplı) dönüştürmek kaybolan detayları sihirli bir şekilde geri getirmeyecek - ancak sonraki kayıplarda daha fazla bozulmayı önlemeye yardımcı olur.</p>"
 
-      "description": "<p>TIFF, görüntüleme ve baskıda kullanılan profesyonel, arşiv kalitesinde bir formattır:</p><ul><li><strong>Kayıpsız seçenekler:</strong> Yeni JPEG artefaktları olmadan temiz bir master kaydedin.</li><li><strong>Baskıya hazır:</strong> Yüksek çözünürlüklü çıktı için detayları korur.</li><li><strong>Esnek:</strong> Alfa kanalı ve birden fazla renk alanını destekler (okuyucuya bağlı).</li><li><strong>İş akışına dost:</strong> Tekrar eden düzenlemeler ve aktarım için stabil.</li></ul><p><em>Not:</em> JPG'den (kayıplı) dönüştürmek kaybolan detayları sihirli bir şekilde geri getirmeyecek - ancak sonraki kayıplarda daha fazla bozulmayı önlemeye yardımcı olur.</p>"
+    },
+  {
+      "title": "JPG'yi Çevrimiçi TIFF'ye Nasıl Dönüştürürüm",
+  "description": "<ol><li><em>JPG Yükle</em> butonuna tıklayın ve fotoğrafınızı seçin.</li><li>İşlem için bekleyin.</li><li>Dosyayı kaydetmek için <em>TIFF İndir</em> butonuna tıklayın.</li></ol><p>Varsayılan: 24-bit RGB, LZW kayıpsız, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "JPG'yi Çevrimiçi TIFF'ye Nasıl Dönüştürürüm"
+    },
+  {
+      "title": "TIFF ve JPG: Ana Farklar",
+  "description": "<table class='table-compare'><thead><tr><th>Özellik</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Sıkıştırma</td><td>Kayıplı (JPEG)</td><td>Kayıpsız (LZW/ZIP) veya JPEG/hiçbiri</td></tr><tr><td>Dosya boyutu</td><td>Küçük</td><td>Daha büyük (sıkıştırmaya bağlı)</td></tr><tr><td>Şeffaflık</td><td>Hayır</td><td>İsteğe bağlı alfa (okuyucuya bağlı)</td></tr><tr><td>En iyi kullanım</td><td>Web/fotoğraf paylaşımı</td><td>Düzenleme, baskı, arşivleme</td></tr></tbody></table>"
 
-      "description": "<ol><li><em>JPG Yükle</em> butonuna tıklayın ve fotoğrafınızı seçin.</li><li>İşlem için bekleyin.</li><li>Dosyayı kaydetmek için <em>TIFF İndir</em> butonuna tıklayın.</li></ol><p>Varsayılan: 24-bit RGB, LZW kayıpsız, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Desteklenen Sınırlar & Formatlar",
+  "description": "<ul><li><strong>Kabul edilen giriş:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Varsayılanlar:</strong> 24-bit RGB, LZW sıkıştırma, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF ve JPG: Ana Farklar"
-
-      "description": "<table class='table-compare'><thead><tr><th>Özellik</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Sıkıştırma</td><td>Kayıplı (JPEG)</td><td>Kayıpsız (LZW/ZIP) veya JPEG/hiçbiri</td></tr><tr><td>Dosya boyutu</td><td>Küçük</td><td>Daha büyük (sıkıştırmaya bağlı)</td></tr><tr><td>Şeffaflık</td><td>Hayır</td><td>İsteğe bağlı alfa (okuyucuya bağlı)</td></tr><tr><td>En iyi kullanım</td><td>Web/fotoğraf paylaşımı</td><td>Düzenleme, baskı, arşivleme</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Desteklenen Sınırlar & Formatlar"
-
-      "description": "<ul><li><strong>Kabul edilen giriş:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimum dosya boyutu:</strong> dosya başına 16&nbsp;MB'a kadar</li><li><strong>Çıktı:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Varsayılanlar:</strong> 24-bit RGB, LZW sıkıştırma, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Sorun Giderme"
-
-      "description": "<ul><li><strong>Dosya çok büyük:</strong> TIFF tasarımı gereği daha ağırdır. Daha küçük kayıpsız için <a href='/tr/convert/jpg-to-png'>JPG'den PNG'ye</a> deneyin.</li><li><strong>Şeffaflık gerekiyor:</strong> Kaynak JPG alfa içermez; alfa'yı bir editörde dönüştürün ve düzenleyin veya PNG'den başlayın.</li><li><strong>Renk kayması:</strong> Web tutarlılığı için yüklemeden önce sRGB'ye dönüştürün.</li><li><strong>Yükleme başarısız:</strong> JPG/JPEG ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
+    },
+  {
+      "title": "Sorun Giderme",
+  "description": "<ul><li><strong>Dosya çok büyük:</strong> TIFF tasarımı gereği daha ağırdır. Daha küçük kayıpsız için <a href='/tr/convert/jpg-to-png'>JPG'den PNG'ye</a> deneyin.</li><li><strong>Şeffaflık gerekiyor:</strong> Kaynak JPG alfa içermez; alfa'yı bir editörde dönüştürün ve düzenleyin veya PNG'den başlayın.</li><li><strong>Renk kayması:</strong> Web tutarlılığı için yüklemeden önce sRGB'ye dönüştürün.</li><li><strong>Yükleme başarısız:</strong> JPG/JPEG ≤ 16&nbsp;MB olduğundan emin olun.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Bu JPG'den TIFF'e dönüştürücü ücretsiz mi?"
+      "question": "Bu JPG'den TIFF'e dönüştürücü ücretsiz mi?",
+  "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
 
-      "answer": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+    },
+  {
+      "question": "TIFF tüm uygulamalarda çalışır mı?",
+  "answer": "TIFF, profesyonel uygulamalarda (Photoshop, Affinity, birçok RIP/baskı aracı) yaygın olarak desteklenmektedir. Bazı basit görüntüleyiciler tüm sıkıştırma seçeneklerini desteklemeyebilir."
 
-    }
-    {
-      "question": "TIFF tüm uygulamalarda çalışır mı?"
+    },
+  {
+      "question": "TIFF dosyaları JPG'den ne kadar daha büyük?",
+  "answer": "Genellikle aynı boyuttaki JPG'den 3–10 kat daha büyük (içerik ve sıkıştırmaya bağlı olarak değişir)."
 
-      "answer": "TIFF, profesyonel uygulamalarda (Photoshop, Affinity, birçok RIP/baskı aracı) yaygın olarak desteklenmektedir. Bazı basit görüntüleyiciler tüm sıkıştırma seçeneklerini desteklemeyebilir."
+    },
+  {
+      "question": "Hangi dosya boyutları destekleniyor?",
+  "answer": "Dosya başına 16&nbsp;MB'a kadar görüntü yükleyebilirsiniz."
 
-    }
-    {
-      "question": "TIFF dosyaları JPG'den ne kadar daha büyük?"
+    },
+  {
+      "question": "Dosyalarım güvende mi?",
+  "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
 
-      "answer": "Genellikle aynı boyuttaki JPG'den 3–10 kat daha büyük (içerik ve sıkıştırmaya bağlı olarak değişir)."
+    },
+  {
+      "question": "Birden fazla JPG'yi aynı anda dönüştürebilir miyim?",
+  "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
 
-    }
-    {
-      "question": "Hangi dosya boyutları destekleniyor?"
-
-      "answer": "Dosya başına 16&nbsp;MB'a kadar görüntü yükleyebilirsiniz."
-
-    }
-    {
-      "question": "Dosyalarım güvende mi?"
-
-      "answer": "Dosyalar otomatik olarak işlenir ve dönüşüm için gerekli olandan daha uzun süre saklanmaz."
-
-    }
-    {
-      "question": "Birden fazla JPG'yi aynı anda dönüştürebilir miyim?"
-
-      "answer": "Bu sayfa bir dosyayı bir seferde dönüştürür. Toplu ihtiyaçlar için işlemi tekrarlayın veya bir toplu araç kullanın."
-
-    }
-    {
-      "question": "TIFF katmanları destekliyor mu?"
-
-      "answer": "Standart TIFF düz bir görüntüdür; bazı uygulamalar 'katmanlı TIFF' verilerini özel olarak saklar. Bu araç düz TIFF üretir."
+    },
+  {
+      "question": "TIFF katmanları destekliyor mu?",
+  "answer": "Standart TIFF düz bir görüntüdür; bazı uygulamalar 'katmanlı TIFF' verilerini özel olarak saklar. Bu araç düz TIFF üretir."
 
     }
-  ]
-  "note": "TIFF, arşivleme/baskı için uygundur ancak büyük boyutludur. Web için PNG/WebP/AVIF'i düşünün."
-
+  ],
+  "note": "TIFF, arşivleme/baskı için uygundur ancak büyük boyutludur. Web için PNG/WebP/AVIF'i düşünün.",
   "related_links": [
     {
-      "title": "JPG'yi PNG'ye Dönüştür"
+      "title": "JPG'yi PNG'ye Dönüştür",
+  "url": "/tr/convert/jpg-to-png"
 
-      "url": "/tr/convert/jpg-to-png"
+    },
+  {
+      "title": "JPG'yi WebP'ye Dönüştür",
+  "url": "/tr/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "JPG'yi WebP'ye Dönüştür"
-
-      "url": "/tr/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "PNG'yi TIFF'ye Dönüştür"
-
-      "url": "/tr/convert/png-to-tiff"
+    },
+  {
+      "title": "PNG'yi TIFF'ye Dönüştür",
+  "url": "/tr/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tüm hakları saklıdır."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tüm hakları saklıdır.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi"
-
-      "url": "https://miconvert.com/tr/convert/jpg-to-tiff"
-
-      "description": "Kayıpsız sıkıştırma ve baskıya hazır çıktı ile JPG görüntülerini TIFF'ye dönüştürmek için ücretsiz çevrimiçi araç."
-
-      "inLanguage": "tr"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG'den TIFF'e Dönüştürücü - Ücretsiz & Çevrimiçi",
+  "url": "https://miconvert.com/tr/convert/jpg-to-tiff",
+  "description": "Kayıpsız sıkıştırma ve baskıya hazır çıktı ile JPG görüntülerini TIFF'ye dönüştürmek için ücretsiz çevrimiçi araç.",
+  "inLanguage": "tr",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Ana Sayfa",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Ana Sayfa"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Dönüştür",
+  "item": "https://miconvert.com/tr/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Dönüştür"
-
-          "item": "https://miconvert.com/tr/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG'den TIFF'e"
-
-          "item": "https://miconvert.com/tr/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG'den TIFF'e",
+  "item": "https://miconvert.com/tr/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG'den TIFF'e Dönüştürücü",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/tr/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Kayıpsız LZW seçeneği",
+  "Baskıya hazır 300 DPI",
+  "Doğru renkler"
 
-      "name": "JPG'den TIFF'e Dönüştürücü"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/tr/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Kayıpsız LZW seçeneği"
-
-        "Baskıya hazır 300 DPI"
-
-        "Doğru renkler"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Bu JPG'den TIFF'e dönüştürücü ücretsiz mi?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
+          "@type": "Question",
+  "name": "Bu JPG'den TIFF'e dönüştürücü ücretsiz mi?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Evet, dönüştürücü tamamen ücretsizdir, gizli ücretler veya abonelikler yoktur."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Hangi dosya boyutları destekleniyor?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
+        },
+  {
+          "@type": "Question",
+  "name": "Hangi dosya boyutları destekleniyor?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Dosya başına 16 MB'a kadar görüntü yükleyebilirsiniz."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "TIFF katmanları destekliyor mu?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standart TIFF düz bir görüntüdür. Bazı uygulamalar özel katman verilerini saklar; bu araç düz TIFF üretir."
+        },
+  {
+          "@type": "Question",
+  "name": "TIFF katmanları destekliyor mu?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standart TIFF düz bir görüntüdür. Bazı uygulamalar özel katman verilerini saklar; bu araç düz TIFF üretir."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG'yi TIFF'ye nasıl dönüştürülür"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "JPG'yi TIFF'ye nasıl dönüştürülür",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "JPG Yükle butonuna tıklayın ve fotoğrafınızı seçin."
 
-          "text": "JPG Yükle butonuna tıklayın ve fotoğrafınızı seçin."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "İşlemin tamamlanmasını bekleyin."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Dosyayı kaydetmek için TIFF İndir butonuna tıklayın."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "İşlemin tamamlanmasını bekleyin."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Dosyayı kaydetmek için TIFF İndir butonuna tıklayın."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG'den TIFF'e Dönüştürücü"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

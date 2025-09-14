@@ -1,376 +1,282 @@
 {
-  "lang": "th"
-
-  "lang_name": "ไทย"
-
-  "title": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์ | miconvert.com"
-
-  "sub_title": "แปลงภาพ JPG เป็นรูปแบบ PNG ออนไลน์พร้อมความโปร่งใส คุณภาพสูง และไม่มีลายน้ำ"
-
-  "hint": "อัปโหลดภาพ JPG ของคุณเพื่อเริ่มการแปลง..."
-
-  "btn_download": "แปลงเป็น PNG"
-
-  "btn_paste": "อัปโหลด JPG"
-
-  "btn_clear": "ล้าง"
-
+  "lang": "th",
+  "lang_name": "ไทย",
+  "title": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์ | miconvert.com",
+  "sub_title": "แปลงภาพ JPG เป็นรูปแบบ PNG ออนไลน์พร้อมความโปร่งใส คุณภาพสูง และไม่มีลายน้ำ",
+  "hint": "อัปโหลดภาพ JPG ของคุณเพื่อเริ่มการแปลง...",
+  "btn_download": "แปลงเป็น PNG",
+  "btn_paste": "อัปโหลด JPG",
+  "btn_clear": "ล้าง",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>กำลังมองหาวิธีการแปลง <strong>JPG เป็น PNG</strong> ที่รวดเร็วและเชื่อถือได้อยู่หรือเปล่า? ตัวแปลง JPG เป็น PNG ออนไลน์ฟรีของเราช่วยให้คุณแปลงภาพของคุณเป็นไฟล์ PNG คุณภาพสูงได้ทันที ไม่ว่าคุณจะต้องการความโปร่งใส การบีบอัดแบบไม่สูญเสีย หรือความเข้ากันได้สำหรับโครงการออกแบบ เครื่องมือนี้เป็นทางออกที่สมบูรณ์แบบ มันทำงานโดยตรงในเบราว์เซอร์ของคุณ ไม่ต้องลงทะเบียน และเก็บไฟล์ของคุณให้ปลอดภัย</p><p>รูปแบบ PNG เหมาะสำหรับการใช้งานระดับมืออาชีพ โดยเฉพาะเมื่อทำงานกับกราฟิก โลโก้ หรือภาพที่ต้องการพื้นหลังโปร่งใส แตกต่างจาก JPG ซึ่งใช้การบีบอัดแบบสูญเสียและอาจลดคุณภาพของภาพ PNG จะรักษารายละเอียดที่คมชัดและรองรับความโปร่งใสแบบอัลฟา หากคุณเป็นนักออกแบบ นักเรียน หรือมืออาชีพด้านธุรกิจ เครื่องมือของเราจะช่วยให้คุณปรับปรุงกระบวนการทำงานได้ง่ายขึ้น</p>"
-
+  },
+  "description": "<p>กำลังมองหาวิธีการแปลง <strong>JPG เป็น PNG</strong> ที่รวดเร็วและเชื่อถือได้อยู่หรือเปล่า? ตัวแปลง JPG เป็น PNG ออนไลน์ฟรีของเราช่วยให้คุณแปลงภาพของคุณเป็นไฟล์ PNG คุณภาพสูงได้ทันที ไม่ว่าคุณจะต้องการความโปร่งใส การบีบอัดแบบไม่สูญเสีย หรือความเข้ากันได้สำหรับโครงการออกแบบ เครื่องมือนี้เป็นทางออกที่สมบูรณ์แบบ มันทำงานโดยตรงในเบราว์เซอร์ของคุณ ไม่ต้องลงทะเบียน และเก็บไฟล์ของคุณให้ปลอดภัย</p><p>รูปแบบ PNG เหมาะสำหรับการใช้งานระดับมืออาชีพ โดยเฉพาะเมื่อทำงานกับกราฟิก โลโก้ หรือภาพที่ต้องการพื้นหลังโปร่งใส แตกต่างจาก JPG ซึ่งใช้การบีบอัดแบบสูญเสียและอาจลดคุณภาพของภาพ PNG จะรักษารายละเอียดที่คมชัดและรองรับความโปร่งใสแบบอัลฟา หากคุณเป็นนักออกแบบ นักเรียน หรือมืออาชีพด้านธุรกิจ เครื่องมือของเราจะช่วยให้คุณปรับปรุงกระบวนการทำงานได้ง่ายขึ้น</p>",
   "head": {
-    "title": "แปลง JPG เป็น PNG ออนไลน์ - ตัวแปลง JPG เป็น PNG ฟรี | miconvert.com"
+    "title": "แปลง JPG เป็น PNG ออนไลน์ - ตัวแปลง JPG เป็น PNG ฟรี | miconvert.com",
+  "description": "แปลง JPG เป็น PNG ออนไลน์พร้อมการสนับสนุนความโปร่งใส คุณภาพสูง และไม่มีลายน้ำ ตัวแปลง JPG เป็น PNG ฟรี รวดเร็ว และปลอดภัย",
+  "keywords": "jpg เป็น png, แปลง jpg เป็น png, jpg เป็น png ฟรี, ตัวแปลง jpg ออนไลน์, png ที่มีความโปร่งใส",
+  "canonical": "https://miconvert.com/th/convert/jpg-to-png",
+  "og_title": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์",
+  "og_description": "แปลงภาพ JPG เป็นรูปแบบ PNG พร้อมความโปร่งใสและคุณภาพที่ไม่สูญเสีย 100% ฟรี รวดเร็ว และปลอดภัย",
+  "og_url": "https://miconvert.com/th/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "แปลง JPG เป็น PNG ออนไลน์พร้อมการสนับสนุนความโปร่งใส คุณภาพสูง และไม่มีลายน้ำ ตัวแปลง JPG เป็น PNG ฟรี รวดเร็ว และปลอดภัย"
-
-    "keywords": "jpg เป็น png, แปลง jpg เป็น png, jpg เป็น png ฟรี, ตัวแปลง jpg ออนไลน์, png ที่มีความโปร่งใส"
-
-    "canonical": "https://miconvert.com/th/convert/jpg-to-png"
-
-    "og_title": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์"
-
-    "og_description": "แปลงภาพ JPG เป็นรูปแบบ PNG พร้อมความโปร่งใสและคุณภาพที่ไม่สูญเสีย 100% ฟรี รวดเร็ว และปลอดภัย"
-
-    "og_url": "https://miconvert.com/th/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "แปลง JPG เป็น PNG ออนไลน์"
+    "title": "แปลง JPG เป็น PNG ออนไลน์",
+  "description": "ตัวแปลง JPG เป็น PNG ฟรีและรวดเร็วพร้อมการสนับสนุนความโปร่งใสและคุณภาพที่ไม่สูญเสีย ทำงานทันทีบนอุปกรณ์ใดก็ได้ ไม่ต้องลงทะเบียน"
 
-    "description": "ตัวแปลง JPG เป็น PNG ฟรีและรวดเร็วพร้อมการสนับสนุนความโปร่งใสและคุณภาพที่ไม่สูญเสีย ทำงานทันทีบนอุปกรณ์ใดก็ได้ ไม่ต้องลงทะเบียน"
-
-  }
+  },
   "h2": [
     {
-      "title": "ทำไมต้องแปลง JPG เป็น PNG?"
+      "title": "ทำไมต้องแปลง JPG เป็น PNG?",
+  "description": "<p>ในขณะที่ JPG เหมาะสำหรับขนาดไฟล์เล็กและการแชร์ออนไลน์ แต่มีการบีบอัดที่ลดคุณภาพ PNG ในทางกลับกัน เป็นรูปแบบที่ไม่สูญเสียซึ่งรักษารายละเอียดและรองรับความโปร่งใส นี่คือเหตุผลหลักในการใช้ตัวแปลง JPG เป็น PNG ของเรา:</p><ul><li><strong>ความโปร่งใส:</strong> สร้างโลโก้ ไอคอน และภาพที่ไม่มีพื้นหลัง</li><li><strong>การแก้ไขที่ดีกว่า:</strong> เหมาะสำหรับซอฟต์แวร์ออกแบบเช่น Photoshop, Illustrator และ Figma</li><li><strong>คุณภาพสูง:</strong> รักษาความคมชัด ความชัดเจนของข้อความ และรายละเอียดกราฟิก</li><li><strong>ความเข้ากันได้ข้ามแพลตฟอร์ม:</strong> PNG ได้รับการสนับสนุนอย่างกว้างขวางในเบราว์เซอร์ แอป และระบบปฏิบัติการ</li></ul>"
 
-      "description": "<p>ในขณะที่ JPG เหมาะสำหรับขนาดไฟล์เล็กและการแชร์ออนไลน์ แต่มีการบีบอัดที่ลดคุณภาพ PNG ในทางกลับกัน เป็นรูปแบบที่ไม่สูญเสียซึ่งรักษารายละเอียดและรองรับความโปร่งใส นี่คือเหตุผลหลักในการใช้ตัวแปลง JPG เป็น PNG ของเรา:</p><ul><li><strong>ความโปร่งใส:</strong> สร้างโลโก้ ไอคอน และภาพที่ไม่มีพื้นหลัง</li><li><strong>การแก้ไขที่ดีกว่า:</strong> เหมาะสำหรับซอฟต์แวร์ออกแบบเช่น Photoshop, Illustrator และ Figma</li><li><strong>คุณภาพสูง:</strong> รักษาความคมชัด ความชัดเจนของข้อความ และรายละเอียดกราฟิก</li><li><strong>ความเข้ากันได้ข้ามแพลตฟอร์ม:</strong> PNG ได้รับการสนับสนุนอย่างกว้างขวางในเบราว์เซอร์ แอป และระบบปฏิบัติการ</li></ul>"
+    },
+  {
+      "title": "JPG กับ PNG: ความแตกต่างที่สำคัญ",
+  "description": "<table class='table-compare'><thead><tr><th>ฟีเจอร์</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>การบีบอัด</td><td>สูญเสีย (เล็กกว่าแต่คุณภาพลดลง)</td><td>ไม่สูญเสีย (ใหญ่กว่าแต่คมชัด)</td></tr><tr><td>ความโปร่งใส</td><td>ไม่มี</td><td>ใช่ (ช่องอัลฟา)</td></tr><tr><td>ดีที่สุดสำหรับ</td><td>ภาพถ่าย การแชร์ทางสังคม</td><td>โลโก้ UI ข้อความ กราฟิก</td></tr><tr><td>การแก้ไข</td><td>การบันทึกซ้ำจะลดคุณภาพ</td><td>คงที่ตลอดการแก้ไข</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG กับ PNG: ความแตกต่างที่สำคัญ"
+    },
+  {
+      "title": "วิธีแปลง JPG เป็น PNG ออนไลน์",
+  "description": "<p>การแปลง JPG เป็น PNG ด้วยเครื่องมือของเราเป็นเรื่องง่ายและใช้เวลาเพียงไม่กี่วินาที:</p><ol><li>คลิกที่ <em>อัปโหลด JPG</em> และเลือกไฟล์ของคุณ</li><li>รอให้การประมวลผลเสร็จสิ้น</li><li>คลิก <em>ดาวน์โหลด PNG</em> เพื่อรับไฟล์ใหม่ของคุณ</li></ol><p>ไม่ต้องมีความรู้ทางเทคนิค — ทุกอย่างเกิดขึ้นในเบราว์เซอร์ของคุณ</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>ฟีเจอร์</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>การบีบอัด</td><td>สูญเสีย (เล็กกว่าแต่คุณภาพลดลง)</td><td>ไม่สูญเสีย (ใหญ่กว่าแต่คมชัด)</td></tr><tr><td>ความโปร่งใส</td><td>ไม่มี</td><td>ใช่ (ช่องอัลฟา)</td></tr><tr><td>ดีที่สุดสำหรับ</td><td>ภาพถ่าย การแชร์ทางสังคม</td><td>โลโก้ UI ข้อความ กราฟิก</td></tr><tr><td>การแก้ไข</td><td>การบันทึกซ้ำจะลดคุณภาพ</td><td>คงที่ตลอดการแก้ไข</td></tr></tbody></table>"
+    },
+  {
+      "title": "ขีดจำกัดและรูปแบบที่รองรับ",
+  "description": "<ul><li><strong>ประเภทไฟล์ที่ยอมรับ:</strong> image/jpeg, image/jpg</li><li><strong>ขนาดไฟล์สูงสุด:</strong> สูงสุด 16 MB ต่อไฟล์</li><li><strong>ผลลัพธ์:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>คุณภาพ:</strong> PNG ที่ไม่สูญเสียพร้อมระดับการบีบอัดที่ปรับได้</li></ul>"
 
-    }
-    {
-      "title": "วิธีแปลง JPG เป็น PNG ออนไลน์"
+    },
+  {
+      "title": "เคล็ดลับสำหรับผลลัพธ์ที่ดีกว่า",
+  "description": "<ul><li><strong>ใช้ JPG ความละเอียดสูง:</strong> ยิ่งความละเอียดของ JPG ของคุณสูงขึ้น PNG ของคุณจะดูดีขึ้น</li><li><strong>ต้องการความโปร่งใส?</strong> หาก JPG ของคุณมีพื้นหลัง ให้ใช้ <a href='/th/effect/remove-background'>เครื่องมือกำจัดพื้นหลัง</a> ของเราก่อน</li><li><strong>ปรับขนาดไฟล์:</strong> หลังการแปลง ใช้ <a href='/th/edit/compress-image'>เครื่องมือบีบอัดภาพ</a> ของเราเพื่อลดขนาด PNG ในขณะที่รักษาคุณภาพ</li><li><strong>สำหรับเว็บ:</strong> พิจารณาแปลง PNG เป็น <a href='/th/convert/png-to-webp'>WebP</a> เพื่อการโหลดที่เร็วขึ้น</li></ul>"
 
-      "description": "<p>การแปลง JPG เป็น PNG ด้วยเครื่องมือของเราเป็นเรื่องง่ายและใช้เวลาเพียงไม่กี่วินาที:</p><ol><li>คลิกที่ <em>อัปโหลด JPG</em> และเลือกไฟล์ของคุณ</li><li>รอให้การประมวลผลเสร็จสิ้น</li><li>คลิก <em>ดาวน์โหลด PNG</em> เพื่อรับไฟล์ใหม่ของคุณ</li></ol><p>ไม่ต้องมีความรู้ทางเทคนิค — ทุกอย่างเกิดขึ้นในเบราว์เซอร์ของคุณ</p>"
+    },
+  {
+      "title": "การแก้ไขปัญหา",
+  "description": "<ul><li><strong>การอัปโหลดล้มเหลว:</strong> ตรวจสอบให้แน่ใจว่าไฟล์ของคุณเป็น JPG/JPEG และ ≤ 16 MB</li><li><strong>ไม่มีความโปร่งใส:</strong> PNG รักษาความโปร่งใส แต่ไม่สามารถดึงออกจากภาพที่แบนราบ — ให้ลบพื้นหลังก่อน</li><li><strong>ผลลัพธ์ PNG ขนาดใหญ่:</strong> ใช้ <a href='/th/edit/compress-image'>เครื่องมือบีบอัดภาพ</a> หรือเปลี่ยนเป็น <a href='/th/convert/png-to-webp'>WebP</a></li></ul>"
 
-    }
-    {
-      "title": "ขีดจำกัดและรูปแบบที่รองรับ"
+    },
+  {
+      "title": "ฟีเจอร์ของตัวแปลง JPG เป็น PNG ของเรา",
+  "description": "<ul><li>ฟรีไม่มีลายน้ำ</li><li>การประมวลผลที่รวดเร็วในเบราว์เซอร์ของคุณ</li><li>การจัดการที่ปลอดภัย — ไม่ต้องการบัญชี</li><li>UI ที่สะอาด ใช้งานง่ายบนมือถือ</li></ul>"
 
-      "description": "<ul><li><strong>ประเภทไฟล์ที่ยอมรับ:</strong> image/jpeg, image/jpg</li><li><strong>ขนาดไฟล์สูงสุด:</strong> สูงสุด 16 MB ต่อไฟล์</li><li><strong>ผลลัพธ์:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>คุณภาพ:</strong> PNG ที่ไม่สูญเสียพร้อมระดับการบีบอัดที่ปรับได้</li></ul>"
-
-    }
-    {
-      "title": "เคล็ดลับสำหรับผลลัพธ์ที่ดีกว่า"
-
-      "description": "<ul><li><strong>ใช้ JPG ความละเอียดสูง:</strong> ยิ่งความละเอียดของ JPG ของคุณสูงขึ้น PNG ของคุณจะดูดีขึ้น</li><li><strong>ต้องการความโปร่งใส?</strong> หาก JPG ของคุณมีพื้นหลัง ให้ใช้ <a href='/th/effect/remove-background'>เครื่องมือกำจัดพื้นหลัง</a> ของเราก่อน</li><li><strong>ปรับขนาดไฟล์:</strong> หลังการแปลง ใช้ <a href='/th/edit/compress-image'>เครื่องมือบีบอัดภาพ</a> ของเราเพื่อลดขนาด PNG ในขณะที่รักษาคุณภาพ</li><li><strong>สำหรับเว็บ:</strong> พิจารณาแปลง PNG เป็น <a href='/th/convert/png-to-webp'>WebP</a> เพื่อการโหลดที่เร็วขึ้น</li></ul>"
-
-    }
-    {
-      "title": "การแก้ไขปัญหา"
-
-      "description": "<ul><li><strong>การอัปโหลดล้มเหลว:</strong> ตรวจสอบให้แน่ใจว่าไฟล์ของคุณเป็น JPG/JPEG และ ≤ 16 MB</li><li><strong>ไม่มีความโปร่งใส:</strong> PNG รักษาความโปร่งใส แต่ไม่สามารถดึงออกจากภาพที่แบนราบ — ให้ลบพื้นหลังก่อน</li><li><strong>ผลลัพธ์ PNG ขนาดใหญ่:</strong> ใช้ <a href='/th/edit/compress-image'>เครื่องมือบีบอัดภาพ</a> หรือเปลี่ยนเป็น <a href='/th/convert/png-to-webp'>WebP</a></li></ul>"
-
-    }
-    {
-      "title": "ฟีเจอร์ของตัวแปลง JPG เป็น PNG ของเรา"
-
-      "description": "<ul><li>ฟรีไม่มีลายน้ำ</li><li>การประมวลผลที่รวดเร็วในเบราว์เซอร์ของคุณ</li><li>การจัดการที่ปลอดภัย — ไม่ต้องการบัญชี</li><li>UI ที่สะอาด ใช้งานง่ายบนมือถือ</li></ul>"
+    },
+  {
+      "title": "ตัวแปลงที่เกี่ยวข้อง",
+  "description": "<ul class='related-links'><li><a href='/th/convert/png-to-jpg'>PNG เป็น JPG</a></li><li><a href='/th/convert/jpg-to-webp'>JPG เป็น WebP</a></li><li><a href='/th/convert/png-to-webp'>PNG เป็น WebP</a></li><li><a href='/th/convert/webp-to-png'>WebP เป็น PNG</a></li></ul>"
 
     }
-    {
-      "title": "ตัวแปลงที่เกี่ยวข้อง"
-
-      "description": "<ul class='related-links'><li><a href='/th/convert/png-to-jpg'>PNG เป็น JPG</a></li><li><a href='/th/convert/jpg-to-webp'>JPG เป็น WebP</a></li><li><a href='/th/convert/png-to-webp'>PNG เป็น WebP</a></li><li><a href='/th/convert/webp-to-png'>WebP เป็น PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "ตัวแปลง JPG เป็น PNG นี้ฟรีหรือไม่?"
+      "question": "ตัวแปลง JPG เป็น PNG นี้ฟรีหรือไม่?",
+  "answer": "ใช่ ตัวแปลงนี้ฟรีโดยไม่มีค่าใช้จ่ายแอบแฝงหรือการสมัครสมาชิก"
 
-      "answer": "ใช่ ตัวแปลงนี้ฟรีโดยไม่มีค่าใช้จ่ายแอบแฝงหรือการสมัครสมาชิก"
+    },
+  {
+      "question": "PNG รองรับความโปร่งใสหรือไม่?",
+  "answer": "ใช่ PNG อนุญาตให้มีพื้นหลังโปร่งใส ทำให้เหมาะสำหรับโลโก้ ไอคอน และการออกแบบระดับมืออาชีพ"
 
-    }
-    {
-      "question": "PNG รองรับความโปร่งใสหรือไม่?"
+    },
+  {
+      "question": "ภาพจะสูญเสียคุณภาพระหว่างการแปลงหรือไม่?",
+  "answer": "ไม่ ไม่เหมือน JPG PNG ใช้การบีบอัดแบบไม่สูญเสีย ดังนั้นภาพที่แปลงแล้วจะรักษาคุณภาพเดิมไว้"
 
-      "answer": "ใช่ PNG อนุญาตให้มีพื้นหลังโปร่งใส ทำให้เหมาะสำหรับโลโก้ ไอคอน และการออกแบบระดับมืออาชีพ"
+    },
+  {
+      "question": "ขนาดไฟล์ที่รองรับคืออะไร?",
+  "answer": "คุณสามารถอัปโหลดภาพได้สูงสุด 16 MB ต่อไฟล์ หากจำเป็น ให้บีบอัด JPG ขนาดใหญ่ก่อนการแปลง"
 
-    }
-    {
-      "question": "ภาพจะสูญเสียคุณภาพระหว่างการแปลงหรือไม่?"
+    },
+  {
+      "question": "ไฟล์ของฉันปลอดภัยหรือไม่?",
+  "answer": "ไฟล์ของคุณจะถูกประมวลผลโดยอัตโนมัติและไม่ถูกเก็บไว้นานกว่าที่จำเป็นสำหรับการแปลง"
 
-      "answer": "ไม่ ไม่เหมือน JPG PNG ใช้การบีบอัดแบบไม่สูญเสีย ดังนั้นภาพที่แปลงแล้วจะรักษาคุณภาพเดิมไว้"
+    },
+  {
+      "question": "ฉันสามารถแปลง JPG หลายไฟล์พร้อมกันได้หรือไม่?",
+  "answer": "หน้านี้แปลงไฟล์หนึ่งไฟล์ในแต่ละครั้ง สำหรับความต้องการจำนวนมาก ให้ทำซ้ำกระบวนการหรือใช้เครื่องมือแบบกลุ่ม"
 
-    }
-    {
-      "question": "ขนาดไฟล์ที่รองรับคืออะไร?"
-
-      "answer": "คุณสามารถอัปโหลดภาพได้สูงสุด 16 MB ต่อไฟล์ หากจำเป็น ให้บีบอัด JPG ขนาดใหญ่ก่อนการแปลง"
-
-    }
-    {
-      "question": "ไฟล์ของฉันปลอดภัยหรือไม่?"
-
-      "answer": "ไฟล์ของคุณจะถูกประมวลผลโดยอัตโนมัติและไม่ถูกเก็บไว้นานกว่าที่จำเป็นสำหรับการแปลง"
-
-    }
-    {
-      "question": "ฉันสามารถแปลง JPG หลายไฟล์พร้อมกันได้หรือไม่?"
-
-      "answer": "หน้านี้แปลงไฟล์หนึ่งไฟล์ในแต่ละครั้ง สำหรับความต้องการจำนวนมาก ให้ทำซ้ำกระบวนการหรือใช้เครื่องมือแบบกลุ่ม"
-
-    }
-    {
-      "question": "ฉันสามารถใช้เครื่องมือนี้บนโทรศัพท์ของฉันได้หรือไม่?"
-
-      "answer": "แน่นอน ตัวแปลงนี้ได้รับการปรับให้เหมาะสมสำหรับอุปกรณ์มือถือและทำงานบนเบราว์เซอร์ iOS และ Android"
+    },
+  {
+      "question": "ฉันสามารถใช้เครื่องมือนี้บนโทรศัพท์ของฉันได้หรือไม่?",
+  "answer": "แน่นอน ตัวแปลงนี้ได้รับการปรับให้เหมาะสมสำหรับอุปกรณ์มือถือและทำงานบนเบราว์เซอร์ iOS และ Android"
 
     }
-  ]
-  "note": "ข้อจำกัดความรับผิดชอบ: คุณภาพการแปลงขึ้นอยู่กับความละเอียดของไฟล์นำเข้า ควรเก็บสำเนาไฟล์ต้นฉบับของคุณไว้ก่อนการแก้ไขหรือการแปลง"
-
-  "footer": "© 2019 - 2025 miconvert.com สงวนลิขสิทธิ์"
-
+  ],
+  "note": "ข้อจำกัดความรับผิดชอบ: คุณภาพการแปลงขึ้นอยู่กับความละเอียดของไฟล์นำเข้า ควรเก็บสำเนาไฟล์ต้นฉบับของคุณไว้ก่อนการแก้ไขหรือการแปลง",
+  "footer": "© 2019 - 2025 miconvert.com สงวนลิขสิทธิ์",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์"
-
-      "url": "https://miconvert.com/th/convert/jpg-to-png"
-
-      "description": "เครื่องมือออนไลน์ฟรีในการแปลงภาพ JPG เป็น PNG พร้อมการสนับสนุนความโปร่งใสและคุณภาพที่ไม่สูญเสีย"
-
-      "inLanguage": "th"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "ตัวแปลง JPG เป็น PNG - ฟรี & ออนไลน์",
+  "url": "https://miconvert.com/th/convert/jpg-to-png",
+  "description": "เครื่องมือออนไลน์ฟรีในการแปลงภาพ JPG เป็น PNG พร้อมการสนับสนุนความโปร่งใสและคุณภาพที่ไม่สูญเสีย",
+  "inLanguage": "th",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "หน้าแรก",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "หน้าแรก"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "แปลง",
+  "item": "https://miconvert.com/th/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "แปลง"
-
-          "item": "https://miconvert.com/th/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG เป็น PNG"
-
-          "item": "https://miconvert.com/th/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG เป็น PNG",
+  "item": "https://miconvert.com/th/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "ตัวแปลง JPG เป็น PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/th/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "THB"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "ผลลัพธ์ PNG ที่ไม่สูญเสีย",
+  "การสนับสนุนความโปร่งใส",
+  "การประมวลผลที่รวดเร็วในเบราว์เซอร์"
 
-      "name": "ตัวแปลง JPG เป็น PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/th/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "THB"
-
-      }
-      "featureList": [
-        "ผลลัพธ์ PNG ที่ไม่สูญเสีย"
-
-        "การสนับสนุนความโปร่งใส"
-
-        "การประมวลผลที่รวดเร็วในเบราว์เซอร์"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "ตัวแปลง JPG เป็น PNG นี้ฟรีหรือไม่?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ใช่ ตัวแปลงนี้ฟรีโดยไม่มีค่าใช้จ่ายแอบแฝงหรือการสมัครสมาชิก"
+          "@type": "Question",
+  "name": "ตัวแปลง JPG เป็น PNG นี้ฟรีหรือไม่?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "ใช่ ตัวแปลงนี้ฟรีโดยไม่มีค่าใช้จ่ายแอบแฝงหรือการสมัครสมาชิก"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "PNG รองรับความโปร่งใสหรือไม่?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ใช่ PNG อนุญาตให้มีพื้นหลังโปร่งใส ทำให้เหมาะสำหรับโลโก้ ไอคอน และการออกแบบระดับมืออาชีพ"
+        },
+  {
+          "@type": "Question",
+  "name": "PNG รองรับความโปร่งใสหรือไม่?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "ใช่ PNG อนุญาตให้มีพื้นหลังโปร่งใส ทำให้เหมาะสำหรับโลโก้ ไอคอน และการออกแบบระดับมืออาชีพ"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ภาพจะสูญเสียคุณภาพระหว่างการแปลงหรือไม่?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ไม่ ไม่เหมือน JPG PNG ใช้การบีบอัดแบบไม่สูญเสีย ดังนั้นภาพที่แปลงแล้วจะรักษาคุณภาพเดิมไว้"
+        },
+  {
+          "@type": "Question",
+  "name": "ภาพจะสูญเสียคุณภาพระหว่างการแปลงหรือไม่?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "ไม่ ไม่เหมือน JPG PNG ใช้การบีบอัดแบบไม่สูญเสีย ดังนั้นภาพที่แปลงแล้วจะรักษาคุณภาพเดิมไว้"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ขนาดไฟล์ที่รองรับคืออะไร?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "คุณสามารถอัปโหลดภาพได้สูงสุด 16 MB ต่อไฟล์ หากจำเป็น ให้บีบอัด JPG ขนาดใหญ่ก่อนการแปลง"
+        },
+  {
+          "@type": "Question",
+  "name": "ขนาดไฟล์ที่รองรับคืออะไร?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "คุณสามารถอัปโหลดภาพได้สูงสุด 16 MB ต่อไฟล์ หากจำเป็น ให้บีบอัด JPG ขนาดใหญ่ก่อนการแปลง"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ไฟล์ของฉันปลอดภัยหรือไม่?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "ไฟล์ของคุณจะถูกประมวลผลโดยอัตโนมัติและไม่ถูกเก็บไว้นานกว่าที่จำเป็นสำหรับการแปลง"
+        },
+  {
+          "@type": "Question",
+  "name": "ไฟล์ของฉันปลอดภัยหรือไม่?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "ไฟล์ของคุณจะถูกประมวลผลโดยอัตโนมัติและไม่ถูกเก็บไว้นานกว่าที่จำเป็นสำหรับการแปลง"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "ฉันสามารถแปลง JPG หลายไฟล์พร้อมกันได้หรือไม่?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "หน้านี้แปลงไฟล์หนึ่งไฟล์ในแต่ละครั้ง สำหรับความต้องการจำนวนมาก ให้ทำซ้ำกระบวนการหรือใช้เครื่องมือแบบกลุ่ม"
+        },
+  {
+          "@type": "Question",
+  "name": "ฉันสามารถแปลง JPG หลายไฟล์พร้อมกันได้หรือไม่?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "หน้านี้แปลงไฟล์หนึ่งไฟล์ในแต่ละครั้ง สำหรับความต้องการจำนวนมาก ให้ทำซ้ำกระบวนการหรือใช้เครื่องมือแบบกลุ่ม"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "วิธีแปลง JPG เป็น PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "วิธีแปลง JPG เป็น PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "คลิกอัปโหลด JPG และเลือกภาพของคุณ"
 
-          "text": "คลิกอัปโหลด JPG และเลือกภาพของคุณ"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "รอให้การประมวลผลเสร็จสิ้น"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "คลิกดาวน์โหลด PNG เพื่อบันทึกผลลัพธ์"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "รอให้การประมวลผลเสร็จสิ้น"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "คลิกดาวน์โหลด PNG เพื่อบันทึกผลลัพธ์"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "ตัวแปลง JPG เป็น PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

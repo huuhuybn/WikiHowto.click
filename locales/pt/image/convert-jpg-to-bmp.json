@@ -1,382 +1,287 @@
 {
-  "lang": "pt"
-
-  "lang_name": "Português"
-
-  "title": "Conversor de JPG para BMP - Grátis e Online | miconvert.com"
-
-  "sub_title": "Converta imagens JPG para BMP online com dados de pixel sem compressão e sem perdas. Sem marcas d'água."
-
-  "hint": "Carregue sua imagem JPG para começar a converter..."
-
-  "btn_download": "Converter para BMP"
-
-  "btn_paste": "Carregar JPG"
-
-  "btn_clear": "Limpar"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
+  "lang": "pt",
+  "lang_name": "Português",
+  "title": "Conversor de JPG para BMP - Grátis e Online | miconvert.com",
+  "sub_title": "Converta imagens JPG para BMP online com dados de pixel sem compressão e sem perdas. Sem marcas d'água.",
+  "hint": "Carregue sua imagem JPG para começar a converter...",
+  "btn_download": "Converter para BMP",
+  "btn_paste": "Carregar JPG",
+  "btn_clear": "Limpar",
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg",
   "head": {
-    "title": "Converter JPG para BMP - Conversor de JPG para BMP Online Grátis"
+    "title": "Converter JPG para BMP - Conversor de JPG para BMP Online Grátis",
+  "description": "Converta imagens JPG para o formato BMP online gratuitamente. Conversão de JPG para BMP de alta qualidade com processamento rápido.",
+  "keywords": "jpg para bmp, converter jpg para bmp, jpg para bmp grátis, conversor bmp online, conversão de imagem",
+  "canonical": "https://miconvert.com/pt/convert/jpg-to-bmp",
+  "og_title": "Converter JPG para BMP - Conversor de JPG para BMP Online Grátis",
+  "og_description": "Converta imagens JPG para o formato BMP online gratuitamente. Conversão de JPG para BMP de alta qualidade com processamento rápido.",
+  "og_url": "https://miconvert.com/pt/convert/jpg-to-bmp",
+  "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-    "description": "Converta imagens JPG para o formato BMP online gratuitamente. Conversão de JPG para BMP de alta qualidade com processamento rápido."
-
-    "keywords": "jpg para bmp, converter jpg para bmp, jpg para bmp grátis, conversor bmp online, conversão de imagem"
-
-    "canonical": "https://miconvert.com/pt/convert/jpg-to-bmp"
-
-    "og_title": "Converter JPG para BMP - Conversor de JPG para BMP Online Grátis"
-
-    "og_description": "Converta imagens JPG para o formato BMP online gratuitamente. Conversão de JPG para BMP de alta qualidade com processamento rápido."
-
-    "og_url": "https://miconvert.com/pt/convert/jpg-to-bmp"
-
-    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Converter JPG para BMP Online"
+    "title": "Converter JPG para BMP Online",
+  "description": "Conversor de JPG para BMP gratuito com dados de pixel sem compressão e sem perdas. Funciona em qualquer dispositivo — sem necessidade de cadastro."
 
-    "description": "Conversor de JPG para BMP gratuito com dados de pixel sem compressão e sem perdas. Funciona em qualquer dispositivo — sem necessidade de cadastro."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-bmp"
-
-    "title": "Conversor de JPG para BMP"
-
-    "description": "Converta imagens JPG para BMP com processamento rápido e cores precisas."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "jpg-to-bmp",
+  "title": "Conversor de JPG para BMP",
+  "description": "Converta imagens JPG para BMP com processamento rápido e cores precisas.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Dados de pixel sem compressão (sem perdas)",
+  "Alta compatibilidade no Windows",
+  "Processamento rápido",
+  "Ferramenta online gratuita"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Dados de pixel sem compressão (sem perdas)"
-
-      "Alta compatibilidade no Windows"
-
-      "Processamento rápido"
-
-      "Ferramenta online gratuita"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversão de JPG para BMP Completa"
+    "title": "Conversão de JPG para BMP Completa",
+  "back_button": "Voltar para o Conversor",
+  "convert_another": "Converter Outro JPG",
+  "quick_conversions": "Conversões Rápidas:"
 
-    "back_button": "Voltar para o Conversor"
-
-    "convert_another": "Converter Outro JPG"
-
-    "quick_conversions": "Conversões Rápidas:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Por que Converter JPG para BMP?"
+      "title": "Por que Converter JPG para BMP?",
+  "description": "<p>BMP é um formato raster simples que armazena pixels sem compressão — útil para certos fluxos de trabalho:</p><ul><li><strong>Sem artefatos JPEG:</strong> Evite re-encodes com perdas repetidos durante a edição.</li><li><strong>Estrutura simples:</strong> Fácil para manipulação de pixels de baixo nível.</li><li><strong>Aplicativos legados/embarcados:</strong> Algumas ferramentas do Windows preferem BMP.</li></ul>"
 
-      "description": "<p>BMP é um formato raster simples que armazena pixels sem compressão — útil para certos fluxos de trabalho:</p><ul><li><strong>Sem artefatos JPEG:</strong> Evite re-encodes com perdas repetidos durante a edição.</li><li><strong>Estrutura simples:</strong> Fácil para manipulação de pixels de baixo nível.</li><li><strong>Aplicativos legados/embarcados:</strong> Algumas ferramentas do Windows preferem BMP.</li></ul>"
+    },
+  {
+      "title": "Como Converter JPG para BMP Online",
+  "description": "<ol><li>Clique em <em>Carregar JPG</em> e selecione seu arquivo.</li><li>Aguarde a conclusão do processamento.</li><li>Clique em <em>Baixar BMP</em> para salvar sua imagem.</li></ol><p>Por padrão, usa BMP de 24 bits sem compressão.</p>"
 
-    }
-    {
-      "title": "Como Converter JPG para BMP Online"
+    },
+  {
+      "title": "BMP vs JPG: Principais Diferenças",
+  "description": "<table class='table-compare'><thead><tr><th>Recurso</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Compressão</td><td>Com perdas (JPEG)</td><td>Tipicamente sem compressão (sem perdas)</td></tr><tr><td>Tamanho do arquivo</td><td>Pequeno</td><td>Grande</td></tr><tr><td>Transparência</td><td>Não</td><td>Não (BMP comum de 24 bits)</td></tr><tr><td>Melhor para</td><td>Fotos, uso na web</td><td>Fluxos de trabalho de edição, aplicativos legados, operações de pixel</td></tr></tbody></table>"
 
-      "description": "<ol><li>Clique em <em>Carregar JPG</em> e selecione seu arquivo.</li><li>Aguarde a conclusão do processamento.</li><li>Clique em <em>Baixar BMP</em> para salvar sua imagem.</li></ol><p>Por padrão, usa BMP de 24 bits sem compressão.</p>"
+    },
+  {
+      "title": "Limites e Formatos Suportados",
+  "description": "<ul><li><strong>Entrada aceita:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Tamanho máximo do arquivo:</strong> até 16&nbsp;MB por arquivo</li><li><strong>Saída:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profundidade de bits:</strong> 24 bits (sem alfa)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs JPG: Principais Diferenças"
+    },
+  {
+      "title": "Solução de Problemas",
+  "description": "<ul><li><strong>Saída muito grande:</strong> BMP é sem compressão por design; considere <a href='/pt/convert/jpg-to-png'>JPG para PNG</a> para arquivos menores sem perdas.</li><li><strong>Transparência necessária:</strong> BMP (24 bits) não tem alfa; use <a href='/pt/convert/jpg-to-png'>JPG para PNG</a>.</li><li><strong>Falha no upload:</strong> Certifique-se de que o arquivo é JPG/JPEG e ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Recurso</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Compressão</td><td>Com perdas (JPEG)</td><td>Tipicamente sem compressão (sem perdas)</td></tr><tr><td>Tamanho do arquivo</td><td>Pequeno</td><td>Grande</td></tr><tr><td>Transparência</td><td>Não</td><td>Não (BMP comum de 24 bits)</td></tr><tr><td>Melhor para</td><td>Fotos, uso na web</td><td>Fluxos de trabalho de edição, aplicativos legados, operações de pixel</td></tr></tbody></table>"
+    },
+  {
+      "title": "O que é JPG?",
+  "description": "<p>JPG (JPEG) usa compressão com perdas para manter os arquivos pequenos, ideal para fotos e a web, mas salvamentos repetidos podem introduzir artefatos.</p>"
 
-    }
-    {
-      "title": "Limites e Formatos Suportados"
+    },
+  {
+      "title": "O que é BMP?",
+  "description": "<p>BMP é um formato de bitmap simples que tipicamente armazena pixels brutos sem compressão. É grande em tamanho, mas fácil para programas lerem e manipularem.</p>"
 
-      "description": "<ul><li><strong>Entrada aceita:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Tamanho máximo do arquivo:</strong> até 16&nbsp;MB por arquivo</li><li><strong>Saída:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profundidade de bits:</strong> 24 bits (sem alfa)</li></ul>"
-
-    }
-    {
-      "title": "Solução de Problemas"
-
-      "description": "<ul><li><strong>Saída muito grande:</strong> BMP é sem compressão por design; considere <a href='/pt/convert/jpg-to-png'>JPG para PNG</a> para arquivos menores sem perdas.</li><li><strong>Transparência necessária:</strong> BMP (24 bits) não tem alfa; use <a href='/pt/convert/jpg-to-png'>JPG para PNG</a>.</li><li><strong>Falha no upload:</strong> Certifique-se de que o arquivo é JPG/JPEG e ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "O que é JPG?"
-
-      "description": "<p>JPG (JPEG) usa compressão com perdas para manter os arquivos pequenos, ideal para fotos e a web, mas salvamentos repetidos podem introduzir artefatos.</p>"
-
-    }
-    {
-      "title": "O que é BMP?"
-
-      "description": "<p>BMP é um formato de bitmap simples que tipicamente armazena pixels brutos sem compressão. É grande em tamanho, mas fácil para programas lerem e manipularem.</p>"
+    },
+  {
+      "title": "Casos de Uso: Quando Converter JPG para BMP",
+  "description": "<ul><li><strong>Loops de edição:</strong> Evite artefatos JPEG cumulativos.</li><li><strong>Software legado:</strong> Ferramentas mais antigas do Windows que requerem BMP.</li><li><strong>Desenvolvimento:</strong> Acesso direto a pixels em processamento de baixo nível.</li></ul>"
 
     }
-    {
-      "title": "Casos de Uso: Quando Converter JPG para BMP"
-
-      "description": "<ul><li><strong>Loops de edição:</strong> Evite artefatos JPEG cumulativos.</li><li><strong>Software legado:</strong> Ferramentas mais antigas do Windows que requerem BMP.</li><li><strong>Desenvolvimento:</strong> Acesso direto a pixels em processamento de baixo nível.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Este conversor de JPG para BMP é gratuito?"
+      "question": "Este conversor de JPG para BMP é gratuito?",
+  "answer": "Sim, o conversor é completamente gratuito, sem taxas ocultas ou assinaturas."
 
-      "answer": "Sim, o conversor é completamente gratuito, sem taxas ocultas ou assinaturas."
+    },
+  {
+      "question": "BMP funcionará em todos os aplicativos?",
+  "answer": "BMP é amplamente suportado no Windows e reconhecido por muitas outras plataformas. Alguns fluxos de trabalho modernos preferem PNG/WebP pela eficiência de tamanho."
 
-    }
-    {
-      "question": "BMP funcionará em todos os aplicativos?"
+    },
+  {
+      "question": "Quão maiores são os arquivos BMP em comparação com JPG?",
+  "answer": "Frequentemente várias vezes maiores (por exemplo, 5–20×), já que BMP é tipicamente sem compressão."
 
-      "answer": "BMP é amplamente suportado no Windows e reconhecido por muitas outras plataformas. Alguns fluxos de trabalho modernos preferem PNG/WebP pela eficiência de tamanho."
+    },
+  {
+      "question": "Quais tamanhos de arquivo são suportados?",
+  "answer": "Você pode carregar imagens de até 16&nbsp;MB por arquivo."
 
-    }
-    {
-      "question": "Quão maiores são os arquivos BMP em comparação com JPG?"
+    },
+  {
+      "question": "Meus arquivos estão seguros?",
+  "answer": "Os arquivos são processados automaticamente e não retidos por mais tempo do que o necessário para a conversão."
 
-      "answer": "Frequentemente várias vezes maiores (por exemplo, 5–20×), já que BMP é tipicamente sem compressão."
+    },
+  {
+      "question": "Posso converter vários JPGs de uma vez?",
+  "answer": "Esta página converte um arquivo por vez. Para necessidades em massa, repita o processo ou use uma ferramenta de lote."
 
-    }
-    {
-      "question": "Quais tamanhos de arquivo são suportados?"
-
-      "answer": "Você pode carregar imagens de até 16&nbsp;MB por arquivo."
-
-    }
-    {
-      "question": "Meus arquivos estão seguros?"
-
-      "answer": "Os arquivos são processados automaticamente e não retidos por mais tempo do que o necessário para a conversão."
-
-    }
-    {
-      "question": "Posso converter vários JPGs de uma vez?"
-
-      "answer": "Esta página converte um arquivo por vez. Para necessidades em massa, repita o processo ou use uma ferramenta de lote."
-
-    }
-    {
-      "question": "BMP suporta transparência?"
-
-      "answer": "O BMP comum de 24 bits não inclui um canal alfa. Para transparência, converta para PNG."
+    },
+  {
+      "question": "BMP suporta transparência?",
+  "answer": "O BMP comum de 24 bits não inclui um canal alfa. Para transparência, converta para PNG."
 
     }
-  ]
-  "note": "A saída BMP é intencionalmente grande (sem compressão). Para a web, prefira PNG/WebP/AVIF."
-
+  ],
+  "note": "A saída BMP é intencionalmente grande (sem compressão). Para a web, prefira PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Converter BMP para JPG"
+      "title": "Converter BMP para JPG",
+  "url": "/pt/convert/bmp-to-jpg"
 
-      "url": "/pt/convert/bmp-to-jpg"
+    },
+  {
+      "title": "Converter JPG para PNG",
+  "url": "/pt/convert/jpg-to-png"
 
-    }
-    {
-      "title": "Converter JPG para PNG"
-
-      "url": "/pt/convert/jpg-to-png"
-
-    }
-    {
-      "title": "Converter PNG para BMP"
-
-      "url": "/pt/convert/png-to-bmp"
+    },
+  {
+      "title": "Converter PNG para BMP",
+  "url": "/pt/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Todos os direitos reservados."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Todos os direitos reservados.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Conversor de JPG para BMP - Grátis e Online"
-
-      "url": "https://miconvert.com/pt/convert/jpg-to-bmp"
-
-      "description": "Ferramenta online gratuita para converter imagens JPG para BMP com dados de pixel sem compressão e sem perdas."
-
-      "inLanguage": "pt"
-
-      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Conversor de JPG para BMP - Grátis e Online",
+  "url": "https://miconvert.com/pt/convert/jpg-to-bmp",
+  "description": "Ferramenta online gratuita para converter imagens JPG para BMP com dados de pixel sem compressão e sem perdas.",
+  "inLanguage": "pt",
+  "image": "https://miconvert.com/images/jpg-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Início",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Início"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Converter",
+  "item": "https://miconvert.com/pt/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Converter"
-
-          "item": "https://miconvert.com/pt/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG para BMP"
-
-          "item": "https://miconvert.com/pt/convert/jpg-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG para BMP",
+  "item": "https://miconvert.com/pt/convert/jpg-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Conversor de JPG para BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/pt/convert/jpg-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "BRL"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Dados de pixel sem compressão",
+  "Cores precisas",
+  "Processamento rápido"
 
-      "name": "Conversor de JPG para BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/pt/convert/jpg-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "BRL"
-
-      }
-      "featureList": [
-        "Dados de pixel sem compressão"
-
-        "Cores precisas"
-
-        "Processamento rápido"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Este conversor de JPG para BMP é gratuito?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sim, o conversor é completamente gratuito, sem taxas ocultas ou assinaturas."
+          "@type": "Question",
+  "name": "Este conversor de JPG para BMP é gratuito?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sim, o conversor é completamente gratuito, sem taxas ocultas ou assinaturas."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quais tamanhos de arquivo são suportados?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Você pode carregar imagens de até 16 MB por arquivo."
+        },
+  {
+          "@type": "Question",
+  "name": "Quais tamanhos de arquivo são suportados?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Você pode carregar imagens de até 16 MB por arquivo."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "BMP suporta transparência?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "O BMP padrão de 24 bits não inclui transparência. Use PNG para alfa."
+        },
+  {
+          "@type": "Question",
+  "name": "BMP suporta transparência?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "O BMP padrão de 24 bits não inclui transparência. Use PNG para alfa."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Como converter JPG para BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Como converter JPG para BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Clique em Carregar JPG e selecione seu arquivo."
 
-          "text": "Clique em Carregar JPG e selecione seu arquivo."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Aguarde a conclusão do processamento."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Clique em Baixar BMP para salvar a imagem."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Aguarde a conclusão do processamento."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Clique em Baixar BMP para salvar a imagem."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Conversor de JPG para BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

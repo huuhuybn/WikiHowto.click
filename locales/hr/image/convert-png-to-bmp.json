@@ -1,364 +1,272 @@
 {
-  "lang": "hr"
-
-  "lang_name": "Hrvatski"
-
-  "title": "PNG u BMP Konverter - Besplatno i Online | miconvert.com"
-
-  "sub_title": "Pretvorite PNG slike u BMP online s nekompresiranim, bezgubitnim podacima o pikselima. Bez vodmarka."
-
-  "hint": "Otpremite svoju PNG sliku da biste započeli pretvorbu..."
-
-  "btn_download": "Pretvori u BMP"
-
-  "btn_paste": "Otpremi PNG"
-
-  "btn_clear": "Obriši"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "hr",
+  "lang_name": "Hrvatski",
+  "title": "PNG u BMP Konverter - Besplatno i Online | miconvert.com",
+  "sub_title": "Pretvorite PNG slike u BMP online s nekompresiranim, bezgubitnim podacima o pikselima. Bez vodmarka.",
+  "hint": "Otpremite svoju PNG sliku da biste započeli pretvorbu...",
+  "btn_download": "Pretvori u BMP",
+  "btn_paste": "Otpremi PNG",
+  "btn_clear": "Obriši",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Pretvorite PNG u BMP - Besplatni Online PNG u BMP Konverter"
+    "title": "Pretvorite PNG u BMP - Besplatni Online PNG u BMP Konverter",
+  "description": "Pretvorite PNG slike u BMP format online besplatno. Visokokvalitetna pretvorba PNG u BMP s brzim procesiranjem.",
+  "keywords": "png u bmp, pretvori png u bmp, besplatno png u bmp, online bmp konverter, konverzija slika",
+  "canonical": "https://miconvert.com/hr/convert/png-to-bmp",
+  "og_title": "Pretvorite PNG u BMP - Besplatni Online PNG u BMP Konverter",
+  "og_description": "Pretvorite PNG slike u BMP format online besplatno. Visokokvalitetna pretvorba PNG u BMP s brzim procesiranjem.",
+  "og_url": "https://miconvert.com/hr/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Pretvorite PNG slike u BMP format online besplatno. Visokokvalitetna pretvorba PNG u BMP s brzim procesiranjem."
-
-    "keywords": "png u bmp, pretvori png u bmp, besplatno png u bmp, online bmp konverter, konverzija slika"
-
-    "canonical": "https://miconvert.com/hr/convert/png-to-bmp"
-
-    "og_title": "Pretvorite PNG u BMP - Besplatni Online PNG u BMP Konverter"
-
-    "og_description": "Pretvorite PNG slike u BMP format online besplatno. Visokokvalitetna pretvorba PNG u BMP s brzim procesiranjem."
-
-    "og_url": "https://miconvert.com/hr/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Pretvorite PNG u BMP Online"
+    "title": "Pretvorite PNG u BMP Online",
+  "description": "Besplatni PNG u BMP konverter s nekompresiranim, bezgubitnim podacima o pikselima. Radi na bilo kojem uređaju — nije potrebna registracija."
 
-    "description": "Besplatni PNG u BMP konverter s nekompresiranim, bezgubitnim podacima o pikselima. Radi na bilo kojem uređaju — nije potrebna registracija."
-
-  }
+  },
   "converter": {
-    "type": "png-u-bmp"
-
-    "title": "PNG u BMP Konverter"
-
-    "description": "Pretvorite PNG slike u BMP s brzim procesiranjem i točnim bojama."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-u-bmp",
+  "title": "PNG u BMP Konverter",
+  "description": "Pretvorite PNG slike u BMP s brzim procesiranjem i točnim bojama.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Nekompresirani (bezgubitni) podaci o pikselima",
+  "Visoka kompatibilnost na Windows",
+  "Brzo procesiranje",
+  "Besplatni online alat"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Nekompresirani (bezgubitni) podaci o pikselima"
-
-      "Visoka kompatibilnost na Windows"
-
-      "Brzo procesiranje"
-
-      "Besplatni online alat"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Pretvorba PNG u BMP Završen"
+    "title": "Pretvorba PNG u BMP Završen",
+  "back_button": "Povratak na Konverter",
+  "convert_another": "Pretvori Drugi PNG",
+  "quick_conversions": "Brze Pretvorbe:"
 
-    "back_button": "Povratak na Konverter"
-
-    "convert_another": "Pretvori Drugi PNG"
-
-    "quick_conversions": "Brze Pretvorbe:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Zašto Pretvoriti PNG u BMP?"
+      "title": "Zašto Pretvoriti PNG u BMP?",
+  "description": "<p>BMP je jednostavan raster format koji pohranjuje piksele bez kompresije — koristan za određene radne tokove:</p><ul><li><strong>Bez novih artefakata:</strong> Održavajte piksele netaknute za niskonivo uređivanje.</li><li><strong>Jednostavna struktura:</strong> Lako za programe za čitanje i manipulaciju.</li><li><strong>Naslijeđene/ugrađene aplikacije:</strong> Neki Windows alati preferiraju BMP.</li></ul>"
 
-      "description": "<p>BMP je jednostavan raster format koji pohranjuje piksele bez kompresije — koristan za određene radne tokove:</p><ul><li><strong>Bez novih artefakata:</strong> Održavajte piksele netaknute za niskonivo uređivanje.</li><li><strong>Jednostavna struktura:</strong> Lako za programe za čitanje i manipulaciju.</li><li><strong>Naslijeđene/ugrađene aplikacije:</strong> Neki Windows alati preferiraju BMP.</li></ul>"
+    },
+  {
+      "title": "Kako Pretvoriti PNG u BMP Online",
+  "description": "<ol><li>Kliknite <em>Otpremi PNG</em> i odaberite svoju datoteku.</li><li>Pričekajte da se proces završi.</li><li>Kliknite <em>Preuzmi BMP</em> da biste spremili svoju sliku.</li></ol><p>Prema zadanim postavkama na 24-bitni BMP bez kompresije.</p>"
 
-    }
-    {
-      "title": "Kako Pretvoriti PNG u BMP Online"
+    },
+  {
+      "title": "BMP vs PNG Usporedba",
+  "description": "<ul><li><strong>Veličina datoteke:</strong> BMP je obično mnogo veći od PNG.</li><li><strong>Kvaliteta:</strong> Oba su bezgubitna (BMP nekompresirani; PNG bezgubitno kompresirani).</li><li><strong>Prozirnost:</strong> PNG podržava alfa; uobičajeni 24-bitni BMP <em>ne</em> podržava.</li><li><strong>Kompresija:</strong> BMP nema; PNG bezgubitno DEFLATE.</li><li><strong>Upotreba:</strong> BMP za naslijeđene/piksel operacije; PNG za web i učinkovito bezgubitno pohranjivanje.</li></ul>"
 
-      "description": "<ol><li>Kliknite <em>Otpremi PNG</em> i odaberite svoju datoteku.</li><li>Pričekajte da se proces završi.</li><li>Kliknite <em>Preuzmi BMP</em> da biste spremili svoju sliku.</li></ol><p>Prema zadanim postavkama na 24-bitni BMP bez kompresije.</p>"
+    },
+  {
+      "title": "Podržani Limiti i Formati",
+  "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Dubina boje:</strong> 24-bit (bez alfa)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs PNG Usporedba"
-
-      "description": "<ul><li><strong>Veličina datoteke:</strong> BMP je obično mnogo veći od PNG.</li><li><strong>Kvaliteta:</strong> Oba su bezgubitna (BMP nekompresirani; PNG bezgubitno kompresirani).</li><li><strong>Prozirnost:</strong> PNG podržava alfa; uobičajeni 24-bitni BMP <em>ne</em> podržava.</li><li><strong>Kompresija:</strong> BMP nema; PNG bezgubitno DEFLATE.</li><li><strong>Upotreba:</strong> BMP za naslijeđene/piksel operacije; PNG za web i učinkovito bezgubitno pohranjivanje.</li></ul>"
-
-    }
-    {
-      "title": "Podržani Limiti i Formati"
-
-      "description": "<ul><li><strong>Prihvaćeni ulaz:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalna veličina datoteke:</strong> do 16&nbsp;MB po datoteci</li><li><strong>Izlaz:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Dubina boje:</strong> 24-bit (bez alfa)</li></ul>"
-
-    }
-    {
-      "title": "Rješavanje Problema"
-
-      "description": "<ul><li><strong>Vrlo velika izlazna datoteka:</strong> BMP je nekompresiran; za manje bezgubitne, zadržite PNG.</li><li><strong>Potrebna prozirnost:</strong> BMP 24-bit nema alfa; ostanite s PNG.</li><li><strong>Otpremanje ne uspijeva:</strong> Provjerite je li datoteka PNG i ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Rješavanje Problema",
+  "description": "<ul><li><strong>Vrlo velika izlazna datoteka:</strong> BMP je nekompresiran; za manje bezgubitne, zadržite PNG.</li><li><strong>Potrebna prozirnost:</strong> BMP 24-bit nema alfa; ostanite s PNG.</li><li><strong>Otpremanje ne uspijeva:</strong> Provjerite je li datoteka PNG i ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je li ovaj PNG u BMP konverter besplatan?"
+      "question": "Je li ovaj PNG u BMP konverter besplatan?",
+  "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
-      "answer": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+    },
+  {
+      "question": "Hoće li BMP raditi na svim aplikacijama?",
+  "answer": "BMP je široko podržan na Windowsu i prepoznaje ga mnogo drugih platformi. Moderni web radni tokovi obično preferiraju PNG/WebP zbog učinkovitosti veličine."
 
-    }
-    {
-      "question": "Hoće li BMP raditi na svim aplikacijama?"
+    },
+  {
+      "question": "Koliko su BMP datoteke veće u usporedbi s PNG?",
+  "answer": "Često nekoliko puta veće (npr. 3–10× ili više), jer je BMP nekompresiran."
 
-      "answer": "BMP je široko podržan na Windowsu i prepoznaje ga mnogo drugih platformi. Moderni web radni tokovi obično preferiraju PNG/WebP zbog učinkovitosti veličine."
+    },
+  {
+      "question": "Koje veličine datoteka su podržane?",
+  "answer": "Možete otpremiti slike do 16&nbsp;MB po datoteci."
 
-    }
-    {
-      "question": "Koliko su BMP datoteke veće u usporedbi s PNG?"
+    },
+  {
+      "question": "Jesu li moji datoteke sigurne?",
+  "answer": "Datoteke se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
 
-      "answer": "Često nekoliko puta veće (npr. 3–10× ili više), jer je BMP nekompresiran."
+    },
+  {
+      "question": "Mogu li pretvoriti više PNG-ova odjednom?",
+  "answer": "Ova stranica pretvara jednu datoteku u isto vrijeme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
 
-    }
-    {
-      "question": "Koje veličine datoteka su podržane?"
-
-      "answer": "Možete otpremiti slike do 16&nbsp;MB po datoteci."
-
-    }
-    {
-      "question": "Jesu li moji datoteke sigurne?"
-
-      "answer": "Datoteke se obrađuju automatski i ne zadržavaju se duže nego što je potrebno za konverziju."
-
-    }
-    {
-      "question": "Mogu li pretvoriti više PNG-ova odjednom?"
-
-      "answer": "Ova stranica pretvara jednu datoteku u isto vrijeme. Za potrebe u velikim količinama, ponovite proces ili koristite alat za serijsku obradu."
-
-    }
-    {
-      "question": "Podržava li BMP prozirnost?"
-
-      "answer": "Standardni 24-bitni BMP ne uključuje alfa. Koristite PNG za prozirnost."
+    },
+  {
+      "question": "Podržava li BMP prozirnost?",
+  "answer": "Standardni 24-bitni BMP ne uključuje alfa. Koristite PNG za prozirnost."
 
     }
-  ]
-  "note": "BMP izlaz je namjerno velik (nekompresiran). Za web isporuku, preferirajte PNG/WebP/AVIF."
-
+  ],
+  "note": "BMP izlaz je namjerno velik (nekompresiran). Za web isporuku, preferirajte PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Pretvorite BMP u PNG"
+      "title": "Pretvorite BMP u PNG",
+  "url": "/hr/convert/bmp-to-png"
 
-      "url": "/hr/convert/bmp-to-png"
+    },
+  {
+      "title": "Pretvorite PNG u JPG",
+  "url": "/hr/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Pretvorite PNG u JPG"
-
-      "url": "/hr/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Pretvorite PNG u WebP"
-
-      "url": "/hr/convert/png-to-webp"
+    },
+  {
+      "title": "Pretvorite PNG u WebP",
+  "url": "/hr/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Sva prava pridržana."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Sva prava pridržana.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG u BMP Konverter - Besplatno i Online"
-
-      "url": "https://miconvert.com/hr/convert/png-to-bmp"
-
-      "description": "Besplatni online alat za pretvorbu PNG slika u BMP s nekompresiranim, bezgubitnim podacima o pikselima."
-
-      "inLanguage": "hr"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG u BMP Konverter - Besplatno i Online",
+  "url": "https://miconvert.com/hr/convert/png-to-bmp",
+  "description": "Besplatni online alat za pretvorbu PNG slika u BMP s nekompresiranim, bezgubitnim podacima o pikselima.",
+  "inLanguage": "hr",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Početna",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Početna"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Pretvori",
+  "item": "https://miconvert.com/hr/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Pretvori"
-
-          "item": "https://miconvert.com/hr/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG u BMP"
-
-          "item": "https://miconvert.com/hr/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG u BMP",
+  "item": "https://miconvert.com/hr/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG u BMP Konverter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/hr/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Nekompresirani podaci o pikselima",
+  "Točne boje",
+  "Brzo procesiranje"
 
-      "name": "PNG u BMP Konverter"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/hr/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Nekompresirani podaci o pikselima"
-
-        "Točne boje"
-
-        "Brzo procesiranje"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je li ovaj PNG u BMP konverter besplatan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
+          "@type": "Question",
+  "name": "Je li ovaj PNG u BMP konverter besplatan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, konverter je potpuno besplatan bez skrivenih troškova ili pretplata."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Koje veličine datoteka su podržane?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Možete otpremiti slike do 16 MB po datoteci."
+        },
+  {
+          "@type": "Question",
+  "name": "Koje veličine datoteka su podržane?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Možete otpremiti slike do 16 MB po datoteci."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Podržava li BMP prozirnost?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standardni 24-bitni BMP ne uključuje alfa kanal. Koristite PNG za prozirnost."
+        },
+  {
+          "@type": "Question",
+  "name": "Podržava li BMP prozirnost?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standardni 24-bitni BMP ne uključuje alfa kanal. Koristite PNG za prozirnost."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kako pretvoriti PNG u BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kako pretvoriti PNG u BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknite Otpremi PNG i odaberite svoju datoteku."
 
-          "text": "Kliknite Otpremi PNG i odaberite svoju datoteku."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Pričekajte da se proces završi."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknite Preuzmi BMP da biste spremili sliku."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Pričekajte da se proces završi."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknite Preuzmi BMP da biste spremili sliku."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG u BMP Konverter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,358 +1,266 @@
 {
-  "lang": "uk"
-
-  "lang_name": "Українська"
-
-  "title": "Конвертер SVG в PNG - Безкоштовно та Онлайн | miconvert.com"
-
-  "sub_title": "Конвертуйте векторну графіку SVG в PNG онлайн з чіткою растеризацією, прозорістю та без водяних знаків."
-
-  "hint": "Завантажте свій файл SVG, щоб почати конвертацію..."
-
-  "btn_download": "Конвертувати в PNG"
-
-  "btn_paste": "Завантажити SVG"
-
-  "btn_clear": "Очистити"
-
-  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
-
+  "lang": "uk",
+  "lang_name": "Українська",
+  "title": "Конвертер SVG в PNG - Безкоштовно та Онлайн | miconvert.com",
+  "sub_title": "Конвертуйте векторну графіку SVG в PNG онлайн з чіткою растеризацією, прозорістю та без водяних знаків.",
+  "hint": "Завантажте свій файл SVG, щоб почати конвертацію...",
+  "btn_download": "Конвертувати в PNG",
+  "btn_paste": "Завантажити SVG",
+  "btn_clear": "Очистити",
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg",
   "head": {
-    "title": "Конвертувати SVG в PNG - Безкоштовний онлайн конвертер SVG в PNG | miconvert.com"
+    "title": "Конвертувати SVG в PNG - Безкоштовний онлайн конвертер SVG в PNG | miconvert.com",
+  "description": "Конвертуйте векторну графіку SVG в PNG онлайн безкоштовно. Високоякісна растеризація SVG→PNG з швидкою обробкою та підтримкою прозорості.",
+  "keywords": "svg в png, конвертувати svg в png, вектор в растер, безкоштовний конвертер svg, онлайн конвертер png",
+  "canonical": "https://miconvert.com/uk/convert/svg-to-png",
+  "og_title": "Конвертер SVG в PNG - Безкоштовно та Онлайн",
+  "og_description": "Конвертуйте SVG в PNG з чіткою растеризацією та прозорістю. 100% безкоштовно, швидко та безпечно.",
+  "og_url": "https://miconvert.com/uk/convert/svg-to-png",
+  "og_image": "https://miconvert.com/images/svg-to-png.jpg"
 
-    "description": "Конвертуйте векторну графіку SVG в PNG онлайн безкоштовно. Високоякісна растеризація SVG→PNG з швидкою обробкою та підтримкою прозорості."
-
-    "keywords": "svg в png, конвертувати svg в png, вектор в растер, безкоштовний конвертер svg, онлайн конвертер png"
-
-    "canonical": "https://miconvert.com/uk/convert/svg-to-png"
-
-    "og_title": "Конвертер SVG в PNG - Безкоштовно та Онлайн"
-
-    "og_description": "Конвертуйте SVG в PNG з чіткою растеризацією та прозорістю. 100% безкоштовно, швидко та безпечно."
-
-    "og_url": "https://miconvert.com/uk/convert/svg-to-png"
-
-    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Конвертувати SVG в PNG онлайн"
+    "title": "Конвертувати SVG в PNG онлайн",
+  "description": "Безкоштовний та швидкий конвертер SVG в PNG з чіткою растеризацією та підтримкою прозорості. Працює миттєво на будь-якому пристрої — реєстрація не потрібна."
 
-    "description": "Безкоштовний та швидкий конвертер SVG в PNG з чіткою растеризацією та підтримкою прозорості. Працює миттєво на будь-якому пристрої — реєстрація не потрібна."
-
-  }
-  "description": "<p>Перетворіть свій <strong>SVG в PNG</strong> за кілька секунд. Цей безкоштовний онлайн конвертер растеризує вашу векторну графіку у високоякісні PNG зображення, зберігаючи прозорість для чистих країв на будь-якому фоні.</p><p>Ідеально підходить для фавіконів, активів додатків, соціальних зображень та веб-графіки. Ми оптимізуємо вихід для сильної балансу чіткості та розміру файлу.</p>"
-
+  },
+  "description": "<p>Перетворіть свій <strong>SVG в PNG</strong> за кілька секунд. Цей безкоштовний онлайн конвертер растеризує вашу векторну графіку у високоякісні PNG зображення, зберігаючи прозорість для чистих країв на будь-якому фоні.</p><p>Ідеально підходить для фавіконів, активів додатків, соціальних зображень та веб-графіки. Ми оптимізуємо вихід для сильної балансу чіткості та розміру файлу.</p>",
   "converter": {
-    "type": "svg-to-png"
-
-    "title": "Конвертер SVG в PNG"
-
-    "description": "Конвертуйте векторну графіку SVG в растровий формат PNG з високою якістю та швидкою обробкою."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "PNG"
-
-    "allowedTypes": [
+    "type": "svg-to-png",
+  "title": "Конвертер SVG в PNG",
+  "description": "Конвертуйте векторну графіку SVG в растровий формат PNG з високою якістю та швидкою обробкою.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "SVG",
+  "outputFormat": "PNG",
+  "allowedTypes": [
       "image/svg+xml"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "features": [
+      "Високоякісна растеризація",
+  "Збереження прозорості",
+  "Швидка обробка",
+  "Безкоштовний онлайн інструмент"
 
-    "outputExtension": ".png"
-
-    "features": [
-      "Високоякісна растеризація"
-
-      "Збереження прозорості"
-
-      "Швидка обробка"
-
-      "Безкоштовний онлайн інструмент"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
-        "background": "прозорий"
-
-        "width": null
-        "height": null
-        "scale": 1
+        "compressionLevel": 6,
+  "progressive": false,
+  "background": "прозорий",
+  "width": null,
+  "height": null,
+  "scale": 1
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Конвертація SVG в PNG завершена"
+    "title": "Конвертація SVG в PNG завершена",
+  "back_button": "Назад до конвертера",
+  "convert_another": "Конвертувати інший SVG",
+  "quick_conversions": "Швидкі конверсії:"
 
-    "back_button": "Назад до конвертера"
-
-    "convert_another": "Конвертувати інший SVG"
-
-    "quick_conversions": "Швидкі конверсії:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Чому конвертувати SVG в PNG?"
+      "title": "Чому конвертувати SVG в PNG?",
+  "description": "<ul><li><strong>Універсальна сумісність:</strong> PNG відображається скрізь, підтримка SVG не потрібна.</li><li><strong>Прозорість:</strong> Зберігайте альфа-канал для накладок та елементів інтерфейсу.</li><li><strong>Продуктивність:</strong> Менші, кешовані растрові зображення для виробництва.</li></ul>"
 
-      "description": "<ul><li><strong>Універсальна сумісність:</strong> PNG відображається скрізь, підтримка SVG не потрібна.</li><li><strong>Прозорість:</strong> Зберігайте альфа-канал для накладок та елементів інтерфейсу.</li><li><strong>Продуктивність:</strong> Менші, кешовані растрові зображення для виробництва.</li></ul>"
+    },
+  {
+      "title": "Як конвертувати SVG в PNG онлайн",
+  "description": "<ol><li>Натисніть <em>Завантажити SVG</em> та виберіть свій файл.</li><li>Зачекайте на растеризацію та оптимізацію.</li><li>Натисніть <em>Завантажити PNG</em>, щоб зберегти своє зображення.</li></ol><p>За замовчуванням зберігається прозорість та збалансована компресія.</p>"
 
-    }
-    {
-      "title": "Як конвертувати SVG в PNG онлайн"
+    },
+  {
+      "title": "Підтримувані обмеження та формати",
+  "description": "<ul><li><strong>Прийняті вхідні дані:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Максимальний розмір файлу:</strong> 16&nbsp;МБ</li><li><strong>Вихід:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
 
-      "description": "<ol><li>Натисніть <em>Завантажити SVG</em> та виберіть свій файл.</li><li>Зачекайте на растеризацію та оптимізацію.</li><li>Натисніть <em>Завантажити PNG</em>, щоб зберегти своє зображення.</li></ol><p>За замовчуванням зберігається прозорість та збалансована компресія.</p>"
+    },
+  {
+      "title": "Найкращі практики для чіткого виходу",
+  "description": "<ul><li>Використовуйте квадратну арку з відступами, щоб уникнути обрізання країв.</li><li>Конвертуйте текст в контури; вбудовуйте шрифти та зображення.</li><li>Уникайте надто тонких ліній для маленьких значків (≥1px при цільовому розмірі).</li><li>Експортуйте більші (наприклад, 512–1024 px), якщо плануєте зменшити розмір пізніше.</li></ul>"
 
-    }
-    {
-      "title": "Підтримувані обмеження та формати"
-
-      "description": "<ul><li><strong>Прийняті вхідні дані:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Максимальний розмір файлу:</strong> 16&nbsp;МБ</li><li><strong>Вихід:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-
-    }
-    {
-      "title": "Найкращі практики для чіткого виходу"
-
-      "description": "<ul><li>Використовуйте квадратну арку з відступами, щоб уникнути обрізання країв.</li><li>Конвертуйте текст в контури; вбудовуйте шрифти та зображення.</li><li>Уникайте надто тонких ліній для маленьких значків (≥1px при цільовому розмірі).</li><li>Експортуйте більші (наприклад, 512–1024 px), якщо плануєте зменшити розмір пізніше.</li></ul>"
-
-    }
-    {
-      "title": "Виправлення помилок"
-
-      "description": "<ul><li><strong>Відсутні шрифти/фільтри:</strong> Вбудовуйте активи та конвертуйте текст в контури.</li><li><strong>Зубчасті краї:</strong> Збільшіть цільовий розмір або <code>scale</code>, а потім зменште.</li><li><strong>Солідний фон:</strong> Переконайтеся, що <code>background</code> встановлено на <em>прозорий</em> в параметрах.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що SVG дійсний і ≤16&nbsp;МБ.</li></ul>"
+    },
+  {
+      "title": "Виправлення помилок",
+  "description": "<ul><li><strong>Відсутні шрифти/фільтри:</strong> Вбудовуйте активи та конвертуйте текст в контури.</li><li><strong>Зубчасті краї:</strong> Збільшіть цільовий розмір або <code>scale</code>, а потім зменште.</li><li><strong>Солідний фон:</strong> Переконайтеся, що <code>background</code> встановлено на <em>прозорий</em> в параметрах.</li><li><strong>Завантаження не вдається:</strong> Переконайтеся, що SVG дійсний і ≤16&nbsp;МБ.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Цей конвертер SVG в PNG безкоштовний?"
+      "question": "Цей конвертер SVG в PNG безкоштовний?",
+  "answer": "Так, він абсолютно безкоштовний, без водяних знаків або прихованих зборів."
 
-      "answer": "Так, він абсолютно безкоштовний, без водяних знаків або прихованих зборів."
+    },
+  {
+      "question": "Чи зберігає PNG прозорість?",
+  "answer": "Так. PNG підтримує альфа-прозорість, і ми зберігаємо її за замовчуванням."
 
-    }
-    {
-      "question": "Чи зберігає PNG прозорість?"
+    },
+  {
+      "question": "Чи можу я вибрати розмір виходу?",
+  "answer": "За замовчуванням ми використовуємо viewBox SVG. Ви можете встановити ширину/висоту або коефіцієнт масштабування в розширених параметрах, якщо це підтримується."
 
-      "answer": "Так. PNG підтримує альфа-прозорість, і ми зберігаємо її за замовчуванням."
+    },
+  {
+      "question": "Які обмеження за розміром файлу застосовуються?",
+  "answer": "Ви можете завантажувати SVG файли до 16 МБ."
 
-    }
-    {
-      "question": "Чи можу я вибрати розмір виходу?"
-
-      "answer": "За замовчуванням ми використовуємо viewBox SVG. Ви можете встановити ширину/висоту або коефіцієнт масштабування в розширених параметрах, якщо це підтримується."
-
-    }
-    {
-      "question": "Які обмеження за розміром файлу застосовуються?"
-
-      "answer": "Ви можете завантажувати SVG файли до 16 МБ."
-
-    }
-    {
-      "question": "Чому моє PNG виглядає інакше, ніж SVG?"
-
-      "answer": "Зовнішні шрифти, фільтри або пов'язані активи можуть відображатися по-різному при растеризації. Конвертуйте текст в контури та вбудовуйте активи для стабільних результатів."
+    },
+  {
+      "question": "Чому моє PNG виглядає інакше, ніж SVG?",
+  "answer": "Зовнішні шрифти, фільтри або пов'язані активи можуть відображатися по-різному при растеризації. Конвертуйте текст в контури та вбудовуйте активи для стабільних результатів."
 
     }
-  ]
-  "note": "SVG підлягають растеризації під час конвертації. Для передбачуваних результатів, контурні тексти та вбудовуйте будь-які зовнішні активи."
-
+  ],
+  "note": "SVG підлягають растеризації під час конвертації. Для передбачуваних результатів, контурні тексти та вбудовуйте будь-які зовнішні активи.",
   "related_links": [
     {
-      "title": "Конвертувати SVG в ICO"
+      "title": "Конвертувати SVG в ICO",
+  "url": "/uk/convert/svg-to-ico"
 
-      "url": "/uk/convert/svg-to-ico"
+    },
+  {
+      "title": "Конвертувати PNG в SVG",
+  "url": "/uk/convert/png-to-svg"
 
-    }
-    {
-      "title": "Конвертувати PNG в SVG"
-
-      "url": "/uk/convert/png-to-svg"
-
-    }
-    {
-      "title": "Стиснути PNG онлайн"
-
-      "url": "/uk/compress/png"
+    },
+  {
+      "title": "Стиснути PNG онлайн",
+  "url": "/uk/compress/png"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Усі права захищені.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Конвертер SVG в PNG - Безкоштовно та Онлайн"
-
-      "url": "https://miconvert.com/uk/convert/svg-to-png"
-
-      "description": "Безкоштовний онлайн інструмент для конвертації векторної графіки SVG в PNG з прозорістю."
-
-      "inLanguage": "uk"
-
-      "image": "https://miconvert.com/images/svg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Конвертер SVG в PNG - Безкоштовно та Онлайн",
+  "url": "https://miconvert.com/uk/convert/svg-to-png",
+  "description": "Безкоштовний онлайн інструмент для конвертації векторної графіки SVG в PNG з прозорістю.",
+  "inLanguage": "uk",
+  "image": "https://miconvert.com/images/svg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Головна",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Головна"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Конвертувати",
+  "item": "https://miconvert.com/uk/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Конвертувати"
-
-          "item": "https://miconvert.com/uk/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG в PNG"
-
-          "item": "https://miconvert.com/uk/convert/svg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "SVG в PNG",
+  "item": "https://miconvert.com/uk/convert/svg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Конвертер SVG в PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/uk/convert/svg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Чітка растеризація",
+  "Збереження прозорості",
+  "Швидка обробка"
 
-      "name": "Конвертер SVG в PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/uk/convert/svg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Чітка растеризація"
-
-        "Збереження прозорості"
-
-        "Швидка обробка"
-
-      ]
-      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Цей конвертер SVG в PNG безкоштовний?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Так, він абсолютно безкоштовний, без водяних знаків або прихованих зборів."
+          "@type": "Question",
+  "name": "Цей конвертер SVG в PNG безкоштовний?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Так, він абсолютно безкоштовний, без водяних знаків або прихованих зборів."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Чи зберігає PNG прозорість?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Так, альфа-прозорість зберігається за замовчуванням."
+        },
+  {
+          "@type": "Question",
+  "name": "Чи зберігає PNG прозорість?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Так, альфа-прозорість зберігається за замовчуванням."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Які обмеження за розміром файлу застосовуються?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ви можете завантажувати SVG файли до 16 МБ."
+        },
+  {
+          "@type": "Question",
+  "name": "Які обмеження за розміром файлу застосовуються?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ви можете завантажувати SVG файли до 16 МБ."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Як конвертувати SVG в PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Як конвертувати SVG в PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Натисніть Завантажити SVG та виберіть свій файл."
 
-          "text": "Натисніть Завантажити SVG та виберіть свій файл."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Зачекайте, поки завершиться растеризація та оптимізація."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Натисніть Завантажити PNG, щоб зберегти своє зображення."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Зачекайте, поки завершиться растеризація та оптимізація."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Натисніть Завантажити PNG, щоб зберегти своє зображення."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Конвертер SVG в PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

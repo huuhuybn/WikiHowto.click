@@ -1,377 +1,283 @@
 {
-  "lang": "lt"
-
-  "lang_name": "Lietuvių"
-
-  "title": "JPG į AVIF konverteris - Nemokamai ir internetu | miconvert.com"
-
-  "sub_title": "Paverskite JPG vaizdus į AVIF internetu su puikia kompresija ir aukšta vizualine kokybe. Be vandens ženklų."
-
-  "hint": "Įkelkite savo JPG vaizdą, kad pradėtumėte konvertuoti..."
-
-  "btn_download": "Paversti į AVIF"
-
-  "btn_paste": "Įkelti JPG"
-
-  "btn_clear": "Išvalyti"
-
+  "lang": "lt",
+  "lang_name": "Lietuvių",
+  "title": "JPG į AVIF konverteris - Nemokamai ir internetu | miconvert.com",
+  "sub_title": "Paverskite JPG vaizdus į AVIF internetu su puikia kompresija ir aukšta vizualine kokybe. Be vandens ženklų.",
+  "hint": "Įkelkite savo JPG vaizdą, kad pradėtumėte konvertuoti...",
+  "btn_download": "Paversti į AVIF",
+  "btn_paste": "Įkelti JPG",
+  "btn_clear": "Išvalyti",
   "head": {
-    "title": "Paversti JPG į AVIF - Nemokamas internetinis JPG į AVIF konverteris"
+    "title": "Paversti JPG į AVIF - Nemokamas internetinis JPG į AVIF konverteris",
+  "description": "Paverskite JPG vaizdus į AVIF formatą internetu nemokamai. Aukštos kokybės JPG į AVIF konversija su puikia kompresija.",
+  "keywords": "jpg į avif, paversti jpg į avif, nemokamas jpg į avif, internetinis avif konverteris, vaizdo konversija",
+  "canonical": "https://miconvert.com/lt/convert/jpg-to-avif",
+  "og_title": "Paversti JPG į AVIF - Nemokamas internetinis JPG į AVIF konverteris",
+  "og_description": "Paverskite JPG vaizdus į AVIF formatą internetu nemokamai. Aukštos kokybės JPG į AVIF konversija su puikia kompresija.",
+  "og_url": "https://miconvert.com/lt/convert/jpg-to-avif",
+  "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-    "description": "Paverskite JPG vaizdus į AVIF formatą internetu nemokamai. Aukštos kokybės JPG į AVIF konversija su puikia kompresija."
-
-    "keywords": "jpg į avif, paversti jpg į avif, nemokamas jpg į avif, internetinis avif konverteris, vaizdo konversija"
-
-    "canonical": "https://miconvert.com/lt/convert/jpg-to-avif"
-
-    "og_title": "Paversti JPG į AVIF - Nemokamas internetinis JPG į AVIF konverteris"
-
-    "og_description": "Paverskite JPG vaizdus į AVIF formatą internetu nemokamai. Aukštos kokybės JPG į AVIF konversija su puikia kompresija."
-
-    "og_url": "https://miconvert.com/lt/convert/jpg-to-avif"
-
-    "og_image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Paversti JPG į AVIF internetu"
+    "title": "Paversti JPG į AVIF internetu",
+  "description": "Nemokamas JPG į AVIF konverteris su puikia kompresija ir kokybe. Veikia bet kuriame įrenginyje — registracija nereikalinga."
 
-    "description": "Nemokamas JPG į AVIF konverteris su puikia kompresija ir kokybe. Veikia bet kuriame įrenginyje — registracija nereikalinga."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-avif"
-
-    "title": "JPG į AVIF konverteris"
-
-    "description": "Paverskite JPG vaizdus į AVIF su modernia kompresija ir aukšta kokybe."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "jpg-to-avif",
+  "title": "JPG į AVIF konverteris",
+  "description": "Paverskite JPG vaizdus į AVIF su modernia kompresija ir aukšta kokybe.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Aukštos kokybės AVIF išvestis",
+  "Puiki kompresija",
+  "Modernus internetui paruoštas formatas",
+  "Nemokamas internetinis įrankis"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Aukštos kokybės AVIF išvestis"
-
-      "Puiki kompresija"
-
-      "Modernus internetui paruoštas formatas"
-
-      "Nemokamas internetinis įrankis"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:2:0"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:2:0",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG į AVIF konversija baigta"
+    "title": "JPG į AVIF konversija baigta",
+  "back_button": "Grįžti į konverterį",
+  "convert_another": "Paversti kitą JPG",
+  "quick_conversions": "Greitos konversijos:"
 
-    "back_button": "Grįžti į konverterį"
-
-    "convert_another": "Paversti kitą JPG"
-
-    "quick_conversions": "Greitos konversijos:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Kodėl paversti JPG į AVIF?"
+      "title": "Kodėl paversti JPG į AVIF?",
+  "description": "<p>AVIF (AV1 vaizdo failo formatas) yra naujos kartos formatas, kuris suteikia mažesnius failus, išlaikant panašią arba geresnę kokybę nei JPG:</p><ul><li><strong>Puiki kompresija:</strong> Dažnai 30–50% mažesni nei JPG, išlaikant panašią kokybę.</li><li><strong>Aukšta kokybė:</strong> Geresnis detalių išlaikymas ir mažiau artefaktų esant žemiems bitų greičiams.</li><li><strong>Modernios funkcijos:</strong> Palaiko skaidrumą, HDR ir plačią spalvų gamą.</li><li><strong>Interneto našumas:</strong> Mažesni vaizdai = greitesnės puslapiai ir geresni Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (AV1 vaizdo failo formatas) yra naujos kartos formatas, kuris suteikia mažesnius failus, išlaikant panašią arba geresnę kokybę nei JPG:</p><ul><li><strong>Puiki kompresija:</strong> Dažnai 30–50% mažesni nei JPG, išlaikant panašią kokybę.</li><li><strong>Aukšta kokybė:</strong> Geresnis detalių išlaikymas ir mažiau artefaktų esant žemiems bitų greičiams.</li><li><strong>Modernios funkcijos:</strong> Palaiko skaidrumą, HDR ir plačią spalvų gamą.</li><li><strong>Interneto našumas:</strong> Mažesni vaizdai = greitesnės puslapiai ir geresni Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Kaip paversti JPG į AVIF internetu",
+  "description": "<ol><li>Paspauskite <em>Įkelti JPG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol apdorojimas bus baigtas.</li><li>Paspauskite <em>Parsisiųsti AVIF</em>, kad išsaugotumėte optimizuotą vaizdą.</li></ol><p>Konverteris automatiškai subalansuoja kokybę ir dydį tipiniam interneto naudojimui.</p>"
 
-    }
-    {
-      "title": "Kaip paversti JPG į AVIF internetu"
+    },
+  {
+      "title": "AVIF vs JPG: Pagrindiniai skirtumai",
+  "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompresija</td><td>Prarandanti (JPEG)</td><td>Pažangi, efektyvesnė (AV1)</td></tr><tr><td>Failo dydis</td><td>Pagrindinis</td><td>≈30–50% mažesni esant panašiai kokybei</td></tr><tr><td>Skaidrumas</td><td>Ne</td><td>Taip</td></tr><tr><td>HDR/Plati gama</td><td>Ribota</td><td>Palaikoma</td></tr><tr><td>Naršyklių palaikymas</td><td>Visuotinis</td><td>Modernios naršyklės (rekomenduojama naudoti atsargines)</td></tr></tbody></table>"
 
-      "description": "<ol><li>Paspauskite <em>Įkelti JPG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol apdorojimas bus baigtas.</li><li>Paspauskite <em>Parsisiųsti AVIF</em>, kad išsaugotumėte optimizuotą vaizdą.</li></ol><p>Konverteris automatiškai subalansuoja kokybę ir dydį tipiniam interneto naudojimui.</p>"
+    },
+  {
+      "title": "Palaikomi limitai ir formatai",
+  "description": "<ul><li><strong>Priimami įvesties formatai:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodavimas:</strong> Kokybė ~80, greitis 4 (subalansuotas)</li></ul>"
 
-    }
-    {
-      "title": "AVIF vs JPG: Pagrindiniai skirtumai"
+    },
+  {
+      "title": "Problemos sprendimas",
+  "description": "<ul><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad failas yra JPG/JPEG ir ≤ 16&nbsp;MB.</li><li><strong>Spalvų pasikeitimas:</strong> Paverskite vaizdus į sRGB prieš įkeliant, kad užtikrintumėte nuoseklias interneto spalvas.</li><li><strong>Senesnės naršyklės:</strong> Pateikite JPG/WebP atsargines su <code>&lt;picture&gt;</code>, jei AVIF nepalaikomas.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Funkcija</th><th>JPG</th><th>AVIF</th></tr></thead><tbody><tr><td>Kompresija</td><td>Prarandanti (JPEG)</td><td>Pažangi, efektyvesnė (AV1)</td></tr><tr><td>Failo dydis</td><td>Pagrindinis</td><td>≈30–50% mažesni esant panašiai kokybei</td></tr><tr><td>Skaidrumas</td><td>Ne</td><td>Taip</td></tr><tr><td>HDR/Plati gama</td><td>Ribota</td><td>Palaikoma</td></tr><tr><td>Naršyklių palaikymas</td><td>Visuotinis</td><td>Modernios naršyklės (rekomenduojama naudoti atsargines)</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Palaikomi limitai ir formatai"
-
-      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Kodavimas:</strong> Kokybė ~80, greitis 4 (subalansuotas)</li></ul>"
-
-    }
-    {
-      "title": "Problemos sprendimas"
-
-      "description": "<ul><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad failas yra JPG/JPEG ir ≤ 16&nbsp;MB.</li><li><strong>Spalvų pasikeitimas:</strong> Paverskite vaizdus į sRGB prieš įkeliant, kad užtikrintumėte nuoseklias interneto spalvas.</li><li><strong>Senesnės naršyklės:</strong> Pateikite JPG/WebP atsargines su <code>&lt;picture&gt;</code>, jei AVIF nepalaikomas.</li></ul>"
-
-    }
-    {
-      "title": "Naudojimo atvejai: Kada paversti JPG į AVIF"
-
-      "description": "<ul><li><strong>Interneto optimizavimas:</strong> Pagreitinkite puslapius ir pagerinkite LCP.</li><li><strong>Mobiliosios programos:</strong> Sumažinkite pralaidumą ir atminties naudojimą.</li><li><strong>Didelės nuotraukų bibliotekos:</strong> Išsaugokite disko vietą be akivaizdaus kokybės praradimo.</li></ul>"
+    },
+  {
+      "title": "Naudojimo atvejai: Kada paversti JPG į AVIF",
+  "description": "<ul><li><strong>Interneto optimizavimas:</strong> Pagreitinkite puslapius ir pagerinkite LCP.</li><li><strong>Mobiliosios programos:</strong> Sumažinkite pralaidumą ir atminties naudojimą.</li><li><strong>Didelės nuotraukų bibliotekos:</strong> Išsaugokite disko vietą be akivaizdaus kokybės praradimo.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ar šis JPG į AVIF konverteris nemokamas?"
+      "question": "Ar šis JPG į AVIF konverteris nemokamas?",
+  "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
 
-      "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+    },
+  {
+      "question": "Ar AVIF veiks visose naršyklėse?",
+  "answer": "AVIF palaiko modernios naršyklės (Chrome, Firefox, Safari, Edge). Senesnėms naršyklėms pateikite JPG/WebP atsargines."
 
-    }
-    {
-      "question": "Ar AVIF veiks visose naršyklėse?"
+    },
+  {
+      "question": "Kiek mažesni yra AVIF failai, palyginti su JPG?",
+  "answer": "Dažniausiai 30–50% mažesni esant panašiai suvokiamai kokybei, nors rezultatai gali skirtis priklausomai nuo vaizdo."
 
-      "answer": "AVIF palaiko modernios naršyklės (Chrome, Firefox, Safari, Edge). Senesnėms naršyklėms pateikite JPG/WebP atsargines."
+    },
+  {
+      "question": "Kokie failo dydžiai yra palaikomi?",
+  "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
 
-    }
-    {
-      "question": "Kiek mažesni yra AVIF failai, palyginti su JPG?"
+    },
+  {
+      "question": "Ar mano failai yra saugūs?",
+  "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konversijai."
 
-      "answer": "Dažniausiai 30–50% mažesni esant panašiai suvokiamai kokybei, nors rezultatai gali skirtis priklausomai nuo vaizdo."
+    },
+  {
+      "question": "Ar galiu vienu metu konvertuoti kelis JPG?",
+  "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite grupinį įrankį."
 
-    }
-    {
-      "question": "Kokie failo dydžiai yra palaikomi?"
-
-      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
-
-    }
-    {
-      "question": "Ar mano failai yra saugūs?"
-
-      "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konversijai."
-
-    }
-    {
-      "question": "Ar galiu vienu metu konvertuoti kelis JPG?"
-
-      "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite grupinį įrankį."
-
-    }
-    {
-      "question": "Ar AVIF geresnis už JPG svetainėms?"
-
-      "answer": "Taip. AVIF paprastai suteikia mažesnius failus, išlaikant panašią kokybę, taip pagerindamas įkėlimo greitį ir Core Web Vitals."
+    },
+  {
+      "question": "Ar AVIF geresnis už JPG svetainėms?",
+  "answer": "Taip. AVIF paprastai suteikia mažesnius failus, išlaikant panašią kokybę, taip pagerindamas įkėlimo greitį ir Core Web Vitals."
 
     }
-  ]
-  "note": "AVIF gali nesirodyti kai kuriose senesnėse programose. Naudokite <code>&lt;picture&gt;</code> elementą su JPG/WebP atsarginėmis, kad užtikrintumėte maksimalią suderinamumą."
-
+  ],
+  "note": "AVIF gali nesirodyti kai kuriose senesnėse programose. Naudokite <code>&lt;picture&gt;</code> elementą su JPG/WebP atsarginėmis, kad užtikrintumėte maksimalią suderinamumą.",
   "related_links": [
     {
-      "title": "Paversti AVIF į JPG"
+      "title": "Paversti AVIF į JPG",
+  "url": "/lt/convert/avif-to-jpg"
 
-      "url": "/lt/convert/avif-to-jpg"
+    },
+  {
+      "title": "Paversti PNG į AVIF",
+  "url": "/lt/convert/png-to-avif"
 
-    }
-    {
-      "title": "Paversti PNG į AVIF"
+    },
+  {
+      "title": "Paversti WebP į AVIF",
+  "url": "/lt/convert/webp-to-avif"
 
-      "url": "/lt/convert/png-to-avif"
-
-    }
-    {
-      "title": "Paversti WebP į AVIF"
-
-      "url": "/lt/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Suspausti AVIF vaizdus"
-
-      "url": "/lt/compress/avif"
+    },
+  {
+      "title": "Suspausti AVIF vaizdus",
+  "url": "/lt/compress/avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG į AVIF konverteris - Nemokamai ir internetu"
-
-      "url": "https://miconvert.com/lt/convert/jpg-to-avif"
-
-      "description": "Nemokamas internetinis įrankis, skirtas paversti JPG vaizdus į AVIF su puikia kompresija ir aukšta kokybe."
-
-      "inLanguage": "lt"
-
-      "image": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG į AVIF konverteris - Nemokamai ir internetu",
+  "url": "https://miconvert.com/lt/convert/jpg-to-avif",
+  "description": "Nemokamas internetinis įrankis, skirtas paversti JPG vaizdus į AVIF su puikia kompresija ir aukšta kokybe.",
+  "inLanguage": "lt",
+  "image": "https://miconvert.com/images/jpg-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Pradžia",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Pradžia"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Paversti",
+  "item": "https://miconvert.com/lt/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Paversti"
-
-          "item": "https://miconvert.com/lt/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG į AVIF"
-
-          "item": "https://miconvert.com/lt/convert/jpg-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG į AVIF",
+  "item": "https://miconvert.com/lt/convert/jpg-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG į AVIF konverteris",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/lt/convert/jpg-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Puiki kompresija",
+  "Moderni AVIF išvestis",
+  "Greitas apdorojimas"
 
-      "name": "JPG į AVIF konverteris"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lt/convert/jpg-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Puiki kompresija"
-
-        "Moderni AVIF išvestis"
-
-        "Greitas apdorojimas"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ar šis JPG į AVIF konverteris nemokamas?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+          "@type": "Question",
+  "name": "Ar šis JPG į AVIF konverteris nemokamas?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kokie failo dydžiai yra palaikomi?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
+        },
+  {
+          "@type": "Question",
+  "name": "Kokie failo dydžiai yra palaikomi?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ar AVIF veiks visose naršyklėse?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF palaiko modernios naršyklės, tačiau turėtumėte pateikti JPG/WebP atsargines senesnėms."
+        },
+  {
+          "@type": "Question",
+  "name": "Ar AVIF veiks visose naršyklėse?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF palaiko modernios naršyklės, tačiau turėtumėte pateikti JPG/WebP atsargines senesnėms."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kaip paversti JPG į AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kaip paversti JPG į AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Paspauskite Įkelti JPG ir pasirinkite savo failą."
 
-          "text": "Paspauskite Įkelti JPG ir pasirinkite savo failą."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Palaukite, kol apdorojimas bus baigtas."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Paspauskite Parsisiųsti AVIF, kad išsaugotumėte optimizuotą vaizdą."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Palaukite, kol apdorojimas bus baigtas."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Paspauskite Parsisiųsti AVIF, kad išsaugotumėte optimizuotą vaizdą."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG į AVIF konverteris"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

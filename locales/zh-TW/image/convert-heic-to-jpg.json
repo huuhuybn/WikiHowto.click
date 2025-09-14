@@ -1,373 +1,283 @@
 {
-  "lang": "zh-TW"
-
-  "lang_name": "中文（繁體）"
-
-  "title": "HEIC 轉 JPG 轉換器 - 免費及線上 | miconvert.com"
-
-  "sub_title": "在線將 HEIC 圖像轉換為 JPG 格式，具有高品質、更好的兼容性，且無水印。"
-
-  "hint": "上傳您的 HEIC 圖像以開始轉換..."
-
-  "btn_download": "轉換為 JPG"
-
-  "btn_paste": "上傳 HEIC"
-
-  "btn_clear": "清除"
-
+  "lang": "zh-TW",
+  "lang_name": "中文（繁體）",
+  "title": "HEIC 轉 JPG 轉換器 - 免費及線上 | miconvert.com",
+  "sub_title": "在線將 HEIC 圖像轉換為 JPG 格式，具有高品質、更好的兼容性，且無水印。",
+  "hint": "上傳您的 HEIC 圖像以開始轉換...",
+  "btn_download": "轉換為 JPG",
+  "btn_paste": "上傳 HEIC",
+  "btn_clear": "清除",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>將您的 <strong>HEIC 轉 JPG</strong> 以實現通用兼容性！我們的免費在線轉換器將您的 iPhone/iPad 照片轉換為廣泛支持的 JPG。HEIC（基於 HEIF 標準）提供出色的壓縮，但許多應用程序和平台仍然期望 JPG。無論您是需要與 Android/Windows 用戶共享、上傳到社交媒體，還是確保與舊軟件的兼容性，這個工具都能輕鬆實現。</p><p>JPG 幾乎在所有地方都受到支持。轉換速度快，並通過調整的 JPEG 設置保持視覺質量——非常適合攝影師、創作者和任何需要最大兼容性的人。</p>"
-
+  },
+  "description": "<p>將您的 <strong>HEIC 轉 JPG</strong> 以實現通用兼容性！我們的免費在線轉換器將您的 iPhone/iPad 照片轉換為廣泛支持的 JPG。HEIC（基於 HEIF 標準）提供出色的壓縮，但許多應用程序和平台仍然期望 JPG。無論您是需要與 Android/Windows 用戶共享、上傳到社交媒體，還是確保與舊軟件的兼容性，這個工具都能輕鬆實現。</p><p>JPG 幾乎在所有地方都受到支持。轉換速度快，並通過調整的 JPEG 設置保持視覺質量——非常適合攝影師、創作者和任何需要最大兼容性的人。</p>",
   "head": {
-    "title": "在線轉換 HEIC 為 JPG - 免費 HEIC 轉 JPG 轉換器 | miconvert.com"
+    "title": "在線轉換 HEIC 為 JPG - 免費 HEIC 轉 JPG 轉換器 | miconvert.com",
+  "description": "在線將 HEIC 轉換為 JPG，具有高品質、更好的兼容性，且無水印。免費、快速且安全的 HEIC 轉 JPG 轉換工具。",
+  "keywords": "heic 轉 jpg, 轉換 heic 為 jpg, 免費 heic 轉 jpg, 在線 heic 轉換器, iphone 照片",
+  "canonical": "https://miconvert.com/zh-tw/convert/heic-to-jpg",
+  "og_title": "HEIC 轉 JPG 轉換器 - 免費及線上",
+  "og_description": "將 HEIC 圖像轉換為 JPG 格式，具有高品質和更好的兼容性。100% 免費、快速且安全。",
+  "og_url": "https://miconvert.com/zh-tw/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "在線將 HEIC 轉換為 JPG，具有高品質、更好的兼容性，且無水印。免費、快速且安全的 HEIC 轉 JPG 轉換工具。"
-
-    "keywords": "heic 轉 jpg, 轉換 heic 為 jpg, 免費 heic 轉 jpg, 在線 heic 轉換器, iphone 照片"
-
-    "canonical": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
-
-    "og_title": "HEIC 轉 JPG 轉換器 - 免費及線上"
-
-    "og_description": "將 HEIC 圖像轉換為 JPG 格式，具有高品質和更好的兼容性。100% 免費、快速且安全。"
-
-    "og_url": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "在線轉換 HEIC 為 JPG"
+    "title": "在線轉換 HEIC 為 JPG",
+  "description": "免費且快速的 HEIC 轉 JPG 轉換器，具有高品質和通用兼容性。可在任何設備上立即使用，無需註冊。"
 
-    "description": "免費且快速的 HEIC 轉 JPG 轉換器，具有高品質和通用兼容性。可在任何設備上立即使用，無需註冊。"
-
-  }
+  },
   "h2": [
     {
-      "title": "為什麼要將 HEIC 轉換為 JPG？"
+      "title": "為什麼要將 HEIC 轉換為 JPG？",
+  "description": "<p>HEIC 效率高，但 JPG 是通用接受的格式。當您需要時進行轉換：</p><ul><li><strong>通用兼容性：</strong> JPG 在各種設備、應用程序和平台上均可使用。</li><li><strong>跨平台共享：</strong> 無需問題即可將照片發送給 Android/Windows 用戶。</li><li><strong>社交上傳：</strong> 大多數平台更喜歡或要求 JPG。</li><li><strong>舊版支持：</strong> 舊應用程序無法可靠地讀取 HEIC。</li></ul>"
 
-      "description": "<p>HEIC 效率高，但 JPG 是通用接受的格式。當您需要時進行轉換：</p><ul><li><strong>通用兼容性：</strong> JPG 在各種設備、應用程序和平台上均可使用。</li><li><strong>跨平台共享：</strong> 無需問題即可將照片發送給 Android/Windows 用戶。</li><li><strong>社交上傳：</strong> 大多數平台更喜歡或要求 JPG。</li><li><strong>舊版支持：</strong> 舊應用程序無法可靠地讀取 HEIC。</li></ul>"
+    },
+  {
+      "title": "如何在線將 HEIC 轉換為 JPG",
+  "description": "<ol><li>點擊 <em>上傳 HEIC</em> 並選擇您的文件。</li><li>等待處理。</li><li>點擊 <em>下載 JPG</em> 以保存結果。</li></ol><p>無需技術步驟——質量會自動優化。</p>"
 
-    }
-    {
-      "title": "如何在線將 HEIC 轉換為 JPG"
+    },
+  {
+      "title": "HEIC 與 JPG：主要區別",
+  "description": "<ul><li><strong>文件大小：</strong> HEIC 通常在相似質量下比 JPG 更小。</li><li><strong>兼容性：</strong> JPG 幾乎具有通用支持。</li><li><strong>質量：</strong> 兩者都可以看起來很棒；JPG 使用有損壓縮。</li><li><strong>生態系統：</strong> HEIC 在 Apple 上很常見；JPG 無處不在。</li></ul>"
 
-      "description": "<ol><li>點擊 <em>上傳 HEIC</em> 並選擇您的文件。</li><li>等待處理。</li><li>點擊 <em>下載 JPG</em> 以保存結果。</li></ol><p>無需技術步驟——質量會自動優化。</p>"
+    },
+  {
+      "title": "支持的限制與格式",
+  "description": "<ul><li><strong>接受的輸入：</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>最大文件大小：</strong> 每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG 設置：</strong> 質量 90（漸進式，mozjpeg）</li></ul>"
 
-    }
-    {
-      "title": "HEIC 與 JPG：主要區別"
+    },
+  {
+      "title": "我們的 HEIC 轉 JPG 轉換器的特點",
+  "description": "<ul><li>100% 免費，無水印</li><li>高品質 JPEG 輸出</li><li>移動友好的用戶界面</li><li>簡單、快速的工作流程</li></ul>"
 
-      "description": "<ul><li><strong>文件大小：</strong> HEIC 通常在相似質量下比 JPG 更小。</li><li><strong>兼容性：</strong> JPG 幾乎具有通用支持。</li><li><strong>質量：</strong> 兩者都可以看起來很棒；JPG 使用有損壓縮。</li><li><strong>生態系統：</strong> HEIC 在 Apple 上很常見；JPG 無處不在。</li></ul>"
+    },
+  {
+      "title": "什麼是 HEIC？",
+  "description": "<p>HEIC 是使用 HEIF（高效圖像文件格式）標準存儲的圖像的文件擴展名——通常使用 HEVC（H.265）編碼。它提供強大的壓縮和良好的質量，但並不普遍支持。</p>"
 
-    }
-    {
-      "title": "支持的限制與格式"
+    },
+  {
+      "title": "什麼是 JPG？",
+  "description": "<p>JPG（JPEG）是最廣泛支持的圖像格式。它使用有損壓縮來平衡質量和大小，使其非常適合共享和網絡使用。</p>"
 
-      "description": "<ul><li><strong>接受的輸入：</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>最大文件大小：</strong> 每個文件最多 16&nbsp;MB</li><li><strong>輸出：</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG 設置：</strong> 質量 90（漸進式，mozjpeg）</li></ul>"
+    },
+  {
+      "title": "故障排除",
+  "description": "<ul><li><strong>上傳失敗：</strong> 確保文件為 HEIC/HEIF 且 ≤ 16&nbsp;MB。</li><li><strong>旋轉的圖像：</strong> 一些查看器忽略 EXIF 方向——如有需要，下載後旋轉。</li><li><strong>顏色偏移：</strong> 寬色域照片可能看起來不同；如有需要，使用 sRGB 進行轉換。</li><li><strong>實時照片：</strong> 只有靜態 HEIC 被轉換；配對的視頻（MOV）不包括在內。</li></ul>"
 
-    }
-    {
-      "title": "我們的 HEIC 轉 JPG 轉換器的特點"
-
-      "description": "<ul><li>100% 免費，無水印</li><li>高品質 JPEG 輸出</li><li>移動友好的用戶界面</li><li>簡單、快速的工作流程</li></ul>"
-
-    }
-    {
-      "title": "什麼是 HEIC？"
-
-      "description": "<p>HEIC 是使用 HEIF（高效圖像文件格式）標準存儲的圖像的文件擴展名——通常使用 HEVC（H.265）編碼。它提供強大的壓縮和良好的質量，但並不普遍支持。</p>"
-
-    }
-    {
-      "title": "什麼是 JPG？"
-
-      "description": "<p>JPG（JPEG）是最廣泛支持的圖像格式。它使用有損壓縮來平衡質量和大小，使其非常適合共享和網絡使用。</p>"
-
-    }
-    {
-      "title": "故障排除"
-
-      "description": "<ul><li><strong>上傳失敗：</strong> 確保文件為 HEIC/HEIF 且 ≤ 16&nbsp;MB。</li><li><strong>旋轉的圖像：</strong> 一些查看器忽略 EXIF 方向——如有需要，下載後旋轉。</li><li><strong>顏色偏移：</strong> 寬色域照片可能看起來不同；如有需要，使用 sRGB 進行轉換。</li><li><strong>實時照片：</strong> 只有靜態 HEIC 被轉換；配對的視頻（MOV）不包括在內。</li></ul>"
+    },
+  {
+      "title": "使用案例",
+  "description": "<ul><li><strong>與非 Apple 用戶共享</strong>，無需兼容性問題。</li><li><strong>上傳到 CMS/社交</strong>，期望 JPG。</li><li><strong>在不讀取 HEIC 的應用中打印和編輯</strong>。</li></ul>"
 
     }
-    {
-      "title": "使用案例"
-
-      "description": "<ul><li><strong>與非 Apple 用戶共享</strong>，無需兼容性問題。</li><li><strong>上傳到 CMS/社交</strong>，期望 JPG。</li><li><strong>在不讀取 HEIC 的應用中打印和編輯</strong>。</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "這個 HEIC 轉 JPG 轉換器是免費的嗎？"
+      "question": "這個 HEIC 轉 JPG 轉換器是免費的嗎？",
+  "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
 
-      "answer": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+    },
+  {
+      "question": "將 HEIC 轉換為 JPG 時會失去質量嗎？",
+  "answer": "JPG 使用有損壓縮，因此可能會有輕微的質量損失。我們使用調整的設置（質量約 90，漸進式）來保持損失最小。"
 
-    }
-    {
-      "question": "將 HEIC 轉換為 JPG 時會失去質量嗎？"
+    },
+  {
+      "question": "哪些設備支持 HEIC？",
+  "answer": "HEIC/HEIF 在 Apple 設備上很常見。許多其他平台仍然默認偏好 JPG。"
 
-      "answer": "JPG 使用有損壓縮，因此可能會有輕微的質量損失。我們使用調整的設置（質量約 90，漸進式）來保持損失最小。"
+    },
+  {
+      "question": "支持哪些文件大小？",
+  "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
 
-    }
-    {
-      "question": "哪些設備支持 HEIC？"
+    },
+  {
+      "question": "我的文件安全嗎？",
+  "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
 
-      "answer": "HEIC/HEIF 在 Apple 設備上很常見。許多其他平台仍然默認偏好 JPG。"
+    },
+  {
+      "question": "我可以一次轉換多個 HEIC 文件嗎？",
+  "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
 
-    }
-    {
-      "question": "支持哪些文件大小？"
-
-      "answer": "您可以上傳每個文件最多 16&nbsp;MB 的圖像。"
-
-    }
-    {
-      "question": "我的文件安全嗎？"
-
-      "answer": "文件會自動處理，並且不會保留超過轉換所需的時間。"
-
-    }
-    {
-      "question": "我可以一次轉換多個 HEIC 文件嗎？"
-
-      "answer": "此頁面一次轉換一個文件。對於批量需求，請重複該過程或使用批量工具。"
-
-    }
-    {
-      "question": "我什麼時候應該使用 JPG 而不是 HEIC？"
-
-      "answer": "在需要最大兼容性、上傳到不支持 HEIC 的平台或與非 Apple 設備共享時，使用 JPG。"
+    },
+  {
+      "question": "我什麼時候應該使用 JPG 而不是 HEIC？",
+  "answer": "在需要最大兼容性、上傳到不支持 HEIC 的平台或與非 Apple 設備共享時，使用 JPG。"
 
     }
-  ]
-  "note": "JPG 使用有損壓縮；輕微的大小/質量權衡是正常的。對於透明度需求，請將 HEIC 轉換為 PNG。 "
-
+  ],
+  "note": "JPG 使用有損壓縮；輕微的大小/質量權衡是正常的。對於透明度需求，請將 HEIC 轉換為 PNG。 ",
   "related_links": [
     {
-      "title": "將 HEIC 轉換為 PNG"
+      "title": "將 HEIC 轉換為 PNG",
+  "url": "/zh-tw/convert/heic-to-png"
 
-      "url": "/zh-tw/convert/heic-to-png"
+    },
+  {
+      "title": "將 JPG 轉換為 HEIC",
+  "url": "/zh-tw/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "將 JPG 轉換為 HEIC"
+    },
+  {
+      "title": "將 HEIC 轉換為 WebP",
+  "url": "/zh-tw/convert/heic-to-webp"
 
-      "url": "/zh-tw/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "將 HEIC 轉換為 WebP"
-
-      "url": "/zh-tw/convert/heic-to-webp"
-
-    }
-    {
-      "title": "在線壓縮 JPG"
-
-      "url": "/zh-tw/compress/jpg"
+    },
+  {
+      "title": "在線壓縮 JPG",
+  "url": "/zh-tw/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 版權所有。"
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 版權所有。",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC 轉 JPG 轉換器 - 免費及線上"
-
-      "url": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
-
-      "description": "免費在線工具將 HEIC 圖像轉換為 JPG，具有高品質和通用兼容性。"
-
-      "inLanguage": "zh-TW"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEIC 轉 JPG 轉換器 - 免費及線上",
+  "url": "https://miconvert.com/zh-tw/convert/heic-to-jpg",
+  "description": "免費在線工具將 HEIC 圖像轉換為 JPG，具有高品質和通用兼容性。",
+  "inLanguage": "zh-TW",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "首頁",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "首頁"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "轉換",
+  "item": "https://miconvert.com/zh-tw/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "轉換"
-
-          "item": "https://miconvert.com/zh-tw/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC 轉 JPG"
-
-          "item": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC 轉 JPG",
+  "item": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEIC 轉 JPG 轉換器",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/zh-tw/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "高品質 JPEG 輸出",
+  "漸進式編碼",
+  "快速處理"
 
-      "name": "HEIC 轉 JPG 轉換器"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/zh-tw/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "高品質 JPEG 輸出"
-
-        "漸進式編碼"
-
-        "快速處理"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "這個 HEIC 轉 JPG 轉換器是免費的嗎？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
+          "@type": "Question",
+  "name": "這個 HEIC 轉 JPG 轉換器是免費的嗎？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "是的，這個轉換器完全免費，沒有隱藏費用或訂閱。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "支持哪些文件大小？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "您可以上傳每個文件最多 16 MB 的圖像。"
+        },
+  {
+          "@type": "Question",
+  "name": "支持哪些文件大小？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "您可以上傳每個文件最多 16 MB 的圖像。"
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "將 HEIC 轉換為 JPG 時會失去質量嗎？"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG 使用有損壓縮，但我們使用調整的設置來最小化可見損失。"
+        },
+  {
+          "@type": "Question",
+  "name": "將 HEIC 轉換為 JPG 時會失去質量嗎？",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPG 使用有損壓縮，但我們使用調整的設置來最小化可見損失。"
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "如何將 HEIC 轉換為 JPG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "如何將 HEIC 轉換為 JPG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "點擊上傳 HEIC 並選擇您的文件。"
 
-          "text": "點擊上傳 HEIC 並選擇您的文件。"
+        },
+  {
+          "@type": "HowToStep",
+  "text": "等待處理完成。"
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "點擊下載 JPG 以保存結果。"
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "等待處理完成。"
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "點擊下載 JPG 以保存結果。"
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEIC 轉 JPG 轉換器"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

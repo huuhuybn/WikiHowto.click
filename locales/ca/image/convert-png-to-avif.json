@@ -1,373 +1,279 @@
 {
-  "lang": "ca"
-
-  "lang_name": "Català"
-
-  "title": "Conversor de PNG a AVIF - Gratuït i en línia | miconvert.com"
-
-  "sub_title": "Converteix imatges PNG a AVIF en línia amb una excel·lent compressió i alta qualitat. Preserva la transparència. Sense marques d'aigua."
-
-  "hint": "Puja la teva imatge PNG per començar a convertir..."
-
-  "btn_download": "Converteix a AVIF"
-
-  "btn_paste": "Puja PNG"
-
-  "btn_clear": "Esborrar"
-
-  "ogImage": "https://miconvert.com/images/png-to-avif.jpg"
-
+  "lang": "ca",
+  "lang_name": "Català",
+  "title": "Conversor de PNG a AVIF - Gratuït i en línia | miconvert.com",
+  "sub_title": "Converteix imatges PNG a AVIF en línia amb una excel·lent compressió i alta qualitat. Preserva la transparència. Sense marques d'aigua.",
+  "hint": "Puja la teva imatge PNG per començar a convertir...",
+  "btn_download": "Converteix a AVIF",
+  "btn_paste": "Puja PNG",
+  "btn_clear": "Esborrar",
+  "ogImage": "https://miconvert.com/images/png-to-avif.jpg",
   "head": {
-    "title": "Converteix PNG a AVIF - Conversor de PNG a AVIF en línia gratuït | miconvert.com"
+    "title": "Converteix PNG a AVIF - Conversor de PNG a AVIF en línia gratuït | miconvert.com",
+  "description": "Converteix imatges PNG a AVIF en línia de forma gratuïta. Conversió de PNG a AVIF d'alta qualitat amb una excel·lent compressió i suport de transparència.",
+  "keywords": "png a avif, convertir png a avif, avif gratuït, conversor avif en línia, conversió d'imatges",
+  "canonical": "https://miconvert.com/ca/convert/png-to-avif",
+  "og_title": "Converteix PNG a AVIF - Conversor de PNG a AVIF en línia gratuït",
+  "og_description": "Converteix imatges PNG a AVIF amb una excel·lent compressió i transparència preservada. Gratuït, ràpid i segur.",
+  "og_url": "https://miconvert.com/ca/convert/png-to-avif",
+  "og_image": "https://miconvert.com/images/png-to-avif.jpg"
 
-    "description": "Converteix imatges PNG a AVIF en línia de forma gratuïta. Conversió de PNG a AVIF d'alta qualitat amb una excel·lent compressió i suport de transparència."
-
-    "keywords": "png a avif, convertir png a avif, avif gratuït, conversor avif en línia, conversió d'imatges"
-
-    "canonical": "https://miconvert.com/ca/convert/png-to-avif"
-
-    "og_title": "Converteix PNG a AVIF - Conversor de PNG a AVIF en línia gratuït"
-
-    "og_description": "Converteix imatges PNG a AVIF amb una excel·lent compressió i transparència preservada. Gratuït, ràpid i segur."
-
-    "og_url": "https://miconvert.com/ca/convert/png-to-avif"
-
-    "og_image": "https://miconvert.com/images/png-to-avif.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Converteix PNG a AVIF en línia"
+    "title": "Converteix PNG a AVIF en línia",
+  "description": "Conversor gratuït i ràpid de PNG a AVIF amb una excel·lent compressió i suport complet de transparència. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
 
-    "description": "Conversor gratuït i ràpid de PNG a AVIF amb una excel·lent compressió i suport complet de transparència. Funciona instantàniament en qualsevol dispositiu — no es requereix registre."
-
-  }
+  },
   "converter": {
-    "type": "png-to-avif"
-
-    "title": "Conversor de PNG a AVIF"
-
-    "description": "Converteix imatges PNG a AVIF amb compressió moderna mentre es preserva la transparència alpha."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "AVIF"
-
-    "allowedTypes": [
+    "type": "png-to-avif",
+  "title": "Conversor de PNG a AVIF",
+  "description": "Converteix imatges PNG a AVIF amb compressió moderna mentre es preserva la transparència alpha.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "AVIF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/avif"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/avif",
+  "outputExtension": ".avif",
+  "quality": 80,
+  "features": [
+      "Sortida AVIF d'alta qualitat",
+  "Excel·lent compressió",
+  "Preserva la transparència (alpha)",
+  "Eina en línia gratuïta"
 
-    "outputExtension": ".avif"
-
-    "quality": 80
-    "features": [
-      "Sortida AVIF d'alta qualitat"
-
-      "Excel·lent compressió"
-
-      "Preserva la transparència (alpha)"
-
-      "Eina en línia gratuïta"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "avif": {
-        "quality": 80
-        "speed": 4
-        "subsample": "4:4:4"
-
-        "lossless": false
+        "quality": 80,
+  "speed": 4,
+  "subsample": "4:4:4",
+  "lossless": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversió de PNG a AVIF completada"
+    "title": "Conversió de PNG a AVIF completada",
+  "back_button": "Torna al conversor",
+  "convert_another": "Converteix un altre PNG",
+  "quick_conversions": "Conversions ràpides:"
 
-    "back_button": "Torna al conversor"
-
-    "convert_another": "Converteix un altre PNG"
-
-    "quick_conversions": "Conversions ràpides:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Per què convertir PNG a AVIF?"
+      "title": "Per què convertir PNG a AVIF?",
+  "description": "<p>AVIF (Format de Fitxer d'Imatge AV1) és un format de nova generació amb una eficiència excepcional:</p><ul><li><strong>Compressió superior:</strong> Sovint 30–50% més petit que PNG amb una qualitat similar.</li><li><strong>Codec modern:</strong> Basat en l'estàndard AV1.</li><li><strong>Alta fidelitat:</strong> Gran retenció de detalls a mides més petites.</li><li><strong>Rendiment web:</strong> Imatges més petites = pàgines més ràpides i millors Core Web Vitals.</li></ul>"
 
-      "description": "<p>AVIF (Format de Fitxer d'Imatge AV1) és un format de nova generació amb una eficiència excepcional:</p><ul><li><strong>Compressió superior:</strong> Sovint 30–50% més petit que PNG amb una qualitat similar.</li><li><strong>Codec modern:</strong> Basat en l'estàndard AV1.</li><li><strong>Alta fidelitat:</strong> Gran retenció de detalls a mides més petites.</li><li><strong>Rendiment web:</strong> Imatges més petites = pàgines més ràpides i millors Core Web Vitals.</li></ul>"
+    },
+  {
+      "title": "Com convertir PNG a AVIF en línia",
+  "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega AVIF</em> per desar la teva imatge.</li></ol><p>El conversor equilibra automàticament la qualitat i la mida per a un ús web comú.</p>"
 
-    }
-    {
-      "title": "Com convertir PNG a AVIF en línia"
+    },
+  {
+      "title": "Comparació AVIF vs PNG",
+  "description": "<ul><li><strong>Mida del fitxer:</strong> AVIF és típicament 30–50% més petit que PNG.</li><li><strong>Qualitat:</strong> AVIF manté una qualitat forta a bitrates més baixos.</li><li><strong>Transparència:</strong> Ambdós suporten transparència alpha.</li><li><strong>Suport del navegador:</strong> AVIF funciona en navegadors moderns (proporciona alternatives si cal).</li></ul>"
 
-      "description": "<ol><li>Fes clic a <em>Puja PNG</em> i selecciona el teu fitxer.</li><li>Espera el processament i l'optimització.</li><li>Fes clic a <em>Descarrega AVIF</em> per desar la teva imatge.</li></ol><p>El conversor equilibra automàticament la qualitat i la mida per a un ús web comú.</p>"
+    },
+  {
+      "title": "Límits i formats suportats",
+  "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Codificació:</strong> Qualitat ≈ 80, velocitat 4, subsampling 4:4:4 per mantenir els vores nets</li></ul>"
 
-    }
-    {
-      "title": "Comparació AVIF vs PNG"
+    },
+  {
+      "title": "Solució de problemes",
+  "description": "<ul><li><strong>Navegadors antics:</strong> Utilitza l'element <code>&lt;picture&gt;</code> amb PNG/WebP com a alternativa.</li><li><strong>Halo als vores:</strong> 4:4:4 ajuda; si encara és visible, comença amb un PNG d'alta resolució o refina l'alpha.</li><li><strong>Necessites sense pèrdues:</strong> Considera PNG per necessitats de píxels perfectes, o estableix AVIF a sense pèrdues en fluxos de treball avançats.</li><li><strong>La pujada falla:</strong> Assegura't que el fitxer sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<ul><li><strong>Mida del fitxer:</strong> AVIF és típicament 30–50% més petit que PNG.</li><li><strong>Qualitat:</strong> AVIF manté una qualitat forta a bitrates més baixos.</li><li><strong>Transparència:</strong> Ambdós suporten transparència alpha.</li><li><strong>Suport del navegador:</strong> AVIF funciona en navegadors moderns (proporciona alternatives si cal).</li></ul>"
-
-    }
-    {
-      "title": "Límits i formats suportats"
-
-      "description": "<ul><li><strong>Entrada acceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Mida màxima del fitxer:</strong> fins a 16&nbsp;MB per fitxer</li><li><strong>Sortida:</strong> AVIF (<code>.avif</code>, MIME <code>image/avif</code>)</li><li><strong>Codificació:</strong> Qualitat ≈ 80, velocitat 4, subsampling 4:4:4 per mantenir els vores nets</li></ul>"
-
-    }
-    {
-      "title": "Solució de problemes"
-
-      "description": "<ul><li><strong>Navegadors antics:</strong> Utilitza l'element <code>&lt;picture&gt;</code> amb PNG/WebP com a alternativa.</li><li><strong>Halo als vores:</strong> 4:4:4 ajuda; si encara és visible, comença amb un PNG d'alta resolució o refina l'alpha.</li><li><strong>Necessites sense pèrdues:</strong> Considera PNG per necessitats de píxels perfectes, o estableix AVIF a sense pèrdues en fluxos de treball avançats.</li><li><strong>La pujada falla:</strong> Assegura't que el fitxer sigui PNG i ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "Casos d'ús: Quan convertir PNG a AVIF"
-
-      "description": "<ul><li><strong>Optimització web:</strong> Redueix la càrrega per a icones, interfícies d'usuari i gràfics amb transparència.</li><li><strong>Aplicacions mòbils:</strong> Menor ús d'ample de banda i emmagatzematge.</li><li><strong>Grans biblioteques:</strong> Estalvia espai en disc sense pèrdua de qualitat evident.</li></ul>"
+    },
+  {
+      "title": "Casos d'ús: Quan convertir PNG a AVIF",
+  "description": "<ul><li><strong>Optimització web:</strong> Redueix la càrrega per a icones, interfícies d'usuari i gràfics amb transparència.</li><li><strong>Aplicacions mòbils:</strong> Menor ús d'ample de banda i emmagatzematge.</li><li><strong>Grans biblioteques:</strong> Estalvia espai en disc sense pèrdua de qualitat evident.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "És gratuït aquest conversor de PNG a AVIF?"
+      "question": "És gratuït aquest conversor de PNG a AVIF?",
+  "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
 
-      "answer": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+    },
+  {
+      "question": "Funcionarà AVIF en tots els navegadors?",
+  "answer": "AVIF és compatible amb navegadors moderns (Chrome, Firefox, Safari, Edge). Proporciona alternatives PNG/WebP per als més antics."
 
-    }
-    {
-      "question": "Funcionarà AVIF en tots els navegadors?"
+    },
+  {
+      "question": "Quina és la mida més petita dels fitxers AVIF en comparació amb PNG?",
+  "answer": "Típicament 30–50% més petits amb una qualitat percebuda similar, depenent de la imatge."
 
-      "answer": "AVIF és compatible amb navegadors moderns (Chrome, Firefox, Safari, Edge). Proporciona alternatives PNG/WebP per als més antics."
+    },
+  {
+      "question": "Quines mides de fitxer són suportades?",
+  "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
 
-    }
-    {
-      "question": "Quina és la mida més petita dels fitxers AVIF en comparació amb PNG?"
+    },
+  {
+      "question": "Són segurs els meus fitxers?",
+  "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
 
-      "answer": "Típicament 30–50% més petits amb una qualitat percebuda similar, depenent de la imatge."
+    },
+  {
+      "question": "Puc convertir múltiples PNG alhora?",
+  "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repeteix el procés o utilitza una eina de lot."
 
-    }
-    {
-      "question": "Quines mides de fitxer són suportades?"
-
-      "answer": "Pots pujar imatges de fins a 16&nbsp;MB per fitxer."
-
-    }
-    {
-      "question": "Són segurs els meus fitxers?"
-
-      "answer": "Els fitxers es processen automàticament i no es retenen més temps del necessari per a la conversió."
-
-    }
-    {
-      "question": "Puc convertir múltiples PNG alhora?"
-
-      "answer": "Aquesta pàgina converteix un fitxer a la vegada. Per necessitats de volum, repeteix el procés o utilitza una eina de lot."
-
-    }
-    {
-      "question": "És AVIF millor que PNG per a llocs web?"
-
-      "answer": "Sovint sí per a mides de fitxer més petites amb bona qualitat; per a necessitats estrictament sense pèrdues o casos especials, PNG pot ser encara preferible."
+    },
+  {
+      "question": "És AVIF millor que PNG per a llocs web?",
+  "answer": "Sovint sí per a mides de fitxer més petites amb bona qualitat; per a necessitats estrictament sense pèrdues o casos especials, PNG pot ser encara preferible."
 
     }
-  ]
-  "note": "Per a la màxima compatibilitat, serveix AVIF amb una alternativa PNG/WebP utilitzant l'element <code>&lt;picture&gt;</code>."
-
+  ],
+  "note": "Per a la màxima compatibilitat, serveix AVIF amb una alternativa PNG/WebP utilitzant l'element <code>&lt;picture&gt;</code>.",
   "related_links": [
     {
-      "title": "Converteix AVIF a PNG"
+      "title": "Converteix AVIF a PNG",
+  "url": "/ca/convert/avif-to-png"
 
-      "url": "/ca/convert/avif-to-png"
+    },
+  {
+      "title": "Converteix PNG a WebP",
+  "url": "/ca/convert/png-to-webp"
 
-    }
-    {
-      "title": "Converteix PNG a WebP"
-
-      "url": "/ca/convert/png-to-webp"
-
-    }
-    {
-      "title": "Converteix JPG a AVIF"
-
-      "url": "/ca/convert/jpg-to-avif"
+    },
+  {
+      "title": "Converteix JPG a AVIF",
+  "url": "/ca/convert/jpg-to-avif"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Tots els drets reservats.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Conversor de PNG a AVIF - Gratuït i en línia"
-
-      "url": "https://miconvert.com/ca/convert/png-to-avif"
-
-      "description": "Eina en línia gratuïta per convertir imatges PNG a AVIF amb una excel·lent compressió i transparència preservada."
-
-      "inLanguage": "ca"
-
-      "image": "https://miconvert.com/images/png-to-avif.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Conversor de PNG a AVIF - Gratuït i en línia",
+  "url": "https://miconvert.com/ca/convert/png-to-avif",
+  "description": "Eina en línia gratuïta per convertir imatges PNG a AVIF amb una excel·lent compressió i transparència preservada.",
+  "inLanguage": "ca",
+  "image": "https://miconvert.com/images/png-to-avif.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Inici",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Inici"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertir",
+  "item": "https://miconvert.com/ca/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertir"
-
-          "item": "https://miconvert.com/ca/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG a AVIF"
-
-          "item": "https://miconvert.com/ca/convert/png-to-avif"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG a AVIF",
+  "item": "https://miconvert.com/ca/convert/png-to-avif"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Conversor de PNG a AVIF",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ca/convert/png-to-avif",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Excel·lent compressió",
+  "Preserva la transparència",
+  "Processament ràpid"
 
-      "name": "Conversor de PNG a AVIF"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ca/convert/png-to-avif"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Excel·lent compressió"
-
-        "Preserva la transparència"
-
-        "Processament ràpid"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-avif.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "És gratuït aquest conversor de PNG a AVIF?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
+          "@type": "Question",
+  "name": "És gratuït aquest conversor de PNG a AVIF?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, el conversor és completament gratuït sense càrrecs ocults ni subscripcions."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Quines mides de fitxer són suportades?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Pots pujar imatges de fins a 16 MB per fitxer."
+        },
+  {
+          "@type": "Question",
+  "name": "Quines mides de fitxer són suportades?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Pots pujar imatges de fins a 16 MB per fitxer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Funcionarà AVIF en tots els navegadors?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "AVIF és compatible amb navegadors moderns; proporciona alternatives PNG/WebP per als més antics."
+        },
+  {
+          "@type": "Question",
+  "name": "Funcionarà AVIF en tots els navegadors?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "AVIF és compatible amb navegadors moderns; proporciona alternatives PNG/WebP per als més antics."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Com convertir PNG a AVIF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Com convertir PNG a AVIF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Fes clic a Puja PNG i selecciona el teu fitxer."
 
-          "text": "Fes clic a Puja PNG i selecciona el teu fitxer."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Espera que el processament i l'optimització es completin."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Fes clic a Descarrega AVIF per desar el resultat."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Espera que el processament i l'optimització es completin."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Fes clic a Descarrega AVIF per desar el resultat."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Conversor de PNG a AVIF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

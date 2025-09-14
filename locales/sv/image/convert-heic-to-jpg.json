@@ -1,373 +1,283 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "HEIC till JPG Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera HEIC-bilder till JPG-format online med hög kvalitet, bättre kompatibilitet och utan vattenstämplar."
-
-  "hint": "Ladda upp din HEIC-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till JPG"
-
-  "btn_paste": "Ladda upp HEIC"
-
-  "btn_clear": "Rensa"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "HEIC till JPG Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera HEIC-bilder till JPG-format online med hög kvalitet, bättre kompatibilitet och utan vattenstämplar.",
+  "hint": "Ladda upp din HEIC-bild för att börja konvertera...",
+  "btn_download": "Konvertera till JPG",
+  "btn_paste": "Ladda upp HEIC",
+  "btn_clear": "Rensa",
   "converter": {
-    "type": "heic-to-jpg"
+    "type": "heic-to-jpg",
+  "inputFormat": "HEIC",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/heic",
+  "image/heif"
 
-    "inputFormat": "HEIC"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/heic"
-
-      "image/heif"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>Konvertera din <strong>HEIC till JPG</strong> för universell kompatibilitet! Vår gratis onlinekonverterare omvandlar dina iPhone/iPad-foton till allmänt stödda JPG. HEIC (baserat på HEIF-standarden) erbjuder utmärkt kompression, men många appar och plattformar förväntar sig fortfarande JPG. Oavsett om du behöver dela med Android/Windows-användare, ladda upp till sociala medier eller säkerställa kompatibilitet med äldre programvara, gör detta verktyg det enkelt.</p><p>JPG stöds nästan överallt. Konverteringen är snabb och bevarar visuell kvalitet med justerade JPEG-inställningar — idealiskt för fotografer, skapare och alla som behöver maximal kompatibilitet.</p>"
-
+  },
+  "description": "<p>Konvertera din <strong>HEIC till JPG</strong> för universell kompatibilitet! Vår gratis onlinekonverterare omvandlar dina iPhone/iPad-foton till allmänt stödda JPG. HEIC (baserat på HEIF-standarden) erbjuder utmärkt kompression, men många appar och plattformar förväntar sig fortfarande JPG. Oavsett om du behöver dela med Android/Windows-användare, ladda upp till sociala medier eller säkerställa kompatibilitet med äldre programvara, gör detta verktyg det enkelt.</p><p>JPG stöds nästan överallt. Konverteringen är snabb och bevarar visuell kvalitet med justerade JPEG-inställningar — idealiskt för fotografer, skapare och alla som behöver maximal kompatibilitet.</p>",
   "head": {
-    "title": "Konvertera HEIC till JPG Online - Gratis HEIC till JPG Konverterare | miconvert.com"
+    "title": "Konvertera HEIC till JPG Online - Gratis HEIC till JPG Konverterare | miconvert.com",
+  "description": "Konvertera HEIC till JPG online med hög kvalitet, bättre kompatibilitet och utan vattenstämplar. Gratis, snabb och säker HEIC till JPG konverteringsverktyg.",
+  "keywords": "heic till jpg, konvertera heic till jpg, gratis heic till jpg, online heic konverterare, iphone-foton",
+  "canonical": "https://miconvert.com/sv/convert/heic-to-jpg",
+  "og_title": "HEIC till JPG Konverterare - Gratis & Online",
+  "og_description": "Konvertera HEIC-bilder till JPG-format med hög kvalitet och bättre kompatibilitet. 100% gratis, snabb och säker.",
+  "og_url": "https://miconvert.com/sv/convert/heic-to-jpg",
+  "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-    "description": "Konvertera HEIC till JPG online med hög kvalitet, bättre kompatibilitet och utan vattenstämplar. Gratis, snabb och säker HEIC till JPG konverteringsverktyg."
-
-    "keywords": "heic till jpg, konvertera heic till jpg, gratis heic till jpg, online heic konverterare, iphone-foton"
-
-    "canonical": "https://miconvert.com/sv/convert/heic-to-jpg"
-
-    "og_title": "HEIC till JPG Konverterare - Gratis & Online"
-
-    "og_description": "Konvertera HEIC-bilder till JPG-format med hög kvalitet och bättre kompatibilitet. 100% gratis, snabb och säker."
-
-    "og_url": "https://miconvert.com/sv/convert/heic-to-jpg"
-
-    "og_image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera HEIC till JPG Online"
+    "title": "Konvertera HEIC till JPG Online",
+  "description": "Gratis och snabb HEIC till JPG konverterare med hög kvalitet och universell kompatibilitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
 
-    "description": "Gratis och snabb HEIC till JPG konverterare med hög kvalitet och universell kompatibilitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför konvertera HEIC till JPG?"
+      "title": "Varför konvertera HEIC till JPG?",
+  "description": "<p>HEIC är effektivt, men JPG är universellt accepterat. Konvertera när du behöver:</p><ul><li><strong>Universell kompatibilitet:</strong> JPG fungerar på alla enheter, appar och plattformar.</li><li><strong>Plattformsövergripande delning:</strong> Skicka foton till Android/Windows-användare utan problem.</li><li><strong>Sociala uppladdningar:</strong> De flesta plattformar föredrar eller kräver JPG.</li><li><strong>Legacy-support:</strong> Äldre appar läser inte HEIC pålitligt.</li></ul>"
 
-      "description": "<p>HEIC är effektivt, men JPG är universellt accepterat. Konvertera när du behöver:</p><ul><li><strong>Universell kompatibilitet:</strong> JPG fungerar på alla enheter, appar och plattformar.</li><li><strong>Plattformsövergripande delning:</strong> Skicka foton till Android/Windows-användare utan problem.</li><li><strong>Sociala uppladdningar:</strong> De flesta plattformar föredrar eller kräver JPG.</li><li><strong>Legacy-support:</strong> Äldre appar läser inte HEIC pålitligt.</li></ul>"
+    },
+  {
+      "title": "Hur man konverterar HEIC till JPG Online",
+  "description": "<ol><li>Klicka på <em>Ladda upp HEIC</em> och välj din fil.</li><li>Vänta på bearbetning.</li><li>Klicka på <em>Ladda ner JPG</em> för att spara resultatet.</li></ol><p>Inga tekniska steg — kvaliteten optimeras automatiskt.</p>"
 
-    }
-    {
-      "title": "Hur man konverterar HEIC till JPG Online"
+    },
+  {
+      "title": "HEIC vs JPG: Nyckelskillnader",
+  "description": "<ul><li><strong>Filstorlek:</strong> HEIC är vanligtvis mindre än JPG vid liknande kvalitet.</li><li><strong>Kompatibilitet:</strong> JPG har nästan universellt stöd.</li><li><strong>Kvalitet:</strong> Båda kan se bra ut; JPG använder förlustkompression.</li><li><strong>Ecosystem:</strong> HEIC är vanligt på Apple; JPG finns överallt.</li></ul>"
 
-      "description": "<ol><li>Klicka på <em>Ladda upp HEIC</em> och välj din fil.</li><li>Vänta på bearbetning.</li><li>Klicka på <em>Ladda ner JPG</em> för att spara resultatet.</li></ol><p>Inga tekniska steg — kvaliteten optimeras automatiskt.</p>"
+    },
+  {
+      "title": "Stödda gränser & format",
+  "description": "<ul><li><strong>Accepterad indata:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG-inställningar:</strong> Kvalitet 90 (progressiv, mozjpeg)</li></ul>"
 
-    }
-    {
-      "title": "HEIC vs JPG: Nyckelskillnader"
+    },
+  {
+      "title": "Funktioner i vår HEIC till JPG Konverterare",
+  "description": "<ul><li>100% gratis, inga vattenstämplar</li><li>Högkvalitativ JPEG-utdata</li><li>Mobilvänlig UI</li><li>Enkel, snabb arbetsflöde</li></ul>"
 
-      "description": "<ul><li><strong>Filstorlek:</strong> HEIC är vanligtvis mindre än JPG vid liknande kvalitet.</li><li><strong>Kompatibilitet:</strong> JPG har nästan universellt stöd.</li><li><strong>Kvalitet:</strong> Båda kan se bra ut; JPG använder förlustkompression.</li><li><strong>Ecosystem:</strong> HEIC är vanligt på Apple; JPG finns överallt.</li></ul>"
+    },
+  {
+      "title": "Vad är HEIC?",
+  "description": "<p>HEIC är en filändelse för bilder som lagras med HEIF (High Efficiency Image File Format) standard — vanligtvis kodad med HEVC (H.265). Den erbjuder stark kompression med bra kvalitet men stöds inte universellt.</p>"
 
-    }
-    {
-      "title": "Stödda gränser & format"
+    },
+  {
+      "title": "Vad är JPG?",
+  "description": "<p>JPG (JPEG) är det mest allmänt stödda bildformatet. Det använder förlustkompression för att balansera kvalitet och storlek, vilket gör det idealiskt för delning och webb-användning.</p>"
 
-      "description": "<ul><li><strong>Accepterad indata:</strong> HEIC/HEIF (<code>image/heic</code>, <code>image/heif</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> JPG (<code>.jpg</code>, MIME <code>image/jpeg</code>)</li><li><strong>JPEG-inställningar:</strong> Kvalitet 90 (progressiv, mozjpeg)</li></ul>"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att filen är HEIC/HEIF och ≤ 16&nbsp;MB.</li><li><strong>Rotated image:</strong> Vissa visare ignorerar EXIF-orientering — rotera efter nedladdning om det behövs.</li><li><strong>Färgskift:</strong> Bredgamut-foton kan se annorlunda ut; konvertera med sRGB om det krävs.</li><li><strong>Live Photos:</strong> Endast den stilla HEIC konverteras; den parande videon (MOV) ingår inte.</li></ul>"
 
-    }
-    {
-      "title": "Funktioner i vår HEIC till JPG Konverterare"
-
-      "description": "<ul><li>100% gratis, inga vattenstämplar</li><li>Högkvalitativ JPEG-utdata</li><li>Mobilvänlig UI</li><li>Enkel, snabb arbetsflöde</li></ul>"
-
-    }
-    {
-      "title": "Vad är HEIC?"
-
-      "description": "<p>HEIC är en filändelse för bilder som lagras med HEIF (High Efficiency Image File Format) standard — vanligtvis kodad med HEVC (H.265). Den erbjuder stark kompression med bra kvalitet men stöds inte universellt.</p>"
-
-    }
-    {
-      "title": "Vad är JPG?"
-
-      "description": "<p>JPG (JPEG) är det mest allmänt stödda bildformatet. Det använder förlustkompression för att balansera kvalitet och storlek, vilket gör det idealiskt för delning och webb-användning.</p>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att filen är HEIC/HEIF och ≤ 16&nbsp;MB.</li><li><strong>Rotated image:</strong> Vissa visare ignorerar EXIF-orientering — rotera efter nedladdning om det behövs.</li><li><strong>Färgskift:</strong> Bredgamut-foton kan se annorlunda ut; konvertera med sRGB om det krävs.</li><li><strong>Live Photos:</strong> Endast den stilla HEIC konverteras; den parande videon (MOV) ingår inte.</li></ul>"
+    },
+  {
+      "title": "Användningsfall",
+  "description": "<ul><li><strong>Dela med icke-Apple-användare</strong> utan kompatibilitetsproblem.</li><li><strong>Ladda upp till CMS/social</strong> som förväntar sig JPG.</li><li><strong>Skriva ut & redigera</strong> i appar som inte läser HEIC.</li></ul>"
 
     }
-    {
-      "title": "Användningsfall"
-
-      "description": "<ul><li><strong>Dela med icke-Apple-användare</strong> utan kompatibilitetsproblem.</li><li><strong>Ladda upp till CMS/social</strong> som förväntar sig JPG.</li><li><strong>Skriva ut & redigera</strong> i appar som inte läser HEIC.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna HEIC till JPG konverterare gratis?"
+      "question": "Är denna HEIC till JPG konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Kommer jag att förlora kvalitet när jag konverterar HEIC till JPG?",
+  "answer": "JPG använder förlustkompression, så en liten kvalitetsförlust är möjlig. Vi använder justerade inställningar (kvalitet ~90, progressiv) för att hålla det minimalt."
 
-    }
-    {
-      "question": "Kommer jag att förlora kvalitet när jag konverterar HEIC till JPG?"
+    },
+  {
+      "question": "Vilka enheter stöder HEIC?",
+  "answer": "HEIC/HEIF är vanligt på Apple-enheter. Många andra plattformar föredrar fortfarande JPG som standard."
 
-      "answer": "JPG använder förlustkompression, så en liten kvalitetsförlust är möjlig. Vi använder justerade inställningar (kvalitet ~90, progressiv) för att hålla det minimalt."
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
 
-    }
-    {
-      "question": "Vilka enheter stöder HEIC?"
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
 
-      "answer": "HEIC/HEIF är vanligt på Apple-enheter. Många andra plattformar föredrar fortfarande JPG som standard."
+    },
+  {
+      "question": "Kan jag konvertera flera HEIC-filer på en gång?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera HEIC-filer på en gång?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-
-    }
-    {
-      "question": "När ska jag använda JPG istället för HEIC?"
-
-      "answer": "Använd JPG för maximal kompatibilitet, uppladdningar till plattformar som inte stöder HEIC, eller när du delar med icke-Apple-enheter."
+    },
+  {
+      "question": "När ska jag använda JPG istället för HEIC?",
+  "answer": "Använd JPG för maximal kompatibilitet, uppladdningar till plattformar som inte stöder HEIC, eller när du delar med icke-Apple-enheter."
 
     }
-  ]
-  "note": "JPG använder förlustkompression; små storleks-/kvalitetsavvägningar är normala. För transparensbehov, konvertera HEIC till PNG istället."
-
+  ],
+  "note": "JPG använder förlustkompression; små storleks-/kvalitetsavvägningar är normala. För transparensbehov, konvertera HEIC till PNG istället.",
   "related_links": [
     {
-      "title": "Konvertera HEIC till PNG"
+      "title": "Konvertera HEIC till PNG",
+  "url": "/sv/convert/heic-to-png"
 
-      "url": "/sv/convert/heic-to-png"
+    },
+  {
+      "title": "Konvertera JPG till HEIC",
+  "url": "/sv/convert/jpg-to-heic"
 
-    }
-    {
-      "title": "Konvertera JPG till HEIC"
+    },
+  {
+      "title": "Konvertera HEIC till WebP",
+  "url": "/sv/convert/heic-to-webp"
 
-      "url": "/sv/convert/jpg-to-heic"
-
-    }
-    {
-      "title": "Konvertera HEIC till WebP"
-
-      "url": "/sv/convert/heic-to-webp"
-
-    }
-    {
-      "title": "Komprimera JPG Online"
-
-      "url": "/sv/compress/jpg"
+    },
+  {
+      "title": "Komprimera JPG Online",
+  "url": "/sv/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "HEIC till JPG Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/heic-to-jpg"
-
-      "description": "Gratis onlineverktyg för att konvertera HEIC-bilder till JPG med hög kvalitet och universell kompatibilitet."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "HEIC till JPG Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/heic-to-jpg",
+  "description": "Gratis onlineverktyg för att konvertera HEIC-bilder till JPG med hög kvalitet och universell kompatibilitet.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/heic-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "HEIC till JPG"
-
-          "item": "https://miconvert.com/sv/convert/heic-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "HEIC till JPG",
+  "item": "https://miconvert.com/sv/convert/heic-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "HEIC till JPG Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/heic-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Högkvalitativ JPEG-utdata",
+  "Progressiv kodning",
+  "Snabb bearbetning"
 
-      "name": "HEIC till JPG Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/heic-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Högkvalitativ JPEG-utdata"
-
-        "Progressiv kodning"
-
-        "Snabb bearbetning"
-
-      ]
-      "screenshot": "https://miconvert.com/images/heic-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna HEIC till JPG konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna HEIC till JPG konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kommer jag att förlora kvalitet när jag konverterar HEIC till JPG?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "JPG använder förlustkompression, men vi använder justerade inställningar för att minimera synlig förlust."
+        },
+  {
+          "@type": "Question",
+  "name": "Kommer jag att förlora kvalitet när jag konverterar HEIC till JPG?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "JPG använder förlustkompression, men vi använder justerade inställningar för att minimera synlig förlust."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar HEIC till JPG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar HEIC till JPG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp HEIC och välj din fil."
 
-          "text": "Klicka på Ladda upp HEIC och välj din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att bearbetningen ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner JPG för att spara resultatet."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetningen ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner JPG för att spara resultatet."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "HEIC till JPG Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,358 +1,266 @@
 {
-  "lang": "pl"
-
-  "lang_name": "Polski"
-
-  "title": "Konwerter SVG na PNG - Darmowy i Online | miconvert.com"
-
-  "sub_title": "Konwertuj grafiki wektorowe SVG na PNG online z wyraźną rasteryzacją, przezroczystością i bez znaków wodnych."
-
-  "hint": "Prześlij swój plik SVG, aby rozpocząć konwersję..."
-
-  "btn_download": "Konwertuj na PNG"
-
-  "btn_paste": "Prześlij SVG"
-
-  "btn_clear": "Wyczyść"
-
-  "ogImage": "https://miconvert.com/images/svg-to-png.jpg"
-
+  "lang": "pl",
+  "lang_name": "Polski",
+  "title": "Konwerter SVG na PNG - Darmowy i Online | miconvert.com",
+  "sub_title": "Konwertuj grafiki wektorowe SVG na PNG online z wyraźną rasteryzacją, przezroczystością i bez znaków wodnych.",
+  "hint": "Prześlij swój plik SVG, aby rozpocząć konwersję...",
+  "btn_download": "Konwertuj na PNG",
+  "btn_paste": "Prześlij SVG",
+  "btn_clear": "Wyczyść",
+  "ogImage": "https://miconvert.com/images/svg-to-png.jpg",
   "head": {
-    "title": "Konwertuj SVG na PNG - Darmowy Online Konwerter SVG na PNG | miconvert.com"
+    "title": "Konwertuj SVG na PNG - Darmowy Online Konwerter SVG na PNG | miconvert.com",
+  "description": "Konwertuj grafiki wektorowe SVG na PNG online za darmo. Wysokiej jakości rasteryzacja SVG→PNG z szybkim przetwarzaniem i wsparciem dla przezroczystości.",
+  "keywords": "svg na png, konwertuj svg na png, wektor na rastrowy, darmowy konwerter svg, online konwerter png",
+  "canonical": "https://miconvert.com/pl/convert/svg-to-png",
+  "og_title": "Konwerter SVG na PNG - Darmowy i Online",
+  "og_description": "Konwertuj SVG na PNG z wyraźną rasteryzacją i przezroczystością. 100% darmowe, szybkie i bezpieczne.",
+  "og_url": "https://miconvert.com/pl/convert/svg-to-png",
+  "og_image": "https://miconvert.com/images/svg-to-png.jpg"
 
-    "description": "Konwertuj grafiki wektorowe SVG na PNG online za darmo. Wysokiej jakości rasteryzacja SVG→PNG z szybkim przetwarzaniem i wsparciem dla przezroczystości."
-
-    "keywords": "svg na png, konwertuj svg na png, wektor na rastrowy, darmowy konwerter svg, online konwerter png"
-
-    "canonical": "https://miconvert.com/pl/convert/svg-to-png"
-
-    "og_title": "Konwerter SVG na PNG - Darmowy i Online"
-
-    "og_description": "Konwertuj SVG na PNG z wyraźną rasteryzacją i przezroczystością. 100% darmowe, szybkie i bezpieczne."
-
-    "og_url": "https://miconvert.com/pl/convert/svg-to-png"
-
-    "og_image": "https://miconvert.com/images/svg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konwertuj SVG na PNG Online"
+    "title": "Konwertuj SVG na PNG Online",
+  "description": "Darmowy i szybki konwerter SVG na PNG z wyraźną rasteryzacją i wsparciem dla przezroczystości. Działa natychmiast na każdym urządzeniu — bez rejestracji."
 
-    "description": "Darmowy i szybki konwerter SVG na PNG z wyraźną rasteryzacją i wsparciem dla przezroczystości. Działa natychmiast na każdym urządzeniu — bez rejestracji."
-
-  }
-  "description": "<p>Przekształć swoje <strong>SVG na PNG</strong> w kilka sekund. Ten darmowy konwerter online rasteryzacji Twoje grafiki wektorowe w wysokiej jakości obrazy PNG, zachowując przezroczystość dla czystych krawędzi na każdym tle.</p><p>Idealne do faviconów, zasobów aplikacji, obrazów społecznościowych i grafiki internetowej. Optymalizujemy wyjście dla silnej równowagi między klarownością a rozmiarem pliku.</p>"
-
+  },
+  "description": "<p>Przekształć swoje <strong>SVG na PNG</strong> w kilka sekund. Ten darmowy konwerter online rasteryzacji Twoje grafiki wektorowe w wysokiej jakości obrazy PNG, zachowując przezroczystość dla czystych krawędzi na każdym tle.</p><p>Idealne do faviconów, zasobów aplikacji, obrazów społecznościowych i grafiki internetowej. Optymalizujemy wyjście dla silnej równowagi między klarownością a rozmiarem pliku.</p>",
   "converter": {
-    "type": "svg-to-png"
-
-    "title": "Konwerter SVG na PNG"
-
-    "description": "Konwertuj grafiki wektorowe SVG na format rastrowy PNG z wysoką jakością i szybkim przetwarzaniem."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "SVG"
-
-    "outputFormat": "PNG"
-
-    "allowedTypes": [
+    "type": "svg-to-png",
+  "title": "Konwerter SVG na PNG",
+  "description": "Konwertuj grafiki wektorowe SVG na format rastrowy PNG z wysoką jakością i szybkim przetwarzaniem.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "SVG",
+  "outputFormat": "PNG",
+  "allowedTypes": [
       "image/svg+xml"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "features": [
+      "Wysokiej jakości rasteryzacja",
+  "Zachowana przezroczystość",
+  "Szybkie przetwarzanie",
+  "Darmowe narzędzie online"
 
-    "outputExtension": ".png"
-
-    "features": [
-      "Wysokiej jakości rasteryzacja"
-
-      "Zachowana przezroczystość"
-
-      "Szybkie przetwarzanie"
-
-      "Darmowe narzędzie online"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
-        "background": "transparent"
-
-        "width": null
-        "height": null
-        "scale": 1
+        "compressionLevel": 6,
+  "progressive": false,
+  "background": "transparent",
+  "width": null,
+  "height": null,
+  "scale": 1
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konwersja SVG na PNG Zakończona"
+    "title": "Konwersja SVG na PNG Zakończona",
+  "back_button": "Powrót do Konwertera",
+  "convert_another": "Konwertuj Inne SVG",
+  "quick_conversions": "Szybkie Konwersje:"
 
-    "back_button": "Powrót do Konwertera"
-
-    "convert_another": "Konwertuj Inne SVG"
-
-    "quick_conversions": "Szybkie Konwersje:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Dlaczego Konwertować SVG na PNG?"
+      "title": "Dlaczego Konwertować SVG na PNG?",
+  "description": "<ul><li><strong>Uniwersalna kompatybilność:</strong> PNG wyświetla się wszędzie, nie wymaga wsparcia SVG.</li><li><strong>Przezroczystość:</strong> Zachowaj alfa dla nakładek i elementów UI.</li><li><strong>Wydajność:</strong> Mniejsze, buforowane bitmapy do produkcji.</li></ul>"
 
-      "description": "<ul><li><strong>Uniwersalna kompatybilność:</strong> PNG wyświetla się wszędzie, nie wymaga wsparcia SVG.</li><li><strong>Przezroczystość:</strong> Zachowaj alfa dla nakładek i elementów UI.</li><li><strong>Wydajność:</strong> Mniejsze, buforowane bitmapy do produkcji.</li></ul>"
+    },
+  {
+      "title": "Jak Konwertować SVG na PNG Online",
+  "description": "<ol><li>Kliknij <em>Prześlij SVG</em> i wybierz swój plik.</li><li>Poczekaj na rasteryzację i optymalizację.</li><li>Kliknij <em>Pobierz PNG</em>, aby zapisać swój obraz.</li></ol><p>Domyślne ustawienia zachowują przezroczystość i zrównoważoną kompresję.</p>"
 
-    }
-    {
-      "title": "Jak Konwertować SVG na PNG Online"
+    },
+  {
+      "title": "Obsługiwane Limity i Format",
+  "description": "<ul><li><strong>Akceptowane wejście:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> 16&nbsp;MB</li><li><strong>Wyjście:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
 
-      "description": "<ol><li>Kliknij <em>Prześlij SVG</em> i wybierz swój plik.</li><li>Poczekaj na rasteryzację i optymalizację.</li><li>Kliknij <em>Pobierz PNG</em>, aby zapisać swój obraz.</li></ol><p>Domyślne ustawienia zachowują przezroczystość i zrównoważoną kompresję.</p>"
+    },
+  {
+      "title": "Najlepsze Praktyki dla Wyraźnego Wyjścia",
+  "description": "<ul><li>Użyj kwadratowego obszaru roboczego z marginesami, aby uniknąć przycinania krawędzi.</li><li>Przekształć tekst w kontury; osadź czcionki i obrazy.</li><li>Unikaj zbyt cienkich linii dla małych ikon (≥1px w docelowym rozmiarze).</li><li>Eksportuj większe (np. 512–1024 px), jeśli zamierzasz później zmniejszyć rozmiar.</li></ul>"
 
-    }
-    {
-      "title": "Obsługiwane Limity i Format"
-
-      "description": "<ul><li><strong>Akceptowane wejście:</strong> SVG (<code>image/svg+xml</code>)</li><li><strong>Maksymalny rozmiar pliku:</strong> 16&nbsp;MB</li><li><strong>Wyjście:</strong> PNG (<code>.png</code>, <code>image/png</code>)</li></ul>"
-
-    }
-    {
-      "title": "Najlepsze Praktyki dla Wyraźnego Wyjścia"
-
-      "description": "<ul><li>Użyj kwadratowego obszaru roboczego z marginesami, aby uniknąć przycinania krawędzi.</li><li>Przekształć tekst w kontury; osadź czcionki i obrazy.</li><li>Unikaj zbyt cienkich linii dla małych ikon (≥1px w docelowym rozmiarze).</li><li>Eksportuj większe (np. 512–1024 px), jeśli zamierzasz później zmniejszyć rozmiar.</li></ul>"
-
-    }
-    {
-      "title": "Rozwiązywanie Problemów"
-
-      "description": "<ul><li><strong>Brakujące czcionki/filtry:</strong> Osadź zasoby i przekształć tekst w kontury.</li><li><strong>Postrzępione krawędzie:</strong> Zwiększ rozmiar docelowy lub <code>scale</code>, a następnie zmniejsz rozmiar.</li><li><strong>Jednolity background:</strong> Upewnij się, że <code>background</code> jest ustawione na <em>transparentne</em> w opcjach.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że plik SVG jest ważny i ≤16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Rozwiązywanie Problemów",
+  "description": "<ul><li><strong>Brakujące czcionki/filtry:</strong> Osadź zasoby i przekształć tekst w kontury.</li><li><strong>Postrzępione krawędzie:</strong> Zwiększ rozmiar docelowy lub <code>scale</code>, a następnie zmniejsz rozmiar.</li><li><strong>Jednolity background:</strong> Upewnij się, że <code>background</code> jest ustawione na <em>transparentne</em> w opcjach.</li><li><strong>Przesyłanie nie powiodło się:</strong> Upewnij się, że plik SVG jest ważny i ≤16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Czy ten konwerter SVG na PNG jest darmowy?"
+      "question": "Czy ten konwerter SVG na PNG jest darmowy?",
+  "answer": "Tak, jest całkowicie darmowy, bez znaków wodnych ani ukrytych opłat."
 
-      "answer": "Tak, jest całkowicie darmowy, bez znaków wodnych ani ukrytych opłat."
+    },
+  {
+      "question": "Czy PNG zachowuje przezroczystość?",
+  "answer": "Tak. PNG obsługuje przezroczystość alfa i zachowujemy ją domyślnie."
 
-    }
-    {
-      "question": "Czy PNG zachowuje przezroczystość?"
+    },
+  {
+      "question": "Czy mogę wybrać rozmiar wyjścia?",
+  "answer": "Domyślnie używamy viewBox SVG. Możesz ustawić szerokość/wysokość lub współczynnik skali w opcjach zaawansowanych, jeśli są obsługiwane."
 
-      "answer": "Tak. PNG obsługuje przezroczystość alfa i zachowujemy ją domyślnie."
+    },
+  {
+      "question": "Jakie limity rozmiaru pliku obowiązują?",
+  "answer": "Możesz przesyłać pliki SVG o maksymalnym rozmiarze 16 MB."
 
-    }
-    {
-      "question": "Czy mogę wybrać rozmiar wyjścia?"
-
-      "answer": "Domyślnie używamy viewBox SVG. Możesz ustawić szerokość/wysokość lub współczynnik skali w opcjach zaawansowanych, jeśli są obsługiwane."
-
-    }
-    {
-      "question": "Jakie limity rozmiaru pliku obowiązują?"
-
-      "answer": "Możesz przesyłać pliki SVG o maksymalnym rozmiarze 16 MB."
-
-    }
-    {
-      "question": "Dlaczego mój PNG wygląda inaczej niż SVG?"
-
-      "answer": "Zewnętrzne czcionki, filtry lub powiązane zasoby mogą renderować się inaczej podczas rasteryzacji. Przekształć tekst w kontury i osadź zasoby, aby uzyskać spójne wyniki."
+    },
+  {
+      "question": "Dlaczego mój PNG wygląda inaczej niż SVG?",
+  "answer": "Zewnętrzne czcionki, filtry lub powiązane zasoby mogą renderować się inaczej podczas rasteryzacji. Przekształć tekst w kontury i osadź zasoby, aby uzyskać spójne wyniki."
 
     }
-  ]
-  "note": "SVG są rasteryzowane podczas konwersji. Aby uzyskać przewidywalne wyniki, przekształć tekst w kontury i osadź wszelkie zewnętrzne zasoby."
-
+  ],
+  "note": "SVG są rasteryzowane podczas konwersji. Aby uzyskać przewidywalne wyniki, przekształć tekst w kontury i osadź wszelkie zewnętrzne zasoby.",
   "related_links": [
     {
-      "title": "Konwertuj SVG na ICO"
+      "title": "Konwertuj SVG na ICO",
+  "url": "/pl/convert/svg-to-ico"
 
-      "url": "/pl/convert/svg-to-ico"
+    },
+  {
+      "title": "Konwertuj PNG na SVG",
+  "url": "/pl/convert/png-to-svg"
 
-    }
-    {
-      "title": "Konwertuj PNG na SVG"
-
-      "url": "/pl/convert/png-to-svg"
-
-    }
-    {
-      "title": "Kompresuj PNG Online"
-
-      "url": "/pl/compress/png"
+    },
+  {
+      "title": "Kompresuj PNG Online",
+  "url": "/pl/compress/png"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Wszelkie prawa zastrzeżone.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konwerter SVG na PNG - Darmowy i Online"
-
-      "url": "https://miconvert.com/pl/convert/svg-to-png"
-
-      "description": "Darmowe narzędzie online do konwersji grafiki wektorowej SVG na PNG z przezroczystością."
-
-      "inLanguage": "pl"
-
-      "image": "https://miconvert.com/images/svg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Konwerter SVG na PNG - Darmowy i Online",
+  "url": "https://miconvert.com/pl/convert/svg-to-png",
+  "description": "Darmowe narzędzie online do konwersji grafiki wektorowej SVG na PNG z przezroczystością.",
+  "inLanguage": "pl",
+  "image": "https://miconvert.com/images/svg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Strona główna",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Strona główna"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konwertuj",
+  "item": "https://miconvert.com/pl/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konwertuj"
-
-          "item": "https://miconvert.com/pl/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "SVG na PNG"
-
-          "item": "https://miconvert.com/pl/convert/svg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "SVG na PNG",
+  "item": "https://miconvert.com/pl/convert/svg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Konwerter SVG na PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/pl/convert/svg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Wyraźna rasteryzacja",
+  "Zachowana przezroczystość",
+  "Szybkie przetwarzanie"
 
-      "name": "Konwerter SVG na PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/pl/convert/svg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Wyraźna rasteryzacja"
-
-        "Zachowana przezroczystość"
-
-        "Szybkie przetwarzanie"
-
-      ]
-      "screenshot": "https://miconvert.com/images/svg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Czy ten konwerter SVG na PNG jest darmowy?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tak, jest całkowicie darmowy, bez znaków wodnych ani ukrytych opłat."
+          "@type": "Question",
+  "name": "Czy ten konwerter SVG na PNG jest darmowy?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tak, jest całkowicie darmowy, bez znaków wodnych ani ukrytych opłat."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Czy PNG zachowuje przezroczystość?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Tak, przezroczystość alfa jest zachowywana domyślnie."
+        },
+  {
+          "@type": "Question",
+  "name": "Czy PNG zachowuje przezroczystość?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Tak, przezroczystość alfa jest zachowywana domyślnie."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Jakie limity rozmiaru pliku obowiązują?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Możesz przesyłać pliki SVG o maksymalnym rozmiarze 16 MB."
+        },
+  {
+          "@type": "Question",
+  "name": "Jakie limity rozmiaru pliku obowiązują?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Możesz przesyłać pliki SVG o maksymalnym rozmiarze 16 MB."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak konwertować SVG na PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jak konwertować SVG na PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Kliknij Prześlij SVG i wybierz swój plik."
 
-          "text": "Kliknij Prześlij SVG i wybierz swój plik."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Poczekaj na zakończenie rasteryzacji i optymalizacji."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Kliknij Pobierz PNG, aby zapisać swój obraz."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Poczekaj na zakończenie rasteryzacji i optymalizacji."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Kliknij Pobierz PNG, aby zapisać swój obraz."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Konwerter SVG na PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

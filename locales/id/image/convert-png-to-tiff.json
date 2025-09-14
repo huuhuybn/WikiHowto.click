@@ -1,367 +1,274 @@
 {
-  "lang": "id"
-
-  "lang_name": "Bahasa Indonesia"
-
-  "title": "Konverter PNG ke TIFF - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konversi gambar PNG ke TIFF secara online dengan opsi tanpa kehilangan, kualitas siap cetak, dan transparansi yang terjaga. Tanpa watermark."
-
-  "hint": "Unggah gambar PNG Anda untuk mulai mengonversi..."
-
-  "btn_download": "Konversi ke TIFF"
-
-  "btn_paste": "Unggah PNG"
-
-  "btn_clear": "Bersihkan"
-
-  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg"
-
+  "lang": "id",
+  "lang_name": "Bahasa Indonesia",
+  "title": "Konverter PNG ke TIFF - Gratis & Online | miconvert.com",
+  "sub_title": "Konversi gambar PNG ke TIFF secara online dengan opsi tanpa kehilangan, kualitas siap cetak, dan transparansi yang terjaga. Tanpa watermark.",
+  "hint": "Unggah gambar PNG Anda untuk mulai mengonversi...",
+  "btn_download": "Konversi ke TIFF",
+  "btn_paste": "Unggah PNG",
+  "btn_clear": "Bersihkan",
+  "ogImage": "https://miconvert.com/images/png-to-tiff.jpg",
   "head": {
-    "title": "Konversi PNG ke TIFF - Konverter PNG ke TIFF Online Gratis | miconvert.com"
+    "title": "Konversi PNG ke TIFF - Konverter PNG ke TIFF Online Gratis | miconvert.com",
+  "description": "Konversi gambar PNG ke format TIFF secara online secara gratis. Konversi PNG ke TIFF berkualitas tinggi dengan opsi tanpa kehilangan dan pemrosesan cepat.",
+  "keywords": "png ke tiff, konversi png ke tiff, png ke tiff gratis, konverter tiff online, konversi gambar",
+  "canonical": "https://miconvert.com/id/convert/png-to-tiff",
+  "og_title": "Konversi PNG ke TIFF - Konverter PNG ke TIFF Online Gratis",
+  "og_description": "Konversi gambar PNG ke TIFF dengan opsi kompresi tanpa kehilangan dan transparansi yang terjaga. Gratis, cepat, dan aman.",
+  "og_url": "https://miconvert.com/id/convert/png-to-tiff",
+  "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
 
-    "description": "Konversi gambar PNG ke format TIFF secara online secara gratis. Konversi PNG ke TIFF berkualitas tinggi dengan opsi tanpa kehilangan dan pemrosesan cepat."
-
-    "keywords": "png ke tiff, konversi png ke tiff, png ke tiff gratis, konverter tiff online, konversi gambar"
-
-    "canonical": "https://miconvert.com/id/convert/png-to-tiff"
-
-    "og_title": "Konversi PNG ke TIFF - Konverter PNG ke TIFF Online Gratis"
-
-    "og_description": "Konversi gambar PNG ke TIFF dengan opsi kompresi tanpa kehilangan dan transparansi yang terjaga. Gratis, cepat, dan aman."
-
-    "og_url": "https://miconvert.com/id/convert/png-to-tiff"
-
-    "og_image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konversi PNG ke TIFF Online"
+    "title": "Konversi PNG ke TIFF Online",
+  "description": "Konverter PNG ke TIFF gratis dengan opsi kompresi tanpa kehilangan dan output siap cetak. Bekerja di perangkat apa pun — tanpa perlu mendaftar."
 
-    "description": "Konverter PNG ke TIFF gratis dengan opsi kompresi tanpa kehilangan dan output siap cetak. Bekerja di perangkat apa pun — tanpa perlu mendaftar."
-
-  }
+  },
   "converter": {
-    "type": "png-to-tiff"
-
-    "title": "Konverter PNG ke TIFF"
-
-    "description": "Konversi gambar PNG ke TIFF dengan kompresi tanpa kehilangan LZW/ZIP sambil menjaga transparansi alpha."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "png-to-tiff",
+  "title": "Konverter PNG ke TIFF",
+  "description": "Konversi gambar PNG ke TIFF dengan kompresi tanpa kehilangan LZW/ZIP sambil menjaga transparansi alpha.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Opsi TIFF tanpa kehilangan (LZW/ZIP)",
+  "Menjaga transparansi (alpha)",
+  "Kualitas siap cetak",
+  "Alat online gratis"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Opsi TIFF tanpa kehilangan (LZW/ZIP)"
-
-      "Menjaga transparansi (alpha)"
-
-      "Kualitas siap cetak"
-
-      "Alat online gratis"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 32
-        "alpha": true
-        "dpi": 300
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 32,
+  "alpha": true,
+  "dpi": 300
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konversi PNG ke TIFF Selesai"
+    "title": "Konversi PNG ke TIFF Selesai",
+  "back_button": "Kembali ke Konverter",
+  "convert_another": "Konversi PNG Lain",
+  "quick_conversions": "Konversi Cepat:"
 
-    "back_button": "Kembali ke Konverter"
-
-    "convert_another": "Konversi PNG Lain"
-
-    "quick_conversions": "Konversi Cepat:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Mengapa Mengonversi PNG ke TIFF?"
+      "title": "Mengapa Mengonversi PNG ke TIFF?",
+  "description": "<p>TIFF adalah format profesional, tingkat arsip yang digunakan dalam pencitraan dan cetak:</p><ul><li><strong>Opsi tanpa kehilangan:</strong> Menjaga master yang bersih tanpa memperkenalkan artefak baru.</li><li><strong>Siap cetak:</strong> Bagus untuk output resolusi tinggi dan alur kerja pra-cetak.</li><li><strong>Dukungan alpha:</strong> Dapat menjaga transparansi (tergantung pembaca).</li><li><strong>Ramah pengeditan:</strong> Stabil untuk penyimpanan dan pengalihan berulang.</li></ul>"
 
-      "description": "<p>TIFF adalah format profesional, tingkat arsip yang digunakan dalam pencitraan dan cetak:</p><ul><li><strong>Opsi tanpa kehilangan:</strong> Menjaga master yang bersih tanpa memperkenalkan artefak baru.</li><li><strong>Siap cetak:</strong> Bagus untuk output resolusi tinggi dan alur kerja pra-cetak.</li><li><strong>Dukungan alpha:</strong> Dapat menjaga transparansi (tergantung pembaca).</li><li><strong>Ramah pengeditan:</strong> Stabil untuk penyimpanan dan pengalihan berulang.</li></ul>"
+    },
+  {
+      "title": "Cara Mengonversi PNG ke TIFF Online",
+  "description": "<ol><li>Klik <em>Unggah PNG</em> dan pilih file Anda.</li><li>Tunggu pemrosesan.</li><li>Klik <em>Unduh TIFF</em> untuk menyimpan hasilnya.</li></ol><p>Output default: 32-bit RGBA, LZW tanpa kehilangan, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Cara Mengonversi PNG ke TIFF Online"
+    },
+  {
+      "title": "TIFF vs PNG: Perbedaan Utama",
+  "description": "<ul><li><strong>Kompresi:</strong> PNG menggunakan DEFLATE tanpa kehilangan; TIFF mendukung LZW/ZIP (tanpa kehilangan) atau lainnya.</li><li><strong>Ukuran file:</strong> Tergantung pada konten gambar; TIFF bisa lebih besar atau serupa dengan PNG.</li><li><strong>Transparansi:</strong> Keduanya dapat menyertakan alpha (dukungan penampil dapat bervariasi untuk TIFF).</li><li><strong>Terbaik untuk:</strong> PNG untuk pengiriman web; TIFF untuk pengeditan, cetak, dan pengarsipan.</li></ul>"
 
-      "description": "<ol><li>Klik <em>Unggah PNG</em> dan pilih file Anda.</li><li>Tunggu pemrosesan.</li><li>Klik <em>Unduh TIFF</em> untuk menyimpan hasilnya.</li></ol><p>Output default: 32-bit RGBA, LZW tanpa kehilangan, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Batas & Format yang Didukung",
+  "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Ukuran file maksimum:</strong> hingga 16&nbsp;MB per file</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Defaults:</strong> 32-bit RGBA, kompresi LZW, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs PNG: Perbedaan Utama"
-
-      "description": "<ul><li><strong>Kompresi:</strong> PNG menggunakan DEFLATE tanpa kehilangan; TIFF mendukung LZW/ZIP (tanpa kehilangan) atau lainnya.</li><li><strong>Ukuran file:</strong> Tergantung pada konten gambar; TIFF bisa lebih besar atau serupa dengan PNG.</li><li><strong>Transparansi:</strong> Keduanya dapat menyertakan alpha (dukungan penampil dapat bervariasi untuk TIFF).</li><li><strong>Terbaik untuk:</strong> PNG untuk pengiriman web; TIFF untuk pengeditan, cetak, dan pengarsipan.</li></ul>"
-
-    }
-    {
-      "title": "Batas & Format yang Didukung"
-
-      "description": "<ul><li><strong>Input yang diterima:</strong> PNG (<code>image/png</code>)</li><li><strong>Ukuran file maksimum:</strong> hingga 16&nbsp;MB per file</li><li><strong>Output:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Defaults:</strong> 32-bit RGBA, kompresi LZW, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Pemecahan Masalah"
-
-      "description": "<ul><li><strong>File terlalu besar:</strong> TIFF lebih berat untuk beberapa konten — simpan PNG untuk web atau pertimbangkan WebP/AVIF.</li><li><strong>Alpha tidak terlihat:</strong> Beberapa penampil mengabaikan alpha TIFF; verifikasi di editor profesional.</li><li><strong>Perubahan warna:</strong> Konversi ke sRGB sebelum unggah untuk warna yang konsisten di layar.</li><li><strong>Unggah gagal:</strong> Pastikan PNG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Pemecahan Masalah",
+  "description": "<ul><li><strong>File terlalu besar:</strong> TIFF lebih berat untuk beberapa konten — simpan PNG untuk web atau pertimbangkan WebP/AVIF.</li><li><strong>Alpha tidak terlihat:</strong> Beberapa penampil mengabaikan alpha TIFF; verifikasi di editor profesional.</li><li><strong>Perubahan warna:</strong> Konversi ke sRGB sebelum unggah untuk warna yang konsisten di layar.</li><li><strong>Unggah gagal:</strong> Pastikan PNG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Apakah konverter PNG ke TIFF ini gratis?"
+      "question": "Apakah konverter PNG ke TIFF ini gratis?",
+  "answer": "Ya, konverter ini sepenuhnya gratis tanpa biaya tersembunyi atau langganan."
 
-      "answer": "Ya, konverter ini sepenuhnya gratis tanpa biaya tersembunyi atau langganan."
+    },
+  {
+      "question": "Apakah TIFF berfungsi di semua aplikasi?",
+  "answer": "TIFF didukung secara luas di aplikasi profesional (Photoshop, Affinity, banyak alat RIP/cetak). Beberapa penampil sederhana mungkin tidak menampilkan alpha atau metode kompresi tertentu."
 
-    }
-    {
-      "question": "Apakah TIFF berfungsi di semua aplikasi?"
+    },
+  {
+      "question": "Seberapa besar file TIFF dibandingkan PNG?",
+  "answer": "Ini bervariasi tergantung pada gambar. Dengan LZW/ZIP, TIFF bisa serupa atau lebih besar dari PNG tergantung pada konten."
 
-      "answer": "TIFF didukung secara luas di aplikasi profesional (Photoshop, Affinity, banyak alat RIP/cetak). Beberapa penampil sederhana mungkin tidak menampilkan alpha atau metode kompresi tertentu."
+    },
+  {
+      "question": "Ukuran file apa yang didukung?",
+  "answer": "Anda dapat mengunggah gambar hingga 16&nbsp;MB per file."
 
-    }
-    {
-      "question": "Seberapa besar file TIFF dibandingkan PNG?"
+    },
+  {
+      "question": "Apakah file saya aman?",
+  "answer": "File diproses secara otomatis dan tidak disimpan lebih lama dari yang diperlukan untuk konversi."
 
-      "answer": "Ini bervariasi tergantung pada gambar. Dengan LZW/ZIP, TIFF bisa serupa atau lebih besar dari PNG tergantung pada konten."
+    },
+  {
+      "question": "Bisakah saya mengonversi beberapa PNG sekaligus?",
+  "answer": "Halaman ini mengonversi satu file pada satu waktu. Untuk kebutuhan massal, ulangi proses atau gunakan alat batch."
 
-    }
-    {
-      "question": "Ukuran file apa yang didukung?"
-
-      "answer": "Anda dapat mengunggah gambar hingga 16&nbsp;MB per file."
-
-    }
-    {
-      "question": "Apakah file saya aman?"
-
-      "answer": "File diproses secara otomatis dan tidak disimpan lebih lama dari yang diperlukan untuk konversi."
-
-    }
-    {
-      "question": "Bisakah saya mengonversi beberapa PNG sekaligus?"
-
-      "answer": "Halaman ini mengonversi satu file pada satu waktu. Untuk kebutuhan massal, ulangi proses atau gunakan alat batch."
-
-    }
-    {
-      "question": "Apakah TIFF mendukung lapisan?"
-
-      "answer": "TIFF standar adalah gambar datar. Beberapa aplikasi menyematkan data lapisan pribadi, tetapi alat ini menghasilkan TIFF datar."
+    },
+  {
+      "question": "Apakah TIFF mendukung lapisan?",
+  "answer": "TIFF standar adalah gambar datar. Beberapa aplikasi menyematkan data lapisan pribadi, tetapi alat ini menghasilkan TIFF datar."
 
     }
-  ]
-  "note": "TIFF cocok untuk penyimpanan/cetak tetapi bisa lebih berat. Untuk web, pertimbangkan PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF cocok untuk penyimpanan/cetak tetapi bisa lebih berat. Untuk web, pertimbangkan PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konversi PNG ke JPG"
+      "title": "Konversi PNG ke JPG",
+  "url": "/id/convert/png-to-jpg"
 
-      "url": "/id/convert/png-to-jpg"
+    },
+  {
+      "title": "Konversi PNG ke WebP",
+  "url": "/id/convert/png-to-webp"
 
-    }
-    {
-      "title": "Konversi PNG ke WebP"
-
-      "url": "/id/convert/png-to-webp"
-
-    }
-    {
-      "title": "Konversi JPG ke TIFF"
-
-      "url": "/id/convert/jpg-to-tiff"
+    },
+  {
+      "title": "Konversi JPG ke TIFF",
+  "url": "/id/convert/jpg-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Semua hak dilindungi."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Semua hak dilindungi.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konverter PNG ke TIFF - Gratis & Online"
-
-      "url": "https://miconvert.com/id/convert/png-to-tiff"
-
-      "description": "Alat online gratis untuk mengonversi gambar PNG ke TIFF dengan opsi tanpa kehilangan dan transparansi yang terjaga."
-
-      "inLanguage": "id"
-
-      "image": "https://miconvert.com/images/png-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Konverter PNG ke TIFF - Gratis & Online",
+  "url": "https://miconvert.com/id/convert/png-to-tiff",
+  "description": "Alat online gratis untuk mengonversi gambar PNG ke TIFF dengan opsi tanpa kehilangan dan transparansi yang terjaga.",
+  "inLanguage": "id",
+  "image": "https://miconvert.com/images/png-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Beranda",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Beranda"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konversi",
+  "item": "https://miconvert.com/id/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konversi"
-
-          "item": "https://miconvert.com/id/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG ke TIFF"
-
-          "item": "https://miconvert.com/id/convert/png-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG ke TIFF",
+  "item": "https://miconvert.com/id/convert/png-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Konverter PNG ke TIFF",
+  "applicationCategory": "Aplikasi Multimedia",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/id/convert/png-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Opsi LZW tanpa kehilangan",
+  "Menjaga alpha",
+  "Siap cetak 300 DPI"
 
-      "name": "Konverter PNG ke TIFF"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
 
-      "applicationCategory": "Aplikasi Multimedia"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/id/convert/png-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Opsi LZW tanpa kehilangan"
-
-        "Menjaga alpha"
-
-        "Siap cetak 300 DPI"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Apakah konverter PNG ke TIFF ini gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ya, konverter ini sepenuhnya gratis tanpa biaya tersembunyi atau langganan."
+          "@type": "Question",
+  "name": "Apakah konverter PNG ke TIFF ini gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ya, konverter ini sepenuhnya gratis tanpa biaya tersembunyi atau langganan."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ukuran file apa yang didukung?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Anda dapat mengunggah gambar hingga 16 MB per file."
+        },
+  {
+          "@type": "Question",
+  "name": "Ukuran file apa yang didukung?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Anda dapat mengunggah gambar hingga 16 MB per file."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Apakah TIFF mendukung lapisan?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "TIFF standar adalah gambar datar; beberapa aplikasi menyematkan data lapisan pribadi. Alat ini menghasilkan TIFF datar."
+        },
+  {
+          "@type": "Question",
+  "name": "Apakah TIFF mendukung lapisan?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "TIFF standar adalah gambar datar; beberapa aplikasi menyematkan data lapisan pribadi. Alat ini menghasilkan TIFF datar."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Cara mengonversi PNG ke TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Cara mengonversi PNG ke TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klik Unggah PNG dan pilih file Anda."
 
-          "text": "Klik Unggah PNG dan pilih file Anda."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Tunggu pemrosesan selesai."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klik Unduh TIFF untuk menyimpan hasilnya."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Tunggu pemrosesan selesai."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klik Unduh TIFF untuk menyimpan hasilnya."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Konverter PNG ke TIFF"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

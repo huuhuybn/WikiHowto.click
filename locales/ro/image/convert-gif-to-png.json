@@ -1,364 +1,276 @@
 {
-  "lang": "ro"
-
-  "lang_name": "Română"
-
-  "title": "Converter GIF în PNG - Gratuit & Online | miconvert.com"
-
-  "sub_title": "Converteți imagini GIF în format PNG online cu suport pentru transparență, calitate înaltă și fără mărci de apă."
-
-  "hint": "Încărcați imaginea GIF pentru a începe conversia..."
-
-  "btn_download": "Convertește în PNG"
-
-  "btn_paste": "Încărcați GIF"
-
-  "btn_clear": "Șterge"
-
+  "lang": "ro",
+  "lang_name": "Română",
+  "title": "Converter GIF în PNG - Gratuit & Online | miconvert.com",
+  "sub_title": "Converteți imagini GIF în format PNG online cu suport pentru transparență, calitate înaltă și fără mărci de apă.",
+  "hint": "Încărcați imaginea GIF pentru a începe conversia...",
+  "btn_download": "Convertește în PNG",
+  "btn_paste": "Încărcați GIF",
+  "btn_clear": "Șterge",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Converteți <strong>GIF în PNG</strong> pentru o fidelitate mai mare și suport complet pentru transparență. Converterul nostru online gratuit transformă GIF-uri animate sau statice în imagini PNG de înaltă calitate. Deși GIF este excelent pentru animații simple, PNG oferă o adâncime superioară a culorilor, o transparență mai bună și compresie fără pierderi pentru grafica statică clară.</p><p><strong>Notă:</strong> GIF-urile animate sunt convertite într-o <em>singură imagine statică</em> (primul cadru). Pentru ieșire animată, încercați <a href='/ro/convert/gif-to-webp'>GIF în WebP</a>.</p>"
-
+  },
+  "description": "<p>Converteți <strong>GIF în PNG</strong> pentru o fidelitate mai mare și suport complet pentru transparență. Converterul nostru online gratuit transformă GIF-uri animate sau statice în imagini PNG de înaltă calitate. Deși GIF este excelent pentru animații simple, PNG oferă o adâncime superioară a culorilor, o transparență mai bună și compresie fără pierderi pentru grafica statică clară.</p><p><strong>Notă:</strong> GIF-urile animate sunt convertite într-o <em>singură imagine statică</em> (primul cadru). Pentru ieșire animată, încercați <a href='/ro/convert/gif-to-webp'>GIF în WebP</a>.</p>",
   "head": {
-    "title": "Convertește GIF în PNG Online - Gratuit Converter GIF în PNG | miconvert.com"
+    "title": "Convertește GIF în PNG Online - Gratuit Converter GIF în PNG | miconvert.com",
+  "description": "Converteți GIF în PNG online cu suport pentru transparență, calitate înaltă și fără mărci de apă. Gratuit, rapid și sigur instrument de conversie GIF în PNG.",
+  "keywords": "gif în png, convertește gif în png, gratuit gif în png, converter gif online, imagini transparente",
+  "canonical": "https://miconvert.com/ro/convert/gif-to-png",
+  "og_title": "Converter GIF în PNG - Gratuit & Online",
+  "og_description": "Converteți imagini GIF în format PNG cu suport pentru transparență și calitate înaltă. 100% gratuit, rapid și sigur.",
+  "og_url": "https://miconvert.com/ro/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Converteți GIF în PNG online cu suport pentru transparență, calitate înaltă și fără mărci de apă. Gratuit, rapid și sigur instrument de conversie GIF în PNG."
-
-    "keywords": "gif în png, convertește gif în png, gratuit gif în png, converter gif online, imagini transparente"
-
-    "canonical": "https://miconvert.com/ro/convert/gif-to-png"
-
-    "og_title": "Converter GIF în PNG - Gratuit & Online"
-
-    "og_description": "Converteți imagini GIF în format PNG cu suport pentru transparență și calitate înaltă. 100% gratuit, rapid și sigur."
-
-    "og_url": "https://miconvert.com/ro/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convertește GIF în PNG Online"
+    "title": "Convertește GIF în PNG Online",
+  "description": "Converter gratuit și rapid GIF în PNG cu suport pentru transparență și calitate înaltă. Funcționează instantaneu pe orice dispozitiv, fără a fi necesară înregistrarea."
 
-    "description": "Converter gratuit și rapid GIF în PNG cu suport pentru transparență și calitate înaltă. Funcționează instantaneu pe orice dispozitiv, fără a fi necesară înregistrarea."
-
-  }
+  },
   "h2": [
     {
-      "title": "De ce să convertești GIF în PNG?"
+      "title": "De ce să convertești GIF în PNG?",
+  "description": "<p>GIF este limitat la 256 de culori și este potrivit pentru animații simple. PNG este ideal pentru imagini statice de înaltă calitate:</p><ul><li><strong>Calitate mai mare:</strong> Truecolor (24-bit) + alpha vs paleta de 8-bit a GIF-ului.</li><li><strong>Transparență:</strong> PNG suportă transparența completă alpha pentru margini netede.</li><li><strong>Compresie fără pierderi:</strong> PNG păstrează detaliile fără pierderi de calitate.</li><li><strong>Compatibilitate universală:</strong> Suportat pe scară largă în aplicații și platforme.</li></ul>"
 
-      "description": "<p>GIF este limitat la 256 de culori și este potrivit pentru animații simple. PNG este ideal pentru imagini statice de înaltă calitate:</p><ul><li><strong>Calitate mai mare:</strong> Truecolor (24-bit) + alpha vs paleta de 8-bit a GIF-ului.</li><li><strong>Transparență:</strong> PNG suportă transparența completă alpha pentru margini netede.</li><li><strong>Compresie fără pierderi:</strong> PNG păstrează detaliile fără pierderi de calitate.</li><li><strong>Compatibilitate universală:</strong> Suportat pe scară largă în aplicații și platforme.</li></ul>"
+    },
+  {
+      "title": "Cum să convertești GIF în PNG Online",
+  "description": "<ol><li>Faceți clic pe <em>Încărcați GIF</em> și selectați fișierul dvs.</li><li>Așteptați finalizarea procesării.</li><li>Faceți clic pe <em>Descarcă PNG</em> pentru a salva rezultatul.</li></ol><p>GIF-uri animate: doar primul cadru este exportat ca PNG.</p>"
 
-    }
-    {
-      "title": "Cum să convertești GIF în PNG Online"
+    },
+  {
+      "title": "GIF vs PNG: Diferențe Cheie",
+  "description": "<table class='table-compare'><thead><tr><th>Caracteristică</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Adâncimea culorii</td><td>8-bit (256 culori)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparență</td><td>Masca de 1-bit (on/off)</td><td>Transparență completă alpha</td></tr><tr><td>Compresie</td><td>Fără pierderi (LZW)</td><td>Fără pierderi (DEFLATE)</td></tr><tr><td>Animatie</td><td>Suportat</td><td>Nu este suportat (static)</td></tr><tr><td>Cel mai bun pentru</td><td>Animatii simple, autocolante</td><td>Logouri, UI, capturi de ecran, grafica statica</td></tr></tbody></table>"
 
-      "description": "<ol><li>Faceți clic pe <em>Încărcați GIF</em> și selectați fișierul dvs.</li><li>Așteptați finalizarea procesării.</li><li>Faceți clic pe <em>Descarcă PNG</em> pentru a salva rezultatul.</li></ol><p>GIF-uri animate: doar primul cadru este exportat ca PNG.</p>"
+    },
+  {
+      "title": "Limite & Formate Suportate",
+  "description": "<ul><li><strong>Input acceptat:</strong> GIF (<code>image/gif</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB per fișier</li><li><strong>Ieșire:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG: Diferențe Cheie"
+    },
+  {
+      "title": "Funcții ale Converterului nostru GIF în PNG",
+  "description": "<ul><li>100% gratuit, fără mărci de apă</li><li>Păstrează transparența acolo unde este prezentă</li><li>Ieșire PNG fără pierderi</li><li>Interfață prietenoasă cu dispozitivele mobile</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Caracteristică</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Adâncimea culorii</td><td>8-bit (256 culori)</td><td>Truecolor (24-bit) + alpha</td></tr><tr><td>Transparență</td><td>Masca de 1-bit (on/off)</td><td>Transparență completă alpha</td></tr><tr><td>Compresie</td><td>Fără pierderi (LZW)</td><td>Fără pierderi (DEFLATE)</td></tr><tr><td>Animatie</td><td>Suportat</td><td>Nu este suportat (static)</td></tr><tr><td>Cel mai bun pentru</td><td>Animatii simple, autocolante</td><td>Logouri, UI, capturi de ecran, grafica statica</td></tr></tbody></table>"
+    },
+  {
+      "title": "Ce este GIF?",
+  "description": "<p>GIF (Graphics Interchange Format) suportă animații de bază și folosește compresie fără pierderi LZW, dar este restricționat la o paletă de 256 de culori.</p>"
 
-    }
-    {
-      "title": "Limite & Formate Suportate"
+    },
+  {
+      "title": "Ce este PNG?",
+  "description": "<p>PNG (Portable Network Graphics) este un format fără pierderi care suportă truecolor și transparență alpha — ideal pentru imagini statice de înaltă calitate.</p>"
 
-      "description": "<ul><li><strong>Input acceptat:</strong> GIF (<code>image/gif</code>)</li><li><strong>Dimensiunea maximă a fișierului:</strong> până la 16&nbsp;MB per fișier</li><li><strong>Ieșire:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Depanare",
+  "description": "<ul><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că fișierul este GIF și ≤ 16&nbsp;MB.</li><li><strong>Margini de transparență zimțate:</strong> Transparența de 1-bit a GIF-ului poate arăta aspru; rafinați cu <a href='/ro/effect/remove-background'>Îndepărtător de fundal</a>.</li><li><strong>Necesită animație:</strong> Folosiți <a href='/ro/convert/gif-to-webp'>GIF în WebP</a> pentru a păstra mișcarea.</li></ul>"
 
-    }
-    {
-      "title": "Funcții ale Converterului nostru GIF în PNG"
-
-      "description": "<ul><li>100% gratuit, fără mărci de apă</li><li>Păstrează transparența acolo unde este prezentă</li><li>Ieșire PNG fără pierderi</li><li>Interfață prietenoasă cu dispozitivele mobile</li></ul>"
-
-    }
-    {
-      "title": "Ce este GIF?"
-
-      "description": "<p>GIF (Graphics Interchange Format) suportă animații de bază și folosește compresie fără pierderi LZW, dar este restricționat la o paletă de 256 de culori.</p>"
-
-    }
-    {
-      "title": "Ce este PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) este un format fără pierderi care suportă truecolor și transparență alpha — ideal pentru imagini statice de înaltă calitate.</p>"
-
-    }
-    {
-      "title": "Depanare"
-
-      "description": "<ul><li><strong>Încărcarea eșuează:</strong> Asigurați-vă că fișierul este GIF și ≤ 16&nbsp;MB.</li><li><strong>Margini de transparență zimțate:</strong> Transparența de 1-bit a GIF-ului poate arăta aspru; rafinați cu <a href='/ro/effect/remove-background'>Îndepărtător de fundal</a>.</li><li><strong>Necesită animație:</strong> Folosiți <a href='/ro/convert/gif-to-webp'>GIF în WebP</a> pentru a păstra mișcarea.</li></ul>"
+    },
+  {
+      "title": "Cazuri de utilizare: Când să convertești GIF în PNG",
+  "description": "<ul><li><strong>Logouri & icoane</strong> care necesită transparență netedă.</li><li><strong>Capturi de ecran/UI</strong> care necesită text și linii clare.</li><li><strong>Arhivare</strong> cadre statice la o calitate mai mare.</li></ul>"
 
     }
-    {
-      "title": "Cazuri de utilizare: Când să convertești GIF în PNG"
-
-      "description": "<ul><li><strong>Logouri & icoane</strong> care necesită transparență netedă.</li><li><strong>Capturi de ecran/UI</strong> care necesită text și linii clare.</li><li><strong>Arhivare</strong> cadre statice la o calitate mai mare.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Este acest converter GIF în PNG gratuit?"
+      "question": "Este acest converter GIF în PNG gratuit?",
+  "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
 
-      "answer": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+    },
+  {
+      "question": "Va păstra PNG transparența din GIF?",
+  "answer": "Da. Zonele transparente de 1-bit ale GIF-ului rămân transparente în PNG; pentru margini mai netede, editați canalul alpha după conversie."
 
-    }
-    {
-      "question": "Va păstra PNG transparența din GIF?"
+    },
+  {
+      "question": "Ce se întâmplă cu GIF-urile animate?",
+  "answer": "Numai primul cadru este convertit într-o imagine PNG statică. Pentru a păstra animația, folosiți GIF în WebP."
 
-      "answer": "Da. Zonele transparente de 1-bit ale GIF-ului rămân transparente în PNG; pentru margini mai netede, editați canalul alpha după conversie."
+    },
+  {
+      "question": "Voi pierde calitate când convertesc GIF în PNG?",
+  "answer": "Nu. PNG folosește compresie fără pierderi și suportă culori complete, îmbunătățind adesea fidelitatea vizuală față de GIF-ul de 256 de culori."
 
-    }
-    {
-      "question": "Ce se întâmplă cu GIF-urile animate?"
+    },
+  {
+      "question": "Ce dimensiuni de fișiere sunt acceptate?",
+  "answer": "Puteți încărca imagini de până la 16 MB per fișier."
 
-      "answer": "Numai primul cadru este convertit într-o imagine PNG statică. Pentru a păstra animația, folosiți GIF în WebP."
+    },
+  {
+      "question": "Sunt fișierele mele în siguranță?",
+  "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
 
-    }
-    {
-      "question": "Voi pierde calitate când convertesc GIF în PNG?"
-
-      "answer": "Nu. PNG folosește compresie fără pierderi și suportă culori complete, îmbunătățind adesea fidelitatea vizuală față de GIF-ul de 256 de culori."
-
-    }
-    {
-      "question": "Ce dimensiuni de fișiere sunt acceptate?"
-
-      "answer": "Puteți încărca imagini de până la 16 MB per fișier."
-
-    }
-    {
-      "question": "Sunt fișierele mele în siguranță?"
-
-      "answer": "Fișierele sunt procesate automat și nu sunt păstrate mai mult decât este necesar pentru conversie."
-
-    }
-    {
-      "question": "Pot să convertesc mai multe fișiere GIF simultan?"
-
-      "answer": "Această pagină convertește un fișier la un moment dat. Pentru nevoi de volum, repetați procesul sau folosiți un instrument de lot."
+    },
+  {
+      "question": "Pot să convertesc mai multe fișiere GIF simultan?",
+  "answer": "Această pagină convertește un fișier la un moment dat. Pentru nevoi de volum, repetați procesul sau folosiți un instrument de lot."
 
     }
-  ]
-  "note": "GIF-urile animate devin PNG-uri statice (primul cadru). Pentru ieșire animată, convertește GIF în WebP."
-
+  ],
+  "note": "GIF-urile animate devin PNG-uri statice (primul cadru). Pentru ieșire animată, convertește GIF în WebP.",
   "related_links": [
     {
-      "title": "Convertește GIF în JPG"
+      "title": "Convertește GIF în JPG",
+  "url": "/ro/convert/gif-to-jpg"
 
-      "url": "/ro/convert/gif-to-jpg"
+    },
+  {
+      "title": "Convertește PNG în GIF",
+  "url": "/ro/convert/png-to-gif"
 
-    }
-    {
-      "title": "Convertește PNG în GIF"
-
-      "url": "/ro/convert/png-to-gif"
-
-    }
-    {
-      "title": "Convertește GIF în WebP"
-
-      "url": "/ro/convert/gif-to-webp"
+    },
+  {
+      "title": "Convertește GIF în WebP",
+  "url": "/ro/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Toate drepturile rezervate.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Converter GIF în PNG - Gratuit & Online"
-
-      "url": "https://miconvert.com/ro/convert/gif-to-png"
-
-      "description": "Instrument online gratuit pentru a converti imagini GIF în PNG cu compresie fără pierderi și suport pentru transparență."
-
-      "inLanguage": "ro"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Converter GIF în PNG - Gratuit & Online",
+  "url": "https://miconvert.com/ro/convert/gif-to-png",
+  "description": "Instrument online gratuit pentru a converti imagini GIF în PNG cu compresie fără pierderi și suport pentru transparență.",
+  "inLanguage": "ro",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Acasă",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Acasă"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertește",
+  "item": "https://miconvert.com/ro/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertește"
-
-          "item": "https://miconvert.com/ro/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF în PNG"
-
-          "item": "https://miconvert.com/ro/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF în PNG",
+  "item": "https://miconvert.com/ro/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Converter GIF în PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ro/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Ieșire PNG fără pierderi",
+  "Suport pentru transparență",
+  "Procesare rapidă"
 
-      "name": "Converter GIF în PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ro/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Ieșire PNG fără pierderi"
-
-        "Suport pentru transparență"
-
-        "Procesare rapidă"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Este acest converter GIF în PNG gratuit?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
+          "@type": "Question",
+  "name": "Este acest converter GIF în PNG gratuit?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Da, converterul este complet gratuit, fără taxe ascunse sau abonamente."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ce se întâmplă cu GIF-urile animate?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Numai primul cadru este convertit într-o imagine PNG statică. Pentru a păstra animația, folosiți GIF în WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Ce se întâmplă cu GIF-urile animate?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Numai primul cadru este convertit într-o imagine PNG statică. Pentru a păstra animația, folosiți GIF în WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ce dimensiuni de fișiere sunt acceptate?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Puteți încărca imagini de până la 16 MB per fișier."
+        },
+  {
+          "@type": "Question",
+  "name": "Ce dimensiuni de fișiere sunt acceptate?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Puteți încărca imagini de până la 16 MB per fișier."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Cum să convertești GIF în PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Cum să convertești GIF în PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Faceți clic pe Încărcați GIF și selectați fișierul dvs."
 
-          "text": "Faceți clic pe Încărcați GIF și selectați fișierul dvs."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Așteptați finalizarea procesării."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Faceți clic pe Descarcă PNG pentru a salva rezultatul."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Așteptați finalizarea procesării."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Faceți clic pe Descarcă PNG pentru a salva rezultatul."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Converter GIF în PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

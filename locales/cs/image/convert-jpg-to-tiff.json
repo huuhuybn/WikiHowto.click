@@ -1,367 +1,274 @@
 {
-  "lang": "cs"
-
-  "lang_name": "Čeština"
-
-  "title": "JPG na TIFF Konvertor - Zdarma & Online | miconvert.com"
-
-  "sub_title": "Převeďte JPG obrázky na TIFF online s možnostmi bezztrátové komprese a kvalitou připravenou k tisku. Žádné vodotisky."
-
-  "hint": "Nahrajte svůj JPG obrázek, abyste začali konvertovat..."
-
-  "btn_download": "Převést na TIFF"
-
-  "btn_paste": "Nahrát JPG"
-
-  "btn_clear": "Vymazat"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
+  "lang": "cs",
+  "lang_name": "Čeština",
+  "title": "JPG na TIFF Konvertor - Zdarma & Online | miconvert.com",
+  "sub_title": "Převeďte JPG obrázky na TIFF online s možnostmi bezztrátové komprese a kvalitou připravenou k tisku. Žádné vodotisky.",
+  "hint": "Nahrajte svůj JPG obrázek, abyste začali konvertovat...",
+  "btn_download": "Převést na TIFF",
+  "btn_paste": "Nahrát JPG",
+  "btn_clear": "Vymazat",
+  "ogImage": "https://miconvert.com/images/jpg-to-tiff.jpg",
   "head": {
-    "title": "Převeďte JPG na TIFF - Zdarma Online JPG na TIFF Konvertor"
+    "title": "Převeďte JPG na TIFF - Zdarma Online JPG na TIFF Konvertor",
+  "description": "Převeďte JPG obrázky na TIFF formát online zdarma. Vysoce kvalitní konverze JPG na TIFF s rychlým zpracováním.",
+  "keywords": "jpg na tiff, převést jpg na tiff, zdarma jpg na tiff, online tiff konvertor, konverze obrázků",
+  "canonical": "https://miconvert.com/cs/convert/jpg-to-tiff",
+  "og_title": "Převeďte JPG na TIFF - Zdarma Online JPG na TIFF Konvertor",
+  "og_description": "Převeďte JPG obrázky na TIFF formát online zdarma. Vysoce kvalitní konverze JPG na TIFF s rychlým zpracováním.",
+  "og_url": "https://miconvert.com/cs/convert/jpg-to-tiff",
+  "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-    "description": "Převeďte JPG obrázky na TIFF formát online zdarma. Vysoce kvalitní konverze JPG na TIFF s rychlým zpracováním."
-
-    "keywords": "jpg na tiff, převést jpg na tiff, zdarma jpg na tiff, online tiff konvertor, konverze obrázků"
-
-    "canonical": "https://miconvert.com/cs/convert/jpg-to-tiff"
-
-    "og_title": "Převeďte JPG na TIFF - Zdarma Online JPG na TIFF Konvertor"
-
-    "og_description": "Převeďte JPG obrázky na TIFF formát online zdarma. Vysoce kvalitní konverze JPG na TIFF s rychlým zpracováním."
-
-    "og_url": "https://miconvert.com/cs/convert/jpg-to-tiff"
-
-    "og_image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Převeďte JPG na TIFF Online"
+    "title": "Převeďte JPG na TIFF Online",
+  "description": "Zdarma JPG na TIFF konvertor s možnostmi bezztrátové komprese a výstupem připraveným k tisku. Funguje na jakémkoli zařízení — není potřeba registrace."
 
-    "description": "Zdarma JPG na TIFF konvertor s možnostmi bezztrátové komprese a výstupem připraveným k tisku. Funguje na jakémkoli zařízení — není potřeba registrace."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-tiff"
-
-    "title": "JPG na TIFF Konvertor"
-
-    "description": "Převeďte JPG obrázky na TIFF s bezztrátovou kompresí LZW/ZIP a přesnými barvami."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "TIFF"
-
-    "allowedTypes": [
+    "type": "jpg-to-tiff",
+  "title": "JPG na TIFF Konvertor",
+  "description": "Převeďte JPG obrázky na TIFF s bezztrátovou kompresí LZW/ZIP a přesnými barvami.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "TIFF",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/tiff"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/tiff",
+  "outputExtension": ".tiff",
+  "features": [
+      "Možnost bezztrátového TIFF (LZW/ZIP)",
+  "Kvalita připravená k tisku",
+  "Přesné barvy",
+  "Zdarma online nástroj"
 
-    "outputExtension": ".tiff"
-
-    "features": [
-      "Možnost bezztrátového TIFF (LZW/ZIP)"
-
-      "Kvalita připravená k tisku"
-
-      "Přesné barvy"
-
-      "Zdarma online nástroj"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "tiff": {
-        "compression": "lzw"
-
-        "predictor": 2
-        "bitDepth": 24
-        "dpi": 300
-        "alpha": false
+        "compression": "lzw",
+  "predictor": 2,
+  "bitDepth": 24,
+  "dpi": 300,
+  "alpha": false
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Konverze JPG na TIFF dokončena"
+    "title": "Konverze JPG na TIFF dokončena",
+  "back_button": "Zpět na konvertor",
+  "convert_another": "Převést další JPG",
+  "quick_conversions": "Rychlé konverze:"
 
-    "back_button": "Zpět na konvertor"
-
-    "convert_another": "Převést další JPG"
-
-    "quick_conversions": "Rychlé konverze:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Proč převádět JPG na TIFF?"
+      "title": "Proč převádět JPG na TIFF?",
+  "description": "<p>TIFF je profesionální, archivační formát používaný v zobrazování a tisku:</p><ul><li><strong>Bezztrátové možnosti:</strong> Uložte čistý master bez nových artefaktů JPEG.</li><li><strong>Připraveno k tisku:</strong> Zachovává detaily pro výstup s vysokým rozlišením.</li><li><strong>Flexibilní:</strong> Podporuje alfa kanál a více barevných prostorů (závislé na čtenáři).</li><li><strong>Přátelské k pracovnímu postupu:</strong> Stabilní pro opakované úpravy a předání.</li></ul><p><em>Poznámka:</em> Převod z JPG (ztrátový) neobnoví ztracené detaily — ale pomáhá se vyhnout dalšímu zhoršení při dalších ukládáních.</p>"
 
-      "description": "<p>TIFF je profesionální, archivační formát používaný v zobrazování a tisku:</p><ul><li><strong>Bezztrátové možnosti:</strong> Uložte čistý master bez nových artefaktů JPEG.</li><li><strong>Připraveno k tisku:</strong> Zachovává detaily pro výstup s vysokým rozlišením.</li><li><strong>Flexibilní:</strong> Podporuje alfa kanál a více barevných prostorů (závislé na čtenáři).</li><li><strong>Přátelské k pracovnímu postupu:</strong> Stabilní pro opakované úpravy a předání.</li></ul><p><em>Poznámka:</em> Převod z JPG (ztrátový) neobnoví ztracené detaily — ale pomáhá se vyhnout dalšímu zhoršení při dalších ukládáních.</p>"
+    },
+  {
+      "title": "Jak převést JPG na TIFF online",
+  "description": "<ol><li>Klikněte na <em>Nahrát JPG</em> a vyberte svou fotografii.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout TIFF</em> pro uložení souboru.</li></ol><p>Výchozí: 24-bit RGB, LZW bezztrátový, 300&nbsp;DPI.</p>"
 
-    }
-    {
-      "title": "Jak převést JPG na TIFF online"
+    },
+  {
+      "title": "TIFF vs JPG: Klíčové rozdíly",
+  "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Komprese</td><td>Ztrátová (JPEG)</td><td>Bezztrátová (LZW/ZIP) nebo JPEG/žádná</td></tr><tr><td>Velikost souboru</td><td>Malá</td><td>Větší (závisí na kompresi)</td></tr><tr><td>Průhlednost</td><td>Ne</td><td>Volitelná alfa (závislé na čtenáři)</td></tr><tr><td>Nejlepší pro</td><td>Web/sdílení fotografií</td><td>Úpravy, tisk, archivace</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klikněte na <em>Nahrát JPG</em> a vyberte svou fotografii.</li><li>Počkejte na zpracování.</li><li>Klikněte na <em>Stáhnout TIFF</em> pro uložení souboru.</li></ol><p>Výchozí: 24-bit RGB, LZW bezztrátový, 300&nbsp;DPI.</p>"
+    },
+  {
+      "title": "Podporované limity a formáty",
+  "description": "<ul><li><strong>Přijatý vstup:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Výchozí:</strong> 24-bit RGB, LZW komprese, 300&nbsp;DPI</li></ul>"
 
-    }
-    {
-      "title": "TIFF vs JPG: Klíčové rozdíly"
-
-      "description": "<table class='table-compare'><thead><tr><th>Funkce</th><th>JPG</th><th>TIFF</th></tr></thead><tbody><tr><td>Komprese</td><td>Ztrátová (JPEG)</td><td>Bezztrátová (LZW/ZIP) nebo JPEG/žádná</td></tr><tr><td>Velikost souboru</td><td>Malá</td><td>Větší (závisí na kompresi)</td></tr><tr><td>Průhlednost</td><td>Ne</td><td>Volitelná alfa (závislé na čtenáři)</td></tr><tr><td>Nejlepší pro</td><td>Web/sdílení fotografií</td><td>Úpravy, tisk, archivace</td></tr></tbody></table>"
-
-    }
-    {
-      "title": "Podporované limity a formáty"
-
-      "description": "<ul><li><strong>Přijatý vstup:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximální velikost souboru:</strong> až 16&nbsp;MB na soubor</li><li><strong>Výstup:</strong> TIFF (<code>.tiff</code>, MIME <code>image/tiff</code>)</li><li><strong>Výchozí:</strong> 24-bit RGB, LZW komprese, 300&nbsp;DPI</li></ul>"
-
-    }
-    {
-      "title": "Odstraňování problémů"
-
-      "description": "<ul><li><strong>Soubor příliš velký:</strong> TIFF je těžší záměrně. Pro menší bezztrátové, zkuste <a href='/cs/convert/jpg-to-png'>JPG na PNG</a>.</li><li><strong>Potřebujete průhlednost:</strong> Zdrojový JPG postrádá alfu; převést a upravit alfu v editoru, nebo začít z PNG.</li><li><strong>Posun barev:</strong> Převeďte na sRGB před nahráním pro webovou konzistenci.</li><li><strong>Nahrání selhalo:</strong> Zajistěte, aby JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Odstraňování problémů",
+  "description": "<ul><li><strong>Soubor příliš velký:</strong> TIFF je těžší záměrně. Pro menší bezztrátové, zkuste <a href='/cs/convert/jpg-to-png'>JPG na PNG</a>.</li><li><strong>Potřebujete průhlednost:</strong> Zdrojový JPG postrádá alfu; převést a upravit alfu v editoru, nebo začít z PNG.</li><li><strong>Posun barev:</strong> Převeďte na sRGB před nahráním pro webovou konzistenci.</li><li><strong>Nahrání selhalo:</strong> Zajistěte, aby JPG/JPEG ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Je tento JPG na TIFF konvertor zdarma?"
+      "question": "Je tento JPG na TIFF konvertor zdarma?",
+  "answer": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
 
-      "answer": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+    },
+  {
+      "question": "Bude TIFF fungovat ve všech aplikacích?",
+  "answer": "TIFF je široce podporován v profesionálních aplikacích (Photoshop, Affinity, mnoho RIP/tiskových nástrojů). Některé jednoduché prohlížeče nemusí podporovat všechny možnosti komprese."
 
-    }
-    {
-      "question": "Bude TIFF fungovat ve všech aplikacích?"
+    },
+  {
+      "question": "Jak moc větší jsou TIFF soubory ve srovnání s JPG?",
+  "answer": "Obvykle 3–10× větší než JPG o stejných rozměrech (liší se podle obsahu a komprese)."
 
-      "answer": "TIFF je široce podporován v profesionálních aplikacích (Photoshop, Affinity, mnoho RIP/tiskových nástrojů). Některé jednoduché prohlížeče nemusí podporovat všechny možnosti komprese."
+    },
+  {
+      "question": "Jaké velikosti souborů jsou podporovány?",
+  "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
 
-    }
-    {
-      "question": "Jak moc větší jsou TIFF soubory ve srovnání s JPG?"
+    },
+  {
+      "question": "Jsou mé soubory v bezpečí?",
+  "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro konverzi."
 
-      "answer": "Obvykle 3–10× větší než JPG o stejných rozměrech (liší se podle obsahu a komprese)."
+    },
+  {
+      "question": "Mohu převést více JPG najednou?",
+  "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte hromadný nástroj."
 
-    }
-    {
-      "question": "Jaké velikosti souborů jsou podporovány?"
-
-      "answer": "Můžete nahrát obrázky až do 16&nbsp;MB na soubor."
-
-    }
-    {
-      "question": "Jsou mé soubory v bezpečí?"
-
-      "answer": "Soubory jsou zpracovávány automaticky a nejsou uchovávány déle, než je nutné pro konverzi."
-
-    }
-    {
-      "question": "Mohu převést více JPG najednou?"
-
-      "answer": "Tato stránka převádí jeden soubor najednou. Pro hromadné potřeby opakujte proces nebo použijte hromadný nástroj."
-
-    }
-    {
-      "question": "Podporuje TIFF vrstvy?"
-
-      "answer": "Standardní TIFF je plochý obrázek; některé aplikace ukládají 'vrstvené TIFF' svým způsobem. Tento nástroj exportuje plochý TIFF."
+    },
+  {
+      "question": "Podporuje TIFF vrstvy?",
+  "answer": "Standardní TIFF je plochý obrázek; některé aplikace ukládají 'vrstvené TIFF' svým způsobem. Tento nástroj exportuje plochý TIFF."
 
     }
-  ]
-  "note": "TIFF je vhodný pro archivaci/tisk, ale má velkou velikost. Pro web zvažte PNG/WebP/AVIF."
-
+  ],
+  "note": "TIFF je vhodný pro archivaci/tisk, ale má velkou velikost. Pro web zvažte PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Převést JPG na PNG"
+      "title": "Převést JPG na PNG",
+  "url": "/cs/convert/jpg-to-png"
 
-      "url": "/cs/convert/jpg-to-png"
+    },
+  {
+      "title": "Převést JPG na WebP",
+  "url": "/cs/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "Převést JPG na WebP"
-
-      "url": "/cs/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "Převést PNG na TIFF"
-
-      "url": "/cs/convert/png-to-tiff"
+    },
+  {
+      "title": "Převést PNG na TIFF",
+  "url": "/cs/convert/png-to-tiff"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Všechna práva vyhrazena.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG na TIFF Konvertor - Zdarma & Online"
-
-      "url": "https://miconvert.com/cs/convert/jpg-to-tiff"
-
-      "description": "Zdarma online nástroj pro převod JPG obrázků na TIFF s bezztrátovou kompresí a výstupem připraveným k tisku."
-
-      "inLanguage": "cs"
-
-      "image": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG na TIFF Konvertor - Zdarma & Online",
+  "url": "https://miconvert.com/cs/convert/jpg-to-tiff",
+  "description": "Zdarma online nástroj pro převod JPG obrázků na TIFF s bezztrátovou kompresí a výstupem připraveným k tisku.",
+  "inLanguage": "cs",
+  "image": "https://miconvert.com/images/jpg-to-tiff.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Domov",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Domov"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Převést",
+  "item": "https://miconvert.com/cs/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Převést"
-
-          "item": "https://miconvert.com/cs/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG na TIFF"
-
-          "item": "https://miconvert.com/cs/convert/jpg-to-tiff"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG na TIFF",
+  "item": "https://miconvert.com/cs/convert/jpg-to-tiff"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG na TIFF Konvertor",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/cs/convert/jpg-to-tiff",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Bezztrátová LZW možnost",
+  "Připraveno k tisku 300 DPI",
+  "Přesné barvy"
 
-      "name": "JPG na TIFF Konvertor"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/cs/convert/jpg-to-tiff"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Bezztrátová LZW možnost"
-
-        "Připraveno k tisku 300 DPI"
-
-        "Přesné barvy"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-tiff.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Je tento JPG na TIFF konvertor zdarma?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
+          "@type": "Question",
+  "name": "Je tento JPG na TIFF konvertor zdarma?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ano, konvertor je zcela zdarma bez skrytých poplatků nebo předplatného."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Jaké velikosti souborů jsou podporovány?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Můžete nahrát obrázky až do 16 MB na soubor."
+        },
+  {
+          "@type": "Question",
+  "name": "Jaké velikosti souborů jsou podporovány?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Můžete nahrát obrázky až do 16 MB na soubor."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Podporuje TIFF vrstvy?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standardní TIFF je plochý. Některé aplikace ukládají soukromá data vrstev; tento nástroj exportuje plochý TIFF."
+        },
+  {
+          "@type": "Question",
+  "name": "Podporuje TIFF vrstvy?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standardní TIFF je plochý. Některé aplikace ukládají soukromá data vrstev; tento nástroj exportuje plochý TIFF."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Jak převést JPG na TIFF"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Jak převést JPG na TIFF",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikněte na Nahrát JPG a vyberte svou fotografii."
 
-          "text": "Klikněte na Nahrát JPG a vyberte svou fotografii."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Počkejte na dokončení zpracování."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikněte na Stáhnout TIFF pro uložení souboru."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Počkejte na dokončení zpracování."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikněte na Stáhnout TIFF pro uložení souboru."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG na TIFF Konvertor"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

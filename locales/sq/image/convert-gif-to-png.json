@@ -1,364 +1,276 @@
 {
-  "lang": "sq"
-
-  "lang_name": "Shqip"
-
-  "title": "Konvertues GIF në PNG - Falas & Online | miconvert.com"
-
-  "sub_title": "Konvertoni imazhet GIF në formatin PNG online me mbështetje për transparencë, cilësi të lartë dhe pa marka uji."
-
-  "hint": "Ngarko imazhin tuaj GIF për të filluar konvertimin..."
-
-  "btn_download": "Konverto në PNG"
-
-  "btn_paste": "Ngarko GIF"
-
-  "btn_clear": "Pastro"
-
+  "lang": "sq",
+  "lang_name": "Shqip",
+  "title": "Konvertues GIF në PNG - Falas & Online | miconvert.com",
+  "sub_title": "Konvertoni imazhet GIF në formatin PNG online me mbështetje për transparencë, cilësi të lartë dhe pa marka uji.",
+  "hint": "Ngarko imazhin tuaj GIF për të filluar konvertimin...",
+  "btn_download": "Konverto në PNG",
+  "btn_paste": "Ngarko GIF",
+  "btn_clear": "Pastro",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Konvertoni <strong>GIF në PNG</strong> për një besnikëri më të lartë dhe mbështetje të plotë për transparencën. Konvertuesi ynë falas online kthen GIF-et e animuara ose statike në imazhe PNG me cilësi të lartë. Ndërsa GIF është i shkëlqyer për animacione të thjeshta, PNG ofron thellësi ngjyrash superiore, transparencë më të mirë dhe kompresim pa humbje për grafika statike të qarta.</p><p><strong>Shënim:</strong> GIF-et e animuara konvertohen në një <em>imazh statik të vetëm</em> (korniza e parë). Për daljen e animuar, provoni <a href='/en/convert/gif-to-webp'>GIF në WebP</a>.</p>"
-
+  },
+  "description": "<p>Konvertoni <strong>GIF në PNG</strong> për një besnikëri më të lartë dhe mbështetje të plotë për transparencën. Konvertuesi ynë falas online kthen GIF-et e animuara ose statike në imazhe PNG me cilësi të lartë. Ndërsa GIF është i shkëlqyer për animacione të thjeshta, PNG ofron thellësi ngjyrash superiore, transparencë më të mirë dhe kompresim pa humbje për grafika statike të qarta.</p><p><strong>Shënim:</strong> GIF-et e animuara konvertohen në një <em>imazh statik të vetëm</em> (korniza e parë). Për daljen e animuar, provoni <a href='/en/convert/gif-to-webp'>GIF në WebP</a>.</p>",
   "head": {
-    "title": "Konverto GIF në PNG Online - Falas Konvertues GIF në PNG | miconvert.com"
+    "title": "Konverto GIF në PNG Online - Falas Konvertues GIF në PNG | miconvert.com",
+  "description": "Konverto GIF në PNG online me mbështetje për transparencë, cilësi të lartë dhe pa marka uji. Falas, i shpejtë dhe i sigurt konvertues GIF në PNG.",
+  "keywords": "gif në png, konverto gif në png, falas gif në png, konvertues gif online, imazhe transparente",
+  "canonical": "https://miconvert.com/en/convert/gif-to-png",
+  "og_title": "Konvertues GIF në PNG - Falas & Online",
+  "og_description": "Konvertoni imazhet GIF në formatin PNG me mbështetje për transparencë dhe cilësi të lartë. 100% falas, i shpejtë dhe i sigurt.",
+  "og_url": "https://miconvert.com/en/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Konverto GIF në PNG online me mbështetje për transparencë, cilësi të lartë dhe pa marka uji. Falas, i shpejtë dhe i sigurt konvertues GIF në PNG."
-
-    "keywords": "gif në png, konverto gif në png, falas gif në png, konvertues gif online, imazhe transparente"
-
-    "canonical": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_title": "Konvertues GIF në PNG - Falas & Online"
-
-    "og_description": "Konvertoni imazhet GIF në formatin PNG me mbështetje për transparencë dhe cilësi të lartë. 100% falas, i shpejtë dhe i sigurt."
-
-    "og_url": "https://miconvert.com/en/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konverto GIF në PNG Online"
+    "title": "Konverto GIF në PNG Online",
+  "description": "Konvertuesi falas dhe i shpejtë GIF në PNG me mbështetje për transparencë dhe cilësi të lartë. Funksionon menjëherë në çdo pajisje, pa nevojë për regjistrim."
 
-    "description": "Konvertuesi falas dhe i shpejtë GIF në PNG me mbështetje për transparencë dhe cilësi të lartë. Funksionon menjëherë në çdo pajisje, pa nevojë për regjistrim."
-
-  }
+  },
   "h2": [
     {
-      "title": "Pse të Konvertoni GIF në PNG?"
+      "title": "Pse të Konvertoni GIF në PNG?",
+  "description": "<p>GIF është i kufizuar në 256 ngjyra dhe i përshtatshëm për animacione të thjeshta. PNG është ideal për imazhe statike me cilësi të lartë:</p><ul><li><strong>Cilësi më e lartë:</strong> Truecolor (24-bit) + alfa kundrejt paletës 8-bit të GIF-it.</li><li><strong>Transparencë:</strong> PNG mbështet transparencën e plotë alfa për skaj të qetë.</li><li><strong>Kompresim pa humbje:</strong> PNG ruan detajet pa humbje cilësie.</li><li><strong>Përshtatshmëri universale:</strong> E mbështetur gjerësisht në aplikacione dhe platforma.</li></ul>"
 
-      "description": "<p>GIF është i kufizuar në 256 ngjyra dhe i përshtatshëm për animacione të thjeshta. PNG është ideal për imazhe statike me cilësi të lartë:</p><ul><li><strong>Cilësi më e lartë:</strong> Truecolor (24-bit) + alfa kundrejt paletës 8-bit të GIF-it.</li><li><strong>Transparencë:</strong> PNG mbështet transparencën e plotë alfa për skaj të qetë.</li><li><strong>Kompresim pa humbje:</strong> PNG ruan detajet pa humbje cilësie.</li><li><strong>Përshtatshmëri universale:</strong> E mbështetur gjerësisht në aplikacione dhe platforma.</li></ul>"
+    },
+  {
+      "title": "Si të Konvertoni GIF në PNG Online",
+  "description": "<ol><li>Klikoni <em>Ngarko GIF</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni që përpunimi të përfundojë.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur rezultatin.</li></ol><p>GIF-et e animuara: vetëm korniza e parë eksportohen si PNG.</p>"
 
-    }
-    {
-      "title": "Si të Konvertoni GIF në PNG Online"
+    },
+  {
+      "title": "GIF vs PNG: Diferencat Kryesore",
+  "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Thellësia e ngjyrave</td><td>8-bit (256 ngjyra)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Transparencë</td><td>Maskë 1-bit (on/off)</td><td>Transparencë e plotë alfa</td></tr><tr><td>Kompresim</td><td>Pa humbje (LZW)</td><td>Pa humbje (DEFLATE)</td></tr><tr><td>Animacion</td><td>Mbështetet</td><td>Nuk mbështetet (statik)</td></tr><tr><td>Best për</td><td>Animacione të thjeshta, ngjitëse</td><td>Logot, UI, screenshot-e, grafika statike</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klikoni <em>Ngarko GIF</em> dhe zgjidhni skedarin tuaj.</li><li>Prisni që përpunimi të përfundojë.</li><li>Klikoni <em>Shkarko PNG</em> për të ruajtur rezultatin.</li></ol><p>GIF-et e animuara: vetëm korniza e parë eksportohen si PNG.</p>"
+    },
+  {
+      "title": "Kufijtë & Format e Mbështetur",
+  "description": "<ul><li><strong>Input i pranuar:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimumi i madhësisë së skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG: Diferencat Kryesore"
+    },
+  {
+      "title": "Karakteristikat e Konvertuesit Tonë GIF në PNG",
+  "description": "<ul><li>100% falas, pa marka uji</li><li>Ruajtja e transparencës ku është e pranishme</li><li>Dalje PNG pa humbje</li><li>Ndërfaqe miqësore për celularët</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Karakteristika</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Thellësia e ngjyrave</td><td>8-bit (256 ngjyra)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Transparencë</td><td>Maskë 1-bit (on/off)</td><td>Transparencë e plotë alfa</td></tr><tr><td>Kompresim</td><td>Pa humbje (LZW)</td><td>Pa humbje (DEFLATE)</td></tr><tr><td>Animacion</td><td>Mbështetet</td><td>Nuk mbështetet (statik)</td></tr><tr><td>Best për</td><td>Animacione të thjeshta, ngjitëse</td><td>Logot, UI, screenshot-e, grafika statike</td></tr></tbody></table>"
+    },
+  {
+      "title": "Çfarë është GIF?",
+  "description": "<p>GIF (Graphics Interchange Format) mbështet animacionin bazik dhe përdor kompresim pa humbje LZW, por është i kufizuar në një paletë ngjyrash 256.</p>"
 
-    }
-    {
-      "title": "Kufijtë & Format e Mbështetur"
+    },
+  {
+      "title": "Çfarë është PNG?",
+  "description": "<p>PNG (Portable Network Graphics) është një format pa humbje që mbështet truecolor dhe transparencën alfa — ideal për imazhe statike me cilësi të lartë.</p>"
 
-      "description": "<ul><li><strong>Input i pranuar:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maksimumi i madhësisë së skedarit:</strong> deri në 16&nbsp;MB për skedar</li><li><strong>Dalja:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Zgjidhja e Problemeve",
+  "description": "<ul><li><strong>Ngarkimi dështon:</strong> Sigurohuni që skedari është GIF dhe ≤ 16&nbsp;MB.</li><li><strong>Skajet e transparencës të thyer:</strong> Transparenca 1-bit e GIF-it mund të duket e ashpër; përmirësoni me <a href='/en/effect/remove-background'>Heqësin e Sfondit</a>.</li><li><strong>Keni nevojë për animacion:</strong> Përdorni <a href='/en/convert/gif-to-webp'>GIF në WebP</a> për të ruajtur lëvizjen.</li></ul>"
 
-    }
-    {
-      "title": "Karakteristikat e Konvertuesit Tonë GIF në PNG"
-
-      "description": "<ul><li>100% falas, pa marka uji</li><li>Ruajtja e transparencës ku është e pranishme</li><li>Dalje PNG pa humbje</li><li>Ndërfaqe miqësore për celularët</li></ul>"
-
-    }
-    {
-      "title": "Çfarë është GIF?"
-
-      "description": "<p>GIF (Graphics Interchange Format) mbështet animacionin bazik dhe përdor kompresim pa humbje LZW, por është i kufizuar në një paletë ngjyrash 256.</p>"
-
-    }
-    {
-      "title": "Çfarë është PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) është një format pa humbje që mbështet truecolor dhe transparencën alfa — ideal për imazhe statike me cilësi të lartë.</p>"
-
-    }
-    {
-      "title": "Zgjidhja e Problemeve"
-
-      "description": "<ul><li><strong>Ngarkimi dështon:</strong> Sigurohuni që skedari është GIF dhe ≤ 16&nbsp;MB.</li><li><strong>Skajet e transparencës të thyer:</strong> Transparenca 1-bit e GIF-it mund të duket e ashpër; përmirësoni me <a href='/en/effect/remove-background'>Heqësin e Sfondit</a>.</li><li><strong>Keni nevojë për animacion:</strong> Përdorni <a href='/en/convert/gif-to-webp'>GIF në WebP</a> për të ruajtur lëvizjen.</li></ul>"
+    },
+  {
+      "title": "Rastet e Përdorimit: Kur të Konvertoni GIF në PNG",
+  "description": "<ul><li><strong>Logot & ikona</strong> që kërkojnë transparencë të qetë.</li><li><strong>Screenshot-e/UI</strong> që kërkojnë tekst dhe linja të qarta.</li><li><strong>Arkivimi</strong> i kornizave statike me cilësi më të lartë.</li></ul>"
 
     }
-    {
-      "title": "Rastet e Përdorimit: Kur të Konvertoni GIF në PNG"
-
-      "description": "<ul><li><strong>Logot & ikona</strong> që kërkojnë transparencë të qetë.</li><li><strong>Screenshot-e/UI</strong> që kërkojnë tekst dhe linja të qarta.</li><li><strong>Arkivimi</strong> i kornizave statike me cilësi më të lartë.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "A është ky konvertues GIF në PNG falas?"
+      "question": "A është ky konvertues GIF në PNG falas?",
+  "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
 
-      "answer": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
+    },
+  {
+      "question": "A do të ruajë PNG transparencën nga GIF?",
+  "answer": "Po. Zonat 1-bit të transparencës së GIF-it mbeten transparente në PNG; për skaj më të qetë, redaktoni kanalin alfa pas konvertimit."
 
-    }
-    {
-      "question": "A do të ruajë PNG transparencën nga GIF?"
+    },
+  {
+      "question": "Çfarë ndodh me GIF-et e animuara?",
+  "answer": "Vetëm korniza e parë konvertohet në një imazh statik PNG. Për të ruajtur animacionin, përdorni GIF në WebP."
 
-      "answer": "Po. Zonat 1-bit të transparencës së GIF-it mbeten transparente në PNG; për skaj më të qetë, redaktoni kanalin alfa pas konvertimit."
+    },
+  {
+      "question": "A do të humbas cilësi kur konvertoj GIF në PNG?",
+  "answer": "Jo. PNG përdor kompresim pa humbje dhe mbështet ngjyrë të plotë, shpesh duke përmirësuar besnikërinë vizuale mbi GIF-in 256-ngjyrësh."
 
-    }
-    {
-      "question": "Çfarë ndodh me GIF-et e animuara?"
+    },
+  {
+      "question": "Cilat madhësi skedarësh mbështeten?",
+  "answer": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
 
-      "answer": "Vetëm korniza e parë konvertohet në një imazh statik PNG. Për të ruajtur animacionin, përdorni GIF në WebP."
+    },
+  {
+      "question": "A janë të sigurta skedarët e mi?",
+  "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa e nevojshme për konvertimin."
 
-    }
-    {
-      "question": "A do të humbas cilësi kur konvertoj GIF në PNG?"
-
-      "answer": "Jo. PNG përdor kompresim pa humbje dhe mbështet ngjyrë të plotë, shpesh duke përmirësuar besnikërinë vizuale mbi GIF-in 256-ngjyrësh."
-
-    }
-    {
-      "question": "Cilat madhësi skedarësh mbështeten?"
-
-      "answer": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
-
-    }
-    {
-      "question": "A janë të sigurta skedarët e mi?"
-
-      "answer": "Skedarët përpunohen automatikisht dhe nuk ruhen më gjatë se sa e nevojshme për konvertimin."
-
-    }
-    {
-      "question": "A mund të konvertoj disa skedarë GIF njëherësh?"
-
-      "answer": "Kjo faqe konverton një skedar në një kohë. Për nevoja masive, përsëritni procesin ose përdorni një mjet grupor."
+    },
+  {
+      "question": "A mund të konvertoj disa skedarë GIF njëherësh?",
+  "answer": "Kjo faqe konverton një skedar në një kohë. Për nevoja masive, përsëritni procesin ose përdorni një mjet grupor."
 
     }
-  ]
-  "note": "GIF-et e animuara bëhen PNG statike (korniza e parë). Për daljen e animuar, konvertoni GIF në WebP."
-
+  ],
+  "note": "GIF-et e animuara bëhen PNG statike (korniza e parë). Për daljen e animuar, konvertoni GIF në WebP.",
   "related_links": [
     {
-      "title": "Konverto GIF në JPG"
+      "title": "Konverto GIF në JPG",
+  "url": "/en/convert/gif-to-jpg"
 
-      "url": "/en/convert/gif-to-jpg"
+    },
+  {
+      "title": "Konverto PNG në GIF",
+  "url": "/en/convert/png-to-gif"
 
-    }
-    {
-      "title": "Konverto PNG në GIF"
-
-      "url": "/en/convert/png-to-gif"
-
-    }
-    {
-      "title": "Konverto GIF në WebP"
-
-      "url": "/en/convert/gif-to-webp"
+    },
+  {
+      "title": "Konverto GIF në WebP",
+  "url": "/en/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Të gjitha të drejtat e rezervuara.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Konvertues GIF në PNG - Falas & Online"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "description": "Mjet falas online për të konvertuar imazhet GIF në PNG me kompresim pa humbje dhe mbështetje për transparencë."
-
-      "inLanguage": "sq"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Konvertues GIF në PNG - Falas & Online",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "description": "Mjet falas online për të konvertuar imazhet GIF në PNG me kompresim pa humbje dhe mbështetje për transparencë.",
+  "inLanguage": "sq",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Kryefaqja",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Kryefaqja"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konverto",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konverto"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF në PNG"
-
-          "item": "https://miconvert.com/en/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF në PNG",
+  "item": "https://miconvert.com/en/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Konvertues GIF në PNG",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Dalje PNG pa humbje",
+  "Mbështetje për transparencë",
+  "Përpunim i shpejtë"
 
-      "name": "Konvertues GIF në PNG"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Dalje PNG pa humbje"
-
-        "Mbështetje për transparencë"
-
-        "Përpunim i shpejtë"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "A është ky konvertues GIF në PNG falas?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
+          "@type": "Question",
+  "name": "A është ky konvertues GIF në PNG falas?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Po, konvertuesi është plotësisht falas pa tarifa të fshehura ose abonime."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Çfarë ndodh me GIF-et e animuara?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Vetëm korniza e parë konvertohet në një imazh statik PNG. Për të ruajtur animacionin, përdorni GIF në WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Çfarë ndodh me GIF-et e animuara?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Vetëm korniza e parë konvertohet në një imazh statik PNG. Për të ruajtur animacionin, përdorni GIF në WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Cilat madhësi skedarësh mbështeten?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
+        },
+  {
+          "@type": "Question",
+  "name": "Cilat madhësi skedarësh mbështeten?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Mund të ngarkoni imazhe deri në 16 MB për skedar."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Si të konvertoni GIF në PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Si të konvertoni GIF në PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klikoni Ngarko GIF dhe zgjidhni skedarin tuaj."
 
-          "text": "Klikoni Ngarko GIF dhe zgjidhni skedarin tuaj."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Prisni që përpunimi të përfundojë."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klikoni Shkarko PNG për të ruajtur rezultatin."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Prisni që përpunimi të përfundojë."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klikoni Shkarko PNG për të ruajtur rezultatin."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Konvertues GIF në PNG"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

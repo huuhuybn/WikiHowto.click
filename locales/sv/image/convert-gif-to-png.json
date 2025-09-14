@@ -1,364 +1,276 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "GIF till PNG Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera GIF-bilder till PNG-format online med stöd för transparens, hög kvalitet och utan vattenstämplar."
-
-  "hint": "Ladda upp din GIF-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till PNG"
-
-  "btn_paste": "Ladda upp GIF"
-
-  "btn_clear": "Rensa"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "GIF till PNG Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera GIF-bilder till PNG-format online med stöd för transparens, hög kvalitet och utan vattenstämplar.",
+  "hint": "Ladda upp din GIF-bild för att börja konvertera...",
+  "btn_download": "Konvertera till PNG",
+  "btn_paste": "Ladda upp GIF",
+  "btn_clear": "Rensa",
   "converter": {
-    "type": "gif-to-png"
-
-    "inputFormat": "GIF"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "gif-to-png",
+  "inputFormat": "GIF",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/gif"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Konvertera din <strong>GIF till PNG</strong> för högre trohet och fullt stöd för transparens. Vår gratis onlinekonverterare omvandlar animerade eller statiska GIF:er till högkvalitativa PNG-bilder. Medan GIF är bra för enkla animationer, erbjuder PNG överlägsen färgdjup, bättre transparens och förlustfri kompression för skarpa statiska grafik.</p><p><strong>Observera:</strong> Animerade GIF:er konverteras till en <em>enkel statisk bild</em> (första ramen). För animerad utdata, prova <a href='/sv/convert/gif-to-webp'>GIF till WebP</a>.</p>"
-
+  },
+  "description": "<p>Konvertera din <strong>GIF till PNG</strong> för högre trohet och fullt stöd för transparens. Vår gratis onlinekonverterare omvandlar animerade eller statiska GIF:er till högkvalitativa PNG-bilder. Medan GIF är bra för enkla animationer, erbjuder PNG överlägsen färgdjup, bättre transparens och förlustfri kompression för skarpa statiska grafik.</p><p><strong>Observera:</strong> Animerade GIF:er konverteras till en <em>enkel statisk bild</em> (första ramen). För animerad utdata, prova <a href='/sv/convert/gif-to-webp'>GIF till WebP</a>.</p>",
   "head": {
-    "title": "Konvertera GIF till PNG Online - Gratis GIF till PNG Konverterare | miconvert.com"
+    "title": "Konvertera GIF till PNG Online - Gratis GIF till PNG Konverterare | miconvert.com",
+  "description": "Konvertera GIF till PNG online med stöd för transparens, hög kvalitet och utan vattenstämplar. Gratis, snabbt och säkert GIF till PNG konverteringsverktyg.",
+  "keywords": "gif till png, konvertera gif till png, gratis gif till png, online gif konverterare, transparenta bilder",
+  "canonical": "https://miconvert.com/sv/convert/gif-to-png",
+  "og_title": "GIF till PNG Konverterare - Gratis & Online",
+  "og_description": "Konvertera GIF-bilder till PNG-format med stöd för transparens och hög kvalitet. 100% gratis, snabbt och säkert.",
+  "og_url": "https://miconvert.com/sv/convert/gif-to-png",
+  "og_image": "https://miconvert.com/images/gif-to-png.jpg"
 
-    "description": "Konvertera GIF till PNG online med stöd för transparens, hög kvalitet och utan vattenstämplar. Gratis, snabbt och säkert GIF till PNG konverteringsverktyg."
-
-    "keywords": "gif till png, konvertera gif till png, gratis gif till png, online gif konverterare, transparenta bilder"
-
-    "canonical": "https://miconvert.com/sv/convert/gif-to-png"
-
-    "og_title": "GIF till PNG Konverterare - Gratis & Online"
-
-    "og_description": "Konvertera GIF-bilder till PNG-format med stöd för transparens och hög kvalitet. 100% gratis, snabbt och säkert."
-
-    "og_url": "https://miconvert.com/sv/convert/gif-to-png"
-
-    "og_image": "https://miconvert.com/images/gif-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera GIF till PNG Online"
+    "title": "Konvertera GIF till PNG Online",
+  "description": "Gratis och snabb GIF till PNG konverterare med stöd för transparens och hög kvalitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
 
-    "description": "Gratis och snabb GIF till PNG konverterare med stöd för transparens och hög kvalitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför konvertera GIF till PNG?"
+      "title": "Varför konvertera GIF till PNG?",
+  "description": "<p>GIF är begränsad till 256 färger och lämplig för enkla animationer. PNG är idealisk för högkvalitativa statiska bilder:</p><ul><li><strong>Högre kvalitet:</strong> Truecolor (24-bit) + alfa vs GIF:s 8-bit palett.</li><li><strong>Transparens:</strong> PNG stöder full alfa-transparens för mjuka kanter.</li><li><strong>Förlustfri kompression:</strong> PNG bevarar detaljer utan kvalitetsförlust.</li><li><strong>Universell kompatibilitet:</strong> Stöds brett över appar och plattformar.</li></ul>"
 
-      "description": "<p>GIF är begränsad till 256 färger och lämplig för enkla animationer. PNG är idealisk för högkvalitativa statiska bilder:</p><ul><li><strong>Högre kvalitet:</strong> Truecolor (24-bit) + alfa vs GIF:s 8-bit palett.</li><li><strong>Transparens:</strong> PNG stöder full alfa-transparens för mjuka kanter.</li><li><strong>Förlustfri kompression:</strong> PNG bevarar detaljer utan kvalitetsförlust.</li><li><strong>Universell kompatibilitet:</strong> Stöds brett över appar och plattformar.</li></ul>"
+    },
+  {
+      "title": "Hur man konverterar GIF till PNG Online",
+  "description": "<ol><li>Klicka på <em>Ladda upp GIF</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner PNG</em> för att spara resultatet.</li></ol><p>Animerade GIF:er: endast den första ramen exporteras som PNG.</p>"
 
-    }
-    {
-      "title": "Hur man konverterar GIF till PNG Online"
+    },
+  {
+      "title": "GIF vs PNG: Viktiga skillnader",
+  "description": "<table class='table-compare'><thead><tr><th>Egenskap</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Färgdjup</td><td>8-bit (256 färger)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Transparens</td><td>1-bit mask (på/av)</td><td>Full alfa-transparens</td></tr><tr><td>Kompression</td><td>Förlustfri (LZW)</td><td>Förlustfri (DEFLATE)</td></tr><tr><td>Animation</td><td>Stöds</td><td>Ej stöds (statisk)</td></tr><tr><td>Bäst för</td><td>Enkla animationer, klistermärken</td><td>Logotyper, UI, skärmdumpar, statisk grafik</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klicka på <em>Ladda upp GIF</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner PNG</em> för att spara resultatet.</li></ol><p>Animerade GIF:er: endast den första ramen exporteras som PNG.</p>"
+    },
+  {
+      "title": "Stödda gränser & format",
+  "description": "<ul><li><strong>Accepterad indata:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
 
-    }
-    {
-      "title": "GIF vs PNG: Viktiga skillnader"
+    },
+  {
+      "title": "Funktioner i vår GIF till PNG Konverterare",
+  "description": "<ul><li>100% gratis, inga vattenstämplar</li><li>Bevarar transparens där det finns</li><li>Förlustfri PNG-utdata</li><li>Mobilvänligt gränssnitt</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Egenskap</th><th>GIF</th><th>PNG</th></tr></thead><tbody><tr><td>Färgdjup</td><td>8-bit (256 färger)</td><td>Truecolor (24-bit) + alfa</td></tr><tr><td>Transparens</td><td>1-bit mask (på/av)</td><td>Full alfa-transparens</td></tr><tr><td>Kompression</td><td>Förlustfri (LZW)</td><td>Förlustfri (DEFLATE)</td></tr><tr><td>Animation</td><td>Stöds</td><td>Ej stöds (statisk)</td></tr><tr><td>Bäst för</td><td>Enkla animationer, klistermärken</td><td>Logotyper, UI, skärmdumpar, statisk grafik</td></tr></tbody></table>"
+    },
+  {
+      "title": "Vad är GIF?",
+  "description": "<p>GIF (Graphics Interchange Format) stöder grundläggande animation och använder förlustfri LZW-kompression, men är begränsad till en 256-färgers palett.</p>"
 
-    }
-    {
-      "title": "Stödda gränser & format"
+    },
+  {
+      "title": "Vad är PNG?",
+  "description": "<p>PNG (Portable Network Graphics) är ett förlustfritt format som stöder truecolor och alfa-transparens — idealiskt för högkvalitativa statiska bilder.</p>"
 
-      "description": "<ul><li><strong>Accepterad indata:</strong> GIF (<code>image/gif</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li></ul>"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att filen är GIF och ≤ 16&nbsp;MB.</li><li><strong>Ruggiga transparenskanter:</strong> GIF:s 1-bit transparens kan se hård ut; förfina med <a href='/sv/effect/remove-background'>Bakgrundsborttagare</a>.</li><li><strong>Behöver animation:</strong> Använd <a href='/sv/convert/gif-to-webp'>GIF till WebP</a> för att behålla rörelsen.</li></ul>"
 
-    }
-    {
-      "title": "Funktioner i vår GIF till PNG Konverterare"
-
-      "description": "<ul><li>100% gratis, inga vattenstämplar</li><li>Bevarar transparens där det finns</li><li>Förlustfri PNG-utdata</li><li>Mobilvänligt gränssnitt</li></ul>"
-
-    }
-    {
-      "title": "Vad är GIF?"
-
-      "description": "<p>GIF (Graphics Interchange Format) stöder grundläggande animation och använder förlustfri LZW-kompression, men är begränsad till en 256-färgers palett.</p>"
-
-    }
-    {
-      "title": "Vad är PNG?"
-
-      "description": "<p>PNG (Portable Network Graphics) är ett förlustfritt format som stöder truecolor och alfa-transparens — idealiskt för högkvalitativa statiska bilder.</p>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att filen är GIF och ≤ 16&nbsp;MB.</li><li><strong>Ruggiga transparenskanter:</strong> GIF:s 1-bit transparens kan se hård ut; förfina med <a href='/sv/effect/remove-background'>Bakgrundsborttagare</a>.</li><li><strong>Behöver animation:</strong> Använd <a href='/sv/convert/gif-to-webp'>GIF till WebP</a> för att behålla rörelsen.</li></ul>"
+    },
+  {
+      "title": "Användningsfall: När man ska konvertera GIF till PNG",
+  "description": "<ul><li><strong>Logotyper & ikoner</strong> som behöver mjuk transparens.</li><li><strong>Skärmdumpar/UI</strong> som kräver skarp text och linjer.</li><li><strong>Arkivering</strong> av statiska ramar i högre kvalitet.</li></ul>"
 
     }
-    {
-      "title": "Användningsfall: När man ska konvertera GIF till PNG"
-
-      "description": "<ul><li><strong>Logotyper & ikoner</strong> som behöver mjuk transparens.</li><li><strong>Skärmdumpar/UI</strong> som kräver skarp text och linjer.</li><li><strong>Arkivering</strong> av statiska ramar i högre kvalitet.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna GIF till PNG konverterare gratis?"
+      "question": "Är denna GIF till PNG konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Kommer PNG att bevara transparens från GIF?",
+  "answer": "Ja. GIF:s 1-bit transparenta områden förblir transparenta i PNG; för mjukare kanter, redigera alfakanalen efter konvertering."
 
-    }
-    {
-      "question": "Kommer PNG att bevara transparens från GIF?"
+    },
+  {
+      "question": "Vad händer med animerade GIF:er?",
+  "answer": "Endast den första ramen konverteras till en statisk PNG-bild. För att behålla animation, använd GIF till WebP."
 
-      "answer": "Ja. GIF:s 1-bit transparenta områden förblir transparenta i PNG; för mjukare kanter, redigera alfakanalen efter konvertering."
+    },
+  {
+      "question": "Kommer jag att förlora kvalitet när jag konverterar GIF till PNG?",
+  "answer": "Nej. PNG använder förlustfri kompression och stöder full färg, vilket ofta förbättrar visuell trohet jämfört med 256-färgers GIF."
 
-    }
-    {
-      "question": "Vad händer med animerade GIF:er?"
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16 MB per fil."
 
-      "answer": "Endast den första ramen konverteras till en statisk PNG-bild. För att behålla animation, använd GIF till WebP."
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
 
-    }
-    {
-      "question": "Kommer jag att förlora kvalitet när jag konverterar GIF till PNG?"
-
-      "answer": "Nej. PNG använder förlustfri kompression och stöder full färg, vilket ofta förbättrar visuell trohet jämfört med 256-färgers GIF."
-
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16 MB per fil."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Filer bearbetas automatiskt och behålls inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera GIF-filer samtidigt?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
+    },
+  {
+      "question": "Kan jag konvertera flera GIF-filer samtidigt?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
     }
-  ]
-  "note": "Animerade GIF:er blir statiska PNG:er (första ramen). För animerad utdata, konvertera GIF till WebP."
-
+  ],
+  "note": "Animerade GIF:er blir statiska PNG:er (första ramen). För animerad utdata, konvertera GIF till WebP.",
   "related_links": [
     {
-      "title": "Konvertera GIF till JPG"
+      "title": "Konvertera GIF till JPG",
+  "url": "/sv/convert/gif-to-jpg"
 
-      "url": "/sv/convert/gif-to-jpg"
+    },
+  {
+      "title": "Konvertera PNG till GIF",
+  "url": "/sv/convert/png-to-gif"
 
-    }
-    {
-      "title": "Konvertera PNG till GIF"
-
-      "url": "/sv/convert/png-to-gif"
-
-    }
-    {
-      "title": "Konvertera GIF till WebP"
-
-      "url": "/sv/convert/gif-to-webp"
+    },
+  {
+      "title": "Konvertera GIF till WebP",
+  "url": "/sv/convert/gif-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "GIF till PNG Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/gif-to-png"
-
-      "description": "Gratis onlineverktyg för att konvertera GIF-bilder till PNG med förlustfri kompression och stöd för transparens."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/gif-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "GIF till PNG Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/gif-to-png",
+  "description": "Gratis onlineverktyg för att konvertera GIF-bilder till PNG med förlustfri kompression och stöd för transparens.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/gif-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "GIF till PNG"
-
-          "item": "https://miconvert.com/sv/convert/gif-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "GIF till PNG",
+  "item": "https://miconvert.com/sv/convert/gif-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "GIF till PNG Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/gif-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "SEK"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Förlustfri PNG-utdata",
+  "Stöd för transparens",
+  "Snabb bearbetning"
 
-      "name": "GIF till PNG Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/gif-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "SEK"
-
-      }
-      "featureList": [
-        "Förlustfri PNG-utdata"
-
-        "Stöd för transparens"
-
-        "Snabb bearbetning"
-
-      ]
-      "screenshot": "https://miconvert.com/images/gif-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna GIF till PNG konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna GIF till PNG konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vad händer med animerade GIF:er?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Endast den första ramen konverteras till en statisk PNG-bild. För att behålla animation, använd GIF till WebP."
+        },
+  {
+          "@type": "Question",
+  "name": "Vad händer med animerade GIF:er?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Endast den första ramen konverteras till en statisk PNG-bild. För att behålla animation, använd GIF till WebP."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar GIF till PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar GIF till PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp GIF och välj din fil."
 
-          "text": "Klicka på Ladda upp GIF och välj din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att bearbetningen ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner PNG för att spara resultatet."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetningen ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner PNG för att spara resultatet."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "GIF till PNG Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

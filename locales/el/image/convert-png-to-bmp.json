@@ -1,364 +1,272 @@
 {
-  "lang": "el"
-
-  "lang_name": "Ελληνικά"
-
-  "title": "Μετατροπέας PNG σε BMP - Δωρεάν & Online | miconvert.com"
-
-  "sub_title": "Μετατρέψτε εικόνες PNG σε BMP online με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel. Χωρίς υδατογραφήματα."
-
-  "hint": "Ανεβάστε την εικόνα PNG σας για να ξεκινήσετε τη μετατροπή..."
-
-  "btn_download": "Μετατροπή σε BMP"
-
-  "btn_paste": "Ανεβάστε PNG"
-
-  "btn_clear": "Καθαρισμός"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "el",
+  "lang_name": "Ελληνικά",
+  "title": "Μετατροπέας PNG σε BMP - Δωρεάν & Online | miconvert.com",
+  "sub_title": "Μετατρέψτε εικόνες PNG σε BMP online με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel. Χωρίς υδατογραφήματα.",
+  "hint": "Ανεβάστε την εικόνα PNG σας για να ξεκινήσετε τη μετατροπή...",
+  "btn_download": "Μετατροπή σε BMP",
+  "btn_paste": "Ανεβάστε PNG",
+  "btn_clear": "Καθαρισμός",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Μετατροπή PNG σε BMP - Δωρεάν Online Μετατροπέας PNG σε BMP"
+    "title": "Μετατροπή PNG σε BMP - Δωρεάν Online Μετατροπέας PNG σε BMP",
+  "description": "Μετατρέψτε εικόνες PNG σε μορφή BMP online δωρεάν. Υψηλής ποιότητας μετατροπή PNG σε BMP με γρήγορη επεξεργασία.",
+  "keywords": "png σε bmp, μετατροπή png σε bmp, δωρεάν png σε bmp, online μετατροπέας bmp, μετατροπή εικόνας",
+  "canonical": "https://miconvert.com/el/convert/png-to-bmp",
+  "og_title": "Μετατροπή PNG σε BMP - Δωρεάν Online Μετατροπέας PNG σε BMP",
+  "og_description": "Μετατρέψτε εικόνες PNG σε μορφή BMP online δωρεάν. Υψηλής ποιότητας μετατροπή PNG σε BMP με γρήγορη επεξεργασία.",
+  "og_url": "https://miconvert.com/el/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Μετατρέψτε εικόνες PNG σε μορφή BMP online δωρεάν. Υψηλής ποιότητας μετατροπή PNG σε BMP με γρήγορη επεξεργασία."
-
-    "keywords": "png σε bmp, μετατροπή png σε bmp, δωρεάν png σε bmp, online μετατροπέας bmp, μετατροπή εικόνας"
-
-    "canonical": "https://miconvert.com/el/convert/png-to-bmp"
-
-    "og_title": "Μετατροπή PNG σε BMP - Δωρεάν Online Μετατροπέας PNG σε BMP"
-
-    "og_description": "Μετατρέψτε εικόνες PNG σε μορφή BMP online δωρεάν. Υψηλής ποιότητας μετατροπή PNG σε BMP με γρήγορη επεξεργασία."
-
-    "og_url": "https://miconvert.com/el/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Μετατροπή PNG σε BMP Online"
+    "title": "Μετατροπή PNG σε BMP Online",
+  "description": "Δωρεάν μετατροπέας PNG σε BMP με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel. Λειτουργεί σε οποιαδήποτε συσκευή — χωρίς εγγραφή."
 
-    "description": "Δωρεάν μετατροπέας PNG σε BMP με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel. Λειτουργεί σε οποιαδήποτε συσκευή — χωρίς εγγραφή."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "Μετατροπέας PNG σε BMP"
-
-    "description": "Μετατρέψτε εικόνες PNG σε BMP με γρήγορη επεξεργασία και ακριβή χρώματα."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "Μετατροπέας PNG σε BMP",
+  "description": "Μετατρέψτε εικόνες PNG σε BMP με γρήγορη επεξεργασία και ακριβή χρώματα.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Μη συμπιεσμένα (χωρίς απώλειες) δεδομένα pixel",
+  "Υψηλή συμβατότητα στα Windows",
+  "Γρήγορη επεξεργασία",
+  "Δωρεάν online εργαλείο"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Μη συμπιεσμένα (χωρίς απώλειες) δεδομένα pixel"
-
-      "Υψηλή συμβατότητα στα Windows"
-
-      "Γρήγορη επεξεργασία"
-
-      "Δωρεάν online εργαλείο"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Η μετατροπή PNG σε BMP ολοκληρώθηκε"
+    "title": "Η μετατροπή PNG σε BMP ολοκληρώθηκε",
+  "back_button": "Πίσω στον Μετατροπέα",
+  "convert_another": "Μετατροπή Άλλου PNG",
+  "quick_conversions": "Γρήγορες Μετατροπές:"
 
-    "back_button": "Πίσω στον Μετατροπέα"
-
-    "convert_another": "Μετατροπή Άλλου PNG"
-
-    "quick_conversions": "Γρήγορες Μετατροπές:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Γιατί να μετατρέψετε PNG σε BMP;"
+      "title": "Γιατί να μετατρέψετε PNG σε BMP;",
+  "description": "<p>Το BMP είναι μια απλή μορφή raster που αποθηκεύει pixels χωρίς συμπίεση — χρήσιμη για ορισμένες ροές εργασίας:</p><ul><li><strong>Χωρίς νέα artifacts:</strong> Διατηρήστε τα pixels ανέπαφα για χαμηλού επιπέδου επεξεργασία.</li><li><strong>Απλή δομή:</strong> Εύκολη για προγράμματα να διαβάσουν και να χειριστούν.</li><li><strong>Κληρονομικές/ενσωματωμένες εφαρμογές:</strong> Ορισμένα εργαλεία Windows προτιμούν το BMP.</li></ul>"
 
-      "description": "<p>Το BMP είναι μια απλή μορφή raster που αποθηκεύει pixels χωρίς συμπίεση — χρήσιμη για ορισμένες ροές εργασίας:</p><ul><li><strong>Χωρίς νέα artifacts:</strong> Διατηρήστε τα pixels ανέπαφα για χαμηλού επιπέδου επεξεργασία.</li><li><strong>Απλή δομή:</strong> Εύκολη για προγράμματα να διαβάσουν και να χειριστούν.</li><li><strong>Κληρονομικές/ενσωματωμένες εφαρμογές:</strong> Ορισμένα εργαλεία Windows προτιμούν το BMP.</li></ul>"
+    },
+  {
+      "title": "Πώς να μετατρέψετε PNG σε BMP Online",
+  "description": "<ol><li>Κάντε κλικ στο <em>Ανεβάστε PNG</em> και επιλέξτε το αρχείο σας.</li><li>Περιμένετε να ολοκληρωθεί η επεξεργασία.</li><li>Κάντε κλικ στο <em>Κατεβάστε BMP</em> για να αποθηκεύσετε την εικόνα σας.</li></ol><p>Προεπιλογή σε BMP 24-bit χωρίς συμπίεση.</p>"
 
-    }
-    {
-      "title": "Πώς να μετατρέψετε PNG σε BMP Online"
+    },
+  {
+      "title": "Σύγκριση BMP και PNG",
+  "description": "<ul><li><strong>Μέγεθος Αρχείου:</strong> Το BMP είναι συνήθως πολύ μεγαλύτερο από το PNG.</li><li><strong>Ποιότητα:</strong> Και τα δύο είναι χωρίς απώλειες (BMP μη συμπιεσμένο; PNG χωρίς απώλειες συμπιεσμένο).</li><li><strong>Διαφάνεια:</strong> Το PNG υποστηρίζει άλφα; το κοινό 24-bit BMP <em>δεν</em> υποστηρίζει.</li><li><strong>Συμπίεση:</strong> BMP καμία; PNG χωρίς απώλειες DEFLATE.</li><li><strong>Περίπτωσεις Χρήσης:</strong> BMP για κληρονομικές/επεξεργασίες pixel; PNG για web και αποδοτική αποθήκευση χωρίς απώλειες.</li></ul>"
 
-      "description": "<ol><li>Κάντε κλικ στο <em>Ανεβάστε PNG</em> και επιλέξτε το αρχείο σας.</li><li>Περιμένετε να ολοκληρωθεί η επεξεργασία.</li><li>Κάντε κλικ στο <em>Κατεβάστε BMP</em> για να αποθηκεύσετε την εικόνα σας.</li></ol><p>Προεπιλογή σε BMP 24-bit χωρίς συμπίεση.</p>"
+    },
+  {
+      "title": "Υποστηριζόμενα Όρια & Μορφές",
+  "description": "<ul><li><strong>Αποδεκτή είσοδος:</strong> PNG (<code>image/png</code>)</li><li><strong>Μέγιστο μέγεθος αρχείου:</strong> έως 16&nbsp;MB ανά αρχείο</li><li><strong>Έξοδος:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Βάθος bit:</strong> 24-bit (χωρίς άλφα)</li></ul>"
 
-    }
-    {
-      "title": "Σύγκριση BMP και PNG"
-
-      "description": "<ul><li><strong>Μέγεθος Αρχείου:</strong> Το BMP είναι συνήθως πολύ μεγαλύτερο από το PNG.</li><li><strong>Ποιότητα:</strong> Και τα δύο είναι χωρίς απώλειες (BMP μη συμπιεσμένο; PNG χωρίς απώλειες συμπιεσμένο).</li><li><strong>Διαφάνεια:</strong> Το PNG υποστηρίζει άλφα; το κοινό 24-bit BMP <em>δεν</em> υποστηρίζει.</li><li><strong>Συμπίεση:</strong> BMP καμία; PNG χωρίς απώλειες DEFLATE.</li><li><strong>Περίπτωσεις Χρήσης:</strong> BMP για κληρονομικές/επεξεργασίες pixel; PNG για web και αποδοτική αποθήκευση χωρίς απώλειες.</li></ul>"
-
-    }
-    {
-      "title": "Υποστηριζόμενα Όρια & Μορφές"
-
-      "description": "<ul><li><strong>Αποδεκτή είσοδος:</strong> PNG (<code>image/png</code>)</li><li><strong>Μέγιστο μέγεθος αρχείου:</strong> έως 16&nbsp;MB ανά αρχείο</li><li><strong>Έξοδος:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Βάθος bit:</strong> 24-bit (χωρίς άλφα)</li></ul>"
-
-    }
-    {
-      "title": "Επίλυση Προβλημάτων"
-
-      "description": "<ul><li><strong>Πολύ μεγάλο αποτέλεσμα:</strong> Το BMP είναι μη συμπιεσμένο; για μικρότερες χωρίς απώλειες, διατηρήστε το PNG.</li><li><strong>Χρειάζεστε διαφάνεια:</strong> Το BMP 24-bit δεν έχει άλφα; παραμείνετε με το PNG.</li><li><strong>Αποτυχία ανέβασμα:</strong> Βεβαιωθείτε ότι το αρχείο είναι PNG και ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Επίλυση Προβλημάτων",
+  "description": "<ul><li><strong>Πολύ μεγάλο αποτέλεσμα:</strong> Το BMP είναι μη συμπιεσμένο; για μικρότερες χωρίς απώλειες, διατηρήστε το PNG.</li><li><strong>Χρειάζεστε διαφάνεια:</strong> Το BMP 24-bit δεν έχει άλφα; παραμείνετε με το PNG.</li><li><strong>Αποτυχία ανέβασμα:</strong> Βεβαιωθείτε ότι το αρχείο είναι PNG και ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Είναι αυτός ο μετατροπέας PNG σε BMP δωρεάν;"
+      "question": "Είναι αυτός ο μετατροπέας PNG σε BMP δωρεάν;",
+  "answer": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
 
-      "answer": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
+    },
+  {
+      "question": "Θα λειτουργήσει το BMP σε όλες τις εφαρμογές;",
+  "answer": "Το BMP υποστηρίζεται ευρέως στα Windows και αναγνωρίζεται από πολλές άλλες πλατφόρμες. Οι σύγχρονες ροές εργασίας στο web προτιμούν συνήθως το PNG/WebP για αποδοτικότητα μεγέθους."
 
-    }
-    {
-      "question": "Θα λειτουργήσει το BMP σε όλες τις εφαρμογές;"
+    },
+  {
+      "question": "Πόσο μεγαλύτερα είναι τα αρχεία BMP σε σύγκριση με τα PNG;",
+  "answer": "Συνήθως είναι αρκετές φορές μεγαλύτερα (π.χ., 3–10× ή περισσότερα), επειδή το BMP είναι μη συμπιεσμένο."
 
-      "answer": "Το BMP υποστηρίζεται ευρέως στα Windows και αναγνωρίζεται από πολλές άλλες πλατφόρμες. Οι σύγχρονες ροές εργασίας στο web προτιμούν συνήθως το PNG/WebP για αποδοτικότητα μεγέθους."
+    },
+  {
+      "question": "Ποιες μεγέθους αρχείων υποστηρίζονται;",
+  "answer": "Μπορείτε να ανεβάσετε εικόνες έως 16&nbsp;MB ανά αρχείο."
 
-    }
-    {
-      "question": "Πόσο μεγαλύτερα είναι τα αρχεία BMP σε σύγκριση με τα PNG;"
+    },
+  {
+      "question": "Είναι ασφαλή τα αρχεία μου;",
+  "answer": "Τα αρχεία επεξεργάζονται αυτόματα και δεν διατηρούνται περισσότερο από όσο είναι απαραίτητο για τη μετατροπή."
 
-      "answer": "Συνήθως είναι αρκετές φορές μεγαλύτερα (π.χ., 3–10× ή περισσότερα), επειδή το BMP είναι μη συμπιεσμένο."
+    },
+  {
+      "question": "Μπορώ να μετατρέψω πολλαπλά PNG ταυτόχρονα;",
+  "answer": "Αυτή η σελίδα μετατρέπει ένα αρχείο τη φορά. Για μαζικές ανάγκες, επαναλάβετε τη διαδικασία ή χρησιμοποιήστε ένα εργαλείο batch."
 
-    }
-    {
-      "question": "Ποιες μεγέθους αρχείων υποστηρίζονται;"
-
-      "answer": "Μπορείτε να ανεβάσετε εικόνες έως 16&nbsp;MB ανά αρχείο."
-
-    }
-    {
-      "question": "Είναι ασφαλή τα αρχεία μου;"
-
-      "answer": "Τα αρχεία επεξεργάζονται αυτόματα και δεν διατηρούνται περισσότερο από όσο είναι απαραίτητο για τη μετατροπή."
-
-    }
-    {
-      "question": "Μπορώ να μετατρέψω πολλαπλά PNG ταυτόχρονα;"
-
-      "answer": "Αυτή η σελίδα μετατρέπει ένα αρχείο τη φορά. Για μαζικές ανάγκες, επαναλάβετε τη διαδικασία ή χρησιμοποιήστε ένα εργαλείο batch."
-
-    }
-    {
-      "question": "Υποστηρίζει το BMP διαφάνεια;"
-
-      "answer": "Το τυπικό 24-bit BMP δεν περιλαμβάνει άλφα. Χρησιμοποιήστε το PNG για διαφάνεια."
+    },
+  {
+      "question": "Υποστηρίζει το BMP διαφάνεια;",
+  "answer": "Το τυπικό 24-bit BMP δεν περιλαμβάνει άλφα. Χρησιμοποιήστε το PNG για διαφάνεια."
 
     }
-  ]
-  "note": "Η έξοδος BMP είναι σκόπιμα μεγάλη (μη συμπιεσμένη). Για παράδοση στο web, προτιμήστε PNG/WebP/AVIF."
-
+  ],
+  "note": "Η έξοδος BMP είναι σκόπιμα μεγάλη (μη συμπιεσμένη). Για παράδοση στο web, προτιμήστε PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Μετατροπή BMP σε PNG"
+      "title": "Μετατροπή BMP σε PNG",
+  "url": "/el/convert/bmp-to-png"
 
-      "url": "/el/convert/bmp-to-png"
+    },
+  {
+      "title": "Μετατροπή PNG σε JPG",
+  "url": "/el/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Μετατροπή PNG σε JPG"
-
-      "url": "/el/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Μετατροπή PNG σε WebP"
-
-      "url": "/el/convert/png-to-webp"
+    },
+  {
+      "title": "Μετατροπή PNG σε WebP",
+  "url": "/el/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Όλα τα δικαιώματα διατηρούνται."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Όλα τα δικαιώματα διατηρούνται.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Μετατροπέας PNG σε BMP - Δωρεάν & Online"
-
-      "url": "https://miconvert.com/el/convert/png-to-bmp"
-
-      "description": "Δωρεάν online εργαλείο για να μετατρέψετε εικόνες PNG σε BMP με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel."
-
-      "inLanguage": "el"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Μετατροπέας PNG σε BMP - Δωρεάν & Online",
+  "url": "https://miconvert.com/el/convert/png-to-bmp",
+  "description": "Δωρεάν online εργαλείο για να μετατρέψετε εικόνες PNG σε BMP με μη συμπιεσμένα, χωρίς απώλειες δεδομένα pixel.",
+  "inLanguage": "el",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Αρχική",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Αρχική"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Μετατροπή",
+  "item": "https://miconvert.com/el/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Μετατροπή"
-
-          "item": "https://miconvert.com/el/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG σε BMP"
-
-          "item": "https://miconvert.com/el/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG σε BMP",
+  "item": "https://miconvert.com/el/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Μετατροπέας PNG σε BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/el/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Μη συμπιεσμένα δεδομένα pixel",
+  "Ακριβή χρώματα",
+  "Γρήγορη επεξεργασία"
 
-      "name": "Μετατροπέας PNG σε BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/el/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Μη συμπιεσμένα δεδομένα pixel"
-
-        "Ακριβή χρώματα"
-
-        "Γρήγορη επεξεργασία"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Είναι αυτός ο μετατροπέας PNG σε BMP δωρεάν;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
+          "@type": "Question",
+  "name": "Είναι αυτός ο μετατροπέας PNG σε BMP δωρεάν;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ναι, ο μετατροπέας είναι εντελώς δωρεάν χωρίς κρυφές χρεώσεις ή συνδρομές."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ποιες μεγέθους αρχείων υποστηρίζονται;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Μπορείτε να ανεβάσετε εικόνες έως 16 MB ανά αρχείο."
+        },
+  {
+          "@type": "Question",
+  "name": "Ποιες μεγέθους αρχείων υποστηρίζονται;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Μπορείτε να ανεβάσετε εικόνες έως 16 MB ανά αρχείο."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Υποστηρίζει το BMP διαφάνεια;"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Το τυπικό 24-bit BMP δεν περιλαμβάνει άλφα. Χρησιμοποιήστε το PNG για διαφάνεια."
+        },
+  {
+          "@type": "Question",
+  "name": "Υποστηρίζει το BMP διαφάνεια;",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Το τυπικό 24-bit BMP δεν περιλαμβάνει άλφα. Χρησιμοποιήστε το PNG για διαφάνεια."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Πώς να μετατρέψετε PNG σε BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Πώς να μετατρέψετε PNG σε BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Κάντε κλικ στο Ανεβάστε PNG και επιλέξτε το αρχείο σας."
 
-          "text": "Κάντε κλικ στο Ανεβάστε PNG και επιλέξτε το αρχείο σας."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Περιμένετε να ολοκληρωθεί η επεξεργασία."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Κάντε κλικ στο Κατεβάστε BMP για να αποθηκεύσετε την εικόνα."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Περιμένετε να ολοκληρωθεί η επεξεργασία."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Κάντε κλικ στο Κατεβάστε BMP για να αποθηκεύσετε την εικόνα."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Μετατροπέας PNG σε BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

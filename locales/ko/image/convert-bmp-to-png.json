@@ -1,364 +1,276 @@
 {
-  "lang": "ko"
-
-  "lang_name": "한국어"
-
-  "title": "BMP를 PNG로 변환기 - 무료 및 온라인 | miconvert.com"
-
-  "sub_title": "투명도 지원, 더 나은 압축 및 워터마크 없는 상태로 BMP 이미지를 PNG 형식으로 온라인 변환합니다."
-
-  "hint": "변환을 시작하려면 BMP 이미지를 업로드하세요..."
-
-  "btn_download": "PNG로 변환"
-
-  "btn_paste": "BMP 업로드"
-
-  "btn_clear": "지우기"
-
+  "lang": "ko",
+  "lang_name": "한국어",
+  "title": "BMP를 PNG로 변환기 - 무료 및 온라인 | miconvert.com",
+  "sub_title": "투명도 지원, 더 나은 압축 및 워터마크 없는 상태로 BMP 이미지를 PNG 형식으로 온라인 변환합니다.",
+  "hint": "변환을 시작하려면 BMP 이미지를 업로드하세요...",
+  "btn_download": "PNG로 변환",
+  "btn_paste": "BMP 업로드",
+  "btn_clear": "지우기",
   "converter": {
-    "type": "bmp-to-png"
-
-    "inputFormat": "BMP"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "bmp-to-png",
+  "inputFormat": "BMP",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/bmp"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p><strong>BMP를 PNG로 변환</strong>하여 더 나은 압축과 웹 호환성을 확보하세요! 우리의 무료 온라인 BMP에서 PNG로 변환기는 대용량 BMP 파일을 최적화된 PNG 형식으로 변환하는 데 도움을 줍니다. BMP(비트맵) 파일은 종종 압축되지 않으며 매우 클 수 있어 웹 사용이나 공유에 적합하지 않습니다. PNG는 품질을 유지하면서 뛰어난 압축을 제공하여 현대 앱과 웹사이트에 적합합니다.</p><p>PNG는 무손실 압축, 투명도 지원 및 모든 플랫폼에서의 범용 호환성을 제공합니다. 우리의 변환기는 시각적 세부 사항을 유지하면서 BMP 이미지를 최적화합니다. 스크린샷, 그래픽 또는 웹용 이미지 작업을 하든 이 도구는 품질을 잃지 않고 파일 크기를 줄입니다.</p>"
-
+  },
+  "description": "<p><strong>BMP를 PNG로 변환</strong>하여 더 나은 압축과 웹 호환성을 확보하세요! 우리의 무료 온라인 BMP에서 PNG로 변환기는 대용량 BMP 파일을 최적화된 PNG 형식으로 변환하는 데 도움을 줍니다. BMP(비트맵) 파일은 종종 압축되지 않으며 매우 클 수 있어 웹 사용이나 공유에 적합하지 않습니다. PNG는 품질을 유지하면서 뛰어난 압축을 제공하여 현대 앱과 웹사이트에 적합합니다.</p><p>PNG는 무손실 압축, 투명도 지원 및 모든 플랫폼에서의 범용 호환성을 제공합니다. 우리의 변환기는 시각적 세부 사항을 유지하면서 BMP 이미지를 최적화합니다. 스크린샷, 그래픽 또는 웹용 이미지 작업을 하든 이 도구는 품질을 잃지 않고 파일 크기를 줄입니다.</p>",
   "head": {
-    "title": "BMP를 PNG로 온라인 변환 - 무료 BMP에서 PNG 변환기 | miconvert.com"
+    "title": "BMP를 PNG로 온라인 변환 - 무료 BMP에서 PNG 변환기 | miconvert.com",
+  "description": "더 나은 압축, 투명도 지원 및 워터마크 없는 상태로 BMP를 PNG로 온라인 변환합니다. 무료, 빠르고 안전한 BMP에서 PNG로 변환기 도구입니다.",
+  "keywords": "bmp를 png로, bmp를 png로 변환, 무료 bmp에서 png, 온라인 bmp 변환기, 비트맵에서 png",
+  "canonical": "https://miconvert.com/ko/convert/bmp-to-png",
+  "og_title": "BMP를 PNG로 변환기 - 무료 및 온라인",
+  "og_description": "더 나은 압축과 투명도 지원으로 BMP 이미지를 PNG 형식으로 변환합니다. 100% 무료, 빠르고 안전합니다.",
+  "og_url": "https://miconvert.com/ko/convert/bmp-to-png",
+  "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
 
-    "description": "더 나은 압축, 투명도 지원 및 워터마크 없는 상태로 BMP를 PNG로 온라인 변환합니다. 무료, 빠르고 안전한 BMP에서 PNG로 변환기 도구입니다."
-
-    "keywords": "bmp를 png로, bmp를 png로 변환, 무료 bmp에서 png, 온라인 bmp 변환기, 비트맵에서 png"
-
-    "canonical": "https://miconvert.com/ko/convert/bmp-to-png"
-
-    "og_title": "BMP를 PNG로 변환기 - 무료 및 온라인"
-
-    "og_description": "더 나은 압축과 투명도 지원으로 BMP 이미지를 PNG 형식으로 변환합니다. 100% 무료, 빠르고 안전합니다."
-
-    "og_url": "https://miconvert.com/ko/convert/bmp-to-png"
-
-    "og_image": "https://miconvert.com/images/bmp-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "BMP를 PNG로 온라인 변환"
+    "title": "BMP를 PNG로 온라인 변환",
+  "description": "더 나은 압축과 투명도 지원을 갖춘 무료 및 빠른 BMP에서 PNG 변환기. 모든 장치에서 즉시 작동하며 가입이 필요하지 않습니다."
 
-    "description": "더 나은 압축과 투명도 지원을 갖춘 무료 및 빠른 BMP에서 PNG 변환기. 모든 장치에서 즉시 작동하며 가입이 필요하지 않습니다."
-
-  }
+  },
   "h2": [
     {
-      "title": "왜 BMP를 PNG로 변환해야 할까요?"
+      "title": "왜 BMP를 PNG로 변환해야 할까요?",
+  "description": "<p>BMP 파일은 일반적으로 압축되지 않고 매우 크며, PNG는 현대적인 기능과 효율적인 크기를 제공합니다. BMP를 PNG로 변환하는 이점:</p><ul><li><strong>더 나은 압축:</strong> PNG 파일은 일반적으로 BMP보다 50–90% 작습니다.</li><li><strong>투명도 지원:</strong> PNG는 깨끗한 가장자리를 위한 알파 투명도를 지원합니다.</li><li><strong>웹 호환성:</strong> 웹사이트 및 온라인 공유에 이상적입니다.</li><li><strong>범용 지원:</strong> 모든 현대 장치 및 앱에서 작동합니다.</li><li><strong>품질 유지:</strong> 무손실 압축이 세부 사항을 유지합니다.</li></ul>"
 
-      "description": "<p>BMP 파일은 일반적으로 압축되지 않고 매우 크며, PNG는 현대적인 기능과 효율적인 크기를 제공합니다. BMP를 PNG로 변환하는 이점:</p><ul><li><strong>더 나은 압축:</strong> PNG 파일은 일반적으로 BMP보다 50–90% 작습니다.</li><li><strong>투명도 지원:</strong> PNG는 깨끗한 가장자리를 위한 알파 투명도를 지원합니다.</li><li><strong>웹 호환성:</strong> 웹사이트 및 온라인 공유에 이상적입니다.</li><li><strong>범용 지원:</strong> 모든 현대 장치 및 앱에서 작동합니다.</li><li><strong>품질 유지:</strong> 무손실 압축이 세부 사항을 유지합니다.</li></ul>"
+    },
+  {
+      "title": "온라인에서 BMP를 PNG로 변환하는 방법",
+  "description": "<p>단 몇 단계:</p><ol><li><em>BMP 업로드</em>를 클릭하고 파일을 선택하세요.</li><li>처리 및 최적화를 기다리세요.</li><li><em>PNG 다운로드</em>를 클릭하여 최적화된 파일을 저장하세요.</li></ol><p>기술적인 기술이 필요하지 않습니다 — 압축은 자동으로 조정됩니다.</p>"
 
-    }
-    {
-      "title": "온라인에서 BMP를 PNG로 변환하는 방법"
+    },
+  {
+      "title": "BMP와 PNG 비교",
+  "description": "<ul><li><strong>파일 크기:</strong> PNG는 일반적으로 BMP보다 50–90% 작습니다.</li><li><strong>압축:</strong> PNG는 무손실이며; BMP는 일반적으로 압축되지 않습니다.</li><li><strong>투명도:</strong> PNG는 투명도를 지원하며; BMP는 일반적으로 지원하지 않습니다.</li><li><strong>웹 사용:</strong> PNG는 웹 친화적이며; BMP는 권장되지 않습니다.</li><li><strong>품질:</strong> 둘 다 높은 품질을 가질 수 있으며; PNG는 더 작은 크기로 이를 달성합니다.</li></ul>"
 
-      "description": "<p>단 몇 단계:</p><ol><li><em>BMP 업로드</em>를 클릭하고 파일을 선택하세요.</li><li>처리 및 최적화를 기다리세요.</li><li><em>PNG 다운로드</em>를 클릭하여 최적화된 파일을 저장하세요.</li></ol><p>기술적인 기술이 필요하지 않습니다 — 압축은 자동으로 조정됩니다.</p>"
+    },
+  {
+      "title": "지원되는 한계 및 형식",
+  "description": "<ul><li><strong>허용된 입력:</strong> BMP (<code>image/bmp</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16MB</li><li><strong>출력:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>압축 수준:</strong> 0–9 (기본값 6)</li></ul>"
 
-    }
-    {
-      "title": "BMP와 PNG 비교"
+    },
+  {
+      "title": "우리의 BMP에서 PNG 변환기의 특징",
+  "description": "<ul><li>100% 무료, 워터마크 없음</li><li>자동 압축 최적화</li><li>품질 유지 (무손실 PNG)</li><li>안전한 브라우저 기반 워크플로우</li><li>모바일 친화적 (iOS, Android)</li></ul>"
 
-      "description": "<ul><li><strong>파일 크기:</strong> PNG는 일반적으로 BMP보다 50–90% 작습니다.</li><li><strong>압축:</strong> PNG는 무손실이며; BMP는 일반적으로 압축되지 않습니다.</li><li><strong>투명도:</strong> PNG는 투명도를 지원하며; BMP는 일반적으로 지원하지 않습니다.</li><li><strong>웹 사용:</strong> PNG는 웹 친화적이며; BMP는 권장되지 않습니다.</li><li><strong>품질:</strong> 둘 다 높은 품질을 가질 수 있으며; PNG는 더 작은 크기로 이를 달성합니다.</li></ul>"
+    },
+  {
+      "title": "BMP란 무엇인가요?",
+  "description": "<p>BMP(비트맵)는 간단한 래스터 이미지 형식으로, 종종 압축되지 않아 매우 큰 파일이 됩니다. 호환성은 있지만 웹에 비효율적입니다.</p>"
 
-    }
-    {
-      "title": "지원되는 한계 및 형식"
+    },
+  {
+      "title": "PNG란 무엇인가요?",
+  "description": "<p>PNG(휴대용 네트워크 그래픽스)는 투명도 지원이 있는 무손실 래스터 형식으로, UI, 그래픽, 스크린샷 및 웹에서 널리 사용됩니다.</p>"
 
-      "description": "<ul><li><strong>허용된 입력:</strong> BMP (<code>image/bmp</code>)</li><li><strong>최대 파일 크기:</strong> 파일당 최대 16MB</li><li><strong>출력:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>압축 수준:</strong> 0–9 (기본값 6)</li></ul>"
+    },
+  {
+      "title": "문제 해결",
+  "description": "<ul><li><strong>업로드 실패:</strong> 파일이 BMP이고 ≤ 16MB인지 확인하세요.</li><li><strong>PNG가 여전히 큽니다:</strong> 더 낮은 압축 수준을 시도하거나 우리의 <a href='/ko/edit/compress-image'>이미지 압축기</a>를 사용하세요.</li><li><strong>투명도가 필요합니다:</strong> PNG는 투명도를 지원하지만 BMP에 고정 배경이 있는 경우 <a href='/ko/effect/remove-background'>배경 제거기</a>로 먼저 제거하세요.</li></ul>"
 
-    }
-    {
-      "title": "우리의 BMP에서 PNG 변환기의 특징"
-
-      "description": "<ul><li>100% 무료, 워터마크 없음</li><li>자동 압축 최적화</li><li>품질 유지 (무손실 PNG)</li><li>안전한 브라우저 기반 워크플로우</li><li>모바일 친화적 (iOS, Android)</li></ul>"
-
-    }
-    {
-      "title": "BMP란 무엇인가요?"
-
-      "description": "<p>BMP(비트맵)는 간단한 래스터 이미지 형식으로, 종종 압축되지 않아 매우 큰 파일이 됩니다. 호환성은 있지만 웹에 비효율적입니다.</p>"
-
-    }
-    {
-      "title": "PNG란 무엇인가요?"
-
-      "description": "<p>PNG(휴대용 네트워크 그래픽스)는 투명도 지원이 있는 무손실 래스터 형식으로, UI, 그래픽, 스크린샷 및 웹에서 널리 사용됩니다.</p>"
-
-    }
-    {
-      "title": "문제 해결"
-
-      "description": "<ul><li><strong>업로드 실패:</strong> 파일이 BMP이고 ≤ 16MB인지 확인하세요.</li><li><strong>PNG가 여전히 큽니다:</strong> 더 낮은 압축 수준을 시도하거나 우리의 <a href='/ko/edit/compress-image'>이미지 압축기</a>를 사용하세요.</li><li><strong>투명도가 필요합니다:</strong> PNG는 투명도를 지원하지만 BMP에 고정 배경이 있는 경우 <a href='/ko/effect/remove-background'>배경 제거기</a>로 먼저 제거하세요.</li></ul>"
+    },
+  {
+      "title": "사용 사례: BMP를 PNG로 변환해야 할 때",
+  "description": "<ul><li><strong>웹 업로드</strong>를 위한 더 작은 크기.</li><li><strong>투명한 배경이 필요한 그래픽 및 로고</strong>.</li><li><strong>품질 손실 없이 저장 최적화</strong>.</li><li><strong>크로스 플랫폼 공유</strong> 및 아카이빙.</li></ul>"
 
     }
-    {
-      "title": "사용 사례: BMP를 PNG로 변환해야 할 때"
-
-      "description": "<ul><li><strong>웹 업로드</strong>를 위한 더 작은 크기.</li><li><strong>투명한 배경이 필요한 그래픽 및 로고</strong>.</li><li><strong>품질 손실 없이 저장 최적화</strong>.</li><li><strong>크로스 플랫폼 공유</strong> 및 아카이빙.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "이 BMP에서 PNG 변환기는 무료인가요?"
+      "question": "이 BMP에서 PNG 변환기는 무료인가요?",
+  "answer": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
 
-      "answer": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
+    },
+  {
+      "question": "BMP를 PNG로 변환할 때 품질이 손실되나요?",
+  "answer": "아니요. PNG는 무손실 압축을 사용하므로 변환 중 품질이 손실되지 않습니다."
 
-    }
-    {
-      "question": "BMP를 PNG로 변환할 때 품질이 손실되나요?"
+    },
+  {
+      "question": "내 파일은 얼마나 작아질까요?",
+  "answer": "PNG 파일은 일반적으로 BMP보다 50–90% 작으면서 동일한 시각적 품질을 유지합니다."
 
-      "answer": "아니요. PNG는 무손실 압축을 사용하므로 변환 중 품질이 손실되지 않습니다."
+    },
+  {
+      "question": "어떤 파일 크기가 지원되나요?",
+  "answer": "파일당 최대 16MB의 이미지를 업로드할 수 있습니다."
 
-    }
-    {
-      "question": "내 파일은 얼마나 작아질까요?"
+    },
+  {
+      "question": "내 파일은 안전한가요?",
+  "answer": "파일은 자동으로 처리되며 변환에 필요한 시간 이상으로 보관되지 않습니다."
 
-      "answer": "PNG 파일은 일반적으로 BMP보다 50–90% 작으면서 동일한 시각적 품질을 유지합니다."
+    },
+  {
+      "question": "한 번에 여러 BMP 파일을 변환할 수 있나요?",
+  "answer": "이 페이지는 한 번에 하나의 파일만 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
 
-    }
-    {
-      "question": "어떤 파일 크기가 지원되나요?"
-
-      "answer": "파일당 최대 16MB의 이미지를 업로드할 수 있습니다."
-
-    }
-    {
-      "question": "내 파일은 안전한가요?"
-
-      "answer": "파일은 자동으로 처리되며 변환에 필요한 시간 이상으로 보관되지 않습니다."
-
-    }
-    {
-      "question": "한 번에 여러 BMP 파일을 변환할 수 있나요?"
-
-      "answer": "이 페이지는 한 번에 하나의 파일만 변환합니다. 대량 필요 시 프로세스를 반복하거나 배치 도구를 사용하세요."
-
-    }
-    {
-      "question": "PNG 대신 BMP를 언제 사용해야 하나요?"
-
-      "answer": "웹 사용, 더 작은 파일 크기 및 투명도가 필요할 때 PNG를 사용하세요. BMP는 주로 압축되지 않은 이미지를 요구하는 워크플로우에 사용됩니다."
+    },
+  {
+      "question": "PNG 대신 BMP를 언제 사용해야 하나요?",
+  "answer": "웹 사용, 더 작은 파일 크기 및 투명도가 필요할 때 PNG를 사용하세요. BMP는 주로 압축되지 않은 이미지를 요구하는 워크플로우에 사용됩니다."
 
     }
-  ]
-  "note": "PNG 변환은 품질을 유지하면서 파일 크기를 크게 줄입니다 — 웹 및 공유에 이상적입니다."
-
+  ],
+  "note": "PNG 변환은 품질을 유지하면서 파일 크기를 크게 줄입니다 — 웹 및 공유에 이상적입니다.",
   "related_links": [
     {
-      "title": "BMP를 JPG로 변환"
+      "title": "BMP를 JPG로 변환",
+  "url": "/ko/convert/bmp-to-jpg"
 
-      "url": "/ko/convert/bmp-to-jpg"
+    },
+  {
+      "title": "JPG를 PNG로 변환",
+  "url": "/ko/convert/jpg-to-png"
 
-    }
-    {
-      "title": "JPG를 PNG로 변환"
-
-      "url": "/ko/convert/jpg-to-png"
-
-    }
-    {
-      "title": "PNG를 BMP로 변환"
-
-      "url": "/ko/convert/png-to-bmp"
+    },
+  {
+      "title": "PNG를 BMP로 변환",
+  "url": "/ko/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. 모든 권리 보유.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "BMP를 PNG로 변환기 - 무료 및 온라인"
-
-      "url": "https://miconvert.com/ko/convert/bmp-to-png"
-
-      "description": "무손실 압축 및 투명도 지원으로 BMP 이미지를 PNG로 변환하는 무료 온라인 도구입니다."
-
-      "inLanguage": "ko"
-
-      "image": "https://miconvert.com/images/bmp-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "BMP를 PNG로 변환기 - 무료 및 온라인",
+  "url": "https://miconvert.com/ko/convert/bmp-to-png",
+  "description": "무손실 압축 및 투명도 지원으로 BMP 이미지를 PNG로 변환하는 무료 온라인 도구입니다.",
+  "inLanguage": "ko",
+  "image": "https://miconvert.com/images/bmp-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "홈",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "홈"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "변환",
+  "item": "https://miconvert.com/ko/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "변환"
-
-          "item": "https://miconvert.com/ko/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "BMP에서 PNG"
-
-          "item": "https://miconvert.com/ko/convert/bmp-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "BMP에서 PNG",
+  "item": "https://miconvert.com/ko/convert/bmp-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "BMP에서 PNG 변환기",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/ko/convert/bmp-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "무손실 PNG 출력",
+  "투명도 지원",
+  "빠른 브라우저 처리"
 
-      "name": "BMP에서 PNG 변환기"
+      ],
+  "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/ko/convert/bmp-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "무손실 PNG 출력"
-
-        "투명도 지원"
-
-        "빠른 브라우저 처리"
-
-      ]
-      "screenshot": "https://miconvert.com/images/bmp-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "이 BMP에서 PNG 변환기는 무료인가요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
+          "@type": "Question",
+  "name": "이 BMP에서 PNG 변환기는 무료인가요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "네, 변환기는 완전히 무료이며 숨겨진 요금이나 구독이 없습니다."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "내 파일은 얼마나 작아질까요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "PNG 파일은 일반적으로 BMP보다 50–90% 작으면서 동일한 시각적 품질을 유지합니다."
+        },
+  {
+          "@type": "Question",
+  "name": "내 파일은 얼마나 작아질까요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "PNG 파일은 일반적으로 BMP보다 50–90% 작으면서 동일한 시각적 품질을 유지합니다."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "어떤 파일 크기가 지원되나요?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "파일당 최대 16MB의 이미지를 업로드할 수 있습니다."
+        },
+  {
+          "@type": "Question",
+  "name": "어떤 파일 크기가 지원되나요?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "파일당 최대 16MB의 이미지를 업로드할 수 있습니다."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "BMP를 PNG로 변환하는 방법"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "BMP를 PNG로 변환하는 방법",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "BMP 업로드를 클릭하고 파일을 선택하세요."
 
-          "text": "BMP 업로드를 클릭하고 파일을 선택하세요."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "처리 및 최적화가 완료될 때까지 기다리세요."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "결과를 저장하려면 PNG 다운로드를 클릭하세요."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "처리 및 최적화가 완료될 때까지 기다리세요."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "결과를 저장하려면 PNG 다운로드를 클릭하세요."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "BMP에서 PNG 변환기"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

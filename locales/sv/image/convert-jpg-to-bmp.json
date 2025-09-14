@@ -1,382 +1,287 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "JPG till BMP Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera JPG-bilder till BMP online med okomprimerad, förlustfri pixeldata. Inga vattenstämplar."
-
-  "hint": "Ladda upp din JPG-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till BMP"
-
-  "btn_paste": "Ladda upp JPG"
-
-  "btn_clear": "Rensa"
-
-  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "JPG till BMP Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera JPG-bilder till BMP online med okomprimerad, förlustfri pixeldata. Inga vattenstämplar.",
+  "hint": "Ladda upp din JPG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till BMP",
+  "btn_paste": "Ladda upp JPG",
+  "btn_clear": "Rensa",
+  "ogImage": "https://miconvert.com/images/jpg-to-bmp.jpg",
   "head": {
-    "title": "Konvertera JPG till BMP - Gratis Online JPG till BMP Konverterare"
+    "title": "Konvertera JPG till BMP - Gratis Online JPG till BMP Konverterare",
+  "description": "Konvertera JPG-bilder till BMP-format online gratis. Högkvalitativ JPG till BMP-konvertering med snabb behandling.",
+  "keywords": "jpg till bmp, konvertera jpg till bmp, gratis jpg till bmp, online bmp konverterare, bildkonvertering",
+  "canonical": "https://miconvert.com/sv/convert/jpg-to-bmp",
+  "og_title": "Konvertera JPG till BMP - Gratis Online JPG till BMP Konverterare",
+  "og_description": "Konvertera JPG-bilder till BMP-format online gratis. Högkvalitativ JPG till BMP-konvertering med snabb behandling.",
+  "og_url": "https://miconvert.com/sv/convert/jpg-to-bmp",
+  "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-    "description": "Konvertera JPG-bilder till BMP-format online gratis. Högkvalitativ JPG till BMP-konvertering med snabb behandling."
-
-    "keywords": "jpg till bmp, konvertera jpg till bmp, gratis jpg till bmp, online bmp konverterare, bildkonvertering"
-
-    "canonical": "https://miconvert.com/sv/convert/jpg-to-bmp"
-
-    "og_title": "Konvertera JPG till BMP - Gratis Online JPG till BMP Konverterare"
-
-    "og_description": "Konvertera JPG-bilder till BMP-format online gratis. Högkvalitativ JPG till BMP-konvertering med snabb behandling."
-
-    "og_url": "https://miconvert.com/sv/convert/jpg-to-bmp"
-
-    "og_image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera JPG till BMP Online"
+    "title": "Konvertera JPG till BMP Online",
+  "description": "Gratis JPG till BMP-konverterare med okomprimerad, förlustfri pixeldata. Fungerar på alla enheter — ingen registrering krävs."
 
-    "description": "Gratis JPG till BMP-konverterare med okomprimerad, förlustfri pixeldata. Fungerar på alla enheter — ingen registrering krävs."
-
-  }
+  },
   "converter": {
-    "type": "jpg-to-bmp"
-
-    "title": "JPG till BMP Konverterare"
-
-    "description": "Konvertera JPG-bilder till BMP med snabb behandling och exakta färger."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "JPG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "jpg-to-bmp",
+  "title": "JPG till BMP Konverterare",
+  "description": "Konvertera JPG-bilder till BMP med snabb behandling och exakta färger.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "JPG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/jpeg"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Okomprimerad (förlustfri) pixeldata",
+  "Hög kompatibilitet på Windows",
+  "Snabb behandling",
+  "Gratis onlineverktyg"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Okomprimerad (förlustfri) pixeldata"
-
-      "Hög kompatibilitet på Windows"
-
-      "Snabb behandling"
-
-      "Gratis onlineverktyg"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "JPG till BMP Konvertering Slutförd"
+    "title": "JPG till BMP Konvertering Slutförd",
+  "back_button": "Tillbaka till Konverteraren",
+  "convert_another": "Konvertera En Annan JPG",
+  "quick_conversions": "Snabba Konverteringar:"
 
-    "back_button": "Tillbaka till Konverteraren"
-
-    "convert_another": "Konvertera En Annan JPG"
-
-    "quick_conversions": "Snabba Konverteringar:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför Konvertera JPG till BMP?"
+      "title": "Varför Konvertera JPG till BMP?",
+  "description": "<p>BMP är ett enkelt rasterformat som lagrar pixlar utan komprimering — användbart för vissa arbetsflöden:</p><ul><li><strong>Inga JPEG-artifakter:</strong> Undvik upprepade förlustiga omkodningar under redigering.</li><li><strong>Enkel struktur:</strong> Lätt för låg-nivå pixelmanipulation.</li><li><strong>Äldre/inkapslade appar:</strong> Vissa Windows-verktyg föredrar BMP.</li></ul>"
 
-      "description": "<p>BMP är ett enkelt rasterformat som lagrar pixlar utan komprimering — användbart för vissa arbetsflöden:</p><ul><li><strong>Inga JPEG-artifakter:</strong> Undvik upprepade förlustiga omkodningar under redigering.</li><li><strong>Enkel struktur:</strong> Lätt för låg-nivå pixelmanipulation.</li><li><strong>Äldre/inkapslade appar:</strong> Vissa Windows-verktyg föredrar BMP.</li></ul>"
+    },
+  {
+      "title": "Hur man Konverterar JPG till BMP Online",
+  "description": "<ol><li>Klicka på <em>Ladda upp JPG</em> och välj din fil.</li><li>Vänta på att behandlingen ska slutföras.</li><li>Klicka på <em>Ladda ner BMP</em> för att spara din bild.</li></ol><p>Standardinställningar för 24-bitars BMP utan komprimering.</p>"
 
-    }
-    {
-      "title": "Hur man Konverterar JPG till BMP Online"
+    },
+  {
+      "title": "BMP vs JPG: Viktiga Skillnader",
+  "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Komprimering</td><td>Förlustig (JPEG)</td><td>Typiskt okomprimerad (förlustfri)</td></tr><tr><td>Filstorlek</td><td>Liten</td><td>Stor</td></tr><tr><td>Transparens</td><td>Nej</td><td>Nej (vanlig 24-bitars BMP)</td></tr><tr><td>Bäst för</td><td>Fotografier, webbbruk</td><td>Redigeringsarbetsflöden, äldre appar, pixeloperationer</td></tr></tbody></table>"
 
-      "description": "<ol><li>Klicka på <em>Ladda upp JPG</em> och välj din fil.</li><li>Vänta på att behandlingen ska slutföras.</li><li>Klicka på <em>Ladda ner BMP</em> för att spara din bild.</li></ol><p>Standardinställningar för 24-bitars BMP utan komprimering.</p>"
+    },
+  {
+      "title": "Stödda Gränser & Format",
+  "description": "<ul><li><strong>Accepterad indata:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitdjup:</strong> 24-bit (ingen alfa)</li></ul>"
 
-    }
-    {
-      "title": "BMP vs JPG: Viktiga Skillnader"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Mycket stor utdata:</strong> BMP är okomprimerad av design; överväg <a href='/sv/convert/jpg-to-png'>JPG till PNG</a> för mindre förlustfria filer.</li><li><strong>Transparens behövs:</strong> BMP (24-bit) har ingen alfa; använd <a href='/sv/convert/jpg-to-png'>JPG till PNG</a>.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är JPG/JPEG och ≤ 16&nbsp;MB.</li></ul>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Funktion</th><th>JPG</th><th>BMP</th></tr></thead><tbody><tr><td>Komprimering</td><td>Förlustig (JPEG)</td><td>Typiskt okomprimerad (förlustfri)</td></tr><tr><td>Filstorlek</td><td>Liten</td><td>Stor</td></tr><tr><td>Transparens</td><td>Nej</td><td>Nej (vanlig 24-bitars BMP)</td></tr><tr><td>Bäst för</td><td>Fotografier, webbbruk</td><td>Redigeringsarbetsflöden, äldre appar, pixeloperationer</td></tr></tbody></table>"
+    },
+  {
+      "title": "Vad är JPG?",
+  "description": "<p>JPG (JPEG) använder förlustig komprimering för att hålla filerna små, idealiskt för fotografier och webben, men upprepade sparande kan introducera artefakter.</p>"
 
-    }
-    {
-      "title": "Stödda Gränser & Format"
+    },
+  {
+      "title": "Vad är BMP?",
+  "description": "<p>BMP är ett enkelt bitmapformat som typiskt lagrar råa pixlar utan komprimering. Det är stort i storlek men lätt för program att läsa och manipulera.</p>"
 
-      "description": "<ul><li><strong>Accepterad indata:</strong> JPG/JPEG (<code>image/jpeg</code>)</li><li><strong>Maximal filstorlek:</strong> upp till 16&nbsp;MB per fil</li><li><strong>Utdata:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitdjup:</strong> 24-bit (ingen alfa)</li></ul>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Mycket stor utdata:</strong> BMP är okomprimerad av design; överväg <a href='/sv/convert/jpg-to-png'>JPG till PNG</a> för mindre förlustfria filer.</li><li><strong>Transparens behövs:</strong> BMP (24-bit) har ingen alfa; använd <a href='/sv/convert/jpg-to-png'>JPG till PNG</a>.</li><li><strong>Uppladdning misslyckas:</strong> Se till att filen är JPG/JPEG och ≤ 16&nbsp;MB.</li></ul>"
-
-    }
-    {
-      "title": "Vad är JPG?"
-
-      "description": "<p>JPG (JPEG) använder förlustig komprimering för att hålla filerna små, idealiskt för fotografier och webben, men upprepade sparande kan introducera artefakter.</p>"
-
-    }
-    {
-      "title": "Vad är BMP?"
-
-      "description": "<p>BMP är ett enkelt bitmapformat som typiskt lagrar råa pixlar utan komprimering. Det är stort i storlek men lätt för program att läsa och manipulera.</p>"
+    },
+  {
+      "title": "Användningsfall: När man ska Konvertera JPG till BMP",
+  "description": "<ul><li><strong>Redigeringsloopar:</strong> Undvik kumulativa JPEG-artifakter.</li><li><strong>Äldre programvara:</strong> Äldre Windows-verktyg som kräver BMP.</li><li><strong>Utveckling:</strong> Direkt pixelåtkomst i låg-nivå behandling.</li></ul>"
 
     }
-    {
-      "title": "Användningsfall: När man ska Konvertera JPG till BMP"
-
-      "description": "<ul><li><strong>Redigeringsloopar:</strong> Undvik kumulativa JPEG-artifakter.</li><li><strong>Äldre programvara:</strong> Äldre Windows-verktyg som kräver BMP.</li><li><strong>Utveckling:</strong> Direkt pixelåtkomst i låg-nivå behandling.</li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna JPG till BMP konverterare gratis?"
+      "question": "Är denna JPG till BMP konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Fungerar BMP på alla applikationer?",
+  "answer": "BMP stöds brett på Windows och erkänns av många andra plattformar. Vissa moderna arbetsflöden föredrar PNG/WebP för storlekseffektivitet."
 
-    }
-    {
-      "question": "Fungerar BMP på alla applikationer?"
+    },
+  {
+      "question": "Hur mycket större är BMP-filer än JPG?",
+  "answer": "Ofta flera gånger större (t.ex. 5–20×), eftersom BMP typiskt är okomprimerad."
 
-      "answer": "BMP stöds brett på Windows och erkänns av många andra plattformar. Vissa moderna arbetsflöden föredrar PNG/WebP för storlekseffektivitet."
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
 
-    }
-    {
-      "question": "Hur mycket större är BMP-filer än JPG?"
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Filer behandlas automatiskt och behålls inte längre än nödvändigt för konvertering."
 
-      "answer": "Ofta flera gånger större (t.ex. 5–20×), eftersom BMP typiskt är okomprimerad."
+    },
+  {
+      "question": "Kan jag konvertera flera JPG:er på en gång?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16&nbsp;MB per fil."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Filer behandlas automatiskt och behålls inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera JPG:er på en gång?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-
-    }
-    {
-      "question": "Stöder BMP transparens?"
-
-      "answer": "Vanlig 24-bitars BMP inkluderar inte en alfakanal. För transparens, konvertera till PNG istället."
+    },
+  {
+      "question": "Stöder BMP transparens?",
+  "answer": "Vanlig 24-bitars BMP inkluderar inte en alfakanal. För transparens, konvertera till PNG istället."
 
     }
-  ]
-  "note": "BMP-utdata är avsiktligt stor (okomprimerad). För webben, föredra PNG/WebP/AVIF."
-
+  ],
+  "note": "BMP-utdata är avsiktligt stor (okomprimerad). För webben, föredra PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konvertera BMP till JPG"
+      "title": "Konvertera BMP till JPG",
+  "url": "/sv/convert/bmp-to-jpg"
 
-      "url": "/sv/convert/bmp-to-jpg"
+    },
+  {
+      "title": "Konvertera JPG till PNG",
+  "url": "/sv/convert/jpg-to-png"
 
-    }
-    {
-      "title": "Konvertera JPG till PNG"
-
-      "url": "/sv/convert/jpg-to-png"
-
-    }
-    {
-      "title": "Konvertera PNG till BMP"
-
-      "url": "/sv/convert/png-to-bmp"
+    },
+  {
+      "title": "Konvertera PNG till BMP",
+  "url": "/sv/convert/png-to-bmp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG till BMP Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/jpg-to-bmp"
-
-      "description": "Gratis onlineverktyg för att konvertera JPG-bilder till BMP med okomprimerad, förlustfri pixeldata."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG till BMP Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/jpg-to-bmp",
+  "description": "Gratis onlineverktyg för att konvertera JPG-bilder till BMP med okomprimerad, förlustfri pixeldata.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/jpg-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG till BMP"
-
-          "item": "https://miconvert.com/sv/convert/jpg-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG till BMP",
+  "item": "https://miconvert.com/sv/convert/jpg-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG till BMP Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/jpg-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Okomprimerad pixeldata",
+  "Exakta färger",
+  "Snabb behandling"
 
-      "name": "JPG till BMP Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/jpg-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Okomprimerad pixeldata"
-
-        "Exakta färger"
-
-        "Snabb behandling"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna JPG till BMP konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna JPG till BMP konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Stöder BMP transparens?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standard 24-bitars BMP inkluderar inte transparens. Använd PNG för alfa."
+        },
+  {
+          "@type": "Question",
+  "name": "Stöder BMP transparens?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standard 24-bitars BMP inkluderar inte transparens. Använd PNG för alfa."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar JPG till BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar JPG till BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp JPG och välj din fil."
 
-          "text": "Klicka på Ladda upp JPG och välj din fil."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att behandlingen ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner BMP för att spara bilden."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att behandlingen ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner BMP för att spara bilden."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG till BMP Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

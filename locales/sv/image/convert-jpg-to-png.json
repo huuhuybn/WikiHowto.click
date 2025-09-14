@@ -1,376 +1,282 @@
 {
-  "lang": "sv"
-
-  "lang_name": "Svenska"
-
-  "title": "JPG till PNG Konverterare - Gratis & Online | miconvert.com"
-
-  "sub_title": "Konvertera JPG-bilder till PNG-format online med transparens, hög kvalitet och utan vattenstämplar."
-
-  "hint": "Ladda upp din JPG-bild för att börja konvertera..."
-
-  "btn_download": "Konvertera till PNG"
-
-  "btn_paste": "Ladda upp JPG"
-
-  "btn_clear": "Rensa"
-
+  "lang": "sv",
+  "lang_name": "Svenska",
+  "title": "JPG till PNG Konverterare - Gratis & Online | miconvert.com",
+  "sub_title": "Konvertera JPG-bilder till PNG-format online med transparens, hög kvalitet och utan vattenstämplar.",
+  "hint": "Ladda upp din JPG-bild för att börja konvertera...",
+  "btn_download": "Konvertera till PNG",
+  "btn_paste": "Ladda upp JPG",
+  "btn_clear": "Rensa",
   "converter": {
-    "type": "jpg-to-png"
+    "type": "jpg-to-png",
+  "inputFormat": "JPG",
+  "outputFormat": "PNG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
+      "image/jpeg",
+  "image/jpg"
 
-    "inputFormat": "JPG"
-
-    "outputFormat": "PNG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
-      "image/jpeg"
-
-      "image/jpg"
-
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/png"
-
-    "outputExtension": ".png"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/png",
+  "outputExtension": ".png",
+  "quality": 90,
+  "options": {
       "png": {
-        "compressionLevel": 6
-        "progressive": false
+        "compressionLevel": 6,
+  "progressive": false
       }
     }
-  }
-  "description": "<p>Letar du efter ett snabbt och pålitligt sätt att konvertera <strong>JPG till PNG</strong>? Vår gratis online JPG till PNG-konverterare hjälper dig att omvandla dina bilder till högkvalitativa PNG-filer på ett ögonblick. Oavsett om du behöver transparens, förlustfri kompression eller kompatibilitet för designprojekt, är detta verktyg den perfekta lösningen. Det fungerar direkt i din webbläsare, kräver ingen registrering och håller dina filer säkra.</p><p>PNG-formatet är idealiskt för professionellt bruk, särskilt när du arbetar med grafik, logotyper eller bilder som kräver en transparent bakgrund. Till skillnad från JPG, som använder förlustkompression och kan minska bildkvaliteten, behåller PNG skarpa detaljer och stöder alfa-transparens. Om du är designer, student eller affärsproffs ger vårt verktyg dig ett enkelt sätt att förbättra ditt arbetsflöde.</p>"
-
+  },
+  "description": "<p>Letar du efter ett snabbt och pålitligt sätt att konvertera <strong>JPG till PNG</strong>? Vår gratis online JPG till PNG-konverterare hjälper dig att omvandla dina bilder till högkvalitativa PNG-filer på ett ögonblick. Oavsett om du behöver transparens, förlustfri kompression eller kompatibilitet för designprojekt, är detta verktyg den perfekta lösningen. Det fungerar direkt i din webbläsare, kräver ingen registrering och håller dina filer säkra.</p><p>PNG-formatet är idealiskt för professionellt bruk, särskilt när du arbetar med grafik, logotyper eller bilder som kräver en transparent bakgrund. Till skillnad från JPG, som använder förlustkompression och kan minska bildkvaliteten, behåller PNG skarpa detaljer och stöder alfa-transparens. Om du är designer, student eller affärsproffs ger vårt verktyg dig ett enkelt sätt att förbättra ditt arbetsflöde.</p>",
   "head": {
-    "title": "Konvertera JPG till PNG Online - Gratis JPG till PNG Konverterare | miconvert.com"
+    "title": "Konvertera JPG till PNG Online - Gratis JPG till PNG Konverterare | miconvert.com",
+  "description": "Konvertera JPG till PNG online med stöd för transparens, hög kvalitet och utan vattenstämplar. Gratis, snabbt och säkert JPG till PNG-konverteringsverktyg.",
+  "keywords": "jpg till png, konvertera jpg till png, gratis jpg till png, online jpg konverterare, png med transparens",
+  "canonical": "https://miconvert.com/sv/convert/jpg-to-png",
+  "og_title": "JPG till PNG Konverterare - Gratis & Online",
+  "og_description": "Konvertera JPG-bilder till PNG-format med transparens och förlustfri kvalitet. 100% gratis, snabbt och säkert.",
+  "og_url": "https://miconvert.com/sv/convert/jpg-to-png",
+  "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
 
-    "description": "Konvertera JPG till PNG online med stöd för transparens, hög kvalitet och utan vattenstämplar. Gratis, snabbt och säkert JPG till PNG-konverteringsverktyg."
-
-    "keywords": "jpg till png, konvertera jpg till png, gratis jpg till png, online jpg konverterare, png med transparens"
-
-    "canonical": "https://miconvert.com/sv/convert/jpg-to-png"
-
-    "og_title": "JPG till PNG Konverterare - Gratis & Online"
-
-    "og_description": "Konvertera JPG-bilder till PNG-format med transparens och förlustfri kvalitet. 100% gratis, snabbt och säkert."
-
-    "og_url": "https://miconvert.com/sv/convert/jpg-to-png"
-
-    "og_image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertera JPG till PNG Online"
+    "title": "Konvertera JPG till PNG Online",
+  "description": "Gratis och snabb JPG till PNG-konverterare med stöd för transparens och förlustfri kvalitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
 
-    "description": "Gratis och snabb JPG till PNG-konverterare med stöd för transparens och förlustfri kvalitet. Fungerar omedelbart på alla enheter, ingen registrering krävs."
-
-  }
+  },
   "h2": [
     {
-      "title": "Varför konvertera JPG till PNG?"
+      "title": "Varför konvertera JPG till PNG?",
+  "description": "<p>Även om JPG är bra för små filstorlekar och online-delning, kommer det med kompression som minskar kvaliteten. PNG, å sin sida, är ett förlustfritt format som bevarar detaljer och stöder transparens. Här är de främsta anledningarna till att använda vår JPG till PNG-konverterare:</p><ul><li><strong>Transparens:</strong> Skapa logotyper, ikoner och bilder utan bakgrunder.</li><li><strong>Bättre redigering:</strong> Idealisk för designprogram som Photoshop, Illustrator och Figma.</li><li><strong>Hög kvalitet:</strong> Bevara skärpa, textklarhet och grafiska detaljer.</li><li><strong>Plattformsövergripande kompatibilitet:</strong> PNG stöds brett över webbläsare, appar och operativsystem.</li></ul>"
 
-      "description": "<p>Även om JPG är bra för små filstorlekar och online-delning, kommer det med kompression som minskar kvaliteten. PNG, å sin sida, är ett förlustfritt format som bevarar detaljer och stöder transparens. Här är de främsta anledningarna till att använda vår JPG till PNG-konverterare:</p><ul><li><strong>Transparens:</strong> Skapa logotyper, ikoner och bilder utan bakgrunder.</li><li><strong>Bättre redigering:</strong> Idealisk för designprogram som Photoshop, Illustrator och Figma.</li><li><strong>Hög kvalitet:</strong> Bevara skärpa, textklarhet och grafiska detaljer.</li><li><strong>Plattformsövergripande kompatibilitet:</strong> PNG stöds brett över webbläsare, appar och operativsystem.</li></ul>"
+    },
+  {
+      "title": "JPG vs PNG: Viktiga skillnader",
+  "description": "<table class='table-compare'><thead><tr><th>Egenskap</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompression</td><td>Förlustig (mindre men kvalitetsförlust)</td><td>Förlustfri (större men skarp)</td></tr><tr><td>Transparens</td><td>Nej</td><td>Ja (alfa-kanal)</td></tr><tr><td>Bäst för</td><td>Fotografier, social delning</td><td>Logotyper, UI, text, grafik</td></tr><tr><td>Redigering</td><td>Upprepade sparningar minskar kvaliteten</td><td>Stabil över redigeringar</td></tr></tbody></table>"
 
-    }
-    {
-      "title": "JPG vs PNG: Viktiga skillnader"
+    },
+  {
+      "title": "Hur man konverterar JPG till PNG Online",
+  "description": "<p>Att konvertera JPG till PNG med vårt verktyg är enkelt och tar bara några sekunder:</p><ol><li>Klicka på <em>Ladda upp JPG</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner PNG</em> för att få din nya fil.</li></ol><p>Ingen teknisk kunskap krävs — allt sker i din webbläsare.</p>"
 
-      "description": "<table class='table-compare'><thead><tr><th>Egenskap</th><th>JPG</th><th>PNG</th></tr></thead><tbody><tr><td>Kompression</td><td>Förlustig (mindre men kvalitetsförlust)</td><td>Förlustfri (större men skarp)</td></tr><tr><td>Transparens</td><td>Nej</td><td>Ja (alfa-kanal)</td></tr><tr><td>Bäst för</td><td>Fotografier, social delning</td><td>Logotyper, UI, text, grafik</td></tr><tr><td>Redigering</td><td>Upprepade sparningar minskar kvaliteten</td><td>Stabil över redigeringar</td></tr></tbody></table>"
+    },
+  {
+      "title": "Stödda gränser & format",
+  "description": "<ul><li><strong>Accepterade inmatningstyper:</strong> image/jpeg, image/jpg</li><li><strong>Maximal filstorlek:</strong> upp till 16 MB per fil</li><li><strong>Utdata:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitet:</strong> Förlustfri PNG med justerbar kompressionsnivå</li></ul>"
 
-    }
-    {
-      "title": "Hur man konverterar JPG till PNG Online"
+    },
+  {
+      "title": "Tips för bättre resultat",
+  "description": "<ul><li><strong>Använd högupplösta JPG-filer:</strong> Ju högre upplösning din JPG har, desto bättre kommer din PNG att se ut.</li><li><strong>Behöver du transparens?</strong> Om din JPG har en bakgrund, använd vår <a href='/sv/effect/remove-background'>Bakgrundsborttagare</a> först.</li><li><strong>Optimera filstorleken:</strong> Efter konvertering, använd vår <a href='/sv/edit/compress-image'>Bildkompressor</a> för att minska PNG-storleken samtidigt som kvaliteten bevaras.</li><li><strong>För webben:</strong> Överväg att konvertera PNG till <a href='/sv/convert/png-to-webp'>WebP</a> för snabbare laddning.</li></ul>"
 
-      "description": "<p>Att konvertera JPG till PNG med vårt verktyg är enkelt och tar bara några sekunder:</p><ol><li>Klicka på <em>Ladda upp JPG</em> och välj din fil.</li><li>Vänta på att bearbetningen ska slutföras.</li><li>Klicka på <em>Ladda ner PNG</em> för att få din nya fil.</li></ol><p>Ingen teknisk kunskap krävs — allt sker i din webbläsare.</p>"
+    },
+  {
+      "title": "Felsökning",
+  "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att din fil är JPG/JPEG och ≤ 16 MB.</li><li><strong>Ingen transparens:</strong> PNG behåller transparens men kan inte extrahera den från ett platt foto — ta bort bakgrunden först.</li><li><strong>Stor PNG-utdata:</strong> Använd <a href='/sv/edit/compress-image'>Bildkompressorn</a> eller byt till <a href='/sv/convert/png-to-webp'>WebP</a>.</li></ul>"
 
-    }
-    {
-      "title": "Stödda gränser & format"
+    },
+  {
+      "title": "Funktioner i vår JPG till PNG-konverterare",
+  "description": "<ul><li>Gratis utan vattenstämplar</li><li>Snabb bearbetning i din webbläsare</li><li>Säker hantering — inget konto behövs</li><li>Ren UI, mobilvänlig</li></ul>"
 
-      "description": "<ul><li><strong>Accepterade inmatningstyper:</strong> image/jpeg, image/jpg</li><li><strong>Maximal filstorlek:</strong> upp till 16 MB per fil</li><li><strong>Utdata:</strong> PNG (<code>.png</code>, MIME <code>image/png</code>)</li><li><strong>Kvalitet:</strong> Förlustfri PNG med justerbar kompressionsnivå</li></ul>"
-
-    }
-    {
-      "title": "Tips för bättre resultat"
-
-      "description": "<ul><li><strong>Använd högupplösta JPG-filer:</strong> Ju högre upplösning din JPG har, desto bättre kommer din PNG att se ut.</li><li><strong>Behöver du transparens?</strong> Om din JPG har en bakgrund, använd vår <a href='/sv/effect/remove-background'>Bakgrundsborttagare</a> först.</li><li><strong>Optimera filstorleken:</strong> Efter konvertering, använd vår <a href='/sv/edit/compress-image'>Bildkompressor</a> för att minska PNG-storleken samtidigt som kvaliteten bevaras.</li><li><strong>För webben:</strong> Överväg att konvertera PNG till <a href='/sv/convert/png-to-webp'>WebP</a> för snabbare laddning.</li></ul>"
-
-    }
-    {
-      "title": "Felsökning"
-
-      "description": "<ul><li><strong>Uppladdning misslyckas:</strong> Se till att din fil är JPG/JPEG och ≤ 16 MB.</li><li><strong>Ingen transparens:</strong> PNG behåller transparens men kan inte extrahera den från ett platt foto — ta bort bakgrunden först.</li><li><strong>Stor PNG-utdata:</strong> Använd <a href='/sv/edit/compress-image'>Bildkompressorn</a> eller byt till <a href='/sv/convert/png-to-webp'>WebP</a>.</li></ul>"
-
-    }
-    {
-      "title": "Funktioner i vår JPG till PNG-konverterare"
-
-      "description": "<ul><li>Gratis utan vattenstämplar</li><li>Snabb bearbetning i din webbläsare</li><li>Säker hantering — inget konto behövs</li><li>Ren UI, mobilvänlig</li></ul>"
+    },
+  {
+      "title": "Relaterade konverterare",
+  "description": "<ul class='related-links'><li><a href='/sv/convert/png-to-jpg'>PNG till JPG</a></li><li><a href='/sv/convert/jpg-to-webp'>JPG till WebP</a></li><li><a href='/sv/convert/png-to-webp'>PNG till WebP</a></li><li><a href='/sv/convert/webp-to-png'>WebP till PNG</a></li></ul>"
 
     }
-    {
-      "title": "Relaterade konverterare"
-
-      "description": "<ul class='related-links'><li><a href='/sv/convert/png-to-jpg'>PNG till JPG</a></li><li><a href='/sv/convert/jpg-to-webp'>JPG till WebP</a></li><li><a href='/sv/convert/png-to-webp'>PNG till WebP</a></li><li><a href='/sv/convert/webp-to-png'>WebP till PNG</a></li></ul>"
-
-    }
-  ]
+  ],
   "faq": [
     {
-      "question": "Är denna JPG till PNG-konverterare gratis?"
+      "question": "Är denna JPG till PNG-konverterare gratis?",
+  "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
-      "answer": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+    },
+  {
+      "question": "Stöder PNG transparens?",
+  "answer": "Ja, PNG tillåter transparenta bakgrunder, vilket gör det perfekt för logotyper, ikoner och professionella designer."
 
-    }
-    {
-      "question": "Stöder PNG transparens?"
+    },
+  {
+      "question": "Kommer bilden att förlora kvalitet under konverteringen?",
+  "answer": "Nej. Till skillnad från JPG använder PNG förlustfri kompression, så dina konverterade bilder behåller sin ursprungliga kvalitet."
 
-      "answer": "Ja, PNG tillåter transparenta bakgrunder, vilket gör det perfekt för logotyper, ikoner och professionella designer."
+    },
+  {
+      "question": "Vilka filstorlekar stöds?",
+  "answer": "Du kan ladda upp bilder upp till 16 MB per fil. Om det behövs, komprimera stora JPG-filer innan konvertering."
 
-    }
-    {
-      "question": "Kommer bilden att förlora kvalitet under konverteringen?"
+    },
+  {
+      "question": "Är mina filer säkra?",
+  "answer": "Dina filer bearbetas automatiskt och lagras inte längre än nödvändigt för konvertering."
 
-      "answer": "Nej. Till skillnad från JPG använder PNG förlustfri kompression, så dina konverterade bilder behåller sin ursprungliga kvalitet."
+    },
+  {
+      "question": "Kan jag konvertera flera JPG-filer samtidigt?",
+  "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
-    }
-    {
-      "question": "Vilka filstorlekar stöds?"
-
-      "answer": "Du kan ladda upp bilder upp till 16 MB per fil. Om det behövs, komprimera stora JPG-filer innan konvertering."
-
-    }
-    {
-      "question": "Är mina filer säkra?"
-
-      "answer": "Dina filer bearbetas automatiskt och lagras inte längre än nödvändigt för konvertering."
-
-    }
-    {
-      "question": "Kan jag konvertera flera JPG-filer samtidigt?"
-
-      "answer": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
-
-    }
-    {
-      "question": "Kan jag använda detta verktyg på min telefon?"
-
-      "answer": "Absolut. Konverteraren är optimerad för mobila enheter och fungerar på iOS- och Android-webbläsare."
+    },
+  {
+      "question": "Kan jag använda detta verktyg på min telefon?",
+  "answer": "Absolut. Konverteraren är optimerad för mobila enheter och fungerar på iOS- och Android-webbläsare."
 
     }
-  ]
-  "note": "Ansvarsfriskrivning: Konverteringskvaliteten beror på inmatningsfilens upplösning. Håll alltid en kopia av dina originalfiler innan du redigerar eller konverterar."
-
-  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna."
-
+  ],
+  "note": "Ansvarsfriskrivning: Konverteringskvaliteten beror på inmatningsfilens upplösning. Håll alltid en kopia av dina originalfiler innan du redigerar eller konverterar.",
+  "footer": "© 2019 - 2025 miconvert.com. Alla rättigheter förbehållna.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "JPG till PNG Konverterare - Gratis & Online"
-
-      "url": "https://miconvert.com/sv/convert/jpg-to-png"
-
-      "description": "Gratis onlineverktyg för att konvertera JPG-bilder till PNG med stöd för transparens och förlustfri kvalitet."
-
-      "inLanguage": "sv"
-
-      "image": "https://miconvert.com/images/jpg-to-png.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "JPG till PNG Konverterare - Gratis & Online",
+  "url": "https://miconvert.com/sv/convert/jpg-to-png",
+  "description": "Gratis onlineverktyg för att konvertera JPG-bilder till PNG med stöd för transparens och förlustfri kvalitet.",
+  "inLanguage": "sv",
+  "image": "https://miconvert.com/images/jpg-to-png.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Hem",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Hem"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertera",
+  "item": "https://miconvert.com/sv/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertera"
-
-          "item": "https://miconvert.com/sv/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "JPG till PNG"
-
-          "item": "https://miconvert.com/sv/convert/jpg-to-png"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "JPG till PNG",
+  "item": "https://miconvert.com/sv/convert/jpg-to-png"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "JPG till PNG Konverterare",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/sv/convert/jpg-to-png",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "SEK"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Förlustfri PNG-utdata",
+  "Stöd för transparens",
+  "Snabb webbläsarbearbetning"
 
-      "name": "JPG till PNG Konverterare"
+      ],
+  "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/sv/convert/jpg-to-png"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "SEK"
-
-      }
-      "featureList": [
-        "Förlustfri PNG-utdata"
-
-        "Stöd för transparens"
-
-        "Snabb webbläsarbearbetning"
-
-      ]
-      "screenshot": "https://miconvert.com/images/jpg-to-png.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Är denna JPG till PNG-konverterare gratis?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
+          "@type": "Question",
+  "name": "Är denna JPG till PNG-konverterare gratis?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, konverteraren är helt gratis utan dolda avgifter eller prenumerationer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Stöder PNG transparens?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Ja, PNG tillåter transparenta bakgrunder, vilket gör det perfekt för logotyper, ikoner och professionella designer."
+        },
+  {
+          "@type": "Question",
+  "name": "Stöder PNG transparens?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Ja, PNG tillåter transparenta bakgrunder, vilket gör det perfekt för logotyper, ikoner och professionella designer."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kommer bilden att förlora kvalitet under konverteringen?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Nej. Till skillnad från JPG använder PNG förlustfri kompression, så dina konverterade bilder behåller sin ursprungliga kvalitet."
+        },
+  {
+          "@type": "Question",
+  "name": "Kommer bilden att förlora kvalitet under konverteringen?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Nej. Till skillnad från JPG använder PNG förlustfri kompression, så dina konverterade bilder behåller sin ursprungliga kvalitet."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Vilka filstorlekar stöds?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Du kan ladda upp bilder upp till 16 MB per fil. Om det behövs, komprimera stora JPG-filer innan konvertering."
+        },
+  {
+          "@type": "Question",
+  "name": "Vilka filstorlekar stöds?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Du kan ladda upp bilder upp till 16 MB per fil. Om det behövs, komprimera stora JPG-filer innan konvertering."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Är mina filer säkra?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Dina filer bearbetas automatiskt och lagras inte längre än nödvändigt för konvertering."
+        },
+  {
+          "@type": "Question",
+  "name": "Är mina filer säkra?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Dina filer bearbetas automatiskt och lagras inte längre än nödvändigt för konvertering."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kan jag konvertera flera JPG-filer samtidigt?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
+        },
+  {
+          "@type": "Question",
+  "name": "Kan jag konvertera flera JPG-filer samtidigt?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Denna sida konverterar en fil i taget. För bulkbehov, upprepa processen eller använd ett batchverktyg."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Hur man konverterar JPG till PNG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Hur man konverterar JPG till PNG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda upp JPG och välj din bild."
 
-          "text": "Klicka på Ladda upp JPG och välj din bild."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Vänta på att bearbetningen ska slutföras."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Klicka på Ladda ner PNG för att spara resultatet."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Vänta på att bearbetningen ska slutföras."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Klicka på Ladda ner PNG för att spara resultatet."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "JPG till PNG Konverterare"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

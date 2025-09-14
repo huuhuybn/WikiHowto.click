@@ -1,364 +1,272 @@
 {
-  "lang": "es"
-
-  "lang_name": "Español"
-
-  "title": "Convertidor de PNG a BMP - Gratis y en Línea | miconvert.com"
-
-  "sub_title": "Convierte imágenes PNG a BMP en línea con datos de píxeles sin comprimir y sin pérdida. Sin marcas de agua."
-
-  "hint": "Sube tu imagen PNG para comenzar a convertir..."
-
-  "btn_download": "Convertir a BMP"
-
-  "btn_paste": "Subir PNG"
-
-  "btn_clear": "Limpiar"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "es",
+  "lang_name": "Español",
+  "title": "Convertidor de PNG a BMP - Gratis y en Línea | miconvert.com",
+  "sub_title": "Convierte imágenes PNG a BMP en línea con datos de píxeles sin comprimir y sin pérdida. Sin marcas de agua.",
+  "hint": "Sube tu imagen PNG para comenzar a convertir...",
+  "btn_download": "Convertir a BMP",
+  "btn_paste": "Subir PNG",
+  "btn_clear": "Limpiar",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Convertir PNG a BMP - Convertidor de PNG a BMP en Línea Gratis"
+    "title": "Convertir PNG a BMP - Convertidor de PNG a BMP en Línea Gratis",
+  "description": "Convierte imágenes PNG a formato BMP en línea de forma gratuita. Conversión de PNG a BMP de alta calidad con procesamiento rápido.",
+  "keywords": "png a bmp, convertir png a bmp, gratis png a bmp, convertidor bmp en línea, conversión de imágenes",
+  "canonical": "https://miconvert.com/es/convert/png-to-bmp",
+  "og_title": "Convertir PNG a BMP - Convertidor de PNG a BMP en Línea Gratis",
+  "og_description": "Convierte imágenes PNG a formato BMP en línea de forma gratuita. Conversión de PNG a BMP de alta calidad con procesamiento rápido.",
+  "og_url": "https://miconvert.com/es/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Convierte imágenes PNG a formato BMP en línea de forma gratuita. Conversión de PNG a BMP de alta calidad con procesamiento rápido."
-
-    "keywords": "png a bmp, convertir png a bmp, gratis png a bmp, convertidor bmp en línea, conversión de imágenes"
-
-    "canonical": "https://miconvert.com/es/convert/png-to-bmp"
-
-    "og_title": "Convertir PNG a BMP - Convertidor de PNG a BMP en Línea Gratis"
-
-    "og_description": "Convierte imágenes PNG a formato BMP en línea de forma gratuita. Conversión de PNG a BMP de alta calidad con procesamiento rápido."
-
-    "og_url": "https://miconvert.com/es/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convertir PNG a BMP en Línea"
+    "title": "Convertir PNG a BMP en Línea",
+  "description": "Convertidor de PNG a BMP gratuito con datos de píxeles sin comprimir y sin pérdida. Funciona en cualquier dispositivo — no se requiere registro."
 
-    "description": "Convertidor de PNG a BMP gratuito con datos de píxeles sin comprimir y sin pérdida. Funciona en cualquier dispositivo — no se requiere registro."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "Convertidor de PNG a BMP"
-
-    "description": "Convierte imágenes PNG a BMP con procesamiento rápido y colores precisos."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "Convertidor de PNG a BMP",
+  "description": "Convierte imágenes PNG a BMP con procesamiento rápido y colores precisos.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Datos de píxeles sin comprimir (sin pérdida)",
+  "Alta compatibilidad en Windows",
+  "Procesamiento rápido",
+  "Herramienta en línea gratuita"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Datos de píxeles sin comprimir (sin pérdida)"
-
-      "Alta compatibilidad en Windows"
-
-      "Procesamiento rápido"
-
-      "Herramienta en línea gratuita"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "Conversión de PNG a BMP Completa"
+    "title": "Conversión de PNG a BMP Completa",
+  "back_button": "Volver al Convertidor",
+  "convert_another": "Convertir Otro PNG",
+  "quick_conversions": "Conversiones Rápidas:"
 
-    "back_button": "Volver al Convertidor"
-
-    "convert_another": "Convertir Otro PNG"
-
-    "quick_conversions": "Conversiones Rápidas:"
-
-  }
+  },
   "h2": [
     {
-      "title": "¿Por qué Convertir PNG a BMP?"
+      "title": "¿Por qué Convertir PNG a BMP?",
+  "description": "<p>BMP es un formato raster simple que almacena píxeles sin compresión — útil para ciertos flujos de trabajo:</p><ul><li><strong>Sin nuevos artefactos:</strong> Mantén los píxeles intactos para edición de bajo nivel.</li><li><strong>Estructura sencilla:</strong> Fácil para que los programas lean y manipulen.</li><li><strong>Aplicaciones heredadas/integradas:</strong> Algunas herramientas de Windows prefieren BMP.</li></ul>"
 
-      "description": "<p>BMP es un formato raster simple que almacena píxeles sin compresión — útil para ciertos flujos de trabajo:</p><ul><li><strong>Sin nuevos artefactos:</strong> Mantén los píxeles intactos para edición de bajo nivel.</li><li><strong>Estructura sencilla:</strong> Fácil para que los programas lean y manipulen.</li><li><strong>Aplicaciones heredadas/integradas:</strong> Algunas herramientas de Windows prefieren BMP.</li></ul>"
+    },
+  {
+      "title": "Cómo Convertir PNG a BMP en Línea",
+  "description": "<ol><li>Haz clic en <em>Subir PNG</em> y selecciona tu archivo.</li><li>Espera a que se complete el procesamiento.</li><li>Haz clic en <em>Descargar BMP</em> para guardar tu imagen.</li></ol><p>Por defecto, se convierte a BMP de 24 bits sin compresión.</p>"
 
-    }
-    {
-      "title": "Cómo Convertir PNG a BMP en Línea"
+    },
+  {
+      "title": "Comparación BMP vs PNG",
+  "description": "<ul><li><strong>Tamaño de archivo:</strong> BMP es típicamente mucho más grande que PNG.</li><li><strong>Calidad:</strong> Ambos son sin pérdida (BMP sin comprimir; PNG comprimido sin pérdida).</li><li><strong>Transparencia:</strong> PNG soporta alfa; el BMP común de 24 bits <em>no</em>.</li><li><strong>Compresión:</strong> BMP ninguno; PNG sin pérdida DEFLATE.</li><li><strong>Casos de uso:</strong> BMP para operaciones heredadas/píxel; PNG para web y almacenamiento eficiente sin pérdida.</li></ul>"
 
-      "description": "<ol><li>Haz clic en <em>Subir PNG</em> y selecciona tu archivo.</li><li>Espera a que se complete el procesamiento.</li><li>Haz clic en <em>Descargar BMP</em> para guardar tu imagen.</li></ol><p>Por defecto, se convierte a BMP de 24 bits sin compresión.</p>"
+    },
+  {
+      "title": "Límites y Formatos Soportados",
+  "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profundidad de bits:</strong> 24 bits (sin alfa)</li></ul>"
 
-    }
-    {
-      "title": "Comparación BMP vs PNG"
-
-      "description": "<ul><li><strong>Tamaño de archivo:</strong> BMP es típicamente mucho más grande que PNG.</li><li><strong>Calidad:</strong> Ambos son sin pérdida (BMP sin comprimir; PNG comprimido sin pérdida).</li><li><strong>Transparencia:</strong> PNG soporta alfa; el BMP común de 24 bits <em>no</em>.</li><li><strong>Compresión:</strong> BMP ninguno; PNG sin pérdida DEFLATE.</li><li><strong>Casos de uso:</strong> BMP para operaciones heredadas/píxel; PNG para web y almacenamiento eficiente sin pérdida.</li></ul>"
-
-    }
-    {
-      "title": "Límites y Formatos Soportados"
-
-      "description": "<ul><li><strong>Entrada aceptada:</strong> PNG (<code>image/png</code>)</li><li><strong>Tamaño máximo de archivo:</strong> hasta 16&nbsp;MB por archivo</li><li><strong>Salida:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Profundidad de bits:</strong> 24 bits (sin alfa)</li></ul>"
-
-    }
-    {
-      "title": "Solución de Problemas"
-
-      "description": "<ul><li><strong>Salida muy grande:</strong> BMP es sin comprimir; para menor tamaño sin pérdida, mantén PNG.</li><li><strong>Necesitas transparencia:</strong> BMP de 24 bits no tiene alfa; quédate con PNG.</li><li><strong>Fallo en la subida:</strong> Asegúrate de que el archivo sea PNG y ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Solución de Problemas",
+  "description": "<ul><li><strong>Salida muy grande:</strong> BMP es sin comprimir; para menor tamaño sin pérdida, mantén PNG.</li><li><strong>Necesitas transparencia:</strong> BMP de 24 bits no tiene alfa; quédate con PNG.</li><li><strong>Fallo en la subida:</strong> Asegúrate de que el archivo sea PNG y ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "¿Es gratuito este convertidor de PNG a BMP?"
+      "question": "¿Es gratuito este convertidor de PNG a BMP?",
+  "answer": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
 
-      "answer": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+    },
+  {
+      "question": "¿Funcionará BMP en todas las aplicaciones?",
+  "answer": "BMP es ampliamente soportado en Windows y reconocido por muchas otras plataformas. Los flujos de trabajo web modernos generalmente prefieren PNG/WebP por eficiencia de tamaño."
 
-    }
-    {
-      "question": "¿Funcionará BMP en todas las aplicaciones?"
+    },
+  {
+      "question": "¿Cuánto más grandes son los archivos BMP en comparación con PNG?",
+  "answer": "A menudo son varias veces más grandes (por ejemplo, 3–10× o más), porque BMP es sin comprimir."
 
-      "answer": "BMP es ampliamente soportado en Windows y reconocido por muchas otras plataformas. Los flujos de trabajo web modernos generalmente prefieren PNG/WebP por eficiencia de tamaño."
+    },
+  {
+      "question": "¿Qué tamaños de archivo son soportados?",
+  "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
 
-    }
-    {
-      "question": "¿Cuánto más grandes son los archivos BMP en comparación con PNG?"
+    },
+  {
+      "question": "¿Son seguros mis archivos?",
+  "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
 
-      "answer": "A menudo son varias veces más grandes (por ejemplo, 3–10× o más), porque BMP es sin comprimir."
+    },
+  {
+      "question": "¿Puedo convertir múltiples PNG a la vez?",
+  "answer": "Esta página convierte un archivo a la vez. Para necesidades masivas, repite el proceso o usa una herramienta de lote."
 
-    }
-    {
-      "question": "¿Qué tamaños de archivo son soportados?"
-
-      "answer": "Puedes subir imágenes de hasta 16&nbsp;MB por archivo."
-
-    }
-    {
-      "question": "¿Son seguros mis archivos?"
-
-      "answer": "Los archivos se procesan automáticamente y no se retienen más tiempo del necesario para la conversión."
-
-    }
-    {
-      "question": "¿Puedo convertir múltiples PNG a la vez?"
-
-      "answer": "Esta página convierte un archivo a la vez. Para necesidades masivas, repite el proceso o usa una herramienta de lote."
-
-    }
-    {
-      "question": "¿Soporta BMP transparencia?"
-
-      "answer": "El BMP estándar de 24 bits no incluye alfa. Usa PNG para transparencia."
+    },
+  {
+      "question": "¿Soporta BMP transparencia?",
+  "answer": "El BMP estándar de 24 bits no incluye alfa. Usa PNG para transparencia."
 
     }
-  ]
-  "note": "La salida BMP es intencionadamente grande (sin comprimir). Para entrega web, prefiere PNG/WebP/AVIF."
-
+  ],
+  "note": "La salida BMP es intencionadamente grande (sin comprimir). Para entrega web, prefiere PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Convertir BMP a PNG"
+      "title": "Convertir BMP a PNG",
+  "url": "/es/convert/bmp-to-png"
 
-      "url": "/es/convert/bmp-to-png"
+    },
+  {
+      "title": "Convertir PNG a JPG",
+  "url": "/es/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Convertir PNG a JPG"
-
-      "url": "/es/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Convertir PNG a WebP"
-
-      "url": "/es/convert/png-to-webp"
+    },
+  {
+      "title": "Convertir PNG a WebP",
+  "url": "/es/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Todos los derechos reservados."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Todos los derechos reservados.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "Convertidor de PNG a BMP - Gratis y en Línea"
-
-      "url": "https://miconvert.com/es/convert/png-to-bmp"
-
-      "description": "Herramienta en línea gratuita para convertir imágenes PNG a BMP con datos de píxeles sin comprimir y sin pérdida."
-
-      "inLanguage": "es"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "Convertidor de PNG a BMP - Gratis y en Línea",
+  "url": "https://miconvert.com/es/convert/png-to-bmp",
+  "description": "Herramienta en línea gratuita para convertir imágenes PNG a BMP con datos de píxeles sin comprimir y sin pérdida.",
+  "inLanguage": "es",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Inicio",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Inicio"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convertir",
+  "item": "https://miconvert.com/es/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convertir"
-
-          "item": "https://miconvert.com/es/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG a BMP"
-
-          "item": "https://miconvert.com/es/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG a BMP",
+  "item": "https://miconvert.com/es/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "Convertidor de PNG a BMP",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/es/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Datos de píxeles sin comprimir",
+  "Colores precisos",
+  "Procesamiento rápido"
 
-      "name": "Convertidor de PNG a BMP"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/es/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Datos de píxeles sin comprimir"
-
-        "Colores precisos"
-
-        "Procesamiento rápido"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "¿Es gratuito este convertidor de PNG a BMP?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
+          "@type": "Question",
+  "name": "¿Es gratuito este convertidor de PNG a BMP?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Sí, el convertidor es completamente gratuito sin cargos ocultos ni suscripciones."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "¿Qué tamaños de archivo son soportados?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Puedes subir imágenes de hasta 16 MB por archivo."
+        },
+  {
+          "@type": "Question",
+  "name": "¿Qué tamaños de archivo son soportados?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Puedes subir imágenes de hasta 16 MB por archivo."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "¿Soporta BMP transparencia?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "El BMP estándar de 24 bits no incluye un canal alfa. Usa PNG para transparencia."
+        },
+  {
+          "@type": "Question",
+  "name": "¿Soporta BMP transparencia?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "El BMP estándar de 24 bits no incluye un canal alfa. Usa PNG para transparencia."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Cómo convertir PNG a BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Cómo convertir PNG a BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Haz clic en Subir PNG y selecciona tu archivo."
 
-          "text": "Haz clic en Subir PNG y selecciona tu archivo."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Espera a que se complete el procesamiento."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Haz clic en Descargar BMP para guardar la imagen."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Espera a que se complete el procesamiento."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Haz clic en Descargar BMP para guardar la imagen."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "Convertidor de PNG a BMP"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

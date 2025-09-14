@@ -1,361 +1,272 @@
 {
-  "lang": "am"
-
-  "lang_name": "Amharic"
-
-  "title": "WebP to JPG Converter - Free & Online | miconvert.com"
-
-  "sub_title": "Convert WebP images to JPG format online with high quality, better compatibility, and no watermarks."
-
-  "hint": "Upload your WebP image to start converting..."
-
-  "btn_download": "Convert to JPG"
-
-  "btn_paste": "Upload WebP"
-
-  "btn_clear": "Clear"
-
-  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg"
-
+  "lang": "am",
+  "lang_name": "Amharic",
+  "title": "WebP to JPG Converter - Free & Online | miconvert.com",
+  "sub_title": "Convert WebP images to JPG format online with high quality, better compatibility, and no watermarks.",
+  "hint": "Upload your WebP image to start converting...",
+  "btn_download": "Convert to JPG",
+  "btn_paste": "Upload WebP",
+  "btn_clear": "Clear",
+  "ogImage": "https://miconvert.com/images/webp-to-jpg.jpg",
   "converter": {
-    "type": "webp-to-jpg"
-
-    "inputFormat": "WebP"
-
-    "outputFormat": "JPG"
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "allowedTypes": [
+    "type": "webp-to-jpg",
+  "inputFormat": "WebP",
+  "outputFormat": "JPG",
+  "apiEndpoint": "/image-converter/convert-single",
+  "allowedTypes": [
       "image/webp"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/jpeg"
-
-    "outputExtension": ".jpg"
-
-    "quality": 90
-    "options": {
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/jpeg",
+  "outputExtension": ".jpg",
+  "quality": 90,
+  "options": {
       "jpeg": {
-        "quality": 90
-        "progressive": true
-        "mozjpeg": true
+        "quality": 90,
+  "progressive": true,
+  "mozjpeg": true
       }
     }
-  }
-  "description": "<p>Need to convert <strong>WebP to JPG</strong> for better compatibility? This free online converter turns modern WebP images into universally supported JPEGs while keeping strong visual quality. <em>Note:</em> JPG does not support transparency—transparent areas will be filled with a solid background (white by default). Animated WebP files are converted as a static image using the <strong>first frame</strong>.</p>"
-
+  },
+  "description": "<p>Need to convert <strong>WebP to JPG</strong> for better compatibility? This free online converter turns modern WebP images into universally supported JPEGs while keeping strong visual quality. <em>Note:</em> JPG does not support transparency—transparent areas will be filled with a solid background (white by default). Animated WebP files are converted as a static image using the <strong>first frame</strong>.</p>",
   "head": {
-    "title": "Convert WebP to JPG Online - Free WebP to JPG Converter | miconvert.com"
+    "title": "Convert WebP to JPG Online - Free WebP to JPG Converter | miconvert.com",
+  "description": "Convert WebP to JPG online with high quality, better compatibility, and no watermarks. Free, fast, and secure WebP to JPG converter tool.",
+  "keywords": "webp to jpg, convert webp to jpg, free webp to jpg, online webp converter, image compatibility",
+  "canonical": "https://miconvert.com/en/convert/webp-to-jpg",
+  "og_title": "WebP to JPG Converter - Free & Online",
+  "og_description": "Convert WebP images into JPG format with high quality and better compatibility. 100% free, fast, and secure.",
+  "og_url": "https://miconvert.com/en/convert/webp-to-jpg",
+  "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
 
-    "description": "Convert WebP to JPG online with high quality, better compatibility, and no watermarks. Free, fast, and secure WebP to JPG converter tool."
-
-    "keywords": "webp to jpg, convert webp to jpg, free webp to jpg, online webp converter, image compatibility"
-
-    "canonical": "https://miconvert.com/en/convert/webp-to-jpg"
-
-    "og_title": "WebP to JPG Converter - Free & Online"
-
-    "og_description": "Convert WebP images into JPG format with high quality and better compatibility. 100% free, fast, and secure."
-
-    "og_url": "https://miconvert.com/en/convert/webp-to-jpg"
-
-    "og_image": "https://miconvert.com/images/webp-to-jpg.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Convert WebP to JPG Online"
+    "title": "Convert WebP to JPG Online",
+  "description": "Free and fast WebP to JPG converter with high quality and better compatibility. Works instantly on any device, no signup required."
 
-    "description": "Free and fast WebP to JPG converter with high quality and better compatibility. Works instantly on any device, no signup required."
-
-  }
+  },
   "h2": [
     {
-      "title": "Why Convert WebP to JPG?"
+      "title": "Why Convert WebP to JPG?",
+  "description": "<p>While WebP offers superior compression, JPG provides universal compatibility:</p><ul><li><strong>Works Everywhere:</strong> JPG is supported by virtually all devices and apps.</li><li><strong>Platform Requirements:</strong> Some services still require JPG uploads.</li><li><strong>Legacy Support:</strong> Older browsers and tools may not support WebP.</li><li><strong>Easy Sharing:</strong> JPG opens reliably across platforms.</li></ul>"
 
-      "description": "<p>While WebP offers superior compression, JPG provides universal compatibility:</p><ul><li><strong>Works Everywhere:</strong> JPG is supported by virtually all devices and apps.</li><li><strong>Platform Requirements:</strong> Some services still require JPG uploads.</li><li><strong>Legacy Support:</strong> Older browsers and tools may not support WebP.</li><li><strong>Easy Sharing:</strong> JPG opens reliably across platforms.</li></ul>"
+    },
+  {
+      "title": "How to Convert WebP to JPG Online",
+  "description": "<ol><li>Click <em>Upload WebP</em> and select your file.</li><li>Wait for processing and optimization.</li><li>Click <em>Download JPG</em> to get your compatible file.</li></ol><p>We use progressive JPEG (mozjpeg) for great size–quality balance.</p>"
 
-    }
-    {
-      "title": "How to Convert WebP to JPG Online"
+    },
+  {
+      "title": "WebP vs JPG Comparison",
+  "description": "<ul><li><strong>File Size:</strong> WebP is typically 25–35% smaller than JPG at similar quality.</li><li><strong>Compatibility:</strong> JPG has universal support.</li><li><strong>Transparency:</strong> WebP supports alpha; JPG does not.</li><li><strong>Animation:</strong> WebP can be animated; JPG is always static.</li></ul>"
 
-      "description": "<ol><li>Click <em>Upload WebP</em> and select your file.</li><li>Wait for processing and optimization.</li><li>Click <em>Download JPG</em> to get your compatible file.</li></ol><p>We use progressive JPEG (mozjpeg) for great size–quality balance.</p>"
+    },
+  {
+      "title": "Features of Our WebP to JPG Converter",
+  "description": "<ul><li>100% free with no watermarks</li><li>High-quality conversion (progressive JPEG)</li><li>Secure, encrypted uploads</li><li>Automatic file deletion after conversion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
 
-    }
-    {
-      "title": "WebP vs JPG Comparison"
+    },
+  {
+      "title": "Supported Limits & Formats",
+  "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animation:</strong> First frame only</li></ul>"
 
-      "description": "<ul><li><strong>File Size:</strong> WebP is typically 25–35% smaller than JPG at similar quality.</li><li><strong>Compatibility:</strong> JPG has universal support.</li><li><strong>Transparency:</strong> WebP supports alpha; JPG does not.</li><li><strong>Animation:</strong> WebP can be animated; JPG is always static.</li></ul>"
-
-    }
-    {
-      "title": "Features of Our WebP to JPG Converter"
-
-      "description": "<ul><li>100% free with no watermarks</li><li>High-quality conversion (progressive JPEG)</li><li>Secure, encrypted uploads</li><li>Automatic file deletion after conversion</li><li>Works on Windows, Mac, iOS, and Android</li></ul>"
-
-    }
-    {
-      "title": "Supported Limits & Formats"
-
-      "description": "<ul><li><strong>Accepted input:</strong> WebP (<code>image/webp</code>)</li><li><strong>Maximum file size:</strong> 16&nbsp;MB per file</li><li><strong>Output:</strong> JPG (<code>.jpg</code>, <code>image/jpeg</code>)</li><li><strong>Animation:</strong> First frame only</li></ul>"
-
-    }
-    {
-      "title": "Troubleshooting"
-
-      "description": "<ul><li><strong>Lost transparency:</strong> JPG can’t store alpha. Use <a href='/en/convert/webp-to-png'>WebP → PNG</a> if you need transparency.</li><li><strong>Colors look different:</strong> Output is converted to sRGB for web consistency.</li><li><strong>File still large:</strong> Try lowering quality to 80–85% or downscale the image before converting.</li><li><strong>Upload fails:</strong> Ensure the file is <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Troubleshooting",
+  "description": "<ul><li><strong>Lost transparency:</strong> JPG can’t store alpha. Use <a href='/en/convert/webp-to-png'>WebP → PNG</a> if you need transparency.</li><li><strong>Colors look different:</strong> Output is converted to sRGB for web consistency.</li><li><strong>File still large:</strong> Try lowering quality to 80–85% or downscale the image before converting.</li><li><strong>Upload fails:</strong> Ensure the file is <code>image/webp</code> and ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Is this WebP to JPG converter free?"
+      "question": "Is this WebP to JPG converter free?",
+  "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
 
-      "answer": "Yes, the converter is completely free with no hidden charges or subscriptions."
+    },
+  {
+      "question": "Will I lose quality when converting WebP to JPG?",
+  "answer": "JPG uses lossy compression, but we use high-quality settings (mozjpeg, progressive) to minimize visible loss."
 
-    }
-    {
-      "question": "Will I lose quality when converting WebP to JPG?"
+    },
+  {
+      "question": "Will I lose transparency?",
+  "answer": "Yes. JPG doesn’t support transparency—transparent pixels become solid (white by default)."
 
-      "answer": "JPG uses lossy compression, but we use high-quality settings (mozjpeg, progressive) to minimize visible loss."
+    },
+  {
+      "question": "Do you support animated WebP?",
+  "answer": "Animated WebP is converted as a static image using the first frame."
 
-    }
-    {
-      "question": "Will I lose transparency?"
+    },
+  {
+      "question": "What file sizes are supported?",
+  "answer": "You can upload images up to 16 MB per file."
 
-      "answer": "Yes. JPG doesn’t support transparency—transparent pixels become solid (white by default)."
-
-    }
-    {
-      "question": "Do you support animated WebP?"
-
-      "answer": "Animated WebP is converted as a static image using the first frame."
-
-    }
-    {
-      "question": "What file sizes are supported?"
-
-      "answer": "You can upload images up to 16 MB per file."
-
-    }
-    {
-      "question": "Can I convert multiple files at once?"
-
-      "answer": "This page converts one file at a time. Repeat the process for multiple images."
+    },
+  {
+      "question": "Can I convert multiple files at once?",
+  "answer": "This page converts one file at a time. Repeat the process for multiple images."
 
     }
-  ]
-  "note": "JPG is lossy and removes transparency. Keep your original WebP for archiving or when transparency/animation is required."
-
+  ],
+  "note": "JPG is lossy and removes transparency. Keep your original WebP for archiving or when transparency/animation is required.",
   "related_links": [
     {
-      "title": "Convert WebP to PNG (keeps transparency)"
+      "title": "Convert WebP to PNG (keeps transparency)",
+  "url": "/en/convert/webp-to-png"
 
-      "url": "/en/convert/webp-to-png"
+    },
+  {
+      "title": "Convert JPG to WebP",
+  "url": "/en/convert/jpg-to-webp"
 
-    }
-    {
-      "title": "Convert JPG to WebP"
+    },
+  {
+      "title": "Convert WebP to AVIF",
+  "url": "/en/convert/webp-to-avif"
 
-      "url": "/en/convert/jpg-to-webp"
-
-    }
-    {
-      "title": "Convert WebP to AVIF"
-
-      "url": "/en/convert/webp-to-avif"
-
-    }
-    {
-      "title": "Compress JPG Online"
-
-      "url": "/en/compress/jpg"
+    },
+  {
+      "title": "Compress JPG Online",
+  "url": "/en/compress/jpg"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. All rights reserved."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. All rights reserved.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "WebP to JPG Converter - Free & Online"
-
-      "url": "https://miconvert.com/en/convert/webp-to-jpg"
-
-      "description": "Free online tool to convert WebP images to JPG for maximum compatibility."
-
-      "inLanguage": "en"
-
-      "image": "https://miconvert.com/images/webp-to-jpg.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "WebP to JPG Converter - Free & Online",
+  "url": "https://miconvert.com/en/convert/webp-to-jpg",
+  "description": "Free online tool to convert WebP images to JPG for maximum compatibility.",
+  "inLanguage": "en",
+  "image": "https://miconvert.com/images/webp-to-jpg.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Home",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Home"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Convert",
+  "item": "https://miconvert.com/en/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Convert"
-
-          "item": "https://miconvert.com/en/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "WebP to JPG"
-
-          "item": "https://miconvert.com/en/convert/webp-to-jpg"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "WebP to JPG",
+  "item": "https://miconvert.com/en/convert/webp-to-jpg"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "WebP to JPG Converter",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/en/convert/webp-to-jpg",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Progressive JPEG",
+  "High-quality conversion",
+  "Fast processing"
 
-      "name": "WebP to JPG Converter"
+      ],
+  "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/en/convert/webp-to-jpg"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Progressive JPEG"
-
-        "High-quality conversion"
-
-        "Fast processing"
-
-      ]
-      "screenshot": "https://miconvert.com/images/webp-to-jpg.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Is this WebP to JPG converter free?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
+          "@type": "Question",
+  "name": "Is this WebP to JPG converter free?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Yes, the converter is completely free with no hidden charges or subscriptions."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "What file sizes are supported?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "You can upload images up to 16 MB per file."
+        },
+  {
+          "@type": "Question",
+  "name": "What file sizes are supported?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "You can upload images up to 16 MB per file."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Do you support animated WebP?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Animated WebP is converted as a static image using the first frame."
+        },
+  {
+          "@type": "Question",
+  "name": "Do you support animated WebP?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Animated WebP is converted as a static image using the first frame."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Will I lose transparency?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Yes. JPG doesn’t support transparency—transparent pixels will be filled with a solid color (white by default)."
+        },
+  {
+          "@type": "Question",
+  "name": "Will I lose transparency?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Yes. JPG doesn’t support transparency—transparent pixels will be filled with a solid color (white by default)."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "How to convert WebP to JPG"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "How to convert WebP to JPG",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Click Upload WebP and select your file."
 
-          "text": "Click Upload WebP and select your file."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Wait for processing and optimization to complete."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Click Download JPG to save your image."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Wait for processing and optimization to complete."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Click Download JPG to save your image."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "WebP to JPG Converter"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]

@@ -1,364 +1,272 @@
 {
-  "lang": "lt"
-
-  "lang_name": "Lietuvių"
-
-  "title": "PNG į BMP konverteris - Nemokamai ir internetu | miconvert.com"
-
-  "sub_title": "Konvertuokite PNG vaizdus į BMP internetu su nekompresuotais, be nuostolių pikselių duomenimis. Be vandens ženklų."
-
-  "hint": "Įkelkite savo PNG vaizdą, kad pradėtumėte konvertuoti..."
-
-  "btn_download": "Konvertuoti į BMP"
-
-  "btn_paste": "Įkelti PNG"
-
-  "btn_clear": "Išvalyti"
-
-  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg"
-
+  "lang": "lt",
+  "lang_name": "Lietuvių",
+  "title": "PNG į BMP konverteris - Nemokamai ir internetu | miconvert.com",
+  "sub_title": "Konvertuokite PNG vaizdus į BMP internetu su nekompresuotais, be nuostolių pikselių duomenimis. Be vandens ženklų.",
+  "hint": "Įkelkite savo PNG vaizdą, kad pradėtumėte konvertuoti...",
+  "btn_download": "Konvertuoti į BMP",
+  "btn_paste": "Įkelti PNG",
+  "btn_clear": "Išvalyti",
+  "ogImage": "https://miconvert.com/images/png-to-bmp.jpg",
   "head": {
-    "title": "Konvertuoti PNG į BMP - Nemokamas internetinis PNG į BMP konverteris"
+    "title": "Konvertuoti PNG į BMP - Nemokamas internetinis PNG į BMP konverteris",
+  "description": "Konvertuokite PNG vaizdus į BMP formatą internetu nemokamai. Aukštos kokybės PNG į BMP konvertavimas su greitu apdorojimu.",
+  "keywords": "png į bmp, konvertuoti png į bmp, nemokamas png į bmp, internetinis bmp konverteris, vaizdo konvertavimas",
+  "canonical": "https://miconvert.com/lt/convert/png-to-bmp",
+  "og_title": "Konvertuoti PNG į BMP - Nemokamas internetinis PNG į BMP konverteris",
+  "og_description": "Konvertuokite PNG vaizdus į BMP formatą internetu nemokamai. Aukštos kokybės PNG į BMP konvertavimas su greitu apdorojimu.",
+  "og_url": "https://miconvert.com/lt/convert/png-to-bmp",
+  "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
 
-    "description": "Konvertuokite PNG vaizdus į BMP formatą internetu nemokamai. Aukštos kokybės PNG į BMP konvertavimas su greitu apdorojimu."
-
-    "keywords": "png į bmp, konvertuoti png į bmp, nemokamas png į bmp, internetinis bmp konverteris, vaizdo konvertavimas"
-
-    "canonical": "https://miconvert.com/lt/convert/png-to-bmp"
-
-    "og_title": "Konvertuoti PNG į BMP - Nemokamas internetinis PNG į BMP konverteris"
-
-    "og_description": "Konvertuokite PNG vaizdus į BMP formatą internetu nemokamai. Aukštos kokybės PNG į BMP konvertavimas su greitu apdorojimu."
-
-    "og_url": "https://miconvert.com/lt/convert/png-to-bmp"
-
-    "og_image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-  }
+  },
   "h1": {
-    "title": "Konvertuoti PNG į BMP internetu"
+    "title": "Konvertuoti PNG į BMP internetu",
+  "description": "Nemokamas PNG į BMP konverteris su nekompresuotais, be nuostolių pikselių duomenimis. Veikia bet kuriame įrenginyje — registracija nereikalinga."
 
-    "description": "Nemokamas PNG į BMP konverteris su nekompresuotais, be nuostolių pikselių duomenimis. Veikia bet kuriame įrenginyje — registracija nereikalinga."
-
-  }
+  },
   "converter": {
-    "type": "png-to-bmp"
-
-    "title": "PNG į BMP konverteris"
-
-    "description": "Konvertuokite PNG vaizdus į BMP su greitu apdorojimu ir tiksliomis spalvomis."
-
-    "apiEndpoint": "/image-converter/convert-single"
-
-    "inputFormat": "PNG"
-
-    "outputFormat": "BMP"
-
-    "allowedTypes": [
+    "type": "png-to-bmp",
+  "title": "PNG į BMP konverteris",
+  "description": "Konvertuokite PNG vaizdus į BMP su greitu apdorojimu ir tiksliomis spalvomis.",
+  "apiEndpoint": "/image-converter/convert-single",
+  "inputFormat": "PNG",
+  "outputFormat": "BMP",
+  "allowedTypes": [
       "image/png"
 
-    ]
-    "maxFileSize": 16777216
-    "outputMimeType": "image/bmp"
+    ],
+  "maxFileSize": 16777216,
+  "outputMimeType": "image/bmp",
+  "outputExtension": ".bmp",
+  "features": [
+      "Nekompresuoti (be nuostolių) pikselių duomenys",
+  "Aukštas suderinamumas su Windows",
+  "Greitas apdorojimas",
+  "Nemokama internetinė priemonė"
 
-    "outputExtension": ".bmp"
-
-    "features": [
-      "Nekompresuoti (be nuostolių) pikselių duomenys"
-
-      "Aukštas suderinamumas su Windows"
-
-      "Greitas apdorojimas"
-
-      "Nemokama internetinė priemonė"
-
-    ]
-    "options": {
+    ],
+  "options": {
       "bmp": {
-        "bitDepth": 24
-        "compression": "BI_RGB"
+        "bitDepth": 24,
+  "compression": "BI_RGB"
 
       }
     }
-  }
+  },
   "result_actions": {
-    "title": "PNG į BMP konvertavimas baigtas"
+    "title": "PNG į BMP konvertavimas baigtas",
+  "back_button": "Grįžti į konverterį",
+  "convert_another": "Konvertuoti kitą PNG",
+  "quick_conversions": "Greiti konvertavimai:"
 
-    "back_button": "Grįžti į konverterį"
-
-    "convert_another": "Konvertuoti kitą PNG"
-
-    "quick_conversions": "Greiti konvertavimai:"
-
-  }
+  },
   "h2": [
     {
-      "title": "Kodėl konvertuoti PNG į BMP?"
+      "title": "Kodėl konvertuoti PNG į BMP?",
+  "description": "<p>BMP yra paprastas rastrinis formatas, kuris saugo pikselius be kompresijos — naudingas tam tikriems darbo procesams:</p><ul><li><strong>Be naujų artefaktų:</strong> Išlaikykite pikselius nepažeistus žemų lygių redagavimui.</li><li><strong>Paprasta struktūra:</strong> Lengva programoms skaityti ir manipuliuoti.</li><li><strong>Paveldimos/įterptos programos:</strong> Kai kurie Windows įrankiai teikia pirmenybę BMP.</li></ul>"
 
-      "description": "<p>BMP yra paprastas rastrinis formatas, kuris saugo pikselius be kompresijos — naudingas tam tikriems darbo procesams:</p><ul><li><strong>Be naujų artefaktų:</strong> Išlaikykite pikselius nepažeistus žemų lygių redagavimui.</li><li><strong>Paprasta struktūra:</strong> Lengva programoms skaityti ir manipuliuoti.</li><li><strong>Paveldimos/įterptos programos:</strong> Kai kurie Windows įrankiai teikia pirmenybę BMP.</li></ul>"
+    },
+  {
+      "title": "Kaip konvertuoti PNG į BMP internetu",
+  "description": "<ol><li>Paspauskite <em>Įkelti PNG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol apdorojimas bus baigtas.</li><li>Paspauskite <em>Parsisiųsti BMP</em>, kad išsaugotumėte savo vaizdą.</li></ol><p>Numatyta 24 bitų BMP be kompresijos.</p>"
 
-    }
-    {
-      "title": "Kaip konvertuoti PNG į BMP internetu"
+    },
+  {
+      "title": "BMP ir PNG palyginimas",
+  "description": "<ul><li><strong>Failo dydis:</strong> BMP paprastai yra daug didesnis nei PNG.</li><li><strong>Kokybė:</strong> Abu yra be nuostolių (BMP nekompresuotas; PNG be nuostolių kompresuotas).</li><li><strong>Skaidrumas:</strong> PNG palaiko alfa; įprastas 24 bitų BMP <em>ne</em> palaiko.</li><li><strong>Kompresija:</strong> BMP jokios; PNG be nuostolių DEFLATE.</li><li><strong>Naudojimo atvejai:</strong> BMP paveldimoms/pikselių operacijoms; PNG internetui ir efektyviam be nuostolių saugojimui.</li></ul>"
 
-      "description": "<ol><li>Paspauskite <em>Įkelti PNG</em> ir pasirinkite savo failą.</li><li>Palaukite, kol apdorojimas bus baigtas.</li><li>Paspauskite <em>Parsisiųsti BMP</em>, kad išsaugotumėte savo vaizdą.</li></ol><p>Numatyta 24 bitų BMP be kompresijos.</p>"
+    },
+  {
+      "title": "Palaikomi apribojimai ir formatai",
+  "description": "<ul><li><strong>Priimami įvesties formatai:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitų gylis:</strong> 24 bitai (be alfa)</li></ul>"
 
-    }
-    {
-      "title": "BMP ir PNG palyginimas"
-
-      "description": "<ul><li><strong>Failo dydis:</strong> BMP paprastai yra daug didesnis nei PNG.</li><li><strong>Kokybė:</strong> Abu yra be nuostolių (BMP nekompresuotas; PNG be nuostolių kompresuotas).</li><li><strong>Skaidrumas:</strong> PNG palaiko alfa; įprastas 24 bitų BMP <em>ne</em> palaiko.</li><li><strong>Kompresija:</strong> BMP jokios; PNG be nuostolių DEFLATE.</li><li><strong>Naudojimo atvejai:</strong> BMP paveldimoms/pikselių operacijoms; PNG internetui ir efektyviam be nuostolių saugojimui.</li></ul>"
-
-    }
-    {
-      "title": "Palaikomi apribojimai ir formatai"
-
-      "description": "<ul><li><strong>Priimami įvesties formatai:</strong> PNG (<code>image/png</code>)</li><li><strong>Maksimalus failo dydis:</strong> iki 16&nbsp;MB vienam failui</li><li><strong>Išvestis:</strong> BMP (<code>.bmp</code>, MIME <code>image/bmp</code>)</li><li><strong>Bitų gylis:</strong> 24 bitai (be alfa)</li></ul>"
-
-    }
-    {
-      "title": "Problemos sprendimas"
-
-      "description": "<ul><li><strong>Labai didelė išvestis:</strong> BMP yra nekompresuotas; mažesniam be nuostolių, laikykite PNG.</li><li><strong>Reikia skaidrumo:</strong> BMP 24 bitų neturi alfa; likite su PNG.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad failas yra PNG ir ≤ 16&nbsp;MB.</li></ul>"
+    },
+  {
+      "title": "Problemos sprendimas",
+  "description": "<ul><li><strong>Labai didelė išvestis:</strong> BMP yra nekompresuotas; mažesniam be nuostolių, laikykite PNG.</li><li><strong>Reikia skaidrumo:</strong> BMP 24 bitų neturi alfa; likite su PNG.</li><li><strong>Įkėlimas nepavyksta:</strong> Įsitikinkite, kad failas yra PNG ir ≤ 16&nbsp;MB.</li></ul>"
 
     }
-  ]
+  ],
   "faq": [
     {
-      "question": "Ar šis PNG į BMP konverteris nemokamas?"
+      "question": "Ar šis PNG į BMP konverteris nemokamas?",
+  "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
 
-      "answer": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+    },
+  {
+      "question": "Ar BMP veiks visose programose?",
+  "answer": "BMP plačiai palaikomas Windows ir pripažįstamas daugelyje kitų platformų. Šiuolaikiniai internetiniai darbo procesai dažniausiai teikia pirmenybę PNG/WebP dėl dydžio efektyvumo."
 
-    }
-    {
-      "question": "Ar BMP veiks visose programose?"
+    },
+  {
+      "question": "Kiek didesni yra BMP failai, palyginti su PNG?",
+  "answer": "Dažnai kelis kartus didesni (pvz., 3–10× ar daugiau), nes BMP yra nekompresuotas."
 
-      "answer": "BMP plačiai palaikomas Windows ir pripažįstamas daugelyje kitų platformų. Šiuolaikiniai internetiniai darbo procesai dažniausiai teikia pirmenybę PNG/WebP dėl dydžio efektyvumo."
+    },
+  {
+      "question": "Kokie failų dydžiai yra palaikomi?",
+  "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
 
-    }
-    {
-      "question": "Kiek didesni yra BMP failai, palyginti su PNG?"
+    },
+  {
+      "question": "Ar mano failai saugūs?",
+  "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konvertavimui."
 
-      "answer": "Dažnai kelis kartus didesni (pvz., 3–10× ar daugiau), nes BMP yra nekompresuotas."
+    },
+  {
+      "question": "Ar galiu konvertuoti kelis PNG vienu metu?",
+  "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite grupinį įrankį."
 
-    }
-    {
-      "question": "Kokie failų dydžiai yra palaikomi?"
-
-      "answer": "Galite įkelti vaizdus iki 16&nbsp;MB vienam failui."
-
-    }
-    {
-      "question": "Ar mano failai saugūs?"
-
-      "answer": "Failai apdorojami automatiškai ir nesaugomi ilgiau nei būtina konvertavimui."
-
-    }
-    {
-      "question": "Ar galiu konvertuoti kelis PNG vienu metu?"
-
-      "answer": "Šiame puslapyje konvertuojamas vienas failas vienu metu. Didesniems poreikiams pakartokite procesą arba naudokite grupinį įrankį."
-
-    }
-    {
-      "question": "Ar BMP palaiko skaidrumą?"
-
-      "answer": "Standartinis 24 bitų BMP neturi alfa kanalo. Naudokite PNG skaidrumui."
+    },
+  {
+      "question": "Ar BMP palaiko skaidrumą?",
+  "answer": "Standartinis 24 bitų BMP neturi alfa kanalo. Naudokite PNG skaidrumui."
 
     }
-  ]
-  "note": "BMP išvestis yra tyčia didelė (nekompresuota). Internetinei pristatymui teikite pirmenybę PNG/WebP/AVIF."
-
+  ],
+  "note": "BMP išvestis yra tyčia didelė (nekompresuota). Internetinei pristatymui teikite pirmenybę PNG/WebP/AVIF.",
   "related_links": [
     {
-      "title": "Konvertuoti BMP į PNG"
+      "title": "Konvertuoti BMP į PNG",
+  "url": "/lt/convert/bmp-to-png"
 
-      "url": "/lt/convert/bmp-to-png"
+    },
+  {
+      "title": "Konvertuoti PNG į JPG",
+  "url": "/lt/convert/png-to-jpg"
 
-    }
-    {
-      "title": "Konvertuoti PNG į JPG"
-
-      "url": "/lt/convert/png-to-jpg"
-
-    }
-    {
-      "title": "Konvertuoti PNG į WebP"
-
-      "url": "/lt/convert/png-to-webp"
+    },
+  {
+      "title": "Konvertuoti PNG į WebP",
+  "url": "/lt/convert/png-to-webp"
 
     }
-  ]
-  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos."
-
+  ],
+  "footer": "© 2019 - 2025 miconvert.com. Visos teisės saugomos.",
   "rich_results": [
     {
-      "@type": "WebPage"
-
-      "@context": "https://schema.org"
-
-      "name": "PNG į BMP konverteris - Nemokamai ir internetu"
-
-      "url": "https://miconvert.com/lt/convert/png-to-bmp"
-
-      "description": "Nemokama internetinė priemonė konvertuoti PNG vaizdus į BMP su nekompresuotais, be nuostolių pikselių duomenimis."
-
-      "inLanguage": "lt"
-
-      "image": "https://miconvert.com/images/png-to-bmp.jpg"
-
-      "isPartOf": {
-        "@type": "WebSite"
-
-        "name": "miconvert.com"
-
-        "url": "https://miconvert.com/"
+      "@type": "WebPage",
+  "@context": "https://schema.org",
+  "name": "PNG į BMP konverteris - Nemokamai ir internetu",
+  "url": "https://miconvert.com/lt/convert/png-to-bmp",
+  "description": "Nemokama internetinė priemonė konvertuoti PNG vaizdus į BMP su nekompresuotais, be nuostolių pikselių duomenimis.",
+  "inLanguage": "lt",
+  "image": "https://miconvert.com/images/png-to-bmp.jpg",
+  "isPartOf": {
+        "@type": "WebSite",
+  "name": "miconvert.com",
+  "url": "https://miconvert.com/"
 
       }
-    }
-    {
-      "@type": "BreadcrumbList"
-
-      "@context": "https://schema.org"
-
-      "itemListElement": [
+    },
+  {
+      "@type": "BreadcrumbList",
+  "@context": "https://schema.org",
+  "itemListElement": [
         {
-          "@type": "ListItem"
+          "@type": "ListItem",
+  "position": 1,
+  "name": "Pradžia",
+  "item": "https://miconvert.com/"
 
-          "position": 1
-          "name": "Pradžia"
+        },
+  {
+          "@type": "ListItem",
+  "position": 2,
+  "name": "Konvertuoti",
+  "item": "https://miconvert.com/lt/convert/"
 
-          "item": "https://miconvert.com/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 2
-          "name": "Konvertuoti"
-
-          "item": "https://miconvert.com/lt/convert/"
-
-        }
-        {
-          "@type": "ListItem"
-
-          "position": 3
-          "name": "PNG į BMP"
-
-          "item": "https://miconvert.com/lt/convert/png-to-bmp"
+        },
+  {
+          "@type": "ListItem",
+  "position": 3,
+  "name": "PNG į BMP",
+  "item": "https://miconvert.com/lt/convert/png-to-bmp"
 
         }
       ]
-    }
-    {
-      "@type": "SoftwareApplication"
+    },
+  {
+      "@type": "SoftwareApplication",
+  "@context": "https://schema.org",
+  "name": "PNG į BMP konverteris",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "url": "https://miconvert.com/lt/convert/png-to-bmp",
+  "offers": {
+        "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
 
-      "@context": "https://schema.org"
+      },
+  "featureList": [
+        "Nekompresuoti pikselių duomenys",
+  "Tikslios spalvos",
+  "Greitas apdorojimas"
 
-      "name": "PNG į BMP konverteris"
+      ],
+  "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
 
-      "applicationCategory": "MultimediaApplication"
-
-      "operatingSystem": "Web"
-
-      "url": "https://miconvert.com/lt/convert/png-to-bmp"
-
-      "offers": {
-        "@type": "Offer"
-
-        "price": "0"
-
-        "priceCurrency": "USD"
-
-      }
-      "featureList": [
-        "Nekompresuoti pikselių duomenys"
-
-        "Tikslios spalvos"
-
-        "Greitas apdorojimas"
-
-      ]
-      "screenshot": "https://miconvert.com/images/png-to-bmp.jpg"
-
-    }
-    {
-      "@type": "FAQPage"
-
-      "@context": "https://schema.org"
-
-      "mainEntity": [
+    },
+  {
+      "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
         {
-          "@type": "Question"
-
-          "name": "Ar šis PNG į BMP konverteris nemokamas?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
+          "@type": "Question",
+  "name": "Ar šis PNG į BMP konverteris nemokamas?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Taip, konverteris yra visiškai nemokamas, be jokių paslėptų mokesčių ar prenumeratų."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Kokie failų dydžiai yra palaikomi?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
+        },
+  {
+          "@type": "Question",
+  "name": "Kokie failų dydžiai yra palaikomi?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Galite įkelti vaizdus iki 16 MB vienam failui."
 
           }
-        }
-        {
-          "@type": "Question"
-
-          "name": "Ar BMP palaiko skaidrumą?"
-
-          "acceptedAnswer": {
-            "@type": "Answer"
-
-            "text": "Standartinis 24 bitų BMP neturi alfa kanalo. Naudokite PNG skaidrumui."
+        },
+  {
+          "@type": "Question",
+  "name": "Ar BMP palaiko skaidrumą?",
+  "acceptedAnswer": {
+            "@type": "Answer",
+  "text": "Standartinis 24 bitų BMP neturi alfa kanalo. Naudokite PNG skaidrumui."
 
           }
         }
       ]
-    }
-    {
-      "@type": "HowTo"
-
-      "@context": "https://schema.org"
-
-      "name": "Kaip konvertuoti PNG į BMP"
-
-      "step": [
+    },
+  {
+      "@type": "HowTo",
+  "@context": "https://schema.org",
+  "name": "Kaip konvertuoti PNG į BMP",
+  "step": [
         {
-          "@type": "HowToStep"
+          "@type": "HowToStep",
+  "text": "Paspauskite Įkelti PNG ir pasirinkite savo failą."
 
-          "text": "Paspauskite Įkelti PNG ir pasirinkite savo failą."
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Palaukite, kol apdorojimas bus baigtas."
+
+        },
+  {
+          "@type": "HowToStep",
+  "text": "Paspauskite Parsisiųsti BMP, kad išsaugotumėte vaizdą."
 
         }
-        {
-          "@type": "HowToStep"
-
-          "text": "Palaukite, kol apdorojimas bus baigtas."
-
-        }
-        {
-          "@type": "HowToStep"
-
-          "text": "Paspauskite Parsisiųsti BMP, kad išsaugotumėte vaizdą."
-
-        }
-      ]
-      "tool": [
+      ],
+  "tool": [
         "PNG į BMP konverteris"
 
-      ]
-      "totalTime": "PT10S"
+      ],
+  "totalTime": "PT10S"
 
     }
   ]
