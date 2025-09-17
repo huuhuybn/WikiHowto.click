@@ -74,6 +74,41 @@ router.get('/:lang/convert/:slug/', (req, res) => {
     return res.redirect(`/${lang}/${category}/convert-${slug}/`);
 });
 
+// Handle privacy and terms pages with language prefix
+router.get('/:lang/privacy', (req, res) => {
+    const {lang} = req.params;
+    
+    // Validate language
+    if (!langs.includes(lang)) {
+        console.log(`404: Invalid language ${lang} for privacy page`);
+        return res.redirect('/en/');
+    }
+    
+    res.render('privacy', {
+        title: 'Privacy Policy - MiConvert',
+        description: 'Privacy Policy for MiConvert. Learn how we protect your privacy and handle your data.',
+        currentPage: 'privacy',
+        lang: lang
+    });
+});
+
+router.get('/:lang/terms', (req, res) => {
+    const {lang} = req.params;
+    
+    // Validate language
+    if (!langs.includes(lang)) {
+        console.log(`404: Invalid language ${lang} for terms page`);
+        return res.redirect('/en/');
+    }
+    
+    res.render('terms', {
+        title: 'Terms of Service - MiConvert',
+        description: 'Terms of Service for MiConvert. Read our terms and conditions for using our service.',
+        currentPage: 'terms',
+        lang: lang
+    });
+});
+
 router.get('/:lang/:group/:slug/', (req, res) => {
     const {lang, group, slug} = req.params;
 

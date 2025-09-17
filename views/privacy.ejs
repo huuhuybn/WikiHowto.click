@@ -1,14 +1,14 @@
+<% var langSafe = typeof lang !== "undefined" ? lang : "en"; %>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<%= langSafe %>">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= title %></title>
-    <meta name="description" content="<%= description %>">
+    <%- include('head', { 
+        title: title, 
+        description: description,
+        lang: langSafe,
+        content: { title: title, metaDescription: description }
+    }) %>
     <meta name="robots" content="noindex, nofollow">
-    <meta name="google-adsense-account" content="ca-pub-6705616556499368">
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6705616556499368" crossorigin="anonymous"></script>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -76,6 +76,8 @@
     </style>
 </head>
 <body>
+    <%- include('header', { lang: langSafe }) %>
+    
     <div class="privacy-container">
         <h1>Privacy Policy</h1>
         <p><strong>Last updated:</strong> August 6, 2025</p>
@@ -185,5 +187,7 @@
 
         <p><strong>Effective Date:</strong> This Privacy Policy is effective as of August 6, 2025.</p>
     </div>
+    
+    <%- include('footer', { lang: langSafe }) %>
 </body>
 </html>
