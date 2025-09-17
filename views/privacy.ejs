@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <%- include('head', { 
-        title: title, 
-        description: description,
-        lang: 'en',
-        content: { title: title, metaDescription: description }
-    }) %>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <meta name="description" content="<%= description %>">
     <meta name="robots" content="noindex, nofollow">
+    <meta name="google-adsense-account" content="ca-pub-6705616556499368">
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6705616556499368" crossorigin="anonymous"></script>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7YBY7E07EB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7YBY7E07EB');
+      gtag('config', 'G-0J1N4SSYN1');
+    </script>
+    
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -75,8 +88,6 @@
     </style>
 </head>
 <body>
-    <%- include('header', { lang: 'en' }) %>
-    
     <div class="privacy-container">
         <h1>Privacy Policy</h1>
         <p><strong>Last updated:</strong> August 6, 2025</p>
@@ -185,8 +196,10 @@
         </div>
 
         <p><strong>Effective Date:</strong> This Privacy Policy is effective as of August 6, 2025.</p>
+        
+        <div style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; text-align: center; color: #666;">
+            <p>&copy; 2019 - 2025 <a href="/en/" style="color: #007bff;">miconvert.com</a> - All rights reserved.</p>
+        </div>
     </div>
-    
-    <%- include('footer', { lang: 'en' }) %>
 </body>
 </html>
