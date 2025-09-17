@@ -1,11 +1,10 @@
-<% var langSafe = typeof lang !== "undefined" ? lang : "en"; %>
 <!DOCTYPE html>
-<html lang="<%= langSafe %>">
+<html lang="en">
 <head>
     <%- include('head', { 
         title: title, 
         description: description,
-        lang: langSafe,
+        lang: 'en',
         content: { title: title, metaDescription: description }
     }) %>
     <meta name="robots" content="noindex, nofollow">
@@ -83,7 +82,7 @@
     </style>
 </head>
 <body>
-    <%- include('header', { lang: langSafe }) %>
+    <%- include('header', { lang: 'en' }) %>
     
     <div class="terms-container">
         <h1>Terms of Service</h1>
@@ -238,6 +237,6 @@
         <p><strong>Effective Date:</strong> These Terms of Service are effective as of August 6, 2025.</p>
     </div>
     
-    <%- include('footer', { lang: langSafe }) %>
+    <%- include('footer', { lang: 'en' }) %>
 </body>
 </html>
